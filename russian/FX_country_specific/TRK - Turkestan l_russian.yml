@@ -1,0 +1,117 @@
+﻿l_russian:
+ TRK_vanguardist: "Republic of Turkestan" #NT!
+ TRK_vanguardist_ADJ: "Turkestani" #NT!
+ TRK_vanguardist_DEF: "the Republic of Turkestan" #NT!
+ TRK_collectivist: "Republic of Turkestan" #NT!
+ TRK_collectivist_ADJ: "Turkestani" #NT!
+ TRK_collectivist_DEF: "the Republic of Turkestan" #NT!
+ TRK_libertarian_socialist: "Republic of Turkestan" #NT!
+ TRK_libertarian_socialist_ADJ: "Turkestani" #NT!
+ TRK_libertarian_socialist_DEF: "the Republic of Turkestan" #NT!
+ TRK_social_democrat: "Republic of Turkestan" #NT!
+ TRK_social_democrat_ADJ: "Turkestani" #NT!
+ TRK_social_democrat_DEF: "the Republic of Turkestan" #NT!
+ TRK_social_liberal: "Republic of Turkestan" #NT!
+ TRK_social_liberal_ADJ: "Turkestani" #NT!
+ TRK_social_liberal_DEF: "the Republic of Turkestan" #NT!
+ TRK_market_liberal: "Republic of Turkestan" #NT!
+ TRK_market_liberal_ADJ: "Turkestani" #NT!
+ TRK_market_liberal_DEF: "the Republic of Turkestan" #NT!
+ TRK_social_conservative: "Republic of Turkestan" #NT!
+ TRK_social_conservative_ADJ: "Turkestani" #NT!
+ TRK_social_conservative_DEF: "the Republic of Turkestan" #NT!
+ TRK_authoritarian_democrat: "Republic of Turkestan" #NT!
+ TRK_authoritarian_democrat_ADJ: "Turkestani" #NT!
+ TRK_authoritarian_democrat_DEF: "the Republic of Turkestan" #NT!
+ TRK_paternal_autocrat: "Republic of Turkestan" #NT!
+ TRK_paternal_autocrat_ADJ: "Turkestan" #NT!
+ TRK_paternal_autocrat_DEF: "the Republic of Turkestan" #NT!
+ TRK_national_populist: "Republic of Turkestan" #NT!
+ TRK_national_populist_ADJ: "Turkestan" #NT!
+ TRK_national_populist_DEF: "the Republic of Turkestan" #NT!
+ TRK_valkist: "Republic of Turkestan" #NT!
+ TRK_valkist_ADJ: "Turkestan" #NT!
+ TRK_valkist_DEF: "the Republic of Turkestan" #NT!
+  
+ #Bukhara 
+ BUK_vanguardist: "Bukhara" #NT!
+ BUK_vanguardist_ADJ: "Bukharan" #NT!
+ BUK_vanguardist_DEF: "the Republic of Bukhara" #NT!
+ BUK_collectivist: "Bukhara" #NT!
+ BUK_collectivist_ADJ: "Bukharan" #NT!
+ BUK_collectivist_DEF: "the Republic of Bukhara" #NT!
+ BUK_libertarian_socialist: "Bukhara" #NT!
+ BUK_libertarian_socialist_ADJ: "Bukharan" #NT!
+ BUK_libertarian_socialist_DEF: "the Republic of Bukhara" #NT!
+ BUK_social_democrat: "Bukhara" #NT!
+ BUK_social_democrat_ADJ: "Bukharan" #NT!
+ BUK_social_democrat_DEF: "the Emirate of Bukhara" #NT!
+ BUK_social_liberal: "Bukhara" #NT!
+ BUK_social_liberal_ADJ: "Bukharan" #NT!
+ BUK_social_liberal_DEF: "the Emirate of Bukhara" #NT!
+ BUK_market_liberal: "Bukhara" #NT!
+ BUK_market_liberal_ADJ: "Bukharan" #NT!
+ BUK_market_liberal_DEF: "the Emirate of Bukhara" #NT!
+ BUK_social_conservative: "Bukhara" #NT!
+ BUK_social_conservative_ADJ: "Bukharan" #NT!
+ BUK_social_conservative_DEF: "the Emirate of Bukhara" #NT!
+ BUK_authoritarian_democrat: "Bukhara" #NT!
+ BUK_authoritarian_democrat_ADJ: "Bukharan" #NT!
+ BUK_authoritarian_democrat_DEF: "the Emirate of Bukhara" #NT!
+ BUK_paternal_autocrat: "Bukhara" #NT!
+ BUK_paternal_autocrat_ADJ: "Bukharan" #NT!
+ BUK_paternal_autocrat_DEF: "the Emirate of Bukhara" #NT!
+ BUK_national_populist: "Bukhara" #NT!
+ BUK_national_populist_ADJ: "Bukharan" #NT!
+ BUK_national_populist_DEF: "the Emirate of Bukhara" #NT!
+ BUK_valkist: "Bukhara" #NT!
+ BUK_valkist_ADJ: "Bukharan" #NT!
+ BUK_valkist_DEF: "the Republic of Bukhara" #NT!
+  
+ #Transcaspia 
+ ### Country Names 
+  
+ ### Parties 
+  
+ TRK_Oraz_Sirdar: "Oraz Sirdar" #NT!
+  
+ KHI_Junaid_Khan: "Junaid Khan" #NT!
+  
+ BUK_Mohammed_Alim_Khan: "Mohammed Alim Khan" #NT!
+  
+ TRK_Madamin_Bek: "Madamin Bek" #NT!
+  
+ #Khiva 
+ KHI_vanguardist: "Khiva" #NT!
+ KHI_vanguardist_ADJ: "Khivan" #NT!
+ KHI_vanguardist_DEF: "the Khivan Republic" #NT!
+ KHI_collectivist: "Khiva" #NT!
+ KHI_collectivist_ADJ: "Khivan" #NT!
+ KHI_collectivist_DEF: "the Khivan Republic" #NT!
+ KHI_libertarian_socialist: "Khiva" #NT!
+ KHI_libertarian_socialist_ADJ: "Khivan" #NT!
+ KHI_libertarian_socialist_DEF: "the Khivan Republic" #NT!
+ KHI_social_democrat: "Khiva" #NT!
+ KHI_social_democrat_ADJ: "Khivan" #NT!
+ KHI_social_democrat_DEF: "the Emirate of Khiva" #NT!
+ KHI_social_liberal: "Khiva" #NT!
+ KHI_social_liberal_ADJ: "Khivan" #NT!
+ KHI_social_liberal_DEF: "the Emirate of Khiva" #NT!
+ KHI_market_liberal: "Khiva" #NT!
+ KHI_market_liberal_ADJ: "Khivan" #NT!
+ KHI_market_liberal_DEF: "the Emirate of Khiva" #NT!
+ KHI_social_conservative: "Khiva" #NT!
+ KHI_social_conservative_ADJ: "Khivan" #NT!
+ KHI_social_conservative_DEF: "the Emirate of Khiva" #NT!
+ KHI_authoritarian_democrat: "Khiva" #NT!
+ KHI_authoritarian_democrat_ADJ: "Khivan" #NT!
+ KHI_authoritarian_democrat_DEF: "the Emirate of Khiva" #NT!
+ KHI_paternal_autocrat: "Khiva" #NT!
+ KHI_paternal_autocrat_ADJ: "Khivan" #NT!
+ KHI_paternal_autocrat_DEF: "the Emirate of Khiva" #NT!
+ KHI_national_populist: "Khiva" #NT!
+ KHI_national_populist_ADJ: "Khivan" #NT!
+ KHI_national_populist_DEF: "the Emirate of Khiva" #NT!
+ KHI_valkist: "Khiva" #NT!
+ KHI_valkist_ADJ: "Khivan" #NT!
+ KHI_valkist_DEF: "the Khivan Republic" #NT!

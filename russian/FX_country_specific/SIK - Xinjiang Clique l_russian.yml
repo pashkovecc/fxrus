@@ -1,0 +1,32 @@
+﻿l_russian:
+  
+ ### Country Names 
+ SIK: "Xinjiang Clique" #NT!
+ SIK_ADJ: "Xinjiang" #NT!
+ SIK_DEF: "the Xinjiang Clique" #NT!
+  
+ SIK_KMT: "Territorial Administration of Xinjiang" #NT!
+ SIK_KMT_DEF: "the KMT's Territorial Administration of Xinjiang" #NT!
+ ### Parties 
+ SIK_vanguardist_party: "YQY" #NT!
+ SIK_vanguardist_party_long: "Yash Qeshqer Yighilishi\n§gYoung Kashgar Party§!" #NT!
+ SIK_collectivist_party: "YQY" #NT!
+ SIK_collectivist_party_long: "Yash Qeshqer Yighilishi\n§gYoung Kashgar Party§!" #NT!
+ SIK_libertarian_socialist_party: "KMT - Xinjiang Committee" #NT!
+ SIK_libertarian_socialist_party_long: "Kuomintang\n§gChinese Nationalist Party§!" #NT!
+ SIK_social_democrat_party: "Dao-yin of Aksu" #NT!
+ SIK_social_democrat_party_long: "Dao-yin of Aksu" #NT!
+ SIK_social_liberal_party: "Aqtaghlik" #NT!
+ SIK_social_liberal_party_long: "Aqtaghlik\n§gWhite Mountain Sect§!" #NT!
+ SIK_market_liberal_party: "Democratic League" #NT!
+ SIK_market_liberal_party_long: "Democratic League" #NT!
+ SIK_social_conservative_party: "Qarataghlik" #NT!
+ SIK_social_conservative_party_long: "Qarataghlik\n§gBlack Mountain Sect§!" #NT!
+ SIK_authoritarian_democrat_party: "Dao-yin of Hotan" #NT!
+ SIK_authoritarian_democrat_party_long: "Dao-yin of Hotan" #NT!
+ SIK_paternal_autocrat_party: "Zhongying's Clique" #NT!
+ SIK_paternal_autocrat_party_long: "36th New Division's Command Center" #NT!
+ SIK_national_populist_party: "Xinjiang Nationalists" #NT!
+ SIK_national_populist_party_long: "Xinjiang Nationalists" #NT!
+  
+ SIK_Ma_Zhongying: "Ma Zhongying" #NT!

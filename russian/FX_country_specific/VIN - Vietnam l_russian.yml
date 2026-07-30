@@ -1,0 +1,93 @@
+﻿l_russian:
+  
+ ### Country Names 
+ VIN_vanguardist: "Socialist Republic of Vietnam" #NT!
+ VIN_vanguardist_ADJ: "Vietnamese" #NT!
+ VIN_vanguardist_DEF: "the Socialist Republic of Vietnam" #NT!
+ VIN_collectivist: "Socialist Republic of Vietnam" #NT!
+ VIN_collectivist_ADJ: "Vietnamese" #NT!
+ VIN_collectivist_DEF: "the Socialist Republic of Vietnam" #NT!
+ VIN_libertarian_socialist: "The Socialist Republic of Vietnam" #NT!
+ VIN_libertarian_socialist_ADJ: "Vietnamese" #NT!
+ VIN_libertarian_socialist_DEF: "the Socialist Republic of Vietnam" #NT!
+ VIN_social_democrat: "Vietnam" #NT!
+ VIN_social_democrat_ADJ: "Vietnamese" #NT!
+ VIN_social_democrat_DEF: "the Republic of Vietnam" #NT!
+ VIN_social_liberal: "Vietnam" #NT!
+ VIN_social_liberal_ADJ: "Vietnamese" #NT!
+ VIN_social_liberal_DEF: "the Republic of Vietnam" #NT!
+ VIN_market_liberal: "Vietnam" #NT!
+ VIN_market_liberal_ADJ: "Vietnamese" #NT!
+ VIN_market_liberal_DEF: "the Republic of Vietnam" #NT!
+ VIN_social_conservative: "Vietnam" #NT!
+ VIN_social_conservative_ADJ: "Vietnamese" #NT!
+ VIN_social_conservative_DEF: "the Republic of Vietnam" #NT!
+ VIN_authoritarian_democrat: "Vietnam" #NT!
+ VIN_authoritarian_democrat_ADJ: "Vietnamese" #NT!
+ VIN_authoritarian_democrat_DEF: "the Vietnamese Imperial State" #NT!
+ VIN_paternal_autocrat: "Vietnam" #NT!
+ VIN_paternal_autocrat_ADJ: "Vietnamese" #NT!
+ VIN_paternal_autocrat_DEF: "the Vietnamese Imperial State" #NT!
+ VIN_national_populist: "Vietnam" #NT!
+ VIN_national_populist_ADJ: "Vietnamese" #NT!
+ VIN_national_populist_DEF: "the State of Dai Viet" #NT!
+ VIN_valkist: "Vietnam" #NT!
+ VIN_valkist_ADJ: "Vietnamese" #NT!
+ VIN_valkist_DEF: "the State of Dai Viet" #NT!
+  
+ ################ 
+ ### BOOKMARK ### 
+ ################ 
+ ################ 
+ ### POLITICS ### 
+ ################ 
+  
+ VIN_vanguardist_party: "Viet Minh" #NT!
+ VIN_vanguardist_party_long: "Viet Minh" #NT!
+ VIN_collectivist_party: "Viet Minh" #NT!
+ VIN_collectivist_party_long: "Viet Minh" #NT!
+ VIN_libertarian_socialist_party: "Viet Minh" #NT!
+ VIN_libertarian_socialist_party_long: "Viet Minh" #NT!
+ VIN_social_democrat_party: "Viet Minh" #NT!
+ VIN_social_democrat_party_long: "Viet Minh" #NT!
+ VIN_social_liberal_party: "Viet Minh" #NT!
+ VIN_social_liberal_party_long: "Viet Minh" #NT!
+ VIN_market_liberal_party: "Constitutionalists" #NT!
+ VIN_market_liberal_party_long: "Constitutionalist Party" #NT!
+ VIN_social_conservative_party: "Collaborationists" #NT!
+ VIN_social_conservative_party_long: "Collaborationists" #NT!
+ VIN_authoritarian_democrat_party: "Viet Minh" #NT!
+ VIN_authoritarian_democrat_party_long: "Viet Minh" #NT!
+ VIN_paternal_autocrat_party: "Viet Minh" #NT!
+ VIN_paternal_autocrat_party_long: "Viet Minh" #NT!
+ VIN_national_populist_party: "Viet Minh" #NT!
+ VIN_national_populist_party_long: "Viet Minh" #NT!
+ VIN_valkist_party: "Viet Minh" #NT!
+ VIN_valkist_party_long: "Viet Minh" #NT!
+  
+ ############# 
+ ### FOCUS ### 
+ ############# 
+  
+ ############# 
+ ### IDEAS ### 
+ ############# 
+ VIN_Pham_Van_Dong: "Pham Van Dong" #NT!
+ VIN_Ta_Thu_Thau: "Ta Thu Thau" #NT!
+ VIN_Nguyen_Xien: "Nguyen Xien" #NT!
+ VIN_Vu_Hong_Khanh: "Vu Hong Khanh" #NT!
+ VIN_Nguyen_Tuong_Long: "Nguyen Tuong Long" #NT!
+ VIN_Pham_Quynh: "Pham Quynh" #NT!
+ VIN_Ngo_Dinh_Diem: "Ngo Dinh Diem" #NT!
+ VIN_Bao_Dai: "Bao Dai" #NT!
+ VIN_Pham_Cong_Tac: "Pham Cong Tac" #NT!
+ VIN_Truong_Tu_Anh: "Truong Tu Anh" #NT!
+ VIN_Nguyen_Van_Hinh: "Nguyen Van Hinh" #NT!
+ VIN_Duong_Van_Minh: "Duong Van Minh" #NT!
+ VIN_Tran_Van_Don: "Tran Van Don" #NT!
+ VIN_Le_Van_Ty: "Le Van Ty" #NT!
+ VIN_Tran_Quang_Vinh: "Tran Quang Vinh" #NT!
+ VIN_Le_Quang_Vinh: "Le Quang Vinh" #NT!
+ VIN_Le_Van_Vien: "Le Van Vien" #NT!
+ VIN_Le_Quang_My: "Le Quang My" #NT!
+ VIN_Tran_Van_Chon: "Tran Van Chon" #NT!

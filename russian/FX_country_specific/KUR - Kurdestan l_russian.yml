@@ -1,0 +1,63 @@
+﻿l_russian:
+  
+ ### Country Names 
+ KUR_vanguardist: "Kurdistan" #NT!
+ KUR_vanguardist_ADJ: "Kurdish" #NT!
+ KUR_vanguardist_DEF: "the Socialist Republic of Kurdistan" #NT!
+ KUR_collectivist: "Kurdistan" #NT!
+ KUR_collectivist_ADJ: "Kurdish" #NT!
+ KUR_collectivist_DEF: "the Socialist Republic of Kurdistan" #NT!
+ KUR_libertarian_socialist: "Kurdistan" #NT!
+ KUR_libertarian_socialist_ADJ: "Kurdish" #NT!
+ KUR_libertarian_socialist_DEF: "the Socialist Republic of Kurdistan" #NT!
+ KUR_social_democrat: "Kurdistan" #NT!
+ KUR_social_democrat_ADJ: "Kurdish" #NT!
+ KUR_social_democrat_DEF: "the Kingdom of Kurdistan" #NT!
+ KUR_social_liberal: "Kurdistan" #NT!
+ KUR_social_liberal_ADJ: "Kurdish" #NT!
+ KUR_social_liberal_DEF: "the Kingdom of Kurdistan" #NT!
+ KUR_market_liberal: "Kurdistan" #NT!
+ KUR_market_liberal_ADJ: "Kurdish" #NT!
+ KUR_market_liberal_DEF: "the Kingdom of Kurdistan" #NT!
+ KUR_social_conservative: "Kurdistan" #NT!
+ KUR_social_conservative_ADJ: "Kurdish" #NT!
+ KUR_social_conservative_DEF: "the Kingdom of Kurdistan" #NT!
+ KUR_authoritarian_democrat: "Kurdistan" #NT!
+ KUR_authoritarian_democrat_ADJ: "Kurdish" #NT!
+ KUR_authoritarian_democrat_DEF: "the Kingdom of Kurdistan" #NT!
+ KUR_paternal_autocrat: "Kurdistan" #NT!
+ KUR_paternal_autocrat_ADJ: "Kurdish" #NT!
+ KUR_paternal_autocrat_DEF: "the Kingdom of Kurdistan" #NT!
+ KUR_national_populist: "Kurdistan" #NT!
+ KUR_national_populist_ADJ: "Kurdish" #NT!
+ KUR_national_populist_DEF: "the State of Kurdistan" #NT!
+ KUR_valkist: "Kurdistan" #NT!
+ KUR_valkist_ADJ: "Kurdish" #NT!
+ KUR_valkist_DEF: "the State of Kurdistan" #NT!
+  
+ ### Political Parties 
+ KUR_vanguardist_party: "PKK" #NT!
+ KUR_vanguardist_party_long: "Partiya Komunîst a Kurdistanê\n§gCommunist Party of Kurdistan§!" #NT!
+ KUR_collectivist_party: "PKK" #NT!
+ KUR_collectivist_party_long: "Partiya Komunîst a Kurdistanê\n§gCommunist Party of Kurdistan§!" #NT!
+ KUR_libertarian_socialist_party: "PKK" #NT!
+ KUR_libertarian_socialist_party_long: "Partiya Karkerên Kurdistanê\n§gCommunist Party of Kurdistan§!" #NT!
+ KUR_social_democrat_party: "YNK" #NT!
+ KUR_social_democrat_party_long: "Yekîtiya Nîştimanî ya Kurdistanê\n§gNational Union of Kurdistan§!" #NT!
+ KUR_social_liberal_party: "PSDK" #NT!
+ KUR_social_liberal_party_long: "Parti Sosyalisti Demokrati Kurdistanê\n§gSocialist Democratic Party of Kurdistan§!" #NT!
+ KUR_market_liberal_party: "PDK" #NT!
+ KUR_market_liberal_party_long: "Partiya Demokrat a Kurdistanê\n§gDemocratic Party of Kurdistan§!" #NT!
+ KUR_social_conservative_party: "PDK" #NT!
+ KUR_social_conservative_party_long: "Partiya Demokrat a Kurdistane\n§gDemocratic Party of Kurdistan§!" #NT!
+ KUR_authoritarian_democrat_party: "PDK" #NT!
+ KUR_authoritarian_democrat_party_long: "Partiya Demokrat a Kurdistanê\n§gDemocratic Party of Kurdistan§!" #NT!
+ KUR_paternal_autocrat_party: "Barzanî Klik" #NT!
+ KUR_paternal_autocrat_party_long: "Barzanî Klik\n§gBarzanî Clique§!" #NT!
+ KUR_national_populist_party: "Hamidiye" #NT!
+ KUR_national_populist_party_long: "Hamidiye\n§gFollowers of Hamid§!" #NT!
+ KUR_valkist_party: "Hamidiye" #NT!
+ KUR_valkist_party_long: "Hamidiye\n§gFollowers of Hamid§!" #NT!
+  
+ KUR_Jeladet_Bedir_Khan: "Jeladet Bedir Khan" #NT!
+ KUR_Mistefa_Barzani: "Mistefa Barzanî" #NT!

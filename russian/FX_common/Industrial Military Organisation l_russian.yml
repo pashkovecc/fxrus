@@ -1,0 +1,179 @@
+﻿l_russian:
+  
+  ################## 
+  ### FX MIO loc ### 
+  ################## 
+  
+  ################# 
+  ### FX Titles ### 
+  ################# 
+  
+ generic_FX_general_purpose_organization: "General Purpose Manufacturer" #NT!
+  
+  ######################################### 
+  ### FX Subtitles (initial trait name) ### 
+  ######################################### 
+  
+ generic_FX_general_purpose_initial_trait: "General Purpose Designer" #NT!
+  
+  ################## 
+  ### FX Headers ### 
+  ################## 
+  
+ FX_mio_header_artillery: "Artillery" #NT!
+ FX_mio_header_infantry_equipment: "Infantry Equipment" #NT!
+ FX_mio_header_motorised: "Motorised" #NT!
+ FX_mio_header_support_equipment: "                    Support Equipment" #NT!
+  
+  # Special traits 
+  
+  # Germany 
+ GER_mio_trait_hotrolled_armour: "Hotrolled Armour" #NT!
+ GER_mio_trait_multilayer_armour: "Multilayer Armour" #NT!
+ GER_mio_trait_maintenance_first_design: "Maintenance First Design" #NT!
+ GER_mio_trait_fuselage_based_weapons: "Вооружение на фюзеляже"
+ GER_mio_trait_early_jet_engine_adopter: "Раннее использование реактивных двигателей"
+ GER_mio_trait_psychological_warfare: "Психологическая война"
+  
+  # USA 
+ USA_mio_trait_buick: "Mechanised Equipment Manufacturer" #NT!
+ USA_mio_trait_willys: "Mechanised Equipment Manufacturer" #NT!
+ USA_mio_trait_marmon_herrington: "Mechanised Equipment Manufacturer" #NT!
+ USA_mio_trait_hudson: "Mechanised Equipment Manufacturer" #NT!
+ USA_mio_trait_mack: "Special Truck Manufacturer" #NT!
+  
+ USA_mio_trait_fisher: "Medium Tank Manufacturer" #NT!
+ USA_mio_trait_ford: "Heavy Armor Company" #NT!
+ USA_mio_trait_pacific_car_and_foundry: "Experimental Heavy Tank Manufacturer" #NT!
+ USA_mio_trait_gm: "Detroit Factories" #NT!
+  
+ USA_mio_trait_springfield_armory: "Springfield Armory" #NT!
+  
+ USA_mio_trait_lockeed_aircraft: "Heavy Fighter Manufacturer" #NT!
+ USA_mio_trait_boeing: "Heavy Bomber Manufacturer" #NT!
+  
+  
+ USA_mio_trait_mobile_tank_destroyers: "Mobile Tank Destroyers" #NT!
+ USA_mio_trait_dedicated_tank_factory: "Специализированный танковый завод"
+ USA_mio_trait_arsenal_of_democracy: "Арсенал демократии"
+ USA_mio_trait_strict_design_specifications: "Строгие конструкторские спецификации"
+ USA_mio_trait_expanded_production_facilities: "Расширенные производственные мощности"
+ USA_mio_trait_periscope_sights: "Перископы"
+ USA_mio_trait_mass_production_of_armor: "Mass Production of Armour" #NT!
+ USA_mio_trait_carrier_specialists: "Специалисты по авианосцам"
+ USA_mio_trait_north_carolina_shipbuilding_company: "North Carolina Shipbuilding Company"
+ USA_mio_trait_shipyard_expansion: "Расширение верфей"
+ USA_mio_trait_naval_station_norfolk: "Военно-морская база «Норфолк»"
+ USA_mio_trait_the_can_do_shipyard: "Нью-йоркская военно-морская верфь"
+ USA_mio_trait_drydock_expansion: "Расширение сухого дока"
+ USA_mio_trait_gould_centrifugal_pump: "Центробежный насос Gould"
+ USA_mio_trait_radar_experimentation: "Эксперименты с радарами"
+ USA_mio_trait_smooth_finish: "Полированное покрытие"
+ USA_mio_trait_jet_fighter_design: "Конструкция реактивного истребителя"
+ USA_mio_trait_medium_long_range_aircraft: "Средний самолет дальнего действия"
+ USA_mio_trait_mechanized_production: "Mechanised Production" #NT!
+ USA_mio_trait_light_long_range_aircraft: "Легкий самолет дальнего действия"
+ USA_mio_trait_outsourced_engines: "Двигатели сторонних поставщиков"
+ USA_mio_trait_light_aircraft_development: "Развитие легкой авиации"
+ USA_mio_trait_remote_controlled_turrets: "Дистанционно управляемые орудия"
+ USA_mio_trait_specialist_nose_configurations: "Специализированные конфигурации носа"
+ USA_mio_trait_superfortress: "Суперкрепость"
+  
+  # Finland 
+ FIN_mio_trait_recycled_materials: "Переработанные материалы"
+ FIN_mio_trait_yhteissisus_modern_premises: "Современные помещения Yhteissisu"
+ FIN_mio_trait_alternative_materials: "Альтернативные материалы"
+ FIN_mio_trait_salvaged_and_retooled: "Все в ход"
+ FIN_mio_trait_repurposed_equipment: "Переработанное снаряжение"
+ FIN_mio_trait_oy_tikkakoski: "Oy Tikkakoski"
+ FIN_mio_trait_andros_engines: "Двигатели Andros"
+ FIN_mio_trait_rapid_raiders: "Rapid Raiders" #NT!
+ FIN_mio_trait_deep_sea_raiders: "Deep Sea Raiders" #NT!
+ FIN_mio_trait_wartsila_engine_production: "Wärtsilä Engine Production" #NT!
+ FIN_mio_trait_modernisation_programme: "Modernisation Programme" #NT!
+  
+  # Ukraine 
+ UKR_mio_trait_increased_budgets: "Increased Budgets" #NT!
+  
+  # Sweden 
+ SWE_mio_trait_state_subsidies: "State Subsidies" #NT!
+ SWE_mio_trait_bofors_fly_swatter: "Bofors Fly Swatter" #NT!
+ SWE_mio_trait_bofors_anti_tank_gun: "Bofors Anti-Tank Gun" #NT!
+ SWE_mio_trait_advanced_armour_piercing_rounds: "Advanced Armour-Piercing Rounds" #NT!
+ SWE_mio_trait_forefront_of_aeroplane_development: "Forefront of Aeroplane Development" #NT!
+ SWE_mio_trait_high_capacity_dockyards: "High Capacity Dockyards" #NT!
+  
+  # Romania 
+ ROM_mio_trait_coastal_defense_production: "Coastal Defence Production" #NT!
+ ROM_mio_trait_mobile_tank_destroyers: "Mobile Tank Destroyers" #NT!
+  
+  # Poland 
+ POL_mio_trait_cruiser_tanks: "Крейсерские танки"
+ POL_mio_trait_multi_role_tank_designer: "Multi-Role Tank Designer" #NT!
+  
+  # Greece 
+ GRE_mio_trait_pyrkal_munitions: "Pyrkal Munitions" #NT!
+  
+  # Norway 
+ NOR_mio_initial_trait_mechanical_workshop: "Цех тяжелой техники"
+ NOR_mio_initial_trait_convoy_and_escort_fleet: "Merchant and Escort Ship Designer" #NT!
+ NOR_mio_trait_convoy_production: "Convoy Production" #NT!
+  
+  # Italy 
+ ITALY_mio_trait_air_race_pedigree: "Air Race Pedigree" #NT!
+ ITALY_mio_trait_special_aerotorpedoes_unit: "Special Aerotorpedoes Unit" #NT!
+ ITALY_mio_trait_remote_operated: "Remote-Operated" #NT!
+ ITALY_mio_trait_high_altitude_fighter_development: "High Altitude Fighter Development" #NT!
+  
+  # France 
+ FRA_mio_trait_automitrailleuses: "Автомитральезы"
+ FRA_mio_trait_b1_bis_suspension: "Подвеска B1-бис"
+ FRA_mio_trait_l_35: "Пушка L/35"
+  
+  # Britain 
+ ENG_mio_trait_flared_bow: "Нос с развалом бортов"
+ ENG_mio_trait_super_charges: "Усиленные заряды"
+ ENG_mio_trait_seaplane_origins: "Ранние гидросамолеты"
+ ENG_mio_trait_elliptical_wings: "Эллиптическое крыло"
+ ENG_mio_trait_supercharger: "Нагнетатель двигателя"
+ ENG_mio_trait_piat: "Противотанковый гранатомет PIAT"
+ ENG_mio_trait_sten_submachine_guns: "Пистолеты-пулеметы STEN"
+ ENG_mio_trait_expanded_turret_capacity: "Увеличенная вместимость башни"
+ ENG_mio_trait_expanded_production_facilities: "Расширенные производственные мощности"
+  
+  # Denmark 
+ DEN_mio_trait_burmeister_wain_engines: "Двигатели «Бурмайстер энд Вайн»"
+ DEN_mio_trait_coastal_defense_ship_modernization: "Coastal Defence Ship Modernisation" #NT!
+ DEN_mio_trait_weibel_development: "Доработать прототип пулемета «Вейбель»"
+ DEN_mio_trait_madsen_heavy_machine_gun: "Madsen Heavy Machine Guns" #NT!
+ DEN_mio_trait_fodfolkskanoner: "Пехотные орудия"
+ DEN_mio_trait_feltkanoner: "Полевые орудия"
+ DEN_mio_trait_madsen_20_mm: "Madsen 20 mm Canon" #NT!
+ DEN_mio_trait_repurpose_triangel_factories: "Перепрофилированные грузовики «Триангель»"
+  
+  # Belgium 
+ BELmodernisation_programme: "Modernisation Programme" #NT!
+  
+  #Czechia 
+  
+ CZE_mio_initial_trait_c_k_d: "Tank & Engineering Designer" #NT!
+  
+ CZE_mio_trait_efficient_design: "Efficient Design" #NT!
+ CZE_mio_trait_efficient_manufacture: "Efficient Manufacture" #NT!
+ CZE_mio_trait_thicker_armor: "Thicker Armor Plating" #NT!
+  
+ CZE_mio_trait_communication_lights: "Communication Lights" #NT!
+ CZE_mio_trait_internal_radios: "Internal Radios" #NT!
+  
+ CZE_mio_trait_vision_ports: "Widened Vision Ports" #NT!
+ CZE_mio_trait_reinforced_glass: "Reinforced Glass" #NT!
+  
+ CZE_mio_trait_battle_tested_design: "Battle-Tested Design" #NT!
+  
+  
+ CZE_mio_trait_engine_cooling: "Water-Cooled Engine" #NT!
+ CZE_mio_trait_engine_ventilation: "Improved Engine Ventilation" #NT!
+ CZE_mio_trait_dynalkohol: "Dynalkohol" #NT!
+ CZE_mio_trait_pneumatic_assist: "Pneumatic Mechanical Assist" #NT!
+ CZE_mio_trait_leaf_spring_suspension: "Leaf Spring Suspension" #NT!
+ CZE_mio_trait_rapid_iteration: "Rapid Design Iteration" #NT!

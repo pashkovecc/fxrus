@@ -1,0 +1,29 @@
+﻿l_russian:
+  
+  
+  
+ DISABLE_IDEA_TAKING_YES: "Cannot Assign Ministers & Laws: §RYes§!" #NT!
+  
+ # Opinion Modifiers 
+ GEN_returned_territory: "Has agreed to return territory" #NT!
+ ITA_outraged: "Outraged" #NT!
+ FX_returned_land: "Returned our land" #NT!
+ BHC_approves_government: "Approves Government" #NT!
+ AST_regional_cooperation: "Regional Cooperation" #NT!
+ GER_international_incident: "Olympics International Incident" #NT!
+ GER_veiled_insult: "Veiled Insult" #NT!
+ GER_well_hey_now: "Show of Goodwill" #NT!
+  
+ ### Sub-units 
+ modifier_experience_gain_trutzbundischestosstruppe_combat_factor: "Trutzbündische Stoßtruppe experience gain from combat" #NT!
+ modifier_experience_gain_trutzbundischestosstruppe_training_factor: "Trutzbündische Stoßtruppe experience gain from training" #NT!
+ modifier_army_sub_unit_category_trutzbundischestosstruppe_attack_factor: "Trutzbündische Stoßtruppe Attack" #NT!
+ modifier_army_sub_unit_category_trutzbundischestosstruppe_defence_factor: "Trutzbündische Stoßtruppe Defence" #NT!
+ modifier_army_sub_unit_category_trutzbundischestosstruppe_speed_factor: "Trutzbündische Stoßtruppe Speed" #NT!
+ modifier_army_sub_unit_category_trutzbundischestosstruppe_max_org_factor: "Trutzbündische Stoßtruppe Organisation" #NT!
+ modifier_army_sub_unit_category_trutzbundischestosstruppe_org_recovery_cap_factor: "Trutzbündische Stoßtruppe Organisation Recovery Cap" #NT!
+  
+ modifier_experience_gain_infantry_training_factor: "Infantry Training Experience Gain" #NT!
+ modifier_experience_gain_irregular_infantry_training_factor: "Irregular Training Experience Gain" #NT!
+ modifier_army_sub_unit_infantry_max_org_factor: "Infantry Organisation" #NT!
+ modifier_army_sub_unit_infantry_org_recovery_cap_factor: "Infantry Organisation Recovery Cap" #NT!

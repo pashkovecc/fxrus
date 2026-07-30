@@ -1,0 +1,60 @@
+﻿l_russian:
+  
+ ### Country Names 
+ FLA_vanguardist: "Commune of Flanders" #NT!
+ FLA_vanguardist_ADJ: "Flemish" #NT!
+ FLA_vanguardist_DEF: "the Commune of Flanders" #NT!
+ FLA_collectivist: "Workers State of Flanders" #NT!
+ FLA_collectivist_ADJ: "Flemish" #NT!
+ FLA_collectivist_DEF: "the Workers State of Flanders" #NT!
+ FLA_libertarian_socialist: "Flemish Socialist Republic" #NT!
+ FLA_libertarian_socialist_ADJ: "Flemish" #NT!
+ FLA_libertarian_socialist_DEF: "the Socialist Republic of Flanders" #NT!
+ FLA_social_democrat: "Flanders" #NT!
+ FLA_social_democrat_ADJ: "Flemish" #NT!
+ FLA_social_democrat_DEF: "the State of Flanders" #NT!
+ FLA_social_liberal: "Flanders" #NT!
+ FLA_social_liberal_ADJ: "Flemish" #NT!
+ FLA_social_liberal_DEF: "the State of Flanders" #NT!
+ FLA_market_liberal: "Flanders" #NT!
+ FLA_market_liberal_ADJ: "Flemish" #NT!
+ FLA_market_liberal_DEF: "the State of Flanders" #NT!
+ FLA_social_conservative: "Flanders" #NT!
+ FLA_social_conservative_ADJ: "Flemish" #NT!
+ FLA_social_conservative_DEF: "the State of Flanders" #NT!
+ FLA_authoritarian_democrat: "Flanders" #NT!
+ FLA_authoritarian_democrat_ADJ: "Flemish" #NT!
+ FLA_authoritarian_democrat_DEF: "the State of Flanders" #NT!
+ FLA_paternal_autocrat: "Flanders" #NT!
+ FLA_paternal_autocrat_ADJ: "Flemish" #NT!
+ FLA_paternal_autocrat_DEF: "the Flemish State" #NT!
+ FLA_national_populist: "Flanders" #NT!
+ FLA_national_populist_ADJ: "Flemish" #NT!
+ FLA_national_populist_DEF: "the Flemish State" #NT!
+ FLA_valkist: "Flanders" #NT!
+ FLA_valkist_ADJ: "Flemish" #NT!
+ FLA_valkist_DEF: "the County of Flanders" #NT!
+  
+ ### Parties 
+ FLA_vanguardist_party: "BWP/POB" #NT!
+ FLA_vanguardist_party_long: "Belgische Werkliedenpartij/Parti Ouvrier Belge\n§gBelgian Labor Party§!" #NT!
+ FLA_collectivist_party: "KPB/PCB" #NT!
+ FLA_collectivist_party_long: "Kommunistische Partij van België/Parti Communiste de Belgique\n§gCommunist Party of Belgium§!" #NT!
+ FLA_libertarian_socialist_party: "KPB/PCB" #NT!
+ FLA_libertarian_socialist_party_long: "Kommunistische Partij van België/Parti Communiste de Belgique\n§gCommunist Party of Belgium§!" #NT!
+ FLA_social_democrat_party: "BWP/POB" #NT!
+ FLA_social_democrat_party_long: "Belgische Werkliedenpartij/Parti Ouvrier Belge\n§gBelgian Labor Party§!" #NT!
+ FLA_social_liberal_party: "PP" #NT!
+ FLA_social_liberal_party_long: "Progressistische Partij/Parti Progressist\n§gProgressive Party§!" #NT!
+ FLA_market_liberal_party: "LP/PL" #NT!
+ FLA_market_liberal_party_long: "Liberale Partij/Parti Libéral\n§gLiberal Party§!" #NT!
+ FLA_social_conservative_party: "KP/PC" #NT!
+ FLA_social_conservative_party_long: "Katholieke Partij/Parti Catholique\n§gCatholic Party§!" #NT!
+ FLA_authoritarian_democrat_party: "MP/PM" #NT!
+ FLA_authoritarian_democrat_party_long: "Monarchistische Partij/Parti Monarchiste\n§gMonarchist Party§!" #NT!
+ FLA_paternal_autocrat_party: "Verdinaso" #NT!
+ FLA_paternal_autocrat_party_long: "Verdinaso" #NT!
+ FLA_national_populist_party: "VNV" #NT!
+ FLA_national_populist_party_long: "Vlaams Nationaal Verbond\n§gFlemish National Union§!" #NT!
+ FLA_valkist_party: "PB" #NT!
+ FLA_valkist_party_long: "Parti Bourguignon\n§gBurgundian Party§!" #NT!

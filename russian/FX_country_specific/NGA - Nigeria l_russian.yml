@@ -1,0 +1,46 @@
+﻿l_russian:
+  
+ ### Country Names 
+  
+ NGA_social_democrat: "Nigeria" #NT!
+ NGA_social_democrat_ADJ: "Nigerian" #NT!
+ NGA_social_democrat_DEF: "the Nigerian Republic" #NT!
+ NGA_social_liberal: "Nigeria" #NT!
+ NGA_social_liberal_ADJ: "Nigerian" #NT!
+ NGA_social_liberal_DEF: "Federative Democratic Republic of Nigeria" #NT!
+ NGA_market_liberal: "Nigeria" #NT!
+ NGA_market_liberal_ADJ: "Nigerian" #NT!
+ NGA_market_liberal_DEF: "the Nigerian Republic" #NT!
+ NGA_social_conservative: "Nigeria" #NT!
+ NGA_social_conservative_ADJ: "Nigerian" #NT!
+ NGA_social_conservative_DEF: "the Nigerian Republic" #NT!
+ NGA_authoritarian_democrat: "Nigeria" #NT!
+ NGA_authoritarian_democrat_ADJ: "Nigerian" #NT!
+ NGA_authoritarian_democrat_DEF: "the Nigerian State" #NT!
+ NGA_paternal_autocrat: "Nigeria" #NT!
+ NGA_paternal_autocrat_ADJ: "Nigerian" #NT!
+ NGA_paternal_autocrat_DEF: "the Nigerian State" #NT!
+ NGA_valkist: "Nigeria" #NT!
+ NGA_valkist_ADJ: "Nigerian" #NT!
+ NGA_valkist_DEF: "the Nigerian State" #NT!
+ NGA_national_populist: "Nigeria" #NT!
+ NGA_national_populist_ADJ: "Nigerian" #NT!
+ NGA_national_populist_DEF: "the Nigerian State" #NT!
+  
+ NGA_colonial_subject: "$OVERLORDADJ$ West Africa" #NT!
+ NGA_colonial_subject_ADJ: "$OVERLORDADJ$ West-African" #NT!
+ NGA_colonial_subject_DEF: "the $OVERLORDADJ$ West African Colony" #NT!
+  
+ ENG_NGA: "British West Africa" #NT!
+ ENG_NGA_DEF: "the British West African Settlements" #NT!
+ ENG_NGA_ADJ: "British-West-African" #NT!
+  
+ NGA: "Нигерия"
+ NGA_ADJ: "Нигерийск"
+ NGA_DEF: "the Nigerian State" #NT!
+  
+ NGA_social_conservative_party: "British Administration" #NT!
+  
+ NGA_colonial_party: "$OVERLORDADJ$ Administration" #NT!
+  
+ NGA_Douglas_James_Jardine: "Douglas James Jardine" #NT!

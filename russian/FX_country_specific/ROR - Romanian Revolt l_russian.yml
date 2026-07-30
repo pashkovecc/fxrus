@@ -1,0 +1,63 @@
+﻿l_russian:
+  
+ ### Country Names 
+ ROR_vanguardist: "Romanian People’s Republic" #NT!
+ ROR_vanguardist_ADJ: "Romanian" #NT!
+ ROR_vanguardist_DEF: "the People's Republic of Romania" #NT!
+ ROR_collectivist: "Romanian People’s Republic" #NT!
+ ROR_collectivist_ADJ: "Romanian" #NT!
+ ROR_collectivist_DEF: "the People's Republic of Romania" #NT!
+ ROR_libertarian_socialist: "Romanian People’s Republic" #NT!
+ ROR_libertarian_socialist_ADJ: "Romanian" #NT!
+ ROR_libertarian_socialist_DEF: "the People's Republic of Romania" #NT!
+ ROR_social_democrat: "Kingdom of Romania" #NT!
+ ROR_social_democrat_ADJ: "Romanian" #NT!
+ ROR_social_democrat_DEF: "the Kingdom of Romania" #NT!
+ ROR_social_liberal: "Kingdom of Romania" #NT!
+ ROR_social_liberal_ADJ: "Romanian" #NT!
+ ROR_social_liberal_DEF: "the Kingdom of Romania" #NT!
+ ROR_market_liberal: "Kingdom of Romania" #NT!
+ ROR_market_liberal_ADJ: "Romanian" #NT!
+ ROR_market_liberal_DEF: "the Kingdom of Romania" #NT!
+ ROR_social_conservative: "Kingdom of Romania" #NT!
+ ROR_social_conservative_ADJ: "Romanian" #NT!
+ ROR_social_conservative_DEF: "the Kingdom of Romania" #NT!
+ ROR_authoritarian_democrat: "Kingdom of Romania" #NT!
+ ROR_authoritarian_democrat_ADJ: "Romanian" #NT!
+ ROR_authoritarian_democrat_DEF: "the Kingdom of Romania" #NT!
+ ROR_paternal_autocrat: "Kingdom of Romania" #NT!
+ ROR_paternal_autocrat_ADJ: "Romanian" #NT!
+ ROR_paternal_autocrat_DEF: "the Kingdom of Romania" #NT!
+ ROR_national_populist: "Kingdom of Romania" #NT!
+ ROR_national_populist_ADJ: "Romanian" #NT!
+ ROR_national_populist_DEF: "the Kingdom of Romania" #NT!
+ ROR_valkist: "Legionary Romania" #NT!
+ ROR_valkist_ADJ: "Romanian" #NT!
+ ROR_valkist_DEF: "the National Legionary State of Romania" #NT!
+  
+ ### Parties 
+ ROR_vanguardist_party: "PCR" #NT!
+ ROR_vanguardist_party_long: "Partidul Comunist Român\n§gRomanian Communist Party§!" #NT!
+ ROR_collectivist_party: "FP" #NT!
+ ROR_collectivist_party_long: "Frontul Plugarilor\n§gPloughmen's Front§!" #NT!
+ ROR_libertarian_socialist_party: "PDaT" #NT!
+ ROR_libertarian_socialist_party_long: "Partidul Democratic al Tăranilor\n§gDemocratic Peasants' Party§!" #NT!
+ ROR_social_democrat_party: "PSDR" #NT!
+ ROR_social_democrat_party_long: "Partidul Social Democrat din România\n§gRomanian Social Democratic Party§!" #NT!
+ ROR_social_liberal_party: "PNL-M" #NT!
+ ROR_social_liberal_party_long: "Partidul National Liberal\n§gNational Liberal Party - Maniu Faction§!" #NT!
+ ROR_market_liberal_party: "PNL-B" #NT!
+ ROR_market_liberal_party_long: "Partidul National Liberal\n§gNational Liberal Party - Bratianu Faction§!" #NT!
+ ROR_social_conservative_party: "PNL-G" #NT!
+ ROR_social_conservative_party_long: "Partidul National Liberal\n§gNational Liberal Party - Georgist Faction§!" #NT!
+ ROR_authoritarian_democrat_party: "PNT" #NT!
+ ROR_authoritarian_democrat_party_long: "Partidul National Tărănesc\n§gNational Peasants Party§!" #NT!
+ ROR_paternal_autocrat_party: "FLR" #NT!
+ ROR_paternal_autocrat_party_long: "Frontul Loialist Român\n§gRomanian Loyalist Front§!" #NT!
+ ROR_national_populist_party: "PNC" #NT!
+ ROR_national_populist_party_long: "Partidul National Crestin\n§gNational Christian Party§!" #NT!
+ ROR_valkist_party: "GdF" #NT!
+ ROR_valkist_party_long: "Garda de Fier\n§gThe Iron Guard§!" #NT!
+  
+ ROR_Nicholas_I: "Nicholas I" #NT!
+ ROR_Corneliu_Zelea_Codreanu: "Corneliu Zelea Codreanu" #NT!

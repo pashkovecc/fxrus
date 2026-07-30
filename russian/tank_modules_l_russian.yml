@@ -1,0 +1,484 @@
+﻿l_russian:
+  
+  ### EQUIPMENT MODULE ROLE PERMISSIONS ### 
+ MODULE_ALLOW_ROLE: "§GДелает доступной§! роль $ROLE|H$"
+ MODULE_ALLOW_ROLE_BUT_OTHER_FORBID: "§GДелает доступной §! роль $ROLE|H$, но $FORBIDDING_MODULE|H$ §Rзапрещает§! ее"
+ MODULE_FORBID_ROLE: "§RЗапрещает§! роль $ROLE|H$"
+  
+ MODULE_ALLOWED_ROLE_IS_FORBIDDEN_BY_ANOTHER_MODULE: "Роль $ROLE|H$ £trigger_yes£ с помощью модуля $ALLOWING_MODULE|H$, но £trigger_no£ из-за модуля $FORBIDDING_MODULE|H$.\n\n"
+  
+  ### EQUIPMENT MODULE CATEGORIES ### 
+ EQ_MOD_CAT_tank_engine_type_TITLE: "Тип двигателя"
+ EQ_MOD_CAT_tank_armor_type_TITLE: "Armour Type" #NT!
+ EQ_MOD_CAT_tank_suspension_type_TITLE: "Гусеничный ход"
+ EQ_MOD_CAT_tank_light_turret_type_TITLE: "Легкое орудие"
+ EQ_MOD_CAT_tank_medium_turret_type_TITLE: "Среднее орудие"
+ EQ_MOD_CAT_tank_heavy_turret_type_TITLE: "Тяжелое орудие"
+ EQ_MOD_CAT_tank_super_heavy_turret_type_TITLE: "Сверхтяжелое орудие"
+ EQ_MOD_CAT_tank_modern_turret_type_TITLE: "Современное орудие"
+ EQ_MOD_CAT_tank_small_main_armament_TITLE: "Малое вооружение"
+ EQ_MOD_CAT_tank_medium_main_armament_TITLE: "Среднее вооружение"
+ EQ_MOD_CAT_tank_heavy_main_armament_TITLE: "Тяжелое вооружение"
+ EQ_MOD_CAT_tank_flamethrower_TITLE: "Огнеметы"
+ EQ_MOD_CAT_tank_super_heavy_main_armament_TITLE: "Сверхтяжелое вооружение"
+ EQ_MOD_CAT_tank_special_module_TITLE: "Особые модули"
+ EQ_MOD_CAT_tank_radio_module_TITLE: "Радио"
+ EQ_MOD_CAT_tank_secondary_turret_TITLE: "Вспомогательное орудие"
+ EQ_MOD_CAT_tank_non_tracked_suspension_type_TITLE: "Колесный ход"
+  
+  ### EQUIPMENT MODULE SLOTS ### 
+ EQ_MOD_SLOT_main_armament_slot_TITLE: "Главное вооружение"
+ EQ_MOD_SLOT_turret_type_slot_TITLE: "Орудие"
+ EQ_MOD_SLOT_suspension_type_slot_TITLE: "Подвеска"
+ EQ_MOD_SLOT_armor_type_slot_TITLE: "Armour Type" #NT!
+ EQ_MOD_SLOT_engine_type_slot_TITLE: "Тип двигателя"
+ EQ_MOD_SLOT_special_type_slot_1_TITLE: "Особые возможности"
+ EQ_MOD_SLOT_special_type_slot_2_TITLE: "Особые возможности"
+ EQ_MOD_SLOT_special_type_slot_3_TITLE: "Особые возможности"
+ EQ_MOD_SLOT_special_type_slot_4_TITLE: "Особые возможности"
+  
+  ### EQUIPMENT MODULES ### 
+  
+ tank_gasoline_engine: "Бензиновый двигатель"
+ tank_gasoline_engine_desc: "Двигатель, работающий на бензине, будет быстрее при равном объеме, но сам бензин при этом сильнее подвержен возгоранию."
+ tank_diesel_engine: "Дизельный двигатель"
+ tank_diesel_engine_desc: "Дизельный двигатель надежнее бензинового, но при одинаковом объеме с ним техника развивает меньшую скорость."
+ tank_petrol_electric_engine: "Бензиново-электрический двигатель"
+ tank_petrol_electric_engine_desc: "Комбинация бензинового двигателя и электродвигателя, получающего от него энергию. Такой мотор сложен, дорог и ненадежен, но превосходит любые другие по производительности в тактических маневрах."
+ tank_gas_turbine_engine: "Газовая турбина"
+ tank_gas_turbine_engine_desc: "An turbine developed from jet engines. High fuel consumption, but the highest speed of any engine at a given Engine Size." #NT!
+ tank_riveted_armor: "Riveted Armour" #NT!
+ tank_riveted_armor_desc: "Armour Plates bolted to the frame and held together by rivets driven into the edges. A very proven technology that is fairly cheap, but the rivetted edges provide weakpoints in the armour and might hurt the crew if the rivets are hit." #NT!
+ tank_kugelpanzer_engine: "Two-Stroke Gasoline Engine" #NT!
+ tank_kugelpanzer_engine_desc: "A tiny two-stroke gasoline engine, typically used for light utility vehicles and farm equipment. This one has been adapted for use on a very small armored vehicle." #NT!
+ tank_cast_armor: "Cast Armour" #NT!
+ tank_cast_armor_desc: "The entire Chassis, including armour, is cast as a single unit. An expensive and time-consuming process that allows for much thicker armour with fewer weakpoints." #NT!
+ tank_welded_armor: "Welded Armour" #NT!
+ tank_welded_armor_desc: "Armour plates are welded to the chassis. A faster process than casting, while still providing good protection." #NT!
+ NOR_tank_rikstanken_armor: "Makeshift Armour" #NT!
+ NOR_tank_rikstanken_armor_desc: "Made out of sheets of iron instead of steel to save money. Better than no armour... Probably." #NT!
+ tank_torsion_bar_suspension: "Торсионная подвеска"
+ tank_torsion_bar_suspension_desc: "Относительно надежная система подвески из металлических балок, прикрепленных к шасси боевой машины. Сглаживает неровности лучше, чем подвески других типов."
+ tank_christie_suspension: "Подвеска Кристи"
+ tank_christie_suspension_desc: "Developed by an American inventor, this supension allows for exceptionally high speeds." #NT!
+ tank_bogie_suspension: "Балансирная подвеска"
+ tank_bogie_suspension_desc: "Простой и относительно дешевый тип подвески, в котором катки закреплены отдельно, что облегчает их замену при повреждении."
+ tank_interleaved_suspension: "Шахматное расположение катков"
+ tank_interleaved_suspension_desc: "Размещая катки в шахматном порядке, можно поставить больше катков при той же длине кузова, улучшив тем самым мобильность и обеспечив дополнительную защиту с боков."
+ tank_kugelpanzer_suspension: "Enveloping Monowheel Drive" #NT!
+ tank_kugelpanzer_suspension_desc: "A large monowheel envelops the chassis of the vehicle. Incredibly unstable and hard to steer, but makes for a very fast and light vehicle." #NT!
+ tank_light_one_man_tank_turret: "Одноместное орудие"
+ tank_light_one_man_tank_turret_desc: "Маленькая башня, еле вмещающая одного члена экипажа, в задачи которого входят наведение и заряжание главного орудия, а также обнаружение целей и угроз."
+ tank_light_two_man_tank_turret: "Двухместное орудие"
+ tank_light_two_man_tank_turret_desc: "A turret that allows for two crew members to share the work of operating the armament and observing the situation. It still does not allow for an effective division of labour amongst the crew." #NT!
+ tank_light_three_man_tank_turret: "Трехместное орудие"
+ tank_light_three_man_tank_turret_desc: "Башня, достаточно большая, чтобы вместить трех членов экипажа, которые разделят между собой задачи по заряжанию и наведению главного орудия, а также наблюдению за боевой обстановкой."
+ tank_light_fixed_superstructure_turret: "Легкая фиксированная надстройка"
+ tank_light_fixed_superstructure_turret_desc: "Фиксированная надстройка сильно ограничивает угол поворота главного орудия, но позволяет установить орудие более крупного калибра на относительно небольшую боевую машину, что делает эту машину идеально подходящей для засад."
+ tank_medium_one_man_tank_turret: "Одноместное орудие"
+ tank_medium_one_man_tank_turret_desc: "Маленькая башня, еле вмещающая одного члена экипажа, в задачи которого входят наведение и заряжание главного орудия, а также обнаружение целей и угроз."
+ tank_medium_two_man_tank_turret: "Двухместное орудие"
+ tank_medium_two_man_tank_turret_desc: "A turret that allows for two crew members to share the work of operating the armament and observing the situation. It still does not allow for an effective division of labour amongst the crew." #NT!
+ tank_medium_three_man_tank_turret: "Трехместное орудие"
+ tank_medium_three_man_tank_turret_desc: "Башня, достаточно большая, чтобы вместить трех членов экипажа, которые разделят между собой задачи по заряжанию и наведению главного орудия, а также наблюдению за боевой обстановкой."
+ tank_medium_fixed_superstructure_turret: "Средняя фиксированная надстройка"
+ tank_medium_fixed_superstructure_turret_desc: "Фиксированная надстройка сильно ограничивает угол поворота главного орудия, но позволяет установить орудие более крупного калибра на относительно небольшую боевую машину, что делает эту машину идеально подходящей для засад."
+ tank_heavy_two_man_tank_turret: "Двухместное орудие"
+ tank_heavy_two_man_tank_turret_desc: "A turret that allows for two crew members to share the work of operating the armament and observing the situation. It still does not allow for an effective division of labour amongst the crew." #NT!
+ tank_heavy_three_man_tank_turret: "Трехместное орудие"
+ tank_heavy_three_man_tank_turret_desc: "Башня, достаточно большая, чтобы вместить трех членов экипажа, которые разделят между собой задачи по заряжанию и наведению главного орудия, а также наблюдению за боевой обстановкой."
+ tank_heavy_fixed_superstructure_turret: "Тяжелая фиксированная надстройка"
+ tank_heavy_fixed_superstructure_turret_desc: "Фиксированная надстройка сильно ограничивает угол поворота главного орудия, но позволяет установить орудие более крупного калибра на относительно небольшую боевую машину, что делает эту машину идеально подходящей для засад."
+ tank_super_heavy_four_man_tank_turret: "Четырехместное орудие"
+ tank_super_heavy_four_man_tank_turret_desc: "Огромная башня с дополнительным местом для второго заряжающего, обслуживающего главное орудие."
+ tank_super_heavy_three_man_tank_turret: "Трехместное орудие"
+ tank_super_heavy_three_man_tank_turret_desc: "Башня, достаточно большая, чтобы вместить трех членов экипажа, которые разделят между собой задачи по заряжанию и наведению главного орудия, а также наблюдению за боевой обстановкой."
+ tank_modern_tank_turret: "Современное орудие"
+ tank_modern_tank_turret_desc: "Удачно спроектированная башня позволяет трем членам экипажа эффективно управляться с главным орудием и следить за боевой обстановкой."
+ tank_gunshield_turret: "Gunshield Turret" #NT!
+ tank_gunshield_turret_desc: "A type of turret lacking all but the most basic protection from small arms. While poor at protecting the crew, it enables exceptionally large guns to be fitted into the chassis; and it is rather open to boot!" #NT!
+ tank_double_barrelled_at_guns: "Double-Barrelled Anti-Tank Guns" #NT!
+ tank_double_barrelled_at_guns_desc: "A pair of anti-tank guns specially designed to pierce through armour. While not very reliable nor practical, it would sure hurt to be a tank on the other side of these guns." #NT!
+ tank_heavy_machine_gun: "Тяжелый пулемет"
+ tank_heavy_machine_gun_desc: "A machine gun provides decent anti-infantry capability for a low cost. Even with special armour-piercing ammunition, its anti-armour performance leaves a lot to be desired." #NT!
+ flamethrower: "Огнемет"
+ flamethrower_desc: "A device to project a stream of burning liquid. While very useful in urban combat and against fortifications, it offers no anti-armour capability and has to be used by a specially-trained crew in a separate unit to be effective." #NT!
+ advanced_flamethrower: "Улучшенный огнемет"
+ advanced_flamethrower_desc: "Усовершенствованные огнеметные системы, которые идеально подходят для зачистки укрепленных позиций и нанесения сокрушительного урона в ближнем бою."
+ tank_auto_cannon: "Автоматическое орудие"
+ tank_auto_cannon_desc: "Adapted from a fast-firing anti-air gun, this automatic cannon can lay down a hail of fire that is devastating to soft targets. The small calibre does limit its anti-armour performance." #NT!
+ tank_auto_cannon_2: "Улучшенное автоматическое орудие"
+ tank_auto_cannon_2_desc: "Adapted from a fast-firing anti-air gun, this automatic cannon can lay down a hail of fire that is devastating to soft targets. The small calibre does limit its anti-armour performance." #NT!
+ tank_anti_air_cannon: "Базовое зенитное орудие"
+ tank_anti_air_cannon_desc: "Скорострельное автоматическое орудие для борьбы с самолетами. Обладает ограниченной возможностью применения к наземным целям для поддержки огнем."
+ tank_anti_air_cannon_2: "Улучшенное зенитное орудие"
+ tank_anti_air_cannon_2_desc: "Скорострельное автоматическое орудие для борьбы с самолетами. Обладает ограниченной возможностью применения к наземным целям для поддержки огнем."
+ tank_anti_air_cannon_3: "Модернизированное зенитное орудие"
+ tank_anti_air_cannon_3_desc: "Скорострельное автоматическое орудие для борьбы с самолетами. Обладает ограниченной возможностью применения к наземным целям для поддержки огнем."
+ tank_medium_howitzer: "Средняя гаубица"
+ tank_medium_howitzer_desc: "A medium field howitzer adapted to be mounted in a vehicle. Its primary purpose is indirect fire support against soft targets, but it can be fired directly at a target if necessary. Carrying only a small amount of armour-piercing ammunition, it is ill-suited for anti-tank work." #NT!
+ tank_medium_howitzer_2: "Улучшенная средняя гаубица"
+ tank_medium_howitzer_2_desc: "A medium field howitzer adapted to be mounted in a vehicle. Its primary purpose is indirect fire support against soft targets, but it can be fired directly at a target if necessary. Carrying only a small amount of armour-piercing ammunition, it is ill-suited for anti-tank work." #NT!
+ tank_heavy_howitzer: "Тяжелая гаубица"
+ tank_heavy_howitzer_desc: "A heavy field howitzer adapted to be mounted in a vehicle. Its primary purpose is indirect fire support against soft targets, but it can be fired directly at a target if necessary. Carrying only a small amount of armour-piercing ammunition, it is ill-suited for anti-tank work." #NT!
+ tank_small_cannon: "Малая пушка"
+ tank_small_cannon_desc: "A small and cheap cannon, able to fire both anti-infantry and anti-armour rounds. Its small calibre limits its usefulness." #NT!
+ tank_small_cannon_2: "Улучшенная малая пушка"
+ tank_small_cannon_2_desc: "A small and cheap cannon, able to fire both anti-infantry and anti-armour rounds. Its small calibre limits its usefulness." #NT!
+ tank_medium_cannon: "Средняя пушка"
+ tank_medium_cannon_desc: "A general-purpose weapon well suited to a wide variety of tasks. It excells at neither anti-infantry nor anti-tank work, but it provides a vehicle with a lot of flexibility." #NT!
+ tank_medium_cannon_2: "Улучшенная средняя пушка"
+ tank_medium_cannon_2_desc: "A general-purpose weapon well suited to a wide variety of tasks. It excells at neither anti-infantry nor anti-tank work, but it provides a vehicle with a lot of flexibility." #NT!
+ tank_high_velocity_cannon: "Базовая скорострельная пушка"
+ tank_high_velocity_cannon_desc: "A cannon specifically designed to achieve a high muzzle velocity. Using specialised ammunition, it has superb anti-armour characteristics, but its performance against soft targets suffers." #NT!
+ tank_high_velocity_cannon_2: "Улучшенная скорострельная пушка"
+ tank_high_velocity_cannon_2_desc: "A cannon specifically designed to achieve a high muzzle velocity. Using specialised ammunition, it has superb anti-armour characteristics, but its performance against soft targets suffers." #NT!
+ tank_high_velocity_cannon_3: "Модернизированная скорострельная пушка"
+ tank_high_velocity_cannon_3_desc: "A cannon specifically designed to achieve a high muzzle velocity. Using specialised ammunition, it has superb anti-armour characteristics, but its performance against soft targets suffers." #NT!
+ tank_heavy_cannon: "Базовая тяжелая пушка"
+ tank_heavy_cannon_desc: "A weapon that can fire a large shell. With exceptional armour penetration and decent performance against soft targets, its biggest drawbacks are the sheer size and cost, which make it too unwieldly to be mounted in most vehicles not specifically designed to carry it." #NT!
+ tank_heavy_cannon_2: "Улучшенная тяжелая пушка"
+ tank_heavy_cannon_2_desc: "A weapon that can fire a large shell. With exceptional armour penetration and decent performance against soft targets, its biggest drawbacks are the sheer size and cost, which make it too unwieldly to be mounted in most vehicles not specifically designed to carry it." #NT!
+ tank_heavy_cannon_3: "Усовершенствованное тяжелое орудие"
+ tank_heavy_cannon_3_desc: "A weapon that can fire a large shell. With exceptional armour penetration and decent performance against soft targets, its biggest drawbacks are the sheer size and cost, which make it too unwieldly to be mounted in most vehicles not specifically designed to carry it." #NT!
+ tank_super_heavy_cannon: "Сверхтяжелая пушка"
+ tank_super_heavy_cannon_desc: "Абсурдно большое орудие с несравненной эффективностью. Способно уничтожить почти все, а что не способно, то все равно не будет стрелять по танку."
+ tank_close_support_gun: "Орудие непосредственной поддержки"
+ tank_close_support_gun_desc: "Небольшое орудие, спроектированное для стрельбы фугасными снарядами по полевым укреплениям противника и поддержки атакующей пехоты. Способно атаковать бронетехнику, но короткий ствол и ограниченный боезапас делают его непригодным для борьбы с мощными танками."
+ tank_radio_1: "Базовая радиостанция"
+ tank_radio_1_desc: "A basic two-way radio allows tanks to coordinate their tactical manoeuvres on a small scale." #NT!
+ tank_radio_2: "Улучшенная радиостанция"
+ tank_radio_2_desc: "An improved radio allows commanders effective control over larger formations of tanks, permitting large-scale operational manoeuvres." #NT!
+ tank_radio_3: "Модернизированная радиостанция"
+ tank_radio_3_desc: "Эта радиостанция отличается усиленным передатчиком и улучшенным приемом; она позволяет держать связь на расстоянии в десятки километров, несмотря на вражеские глушилки."
+ amphibious_drive: "Устройство для плавания"
+ amphibious_drive_desc: "Набор устройств для плавания и небольшой винт позволяют этому танку двигаться по воде, высаживаясь с корабля на берег или пересекая реку."
+ secondary_turret_hmg: "Тяжелый пулемет"
+ secondary_turret_hmg_desc: "Тяжелый пулемет — вспомогательное орудие боевой машины. Размещение башни ограничивает сектор обстрела, снижая эффективность, но зато позволяет танку атаковать больше целей, что особенно полезно при наступлении."
+ secondary_turret_small_cannon: "Малая пушка"
+ secondary_turret_small_cannon_desc: "Малая пушка — вспомогательное орудие боевой машины. Размещение башни ограничивает сектор обстрела, снижая эффективность, но зато позволяет танку атаковать больше целей, что особенно полезно при наступлении."
+ secondary_turret_close_support_gun: "Орудие непосредственной поддержки"
+ secondary_turret_close_support_gun_desc: "Орудие поддержки — вспомогательное орудие боевой машины. Размещение башни ограничивает сектор обстрела, снижая эффективность, но зато позволяет танку атаковать больше целей, что особенно полезно при наступлении."
+ sloped_armor: "Sloped Armour" #NT!
+ sloped_armor_desc: "Armour placed at an angle to an incoming shell has a much greater effective thickness than the same amount of armour placed vertically. It also increases the chance that the shell will simply bounce off harmlessly. However, it requires the entire tank to be designed around it, making the vehicle more difficult to assemble." #NT!
+ stabilizer: "Стабилизатор"
+ stabilizer_desc: "Механическое устройство, предназначенное для сохранения наводки орудия при движении танка. Хоть оно не настолько совершенно, чтобы обеспечивать точную стрельбу на ходу, стабилизатор позволяет стрелку вести прицельную стрельбу при коротких остановках без необходимости наводиться на цель заново."
+ smoke_launchers: "Дымовые установки"
+ smoke_launchers_desc: "Батарея пиротехнических устройств, которые можно включать изнутри, чтобы создавать снаружи танка густую дымовую завесу. Очень полезна в обороне или при попадании в засаду."
+ extra_ammo_storage: "Дополнительное хранилище боеприпасов"
+ extra_ammo_storage_desc: "Additional racks of ready ammunition allow the tank to stay in the fight much longer without resupply. However, if the armour is penetrated, the results are likely to be catastrophic. This is particularly problematic when attacking." #NT!
+ wet_ammo_storage: "Влажное хранилище боеприпасов"
+ wet_ammo_storage_desc: "Кожухи с водой, укрывающие стойки с боеприпасами, значительно уменьшают риск подрыва боезапаса при попадании в танк. Экипаж оценит такую заботу."
+ armor_tech_1_tt: "Enables Armour Upgrade values of 5 and above." #NT!
+ armor_tech_2_tt: "Enables Armour Upgrade values of 10 and above." #NT!
+ armor_tech_3_tt: "Enables Armour Upgrade values of 15 and above." #NT!
+ armor_tech_4_tt: "Enables Armour Upgrade values of 18 and above." #NT!
+ engine_tech_1_tt: "Открывает значения в 5 и выше для улучшения двигателя."
+ engine_tech_2_tt: "Открывает значения в 10 и выше для улучшения двигателя."
+ engine_tech_3_tt: "Открывает значения в 15 и выше для улучшения двигателя."
+ engine_tech_4_tt: "Открывает значения в 18 и выше для улучшения двигателя."
+ light_tank_chassis: "Легкий танк"
+ medium_tank_chassis: "Средний танк"
+ heavy_tank_chassis: "Тяжелый танк"
+ light_tank_chassis_0: "Inter-War Light Tank Chassis" #NT!
+ light_tank_chassis_desc: "A small and compact chassis, ideal for a cheap and light vehicle for duties such as reconnaissance and fire support. Its limited load capacity makes it unsuited for carrying heavy armour or large guns." #NT!
+ light_tank_chassis_1: "Basic Light Tank Chassis" #NT!
+ basic_light_tank_chassis: "Basic Light Tank Chassis" #NT!
+ basic_light_tank_chassis_short: "Легкая модель 1934 г."
+ basic_light_tank_chassis_desc: "Из-за технологического развития проекты послевоенных лет фактически устарели. Современная война требует новых проектов боевых машин, где используются последние достижения в металлургии и оформлении."
+ light_tank_chassis_2: "Improved Light Tank Chassis" #NT!
+ improved_light_tank_chassis: "Improved Light Tank Chassis" #NT!
+ improved_light_tank_chassis_short: "Легкая модель 1936 г."
+ improved_light_tank_chassis_desc: "Это шасси — следующий цикл развития, основанный на предыдущих моделях легких танков. Отличается повышенной надежностью и ремонтопригодностью."
+ light_tank_chassis_3: "Advanced Light Tank Chassis" #NT!
+ advanced_light_tank_chassis: "Advanced Light Tank Chassis" #NT!
+ advanced_light_tank_chassis_short: "Легкая модель 1941 г."
+ advanced_light_tank_chassis_desc: "Центральную роль в сражениях все чаще играют средние танки, легким же танкам в основном отводится роль поддержки. Нам нужно новое шасси, которое будет учитывать эти роли."
+ light_tank_amphibious_chassis_0: "Inter-War Light Tank Chassis (Amphibious)" #NT!
+ light_tank_amphibious_chassis_1: "Basic Light Tank Chassis (Amphibious)" #NT!
+ light_tank_amphibious_chassis_2: "Improved Light Tank Chassis (Amphibious)" #NT!
+ light_tank_amphibious_chassis_3: "Advanced Light Tank Chassis (Amphibious)" #NT!
+ light_tank_amphibious_equipment_0: "Межвоенный лёгкий плавающий танк"
+ light_tank_artillery_chassis_0: "Межвоенная легкая САУ"
+ light_tank_artillery_chassis: "Легкая САУ"
+ light_tank_artillery_chassis_desc: "Небольшая и компактная боевая машина. Основная роль — огневая поддержка наступающей пехоты."
+ light_tank_artillery_chassis_1: "Базовая легкая САУ"
+ light_tank_artillery_chassis_2: "Улучшенная легкая САУ"
+ light_tank_artillery_chassis_3: "Модернизированная легкая САУ"
+ light_tank_destroyer_chassis_0: "Межвоенная легкая ПТ-установка"
+ light_tank_destroyer_chassis: "Легкая ПТ-установка"
+ light_tank_destroyer_chassis_desc: "A small and compact vehicle, carrying a powerful gun to destroy enemy armour." #NT!
+ light_tank_destroyer_chassis_1: "Базовая легкая ПТ-установка"
+ light_tank_destroyer_chassis_2: "Улучшенная легкая ПТ-установка"
+ light_tank_destroyer_chassis_3: "Модернизированная легкая ПТ-установка"
+ light_tank_aa_chassis_0: "Межвоенная легкая ЗСУ"
+ light_tank_aa_chassis: "Легкая ЗСУ"
+ light_tank_aa_chassis_desc: "Небольшая и компактная боевая машина с зенитным орудием для обороны от вражеской авиации."
+ light_tank_aa_chassis_1: "Базовая легкая ЗСУ"
+ light_tank_aa_chassis_2: "Улучшенная легкая ЗСУ"
+ light_tank_aa_chassis_3: "Модернизированная легкая ЗСУ"
+ medium_tank_chassis_1: "Basic Medium Tank Chassis" #NT!
+ medium_tank_chassis_0: "Inter-War Medium Tank Chassis" #NT!
+ medium_tank_chassis_2: "Improved Medium Tank Chassis" #NT!
+ medium_tank_chassis_3: "Advanced Medium Tank Chassis" #NT!
+ medium_tank_amphibious_chassis_1: "Basic Medium Tank Chassis (Amphibious)" #NT!
+ medium_tank_amphibious_chassis_0: "Inter-War Medium Tank Chassis (Amphibious)" #NT!
+ medium_tank_amphibious_chassis_2: "Improved Medium Tank Chassis (Amphibious)" #NT!
+ medium_tank_amphibious_chassis_3: "Advanced Medium Tank Chassis (Amphibious)" #NT!
+ medium_tank_amphibious_equipment_0: "Межвоенный средний плавающий танк"
+ basic_medium_tank_chassis: "Basic Medium Tank Chassis" #NT!
+ basic_medium_tank_chassis_short: "Средняя модель 1938 г."
+ basic_medium_tank_chassis_desc: "While light tanks have formed the backbone of mechanised formations in past years, it is becoming clear that their growth potential is nearly exhausted. In the future, we will need a bigger vehicle, which still retains a high level of mobility." #NT!
+ improved_medium_tank_chassis: "Improved Medium Tank Chassis" #NT!
+ improved_medium_tank_chassis_short: "Средняя модель 1940 г."
+ improved_medium_tank_chassis_desc: "Исходя из опыта эксплуатации предыдущих поколений средних танков, ясно, что сейчас будет актуальна новая модель с повышенной вместимостью."
+ advanced_medium_tank_chassis: "Advanced Medium Tank Chassis" #NT!
+ advanced_medium_tank_chassis_short: "Средняя модель 1943 г."
+ advanced_medium_tank_chassis_desc: "The rapid growth of weight in weapon systems and armour strength requires an even bigger chassis, creating a vehicle the size of earlier heavy tanks." #NT!
+ medium_tank_chassis_desc: "Сбалансированное шасси среднего размера. Отличается гибкостью применения, подходит для большого ассортимента боевых машин."
+ medium_tank_artillery_chassis_0: "Межвоенная средняя САУ"
+ medium_tank_artillery_chassis: "Средняя САУ"
+ medium_tank_artillery_chassis_desc: "Хорошо сбалансированная боевая машина. Основная роль — огневая поддержка наступающей пехоты."
+ medium_tank_artillery_chassis_1: "Базовая средняя САУ"
+ medium_tank_artillery_chassis_2: "Улучшенная средняя САУ"
+ medium_tank_artillery_chassis_3: "Модернизированная средняя САУ"
+ medium_tank_destroyer_chassis_0: "Межвоенная средняя ПТ-установка"
+ medium_tank_destroyer_chassis: "Средняя ПТ-установка"
+ medium_tank_destroyer_chassis_desc: "A well-balanced vehicle, carrying a powerful gun to destroy enemy armour." #NT!
+ medium_tank_destroyer_chassis_1: "Базовая средняя ПТ-установка"
+ medium_tank_destroyer_chassis_2: "Улучшенная средняя ПТ-установка"
+ medium_tank_destroyer_chassis_3: "Модернизированная средняя ПТ-установка"
+ medium_tank_aa_chassis_0: "Межвоенная средняя ЗСУ"
+ medium_tank_aa_chassis: "Средняя ЗСУ"
+ medium_tank_aa_chassis_desc: "Хорошо сбалансированная боевая машина с зенитным орудием для обороны от вражеской авиации."
+ medium_tank_aa_chassis_1: "Базовая средняя ЗСУ"
+ medium_tank_aa_chassis_2: "Улучшенная средняя ЗСУ"
+ medium_tank_aa_chassis_3: "Модернизированная средняя ЗСУ"
+ heavy_tank_chassis_0: "Inter-War Heavy Tank Chassis" #NT!
+ heavy_tank_chassis_1: "Basic Heavy Tank Chassis" #NT!
+ heavy_tank_chassis_2: "Improved Heavy Tank Chassis" #NT!
+ heavy_tank_chassis_3: "Advanced Heavy Tank Chassis" #NT!
+ heavy_tank_amphibious_chassis_0: "Inter-War Heavy Tank Chassis (Amphibious)" #NT!
+ heavy_tank_amphibious_chassis_1: "Basic Heavy Tank Chassis (Amphibious)" #NT!
+ heavy_tank_amphibious_chassis_2: "Improved Heavy Tank Chassis (Amphibious)" #NT!
+ heavy_tank_amphibious_chassis_3: "Advanced Heavy Tank Chassis (Amphibious)" #NT!
+ heavy_tank_amphibious_equipment_0: "Межвоенный тяжёлый плавающий танк"
+ basic_heavy_tank_chassis: "Basic Heavy Tank Chassis" #NT!
+ basic_heavy_tank_chassis_desc: "A thorough analysis of the Great War has shown that there is a need for a heavy vehicle to break through the enemy trench line and open up the way for lighter forces to exploit the breakthough. Such a vehicle should heavily armed and well armoured, but doesn't have to be very fast." #NT!
+ basic_heavy_tank_chassis_short: "Тяжелая модель 1934 г."
+ improved_heavy_tank_chassis: "Improved Heavy Tank Chassis" #NT!
+ improved_heavy_tank_chassis_desc: "While the nature of warfare has changed, there is still a place for a heavy vehicle with thick armour to create a breakthrough in the enemy lines, or to shore up defenses against an enemy attack." #NT!
+ improved_heavy_tank_chassis_short: "Тяжелая модель 1940 г."
+ advanced_heavy_tank_chassis: "Advanced Heavy Tank Chassis" #NT!
+ advanced_heavy_tank_chassis_desc: "With the advances in armour and firepower, a modern tank needs to carry thick armour and a large gun to be effective. This necessitates a large vehicle." #NT!
+ advanced_heavy_tank_chassis_short: "Тяжелая модель 1943 г."
+ heavy_tank_chassis_desc: "A large chassis that can mount a heavy gun, thick armour, or both." #NT!
+ heavy_tank_artillery_chassis: "Тяжелая САУ"
+ heavy_tank_artillery_chassis_0: "Межвоенная тяжелая САУ"
+ heavy_tank_artillery_chassis_desc: "Большая боевая машина. Основная роль — огневая поддержка наступающей пехоты."
+ heavy_tank_artillery_chassis_1: "Базовая тяжелая САУ"
+ heavy_tank_artillery_chassis_2: "Улучшенная тяжелая САУ"
+ heavy_tank_artillery_chassis_3: "Модернизированная тяжелая САУ"
+ heavy_tank_destroyer_chassis_0: "Межвоенная тяжелая ПТ-установка"
+ heavy_tank_destroyer_chassis: "Тяжелая ПТ-установка"
+ heavy_tank_destroyer_chassis_desc: "A large vehicle, carrying a powerful gun to destroy enemy armour." #NT!
+ heavy_tank_destroyer_chassis_1: "Базовая тяжелая ПТ-установка"
+ heavy_tank_destroyer_chassis_2: "Улучшенная тяжелая ПТ-установка"
+ heavy_tank_destroyer_chassis_3: "Модернизированная тяжелая ПТ-установка"
+ heavy_tank_aa_chassis_0: "Межвоенная тяжелая ЗСУ"
+ heavy_tank_aa_chassis: "Тяжелая ЗСУ"
+ heavy_tank_aa_chassis_desc: "Большая боевая машина с зенитным орудием для обороны от вражеской авиации."
+ heavy_tank_aa_chassis_1: "Базовая тяжелая ЗСУ"
+ heavy_tank_aa_chassis_2: "Улучшенная тяжелая ЗСУ"
+ heavy_tank_aa_chassis_3: "Модернизированная тяжелая ЗСУ"
+ main_battle_tank_chassis: "Modern Tank Chassis" #NT!
+ modern_tank_chassis: "Modern Tank Chassis" #NT!
+ main_battle_tank_chassis_short: "Modern Chassis" #NT!
+ modern_tank_chassis_desc: "A modernised chassis that borrows heavily from previous medium tanks, but puts a much bigger emphasis on speed and manoeuvrability, while also allowing for more armour and bigger guns than usually carried on medium tanks. The result is a vehicle that can fill a wide variety of roles." #NT!
+ main_battle_tank_chassis_desc: "Experience has shown that the designs of light, medium, and heavy tank are converging more and more. heavy tanks have gotten more mobile, while light tanks are carrying heavier armament and armour to survive. there is therefore value in unifying all three designs into a single type, which will be a universal Main Battle Tank." #NT!
+ modern_tank_chassis_1: "Modern Tank Chassis" #NT!
+ modern_tank_artillery_chassis: "Современная САУ"
+ modern_tank_artillery_chassis_desc: "Современная боевая машина, спроектированная так, чтобы быть полнофункциональной артиллерийской установкой, способной конкурировать с современными танками и защищаться от любых угроз на поле боя."
+ modern_tank_artillery_chassis_1: "Современная САУ"
+ modern_tank_destroyer_chassis_desc: "Современная боевая машина, предназначенная для быстрого реагирования на атаки вражеских танков при защите сравнимого уровня."
+ modern_tank_destroyer_chassis_1: "Современная ПТ-установка"
+ modern_tank_destroyer_chassis: "Современная ПТ-установка"
+ modern_tank_aa_chassis_desc: "A modern vehicle, intended to provide mobile and well-protected defence against enemy air attack." #NT!
+ modern_tank_aa_chassis_1: "Современная ЗСУ"
+ modern_tank_aa_chassis: "Современная ЗСУ"
+ super_heavy_tank_chassis: "Super-Heavy Tank Chassis" #NT!
+ super_heavy_tank_chassis_desc: "A gigantic vehicle, capable of mounting the heaviest armour and the biggest gun, but consequently fairly slow and unreliable." #NT!
+ super_heavy_tank_chassis_short: "Super-Heavy Chassis" #NT!
+ super_heavy_tank_chassis_1: "Super-Heavy Tank Chassis" #NT!
+ super_heavy_tank_artillery_chassis_desc: "A gigantic vehicle, capable of mounting the heaviest armour and the biggest gun, but consequently fairly slow and unreliable." #NT!
+ super_heavy_tank_artillery_chassis_1: "Сверхтяжелая САУ"
+ super_heavy_tank_artillery_chassis: "Тяжелая САУ"
+ super_heavy_tank_destroyer_chassis_desc: "A gigantic vehicle, capable of mounting the heaviest armour and the biggest gun, but consequently fairly slow and unreliable." #NT!
+ super_heavy_tank_destroyer_chassis_1: "Сверхтяжелая ПТ-установка"
+ super_heavy_tank_destroyer_chassis: "Сверхтяжелая ПТ-установка"
+ super_heavy_tank_aa_chassis_desc: "A gigantic vehicle, capable of mounting the heaviest armour and the biggest gun, but consequently fairly slow and unreliable." #NT!
+ super_heavy_tank_aa_chassis_1: "Сверхтяжелая ЗСУ"
+ super_heavy_tank_aa_chassis: "Тяжелая ЗСУ"
+ light_tank_flame_chassis_0: "Межвоенный легкий огнеметный танк"
+ light_tank_flame_chassis_desc: "Небольшая боевая машина с огнеметом в башне для атаки укреплений и зданий."
+ light_tank_flame_chassis_1: "Базовый легкий огнеметный танк"
+ light_tank_flame_chassis_2: "Улучшенный легкий огнеметный танк"
+ light_tank_flame_chassis_3: "Усовершенствованный легкий огнеметный танк"
+ medium_tank_flame_chassis_0: "Межвоенный средний огнеметный танк"
+ medium_tank_flame_chassis_desc: "Средняя боевая машина с огнеметом в башне для атаки укреплений и зданий."
+ medium_tank_flame_chassis_1: "Базовый средний огнеметный танк"
+ medium_tank_flame_chassis_2: "Улучшенный средний огнеметный танк"
+ medium_tank_flame_chassis_3: "Усовершенствованный средний огнеметный танк"
+ heavy_tank_flame_chassis_0: "Межвоенный тяжелый огнеметный танк"
+ heavy_tank_flame_chassis_desc: "Большая боевая машина с огнеметом в башне для атаки укреплений и зданий."
+ heavy_tank_flame_chassis_1: "Базовый тяжелый огнеметный танк"
+ heavy_tank_flame_chassis_2: "Улучшенный тяжелый огнеметный танк"
+ heavy_tank_flame_chassis_3: "Усовершенствованный тяжелый огнеметный танк"
+ light_tank_flame_chassis: "Легкий огнеметный танк"
+ medium_tank_flame_chassis: "Средний огнеметный танк"
+ heavy_tank_flame_chassis: "Тяжелый огнеметный танк"
+ amphibious_tank_chassis: "Amphibious Tank Chassis" #NT!
+ amphibious_tank_chassis_desc: "A small tank hull specifically designed to float. To achieve this, strict limits have to be set on the size of the weapon and the thickness of the armour the vehicle carries." #NT!
+ amphibious_tank_chassis_1: "Amphibious Tank Chassis" #NT!
+ gwtank_chassis: "Разработка межвоенных танков"
+ gwtank_chassis_desc: "В Великой войне танк показал себя мощным оружием. В переходную эпоху их разработка замедлилась, но танки, без сомнения, сыграют крупную роль в грядущих конфликтах."
+ gwtank_chassis_short: "Interwar Chassis" #NT!
+ armor_tech_1: "Basic Armour Protection" #NT!
+ armor_tech_1_desc: "Tanks during the Great War only had to contend with enemy small arms. As such, they got away with fairly thin armour. A new generation of anti-tank weaponry has made the battlefield a much more dangerous place for a tank, and much heavier protection is needed." #NT!
+ armor_tech_2: "Improved Armour Protection" #NT!
+ armor_tech_2_desc: "Теперь, когда по всему миру вводится в эксплуатацию все более мощное и тяжелое противотанковое вооружение, следующему поколению танков понадобится еще более усиленная броня."
+ armor_tech_3: "Advanced Armour Protection" #NT!
+ armor_tech_3_desc: "Теперь, когда, кажется, достигнут предел развития противотанковых орудий, новое поколение танков будет нести более эффективное вооружение, способное пробить любую броню с большой дистанции."
+ armor_tech_4: "Modern Armour Protection" #NT!
+ armor_tech_4_desc: "During the war, the threats faced by tanks have multiplied, from enemy tanks, anti-tank guns, dedicated tank destroyers, all the way to modern infantry weapons firing shaped charges that can penetrate even heavy armour. We must develop new protection methods to keep our own tanks alive in the face of these threats." #NT!
+ engine_tech_1: "Базовый двигатель"
+ engine_tech_1_desc: "Танки Великой войны были тяжелыми и неповоротливыми, но современному танку для победы необходимы скорость и мобильность."
+ engine_tech_2: "Улучшенный двигатель"
+ engine_tech_2_desc: "With bigger guns and heavier armour, the new generation of tanks requires a more powerful engine to remain mobile." #NT!
+ engine_tech_3: "Модернизированный двигатель"
+ engine_tech_3_desc: "Mechanised warfare is a form of combat that requires fast decision making and fast movement of troops and supplies. If our tanks are to carry modern weapons and enough armour to survive on the battlefield, they require powerful engines to keep up with the motorised infantry." #NT!
+ engine_tech_4: "Современный двигатель"
+ engine_tech_4_desc: "Многочисленные нововведения для танков, продиктованные современной войной, значительно увеличивают их вес. Чтобы перемещать тяжелую боевую машину, нам понадобятся очень мощные двигатели."
+ DESIGNER_CHASSIS_BASE: "Шасси: "
+ DESIGNER_FROM_MODULES: "Модули: "
+ DESIGNER_UNSAVED_CHANGES: "Несохраненные изменения: "
+ tank_rocket_launcher: "Реактивная установка"
+ tank_rocket_launcher_desc: "A multi-barrelled launcher for unguided, high-explosive rockets. The high volume of fire gives it excellent performance against soft targets, but even direct hits do little against armoured targets." #NT!
+ tank_rocket_launcher_2: "Улучшенная реактивная установка"
+ tank_rocket_launcher_2_desc: "Эта установка отличается повышенной точностью стрельбы, но основное ее преимущество — увеличенное количество ракет."
+ tank_wheeled_suspension: "Колесный ход"
+ tank_wheeled_suspension_desc: "Эта ходовая часть, созданная на основании шасси грузовика, сильно ограничена в грузоподъемности и слабо пригодна для езды по пересеченной местности, зато очень дешева в производстве."
+ tank_half_track_suspension: "Полугусеничный ход"
+ tank_half_track_suspension_desc: "Гибрид колесной и гусеничной ходовой части. Спереди на машине установлена пара колес для руления, а задняя ось приводит в движение гусеницы, что повышает проходимость на пересеченной местности. Такая ходовая часть ограничена в грузоподъемности, но обходится дешевле, чем полностью гусеничная."
+ squeezebore_adaptor: "Конусный адаптер"
+ squeezebore_adaptor_desc: "A special adaptor at the end of the gun lowers the diameter of the barrel and squeezes a shell down to a smaller calibre. This significantly increases muzzle velocity and thereby the penetration power of the gun. It does require special ammunition made from rare materials." #NT!
+ armor_skirts: "Armour Skirts" #NT!
+ armor_skirts_desc: "Тонкие металлические пластины, подвешиваемые к бортам боевой машины. Дают дополнительную защиту от противотанковых ружей и кумулятивных зарядов."
+ dozer_blade: "Бульдозерный отвал"
+ dozer_blade_desc: "Бульдозерный отвал помогает машине быстро возводить в поле боевую позицию без помощи инженеров."
+ auto_loader: "Автозарядник"
+ auto_loader_desc: "Автоматический механизм, заряжающий снаряды и позволяющий танку долго поддерживать высокую скорострельность."
+ easy_maintenance: "Простота в обслуживании"
+ easy_maintenance_desc: "Лючки в боевой машине дают доступ ко многим ее важным компонентам и облегчают экипажу выполнение даже сложных регламентных работ."
+ additional_machine_guns: "Дополнительные пулеметы"
+ additional_machine_guns_desc: "A set of machineguns in sponsons and special pintle mounts give the vehicle improved defence against close-in infantry attack." #NT!
+  
+ EQUIPMENT_AMPHIBIOUS: "Плавающий танк"
+  
+ light_flame_tank: "Легкая огнеметная танковая рота"
+ light_flame_tank_desc: "Рота легких огнеметных боевых машин для поддержки при штурме городов и укреплений."
+ medium_flame_tank: "Средняя огнеметная танковая рота"
+ medium_flame_tank_desc: "Рота средних огнеметных боевых машин для поддержки при штурме городов и укреплений."
+ heavy_flame_tank: "Тяжелая огнеметная танковая рота"
+ heavy_flame_tank_desc: "Рота тяжелых огнеметных боевых машин для поддержки при штурме городов и укреплений."
+  
+ light_tank_amphibious_chassis_desc: "Легкий танк, снабженный устройствами для плавания и пропеллером."
+ medium_tank_amphibious_chassis_desc: "Средний танк, снабженный устройствами для плавания и пропеллером."
+ heavy_tank_amphibious_chassis_desc: "Тяжелый танк, снабженный устройствами для плавания и пропеллером."
+  
+ expanded_fuel_tank: "Бочка с топливом"
+ expanded_fuel_tank_desc: "An externally mounted fuel drum designed to extend the operational range of an armoured vehicle." #NT!
+  
+ land_cruiser_chassis: "Шасси сухопутного крейсера"
+ land_cruiser_chassis_desc: "A gargantuan chassis, heavily-armoured and designed to support super-heavy weaponry and withstand immense battlefield punishment, but with high fuel consumption and slow speed due to its enormous size." #NT!
+ land_cruiser_chassis_1: "Шасси сухопутного крейсера"
+  
+ EQ_MOD_SLOT_lc_main_armament_slot_TITLE: "Главное вооружение"
+ EQ_MOD_SLOT_lc_secondary_armament_slot_TITLE: "Вспомогательное вооружение"
+ EQ_MOD_SLOT_lc_additional_armament_slot_1_TITLE: "Дополнительное вооружение"
+ EQ_MOD_SLOT_lc_additional_armament_slot_2_TITLE: "Дополнительное вооружение"
+ EQ_MOD_SLOT_lc_additional_armament_slot_3_TITLE: "Дополнительное вооружение"
+ EQ_MOD_SLOT_lc_additional_armament_slot_4_TITLE: "Дополнительное вооружение"
+ EQ_MOD_SLOT_lc_special_features_slot_1_TITLE: "Особые возможности"
+ EQ_MOD_SLOT_lc_special_features_slot_2_TITLE: "Особые возможности"
+ EQ_MOD_SLOT_lc_special_features_slot_3_TITLE: "Особые возможности"
+  
+ EQ_MOD_CAT_lc_main_armament_TITLE: "Главное вооружение"
+ EQ_MOD_CAT_lc_secondary_armament_TITLE: "Вспомогательное вооружение"
+ EQ_MOD_CAT_lc_additional_armament_TITLE: "Дополнительное вооружение"
+ EQ_MOD_CAT_lc_special_features_TITLE: "Особые возможности"
+ EQ_MOD_CAT_lc_radio_module_TITLE: "Системы радиосвязи"
+ EQ_MOD_CAT_lc_structural_features_TITLE: "Структурные особенности"
+ EQ_MOD_CAT_lc_external_features_TITLE: "Внешние особенности"
+ EQ_MOD_CAT_lc_aerial_deployment_TITLE: "Воздушное развертывание"
+  
+ lc_heavy_naval_guns: "Тяжелые корабельные орудия"
+ lc_heavy_naval_guns_desc: "The standard main armament for such a massive armoured vehicle, these powerful naval-grade cannons are adapted for direct confrontation, delivering devastating firepower against both armoured and fortified targets." #NT!
+ lc_super_heavy_railway_gun: "Сверхтяжелое железнодорожное орудие"
+ lc_super_heavy_railway_gun_desc: "Это массивное орудие, изначально созданное для железнодорожных платформ, способно обстреливать цели с огромного расстояния, нанося невероятный урон."
+ lc_high_impact_obliterator_cannon: "Мощная пушка «Уничтожитель»"
+ lc_high_impact_obliterator_cannon_desc: "Specifically designed to penetrate extremely thick armour, this weapon's high kinetic energy makes it a formidable counter against other super-heavy tanks." #NT!
+ lc_heavy_anti_air_platform: "Площадка с тяжелой ЗСУ"
+ lc_heavy_anti_air_platform_desc: "A platform mounting multiple high-calibre flak guns, designed to defend against enemy bombers and reconnaissance aircraft that threaten the Land Cruiser." #NT!
+ lc_medium_naval_guns: "Средние корабельные орудия"
+ lc_medium_naval_guns_desc: "Сбалансированная комбинация скорострельности и огневой мощи. Эти орудия эффективны против легкой техники и небронированных целей."
+ lc_hull_mounted_railway_gun: "Установленное на корпусе железнодорожное орудие"
+ lc_hull_mounted_railway_gun_desc: "Переработанное железнодорожное орудие, установленное прямо в корпус для обеспечения максимальной стабильности. Обеспечивает мощную огневую поддержку и может с большой точностью поражать удаленные цели."
+ lc_super_heavy_howitzer: "Сверхтяжелая гаубица"
+ lc_super_heavy_howitzer_desc: "A massive howitzer designed to smash fortifications and urban defenses. This variant specialises in delivering high-explosive shells, ideal for clearing entrenched positions and obliterating fortified structures." #NT!
+ lc_heavy_high_velocity_cannons: "Тяжелые скорострельные пушки"
+ lc_heavy_high_velocity_cannons_desc: "Anti-tank guns designed to engage and destroy enemy armour with pinpoint accuracy. Their high-velocity projectiles ensure excellent penetration at long ranges." #NT!
+ lc_heavy_anti_air_battery: "Тяжелая батарея ЗСУ"
+ lc_heavy_anti_air_battery_desc: "An anti-air battery equipped with large-calibercaliber guns to target high-speed and high-altitude aircraft, providing a defensive bubble around the vehicle." #NT!
+ lc_medium_cannon_turret: "Medium Cannon Turret" #NT!
+ lc_medium_cannon_turret_desc: "Стандартная орудийная башня, способная обстреливать пехоту и легкую технику. Благодаря компактности хорошо подходит для ближнего боя и вспомогательного применения."
+ lc_assault_gun: "Штурмовое орудие"
+ lc_assault_gun_desc: "Спроектировано для ближних городских боев и подрыва бункеров. Стреляет мощными фугасными снарядами, зачищая пехотные позиции и уничтожая укрепленные цели."
+ lc_high_velocity_cannon_turret: "High-Velocity Cannon Turret" #NT!
+ lc_high_velocity_cannon_turret_desc: "A turret fitted with a high-velocity cannon to engage enemy armour. Its smaller size allows it to provide quick and responsive fire support against lighter armoured threats." #NT!
+ lc_light_anti_air_battery: "Легкая батарея ЗСУ"
+ lc_light_anti_air_battery_desc: "Легкая зенитная батарея для обстрела низколетящих самолетов и защиты техники от атак с бреющего полета и пикирующих бомбардировщиков."
+ lc_flamethrower_turret: "Flamethrower Turret" #NT!
+ lc_flamethrower_turret_desc: "A specialised turret that projects a stream of fire, perfect for clearing out fortified positions, infantry, and ambush points. Ideal for close-quarters engagements in dense urban environments." #NT!
+ lc_rocket_launcher: "Реактивная установка"
+ lc_rocket_launcher_desc: "Модульная ракетная система, установленная на сухопутном крейсере. Выстреливает мощными ракетными залпами, подавляя оборону противника и рассеивая его крупные построения."
+ lc_radio_1: "$tank_radio_1$"
+ lc_radio_1_desc: "$tank_radio_1_desc$"
+ lc_radio_2: "$tank_radio_2$"
+ lc_radio_2_desc: "$tank_radio_2_desc$"
+ lc_radio_3: "$tank_radio_3$"
+ lc_radio_3_desc: "$tank_radio_3_desc$"
+ lc_command_center: "Командный центр"
+ lc_command_center_desc: "Полностью интегрированный командный центр, превращающий сухопутный крейсер в мобильный штаб. Оборудован улучшенной системой связи для координации масштабных военных операций."
+ lc_radar: "Радар"
+ lc_radar_desc: "Система раннего обнаружения, повышающая осведомленность о передвижениях авиации и ближайших сил противника. Позволяет сухопутному крейсеру подготовиться к потенциальным угрозам с земли или воздуха."
+ lc_aircraft_catapult: "Авиационная катапульта"
+ lc_aircraft_catapult_desc: "Система запуска небольших самолетов-разведчиков. Позволяет сухопутному крейсеру разведывать окрестности и собирать данные в реальном времени."
+ lc_helipad: "Вертолетная площадка"
+ lc_helipad_desc: "Платформа для запуска вертолетов. Предназначена для обеспечения доскональной воздушной разведки и повышения осведомленности о боевой обстановке."
+ lc_armored_skirts: "Armoured Skirts" #NT!
+ lc_armored_skirts_desc: "Reinforced armour plating mounted along the sides to protect vulnerable tracks and suspension systems from anti-tank weapons and small arms fire." #NT!
+ lc_bunker_emplacement: "Долговременное огневое сооружение"
+ lc_bunker_emplacement_desc: "Укрепленное сооружение, преобразующее сухопутный крейсер в мобильный бункер. Позволяет экипажу удерживать оборону и вести ответный огонь по противнику даже под сильным обстрелом."
+ lc_obstacle_clearance_gear: "Приспособление для устранения препятствий"
+ lc_obstacle_clearance_gear_desc: "Прочные приспособления, такие как массивные бульдозерные отвалы и краны, предназначенные для уборки обломков, расчистки пути на пересеченной местности и помощи в окапывании."
+ lc_internal_fuel_tanks: "Внутренние баки с горючим"
+ lc_internal_fuel_tanks_desc: "Expanded fuel compartments within the hull, increasing the vehicle's operational range and reducing the need for frequent refueling stops during extended campaigns." #NT!
+ lc_internal_ammunition_compartments: "Внутренние отсеки для боеприпасов"
+ lc_internal_ammunition_compartments_desc: "Укрепленные отсеки для хранения дополнительного боезапаса. Позволяют сухопутному крейсеру дольше держаться в бою без пополнения запасов."
+ lc_wet_ammunition_storage: "Влажное хранилище боеприпасов"
+ lc_wet_ammunition_storage_desc: "Specialised compartments filled with liquid coolant to minimize the risk of ammunition detonations from enemy hits, greatly enhancing crew safety." #NT!
+ lc_smoke_generators: "Дымогенераторы"
+ lc_smoke_generators_desc: "A system designed to deploy thick smoke screens, masking the vehicle's movements and reducing its visibility to both ground and air-based threats." #NT!
+ lc_stabilizers: "Стабилизаторы"
+ lc_stabilizers_desc: "Механические устройства, снижающие отдачу и поддерживающие наведение орудия при стрельбе. Помогают быстрее навестись на цель и повышают точность стрельбы на коротких остановках."

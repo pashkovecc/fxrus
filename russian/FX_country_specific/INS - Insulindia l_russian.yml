@@ -1,0 +1,654 @@
+﻿l_russian:
+  
+ ### Country Names 
+ INS_vanguardist: "Indonesia" #NT!
+ INS_vanguardist_ADJ: "Indonesian" #NT!
+ INS_vanguardist_DEF: "the Indonesian Socialist Republic" #NT!
+ INS_collectivist: "Indonesia" #NT!
+ INS_collectivist_ADJ: "Indonesian" #NT!
+ INS_collectivist_DEF: "the Indonesian Socialist Republic" #NT!
+ INS_libertarian_socialist: "Indonesia" #NT!
+ INS_libertarian_socialist_ADJ: "Indonesian" #NT!
+ INS_libertarian_socialist_DEF: "the Indonesian Socialist Republic" #NT!
+ INS_social_democrat: "Indonesia" #NT!
+ INS_social_democrat_ADJ: "Indonesian" #NT!
+ INS_social_democrat_DEF: "Indonesia" #NT!
+ INS_social_liberal: "Indonesia" #NT!
+ INS_social_liberal_ADJ: "Indonesian" #NT!
+ INS_social_liberal_DEF: "Indonesia" #NT!
+ INS_market_liberal: "Indonesia" #NT!
+ INS_market_liberal_ADJ: "Indonesian" #NT!
+ INS_market_liberal_DEF: "Indonesia" #NT!
+ INS_social_conservative: "Indonesia" #NT!
+ INS_social_conservative_ADJ: "Indonesian" #NT!
+ INS_social_conservative_DEF: "Indonesia" #NT!
+ INS_authoritarian_democrat: "Indonesia" #NT!
+ INS_authoritarian_democrat_ADJ: "Indonesian" #NT!
+ INS_authoritarian_democrat_DEF: "Indonesia" #NT!
+ INS_paternal_autocrat: "Indonesia" #NT!
+ INS_paternal_autocrat_ADJ: "Indonesian" #NT!
+ INS_paternal_autocrat_DEF: "the Sultanate of Indonesia" #NT!
+ INS_national_populist: "Indonesia" #NT!
+ INS_national_populist_ADJ: "Indonesian" #NT!
+ INS_national_populist_DEF: "the Islamic State of Indonesia" #NT!
+ INS_valkist: "Indonesia" #NT!
+ INS_valkist_ADJ: "Indonesian" #NT!
+ INS_valkist_DEF: "the Indonesian State" #NT!
+  
+ INS_MAJ_social_democrat: "Majapahit" #NT!
+ INS_MAJ_social_democrat_ADJ: "Majapahit" #NT!
+ INS_MAJ_social_democrat_DEF: "Majapahit" #NT!
+ INS_MAJ_social_liberal: "Majapahit" #NT!
+ INS_MAJ_social_liberal_ADJ: "Majapahit" #NT!
+ INS_MAJ_social_liberal_DEF: "Majapahit" #NT!
+ INS_MAJ_market_liberal: "Majapahit" #NT!
+ INS_MAJ_market_liberal_ADJ: "Majapahit" #NT!
+ INS_MAJ_market_liberal_DEF: "Majapahit" #NT!
+ INS_MAJ_social_conservative: "Majapahit" #NT!
+ INS_MAJ_social_conservative_ADJ: "Majapahit" #NT!
+ INS_MAJ_social_conservative_DEF: "Majapahit" #NT!
+ INS_MAJ_authoritarian_democrat: "Majapahit Empire" #NT!
+ INS_MAJ_authoritarian_democrat_ADJ: "Majapahit" #NT!
+ INS_MAJ_authoritarian_democrat_DEF: "the Majapahit Empire" #NT!
+ INS_MAJ_paternal_autocrat: "Majapahit Empire" #NT!
+ INS_MAJ_paternal_autocrat_ADJ: "Majapahit" #NT!
+ INS_MAJ_paternal_autocrat_DEF: "the Majapahit Empire" #NT!
+ INS_MAJ_national_populist: "Majapahit Empire" #NT!
+ INS_MAJ_national_populist_ADJ: "Majapahit" #NT!
+ INS_MAJ_national_populist_DEF: "the Majapahit Empire" #NT!
+  
+ #### Political Parties #### 
+ INS_vanguardist_party: "Murba" #NT!
+ INS_vanguardist_party_long: "Partai Murba\n§gMurba Party§!" #NT!
+ INS_collectivist_party: "PKI" #NT!
+ INS_collectivist_party_long: "Partai Komunis Indonesia\n§gCommunist Party of Indonesia§!" #NT!
+ INS_libertarian_socialist_party: "PSI" #NT!
+ INS_libertarian_socialist_party_long: "Partai Sosialis Indonesia\n§gSocialist Party of Indonesia§!" #NT!
+ INS_social_democrat_party: "PSI" #NT!
+ INS_social_democrat_party_long: "Partai Sosialis Indonesia\n§gSocialist Party of Indonesia§!" #NT!
+ INS_social_liberal_party: "IEV" #NT!
+ INS_social_liberal_party_long: "Indo Europeesch Verbond\n§gIndo European Alliance§!" #NT!
+ INS_market_liberal_party: "IEV" #NT!
+ INS_market_liberal_party_long: "Indo Europeesch Verbond\n§gIndo European Alliance§!" #NT!
+ INS_social_conservative_party: "NU" #NT!
+ INS_social_conservative_party_long: "Nahdlatul 'Ulama\n§gRevival of the Ulama§!" #NT!
+ INS_authoritarian_democrat_party: "PNI" #NT!
+ INS_authoritarian_democrat_party_long: "Partai Nasional Indonesia\n§gIndonesian National Party§!\n§LThe Indonesian National Party was formed back in 1927, by the young engineer, at the time, Sukarno. The organization at first met opposition from the authorities, leading to Sukarno and other leading figures in the party being arrested. Sukarno continued to fight for independence, and when he was let out of prison, the PNI quickly became a leading force for Indonesian nationalism and independence.§!" #NT!
+ INS_paternal_autocrat_party: "Rumah Hamengkubuwono" #NT!
+ INS_paternal_autocrat_party_long: "Rumah Hamengkubuwono\n§gHouse of Hamengkubuwono§!" #NT!
+ INS_national_populist_party: "Darul Islam" #NT!
+ INS_national_populist_party_long: "Darul Islam\n§gHouse of Islam§!" #NT!
+ INS_MAJ_authoritarian_democrat_party: "Kerajaan Majapahit" #NT!
+ INS_MAJ_authoritarian_democrat_party_long: "Ordo Kerajaan Majapahit (Demokrat)\n§gMajapahit Government - Democratic§!" #NT!
+ INS_MAJ_paternal_autocrat_party: "Kerajaan Majapahit" #NT!
+ INS_MAJ_paternal_autocrat_party_long: "Ordo Kerajaan Majapahit (Absolutis)\n§gMajapahit Government - Absolutist§!" #NT!
+ INS_MAJ_national_populist_party: "Kerajaan Majapahit" #NT!
+ INS_MAJ_national_populist_party_long: "Ordo Kerajaan Majapahit (Nasionalis)\n§gMajapahit Government - Nationalist§!" #NT!
+ INS_valkist_party: "PVI" #NT!
+ INS_valkist_party_long: "Partai Valkist Indonesia\n§gValkist Party of Indonesia§!" #NT!
+  
+ #### Ideas #### 
+ INS_war_for_insulindian_independence_idea: "War For Indonesian Independence" #NT!
+ INS_war_for_insulindian_independence_idea_desc: "Long Live Freedom! Long Live Independence!" #NT!
+ INS_non_existing_economy_idea: "Non-Existent Economy" #NT!
+ INS_non_existing_economy_idea_desc: "We have nearly no functioning economy at this stage. With the independence war leaving its mark on the country, and most of our economic assets being stolen by the colonialists when we rose up." #NT!
+ INS_political_instability_idea: "Political Instability" #NT!
+ INS_political_instability_idea_desc: "While our leaders are all for the independence of Indonesia, there are different views on how a post-independent Indonesia shall look like. Some wants socialism, others wants an islamic state." #NT!
+ INS_political_instability2_idea: "Political Instability" #NT!
+ INS_political_instability2_idea_desc: "While our leaders are all for the independence of Indonesia, there are different views on how a post-independent Indonesia shall look like. Some wants socialism, others wants an islamic state." #NT!
+  
+ INS_guerilla_fights_idea: "Guerilla Tactics" #NT!
+ INS_army_of_people_idea: "An Army of Peoples" #NT!
+ INS_jungle_warfare_idea: "Jungle Warfare" #NT!
+ INS_meet_them_with_force_idea: "Army of Force" #NT!
+ INS_army_of_experience_idea: "An Army of Experience" #NT!
+ INS_move_for_autarky_idea: "Moving Towards Autarky" #NT!
+ INS_nationalize_foreign_industries_idea: "Moving Towards Autarky" #NT!
+ INS_subsidice_rice_farms_idea: "Moving Towards Autarky" #NT!
+ INS_strengthen_research_hub_idea: "Moving Towards Autarky" #NT!
+ INS_reopen_for_foreign_investors_idea: "Moving Towards Foreign Investment Market" #NT!
+ INS_invite_back_british_investors_idea: "Moving Towards Foreign Investment Market" #NT!
+ INS_work_with_rubber_industry_investors_idea: "Moving Towards Foreign Investment Market" #NT!
+ INS_build_up_trade_connections_idea: "Moving Towards Foreign Investment Market" #NT!
+  
+ INS_find_democratic_friends_idea: "Democratic Foreign Policy" #NT!
+ INS_insulindian_revolution_idea: "Revolutionary Foreign Policy" #NT!
+ INS_strive_for_united_insulindia_idea: "United Indonesia Foreign Policy" #NT!
+ INS_east_asian_relations_idea: "East Asian Foreign Policy" #NT!
+ INS_try_buying_sulawesi_idea: "Payment for the Sale of Sulawesi" #NT!
+  
+ INS_pesinsu_unity_idea: "Pesinsu Unity" #NT!
+ INS_fight_for_gender_equality_idea: "Pesinsu Unity" #NT!
+ INS_workers_farmers_rights_idea: "Workers and Farmers Rights" #NT!
+  
+ INS_promote_mahaenism_idea: "Marhaenism" #NT!
+ INS_introduce_pancasila_idea: "Marhaenism and Pancasila" #NT!
+ INS_united_in_nationalism_idea: "United in Nationalism!" #NT!
+ INS_entrench_political_independence_idea: "A Political Independent Indonesia" #NT!
+  
+ INS_build_islamic_democracy_idea: "Islamic Democracy" #NT!
+ INS_decentralize_presidential_power_idea: "Islamic Democracy" #NT!
+ INS_islamic_teaching_idea: "Islamic Democracy" #NT!
+ INS_promote_traditionalism_idea: "Traditionalism" #NT!
+  
+ INS_establish_islamic_state_idea: "The Indonesian Islamic State" #NT!
+ INS_sharia_law_idea: "The Indonesian Islamic State" #NT!
+ INS_anti_socialist_militas_idea: "Anti-Socialist Militas" #NT!
+  
+ INS_ensure_sultans_loyalty_idea: "Loyalty of the Sultans" #NT!
+ INS_claim_majapahit_decendancy_idea: "Majapahit Legitimacy" #NT!
+ INS_appoint_great_prime_minister_idea: "Majapahit Legitimacy" #NT!
+  
+ ### Decisions 
+ INS_join_co_prosperity_sphere: "Join Co-Prosperity Sphere" #NT!
+ INS_create_new_alliance: "Create New Alliance" #NT!
+  
+ #### Events #### 
+ insulindia.0.t: "The Proclaimation of Indonesian Independence!" #NT!
+ insulindia.0.d: "Today, the leader of the Indonesian fight for independence, Sukarno, does now utter the words, that Indonesia no longer will be ruled by colonial powers, to his followers and over radio in the country. The forces of Indonesia does stand up before the British Empire, maybe the largest in the world. But this fact does not seem to tear down the morale of the Indonesians." #NT!
+ insulindia.0.a: "Sekali Merdeka tetap Merdeka! Merdeka atau Mati!" #NT!
+  
+ insulindia.1.t: "Foreign Volunteers Arrives Indonesia!" #NT!
+ insulindia.1.d: "Foreign volunteers, with supplies and weapons, has arrived our HQ and offered their service in our fight to decolonialize the East Indies. The volunteers seems to mainly be from France, the Soviet Union, the United States of America and South-East Asia. Our leaders have warmly welcomed these volunteers and are already beginning to set them into service." #NT!
+ insulindia.1.a: "Together, We Will Defeat the Colonialists!" #NT!
+  
+ insulindia.2.t: "Victory has Been Bringed Upon Us!" #NT!
+ insulindia.2.d: "The British Imperialists have came to us and offered us a peace. We have won control over Java and Sumatra, and now will also win control over Indonesia. We just have to make peace. Further expantion onto the British Empire can be done later." #NT!
+ insulindia.2.a: "Long Live Indonesia!" #NT!
+  
+ insulindia.3.t: "The Indonesians Has Pushed Us Out!" #NT!
+ insulindia.3.d: "The Indonesians have pushed us out of the East Indies after long fights. We can either accept their victory, or continue this fight." #NT!
+ insulindia.3.a: "Let's Make an Official Peace" #NT!
+ insulindia.3.b: "No Peace With Rebels!" #NT!
+  
+ insulindia.4.t: "Approaching Our Politics" #NT!
+ insulindia.4.d: "It is time to approach our political landscape. While most Indonesians wants our coutry to be independent, there are different views on how this independence shall look like. The most popular movements in Indonesia is currently the Socialists, mostly made up of the workers and farmers, the Nationalists, mostly made up of military leaders and the commoners, and the Islamists, mostly made up of the middle class and the muslim community. We need to set for us a path to follow on this front." #NT!
+ insulindia.4.a: "Why Can't we all Adhere to the PNI? No?!" #NT!
+  
+ insulindia.5.t: "Socialist Demands Gain Volume" #NT!
+ insulindia.5.d: "Socialist demands have begun to gain volume in our country, helped to be delievered to president Sukarno, through socialists in the provinsial government. These demands includes the siezing of foreign industries, nationalization of buisnesses and distribution of wealth. It is up to our leader how much we shall promice them." #NT!
+ insulindia.5.a: "Accept Their Demands" #NT!
+ insulindia.5.b: "Accpet Some of Their Demands" #NT!
+ insulindia.5.c: "Reject Their Demands" #NT!
+  
+ insulindia.6.t: "Islamist Demands Gain Volume" #NT!
+ insulindia.6.d: "Islamist demands have begun to gain volume in our country, helped to be delievered to president Sukarno, through islamists in the provinsial government. These demands includes a stop to secularization of Indonesia, banning of Christian parties and religious education. It is up to our leader how much we shall promice them." #NT!
+ insulindia.6.a: "Accept Their Demands" #NT!
+ insulindia.6.b: "Accept Some of Their Demands" #NT!
+ insulindia.6.c: "Reject Their Demands" #NT!
+  
+ insulindia.7.t: "Nationalist Demands Gain Volume" #NT!
+ insulindia.7.d: "Nationalist demands have begun to gain volume in our country, helped to be delievered to president Sukarno, through nationalists in the provinsial government. These demands includes the siezing of foreign industries, stronger military control and the banning of radical parties. It is up to our leader how much we shall promice them." #NT!
+ insulindia.7.a: "Accept Their Demands" #NT!
+ insulindia.7.b: "Accept Some of Their Demands" #NT!
+ insulindia.7.c: "Reject Their Demands" #NT!
+  
+ insulindia.8.t: "Anti-PNI Rally!" #NT!
+ insulindia.8.d: "Socialists and Islamists has come together to rally against our regime. They says that the independence of Indonesia only meant independence for the PNI and their members, and that other movements are not getting through their reforms. While there has not been much violence, police has removed people that have been seen as a threat." #NT!
+ insulindia.8.a: "Ah! Come an!" #NT!
+  
+ insulindia.9.t: "Assassination Attempt on President Sukarno!" #NT!
+ insulindia.9.d: "Our president Sukarno was on visit to some towns in norhern Sumatra today when someone, from the crowd of citizens watching him on his visit, jumped in front of Sukarno and shot him. The assassin was quickly slain, but the situation of Sukarno is now unknown. There is still a question how severe his injuries are." #NT!
+ insulindia.9.a: "Sukarno Survives Minor Injuries!" #NT!
+ insulindia.9.b: "Sukarno Sucomes to Major Injuries!" #NT!
+  
+ insulindia.10.t: "Islamist Riots!" #NT!
+ insulindia.10.d: "Islamists in our country riots against what they see as unjust treatment by the provisional government." #NT!
+ insulindia.10.a: "Ah! Come an!" #NT!
+  
+ insulindia.11.t: "Socialist Riots!" #NT!
+ insulindia.11.d: "Socialists in our country riots against what they see as unjust treatment by the provisional government." #NT!
+ insulindia.11.a: "Ah! Come an!" #NT!
+  
+ insulindia.12.t: "Nationalist Riots!" #NT!
+ insulindia.12.d: "Nationalists in our country riots against what they see as unjust treatment by the provisional government." #NT!
+ insulindia.12.a: "Ah! Come an!" #NT!
+  
+ insulindia.13.t: "We Have Been Pushed Out from Borneo!" #NT!
+ insulindia.13.d: "WIP" #NT!
+ insulindia.13.a: "At This Stage, We Need to Sign a Peace!" #NT!
+  
+ insulindia.14.t: "Indonesian Democracy Survives!" #NT!
+ insulindia.14.d: "Democracy and Stability has survived this period of political instability. With elections soon up, our country will move past this era  of the provisional government." #NT!
+ insulindia.14.a: "It is Time For Election!" #NT!
+  
+ insulindia.15.t: "First Indonesian Election" #NT!
+ insulindia.15.d: "The first ever democratic election is being held in Indonesia. In the counting of the votes that now happens, there seems that three parties comes out at the top, reaching to gain a plurality." #NT!
+ insulindia.15.a: "The PKI Assures a Plurality!" #NT!
+ insulindia.15.b: "The PNI Retains Their Plurality!" #NT!
+ insulindia.15.c: "The NU Assures a Plurality!" #NT!
+  
+ insulindia.16.t: "Darul Islam Mobilizes to War!" #NT!
+ insulindia.16.d: "Radical Islamists in Darul Islam has mobilized against what they sees as a weak and inefficient provisional government. This might be the end of the democratic dream on Indonesia." #NT!
+ insulindia.16.a: "We Must Stabalize! Quick!" #NT!
+  
+ insulindia.17.t: "The Darul Islam Coup!" #NT!
+ insulindia.17.d: "Hundreds of members from Darul Islam have now marched upon the capital city of Batavia. They have begun to pick fight with troops loyal to our government, and can very soon be able to take control over the city and the rest of the country. At the same time have the royalty of Indonesia taken the choice to counter this coup with their own. It is still to see what faction will win out at the end." #NT!
+ insulindia.17.a: "Darul Islam Sucseeds!" #NT!
+ insulindia.17.b: "Indonesian Royals Counter-Coup the Islamists!" #NT!
+ insulindia.17.c: "The PNI Retakes Control!" #NT!
+  
+ insulindia.18.t: "Support Dvindles Away" #NT!
+ insulindia.18.d: "As we have rejected the demands our allies has given us in our time of governing, many Nationalists, Socialists and Islamists has come together in secret in order to organize strikes and riots through the country. There have been reports of violence, and some has even been killed in terror attacks." #NT!
+ insulindia.18.a: "Blood Spills Upon the Archipelago!" #NT!
+  
+ insulindia.19.t: "Our Inability to Please Them All" #NT!
+ insulindia.19.d: "As we have accepted the demands of both socialists, nationalists and islamists, we have found out that there is not a great possibility to please them all. We are doing so many of the reforms we have promiced without breaking our promices, but our partners are disappointed." #NT!
+ insulindia.19.a: "We Should Not Try to Please All People" #NT!
+  
+ insulindia.20.t: "Cooperation is Possible" #NT!
+ insulindia.20.d: "While many of our citizens have opposing views, we have managed to make the socialists, nationalists and islamists in our country happy for now. It seems like we have gotten that sweat middle road between Nationalism, Socialism and Islam - What we will call NASAGSOS." #NT!
+ insulindia.20.a: "Indonesian Democracy Will Be Strong!" #NT!
+  
+ insulindia.100.t: "Indonesia Wish to Join the Entante" #NT!
+ insulindia.100.d: "Indonesia has approached us in the intrest of joining the Entante. If we accept them, we will gain an ally in the area, but since it is a formerly British colony, would it be best to reject in order to not anger the brits?!" #NT!
+ insulindia.100.a: "They Will be Welcomed!" #NT!
+ insulindia.100.b: "We Do Not Need New Members!" #NT!
+  
+ insulindia.101.t: "France Accept our Request" #NT!
+ insulindia.101.d: "The French have accepted our request to join the Entante. We will surely prove that we are an ally they can trust on." #NT!
+ insulindia.101.a: "Our Alliance Shall Thrive!" #NT!
+  
+ insulindia.102.t: "France Reject our Request" #NT!
+ insulindia.102.d: "The French have rejected our request to join the Entante. While it is a disturbance, we have assured ourselves that it will be them that are going to lose on their decision." #NT!
+ insulindia.102.a: "It is They Who Miss Out!" #NT!
+  
+ insulindia.103.t: "Indonesia Wish to Join the 3rd International" #NT!
+ insulindia.103.d: "Indonesia has approached us in the intrest of joining the Third International. If we accept them, we will gain an ally in the area, one that may help spread soviet influence in Asia. Some have been conserned of letting a former British colony into our alliance, but we should remember that the International is for all people." #NT!
+ insulindia.103.a: "They Will be Welcomed!" #NT!
+ insulindia.103.b: "We Do Not Need New Members!" #NT!
+  
+ insulindia.104.t: "The Soviets Accept our Request" #NT!
+ insulindia.104.d: "The Soviets have accepted our request to join the Third International. We will surely prove that we are an ally they can trust on." #NT!
+ insulindia.104.a: "Our Alliance Shall Thrive!" #NT!
+  
+ insulindia.105.t: "The Soviets Reject our Request" #NT!
+ insulindia.105.d: "The Soviets have rejected our request to join the Third International. While it is a disturbance, we have assured ourselves that it will be them that are going to lose on their decision." #NT!
+ insulindia.105.a: "It is They Who Miss Out!" #NT!
+  
+ insulindia.106.t: "Indonesia Wants to Buy Sulawesi" #NT!
+ insulindia.106.d: "After the former Dutch East Indies was divided up between us, Britain and other countries, Sulawesi have been under Japanese control. Now with the British part of the East Indies becoming independent, the new Indonesian state has given us an offer. They want to buy Sulawesi from us and are willing to pay a fair sum of money and recourses. While the proposal is intriging, this sale will also weaken our control in the area." #NT!
+ insulindia.106.a: "If the Price is Acceptable Then" #NT!
+ insulindia.106.b: "Sulawesi Will be a Japanese Colony" #NT!
+  
+ insulindia.107.t: "Japan Accept our Purchase" #NT!
+ insulindia.107.d: "Tokyo have responded to our offer of purchasing Sulawesi, they accepted our generous offer and have proceeded to coordinate with us with the details." #NT!
+ insulindia.107.a: "Welcome Sulawesi Home" #NT!
+  
+ insulindia.108.t: "Japan Reject our Purchase" #NT!
+ insulindia.108.d: "Tokyo have responded to our offer of purchasing Sulawesi, they have refused our offer and have build up defenses around the island incase we try to seize it for ourselves." #NT!
+ insulindia.108.a: "Bastards!" #NT!
+  
+ insulindia.109.t: "Indonesia Wish to Join the Co-Prosperity Sphere" #NT!
+ insulindia.109.d: "The Indonesian Government have approached us asking to join our military alliance. Though the lands of Indonesia is ripe of raw resources that we needed, they are fresh from their rebellion and haven't fully recovered and industrialized yet. Should we accept?" #NT!
+ insulindia.109.a: "They Will be Welcomed!" #NT!
+ insulindia.109.b: "We Do Not Need New Members!" #NT!
+  
+ insulindia.110.t: "Japan Accept our Request" #NT!
+ insulindia.110.d: "WIP" #NT!
+ insulindia.110.a: "Our Alliance Shall Thrive!" #NT!
+  
+ insulindia.111.t: "Japan Reject our Request" #NT!
+ insulindia.111.d: "WIP" #NT!
+ insulindia.111.a: "It is They Who Miss Out!" #NT!
+  
+ insulindia.112.t: "Indonesia Wish to Join the Co-Prosperity Sphere" #NT!
+ insulindia.112.d: "We have been approached by the delegates from the newly formed [INS.GetNameDef]. They have expressed that they are interested in join our faction. Should we accept?" #NT!
+ insulindia.112.a: "They Will be Welcomed!" #NT!
+ insulindia.112.b: "We Do Not Need New Members!" #NT!
+  
+ insulindia.113.t: "[From.GetName] Accepts" #NT!
+ insulindia.113.d: "Our friends in the [From.GetName] have accepted our proposal in joining their faction." #NT!
+ insulindia.113.a: "Our Alliance Shall Thrive!" #NT!
+  
+ insulindia.114.t: "[From.GetName] Refuses" #NT!
+ insulindia.114.d: "The government of [From.GetName] have refused our proposal in joining our faction." #NT!
+ insulindia.114.a: "It is They Who Miss Out!" #NT!
+  
+ #### Focus Tree #### 
+ INS_organize_armed_forces: "Organize the Armed Forces" #NT!
+ INS_organize_armed_forces_desc: "" #NT!
+  
+ INS_establish_an_air_force: "Establish an Air Force" #NT!
+ INS_establish_an_air_force_desc: "The KNIL used to have an air force, and while only one Indonesian pilot had official training, Adusicipto has been training new Indonesian pilots. Let us take notes and establish the Indonesian Air Force to handle the war in the air." #NT!
+ INS_our_own_air_bases: "Our Own Air Bases" #NT!
+ INS_our_own_air_bases_desc: "We have a defenitive lack of airbases as an archipelago constructing more airbases will bolster our aerial defense within our own borers." #NT!
+ INS_purchase_new_air_crafts: "Purchase New Air Crafts" #NT!
+ INS_purchase_new_air_crafts_desc: "Building an air force from the ground up takes time. We should try to purchase old planes from the Japanese in the name of Asian cooperation." #NT!
+ INS_study_air_doctrines: "Study Air Doctrines" #NT!
+ INS_study_air_doctrines_desc: "If we are to build an air force that is taken seriously in the world, we should study doctrinal advances in this sector." #NT!
+ INS_focus_on_fighters: "Focus on Fighters" #NT!
+ INS_focus_on_fighters_desc: "Without fighters, our airspace is defenceless. We should invest in fighter planes to make sure we can retain sovereignty over our air." #NT!
+ INS_focus_on_bombers: "Focus on Bombers" #NT!
+ INS_focus_on_bombers_desc: "Bombers are ideal to cripple the enemy industry and infrastructure. They should make up the bulk of our nation's air force with only a small squadron of fighters to defend them on their missions." #NT!
+  
+ INS_build_an_army: "Build an Army" #NT!
+ INS_build_an_army_desc: "If we are to secure our independence, we need an army. We have enough manpower but finding the needed guns will definitely be a challenge." #NT!
+ INS_our_own_tactics: "Our Own Tactics" #NT!
+ INS_our_own_tactics_desc: "We should invest in researching doctrines as a guiding hand to our army in defeating our enemies, who undoubtedly invest in doctrinal advances too." #NT!
+ INS_guerilla_fights: "Guerilla Fights" #NT!
+ INS_guerilla_fights_desc: "We can't beat our enemies in head-on battle, at least not yet. A series of hit-and-run attacks from the jungle - guerrilla tactics - will be necessary to wear the enemy out so we can in turn take strategic points" #NT!
+ INS_army_of_people: "An Army of People" #NT!
+ INS_army_of_people_desc: "With these technical advances, we can say that our military is in a significantly better state than a few years ago. With such a capable military, Indonesia's military looks bright!" #NT!
+ INS_adopt_foreign_tactics: "Adopt Foreign Tactics" #NT!
+ INS_adopt_foreign_tactics_desc: "" #NT!
+ INS_update_gun_designes: "Update the Gun Designes" #NT!
+ INS_update_gun_designes_desc: "If we are to become a nation famed for its army, we should keep our infantry forces in mind too. Our guns are severely outdated, sometimes dating back to the Weltkrieg or even earlier. Time to change that!" #NT!
+ INS_mechanized_research: "Mechanized Research" #NT!
+ INS_mechanized_research_desc: "" #NT!
+ INS_artillary_support: "Artillary Support" #NT!
+ INS_artillary_support_desc: "We should back our armies up with artillery, pieces of which can be strategically placed on mountains to stop our enemies in their tracks as they get barraged in the jungle." #NT!
+ INS_jungle_warfare: "Jungle Warfare" #NT!
+ INS_jungle_warfare_desc: "" #NT!
+ INS_meet_them_with_force: "Meet Them With Force" #NT!
+ INS_meet_them_with_force_desc: "" #NT!
+ INS_army_of_experience: "An Army of Experience" #NT!
+ INS_army_of_experience_desc: "We should take inspiration from the KNIL. While their goals - maintaining Dutch and British tyranny over Indonesians - are despicable, we should definitely take note of their splendid organisation and discipline." #NT!
+ INS_mountainer_research: "Mountainer Research" #NT!
+ INS_mountainer_research_desc: "Indonesia is home to many mountains, volcanoes even. We should invest in special forces specifically trained to fight in alpine conditions to improve both our defence and offence." #NT!
+  
+ INS_establish_an_navy: "Establish an Navy" #NT!
+ INS_establish_an_navy_desc: "Indonesia is a nation of islands, so long as we don't have a navy, we can hardly prevent the enemy from cutting Java and Sumatra off from the rest of the archipelago. Let us build a navy to keep the nation together!" #NT!
+ INS_purchase_new_ships: "Purchase New Ships" #NT!
+ INS_purchase_new_ships_desc: "Building a navy from scratch will be a severe challenge. We should instead try to entice foreign powers to help us build the navy we so desire." #NT!
+ INS_expand_naval_ports: "Expand the Naval Ports" #NT!
+ INS_expand_naval_ports_desc: "We should make sure that virtually every island has at least some kind of naval guardianship. We can hardly be taken seriously with a numerically limited navy." #NT!
+ INS_destroyer_research: "Destroyer Research" #NT!
+ INS_destroyer_research_desc: "" #NT!
+ INS_focus_on_cruisers: "Focus on Cruisers" #NT!
+ INS_focus_on_cruisers_desc: "" #NT!
+ INS_focus_on_submarines: "Focus on Submarines" #NT!
+ INS_focus_on_submarines_desc: "Let us build our navy of subsurface vessels such as submarines. In the Weltkrieg they arguably won Germany the war and our former colonial master was specialised in them as well. Let us harass their shipping to make it too expensive to attack us." #NT!
+ INS_study_naval_doctrines: "Study Naval Doctrines" #NT!
+ INS_study_naval_doctrines_desc: "" #NT!
+ INS_expand_dockyards: "Expand the Dockyards" #NT!
+ INS_expand_dockyards_desc: "" #NT!
+ INS_unsinking_carriers: "Unsinking Carriers" #NT!
+ INS_unsinking_carriers_desc: "" #NT!
+  
+ INS_build_insulindian_economy: "Build the Indonesian Economy" #NT!
+ INS_build_insulindian_economy_desc: "" #NT!
+ INS_rebuild_civilian_sector: "Rebuild the Civilian Sector" #NT!
+ INS_rebuild_civilian_sector_desc: "" #NT!
+ INS_upgrade_inland_roads: "Upgrade Inland Roads" #NT!
+ INS_upgrade_inland_roads_desc: "" #NT!
+ INS_move_for_autarky: "Move for Autarky" #NT!
+ INS_move_for_autarky_desc: "" #NT!
+ INS_nationalize_foreign_industries: "Nationalize Foreign Industries" #NT!
+ INS_nationalize_foreign_industries_desc: "" #NT!
+ INS_subsidice_rice_farms: "Subsidice the Rice Farms" #NT!
+ INS_subsidice_rice_farms_desc: "" #NT!
+ INS_nationalize_rubber_industry: "Nationalize the Rubber Industry" #NT!
+ INS_nationalize_rubber_industry_desc: "" #NT!
+ INS_strengthen_research_hub: "Strengthen the Research Hub" #NT!
+ INS_strengthen_research_hub_desc: "" #NT!
+ INS_reopen_for_foreign_investors: "Reopen for Foreign Investors" #NT!
+ INS_reopen_for_foreign_investors_desc: "" #NT!
+ INS_establish_weapon_industry: "Establish a Weapon Industry" #NT!
+ INS_establish_weapon_industry_desc: "" #NT!
+ INS_invite_back_british_investors: "Invite Back British Investors" #NT!
+ INS_invite_back_british_investors_desc: "" #NT!
+ INS_work_with_rubber_industry_investors: "Work With Rubber Industry Investors" #NT!
+ INS_work_with_rubber_industry_investors_desc: "" #NT!
+ INS_build_up_trade_connections: "Build Up Trade Connections" #NT!
+ INS_build_up_trade_connections_desc: "" #NT!
+ INS_build_up_infrastructure: "Build Up the Infrastructure" #NT!
+ INS_build_up_infrastructure_desc: "" #NT!
+ INS_focus_civilian_industry: "Focus on the Civilian Industry" #NT!
+ INS_focus_civilian_industry_desc: "" #NT!
+ INS_focus_arms_industry: "Focus on the Arms Industry" #NT!
+ INS_focus_arms_industry_desc: "" #NT!
+  
+ INS_proclaim_independence: "Proclaim Independence" #NT!
+ INS_proclaim_independence_desc: "We have secured our freedom at last. The wretched Belanda have been pushed out and Indonesia's independence has been secured! This day will not soon be forgotten!" #NT!
+  
+ INS_insulindian_diplomacy: "Indonesian Diplomacy" #NT!
+ INS_insulindian_diplomacy_desc: "Now that we secured our independent future, a foreign office should be opened to establish contacts with the outside world as we venture to further our goals!" #NT!
+ INS_find_democratic_friends: "Find Democratic Friends" #NT!
+ INS_find_democratic_friends_desc: "" #NT!
+ INS_strengthen_american_relations: "Strengthen American Relations" #NT!
+ INS_strengthen_american_relations_desc: "" #NT!
+ INS_grow_french_relations: "Grow French Relations" #NT!
+ INS_grow_french_relations_desc: "" #NT!
+ INS_join_french_alliance: "Join the French Alliance" #NT!
+ INS_join_french_alliance_desc: "" #NT!
+ INS_insulindian_revolution: "Indonesian Revolution" #NT!
+ INS_insulindian_revolution_desc: "" #NT!
+ INS_strengthen_soviet_relations: "Strengthen Soviet Relations" #NT!
+ INS_strengthen_soviet_relations_desc: "" #NT!
+ INS_east_asian_revolutionary_funding: "East Asian Revolutionary Funding" #NT!
+ INS_east_asian_revolutionary_funding_desc: "" #NT!
+ INS_join_soviet_alliance: "Join the Soviet Alliance" #NT!
+ INS_join_soviet_alliance_desc: "" #NT!
+ INS_strive_for_united_insulindia: "Strive for a Free Indonesia" #NT!
+ INS_strive_for_united_insulindia_desc: "" #NT!
+ INS_sieze_timor: "Sieze Timor" #NT!
+ INS_sieze_timor_desc: "The Portuguese imperialists have held Timor under their imperialist rule for far too long. We should invade this stain on the map and liberate the Indonesian populace from their Portuguese tyranny." #NT!
+ INS_kick_out_japanese: "Kick Out the Japanese" #NT!
+ INS_kick_out_japanese_desc: "The tiny island of Sulawesi is still under the boot of the Japanese. We should be gracious enough to intervene and incorporate them in our nation, with the local Malay population surely seeing us as liberators, right?" #NT!
+ INS_continue_war_against_british: "Continue the War Against the British" #NT!
+ INS_continue_war_against_british_desc: "" #NT!
+ INS_strengthen_indian_relations: "Strengthen Indian Relations" #NT!
+ INS_strengthen_indian_relations_desc: "" #NT!
+ INS_fund_anti_colonialist_groups: "Fund Anti-Colonialist Groups" #NT!
+ INS_fund_anti_colonialist_groups_desc: "" #NT!
+ INS_anti_colonialist_alliance: "An Anti-Colonialist Alliance" #NT!
+ INS_anti_colonialist_alliance_desc: "" #NT!
+ INS_east_asian_relations: "East Asian Relations" #NT!
+ INS_east_asian_relations_desc: "" #NT!
+ INS_mission_to_japan: "Mission to Japan" #NT!
+ INS_mission_to_japan_desc: "Japan brings inspiration: they were Asia's rising sun who managed to become on par with the westerners; they were one of the few nations that managed to avoid the colonial onslaught, and now they seek to spread their influence throughout Asia. We should join this project against western incursion in the eastern sphere!" #NT!
+ INS_try_buying_sulawesi: "Try to Purchase Sulawesi" #NT!
+ INS_try_buying_sulawesi_desc: "" #NT!
+ INS_join_japanese_alliance: "Join the Japanese Alliance" #NT!
+ INS_join_japanese_alliance_desc: "" #NT!
+  
+ INS_open_political_sphere: "Open the Political Sphere" #NT!
+ INS_open_political_sphere_desc: "We stand on a political crossroad as the different groups that fought the Dutch with differing views on how the country should be ruled start to quarrel amongst each other." #NT!
+  
+ ##Democracy Tree## 
+ INS_first_insulindian_election: "The First Indonesian Election" #NT!
+ INS_first_insulindian_election_desc: "" #NT!
+  
+ INS_pki_government: "PKI Government" #NT!
+ INS_pki_government_desc: "" #NT!
+ INS_strike_down_foreign_capitalists: "Strike Down Foreign Capitalists" #NT!
+ INS_strike_down_foreign_capitalists_desc: "" #NT!
+ INS_pesinsu_unity: "Pesinsu Unity" #NT!
+ INS_pesinsu_unity_desc: "" #NT!
+ INS_collectivize_industries: "Collectivize the Industries" #NT!
+ INS_collectivize_industries_desc: "" #NT!
+ INS_fight_for_gender_equality: "Fight for Gender Equality" #NT!
+ INS_fight_for_gender_equality_desc: "" #NT!
+ INS_workers_farmers_rights: "Workers and Farmers Rights" #NT!
+ INS_workers_farmers_rights_desc: "" #NT!
+ INS_socialist_democracy: "Socialist Democracy" #NT!
+ INS_socialist_democracy_desc: "" #NT!
+ INS_kolektivisme: "Kolektivisme" #NT!
+ INS_kolektivisme_desc: "" #NT!
+  
+ INS_pni_government: "PNI Government" #NT!
+ INS_pni_government_desc: "Indonesians have decisively cast their vote for the only right party to rule the Indonesian archipelago, those who brought it independence: the PNI. Indonesia stands at the dawn of a new era!" #NT!
+ INS_promote_mahaenism: "Promote Marhaenism" #NT!
+ INS_promote_mahaenism_desc: "Marhaenism is the basis of our ideology: a pragmatic form of socialism emphasising national unity, culture and anti-imperialism. Let us stand together in the name of the poor farmer Marhaen and all the other Marhaens in Indonesia." #NT!
+ INS_centralization_of_power: "The Centralization of Power" #NT!
+ INS_centralization_of_power_desc: "" #NT!
+ INS_empower_presidency: "Empower the Presidency" #NT!
+ INS_empower_presidency_desc: "" #NT!
+ INS_introduce_pancasila: "Introduce Pancasila" #NT!
+ INS_introduce_pancasila_desc: "" #NT!
+ INS_guided_democracy: "Управляемая демократия"
+ INS_guided_democracy_desc: "The current unguided democracy is the root cause of instability, and in turn connected to the attack on Sukarno. We should guide democracy into the right PNI way, to secure stability for all!" #NT!
+ INS_united_in_nationalism: "United in Nationalism" #NT!
+ INS_united_in_nationalism_desc: "" #NT!
+ INS_entrench_political_independence: "Entrench Our Political Independence" #NT!
+ INS_entrench_political_independence_desc: "" #NT!
+ INS_purge_for_stability: "A Purge For Stability" #NT!
+ INS_purge_for_stability_desc: "" #NT!
+ INS_nasionalisme: "Nasionalisme" #NT!
+ INS_nasionalisme_desc: "" #NT!
+  
+ INS_nu_government: "NU Government" #NT!
+ INS_nu_government_desc: "" #NT!
+ INS_build_islamic_democracy: "Build an Islamic Democracy" #NT!
+ INS_build_islamic_democracy_desc: "" #NT!
+ INS_ties_with_pni_rightwingers: "Ties With PNI Rightwingers" #NT!
+ INS_ties_with_pni_rightwingers_desc: "" #NT!
+ INS_attract_pni_voters: "Attract PNI Voters" #NT!
+ INS_attract_pni_voters_desc: "" #NT!
+ INS_decentralize_presidential_power: "Decentralize Presidential Power" #NT!
+ INS_decentralize_presidential_power_desc: "" #NT!
+ INS_islamic_teaching: "Islamic Teaching" #NT!
+ INS_islamic_teaching_desc: "" #NT!
+ INS_limit_pki_influences: "Limit PKI Influences" #NT!
+ INS_limit_pki_influences_desc: "" #NT!
+ INS_new_democracy: "A New Democracy" #NT!
+ INS_new_democracy_desc: "" #NT!
+ INS_promote_traditionalism: "Promote Traditionalism" #NT!
+ INS_promote_traditionalism_desc: "" #NT!
+ INS_agama: "Agama" #NT!
+ INS_agama_desc: "" #NT!
+  
+ ##Autocracy Tree## 
+ INS_islamic_coup: "Islamic Coup" #NT!
+ INS_islamic_coup_desc: "" #NT!
+  
+ INS_darul_islam_government: "Darul Islam Government" #NT!
+ INS_darul_islam_government_desc: "Following the chaos of the assassination attempt, Darul Islam militants have swiftly taken over strategic points throughout the country. Power is ours now." #NT!
+ INS_purge_non_islamic_parties: "Purge Non-Islamic Parties" #NT!
+ INS_purge_non_islamic_parties_desc: "" #NT!
+ INS_work_with_nu_members: "Work With NU Members" #NT!
+ INS_work_with_nu_members_desc: "" #NT!
+ INS_unite_islamic_parties: "Unite the Islamic Parties" #NT!
+ INS_unite_islamic_parties_desc: "" #NT!
+ INS_establish_islamic_state: "Establish an Islamic State" #NT!
+ INS_establish_islamic_state_desc: "" #NT!
+ INS_sharia_law: "Sharia Law" #NT!
+ INS_sharia_law_desc: "" #NT!
+ INS_slaugther_collectivists: "Slaugther the Communists" #NT!
+ INS_slaugther_collectivists_desc: "" #NT!
+ INS_empower_clergy: "Empower the Clergy" #NT!
+ INS_empower_clergy_desc: "" #NT!
+ INS_darul_islam: "Darul Islam" #NT!
+ INS_darul_islam_desc: "" #NT!
+  
+ INS_monarchist_counter_coup: "Monarchist Counter-Coup" #NT!
+ INS_monarchist_counter_coup_desc: "" #NT!
+ INS_ensure_sultans_loyalty: "Ensure the Sultans Loyalty" #NT!
+ INS_ensure_sultans_loyalty_desc: "" #NT!
+ INS_eradicate_left_opposition: "Eradicate the Left Opposition" #NT!
+ INS_eradicate_left_opposition_desc: "" #NT!
+ INS_anti_socialist_militas: "Anti-Socialist Militas" #NT!
+ INS_anti_socialist_militas_desc: "" #NT!
+ INS_claim_majapahit_decendancy: "Claim Majapahit Decendancy" #NT!
+ INS_claim_majapahit_decendancy_desc: "" #NT!
+ INS_construct_royal_palace: "Construct a Royal Palace" #NT!
+ INS_construct_royal_palace_desc: "" #NT!
+ INS_deal_with_right_opposition: "Deal With the Right Opposition" #NT!
+ INS_deal_with_right_opposition_desc: "" #NT!
+ INS_appoint_great_prime_minister: "Appoint a Great Prime Minister" #NT!
+ INS_appoint_great_prime_minister_desc: "" #NT!
+ INS_limit_islamist_influences: "Limit Islamist Influences" #NT!
+ INS_limit_islamist_influences_desc: "" #NT!
+ INS_majapahit: "Majapahit" #NT!
+ INS_majapahit_desc: "" #NT!
+  
+ #### Country Flag #### 
+  
+ INS_first_insulindian_election_flag: "The First Indonesian Election have Happened" #NT!
+ INS_darul_islam_government_flag: "Darul Islam have Taken Power" #NT!
+ INS_monarchist_counter_coup_flag: "Indonesian Royals have Taken Power" #NT!
+  
+ #### Others #### 
+  
+ INS_find_democratic_friends_opinion: "Democratic Relations" #NT!
+ INS_strengthen_american_relations_opinion: "American-Indonesian Relations Strengthened" #NT!
+ INS_grow_french_relations_opinion: "French-Indonesian Relations Strengthened" #NT!
+ INS_insulindian_revolution_opinion: "Revolutionary Relations" #NT!
+ INS_strengthen_soviet_relations_opinion: "Soviet-Indonesian Relations Strengthened" #NT!
+ INS_strive_for_united_insulindia_opinion: "Indonesian Ambitious" #NT!
+ INS_strengthen_indian_relations_opinion: "Indian-Indonesian Relations Strengthened" #NT!
+ INS_east_asian_relations_opinion: "East Asian Relations Strengthened" #NT!
+ INS_mission_to_japan_opinion: "Japanese-Indonesian Relations Strengthened" #NT!
+  
+ INS_insulindian_faction: "Anti-Colonialist Pact" #NT!
+  
+ POLTICS_SUKARNO_DESC: "The son of Javanese aristocrats, the young Sukarno came into the world in 1901. Sukarno first became interested in politics when he was introduced to the unique philosophy of a farmer named Marhaen, whose personal political philosophy inspired Sukarno to found the PNI in 1926. The other great influence for Sukarno's basis of elected rule was the Algemeene Studieclub, which studied Dutch translations of the German constitution. Now that independence is here, Sukarno is beholden to the many faiths and desperate ideologies of Indonesia to unify all people in the archipelago." #NT!
+  
+ INS_Munawar_Musso: "Munawar Musso" #NT!
+ INS_Sudisman: "Sudisman" #NT!
+ INS_Amir_Hamzah: "Amir Hamzah" #NT!
+ INS_Semaun: "Semaun" #NT!
+ INS_Amir_Sjarifuddin: "Amir Sjarifuddin" #NT!
+ INS_Tan_Malaka: "Tan Malaka" #NT!
+ INS_Sutan_Sjahrir: "Sutan Sjahrir" #NT!
+ INS_Abdul_Wahid_Hasyim: "Abdul Wahid Hasyim" #NT!
+ INS_Mohammed_Natsir: "Mohammed Natsir" #NT!
+ INS_Mohammed_Hatta: "Mohammed Hatta" #NT!
+ INS_Sukarno: "Sukarno" #NT!
+ INS_Abdul_Kahar_Muzakkar: "Abdul Kahar Muzakkar" #NT!
+ INS_Hamengkubuwono_IX: "Hamengkubuwono IX" #NT!
+ INS_Sekarmadji_Kartosoewirjo: "Sekarmadji Kartosoewirjo" #NT!
+ INS_Subandrio: "Subandrio" #NT!
+ INS_Agus_Salim: "Agus Salim" #NT!
+ INS_Adam_Malik: "Adam Malik" #NT!
+ INS_Sukarni: "Sukarni" #NT!
+ INS_Ide_Anak_Agung_Gde_Agung: "Ide Anak Agung Gde Agung" #NT!
+ INS_Abdul_Malik: "Abdul Malik" #NT!
+ INS_Mohammed_Roem: "Mohammed Roem" #NT!
+ INS_Achmad_Soebardjo: "Achmad Soebardjo" #NT!
+ INS_Ali_Sastroamidjojo: "Ali Sastroamidjojo" #NT!
+ INS_Ruslan_Abdulgani: "Ruslan Abdulgani" #NT!
+ INS_Albertus_Sugiyapranata: "Albertus Sugiyapranata" #NT!
+ INS_Ipik_Gandamana: "Ipik Gandamana" #NT!
+ INS_Isa_Anshari: "Isa Anshari" #NT!
+ INS_Alimin: "Alimin" #NT!
+ INS_Njoto: "Njoto" #NT!
+ INS_Rustam_Effendi: "Rustam Effendi" #NT!
+ INS_Sumitro_Djojohadikusumo: "Sumitro Djojohadikusumo" #NT!
+ INS_Chairul_Saleh: "Chairul Saleh" #NT!
+ INS_Utomo_Ramelan: "Utomo Ramelan" #NT!
+ INS_Soenarjo_Kolopaking: "Soenarjo Kolopaking" #NT!
+ INS_Wilopo: "Wilopo" #NT!
+ INS_Kasman_Singodimedjo: "Kasman Singodimedjo" #NT!
+ INS_Sjafruddin_Prawiranegara: "Sjafruddin Prawiranegara" #NT!
+ INS_Alexander_Maramis: "Alexander Maramis" #NT!
+ INS_Wongsonegoro: "Wongsonegoro" #NT!
+ INS_Ibnu_Hadjar: "Ibnu Hadjar" #NT!
+ INS_Ignatius_J_Kasimo: "Ignatius J. Kasimo" #NT!
+ INS_Mangkunegara_VIII: "Mangkunegara VIII" #NT!
+ INS_Prawoto_Mangkusasmito: "Prawoto Mangkusasmito" #NT!
+ INS_Suparna_Sastra_Diredja: "Suparna Sastra Diredja" #NT!
+ INS_Albert_M_Sipahoetar: "Albert M. Sipahoetar" #NT!
+ INS_Maria_Ulfah_Santoso: "Maria Ulfah Santoso" #NT!
+ INS_Teuku_Muhammad_Hasan: "Teuku Muhammad Hasan" #NT!
+ INS_Halibno_Tjokroaminoto: "Halibno Tjokroaminoto" #NT!
+ INS_Sahardjo: "Sahardjo" #NT!
+ INS_Daud_Beureueh: "Daud Beureueh" #NT!
+ INS_Ki_Bagus_Hadikusumo: "Ki Bagus Hadikusumo" #NT!
+ INS_Paku_Alam_VIII: "Paku Alam VIII" #NT!
+ INS_Tirto_Adhi_Suryo: "Tirto Adhi Suryo" #NT!
+ INS_Adnan_Kapau_Gani: "Adnan Kapau Gani" #NT!
+ INS_Gatot_Soebroto: "Gatot Soebroto" #NT!
+ INS_Masjkur: "Masjkur" #NT!
+ INS_Ahmad_Yunus_Mokoginta: "Ahmad Yunus Mokoginta" #NT!
+ INS_Dahlan_Djambek: "Dahlan Djambek" #NT!
+ INS_Djamin_Ginting: "Djamin Ginting" #NT!
+ INS_Hamid_Rusdi: "Hamid Rusdi" #NT!
+ INS_Rokus_Bernardus_Visser: "Rokus Bernardus Visser" #NT!
+ INS_Sutomo: "Sutomo" #NT!
+ INS_Augustus_Rosenow: "August Friederich Hermann Rosenow" #NT!
+ INS_Eddy_Mardinata: "Eddy Mardinata" #NT!
+ INS_Mas_Pardi: "Mas Pardi" #NT!
+ INS_R_Soebijakto: "R. Soebijakto" #NT!
+ INS_R_Suhadi: "R. Suhadi" #NT!
+ INS_Agustinus_Adisucipto: "Agustinus Adisucipto" #NT!
+ INS_Halim_Perdanakusuma: "Halim Perdanakusuma" #NT!
+ INS_Nurtanio_Pringgoadisuryo: "Nurtanio Pringgoadisuryo" #NT!
+ INS_Abdul_Rachman_Saleh: "Abdul Rachman Saleh" #NT!
+ INS_Adisumarmo_Wiryokusumo: "Adisumarmo Wiryokusumo" #NT!
+ INS_Tjilik_Riwut: "Tjilik Riwut" #NT!
+ INS_Hasyim_Asy_ari: "Hasyim Asy'ari" #NT!
+ INS_Gusti_Raden_Mas_Dorodjatun: "Gusti Raden Mas Dorodjatun" #NT!
+ INS_Sudirman: "Sudirman" #NT!
+ INS_Urip_Sumohardjo: "Urip Sumohardjo" #NT!

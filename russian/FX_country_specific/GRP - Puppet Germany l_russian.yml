@@ -1,0 +1,211 @@
+﻿l_russian:
+  
+ ### Country Names 
+  
+ GRP_vanguardist: "German Socialist Republic" #NT!
+ GRP_vanguardist_ADJ: "German" #NT!
+ GRP_vanguardist_DEF: "the German Socialist Republic" #NT!
+ GRP_collectivist: "German Socialist Republic" #NT!
+ GRP_collectivist_ADJ: "German" #NT!
+ GRP_collectivist_DEF: "the German Socialist Republic" #NT!
+ GRP_libertarian_socialist: "German Socialist Republic" #NT!
+ GRP_libertarian_socialist_ADJ: "German" #NT!
+ GRP_libertarian_socialist_DEF: "the German Socialist Republic" #NT!
+ GRP_social_democrat: "German Republic" #NT!
+ GRP_social_democrat_ADJ: "German" #NT!
+ GRP_social_democrat_DEF: "the German Republic" #NT!
+ GRP_social_liberal: "German Republic" #NT!
+ GRP_social_liberal_ADJ: "German" #NT!
+ GRP_social_liberal_DEF: "the German Republic" #NT!
+ GRP_market_liberal: "German Republic" #NT!
+ GRP_market_liberal_ADJ: "German" #NT!
+ GRP_market_liberal_DEF: "the German Republic" #NT!
+ GRP_social_conservative: "German Republic" #NT!
+ GRP_social_conservative_ADJ: "German" #NT!
+ GRP_social_conservative_DEF: "the German Republic" #NT!
+ GRP_authoritarian_democrat: "German Republic" #NT!
+ GRP_authoritarian_democrat_ADJ: "German" #NT!
+ GRP_authoritarian_democrat_DEF: "the German Republic" #NT!
+ GRP_paternal_autocrat: "German National Republic" #NT!
+ GRP_paternal_autocrat_ADJ: "German" #NT!
+ GRP_paternal_autocrat_DEF: "the German National Republic" #NT!
+ GRP_national_populist: "German National Republic" #NT!
+ GRP_national_populist_ADJ: "German" #NT!
+ GRP_national_populist_DEF: "the German National Republic" #NT!
+ GRP_valkist: "German National Republic" #NT!
+ GRP_valkist_ADJ: "German" #NT!
+ GRP_valkist_DEF: "the German National Republic" #NT!
+  
+ GRP_occupation: "Germany" #NT!
+ GRP_occupation_ADJ: "German" #NT!
+ GRP_occupation_DEF: "the $OVERLORDADJ$ Military Government in Germany" #NT!
+  
+ GRP_soc_occupation_divided: "$OVERLORDADJ$ Occupation Zone" #NT!
+ GRP_soc_occupation_divided_ADJ: "German" #NT!
+ GRP_soc_occupation_divided_DEF: "the $OVERLORDADJ$ Military Government in Germany" #NT!
+  
+ GRP_dem_occupation_divided: "$OVERLORDADJ$ Occupation Zone" #NT!
+ GRP_dem_occupation_divided_ADJ: "German" #NT!
+ GRP_dem_occupation_divided_DEF: "the $OVERLORDADJ$ Military Government in Germany" #NT!
+  
+ GRP_aut_occupation_divided: "$OVERLORDADJ$ Occupation Zone" #NT!
+ GRP_aut_occupation_divided_ADJ: "German" #NT!
+ GRP_aut_occupation_divided_DEF: "the $OVERLORDADJ$ Military Government in Germany" #NT!
+  
+ GRP_DDR_vanguardist: "German Democratic Republic" #NT!
+ GRP_DDR_vanguardist_ADJ: "German" #NT!
+ GRP_DDR_vanguardist_DEF: "the German Democratic Republic" #NT!
+ GRP_DDR_collectivist: "German Democratic Republic" #NT!
+ GRP_DDR_collectivist_ADJ: "German" #NT!
+ GRP_DDR_collectivist_DEF: "the German Democratic Republic" #NT!
+ GRP_DDR_libertarian_socialist: "German Democratic Republic" #NT!
+ GRP_DDR_libertarian_socialist_ADJ: "German" #NT!
+ GRP_DDR_libertarian_socialist_DEF: "the German Democratic Republic" #NT!
+  
+ ### Parties 
+ GRP_vanguardist_party: "KPD" #NT!
+ GRP_vanguardist_party_long: "Kommunistische Partei Deutschlands\n§gCommunist Party of Germany§!" #NT!
+ GRP_collectivist_party: "KPD" #NT!
+ GRP_collectivist_party_long: "Kommunistische Partei Deutschlands\n§gCommunist Party of Germany§!" #NT!
+ GRP_libertarian_socialist_party: "KPD" #NT!
+ GRP_libertarian_socialist_party_long: "Kommunistische Partei Deutschlands\n§gCommunist Party of Germany§!" #NT!
+ GRP_social_democrat_party: "SPD" #NT!
+ GRP_social_democrat_party_long: "Sozialdemokratische Partei Deutschlands\n§gSocial Democratic Party of Germany§!" #NT!
+ GRP_social_liberal_party: "DPD - Liberalenflügel" #NT!
+ GRP_social_liberal_party_long: "Demokratische Partei Deutschlands\n§gDemocratic Party of Germany§!" #NT!
+ GRP_market_liberal_party: "DPD - Nationalenflügel" #NT!
+ GRP_market_liberal_party_long: "Demokratische Partei Deutschlands\n§gDemocratic Party of Germany§!" #NT!
+ GRP_liberal_party: "DPD" #NT!
+ GRP_liberal_party_long: "Demokratische Partei Deutschlands\n§gDemocratic Party of Germany§!" #NT!
+ GRP_social_conservative_party: "CDVP" #NT!
+ GRP_social_conservative_party_long: "Christlich-Demokratische Volkspartei\n§gChristian Democratic People's Party§!" #NT!
+ GRP_authoritarian_democrat_party: "DP" #NT!
+ GRP_authoritarian_democrat_party_long: "Deutsche Partei\n§gGerman Party§!" #NT!
+ GRP_paternal_autocrat_party: "DKP" #NT!
+ GRP_paternal_autocrat_party_long: "Deutsche Konservative Partei\n§gGerman Conservative Party§!" #NT!
+ GRP_national_populist_party: "DRP" #NT!
+ GRP_national_populist_party_long: "Deutsche Reichspartei\n§gGerman Reich Party§!" #NT!
+ GRP_valkist_party: "VDFkb - Werwolf" #NT!
+ GRP_valkist_party_long: "Valkistischer Deutscher Frontkämpferbund\n§gValkist German Fighter's Front§!" #NT!
+  
+ GRP_DDR_vanguardist_party: "SED" #NT!
+ GRP_DDR_vanguardist_party_long: "Sozialistische Einheitspartei Deutschlands\n§gSocialist Unity Party of Germany§!" #NT!
+ GRP_DDR_collectivist_party: "SED" #NT!
+ GRP_DDR_collectivist_party_long: "Sozialistische Einheitspartei Deutschlands\n§gSocialist Unity Party of Germany§!" #NT!
+ GRP_DDR_libertarian_socialist_party: "SED" #NT!
+ GRP_DDR_libertarian_socialist_party_long: "Sozialistische Einheitspartei Deutschlands\n§gSocialist Unity Party of Germany§!" #NT!
+ GRP_DDR_social_democrat_party: "SED" #NT!
+ GRP_DDR_social_democrat_party_long: "Sozialistische Einheitspartei Deutschlands\n§gSocialist Unity Party of Germany§!" #NT!
+ GRP_DDR_authoritarian_democrat_party: "NDPD" #NT!
+ GRP_DDR_authoritarian_democrat_party_long: "National-Demokratische Partei Deutschlands\n§gNational-Democratic Party of Germany§!" #NT!
+ GRP_DDR_paternal_autocrat_party: "NDPD" #NT!
+ GRP_DDR_paternal_autocrat_party_long: "National-Demokratische Partei Deutschlands\n§gNational-Democratic Party of Germany§!" #NT!
+ GRP_DDR_national_populist_party: "NDPD" #NT!
+ GRP_DDR_national_populist_party_long: "National-Demokratische Partei Deutschlands\n§gNational-Democratic Party of Germany§!" #NT!
+  
+ ### Characters 
+  
+ GRP_Anton_Ackermann: "Anton Ackermann" #NT!
+ GRP_Anton_Ackermann_for_lib_desc: "§YBorn:§! §gNovember 25th, 1905, in Thalheim, Kingdom of Saxony, Germany§!" #NT!
+ GRP_Lothar_Bolz: "Lothar Bolz" #NT!
+ GRP_Fritz_Selbmann: "Fritz Selbmann" #NT!
+ GRP_Ernst_Torgler: "Ernst Torgler" #NT!
+ GRP_Ernst_Torgler_eco_van_desc: "§YBorn:§! §gApril 25th, 1893, in Berlin, Kingdom of Prussia, German Empire§!" #NT!
+ GRP_Gerhart_Eisler: "Gerhart Eisler" #NT!
+ GRP_Franz_Dahlem: "Franz Dahlem" #NT!
+ GRP_Georg_Handke: "Georg Ulrich Handke" #NT!
+ GRP_Richard_Gyptner: "Richard Gyptner" #NT!
+ GRP_Herbert_Grunstein: "Herbert Grünstein" #NT!
+ GRP_Wilhelm_Koenen: "Wilhelm Koenen" #NT!
+ GRP_Gustav_Sobottka: "Gustav Sobottka" #NT!
+ GRP_Max_Fechner: "Max Fechner" #NT!
+ GRP_Otto_Grotewohl: "Otto Grotewohl" #NT!
+ GRP_Kurt_Schumacher: "Kurt Schumacher" #NT!
+ GRP_Paul_Lobe: "Paul Löbe" #NT!
+ GRP_Otto_Meier: "Otto Meier" #NT!
+ GRP_Paul_Hertz: "Paul Hertz" #NT!
+ GRP_Viktor_Agartz: "Viktor Agartz" #NT!
+ GRP_Wilhelm_Knothe: "Wilhelm Knothe" #NT!
+ GRP_Erich_Gniffke: "Erich Gniffke" #NT!
+ GRP_Carlo_Mierendorff: "Carlo Mierendorff" #NT!
+ GRP_Carlo_Mierendorff_hog_sde_desc: "§YBorn:§! §gMarch 24th, 1897, in Großenhain, Kingdom of Saxony, German Empire§!" #NT!
+ GRP_Adolf_Reichwein: "Adolf Reichwein" #NT!
+ GRP_Theodor_Heuss: "Theodor Heuss" #NT!
+ GRP_Wilhelm_Kulz: "Wilhelm Külz" #NT!
+ GRP_Arthur_Lieutenant: "Arthur Lieutenant" #NT!
+ GRP_Ernst_Mayer: "Ernst Mayer" #NT!
+ GRP_Friedrich_Middelhauve: "Friedrich Middelhauve" #NT!
+ GRP_Hermann_Kastner: "Hermann Kastner" #NT!
+ GRP_Fritz_Oellers: "Fritz Oellers" #NT!
+ GRP_Johannes_Dieckmann: "Johannes Dieckmann" #NT!
+ GRP_Hermann_Schafer: "Hermann Schäfer" #NT!
+ GRP_Gunter_Stempel: "Günter Stempel" #NT!
+ GRP_Leo_Schwering: "Leo Schwering" #NT!
+ GRP_Hans_Lukaschek: "Hans Lukaschek" #NT!
+ GRP_Friedrich_Holzapfel: "Friedrich Holzapfel" #NT!
+ GRP_Theodor_Steltzer: "Theodor Steltzer" #NT!
+ GRP_Bernhard_Letterhaus: "Bernhard Letterhaus" #NT!
+ GRP_Hans_Schlange_Schoningen: "Hans Schlange-Schöningen" #NT!
+ GRP_Walter_Hummelsheim: "Walter Hummelsheim" #NT!
+ GRP_Heinrich_Bruning: "Heinrich Brüning" #NT!
+ GRP_Heinrich_Bruning_for_ade_desc: "§YBorn:§! §gNovember 26th. 1885, in Münster, Province of Westphalia, Kingdom of Prussia, German Empire§!" #NT!
+ GRP_Georg_Dertinger: "Georg Dertinger" #NT!
+ GRP_Josef_Wirmer: "Josef Wirmer" #NT!
+ GRP_Eugen_Bolz: "Eugen Bolz" #NT!
+ GRP_Kurt_Schmitt: "Kurt Schmitt" #NT!
+ GRP_Werner_Willikens: "Werner Willikens" #NT!
+ GRP_Franz_Josef_Sontag: "Franz Josef-Sontag" #NT!
+ GRP_Richard_Kunze: "Richard Kunze" #NT!
+ GRP_Reinhold_Quaatz: "Reinhold Quaatz" #NT!
+ GRP_Gunther_Gereke: "Günther Gereke" #NT!
+ GRP_Otto_Ernst_Remer: "Otto Ernst Remer" #NT!
+ GRP_Heinrich_Muller: "Heinrich Müller" #NT!
+ GRP_Walter_Fisch: "Walter Fisch" #NT!
+ GRP_Fritz_Rossler: "Fritz Rössler" #NT!
+ GRP_Otto_Nuschke: "Otto Nuschke" #NT!
+ GRP_Karl_Otto_Hamann: "Karl Otto Hamann" #NT!
+ GRP_Vincenz_Muller: "Vincenz Müller" #NT!
+ GRP_Kurt_Muller: "Kurt Müller" #NT!
+ GRP_Theodor_Haubach: "Theodor Haubach" #NT!
+ GRP_Jakob_Kaiser: "Jakob Kaiser" #NT!
+  
+ # Ideas 
+  
+ GRP_workers_rights: "Workers' Rights" #NT!
+ GRP_planning_committees: "Planning Committees" #NT!
+ GRP_planned_economy: "Planned Economy" #NT!
+ GRP_social_market_economy: "Social Market Economy" #NT!
+ military_occupation_germany: "Military Occupation" #NT!
+ germany_disarmed_nation: "Enforced Disarmament" #NT!
+ legacy_of_valkism: "The Valkist Spectre" #NT!
+  
+ # Modifiers 
+ GRP_valkist_resistance: "Valkist Resistance" #NT!
+ GRP_valkist_state_resistance: "Local Resistance" #NT!
+ GRP_aftermath_of_war: "Zero Hour" #NT!
+ GRP_intense_valkist_locals: "Intensified Werwolf Activity" #NT!
+ GRP_valkist_locals: "Regular Werwolf Activity" #NT!
+ GRP_low_valkist_locals: "Mild Werwolf Activity" #NT!
+ GRP_crushing_valkist_cells: "Uprooting of Valkists" #NT!
+ GRP_antivalkist_propaganda: "Antivalkist Propaganda" #NT!
+ GRP_railway_reorging: "Railway Reorganization" #NT!
+  
+ # Decisions 
+ GER_devalkification: "The Valkist Legacy" #NT!
+ GER_devalkification_desc: "In one of history's great justices, the monstrous regime that stole away the German people's freedom in 1932 have been crushed and now we rule over what remains of Germany.\n\nUnfortunately for us, the Valkists have not gone quietly into the night. They and their cabal of broken soldiers and demented thugs have fled into the scant few places where they can hide, resisting our attempt to restore Germany to a decent nation with decent people. Worst of all, many valkists have opted to slink back into public life, leaving this rotten ideology to fester within Germany until they seize the chance to drag Germany into a fate worse than death.\n\nIf we are to properly build Germany back up, we must crush these rebels. Whether through measured reintegration combined with harsh retribution, we will no doubt find support from foreign allies and returning activists in our attempt to once and for all root Valkism out of Germany. Still, the road ahead is long and difficult..." #NT!
+  
+ GRP_crush_valkist_cells: "Crush Valkist Cells in [FROM.GetName]" #NT!
+ GRP_ingratiate_government: "Ingratitate Ourselves in [FROM.GetName]" #NT!
+ GRP_integrate_state: "Integrate [FROM.GetName]" #NT!
+  
+ decision_cost_army_equipment: "£rifle_texticon  §Y2000§!" #NT!
+ decision_cost_army_equipment_blocked: "£rifle_texticon  §R2000§!" #NT!
+ decision_cost_army_equipment_tooltip: "£rifle_texticon  §Y2000§!\n£unit_engineer_icon_small §Y500§!\n£unit_artillery_icon_small  §Y250§!" #NT!
+  
+ # Tooltips 
+ GRP_economy_recovering: "Modify §YZero Hour§! by\nConstruction Speed: [?GER_bomber_harris_quarter_plus|=%+]\nProduction Efficiency Cap: [?GER_bomber_harris_quarter_plus|=%+]\nFactory Output: [?GER_bomber_harris_quarter_plus|=%+]\nDockyard Output: [?GER_bomber_harris_quarter_plus|=%+]" #NT!
+ GRP_destruction_is_destructive: "§YWith the war over, the true scale of Germany's destruction will reveal itself...§!" #NT!
+ GRP_economy_remove: "Remove §YZero Hour§!, which grants (Construction Speed: [?GER_bomber_harris_effect|=%+], Production Efficiency Cap: [?GER_bomber_harris_effect|=%+], Factory Output: [?GER_bomber_harris_effect|=%+], Dockyard Output: [?GER_bomber_harris_effect|=%+])." #NT!
+ GRP_valkism_won_over: "§YWe have totally overcome Valkism, reducing it to §o0%§! party popularity§!" #NT!
+ GRP_valkist_actions_possible: "We can take §G[GRP_valkist_left]§! more anti-valkist decisions" #NT!
+ GRP_valkist_actions_not: "We can take §ono§! further anti-valkist decisions" #NT!

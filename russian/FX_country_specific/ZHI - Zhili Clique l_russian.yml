@@ -1,0 +1,842 @@
+﻿l_russian:
+ ### Country Names 
+ ZHI: "Zhili Clique" #NT!
+ ZHI_ADJ: "Zhili" #NT!
+ ZHI_DEF: "the Zhili Clique" #NT!
+  
+ # China 
+ ZHI_KMT: "Republic of China" #NT!
+ ZHI_KMT_DEF: "the Republic of China" #NT!
+ ZHI_KMT_ADJ: "Chinese" #NT!
+  
+ ### POLITICAL PARTIES ### 
+ ### 中國社會運動 
+ ZHI_vanguardist_party: "CSM" #NT!
+ ZHI_vanguardist_party_long: "Zhongguo shehui yundong\n§gChinese Socialist Movement§!" #NT!
+ ZHI_collectivist_party: "CSM" #NT!
+ ZHI_collectivist_party_long: "Zhongguo shehui yundong\n§gChinese Socialist Movement§!" #NT!
+ ZHI_libertarian_socialist_party: "CSM" #NT!
+ ZHI_libertarian_socialist_party_long: "Zhongguo shehui yundong\n§gChinese Socialist Movement§!" #NT!
+ ### 獨立自由黨 
+ ZHI_social_democrat_party: "IFP" #NT!
+ ZHI_social_democrat_party_long: "Duli ziyou dang\n§gIndependent Freedom Party§!" #NT!
+ ### 自由黨 
+ ZHI_social_liberal_party: "LP" #NT!
+ ZHI_social_liberal_party_long: "Ziyou dang\n§gLiberty Party§!" #NT!
+ ### 國際合作黨 
+ ZHI_market_liberal_party: "ICP" #NT!
+ ZHI_market_liberal_party_long: "Guoji hezuo dang\n§gInternational Cooperation Party§!" #NT!
+ ### 民主主義黨 
+ ZHI_social_conservative_party: "DP" #NT!
+ ZHI_social_conservative_party_long: "Minzu zuyi dang§gDemocratic Party§!" #NT!
+ ### 直系 
+ ZHI_authoritarian_democrat_party: "Zhili Clique" #NT!
+ ZHI_authoritarian_democrat_party_long: "Zhixi\n§gZhili Clique§!" #NT!
+ ZHI_paternal_autocrat_party: "Zhili Clique" #NT!
+ ZHI_paternal_autocrat_party_long: "Zhixi\n§gZhili Clique§!" #NT!
+ ### 華北政務委員會 
+ ZHI_national_populist_party: "NCPAC" #NT!
+ ZHI_national_populist_party_long: "Huabei zhengwu weiyuanhui\n§gNorth China Political Affairs Committee§!" #NT!
+ ### 精神革命社會 
+ ZHI_valkist_party: "SRS" #NT!
+ ZHI_valkist_party_long: "Jingshen geming shehuì\n§gSpiritual Revolution Society§!" #NT!
+  
+  
+  
+ ### DESCRIPTION ### 
+ ZHI_FUHRERREICH_DESC: "The Zhili Clique is one of China’s finest warlord states and is led by, perhaps the greatest strategist in China at this time, Wu Peifu. Wu Peifu is a Chinese nationalist who, although he doesn't like his alliance with the Japanese, sees the alliance with Japan as a necessity for the survival of his Clique. It has, like many other states in China, been in many wars and has a veteran force of many soldiers and generals, but lacks good industry.\n\nFengtian, rival of the Zhili Clique, lies to the north, taunting them at every step. A war is brewing... And the Zhili Clique will be its victor." #NT!
+  
+ ### EVENTS ### 
+ zhi.1.t: "Far to the East part 1" #NT!
+ zhi.1.d: "The Zhili Clique,\nonce we were the greatest Warlord state China had yet seen, now but a rump state seemingly on its last legs. The formation of the Zhili clique was one of discrimination towards officers of the former Beiyang Government, which has led to our clique, in particular,  having very loose ties among its members journey towards greatness started with the leadership of Feng Guozhang.\n\nIn 1917, when the Zhang Xun’s Restorationist forces marched on Beijing to restore the Qing dynasty to the throne, Feng Guozhang, who at this time was Acting Vice-President of the republic, was sworn in as Acting President.\n Following this, the Anhui Clique (led by Duan Qirui) and the Zhili Clique emerged as the dominant forces in China.\n\nFeng’s term ran out in late 1918, and he would go on to die in 1919. The new leader of the Clique would now be Cao Kun.\n\nPatience with Duan was running out and Wu Peifu and Cao Kun started assembling a military alliance to oppose the Anhui Clique, including Zhang Zuolin of the Fengtian Clique.\nThis led to Duan dismissing both Wu Peifu and Cao Kun, even though this was not within his power. He now mobilized his army, the “National Pacification Army”, and moved to attack the Zhili Clique. This is the beginning of the Zhili-Anhui war.\n\nThe Zhili-Anhui war was where our great leader “Wu Peifu” showed his military prowess, and where it became clear how poorly led the Anhui Clique was, as it was defeated in 12 days with all of its forces either surrendering, deserting, or simply being killed. The war resulted in an uneasy coalition between the Zhili and Fengtian cliques.\n\nShortly after the current president was replaced with Liang Shiyi without prior consultation with the Zhili Clique, causing a further divide between the two. Not long after they also reshuffle the cabinet, now with members that are more favorable towards Zhang Zuolin. The Zhili Clique disapproves of this but is overruled. The final straw, however, is when the Clique is denied its 3 million dollar military budget which had previously been agreed to.\nWu Peifu and other members of the clique force Liang Shiyi to step down after this.\n\nThis caused Zhang Zuolin to threaten the Zhili with force, leading to the First Zhili-Fengtian War. Another great victory for the Zhili, with the march north only ending when the Japanese decided to step in and broker peace. The Fengtian plan their revenge intensively for the years to come." #NT!
+ zhi.1.a: "Part 2" #NT!
+ zhi.101.t: "Far to the East part 2" #NT!
+ zhi.101.d: "The 2nd Zhili-Fengtian war leaves an unstable triumvirate of Feng (Guominjun), Duan (Anhui), and Zhang (Fengtian).\n\nThe Fengtian clique eventually started to ask for help from their former enemy, Wu Peifu. They allied as Wu Peifu was still greatly angered by the betrayal of Feng’s Guominjun.\n\nAfter a division commander from the Fengtian Clique defects to the Guominjun and lays siege to Mukden the Anti-Fengtian war begins. The siege was lifted by the Japanese Kwantung army and Guo (the division commander) was killed. The Guominjun started to lose soldiers fast and in large numbers, to both deserting and battle. As the KMT entered the war, the Guominjun pushed into the Zhili Clique from the west. The KMT made great progress until their attention was split because of a rebellion in Guangdong. In the north Wu Peifu’s forces enter Beijing and turn on their allies of the Fengtian Clique, starting the Third Zhili-Fengtian War. Due to the Zhili’s war with the KMT, Japan decided to leave the Fengtian to defend themselves and support the Zhili. However, a cease-fire is quickly announced between the two factions as the Zhili are surrounded by the Guominjun, the KMT, and the warlord Zhang Zongchang with the Fengtian being wary of the Zhili’s Japanese support.\n\nThe Zhili, slowly being pushed north, drive the KMT to a standstill. Zhang of Fengtian Clique now declares himself the Chinese Republic with his rule of Beijing. Neither the Zhili nor the KMT are happy about this, but can’t do much about it. The war between the two officially ends with the Zhili being a shadow of its former self, with some citing it as a great achievement that they could even withstand the KMT’s might.\n\nThe Zhili recovered over the next few years and eventually declared a Fourth Zhili-Fengtian war, quickly recovering Shandong and setting up defensive positions. This war was a huge success for the Zhili who eventually won with Japanese backing.\n\nAfter the success of the Zhili Clique, Japan started to develop its ties with them trying to add more pawns to the region. The Zhili Clique are now considered an outstanding force in China because they had withstood the might of both the Fengtian and the Anhui without foreign backing.\n\nCao Kun acquires the Presidency by bribing the assembly with 5.000 silver dollars each. This only ends up damaging the already shaky foundations of the republic. As one of his first acts, he tries to pull through the most progressive and democratic constitutions yet. It is ignored completely.\n\nThe Fengtian Clique, now allied with the KMT and the Zhili general “Feng Yuxiang” after bribing him, Zhang Zuolin leads his troops to the Manchurian border. This was the beginning of the Second Zhili-Fengtian War.\n\nZhang Zuolin’s assaults on Wu Peifu’s army were beaten back several times because of Zhili’s entrenched and geographically advantageous position. Then, on the 23rd of October, Feng made his move and launched the Beijing Coup which led to Cao Kun’s house arrest and, eventually, Wu Peifu being forced to flee to Central China." #NT!
+ zhi.101.a: "Not one inch of land to our foes!" #NT!
+ zhi.2.t: "The Military Committee" #NT!
+ zhi.2.d: "In a few days our military committee will be deciding on a plan for our future offensives. The outcome, only time can tell but many agree that it would be disastrous should we fail to decide at such a crucial point in the Clique's history." #NT!
+ zhi.2.a: "A decision must be taken" #NT!
+ zhi.3.t: "The Committee begins" #NT!
+ zhi.3.d: "All of our officers have gathered in our military headquarters to finally decide on a doctrine of warfare, that is to be used in the coming war against the Fengtian Clique.\nTwo plans have been proposed, one by Sun Chuanfang, Wu Peifu's protege and trusted general and one by Wu Peifu.\n\nSun Chuanfang's plan suggests that if we manage to get superior weapons with more destructive capability than that of the Fengtian Clique, they wouldn't stand a chance against our army. Wu Peifu, however, thinks our weapons are secondary to the leadership of our troops, and believes we should focus on enforcing a stricter authority within our army, especially with the betrayal of Feng Yuxiang still within living memory.\n\nThe Committee seems to be more in favor of the plan which doesn't involve giving away more of their power, and..." #NT!
+ zhi.3.a: "Choose Sun Chuanfang's plan with no interference" #NT!
+ zhi.3.b: "Choose Sun Chuanfang's plan but are overruled by Wu Peifu!" #NT!
+ zhi.3.c: "Get into a fight with each other without coming to a decision..." #NT!
+ zhi.4.t: "Organise the Militias" #NT!
+ zhi.4.d: "Across the countryside, within our mighty state, there are... Bands of militias not strictly under our direct control who, although they seek the best for the Zhili clique, are unpredictable and not easily controlled. If we expect to have a sufficiently organized and ready army for when the inevitable war with the Fengtian Clique comes, we must deal with this soon. A few options have been suggested to deal with the problem at hand." #NT!
+ zhi.4.a: "Integrate the soldiers, execute the officers" #NT!
+ zhi.4.b: "Imprison the leaders and disperse the militias, they are no use to us" #NT!
+ zhi.4.c: "The officers could prove useful, disperse the militias" #NT!
+ zhi.5.t: "Japanese Training Methods" #NT!
+ zhi.5.d: "By putting the knowledge of our Japanese allies to use, we've managed to greatly improve discipline within our army. This should be most useful in our future wars." #NT!
+ zhi.5.a: "Through discipline comes freedom." #NT!
+ zhi.6.t: "Remind them why we fight" #NT!
+ zhi.6.d: ""We are surrounded by enemies on all sides, by foreign imperialists, traitors of the Beiyang Government, former brothers in arms now turned against us. All we have, my countrymen and people of the Zhili state, is ourselves and the comradery between us. Let that go and what are we left with? Happiness? No. Fear. Fear and despair. Without your brothers in arms, the fight for freedom would be without hope and all would be lost. The Zhili Clique exists, not as a reminder of what the Beiyang Government should have been, but as what the people of China can be! We are not a group of unorganized rascals, far from it. We're the Zhili Clique, masters of all doctrines of war and instruments of battle! So, if you have nothing to fight for. Fight for your brothers. FIGHT FOR CHINA!"\n\nSo went the speech of Wu Peifu this morning outside the Zhili headquarters in Hefei. His men were quick to cheer, even if the words were not of the most profound kind." #NT!
+ zhi.6.a: "The grim bitterness of the coming war has been brightened, if only slightly." #NT!
+ zhi.7.t: "A Zhili Flagship" #NT!
+ zhi.7.d: "It is no secret that our current fleet is a sorry one. We need a large capital ship to spearhead our fleet and bring fear to our enemies. Construction will be done as soon as next year." #NT!
+ zhi.7.a: "A year!?" #NT!
+ zhi.8.t: "The Maiden Voyage of the 'Yù Huáng'" #NT!
+ zhi.8.d: "After a year of preparations our new Flagship is finally ready to be used! The 'Yù Huáng', named after the Jade Emperor of Chinese myth, is 145 meters long and carries 8 smaller 50 caliber guns along with its heavier 3-pounder cannons." #NT!
+ zhi.8.a: "Surely this will strike fear into our foes!" #NT!
+ zhi.9.t: "The Fifth Zhili-Fengtian War" #NT!
+ zhi.9.d: "The Great Rivalry which exists between the Zhili Clique and the Fengtian Clique to the north has finally come to a head. With Fengtian movements along the border turning into full-blown assaults on our forward positions, there is only one way to end this once and for all.\n\nThe end of the Fengtian Clique is at hand." #NT!
+ zhi.9.a: "Glory to the Zhili Clique!" #NT!
+ zhi.9.b: "B-but we're not ready!" #NT!
+ zhi.200.d: "The damned Zhili clique has coerced former bandits within our glorious realm to return to their former occupation. Our supply lines are suffering greatly and it will take some time before we can hunt them down." #NT!
+ zhi.200.a: "Traitors! Every single one!" #NT!
+ zhi.201.t: "The Zhili Clique requests assistance" #NT!
+ zhi.201.d: "With the agreement made with Zhili Clique before the start of the Fifth Zhili-Fengtian war, they now expect us to send them help in the form of supplies.\nDoing so would surely bolster our influence in the Clique and draw them closer to our sphere, however, it would also antagonize the Japanese. We should ask ourselves, do we want to be involved in another war in China?" #NT!
+ zhi.201.a: "We must honor our agreement, send them guns!" #NT!
+ zhi.201.b: "Absolutely, we must increase our influence in China. Send them guns and volunteers!" #NT!
+ zhi.201.c: "Making an enemy of the Japanese is the last thing we want." #NT!
+ zhi.202.t: "The British have sent us guns!" #NT!
+ zhi.202.d: "The British have shown their support by supplying us with some much-needed guns." #NT!
+ zhi.202.a: "Today, we stand with the foreign Imperialists." #NT!
+ zhi.203.t: "The British have sent us both volunteers and guns!" #NT!
+ zhi.203.d: "The British have shown their support by supplying us with some much-needed guns and manpower." #NT!
+ zhi.203.a: "Today, we stand with the foreign Imperialists." #NT!
+ zhi.204.t: "The British have rejected our request!" #NT!
+ zhi.204.d: "It seems the only true ally the Clique can rely on is itself. This morning, a British envoy arrived and informed us that we would not be sent guns or supplies of any measure." #NT!
+ zhi.204.a: "We stand by ourselves... As always" #NT!
+ zhi.205.t: "The Zhili Clique requests British volunteer officers" #NT!
+ zhi.205.d: "We've received a message from the Jade Marshal himself, that the Zhili Clique requires foreign officers to instruct new troops being prepared for the frontline. Will we help our new "friend"?" #NT!
+ zhi.205.a: "Why, of course! Send whoever is available." #NT!
+ zhi.205.b: "That would only be a waste of time." #NT!
+ zhi.206.t: "The British have supplied us with spare officers!" #NT!
+ zhi.206.d: "With these, we can finally prepare our new troops for the field properly." #NT!
+ zhi.206.a: "We might finally have a real army..." #NT!
+ zhi.207.t: "The British have turned away our request!" #NT!
+ zhi.207.d: "Our request was rejected with only four words on the message that was sent back "Waste of our time"." #NT!
+ zhi.207.a: "We'll teach them respect soon enough." #NT!
+ zhi.208.t: "A blockade of the Yellow Sea?" #NT!
+ zhi.208.d: "The Zhili Clique's leader and marshal, Wu Peifu, has proposed that we blockade the Yellow Sea to stop the transportation of all vital supplies from outside sources to Fengtian. While this sounds like a great idea on paper, we may have trouble with Fengtian should they win the war.\n\nShould we go ahead?" #NT!
+ zhi.208.a: "Prepare the fleet, we have faith in the Jade Marshal." #NT!
+ zhi.208.b: "Inform them that we cannot do this for ethical reasons." #NT!
+ zhi.10.t: "The Great Rivalry is Over" #NT!
+ zhi.10.d: "After many years of constant wars, we've finally bested the Fengtian Clique. Many of our own have died for our cause, the cause of China." #NT!
+ zhi.10.a: "It's Finally Over" #NT!
+ zhi.11.t: "An Unnerving Silence Fills the Air" #NT!
+ zhi.11.d: "Ever since we defeated our greatest foe, peace, and regular military parades have been held throughout the newly reclaimed capital of Beijing. However, in recent days there's been an unusually unnerving feeling within the walls of capital buildings of the Beiyang Government. Maybe it's just rumored, but some have reported sightings of mass gatherings within secluded buildings, strange crates arriving from non-existent provinces, and weirdest of all, a new flag spreading throughout the city..." #NT!
+ zhi.11.a: "Assure the staff that these are nothing but rumors" #NT!
+ zhi.11.b: "Bribe, murder, and interrogate. Something is very wrong." #NT!
+ zhi.12.t: "Sun Chuanfang's Coup" #NT!
+ zhi.12.d: "The rumors have proven to be true. Just this morning, Sun Chuanfang moved his private army of mercenaries and veterans of the League of Five Provinces from hidden safehouses, quickly capturing strategic buildings and arms depots within the city. Before long the entire capital was on complete lockdown with Wu Peifu surrounded by troops personally led by Sun, he chose to fight the traitor rather than be cast aside." #NT!
+ zhi.12.a: "Wu Peifu dies in the following battle..." #NT!
+ zhi.12.b: "...But he takes Sun Chuanfang with him" #NT!
+ zhi.13.t: "Sun Chuanfang's Arrest" #NT!
+ zhi.13.d: "Through violent force, we've finally arrested the vast majority of the culprits within the city. It seems they were all either former members of the League of Five Provinces or mercenaries paid directly from Sun Chuanfang's earnings. At 4 AM this morning our troops were told to surround Sun Chuanfang's house and arrest him. However, it seems he was alerted of our approach beforehand and managed to gather his forces for a final show of resistance.\n\nAfter a brief struggle, Sun is arrested and his men are executed." #NT!
+ zhi.13.a: "Of all people, you, I would never have expected to betray me" #NT!
+ zhi.14.t: "The Trial of Sun Chuanfang" #NT!
+ zhi.14.d: "The bell rings three times before court is in session. Sun Chuanfang, the former leader of the League of Five Provinces and trusted protege of Wu Peifu has been found guilty of treason. Not long after he is taken to gallows to be hanged, though not along with lowlife criminals as is usually the case, no. The hills have been cleared for this horrid occasion as Wu Peifu had asked. Five long minutes pass and it's over. He's dead. The toll this will take on the army, and the nation as a whole, is yet to be seen, though he will surely be missed." #NT!
+ zhi.14.a: "He served his country well and will forever be remembered as a hero of China" #NT!
+ zhi.15.t: "Our Claim to the Beiyang Government" #NT!
+ zhi.15.d: "Not too many years ago, we were the undisputed rulers of China. It's time to bring back our golden age and launch China into an age of prosperity and might. Forever the Beiyang Government shall be remembered as the true rulers of the Chinese nation!" #NT!
+ zhi.15.a: "The rightful ruler of China is ME!" #NT!
+ zhi.16.t: "Our Claim to the Beiyang Government" #NT!
+ zhi.16.d: "Not too many years ago, we were the undisputed rulers of China. It's time to bring back our golden age and launch China into an age of prosperity and might. Forever the Beiyang Government shall be remembered as the true rulers of the Chinese nation!" #NT!
+ zhi.16.a: "The rightful rulers of China have returned" #NT!
+ zhi.17.t: "Our Claim to the Beiyang Government" #NT!
+ zhi.17.d: "Not too many years ago, we were the undisputed rulers of China. It's time to bring back our golden age and launch China into an age of prosperity and might. Forever the Beiyang Government shall be remembered as the true rulers of the Chinese nation!" #NT!
+ zhi.17.a: "The rightful rulers of China have returned" #NT!
+ zhi.18.t: "The Election" #NT!
+ zhi.18.d: "The voting was swift, with large crowds forming around the designated voting halls knowing exactly who to vote for. The opposition of Cao Kun stood no chance, he was, after all, the person who instituted the elections in the first place. The future only knows what democracy will bring to China in the future." #NT!
+ zhi.18.a: "Huh, winning elections is easy... With a little help" #NT!
+ zhi.19.t: "Movement for an Elected Regional Administration" #NT!
+ zhi.19.d: "Some of the newest additions to our glorious administration though welcome, are not elected. Many people within our nation dislike this and believe we should have elected regional administrators... Is this a good idea?" #NT!
+ zhi.19.a: "The law is passed and the elections will proceed right away" #NT!
+ zhi.19.b: "This might cause trouble with the administrators in question..." #NT!
+ zhi.20.t: "The New Constitution" #NT!
+ zhi.20.d: "Now that we have utter control of the republic's administration we need to decide on the constitution. The people are, of course, crying for democracy as they have done for so many years. Should we give in to these cries for so-called freedom?" #NT!
+ zhi.20.a: "Give the people what they want!" #NT!
+ zhi.20.b: "Give the people what they want, but with slight ensurances" #NT!
+ zhi.20.c: "A Presidential Dictatorship will be fine" #NT!
+ zhi.21.t: "A Return to Our Former Glory" #NT!
+ zhi.21.d: "China is splintered. Torn between military cliques in every direction. Some may be able to be negotiated with, others not so much. Only time will tell who will join our glorious nation as a united nation and who we will have to throw off along the wayside. Progress stops for no one." #NT!
+ zhi.21.a: "We shall make China a great nation once again" #NT!
+ zhi.22.t: "The Chinese Demand our Subjugation" #NT!
+ zhi.22.d: "The new Chinese government in Beijing is demanding that we lay down our arms and join them in what looks to be a very cruel and one-sided treaty very unlike the one we were given in previous years. Should we accept this we would not only be ceding one of the only parts of Inner Mongolia we managed to occupy during the discord of our revolution, but the very freedom of our people. It would, however, spare our nation from another terrible war with China." #NT!
+ zhi.22.a: "If this will spare our citizens..." #NT!
+ zhi.22.b: "We will never surrender to foreign invaders!" #NT!
+ zhi.23.t: "The Mongols have replied that they'd "rather die than surrender"" #NT!
+ zhi.23.d: "In a rather direct letter the Mongols have replied sternly that the agreement we gave them is outrageous and have mobilized against us. They ready for war." #NT!
+ zhi.23.a: "And we shall give it to them" #NT!
+ zhi.24.t: "The Mongols Kneel" #NT!
+ zhi.24.d: "The Mongol leadership has decided that to spare the citizens of their nation they will agree to our treaty." #NT!
+ zhi.24.a: "They know what is best for them" #NT!
+ zhi.25.t: "An Offer from the Beiyang Government" #NT!
+ zhi.25.d: "The Beiyang Government has sent us a proposal which suggests a pact of mutual non-aggression. This would free up a front and give us more time to focus on the larger threat; the Soviets, and might even open up for future Chinese support." #NT!
+ zhi.25.a: "A wonderful idea!" #NT!
+ zhi.25.b: "We have enough support" #NT!
+ zhi.26.t: "The Russians have Agreed" #NT!
+ zhi.26.d: "The Russians have responded that they would gladly agree to such a suggestion." #NT!
+ zhi.26.a: "Another front freed up" #NT!
+ zhi.27.t: "The Russians have declined" #NT!
+ zhi.27.d: "The Russians believe that they have enough support and have as such declined our offer." #NT!
+ zhi.27.a: "We'll have to watch them closely then" #NT!
+ zhi.28.t: "The Beiyang Government Offers Integration" #NT!
+ zhi.28.d: "The Beiyang Government has offered us a rather intriguing offer. They suggest that we join their nation as part of a greater whole, and in turn, retain control over the Yunnan region as a regional administrator." #NT!
+ zhi.28.a: "I'll stay in power then?" #NT!
+ zhi.28.b: "If they want Yunnan so bad, they can come and take it!" #NT!
+ zhi.29.t: "Long Yun has Agreed" #NT!
+ zhi.29.d: "Long Yun has decided that a nominal position within the rightful government of China would be preferable to war." #NT!
+ zhi.29.a: "Excellent!" #NT!
+ zhi.30.t: "Long Yun Resists" #NT!
+ zhi.30.d: "The Yunnan Clique resists our demands and prepares for war." #NT!
+ zhi.30.a: "Not for long" #NT!
+ zhi.31.t: "The Beiyang Government Offers Integration" #NT!
+ zhi.31.d: "The Beiyang Government has offered us a rather intriguing offer. They suggest that we join their nation as part of a greater whole, and in turn, retain control over the Sichuan region as a regional administrator." #NT!
+ zhi.31.a: "As long as I retain control of Sichuan" #NT!
+ zhi.31.b: "Ha! As if I'd ever give up control" #NT!
+ zhi.32.t: "Deng Xihou has Agreed" #NT!
+ zhi.32.d: "Deng Xihou has decided that a nominal position within the rightful government of China would be preferable to war." #NT!
+ zhi.32.a: "Good choice" #NT!
+ zhi.33.t: "Deng Xihou Resists" #NT!
+ zhi.33.d: "The Sichuan Clique resists our demands and prepares for war." #NT!
+ zhi.33.a: "He'll come to regret that decision very quickly" #NT!
+ zhi.34.t: "The Beiyang Government has provided guns!" #NT!
+ zhi.34.d: "The Beiyang Government, has, as part of our previous agreement, sent us guns to help our war effort against the Soviets!" #NT!
+ zhi.34.a: "Our friends to the south are becoming increasingly helpful" #NT!
+ zhi.35.t: "The Beiyang Government Proposes an Anti-Soviet Alliance" #NT!
+ zhi.35.d: "The Beiyang Government suggests that we might be able to better defend ourselves and take our right place in Moscow if we had the help of the Chinese nation. This would undoubtedly give us a huge advantage against our enemies and possibly a future bond that could launch both the Russian and Chinese nations into a golden age of cooperation." #NT!
+ zhi.35.a: "With all of China at our side, we can't possibly lose!" #NT!
+ zhi.35.b: "We dare not threaten our current backers with such an agreement" #NT!
+ zhi.36.t: "The Russians have Agreed!" #NT!
+ zhi.36.d: "A new power will rise in the form of the temporarily named "Anti-Soviet Alliance", which will perhaps have to be renamed once the Soviet menace is destroyed. For now, this is a momentous occasion and one that should strike fear into our enemies." #NT!
+ zhi.36.a: "The time has come to destroy the Socialist menace!" #NT!
+ zhi.37.t: "The Russians have Declined" #NT!
+ zhi.37.d: "We've today received the sad news that the Russians do not share our vision of an alliance united against the Soviets." #NT!
+ zhi.37.a: "Disappointing" #NT!
+ zhi.38.t: "The World Will Fear Our Strength Once More!" #NT!
+ zhi.38.d: "Long ago the name "China" once struck fear into the hearts of Kings and Emperors far and wide, now it is but a fraction of what it once was. This will not do. We shall remake the might of China under the rule of Sun Chuanfang, the great Warlord and leader of the new Chinese nation! Hail the Nanking Warlord! Hail Sun!" #NT!
+ zhi.38.a: "The Dragon roars!" #NT!
+ zhi.39.t: "The Mongolian Resistance" #NT!
+ zhi.39.d: "Our occupation of Mongolia has not gone "quite" as expected, with the military general Khatanbaatar escaping our grasp and recruiting what amounts to a small army, raiding supply lines going to and from Mongolia, steadily wearing our forces down, who can say how long we'll be able to hold out?\nThese nomadic barbarians have already thrown off Chinese occupation twice, if we don't act fast we WILL be the third." #NT!
+ zhi.39.a: "How many? 2 THOUSAND?! HOW!?" #NT!
+ zhi.40.t: "An offer from the Grand Marshal" #NT!
+ zhi.40.d: "Intelligentmoire is very smartmoire Gyahahhahalkalmoire... Kalmoire is very good, large THIGHS. Humphries. (If you see this, I'm so very sorry) Debugger here, wtf am I reading, debugger2 I have no idea" #NT!
+ zhi.40.a: "Ughsies" #NT!
+ zhi.41.d: "For years now, the Fengtian Government, our greatest rival, has been sitting right on our border taunting us with every passing day. Now, we are ready. We will give them a war unlike any other. Fire and brimstone, artillery shells hailing from the skies like thunder. The tide is turning... And the Zhili Clique will reap its bounty." #NT!
+ zhi.41.a: "It is time to retake our place in China" #NT!
+ zhi.209.d: "The Zhili need weapons in the war for Chinese supremacy, and seeing as we've declared our support for them, they've seen fit to request material support." #NT!
+ zhi.209.a: "Supplies will be needed in their war" #NT!
+ zhi.209.b: "This doesn't sound like a great deal" #NT!
+ zhi.210.d: "A large fleet of ships has been positioned in the Yellow Sea, stopping most, if not all, of our convoys." #NT!
+ zhi.210.a: "Damn the Japanese!" #NT!
+ zhi.211.d: "Our request was granted. With Japanese support, Fengtian stands no chance." #NT!
+ zhi.211.a: "Reliable as always" #NT!
+ zhi.212.d: "The request we made was denied." #NT!
+ zhi.212.a: "Disappointing, but not unexpected" #NT!
+ zhi.213.d: "A full shipment of guns has arrived today in Qingdao harbor, quickly being transported to the frontlines." #NT!
+ zhi.213.a: "Excellent" #NT!
+ zhi.214.d: "Our request for guns from Japan has been denied." #NT!
+ zhi.214.a: "A shame, but not completely unexpected" #NT!
+ zhi.250.t: "The Chinese Have Demanded We Leave China!" #NT!
+ zhi.250.d: "The new Chinese government, The former Zhili clique, has demanded that we immediately leave our colonies in China and turn hand it over to their "rightful" government." #NT!
+ zhi.250.a: "If they want them so badly, they can come and take them!" #NT!
+ zhi.250.b: "The Chinese are stronger than ever, to face them would be virtual suicide" #NT!
+ zhi.251.t: "The British are resistant!" #NT!
+ zhi.251.d: "The British have chosen to stay their ground and don't seem to be giving up their territories anytime soon. If this goes on, we might not even see our colonies' return after the supposed "lease" ends." #NT!
+ zhi.251.a: "Then we have no choice but to seize the colonies by force" #NT!
+ zhi.251.b: "We're not ready for a war with the British" #NT!
+ zhi.252.d: "The British have, after much debate, given in to our demands." #NT!
+ zhi.252.a: "Excellent news" #NT!
+ zhi.253.d: "When faced with the opposition of the British nation, the Chinese chose to flee instead of fight. Maybe this "new China" isn't much different from the old one after all." #NT!
+ zhi.253.a: "Pathetic" #NT!
+ zhi.254.d: "Beijing, the capital of the former Chinese Republic, is now in the hands of its rightful masters. Finally, we have a capital worthy of our splendor once again." #NT!
+ zhi.254.a: "The masters of China have returned to their rightful place" #NT!
+ zhi.255.d: "The new Chinese government, The former Zhili clique, has demanded that we immediately leave our colonies in China and turn hand it over to their "rightful" government." #NT!
+ zhi.255.a: "This matter should be decided in France!" #NT!
+ zhi.255.b: "France needn't worry about this matter" #NT!
+ zhi.256.d: "Demands have been made that we should turn over our Chinese possessions to the new Beiyang Government. Should we fail to win a possible war with this faction it could mean the end of French rule in East Asia. Is it worth it?" #NT!
+ zhi.256.a: "We will fight to the last man for our glorious empire!" #NT!
+ zhi.256.b: "We can't risk losing more of our East-Asian possessions" #NT!
+ zhi.257.d: "The French are resisting our demands. The French colonial empire is not something to be taken lightly, however, with their attention tightly locked on the German threat it may be a war we could win." #NT!
+ zhi.257.a: "If war is what they want, then war they shall get" #NT!
+ zhi.257.b: "This may be more than we can handle" #NT!
+ zhi.258.d: "The French have given in to our demands and are as such ceding all territory in China to our righteous government." #NT!
+ zhi.258.a: "The imperialists fall one by one" #NT!
+ zhi.259.d: "The Chinese government has backed down. We should expect no more hassle from them." #NT!
+ zhi.259.a: "Pushovers" #NT!
+ zhi.260.d: "The new Chinese government, The former Zhili clique, has demanded that we immediately leave our colonies in China and in turn hand it over to their "rightful" government." #NT!
+ zhi.260.a: "We don't have much of a choice..." #NT!
+ zhi.260.b: "We can at least give them a fight!" #NT!
+ zhi.261.d: "The Portuguese have given in to our demands and handed over the port city of Macau." #NT!
+ zhi.261.a: "Great news!" #NT!
+ zhi.262.d: "The Portuguese have refused to give up their colony in China." #NT!
+ zhi.262.a: "They asked for this" #NT!
+ zhi.262.b: "Maybe we're not ready after all..." #NT!
+ zhi.263.d: "The new Chinese government, The former Zhili clique, has demanded that we immediately leave our colonies in China and in turn hand it over to their "rightful" government." #NT!
+ zhi.263.a: "No surrender!" #NT!
+ zhi.263.b: "Send for the British embassy immediately!" #NT!
+ zhi.263.c: "We'll hand it over..." #NT!
+ zhi.275.d: "The Fengtian Clique's war seems all but lost, they've been pushed back beyond recovery. Perhaps it's time we intervene and suggest a peace favorable to both us and the Zhili Clique." #NT!
+ zhi.275.a: "Manchuria has lost, they have no choice but to submit" #NT!
+ zhi.276.d: "The Japanese have sent us a request that we make peace with the Zhili Clique and give up our remaining land in Manchuria to spare the Chinese people from further bloodshed... We, of course, know that this is just a ploy to give them our land. But do we have any choice?" #NT!
+ zhi.276.a: "Our forced are too crippled to continue" #NT!
+ zhi.276.b: "We fight on... Even if it seems like a doomed effort" #NT!
+ zhi.277.d: "The Japanese have brokered a peace that seems to be both in favor of us and them. They believe this to be the end of their toils in China related to us. We know they are sorely mistaken." #NT!
+ zhi.277.a: "Don't demobilize a single soldier... We'll need them" #NT!
+ zhi.278.d: "The Fengtian Government has agreed to our peace offer and we have taken over the rule of the agreed parts of the Manchuria region." #NT!
+ zhi.278.a: "As expected" #NT!
+ zhi.279.d: "We've recently received word that the requests from the Japanese, for the Fengtian Government to submit, have been rejected. How this will affect future events is yet to be discovered." #NT!
+ zhi.279.a: "We fight on!" #NT!
+ zhi.280.d: "The Fengtian Government has declined our offer and has chosen to continue their hopeless fight in China." #NT!
+ zhi.280.a: "They will see the error in their ways in time" #NT!
+ zhi.281.d: "With the British now fully recovered from the economic crisis, it may be in our interest to seek their help. They have significant experience with modern warfare and the many new ideas emerging at this time." #NT!
+ zhi.281.a: "Why should Japan be our only help in the coming war?" #NT!
+ zhi.281.b: "Allying ourselves with more imperialists would be most unwise" #NT!
+ zhi.282.d: "With the Zhili-Fengtian situation quickly racing towards a future war, the Zhili Clique has reached out to us for assurances that we will give them support in the event of a future war. This could potentially give us a strong ally in East Asia that would be invaluable should Japan become a problem." #NT!
+ zhi.282.a: "Interests in China must be kept under close protection. A fine idea!" #NT!
+ zhi.282.b: "Why do you bother me with such nonsense?!" #NT!
+ zhi.283.d: "The British have sent word that they will send support in the event of a war with Fengtian." #NT!
+ zhi.283.a: "Invite their envoys to dinner immediately!" #NT!
+ zhi.284.d: "The British have responded that they have no interest in supporting us." #NT!
+ zhi.284.a: "A shame, but we ready ourselves for war all the same" #NT!
+ zhi.285.d: "Just this morning we received word that an incident on the Zhili border near Manchuria occurred. 547 dead and only a measly excuse to show for it. Wu Peifu claims the men were acting on their own accord, but our men report differently. Our reports say that these men were acting under tight coordination and not without order or discipline as we've been led to believe." #NT!
+ zhi.285.a: "Whatever we do, we should tread carefully" #NT!
+ zhi.285.b: "This is reason enough. TO WAR!" #NT!
+ zhi.286.d: "Once more, Zhili soldiers have fired upon Japanese squadrons. This time patrols near Qingdao were bombarded with artillery shells from afar, with little to no survivors in units we've heard from so far." #NT!
+ zhi.286.a: "Savage bandits. They'll pay in time" #NT!
+ zhi.286.b: "Enough is enough!" #NT!
+ zhi.287.d: "Just this afternoon, a division or two from the Zhili army crossed over the borders between them and Qingdao again, raiding a military base first and next striking down the response troops who came to stop them. There was nothing they could've done, the precision and timing of the Zhili troops could not have been better. Our people demand war... And we shall happily oblige" #NT!
+ zhi.287.a: "This is too much, prepare for a war unlike any other!" #NT!
+ zhi.288.d: "The Japanese have taken a liking to being on Chinese soil. This will not do. A plan has been hatched to conduct a series of border raids on Japanese forces and military positions in such a way that no Chinese civilian should be harmed. We hope this will eventually provoke the Japanese enough to go to war, maybe even in a weakened state." #NT!
+ zhi.288.a: "Let's show them who owns China" #NT!
+ zhi.289.d: "After a savage ordeal on the Manchurian border just yesterday, the Japanese have demanded that we give them an apology for what our men did." #NT!
+ zhi.289.a: "Oops?" #NT!
+ zhi.290.d: "The Japanese warn us that should we take this any further they will be forced to respond with force." #NT!
+ zhi.290.a: "What a weak response" #NT!
+ zhi.291.d: "The majority of the Japanese possessions in mainland China have been forced from their hand, and with a land army strong enough to defeat the Japanese three times over we can end this now." #NT!
+ zhi.291.a: "Send the demands" #NT!
+ zhi.291.b: "No! We must have total victory!" #NT!
+ zhi.292.d: "The Zhili marshal, Wu Peifu, has ordered that we lay down arms and give up our territories in mainland China as we have no strength to retake them." #NT!
+ zhi.292.a: "We have no choice but to surrender" #NT!
+ zhi.293.d: "Artillery shells boom across the frontlines, dead men fill the trenches, bullets and the smell of gunpowder fill the air. Truly, the horrors of war are upon us. Reports of the dead eyes of the men who are forced ever onward in the name of victory are becoming evermore frequent as the fighting continues. Yet, we have no choice but to continue." #NT!
+ zhi.293.a: "Oh, the horror!" #NT!
+ zhi.294.d: "Lao She, a renowned writer from Beijing, has just released his newest book "Rickshaw Boy". The book tells the story of a boy named "Xiangzi" who makes a living pulling a rickshaw and the story largely revolves around this fact. The book has received very favorable reviews and surprisingly hasn't been banned for its portrayal of the Warlord armies." #NT!
+ zhi.294.a: "Absolutely stunning work" #NT!
+ zhi.295.d: "A movement has taken root in China. One that seeks to rebuild the very foundations of the Chinese society. The so-called Rural Reconstruction Movement aims to not only rebuild the declining economy at macro levels but also improve the lives and productivity of the rural workers. It emphasizes the importance of modernization of not only the factories in China but also the administrative divisions used to, for example, collect taxes." #NT!
+ zhi.295.a: "A commendable goal" #NT!
+ zhi.296.d: "The Emperor of the Japanese Empire, Hirohito, visited our proud nation yesterday. The occasion was dinner with Wu Peifu and the discussion of a possible resolution to the Fengtian problem. It seems that they did not come to any conclusive solution in regards to this, but it was a nice evening nonetheless." #NT!
+ zhi.296.a: "The Japanese will stay our friends... For now" #NT!
+ zhi.301.d: "The newly-declared Beiyang Government of China has requested that they officially join the IPA. They believe that this will strengthen our ties in the Far East and that perhaps in the future, once they've asserted themselves as the true government in China, we'll be ready to transfer Hong Kong." #NT!
+ zhi.301.a: "A great addition to our alliance!" #NT!
+ zhi.301.b: "They're not fit for the Imperial Alliance" #NT!
+ zhi.302.d: "The British have accepted our proposal, and will stand by our side in any future wars." #NT!
+ zhi.302.a: "Great news!" #NT!
+ zhi.303.d: "The British have turned away our request. They do not believe we're fit for their alliance." #NT!
+ zhi.303.a: "Pompous Imperialists" #NT!
+ zhi.304.d: "The Beiyang Government has invited us to join their military faction. They believe that a greater association of Asian nations is needed to counter the aggression of the Japanese. This seems like a noble task indeed, Should be accepted?" #NT!
+ zhi.304.a: "A splendid idea!" #NT!
+ zhi.304.b: "We're better off alone" #NT!
+ zhi.305.d: "Our invitation has been accepted! East Asia will soon be free from the shackles of oppression of foreign powers." #NT!
+ zhi.305.a: "Excellent" #NT!
+ zhi.306.d: "Our invitation has been declined." #NT!
+ zhi.306.a: "They lack perspective" #NT!
+ zhi.307.d: "The French have lost all their holdings in both China and Indochina. Should we send them the terms of surrender?" #NT!
+ zhi.307.a: "They have to accept" #NT!
+ zhi.307.b: "No, we press on" #NT!
+ zhi.308.d: "The Chinese have completely pushed us out of Asia and are demanding that we surrender now or suffer the consequences." #NT!
+ zhi.308.a: "We have no choice" #NT!
+ zhi.308.b: "No! We fight till our dying breath!" #NT!
+ zhi.309.d: "Our war against imperialism has finally ended in victory." #NT!
+ zhi.309.a: "They never stood a chance" #NT!
+ zhi.310.d: "Our demands for surrender have been met with resistance. It seems our enemy will not surrender even in this dire situation." #NT!
+ zhi.310.a: "If they want to do it the hard way" #NT!
+ zhi.311.d: "We've now held both Hong Kong and Weihaiwei for several months without foreign invasions gaining ground in China. Most of our generals agree that this would be an opportune moment to send the British the terms of surrender, that being to cede all their ports in China directly to us." #NT!
+ zhi.311.a: "We've waited long enough" #NT!
+ zhi.311.b: "No, we need total victory" #NT!
+ zhi.312.d: "The Chinese believe that after months of unsuccessful naval invasions, and even less successful defense of our port holdings, it's time we surrender. Though this may be a stain on our honor, it is surely better than being humiliated further." #NT!
+ zhi.312.a: "Our manpower is best spent elsewhere" #NT!
+ zhi.312.b: "No! We fight till our last dying breath!" #NT!
+ zhi.313.d: "The Portuguese have lost this war and would likely accept a conditional surrender. Should send such a demand?" #NT!
+ zhi.313.a: "They have to accept" #NT!
+ zhi.313.b: "No, we press on" #NT!
+ zhi.314.d: "The Chinese have now held Macau for several months without successful intervention and it seems like this trend will continue. As such, they've seen fit to send us a demand for surrender. Should we accept?" #NT!
+ zhi.314.a: "If it means an end to the bloodshed..." #NT!
+ zhi.314.b: "No. We fight on, Glória à Portugal!" #NT!
+ zhi.315.d: "The Portuguese have lost this war and would likely accept a conditional surrender. Should send such a demand?" #NT!
+ zhi.315.a: "They have to accept" #NT!
+ zhi.315.b: "No, we press on" #NT!
+ zhi.323.d: "The Fengtian leader, [From.GetLeader], has ordered that we lay down arms and give up our territories in mainland China as we have no strength to retake them." #NT!
+  
+ ### FLAGS ### 
+ ZHI_sup_firepower: "The Committee has chosen Sun Chuanfang's plan" #NT!
+ ZHI_grand_battleplan: "Wu Peifu has overruled the Committee" #NT!
+ ZHI_mass_assault: "The Committee has failed to make a decision" #NT!
+ ZHI_failed_revital: "We have failed to revitalize our nation" #NT!
+ five_zhili_feng_war: "5th Zhili-Fengtian War has Started" #NT!
+ zhi_centralise: "Ready to Centralise" #NT!
+ ZHI_unnerving_silence: "An unnerving silence has filled the air..." #NT!
+ zhi_almost_democracy: "Our government is almost democratic" #NT!
+ zhi_democracy: "Our government is technically democratic" #NT!
+ ZHI_RUS_support: "The Russians have accepted our offer" #NT!
+ ZHI_further_improvements: "Ready to make further improvements" #NT!
+ jap_help_zhi: "Japan has chosen who to support" #NT!
+ zhi_win: "We have won the war" #NT!
+ zhi_improvement: "We are ready to begin improving our country" #NT!
+ zhi_sch_integrated: "Deng Xihou has agreed to integration" #NT!
+ zhi_yun_integrated: "Long Yun has agreed to integration" #NT!
+ ### DECISIONS ### 
+ ZHI_war_decisions: "Fifth Zhili-Fengtian War" #NT!
+ ask_brit_help_officers: "Ask the British for voluntary officers" #NT!
+ ask_brit_help_supply: "Ask the British for supplies" #NT!
+ contact_former_bandits: "Contact former Fengtian bandits" #NT!
+ ask_jap_help_barricade: "Ask the Japanese to blockade the Yellow Sea" #NT!
+ ask_jap_help_guns: "Ask the Japanese for arms" #NT!
+ ZHI_imperial_conquest_cat: "Against the Foreign Imperialists" #NT!
+ zhi_demand_british_possessions: "Demand British Possessions in China" #NT!
+ zhi_demand_hainan: "Demand Hainan from the French" #NT!
+ zhi_demand_macau_PRR: "Demand the Portuguese Return Macau" #NT!
+ zhi_demand_macau_POR: "Demand the Portuguese Return Macau" #NT!
+ zhi_our_alliance: "Create Our Alliance" #NT!
+ zhi_uk_alliance: "Request to Join the IPA" #NT!
+ ZHI_china: "Claim China" #NT!
+ zhi_form_china: "Proclaim A New Republic" #NT!
+  
+ ###FOCUSES### 
+ ZHI_MAIN_far_east: "Far to the East" #NT!
+ ZHI_MAIN_far_east_desc: "Beyond the gates to the east, lies a once united kingdom feared by lands wide and far; China, the Middle Kingdom. Since the first president of the Republic of China, Yuan Shikai, declared himself the Hongxian Emperor of China leading to the civil war that has plagued China for decades now, the Zhili Clique has been there. Coming close to destruction more than once, we have been molded by the toughest environment possible and that is why we shall succeed." #NT!
+ ZHI_MAIN_industry: "Our Crumbling Industry" #NT!
+ ZHI_MAIN_industry_desc: "To return to our former might it is first and foremost important for our industry to be up to date and working at full efficiency. It is no secret that China as a whole has not only abysmal working environments but also lacks modernization in both industry and weaponry. We shall try to fix both." #NT!
+ ZHI_MAIN_clear_forests: "Clear the Forests" #NT!
+ ZHI_MAIN_clear_forests_desc: "To make space for our new factories and future industry, large forested areas will have to be cleared." #NT!
+ ZHI_MAIN_factories: "Establish New Factories" #NT!
+ ZHI_MAIN_factories_desc: "To improve our industrial situation it is paramount that we increase the size of our industry substantially. While this seems like a distant goal now, we may soon find ourselves at the foot of an East Asian industrial revolution." #NT!
+ ZHI_MAIN_subsidies: "Subsidies for New Companies" #NT!
+ ZHI_MAIN_subsidies_desc: "Several people within our nation have goods they want to produce and sell on local as well as international markets. However, the economy within our state is so poor that they don't have the funds to start said companies. A state-sponsored subsidy program will help fix this problem." #NT!
+ ZHI_MAIN_jap_funds: "Ask the Japanese for Funds" #NT!
+ ZHI_MAIN_jap_funds_desc: "With the Japanese being our ally, it may be prudent to use this to our advantage. Building new factories will be both expensive and having the funds to do so will be critical. This will, of course, mean that the Japanese have more influence over our future actions and may have grave consequences should tensions arise between our two nations." #NT!
+ ZHI_MAIN_jap_corps: "Invite Japanese Corporations" #NT!
+ ZHI_MAIN_jap_corps_desc: "Instead of funding companies locally it would benefit us to invite already well-established corporations and companies from Japan. Increasing the amount of general goods in circulation could never possibly hurt our economy." #NT!
+ ZHI_MAIN_jap_imports: "Increase Imports from Japan" #NT!
+ ZHI_MAIN_jap_imports_desc: "Fears of another famine like the one in 1920s have led to many believing that increasing the, already quite substantial, imports from Japan may be a reasonable idea. The chances of such a famine occurring again are uncertain." #NT!
+ ZHI_MAIN_military: "Our Mighty Military" #NT!
+ ZHI_MAIN_military_desc: "As is clear by the sight of our great and glorious army, the Zhili Clique can be said to be almost anything but anti-military. With one of the largest, most experienced, and well-led armies in China, Zhili stands as a proud reminder of what all of China should strive to be. But, however good the situation may look from the outside, the army is in anything but a good state. Militias made up of bandits freely roam the country whenever they're not serving in the army, The weapons used in the army are outdated, and our troops have a severe lack of discipline and tendency to disobey direct orders. The latter of these issues stems from the fact that our men and armies are made up of loosely bonded men in arms. These issues NEED to be seen too if we are to win in the coming war." #NT!
+ ZHI_MAIN_wu_reforms: "Wu Peifu's Reforms" #NT!
+ ZHI_MAIN_wu_reforms_desc: "To improve not only the combat effectiveness of our army, but the administrative effectiveness Wu Peifu has come up with a series of reforms that he wishes to push through. The reforms largely meant to restructure the bloated organization of the armies and to expand the role of the individual squads, as to give them purpose beyond just obeying orders. Whether this will have enough of an effect to matter only time will tell." #NT!
+ ZHI_MAIN_jap_advisors: "Japanese Military Advisors" #NT!
+ ZHI_MAIN_jap_advisors_desc: "To improve the effectiveness of our armies for the coming war, we should request advisors from the Japanese Imperial Army to be more learned in the new ways of warfare." #NT!
+ ZHI_MAIN_org_militia: "Organise the Militias" #NT!
+ ZHI_MAIN_org_militia_desc: "A big portion of our armies derive from common thugs and bandits who enlist when a war breaks out because our economy simply can't pay our entire army as it is too large and our nation is too small. We have therefore proposed several different solutions to this growing problem." #NT!
+ ZHI_MAIN_why_fight: "Remind Them Why We Fight" #NT!
+ ZHI_MAIN_why_fight_desc: "Our armies fight for us, but fight for no singular goal except selfishness. Wu Peifu means to ratify this by holding a speech meant to give purpose to both infantryman and officer alike." #NT!
+ ZHI_MAIN_mil_budget: "Increase our Military Budget with Japanese Assistance" #NT!
+ ZHI_MAIN_mil_budget_desc: "Our military budget may be big, but it can be bigger. It would serve us well if the Japanese could fund our production of new weaponry, uniforms, and the various other supplies needed for a proper army to function." #NT!
+ ZHI_MAIN_jap_weapons: "Japanese Weapons" #NT!
+ ZHI_MAIN_jap_weapons_desc: "The weapons used in our armies are outdated and ineffective. We should import newer, Japanese models, to compensate for this massive disadvantage. Who knows, maybe we'll learn a thing or two." #NT!
+ ZHI_MAIN_jaden_jewel: "The Jaden Jewel of China" #NT!
+ ZHI_MAIN_jaden_jewel_desc: "We have improved our provinces and clique as a whole, to such a degree that many have started to refer to the Zhili Clique as the "Jaden Jewel" of China, about our leader. The pride can be felt not only in the armies but also in the streets of our cities. Zhili has returned to its former glory." #NT!
+ ZHI_MAIN_broken_jewel: "The Broken Jewel of China" #NT!
+ ZHI_MAIN_broken_jewel_desc: "If by some horrible incident, we never fully restore our great nation it may lead to a crippling and destructive demise of our once dominant clique. This couldn't possibly happen, however. Right?" #NT!
+ ZHI_MIL_traitors: "A Clique of Traitors" #NT!
+ ZHI_MIL_traitors_desc: "An army ready to backstab itself isn't an army at all. We should start the modernization of our army at once... But how?" #NT!
+ ZHI_MIL_suns_plan: "Sun Chuanfang's Plan" #NT!
+ ZHI_MIL_suns_plan_desc: "Sun Chuanfang has proposed a plan that involves equipping our troops with the best equipment available and utilizing artillery in greater numbers. This would surely improve our military situation." #NT!
+ ZHI_MIL_sun_jap_help: "With Japanese Support" #NT!
+ ZHI_MIL_sun_jap_help_desc: "We should move forward with Japanese support." #NT!
+ ZHI_MIL_rising_sun: "Blinding Light of the Rising Sun" #NT!
+ ZHI_MIL_rising_sun_desc: "Chinese experience with newer and more modern military equipment is limited. As such, hiring Japanese instructors to train our men in using it will prove a significant advantage in the future." #NT!
+ ZHI_MIL_quality_equip: "Quality Equipment" #NT!
+ ZHI_MIL_quality_equip_desc: "With Japanese help, we can finally start producing the finest equipment in China." #NT!
+ ZHI_MIL_sun_no_help: "Without Japanese Support" #NT!
+ ZHI_MIL_sun_no_help_desc: "We should move forward without Japanese support." #NT!
+ ZHI_MIL_thunder_rains: "Thunder Rains from the Sky" #NT!
+ ZHI_MIL_thunder_rains_desc: "Fire shall rain from above as our enemies flee the howling shards of grenades and projectiles hurling towards them. There has and never will be a Chinese army as well-equipped and well-performing as the Zhili army." #NT!
+ ZHI_MIL_well_equipped: "A Well-Equipped Army" #NT!
+ ZHI_MIL_well_equipped_desc: "Our armies are the best-equipped in all of China. We may not have the organization of others, but our rifles and artillery are unmatched." #NT!
+ ZHI_MIL_jade_marshall_plan: "The Jade Marshal's plan" #NT!
+ ZHI_MIL_jade_marshall_plan_desc: "Wu Peifu believes we should make use of superior planning and discipline to win the wars ahead, anything else is secondary." #NT!
+ ZHI_MIL_replace_artillery: "Replace Old Artillery" #NT!
+ ZHI_MIL_replace_artillery_desc: "Our artillery is old and outdated. We should seek to replace them completely and produce newer and more advanced equipment." #NT!
+ ZHI_MIL_grand_with_jap: "With Japanese Support" #NT!
+ ZHI_MIL_grand_with_jap_desc: "The Japanese know discipline like no others. We should move forward with their help." #NT!
+ ZHI_MIL_jap_org: "Japanese Organisation" #NT!
+ ZHI_MIL_jap_org_desc: "To modernize our armies we should take inspiration from the organisation of theirs. Structuring of divisions and future units is crucial to winning any war." #NT!
+ ZHI_MIL_jap_officers: "Japanese Officers in the Army" #NT!
+ ZHI_MIL_jap_officers_desc: "To further discipline our troops, we shall hire Japanese officers to lead several squadrons within the army... Language is an issue we'll handle later." #NT!
+ ZHI_MIL_grand_without_jap: "Without Japanese Support" #NT!
+ ZHI_MIL_grand_without_jap_desc: "The Japanese are a leech on our nation, we shall do just fine without them." #NT!
+ ZHI_MIL_plan_scenarios: "Plan War Scenarios Ahead of Time" #NT!
+ ZHI_MIL_plan_scenarios_desc: "Every scenario, every option, and every choice must be considered. Even out of 14 million futures, there can not be a single one where we lose." #NT!
+ ZHI_MIL_enforce_loyalty: "Enforce Loyalty" #NT!
+ ZHI_MIL_enforce_loyalty_desc: "Loyalty to superiors within our army has grown weak and loose. We shall ratify this by enforcing a strict code of law in the army. Disloyalty does not go unpunished." #NT!
+ ZHI_MIL_well_led: "A Well-Led Army" #NT!
+ ZHI_MIL_well_led_desc: "No army in China, perhaps the entire world, is as well-led as the army of the Zhili Clique. We'll teach them just how much planning means." #NT!
+ ZHI_modern_military: "A Modern Military" #NT!
+ ZHI_modern_military_desc: "With extreme effort, our military is finally up to the standards of a modern nation. All bow before the new masters of China; the Zhili Clique" #NT!
+ ZHI_comittee_fails_to_make_a_decision: "The Committee Fails to Make a Decision" #NT!
+ ZHI_comittee_fails_to_make_a_decision_desc: "Somehow the committee failed... How?" #NT!
+ ZHI_use_our_vast_manpower: "Use Our Vast Manpower" #NT!
+ ZHI_use_our_vast_manpower_desc: "We have the manpower, let's use it!" #NT!
+ ZHI_new_weapons: "Acquire New Weapons" #NT!
+ ZHI_new_weapons_desc: "Even if our armies are large, they're nothing without a gun. Perhaps it would be useful to have newer guns?" #NT!
+ ZHI_depth_in_lines: "Depth in the Lines" #NT!
+ ZHI_depth_in_lines_desc: "If one soldier falls, two more must take his place." #NT!
+ ZHI_strategically_placed_operations: "Strategically Placed Concentrations" #NT!
+ ZHI_strategically_placed_operations_desc: "If we strategically concentrate our forces in specific places along the frontlines, we'll be able to suffer more sustained attacks and counterattack more efficiently." #NT!
+ ZHI_not_modern_military: "A Modern Military?" #NT!
+ ZHI_not_modern_military_desc: "Our military might not be quite up to modern standards... But really, do we need it to be?" #NT!
+ ZHI_jade_emperor_domain: "The Jade Emperor's Domain" #NT!
+ ZHI_jade_emperor_domain_desc: "The Jade Emperor guides the skies, his realm. We shall finally invoke the Zhili Clique's land-dominance over the skies as well!" #NT!
+ ZHI_grand_scheme: "The Grand Scheme" #NT!
+ ZHI_grand_scheme_desc: "By destroying production methods and infrastructure from the skies, we can prevent the enemies from continuing any longer wars." #NT!
+ ZHI_minor_support: "Minor Support" #NT!
+ ZHI_minor_support_desc: "Support for our troops in the skies is the most important. Losing less men means killing more enemies." #NT!
+ ZHI_winds_of_destruction: "Winds of Destruction" #NT!
+ ZHI_winds_of_destruction_desc: "Plans have been made to create elite units of bomber squads who fly in harsh weather to catch the enemy by surprise, we call them - The 'Winds of Destruction'. We shall never be bound by the rules of nature!" #NT!
+ ZHI_dragon_of_the_east: "Dragon of the East" #NT!
+ ZHI_dragon_of_the_east_desc: "The dragon's slumber has come to an end. By building more airbases we'll be able to field more planes." #NT!
+ ZHI_legacy_of_the_monkey_king: "Legacy of the Monkey King" #NT!
+ ZHI_legacy_of_the_monkey_king_desc: "Sun Wukong, the Monkey King, used his wit and agility to defeat his enemies. We shall do the same." #NT!
+ ZHI_heaven_bow_before_us: "The Heavens Bow Before Us" #NT!
+ ZHI_heaven_bow_before_us_desc: "The heavens themselves are finally ours to command! Any enemy who dares oppose us will face fierce resistance in the skies." #NT!
+ ZHI_dragon_of_eastern_sea: "Dragon of the Eastern Seas" #NT!
+ ZHI_dragon_of_eastern_sea_desc: "Though kept from ruling both land and sea for now, in the future the world shall learn to fear the wrath of Chinese war fleets. To build and establish a presence in the Yellow Sea and beyond must be one of our top priorities." #NT!
+ ZHI_serpent_of_the_deep: "Serpents of the Deep" #NT!
+ ZHI_serpent_of_the_deep_desc: "One path above the sea, one under it. Slithering in silence through the depths of the ocean unnoticed, the serpents of the deep will pursue our enemy's convoys until they're starved of resources. A new type of naval warfare lies ahead, and we are its masters" #NT!
+ ZHI_unshakable_pursuit: "Unshakable Pursuit" #NT!
+ ZHI_unshakable_pursuit_desc: "With the foundations of our navy laid out, we must now consider the tactics to be used in the pursuit of enemy ships. With the application of newer and better models of torpedoes, it seems likely that our forces will soon be unshakable." #NT!
+ ZHI_under_the_cover_midnight: "Under the Cover of Midnight" #NT!
+ ZHI_under_the_cover_midnight_desc: "Striking at night will ensure that the enemy is caught unaware, making the impact of our submarines even bigger." #NT!
+ ZHI_undetected_unexpected: "Undetected, Unexpected" #NT!
+ ZHI_undetected_unexpected_desc: "New technology imported from European nations allows us to "hide" from the radars of enemy ships. This will surely prove immeasurably useful." #NT!
+ ZHI_dragon_seas_of_the_high_sea: "Dragons of the High Seas" #NT!
+ ZHI_dragon_seas_of_the_high_sea_desc: "One path under the sea, one above it. Though we don't have much in the means of production of bigger classes of ships, this is the way forward." #NT!
+ ZHI_unbreakble_scales: "Unbreakable Scales" #NT!
+ ZHI_unbreakble_scales_desc: "Our ships will show their superiority to others in resilience instead of superior speed. Multiple layers of armored skin shall surround our new navy's new capital ships to accommodate for the lack of a large navy." #NT!
+ ZHI_the_dragon_breath: "The Dragon's Breath" #NT!
+ ZHI_the_dragon_breath_desc: "With matters of armor settled, it's time we increase the amount and power of our current guns. With large ships we will need big and powerful guns, the factories in China shall provide exactly that." #NT!
+ ZHI_dragon_king_of_the_seas: "Dragon King of the Seas" #NT!
+ ZHI_dragon_king_of_the_seas_Desc: "Now that we've planned out the capabilities of our navy, we must start construction of a great flagship to be at the forefront of all our naval battles." #NT!
+ ZHI_masters_yellow_sea: "Masters of the Yellow Sea" #NT!
+ ZHI_masters_yellow_sea_desc: "Finally, we possess a fleet worthy of a Chinese state! It is time for the world to fear our might and feel the wrath of a thousand thundering guns or the rapid advance of our submarines. Today starts a new era in Chinese history, one of great glory." #NT!
+ ZHI_fifth_zhili_fengtian_war: "The Fifth Zhili-Fengtian War" #NT!
+ ZHI_fifth_zhili_fengtian_war_desc: "Upon us is perhaps the greatest war we will ever face. Although this is the fifth war of its kind, the implications of losing the war are catastrophic. So, let's not lose shall we?" #NT!
+ ZHI_our_japanese_ally: "Our Japanese "Friends" #NT!
+ ZHI_our_japanese_ally_desc: "" #NT!
+ ZHI_japan_supports_us: "Japan Supports Us" #NT!
+ ZHI_japan_supports_us_desc: "" #NT!
+ ZHI_japan_supports_fengtian: "Japan Supports Fengtian" #NT!
+ ZHI_japan_supports_fengtian_desc: "" #NT!
+ ZHI_the_great_rivalry_is_won: "The Great Rivalry is Won" #NT!
+ ZHI_the_great_rivalry_is_won_desc: "Celebrate, for we have won! The greatest triumph has come upon the Zhili Clique, parades shall be held throughout the country, and numerous fireworks shall light up the skies. Tonight, and every night after, we will be known as the true leaders of China!" #NT!
+ ZHI_what_now: "What now?" #NT!
+ ZHI_what_now_desc: "A coup is brewing..." #NT!
+ ZHI_a_new_dawn_for_zhili: "A New Dawn for Zhili" #NT!
+ ZHI_a_new_dawn_for_zhili_desc: "The Jade Marshal is gone. The militias of a new Warlord roam the streets and countryside. Who can say what this change will bring?" #NT!
+ ZHI_jade_marshal_prevails: "The Jade Marshal Prevails" #NT!
+ ZHI_jade_marshal_prevails_desc: "The Zhili Clique has lived up to its traitorous nature, but once again the Jade Marshal was triumphant. Great reforms are ahead, and even greater changes for the whole of China." #NT!
+ ZHI_some_things_never_change: "Some Things Never Change" #NT!
+ ZHI_some_things_never_change_desc: "Stripped of his power, his men executed, and without an army behind him Sun Chuanfang now stands alone. He faces execution for a betrayal more grave than any other." #NT!
+ ZHI_arrest_disloyal_officers: "Arrest the Disloyal Officers" #NT!
+ ZHI_arrest_disloyal_officers_desc: "With recent events taken into consideration, the Jade Marshal has seen fit to remove certain officers within our army from play. While this may not be liked within the army, it'll bring stability for the future." #NT!
+ ZHI_our_greatest_glory: "Our Greatest Glory..." #NT!
+ ZHI_our_greatest_glory_desc: "Chaos, that is what it has come to. Some believe that another player has been quietly waiting in the corner for an opportunity like this. We'll just have to see." #NT!
+ ZHI_is_not_in_ever_falling: "Is Not in Never Falling..." #NT!
+ ZHI_is_not_in_ever_falling_desc: "Behind the open and official political scenes, someone is making agreements to return the republic to a better time, when violence was not the only factor in one's power. Whether this plan will be put to effictive use is yet to be seen." #NT!
+ ZHI_but_in_rising_every_time_we_fall: "But in Rising Every Time We Fall" #NT!
+ ZHI_but_in_rising_every_time_we_fall_desc: "Cao Kun has declared a new presidential government! The Beiyang Government lives yet again!" #NT!
+ ZHI_power_cement: "Cement the Marshal's Power" #NT!
+ ZHI_power_cement_desc: "No one can rule China like Wu Peifu, it is known. We must ensure that he stays the leader for as long as possible. To ensure our power further we shall proclaim a new Beiyang Government. This may greatly anger the states around us, but they have no way to possibly stop us." #NT!
+ ZHI_no_turning: "No Turning Back Now" #NT!
+ ZHI_no_turning_desc: "With the antagonisation of other Chinese Cliques reaching boiling point, it's finally time to retake what is rightfully ours; China. The world stage is ours to take, let us do so." #NT!
+ ZHI_beiyang_centralise: "Centralisation of the Beiyang Government" #NT!
+ ZHI_beiyang_centralise_desc: "The time has come for us to bring forth the mighty armies of Zhili, now under the Beiyang Government. Our forces are veteran and ready for a war to reclaim the land we've fought so hard for, for many years." #NT!
+ ZHI_no_kyakhta: "No More Kyakhta Agreements!" #NT!
+ ZHI_no_kyakhta_desc: "The Kyakhta Agreement was a mistake. Giving the Mongols autonomy only ended in them taking even more land in China than what was originally agreed upon. It's time to give them a clear demand for subjugation." #NT!
+ ZHI_white_deal: "Defensive Pact with the Whites" #NT!
+ ZHI_white_deal_desc: "The Whites stand against the Soviet menace in the north almost alone. In the future, it will be in our favor to help the Whites defeat the Soviets and possibly install a friendly government in Russia. First of all, we'll ask them to help us in exchange for our help." #NT!
+ ZHI_admin_expansion: "Reorganise the Administrative Provinces" #NT!
+ ZHI_admin_expansion_desc: "The provinces of the old republic are woefully inefficient and are completely unprepared for the rural as well as industrial reforms ahead of China. To modernize these would greatly benefit us." #NT!
+ ZHI_die_kmt: "Topple the Southern Pretenders" #NT!
+ ZHI_die_kmt_desc: "The cliques and governments on our southern border are the only thing sitting between us and total domination of China, it's time to change this." #NT!
+ ZHI_yunnan_offer: "An Offer for Long Yun" #NT!
+ ZHI_yunnan_offer_desc: "Long Yun once pledged his allegiance to the Beiyang Government of China, however, he has been on his own for a while now. He may accept an invitation to rejoin or cause if we allow him to keep control of the Yunnan region." #NT!
+ ZHI_ma_attack: "Take Down the Ma" #NT!
+ ZHI_ma_attack_desc: "The Ma Cliques to the west have been a thorn in the side of all of China for far too long, they must be eliminated as soon as possible." #NT!
+ ZHI_tibet_is_china: "Subjugate the Tibetans" #NT!
+ ZHI_tibet_is_china_desc: "Tibet has and will always be a part of the Chinese state. We shall remind them of that fact, lest they forget." #NT!
+ ZHI_Sichuan_offer: "An Offer for Deng Xihou" #NT!
+ ZHI_Sichuan_offer_desc: "Deng Xihou once pledged his allegiance to the Beiyang Government of China, however, he has been on his own for a while now. He may accept an invitation to rejoin or cause if we allow him to keep control of the Sichuan region." #NT!
+ ZHI_no_imperialism: "Against the Foreign Imperialist!" #NT!
+ ZHI_no_imperialism_desc: "The Qing gave away more and more land in the later years of their terrible reign. We shall ratify this and demand that the foreign powers give back what is rightfully ours now that we have a strong government." #NT!
+ ZHI_shanxi_traitors: "Crush the Shanxi Traitors" #NT!
+ ZHI_shanxi_traitors_desc: "Yan Xishan was once one of us, part of the Beiyang Government. He betrayed that cause to rule Shanxi for himself. It's time to remind the selfish bastard who rules China." #NT!
+ ZHI_cao_constitution: "The New Constitution" #NT!
+ ZHI_cao_constitution_desc: "If we are to steer towards a more open and democratic republic we will need a new constitution to do it... The amount of democracy is yet to be decided" #NT!
+ ZHI_elected_officials: "Elected Officials" #NT!
+ ZHI_elected_officials_desc: "Some of the newest additions to our glorious administration though welcome, are not elected. Many people within our nation dislike this and believe we should have elected regional administrators... Is this a good idea?" #NT!
+ ZHI_election: "The Election" #NT!
+ ZHI_election_desc: "Finally, an election voted for by the people, for the people. This has been years coming and will be one of the grandest events in Chinese history since the proclamation of the new republic by Sun Yat-sen." #NT!
+ ZHI_lfp: "Legacy of the League" #NT!
+ ZHI_lfp_desc: "During the Second Zhili-Fengtian war, Sun Chuanfang created the League of Five Provinces in the south of China to centralize power around himself. In the end, the League fell, but its great leader survived. The memory of this state must never wither, even in our final years, the symbol of the League shall hang high upon our flag." #NT!
+ ZHI_no_imperialists: "Throw Out Foreign Officials" #NT!
+ ZHI_no_imperialists_desc: "The foreign parasites are infesting every city and administrative building they can. This Western influence needs to be crushed if we are to put ourselves on the throne of the world. Forced deportation will have to do for now, more resistant foreigners will be set before a trial for treason against the state." #NT!
+ ZHI_nanking_warlord: "The Nanking Warlord" #NT!
+ ZHI_nanking_warlord_desc: "Being the former leader of the League of Five Provinces, Chuanfang was known as the "Nanking Warlord". Known for his ruthless attacks and cunning tactics, he helped stem the tide of the Northern Expedition when the Zhili Clique's situation was heading toward its absolute lowest point. We must remind the people of who their leader is and what he is capable of." #NT!
+ ZHI_closed_borders: "Close the Nation" #NT!
+ ZHI_closed_borders_desc: "Now that we've finally gotten rid of the rats within our walls, it's time to make sure they never return. Our country needs to be completely self-sufficient by the end of the next decade, and will have surpassed any other power within the next fifty years!" #NT!
+ ZHI_private_army: "The Private Army of Sun" #NT!
+ ZHI_private_army_desc: "Since the League of Five Provinces, a sizable force of Zhili soldiers have flocked to Sun Chuanfang's banner and sworn their allegiance to him personally. This army has served him well, but now it's time for them to serve their country as well." #NT!
+ ZHI_eternal_warlord: "Eternal Warlord of China" #NT!
+ ZHI_eternal_warlord_desc: "Kill or be killed, this is the philosophy we live by. The war for China has just begun, and won't end till we have achieved total dominance over all weaker states. The wind blows, rain falls, and the strong prey upon the weak. All is as it should be." #NT!
+ ZHI_beiyang_state: "Centralisation of the Beiyang State" #NT!
+ ZHI_beiyang_state_desc: "A strong state requires a strong leader. We have both of these. Now to reap what we've sowed; China is ours for the taking." #NT!
+ ZHI_shanxi_conquest: "Yan Xishan's Head" #NT!
+ ZHI_shanxi_conquest_desc: "Yan Xishan has betrayed his country for the last time. He hides behind mountains thinking that in his "splendid" isolation he'll be safe from the coming storm. He is wrong." #NT!
+ ZHI_south_weakness: "Exploit Southern Weakness" #NT!
+ ZHI_south_weakness_desc: "The KMT has shown its weakness. The parliamentarian of Chiang Kai-shek is weak. We shall crush the southern pretender states in mere weeks." #NT!
+ ZHI_steppe_conquest: "Force the Steppe to Kneel" #NT!
+ ZHI_steppe_conquest_desc: "The northern border of China has always posed an issue to the state ever since the formation of China under the Xia dynasty. This ends now." #NT!
+ ZHI_steppe_resist: "Deal with the Resistance" #NT!
+ ZHI_steppe_resist_desc: "Proving to be more resistant than what was first anticipated, the steppe is resisting our occupation. Taking some time to deal with this pitiful insurgent may be wise." #NT!
+ ZHI_hui_conquest: "Desecrate the Hui Lands" #NT!
+ ZHI_hui_conquest_desc: "The Muslims to our west do not know the values of their homeland. We must teach them what we do to traitors of our great and glorious nation." #NT!
+ ZHI_enforce_values: "Enforce Han Chinese Values" #NT!
+ ZHI_enforce_values_desc: "The Hui Chinese have strayed from the righteous path. We must correct this by sending them to special re-education camps where they will be "taught" to follow Chinese values." #NT!
+ ZHI_yunnan_conquest: "Long Yun's Head" #NT!
+ ZHI_yunnan_conquest_desc: "Long Yun is a traitor to the Chinese state and must be punished for his actions. Every trace of him must be destroyed!" #NT!
+ ZHI_sichuan_conquest: "Deng Xihou's Head" #NT!
+ ZHI_sichuan_conquest_desc: "Deng Xihou is no different from any of the other dissidents. We will destroy his so-called Sichuan Clique and mount his head on a stake!" #NT!
+ ZHI_tibet_conquest: "Desolate the Tibetan Plateau" #NT!
+ ZHI_tibet_conquest_desc: "Tibetan independence has lasted for long enough! Time to slash and burn. Break down the foundations of their buildings and execute their leaders. This is China's time." #NT!
+ ZHI_white_conquest: "Antagonise the Whites" #NT!
+ ZHI_white_conquest_desc: "The Whites to our north control Outer Manchuria. This will not do. We must retake our lost lands and expel these imperialist pigs!" #NT!
+ ZHI_imperial_conquest: "Destroy the Foreign Invaders" #NT!
+ ZHI_imperial_conquest_desc: "Now that we hold the most important parts of China, it is time to retake the lands that the Qing so cowardly gave away. CRUSH THE FOREIGN IMPERIALIST!" #NT!
+ ZHI_imperial_propaganda: "Anti-Imperialist Propaganda" #NT!
+ ZHI_imperial_propaganda_desc: "They came here to take advantage of us. They were never here to help. They demanded ports and concessions, while our people starved and sank into economic ruin. There is no reason to show them mercy." #NT!
+ ZHI_sovereignty: "Chinese Sovereignty" #NT!
+ ZHI_sovereignty_desc: "China reigns supreme above all. This shall before long be known throughout the world." #NT!
+ ZHI_savarkar_support: "An Offer for Savarkar" #NT!
+ ZHI_savarkar_support_desc: "Savarkar, the leader of the Provisional Government of India, has some of the same goals as our government. Perhaps it could prove useful to reach an agreement?" #NT!
+ ZHI_world_stage: "Our Place on the World Stage" #NT!
+ ZHI_world_stage_desc: "It's time we take our place among the great powers of the world." #NT!
+ ZHI_alliances: "International Alliances" #NT!
+ ZHI_alliances_desc: "If we're to survive as a state, we'll need allies abroad. Whether they be in an already existing alliance or one that is yet to exist is up to us." #NT!
+ ZHI_support_whites: "Support the Whites" #NT!
+ ZHI_support_whites_desc: "With our mutual defense pact being accepted by the Whites, we can finally expand our support by supplying our friends in Russia with guns." #NT!
+ ZHI_anti_soviet: "Anti-Soviet Alliance" #NT!
+ ZHI_anti_soviet_desc: "With China under our boot, it's finally time to help the Whites defeat the Soviets once and for all. Our northern border will be secure and the Whites will have no reason to do anything but help us." #NT!
+ ZHI_further_improvement: "Further Improvement" #NT!
+ ZHI_further_improvement_desc: "The time has come to fix the various economic, technological, and educational problems in China. With these reforms, we will quickly catch up to the powers in Europe and otherwise." #NT!
+ ZHI_fund_a_new_project: "Fund New Projects" #NT!
+ ZHI_fund_a_new_project_desc: "Opening up new opportunities for our countrymen is going to take a lot more than just effort. We'll need to put extra funding into our usual programs to expand upon them." #NT!
+ ZHI_a_new_military_academy: "A New Military Academy" #NT!
+ ZHI_a_new_military_academy_desc: "It is time to lay the foundations for a new Military Academy in Jinan. The central position of Jinan should help to move more people towards the profession of soldier and, hopefully, as the prestige of the Academy grows we can expand it to include more than just military theory." #NT!
+ ZHI_better_schools: "Better Schools" #NT!
+ ZHI_better_schools_desc: "The abysmal school system we have inherited from our predecessors needs to be reformed to properly educate our population and to better the future of China. To do this we will start by introducing classic literature in Chinese classes and invite poets and writers throughout the country to hold lectures." #NT!
+ ZHI_better_schools2: "Expand the Curriculum" #NT!
+ ZHI_better_schools2_desc: "Expanding the curriculum of Chinese schools and universities will go a long way in expanding not just our pool of educated specialists, but also our grasp on new technologies." #NT!
+ ZHI_expand_shandong_university: "Expand the University of Shandong" #NT!
+ ZHI_expand_shandong_university_desc: "The Shandong University is one of the most prestigious in all of China. We should take pride in this and expand the university to include more classes than ever before, accepting students from all over the country to learn the arts and sciences of China." #NT!
+ ZHI_education_army: "Educational Standards in the Army" #NT!
+ ZHI_education_army_desc: "The army makes up a huge part of our society, this means that if we are to increase the literacy standards of the army, we are essentially increasing them nationwide. It's as simple as this, Chinese lessons will from now on be mandatory in the army for those who cannot read or write." #NT!
+ ZHI_mil_funding: "Expand Military Funding" #NT!
+ ZHI_mil_funding_desc: "R&D departments in the army are sorely lacking funding, this should be ratified so we can acquire more equipment locally." #NT!
+ ZHI_mil_industry: "Military Industrialisation" #NT!
+ ZHI_mil_industry_desc: "Increasing production of weapons, and vehicles of all kinds is a top priority for the government. Once we get more factories up and running we should be well on our way to producing tons a day." #NT!
+ ZHI_industrial_rev: "A Chinese Industrial Revolution" #NT!
+ ZHI_industrial_rev_desc: "The time has come to industrialize the rest of China. For while Manchuria is relatively well-off, the rest of China, including the Anhui province and the lands around it, are woefully unindustrialised." #NT!
+ ZHI_mass_production: "Mass Production Methods" #NT!
+ ZHI_mass_production_desc: "Standardising the methods used to produce our products and supplies will be critical in our attempt to increase the production efficiency in our factories, as well as the time it takes to update the machines used." #NT!
+ ZHI_efficiency: "Efficiency Standards" #NT!
+ ZHI_efficiency_desc: "A quality worker is always needed in the factories for our production lines to work efficiently. We will promote those who do exceedingly well in their jobs, and punish those who do not. This should hopefully encourage our workers to work hard and feel that they've earned their pay." #NT!
+ ZHI_south_industry: "Industrial Complexes in the South" #NT!
+ ZHI_south_industry_desc: "With the takeover of Southern China, it's time to increase the industry here as well." #NT!
+ ZHI_qinghai_industry: "Industrial Effort in Qinghai" #NT!
+ ZHI_qinghai_industry_desc: "One of the more desolate places in China, Qinghai, now needs to be industrialized to catch up with Eastern China. Focusing on this will lead us further towards industrial domination." #NT!
+ ZHI_industry_giant: "An Industrial Giant" #NT!
+ ZHI_industry_giant_desc: "China will within the next few decades become a world power. We've managed to light the fuse that will skyrocket Chinese industry and interests. Now it's but a matter of time before the world feels the impact of the world's greatest nation." #NT!
+  
+ ###SPIRITS### 
+ ZHI_traitors: "A Clique of Traitors" #NT!
+ ZHI_traitors_desc: "The Zhili Clique was created from very loose relations between its members, this has led to the members being more prone to betraying and lying to each other to gain personally. If our clique is to survive, this will have to be dealt with in some capacity." #NT!
+ ZHI_traitors2: "A Clique of Traitors" #NT!
+ ZHI_traitors2_desc: "The Zhili Clique was created from very loose relations between its members, this has led to the members being more prone to betraying and lying to each other to gain personally. If our clique is to survive, this will have to be dealt with in some capacity." #NT!
+ ZHI_fallen_grace1: "Fallen from Grace" #NT!
+ ZHI_fallen_grace1_desc: "We were once at the forefront of Chinese dominance, but that was long ago. Several setbacks and wars in favor of our enemies have caused us to be in a severely dire position. Should we go to war, we will have to make great improvements to our nation lest we be crushed by our Great Rival in the north." #NT!
+ ZHI_fallen_grace2: "Back on our feet" #NT!
+ ZHI_fallen_grace2_desc: "We have somewhat recovered from the perils of our past." #NT!
+ ZHI_jap_grace2: "Grace of the Crane" #NT!
+ ZHI_jap_grace2_desc: "Few can match our might, fewer yet can match our wit and precision." #NT!
+ ZHI_jade_marshall: "The Jade Marshal" #NT!
+ ZHI_jade_marshall_desc: "Wu Peifu, the Jade Marshal, master and leader of the Zhili Clique is perhaps the greatest strategist in China and none with their minds in the right place would dare oppose his martial prowess. Should we find ourselves at war he would surely lead us to victory." #NT!
+ ZHI_japanese_backing: "Japanese Backing" #NT!
+ ZHI_japanese_backing_desc: "With economic and industrial backing from the Japanese government we have a clear edge over the other cliques longer inland. Although it's not our preferred position for now we must bide our time and cut our ties when the time is right." #NT!
+ ZHI_japanese_backing2: "Japanese Backing" #NT!
+ ZHI_japanese_backing2_desc: "With economic and industrial backing from the Japanese government we have a clear edge over the other cliques longer inland. Although it's not our preferred position for now we must bide our time and cut our ties when the time is right." #NT!
+ ZHI_subsidies: "Subsidies for New Companies" #NT!
+ ZHI_subsidies_desc: "We've started funding small companies and as such have a decent influx of new factory owners, state-sponsored and otherwise." #NT!
+ ZHI_jap_funds: "Japanese Funds" #NT!
+ ZHI_jap_funds_desc: "" #NT!
+ ZHI_jap_corps: "Japanese Corporations" #NT!
+ ZHI_jap_corps_desc: "" #NT!
+ ZHI_thunder_rains: "Artillery Training" #NT!
+ ZHI_thunder_rains_desc: "" #NT!
+ ZHI_jaden_jewel: "Jaden Jewel of China" #NT!
+ ZHI_jaden_jewel_desc: "We have improved our provinces and clique as a whole, to such a degree that many have started to refer to the Zhili Clique as the "Jaden Jewel" of China, about our leader." #NT!
+ ZHI_well_equipped: "Well-Equipped Army" #NT!
+ ZHI_well_equipped_desc: "While our army may not have the most competent leadership on a unit-to-unit basis, the equipment used is exceptional and shall prove very useful." #NT!
+ ZHI_well_led: "Well-Led Army" #NT!
+ ZHI_well_led_desc: "While our equipment is lacking in certain areas, the competency of our leadership cannot be put into question. There is no army in East Asia more organised than ours" #NT!
+ ZHI_japanese_training: "Japanese Training" #NT!
+ ZHI_japanese_training_desc: "" #NT!
+ ZHI_integrated_soldiers: "Integrated Militia Soldiers" #NT!
+ ZHI_integrated_soldiers_desc: "" #NT!
+ ZHI_integrated_officers: "Integrated Militia Officers" #NT!
+ ZHI_integrated_officers_desc: "" #NT!
+ ZHI_jap_org: "Japanese Army Organisation" #NT!
+ ZHI_jap_org_desc: "By having the organization of the army mimics that of the Japanese, we can more effectively lead our troops." #NT!
+ ZHI_jap_officers: "Japanese Officers in the Army" #NT!
+ ZHI_jap_officers_desc: "" #NT!
+ ZHI_enforced_loyalty: "Enforced Loyalty in the Army" #NT!
+ ZHI_enforced_loyalty_desc: "" #NT!
+ ZHI_war_scenarios: "Better Planning" #NT!
+ ZHI_war_scenarios_desc: "" #NT!
+ ZHI_depth_lines: "Depth in our Lines" #NT!
+ ZHI_depth_lines_desc: "" #NT!
+ ZHI_concentrations: "Strategic Concentrations" #NT!
+ ZHI_concentrations_desc: "" #NT!
+ ZHI_not_so_modern_military: "A Modern Military?" #NT!
+ ZHI_not_so_modern_military_desc: "Mobilise everyone! Every soldier, every child, every grown man able to fight! INTO THE MEATGRINDER THEY GO!" #NT!
+ ZHI_winds_of_destruction_idea: "Winds of Destruction" #NT!
+ ZHI_winds_of_destruction_idea_desc: "" #NT!
+ ZHI_monkey_king: "Aerial Trickery" #NT!
+ ZHI_monkey_king_desc: "" #NT!
+ ZHI_heavenly_kings: "Heavenly Kings" #NT!
+ ZHI_heavenly_kings_desc: "" #NT!
+ ZHI_sub_pursuit: "Unshakable Pursuit" #NT!
+ ZHI_sub_pursuit_desc: "" #NT!
+ ZHI_night_raids: "Night Raids" #NT!
+ ZHI_night_raids_desc: "" #NT!
+ ZHI_coordinated_attacks: "Coordinated Attacks" #NT!
+ ZHI_coordinated_attacks_desc: "" #NT!
+ ZHI_improved_hulls: "Improved Hulls" #NT!
+ ZHI_improved_hulls_desc: "" #NT!
+ ZHI_improved_he_shells: "Improved HE Shells" #NT!
+ ZHI_improved_he_shells_desc: "" #NT!
+ ZHI_war_fleet: "War Fleet" #NT!
+ ZHI_war_fleet_desc: "" #NT!
+ ZHI_broken_jewel: "Broken Jewel of China" #NT!
+ ZHI_broken_jewel_desc: "" #NT!
+ ZHI_fallen_grace3: "Grace of the Tiger" #NT!
+ ZHI_fallen_grace3_desc: "" #NT!
+ zhi_bandits: "Bandits Raiding Supply Lines" #NT!
+ zhi_bandits_desc: "" #NT!
+ ZHI_no_marshal: "No Marshal" #NT!
+ ZHI_no_marshal_desc: "" #NT!
+ ZHI_the_nanking_warlord: "The Nanking Warlord" #NT!
+ ZHI_the_nanking_warlord_desc: "" #NT!
+ zhi_brit_officers: "British Officers" #NT!
+ zhi_brit_officers_desc: "" #NT!
+ ZHI_closed_nation: "Closed Nation" #NT!
+ ZHI_closed_nation_desc: "" #NT!
+ zhi_blockade: "Blockade of the Yellow Sea" #NT!
+ zhi_blockade_desc: "" #NT!
+ ZHI_almost_loyal: "An Almost Loyal Army" #NT!
+ ZHI_almost_loyal_desc: "" #NT!
+ ZHI_almost_loyal2: "An Almost Loyal Army" #NT!
+ ZHI_almost_loyal2_desc: "" #NT!
+ ZHI_jade_marshal2: "The Jade Marshal" #NT!
+ ZHI_jade_marshal2_desc: "" #NT!
+ ZHI_planning_of_government: "Planning of a New Government" #NT!
+ ZHI_planning_of_government_desc: "" #NT!
+ ZHI_president_of_beiyang: "President of the Beiyang Government" #NT!
+ ZHI_president_of_beiyang_desc: "" #NT!
+ ZHI_khatan_resist: "Khatanbaatar's Resistance" #NT!
+ ZHI_khatan_resist_desc: "" #NT!
+ ZHI_hui_suppresion: "Hui Suppression" #NT!
+ ZHI_hui_suppresion_desc: "" #NT!
+ ZHI_fund_project: "Funding New Projects" #NT!
+ ZHI_fund_project_desc: "" #NT!
+ ZHI_good_officers: "Well-Trained Officers" #NT!
+ ZHI_good_officers_desc: "" #NT!
+ ZHI_mil_industrial_power: "Semi-Modern Military Industry" #NT!
+ ZHI_mil_industrial_power_desc: "" #NT!
+ ZHI_massive_industrial_effort: "Massive Industrial Effort" #NT!
+ ZHI_massive_industrial_effort_desc: "" #NT!
+ ZHI_university_shandong: "The University of Shandong" #NT!
+ ZHI_university_shandong_desc: "" #NT!
+ ###TOOLTIPS### 
+ zhi_jap_influence: "§YThis path will increase Japanese Influence!§" #NT!
+ zhi_foreign_expansion: "§YUnlocks the Beiyang foreign policy branch§" #NT!
+ zhi_private_army: "§YSpawns Sun Chuanfang's Private Army§" #NT!
+ ZHI_cool_alliances: "§YUnlocks decisions to establish alliances§" #NT!
+ ZHI_one_china: "§YUnlocks decisions to reclaim lands from the foreign imperialists§" #NT!
+ zhi.276.tt: "Japan enforces peace in China" #NT!
+ Zhi.man.tt: "§RTHIS WILL CAUSE A GAME OVER AND YOU WILL BE ANNEXED§R" #NT!
+ zhi.292.tt: "Give in to the Zhili Clique's demands" #NT!
+ ZHI_yu_huang_tt: "Spawns the Yù Huáng in Tianjin port" #NT!
+ ###OPINION MODIFIERS### 
+ ZHI_imperialist_scum: "Imperialist scum" #NT!
+ ZHI_denounced_imperialism: "Denounced our imperialism" #NT!
+  
+ ###FACTIONS### 
+ ZHI_RUS_FACTION: "Anti-Soviet Coalition" #NT!
+ ZHI_sun_faction: "East Asian Hegemony" #NT!
+ ZHI_bei_faction: "Asiatic Association of Nations" #NT!
+  
+ ###MESSAGES### 
+ zhi.276.ms: "Japan enforced peace!" #NT!
+ zhi.292.ms: "Japan gave in to the Zhili Clique's demands" #NT!
+  
+  
+ ### Cosmetic Tags 
+ ZHI_BEI_paternal_autocrat: "Beiyang State" #NT!
+ ZHI_BEI_paternal_autocrat_ADJ: "Chinese" #NT!
+ ZHI_BEI_paternal_autocrat_DEF: "The Beiyang State" #NT!
+  
+ ZHI_BEY_paternal_autocrat: "Beiyang Government" #NT!
+ ZHI_BEY_paternal_autocrat_ADJ: "Chinese" #NT!
+ ZHI_BEY_paternal_autocrat_DEF: "The Beiyang Government" #NT!
+  
+ ZHI_BEY_authoritarian_democrat: "Beiyang Government" #NT!
+ ZHI_BEY_authoritarian_democrat_ADJ: "Chinese" #NT!
+ ZHI_BEY_authoritarian_democrat_DEF: "The Beiyang Government" #NT!
+  
+ KOR_ZHI_paternal_autocrat: "Mandate of Korea" #NT!
+ KOR_ZHI_paternal_autocrat_ADJ: "Korean" #NT!
+ KOR_ZHI_paternal_autocrat_DEF: "The Chinese Military Mandate of Korea" #NT!
+  
+ KOR_ZHI_authoritarian_democrat: "Mandate of Korea" #NT!
+ KOR_ZHI_authoritarian_democrat_ADJ: "Korean" #NT!
+ KOR_ZHI_authoritarian_democrat_DEF: "The Chinese Military Mandate of Korea" #NT!
+  
+ ZHI_KMT_paternal_autocrat: "Republic of China" #NT!
+ ZHI_KMT_paternal_autocrat_ADJ: "Chinese" #NT!
+ ZHI_KMT_paternal_autocrat_DEF: "The Republic of China" #NT!
+  
+ ZHI_KMT_authoritarian_democrat: "Republic of China" #NT!
+ ZHI_KMT_authoritarian_democrat_ADJ: "Chinese" #NT!
+ ZHI_KMT_authoritarian_democrat_DEF: "The Republic of China" #NT!
+  
+ ZHI_Sun_Chuanfang: "Sun Chuanfang" #NT!
+ ZHI_Ku_Wei_Chun: "Ku Wei-Chün" #NT!
+ ZHI_Dong_Biwu: "Dong Biwu" #NT!
+ ZHI_Yan_Huiqing: "Yan Huiqing" #NT!
+ ZHI_Wu_Peifu: "Wu Peifu" #NT!
+ ZHI_Wang_Chengbing: "Wang Chengbing" #NT!
+ ZHI_Zhang_Huazhi: "Zhang Huazhi" #NT!
+ ZHI_Zhang_Shaozeng: "Zhang Shaozeng" #NT!
+ ZHI_Qi_Xieyuan: "Qi Xieyuan" #NT!
+ ZHI_Cao_Ying: "Cao Ying" #NT!
+ ZHI_Wang_Huaiqing: "Wang Huaiqing" #NT!
+ ZHI_Liu_Menggeng: "Liu Menggeng" #NT!
+ ZHI_Chen_Diaoyuan: "Chen Diaoyuan" #NT!
+ ZHI_Zhang_Fulai: "Zhang Fulai" #NT!
+ ZHI_Du_Xigui: "Du Xigui" #NT!
+ ZHI_No_Clear_Leader: "No Clear Leader" #NT!
+ ZHI_Cao_Kun: "Cao Kun" #NT!
+ ZHI_Wang_Kemin: "Wang Kemin" #NT!
+ ZHI_Tang_Erho: "Tang Erho" #NT!
+ ZHI_Gao_Lingwei: "Gao Lingwei" #NT!
+ ZHI_Wang_Yitang: "Wang Yitang" #NT!
+ ZHI_Wen_Shizhen: "Wen Shizhen" #NT!
+ ZHI_Pan_Juying: "Pan Juying" #NT!
+ ZHI_Xiao_Yaonan: "Xiao Yaonan" #NT!
+ ZHI_Cai_Chengxun: "Cai Chengxun" #NT!
+ ZHI_Jiang_Yanxing: "Jiang Yanxing" #NT!
+ ZHI_Hu_Weide: "Hu Weide" #NT!
+ ZHI_Hu_Shih: "Hu Shih" #NT!

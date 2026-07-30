@@ -1,0 +1,74 @@
+﻿l_russian:
+ ###Indochina 
+ ICR_vanguardist_party: "Indochinese Revolutionary Front (Communist)" #NT!
+ ICR_vanguardist_party_long: "Indochinese Revolutionary Front (Communist)" #NT!
+ ICR_collectivist_party: "Indochinese Revolutionary Front (F)" #NT!
+ ICR_collectivist_party_long: "Indochinese Revolutionary Front (Federationist)" #NT!
+ ICR_libertarian_socialist_party: "Socialist Party of Indochina" #NT!
+ ICR_libertarian_socialist_party_long: "Socialist Party of Indochina" #NT!
+ ICR_market_liberal_party: "Liberal Party (L.P)" #NT!
+ ICR_market_liberal_party_long: "Liberal Party (Laotian's Representation)" #NT!
+ ICR_social_democrat_party: "Indochinese Democrat Party" #NT!
+ ICR_social_democrat_party_long: "Indochinese Democrat Party" #NT!
+ ICR_social_liberal_party: "Liberal Party (V.P)" #NT!
+ ICR_social_liberal_party_long: "Liberal Party (Vietnamese's Representation)" #NT!
+ ICR_social_conservative_party: "Popular Socialist Community (I)" #NT!
+ ICR_social_conservative_party_long: "Popular Socialist Community (Indochina Branch)" #NT!
+ ICR_authoritarian_democrat_party: "VMP (M)" #NT!
+ ICR_authoritarian_democrat_party_long: "Vietnamese Monarchist Party (Moderate)" #NT!
+ ICR_paternal_autocrat_party: "VMP (R)" #NT!
+ ICR_paternal_autocrat_party_long: "Vietnamese Monarchist Party (Radical)" #NT!
+ ICR_national_populist_party: "Nationalist Party of Vietnam" #NT!
+ ICR_national_populist_party_long: "Nationalist Party of Vietnam" #NT!
+ ICR_valkist_party: "The Great Way of the Holy Eye Society" #NT!
+ ICR_valkist_party_long: "The Great Way of the Holy Eye Society" #NT!
+  
+ ICR_vanguardist: "Indochina" #NT!
+ ICR_vanguardist_ADJ: "Indochinese" #NT!
+ ICR_vanguardist_DEF: "Indochina" #NT!
+ ICR_collectivist: "Indochina" #NT!
+ ICR_collectivist_ADJ: "Indochinese" #NT!
+ ICR_collectivist_DEF: "Indochina" #NT!
+ ICR_libertarian_socialist: "Indochina" #NT!
+ ICR_libertarian_socialist_ADJ: "Indochinese" #NT!
+ ICR_libertarian_socialist_DEF: "Indochina" #NT!
+ ICR_social_democrat: "Indochina" #NT!
+ ICR_social_democrat_ADJ: "Indochinese" #NT!
+ ICR_social_democrat_DEF: "Indochina" #NT!
+ ICR_social_liberal: "Indochina" #NT!
+ ICR_social_liberal_ADJ: "Indochinese" #NT!
+ ICR_social_liberal_DEF: "Indochina" #NT!
+ ICR_market_liberal: "Indochina" #NT!
+ ICR_market_liberal_ADJ: "Indochinese" #NT!
+ ICR_market_liberal_DEF: "Indochina" #NT!
+ ICR_social_conservative: "Indochina" #NT!
+ ICR_social_conservative_ADJ: "Indochinese" #NT!
+ ICR_social_conservative_DEF: "Indochina" #NT!
+ ICR_authoritarian_democrat: "Indochina" #NT!
+ ICR_authoritarian_democrat_ADJ: "Indochinese" #NT!
+ ICR_authoritarian_democrat_DEF: "Indochina" #NT!
+ ICR_paternal_autocrat: "Indochina" #NT!
+ ICR_paternal_autocrat_ADJ: "Indochinese" #NT!
+ ICR_paternal_autocrat_DEF: "Indochina" #NT!
+ ICR_national_populist: "Indochina" #NT!
+ ICR_national_populist_ADJ: "Indochinese" #NT!
+ ICR_national_populist_DEF: "Indochina" #NT!
+ ICR_valkist: "Indochina" #NT!
+ ICR_valkist_ADJ: "Indochinese" #NT!
+  
+ ### Ideas 
+ ICR_revolution: "Indochinese Revolution" #NT!
+  
+ ICR_Ho_Chi_Minh: "Ho Chi Minh" #NT!
+ ICR_Bui_Bang_Doan: "Bui Bang Doan" #NT!
+ ICR_Nguyen_An_Ninh: "Nguyen An Ninh" #NT!
+ ICR_Nguyen_Thai_Hoc: "Nguyen Thai Hoc" #NT!
+ ICR_Bui_Quang_Chieu: "Bui Quang Chieu" #NT!
+ ICR_Cuong_De: "Cuong De" #NT!
+ ICR_Nguyen_Phan_Long: "Nguyen Phan Long" #NT!
+ ICR_Vo_Nguyen_Giap: "Vo Nguyen Giap" #NT!
+ ICR_Van_Tien_Dung: "Van Tien Dung" #NT!
+ ICR_Chu_Van_Tan: "Chu Van Tan" #NT!
+ ICR_Hoang_Van_Thai: "Hoang Van Thai" #NT!
+ ICR_Nguyen_Binh: "Nguyen Binh" #NT!
+ ICR_Duong_Van_Duong: "Duong Van Duong" #NT!

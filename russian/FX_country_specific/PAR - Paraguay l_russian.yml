@@ -1,0 +1,128 @@
+﻿l_russian:
+  
+ ### Country Names 
+ PAR_vanguardist: "Paraguay" #NT!
+ PAR_vanguardist_ADJ: "Paraguayan" #NT!
+ PAR_vanguardist_DEF: "the Socialist Republic of Paraguay" #NT!
+ PAR_collectivist: "Paraguay" #NT!
+ PAR_collectivist_ADJ: "Paraguayan" #NT!
+ PAR_collectivist_DEF: "Socialist Republic of Paraguay" #NT!
+ PAR_libertarian_socialist: "Paraguay" #NT!
+ PAR_libertarian_socialist_ADJ: "Paraguayan" #NT!
+ PAR_libertartarian_socialist_DEF: "the Socialist Republic of Paraguay" #NT!
+ PAR_social_democrat: "Paraguay" #NT!
+ PAR_social_democrat_ADJ: "Paraguayan" #NT!
+ PAR_social_democrat_DEF: "the Republic of Paraguay" #NT!
+ PAR_social_liberal: "Paraguay" #NT!
+ PAR_social_liberal_ADJ: "Paraguayan" #NT!
+ PAR_social_liberal_DEF: "the Republic of Paraguay" #NT!
+ PAR_market_liberal: "Paraguay" #NT!
+ PAR_market_liberal_ADJ: "Paraguayan" #NT!
+ PAR_market_liberal_DEF: "the Republic of Paraguay" #NT!
+ PAR_social_conservative: "Paraguay" #NT!
+ PAR_social_conservative_ADJ: "Paraguayan" #NT!
+ PAR_social_conservative_DEF: "the Republic of Paraguay" #NT!
+ PAR_authoritarian_democrat: "Paraguay" #NT!
+ PAR_authoritarian_democrat_ADJ: "Paraguayan" #NT!
+ PAR_authoritarian_democrat_DEF: "the Republic of Paraguay" #NT!
+ PAR_paternal_autocrat: "Paraguay" #NT!
+ PAR_paternal_autocrat_ADJ: "Paraguayan" #NT!
+ PAR_paternal_autocrat_DEF: "the State of Paraguay" #NT!
+ PAR_national_populist: "Paraguay" #NT!
+ PAR_national_populist_ADJ: "Paraguayan" #NT!
+ PAR_national_populist_DEF: "the State of Paraguay" #NT!
+ PAR_valkist: "Paraguay" #NT!
+ PAR_valkist_ADJ: "Paraguayan" #NT!
+ PAR_valkist_DEF: "the National Republic of Paraguay" #NT!
+  
+ PAR_guarani_valkist: "Guarani State" #NT!
+ PAR_guarani_valkist_ADJ: "Guarani" #NT!
+ PAR_guarani_valkist_DEF: "Guarani State" #NT!
+  
+ ### Parties ### 
+ PAR_social_democrat_party: "LNI" #NT!
+ PAR_social_democrat_party_long: "Liga Nacional Independiente\n§gNational Independent League§!" #NT!
+ PAR_social_conservative_party: "PC" #NT!
+ PAR_social_conservative_party_long: "Partido Colorado\n§gNational Republican Party§!" #NT!
+ PAR_authoritarian_democrat_party: "PNL" #NT!
+ PAR_authoritarian_democrat_party_long: "Partido Nacional Liberal Estigarribista\n§gNational Liberal Party - Estigarribista§!" #NT!
+ PAR_paternal_autocrat_party: "PP" #NT!
+ PAR_paternal_autocrat_party_long: "Partido Paraguayo\n§gParaguayan Party§!" #NT!
+ PAR_national_populist_party: "LDI" #NT!
+ PAR_national_populist_party_long: "Liga de Defesa Independente\n§gIndependent Defense League§!" #NT!
+ PAR_valkist_party: "LDI (V)" #NT!
+ PAR_valkist_party_long: "Liga de Defesa Independente (Valkistas)\n§gIndependent Defense League - Valkists§!" #NT!
+ PAR_social_liberal_party: "PA" #NT!
+ PAR_social_liberal_party_long: "Partido Azul\n§gCentro Democrático§!" #NT!
+ PAR_market_liberal_party: "PNL" #NT!
+ PAR_market_liberal_party_long: "Partido Nacional Liberal Ortodoxo\n§gNational Liberal Party - Orthodox§!" #NT!
+ PAR_libertarian_socialist_party: "FAP" #NT!
+ PAR_libertarianl_socialist_party_long: "Federacion Anarco-Socialista Paraguaya\n§gAnarcho-Socialist Federation of Paraguay§!" #NT!
+ PAR_collectivist_party: "PSP" #NT!
+ PAR_collectivist_party_long: "Partido Socialista de Paraguay\n§gSocialist Party of Paraguay§!" #NT!
+ PAR_vanguardist_party: "PAP" #NT!
+ PAR_vanguardist_party_long: "Partido Abrilista Paraguayo\n§gParaguayan Abrilist Party§!" #NT!
+  
+ # Companies 
+ AA: "Arsenal de Asunción" #NT!
+ CAP: "Compañía Aviadora Paraguaya" #NT!
+ CSA_PAR: "Casado S.A." #NT!
+ DIMABEL: "DIMABEL" #NT!
+ PCB: "PCB" #NT!
+ PFA: "Puerto Fluvial de Asunción" #NT!
+ UNA: "Universidad Nacional de Asunción" #NT!
+  
+ ### Head of Government ### 
+ PAR_Anselmo_Jover_Peralta_hog_tot: "Anselmo Jover Peralta" #NT!
+ PAR_Lucas_Ibarrola_hog_syn: "Lucas Ibarrola" #NT!
+ PAR_Obdulio_Barthe_hog_rso: "Obdulio Barthe" #NT!
+ PAR_Felix_Paiva_hog_mli: "Félix Paiva" #NT!
+ PAR_Juan_Manuel_Frutos_hog_sco: "Juan Manuel Frutos" #NT!
+ PAR_Tomas_R_Salomoni_hog_sco: "Tomás R. Salomoni" #NT!
+ PAR_Luis_Alberto_Riart_hog_pau: "Luis Alberto Riart" #NT!
+ PAR_Higinio_Morinigo_Martinez_hog_npo: "Higinio Morínigo Martínez" #NT!
+  
+ ### Person of Influence ### 
+ ## Foreign Minister 
+ PAR_Juan_Stefanich_for_tot: "Juan Stefanich" #NT!
+ PAR_Cecilio_Baez_Gonzalez_for_mli: "Cecilio Báez González" #NT!
+ PAR_Eusebio_Ayala_for_mli: "Eusebio Ayala" #NT!
+ PAR_Justo_Pastor_Prieto_for_mli: "Justo Pastor Prieto" #NT!
+ PAR_Higinio_Morinigo_Martinez_for_sco: "Higinio Morínigo Martínez" #NT!
+ PAR_Horacio_Chiriani_Cotor_for_pau: "Horacío Chiriani Cotor" #NT!
+ ## Economy Minister 
+ PAR_Obdulio_Barthe_eco_rso: "Obdulio Barthe" #NT!
+ PAR_Arnaldo_Valdovinos_eco_mli: "Arnaldo Valdovinos" #NT!
+ PAR_Luis_Andres_Avelino_Argana_Benegas_eco_sco: "Luis Andrés Avelino Argaña Benegas" #NT!
+ PAR_Dr_Federico_Chaves_Careaga_eco_pau: "Dr. Federico Chaves Careaga" #NT!
+ PAR_Vicente_Machuca_eco_npo: "Vicente Machuca" #NT!
+ ## Security Minister 
+ PAR_Carlos_Agustin_Pastore_Goiburu_sec_tot: "Carlos Agustín Pastore Goiburú" #NT!
+ PAR_Don_Alfredo_Virgili_sec_mli: "Don Alfredo Virgili" #NT!
+ PAR_Efraim_Cardozo_sec_mli: "Efraím Cardozo" #NT!
+ PAR_Justo_Pastor_Benitez_sec_sco: "Justo Pastor Benítez" #NT!
+ PAR_Ricardo_Odriosola_sec_sco: "Ricardo Odriosola" #NT!
+ PAR_Felipe_Benigno_Molas_Lopez_sec_pau: "Felipe Benigno Molas López" #NT!
+ PAR_Nicolas_Delgado_Ruiz_Diaz_sec_pau: "Nicolas Delgado Ruiz Diaz" #NT!
+ PAR_Tomas_Romero_Pereira_sec_npo: "Tomás Romero Pereira" #NT!
+  
+ ### Chief of Staff ### 
+ PAR_Carlos_Agustin_Pastore_Goiburu_cos_tot: "Carlos Agustín Pastore Goiburú" #NT!
+ PAR_Horacio_Chiriani_Cotor_cos_pau: "Horacío Chiriani Cotor" #NT!
+ PAR_Ivan_Belaieff_cos_pau: "Iván Belaieff" #NT!
+ PAR_Vicente_Machuca_cos_npo: "Vicente Machuca" #NT!
+  
+ ### Chief of Army ### 
+ PAR_Anselmo_Jover_Peralta_carm_tot: "Anselmo Jover Peralta" #NT!
+ PAR_Nicolas_Delgado_Ruiz_Diaz_carm_pau: "Nicolas Delgado Ruiz Diaz" #NT!
+ PAR_Eugenio_Alejandrino_Garay_carm: "Eugenio Alejandrino Garay" #NT!
+  
+ ### Chief of Navy ### 
+ PAR_Elias_Ayala_cnav: "Elias Ayala" #NT!
+  
+ ### Chief of Air Force ### 
+ PAR_Leandro_Aponte_cair: "Leandro Aponte" #NT!
+ PAR_Rafael_Franco: "Rafael Franco" #NT!
+ PAR_Adolfo_Chirife: "Adolfo Chirife" #NT!
+ PAR_Juan_Manuel_Fructos: "Juan Manuel Frutos" #NT!
+ PAR_Higinio_Morinigo: "Higinio Morínigo" #NT!

@@ -1,0 +1,63 @@
+﻿l_russian:
+  
+ ### Country Names 
+ YEM_vanguardist: "Yemen" #NT!
+ YEM_vanguardist_ADJ: "Yemeni" #NT!
+ YEM_vanguardist_DEF: "the Union of Yemen" #NT!
+ YEM_collectivist: "Yemen" #NT!
+ YEM_collectivist_ADJ: "Yemeni" #NT!
+ YEM_collectivist_DEF: "the United Yemeni Communes" #NT!
+ YEM_libertarian_socialist: "Yemen" #NT!
+ YEM_libertarian_socialist_ADJ: "Yemeni" #NT!
+ YEM_libertarian_socialist_DEF: "the People's Republic of Yemen" #NT!
+ YEM_social_democrat: "Yemen" #NT!
+ YEM_social_democrat_ADJ: "Yemeni" #NT!
+ YEM_social_democrat_DEF: "the Republic of Yemen" #NT!
+ YEM_social_liberal: "Yemen" #NT!
+ YEM_social_liberal_ADJ: "Yemeni" #NT!
+ YEM_social_liberal_DEF: "the Republic of Yemen" #NT!
+ YEM_market_liberal: "Yemen" #NT!
+ YEM_market_liberal_ADJ: "Yemeni" #NT!
+ YEM_market_liberal_DEF: "the Republic of Yemen" #NT!
+ YEM_social_conservative: "Yemen" #NT!
+ YEM_social_conservative_ADJ: "Yemeni" #NT!
+ YEM_social_conservative_DEF: "the Republic of Yemen" #NT!
+ YEM_authoritarian_democrat: "Yemen" #NT!
+ YEM_authoritarian_democrat_ADJ: "Yemeni" #NT!
+ YEM_authoritarian_democrat_DEF: "the Imamate of Yemen" #NT!
+ YEM_paternal_autocrat: "Yemen" #NT!
+ YEM_paternal_autocrat_ADJ: "Yemeni" #NT!
+ YEM_paternal_autocrat_DEF: "the Imamate of Yemen" #NT!
+ YEM_national_populist: "Yemen" #NT!
+ YEM_national_populist_ADJ: "Yemeni" #NT!
+ YEM_national_populist_DEF: "the Imamate of Yemen" #NT!
+ YEM_valkist: "Yemen" #NT!
+ YEM_valkist_ADJ: "Yemeni" #NT!
+ YEM_valkist_DEF: "the Imamate of Yemen" #NT!
+  
+ ### Parties 
+ YEM_vanguardist_party: "ATUC" #NT!
+ YEM_vanguardist_party_long: "Aden Trade Union Congress" #NT!
+ YEM_collectivist_party: "ATUC" #NT!
+ YEM_collectivist_party_long: "Aden Trade Union Congress" #NT!
+ YEM_libertarian_socialist_party: "LA" #NT!
+ YEM_libertarian_socialist_party_long: "Lajnat Almuqawama\n§gCommittee of Resistance§!" #NT!
+ YEM_social_democrat_party: "Trade Unionists" #NT!
+ YEM_social_democrat_party_long: "Moderate Trade Unionists" #NT!
+ YEM_social_liberal_party: "Shabab Al-Amr" #NT!
+ YEM_social_liberal_party_long: "Shabab al-Amr bil-Maruf wal-Nahian al-Munka\n§gYouth enjoining good and forbidding wrong§!" #NT!
+ YEM_market_liberal_party: "HaN" #NT!
+ YEM_market_liberal_party_long: "Hait al-Nadial" #NT!
+ YEM_social_conservative_party: "HaN" #NT!
+ YEM_social_conservative_party_long: "Hait al-Nadial" #NT!
+ YEM_authoritarian_democrat_party: "Royalists" #NT!
+ YEM_authoritarian_democrat_party_long: "Royalists" #NT!
+ YEM_paternal_autocrat_party: "Imamate" #NT!
+ YEM_paternal_autocrat_party_long: "The Imamate" #NT!
+ YEM_national_populist_party: "YAR" #NT!
+ YEM_national_populist_party_long: "Yemen Arab Republic" #NT!
+ YEM_valkist_party: "YAR" #NT!
+ YEM_valkist_party_long: "Yemen Arab Republic" #NT!
+  
+ YEM_Imam_Yahya: "Imam Yahya" #NT!
+ YEM_Abdul_Rahman_al_Eryani: "Abdul Rahman al-Eryani" #NT!

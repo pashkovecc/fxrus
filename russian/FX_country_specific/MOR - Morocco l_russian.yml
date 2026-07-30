@@ -1,0 +1,47 @@
+﻿l_russian:
+  
+ ### Country Names 
+ MOR_vanguardist: "Moroccan People's Republic" #NT!
+ MOR_vanguardist_ADJ: "Moroccan" #NT!
+ MOR_vanguardist_DEF: "the People's Republic of Morocco" #NT!
+ MOR_collectivist: "Worker's State of Morocco" #NT!
+ MOR_collectivist_ADJ: "Moroccan" #NT!
+ MOR_collectivist_DEF: "the Worker's State of Morocco" #NT!
+ MOR_libertarian_socialist: "Moroccan Soviet Republic" #NT!
+ MOR_libertarian_socialist_ADJ: "Moroccan" #NT!
+ MOR_libertarian_socialist_DEF: "the Soviet Republic of Morocco" #NT!
+ MOR: "Kingdom of Morocco" #NT!
+ MOR_ADJ: "Марокканск"
+ MOR_DEF: "the Kingdom of Morocco" #NT!
+  
+ ### Parties 
+ MOR_social_democrat_party: "IILS" #NT!
+ MOR_social_democrat_party_long: "Al-Ittihad Al-Ishtirakiy Lilqawat Al-Sha'abiyah\n§gSocialist Union of Youth Forces§!" #NT!
+ MOR_social_conservative_party: "HI" #NT!
+ MOR_social_conservative_party_long: "Hizb Al-Istiqlal\n§gIndependence Party§!" #NT!
+ MOR_authoritarian_democrat_party: "SAF" #NT!
+ MOR_authoritarian_democrat_party_long: "Sulalat al-'Alawiyyin al-Filaliyn\n§gHouse of Alawi§!" #NT!
+ MOR_paternal_autocrat_party: "SAF" #NT!
+ MOR_paternal_autocrat_party_long: "Sulalat al-'Alawiyyin al-Filaliyn\n§gHouse of Alawi§!" #NT!
+ MOR_national_populist_party: "IMA" #NT!
+ MOR_national_populist_party_long: "Ittihad al-Maghrib al-'Arabi\n§gMaghreb Union§!" #NT!
+ MOR_valkist_party: "IMA" #NT!
+ MOR_valkist_party_long: "Ittihad al-Maghrib al-'Arabi\n§gMaghreb Union§!!" #NT!
+ MOR_social_liberal_party: "JLMD" #NT!
+ MOR_social_liberal_party_long: "Jabhat Lildifae ean Al-Muasasat Al-Dusturia\n§gFront for the Defence of Constitutional Institutions§!" #NT!
+ MOR_market_liberal_party: "Alhizb Almaghribiu Alliybiraliu" #NT!
+ MOR_market_liberal_party_long: "Alhizb Almaghribiu Alliybirali\n§gMoroccan Liberal Party§!" #NT!
+ MOR_libertarian_socialist_party: "AALA" #NT!
+ MOR_libertarian_socialist_party_long: "Alaitihad Alwataniu Lilquaa Alshaebia\n§gNational Popular Front for Bread§!" #NT!
+ MOR_collectivist_party: "HAM" #NT!
+ MOR_collectivist_party_long: "Al-Hizb Al-Aishtirakiu Al-Maghribiu\n§gMoroccan Socialist Partys§!" #NT!
+ MOR_vanguardist_party: "HAM" #NT!
+ MOR_vanguardist_party_long: "Alhizb Alshuyueiu Almaghribiu\n§gMoroccan Socialist Party§!" #NT!
+  
+  
+ ### Ideas 
+ MOR_harsh_environment: "Harsh Environment" #NT!
+ MOR_harsh_environment_desc: "Generally hot, arid, and not suited for industrial expansion, investors refuse to assist colonial development of French North Africa. Our scientists seek to prove these investors wrong. By using flasks, beakers, and making shit up out of nowhere, they might be able to conjure up a 'study' that proves these investors incorrect. How long until it arrives is unknown though." #NT!
+ MOR_Mohammed_V: "Mohammed V" #NT!
+ MOR_Abd_el_Krim: "Abd el-Krim" #NT!
+ MOR_Leon_Sultan: "Léon Sultan" #NT!

@@ -1,0 +1,64 @@
+﻿l_russian:
+  
+ ### Country Names 
+ CYP_vanguardist: "Cypriot Union" #NT!
+ CYP_vanguardist_ADJ: "Cypriot" #NT!
+ CYP_vanguardist_DEF: "the Cypriot Union" #NT!
+ CYP_collectivist: "Cypriot Union" #NT!
+ CYP_collectivist_ADJ: "Cypriot" #NT!
+ CYP_collectivist_DEF: "the Cypriot Union" #NT!
+ CYP_libertarian_socialist: "Cypriot Union" #NT!
+ CYP_libertarian_socialist_ADJ: "Cypriot" #NT!
+ CYP_libertarian_socialist_DEF: "the Cypriot Union" #NT!
+ CYP_social_democrat: "Cyprus" #NT!
+ CYP_social_democrat_ADJ: "Cypriot" #NT!
+ CYP_social_democrat_DEF: "the Cypriot Republic" #NT!
+ CYP_social_liberal: "Cyprus" #NT!
+ CYP_social_liberal_ADJ: "Cypriot" #NT!
+ CYP_social_liberal_DEF: "the Cypriot Republic" #NT!
+ CYP_market_liberal: "Cyprus" #NT!
+ CYP_market_liberal_ADJ: "Cypriot" #NT!
+ CYP_market_liberal_DEF: "the Cypriot Republic" #NT!
+ CYP_social_conservative: "Cyprus" #NT!
+ CYP_social_conservative_ADJ: "Cypriot" #NT!
+ CYP_social_conservative_DEF: "the Cypriot Republic" #NT!
+ CYP_authoritarian_democrat: "Cyprus" #NT!
+ CYP_authoritarian_democrat_ADJ: "Cypriot" #NT!
+ CYP_authoritarian_democrat_DEF: "the Cypriot Republic" #NT!
+ CYP_paternal_autocrat: "Cyprus" #NT!
+ CYP_paternal_autocrat_ADJ: "Cypriot" #NT!
+ CYP_paternal_autocrat_DEF: "the Cypriot Republic" #NT!
+ CYP_national_populist: "Cyprus" #NT!
+ CYP_national_populist_ADJ: "Cypriot" #NT!
+ CYP_national_populist_DEF: "the Cypriot Republic" #NT!
+ CYP_valkist: "Cyprus" #NT!
+ CYP_valkist_ADJ: "Cypriot" #NT!
+ CYP_valkist_DEF: "the Cypriot Republic" #NT!
+  
+ CYP_ENG: "British Cyprus" #NT!
+ CYP_ENG_DEF: "the British Crown Colony of Cyprus" #NT!
+  
+ # Parties 
+  
+ CYP_vanguardist_party: "EKKK" #NT!
+ CYP_vanguardist_party_long: "Enoméno Kommounistikó Kómma Kýprou\n§gUnited Communist Party of Cyprus§!" #NT!
+ CYP_collectivist_party: "EKKK" #NT!
+ CYP_collectivist_party_long: "Enoméno Kommounistikó Kómma Kýprou\n§gUnited Communist Party of Cyprus§!" #NT!
+ CYP_libertarian_socialist_party: "AKEL" #NT!
+ CYP_libertarian_socialist_party_long: "Anorthotikó Kómma Ergazómenou Laoú\n§gProgressive Party of Working People§!" #NT!
+ CYP_social_democrat_party: "Synagermós" #NT!
+ CYP_social_democrat_party_long: "Kypriakós Synagermós\n§gCypriot Rally§!" #NT!
+ CYP_social_liberal_party: "British Administration" #NT!
+ CYP_social_conservative_party: "ELAM" #NT!
+ CYP_social_conservative_party_long: "" #NT!
+ CYP_authoritarian_democrat_party: "EEK" #NT!
+ CYP_authoritarian_democrat_party_long: "Ekklisiastikí Énosi Kýprou\n§gEcclesiastical Union of Cyprus§!" #NT!
+ CYP_national_populist_party: "EOKA" #NT!
+ CYP_national_populist_party_long: "Ethnikí Orgánosis Kypríon Agonistón\n§gNational Organisation of Cypriot Fighters§!" #NT!
+  
+ # Events 
+ cyp.1.t: "Cypriots demand autonomy!" #NT!
+ cyp.1.d: "In the wake of the recent London Stock Market Crash, the people of Cyprus have seized an opportunity to press for greater autonomy, a cause they have championed for a considerable period. While their demand for autonomy had been voiced before, the economic turmoil stemming from the crash left them in a unique position. However, a significant obstacle now stands in their way: the erosion of their armed forces' capabilities, rendering them powerless in their pursuit of greater self-governance. As a result, the Cypriots find themselves in a precarious situation, seemingly compelled to accept the current state of affairs." #NT!
+ cyp.1.a: "We can do nothing, give them some autonomy." #NT!
+  
+ CYP_Richmond_Palmer: "Richmond Palmer" #NT!

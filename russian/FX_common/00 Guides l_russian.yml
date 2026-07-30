@@ -1,0 +1,84 @@
+﻿l_russian:
+  
+ # This is the Fuhrerredux Guides file. 
+  
+ # @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ # 
+ #           Useful stuff you can use:           # 
+ # [umlaut], [umlautCap]: returns U with umlauts # 
+ # @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ # 
+  
+ # Format 
+  
+ # GUIDES_TAG_PATH_NUM (wherein TAG = any tag and NUM is guide's number) 
+ # GUIDES_TAG_PATH_NUM_desc (not required; can be used if someone wants to have smh there ig) 
+ # GUIDES_TAG_PATH_NUM_expl: (explanation; opens in the explanation window) 
+  
+ # Philippines Guides 
+ GUIDES_PHI_PATH_1: "How to get Papal Philippines?" #NT!
+ GUIDES_PHI_PATH_1_desc: "" #NT!
+ GUIDES_PHI_PATH_1_expl: "Either of the following can get the pope to relocate to Manila:\n  1)Germany invades and captures Rome.\n  2)Italy goes socialist." #NT!
+ GUIDES_PHI_PATH_2: "How to get Socialist Philippines?" #NT!
+ GUIDES_PHI_PATH_2_desc: "" #NT!
+ GUIDES_PHI_PATH_2_expl: "After the London Stock Market Crash, there will be protests in Manila, choose to let them protest, then evacuate the President in the next event. When the Filipino scouts expel the protesters, wait for the 1937 Elections to elect the Laborista." #NT!
+ GUIDES_PHI_PATH_3: "How to get Junta Philippines?" #NT!
+ GUIDES_PHI_PATH_3_desc: "" #NT!
+ GUIDES_PHI_PATH_3_expl: "The London Stock Market Crash will cause an event chain of protests, don't negotiate with the protesters and don't evacuate the President when the protests are near Malacanan. The President will be assassinated and the Military will take power." #NT!
+ GUIDES_PHI_PATH_4: "" #NT!
+ GUIDES_PHI_PATH_4_desc: "" #NT!
+  
+ # Japan Guides 
+ GUIDES_JAP_PATH_1: "How to get Shogunate Path?" #NT!
+ GUIDES_JAP_PATH_1_desc: "" #NT!
+ GUIDES_JAP_PATH_1_expl: "During the Righteous Incident, you can either select "We must protect democracy" (50/50 of succeed coup depends on your choice) or "Surely, we can do it diplomatically" (100% succeed coup), you can finish the Allow Martial Law and go straight to The Korean Problem.\nThis will unlock the first phase chain event of Shogunate.\nIf you select "Surely, we can do it diplomatically" and wait, it's gonna trigger the Army Coup (NatPop Japan). This is fastest way to get the Shogunate into power\nIf you select "We must protect democracy", you need to finish the "Constitutional Crisis" focus first. When the Information of Another Potential Revolt fires. You have three choices:\n   1)If you select "Surely nothing to get worked up about" It will lead you to Navy Coup\n   2)If you select "Inform the Emperor! We'll see what he does" It will lead you to the next event "The Emperor wishes to speak to the military". When the event fires, you need to select the "What? No! His Majesty would only be critised" It will lead to Navy Coup.\n   3)If you select "Inform the more loyal Admirals. They ought to know something", it will fire the event "Yamamoto's Report". This event you need to select "This will be the biggest betrayal of the century" It will lead to Navy Coup.\n\nThen go down until you finish Military Alliance. It will trigger the Northern Alliance revolt. Select the first choice and VOILA!. \nEnjoy your Shogunate" #NT!
+  
+ # Macedonia 
+ GUIDES_GRE_PATH_1: "How to get Alexander the Great?" #NT!
+ GUIDES_GRE_PATH_1_desc: "" #NT!
+ GUIDES_GRE_PATH_1_expl: "1) Be sure you have the rule "Allow Alexander" set to "Allow Alexander".\n2)Play as Greece.\n3)On the event that asks if you want to unite with Alexander, choose yes." #NT!
+ GUIDES_GRE_PATH_2: "How to get the Golden Dawn?" #NT!
+ GUIDES_GRE_PATH_2_desc: "" #NT!
+ GUIDES_GRE_PATH_2_expl: "Do decisions in favour of the Golden Dawn, and pick event options in favour of it as well. Eventually, they will coup and you will become Valkist." #NT!
+ GUIDES_GRE_PATH_3: "How to get the EEE?" #NT!
+ GUIDES_GRE_PATH_3_desc: "" #NT!
+ GUIDES_GRE_PATH_3_expl: "Do decisions in favour of the Golden Dawn, and pick event options in favour of it as well. After some time, Golden Dawn will coup and you will be able to select between them or EEE." #NT!
+ GUIDES_GRE_PATH_4: "How to get Monarchist Byzantium?" #NT!
+ GUIDES_GRE_PATH_4_desc: "" #NT!
+ GUIDES_GRE_PATH_4_expl: "Pick Rallis in the Presidential Elections and wait till 1937. An event will pop up about MEK Couping the government. You make the coup succeed. After 15 days or so, MEK leader will be assasinated and the Monarchist Comitee will take over. Then the first focus for royalist Byzantium will get unlocked." #NT!
+ GUIDES_GRE_PATH_5: "How to get the Helleno-Turkish Federation?" #NT!
+ GUIDES_GRE_PATH_5_desc: "" #NT!
+ GUIDES_GRE_PATH_5_expl: "Pick Rallis in the Presidential Elections and wait untill the Government elections happen. You will pick GLRE. After that, you have to win the 3rd Greco-Turkish war and then after the path will unlock." #NT!
+ GUIDES_GRE_PATH_6: "How to get the Mediterannean Federation?" #NT!
+ GUIDES_GRE_PATH_6_desc: "" #NT!
+ GUIDES_GRE_PATH_6_expl: "Pick Glinos in the Presidential Elections and wait untill the Government elections happen. You can pick any communist party except SocDems. After that, you have to win the 3rd Greco-Turkish war and then after the path will unlock." #NT!
+ GUIDES_GRE_PATH_7: "How to get Megali Idea?" #NT!
+ GUIDES_GRE_PATH_7_desc: "" #NT!
+ GUIDES_GRE_PATH_7_expl: "Pick Glinos, Rallis or Novas depending which path you want in the Presidential Elections and wait untill the Government elections happen. You can pick any liberal party or Metaxist party (SocDem, SocLib, SocCon, PatAut). After that, you have to win the 3rd Greco-Turkish war and then after the path will unlock." #NT!
+ GUIDES_GRE_PATH_8: "How to get different Hellenic Civilisations?" #NT!
+ GUIDES_GRE_PATH_8_desc: "" #NT!
+ GUIDES_GRE_PATH_8_expl: "Pick anyone in the presidential elections and in the government elections pick Metaxas. After some days an event about the manifesto of Metaxism will fire, and you select the path you like the best." #NT!
+  
+ # Arabia 
+ GUIDES_ARB_PATH_1: "How to get the Mandate of Arabia?" #NT!
+ GUIDES_ARB_PATH_1_desc: "" #NT!
+ GUIDES_ARB_PATH_1_expl: "The London Stock Market Crash will cause an event chain of protests, don't negotiate with the protesters and don't evacuate the President when the protests are near Malacanan. The President will be assassinated and the Military will take power." #NT!
+  
+  
+ # END OF GUIDES SECTION 
+  
+ # Guides Count 
+  
+ GetGuide: "guide" #NT!
+ GetGuides: "guides" #NT!
+  
+ # Add here anything multiple nations may use (use $loc_key$ to display) 
+ guides_association_meme_paths: "\nAssociations include §YMeme Paths§!." #NT!
+  
+ # Generic 
+ get_generic_guides_count: "§Y[ROOT.GetNameDefCap]§! has §G[?ROOT.guides_num]§! [GetGuideGuides] associated with it." #NT!
+  
+ # Country-Specific 
+ get_greek_guides_count: "§Y[ROOT.GetNameDefCap]§! has §G[?ROOT.guides_num]§! [GetGuideGuides] associated with it. $guides_association_meme_paths$" #NT!
+  
+ # Tooltips: 
+  
+ FX_view_das_da_guide: "View this guide" #NT!

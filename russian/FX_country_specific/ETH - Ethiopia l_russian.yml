@@ -1,0 +1,52 @@
+﻿l_russian:
+  
+ ### Country Names 
+ ETH_vanguardist: "Ethiopian Union State" #NT!
+ ETH_vanguardist_ADJ: "Ethiopian" #NT!
+ ETH_vanguardist_DEF: "the Ethiopian Union State" #NT!
+ ETH_collectivist: "Ethiopian Union" #NT!
+ ETH_collectivist_ADJ: "Ethiopian" #NT!
+ ETH_collectivist_DEF: "the Ethiopian Union" #NT!
+ ETH_libertarian_socialist: "Ethiopian Union" #NT!
+ ETH_libertarian_socialist_ADJ: "Ethiopian" #NT!
+ ETH_libertarian_socialist_DEF: "the Ethiopian Union" #NT!
+ ETH_social_democrat: "Ethiopia" #NT!
+ ETH_social_democrat_ADJ: "Ethiopian" #NT!
+ ETH_social_democrat_DEF: "the Ethiopian Empire" #NT!
+ ETH_social_liberal: "Ethiopia" #NT!
+ ETH_social_liberal_ADJ: "Ethiopian" #NT!
+ ETH_social_liberal_DEF: "the Ethiopian Empire" #NT!
+ ETH_market_liberal: "Ethiopia" #NT!
+ ETH_market_liberal_ADJ: "Ethiopian" #NT!
+ ETH_market_liberal_DEF: "the Ethiopian Empire" #NT!
+ ETH_social_conservative: "Ethiopia" #NT!
+ ETH_social_conservative_ADJ: "Ethiopian" #NT!
+ ETH_social_conservative_DEF: "the Ethiopian Empire" #NT!
+ ETH_authoritarian_democrat: "Ethiopia" #NT!
+ ETH_authoritarian_democrat_ADJ: "Ethiopian" #NT!
+ ETH_authoritarian_democrat_DEF: "the Ethiopian Empire" #NT!
+ ETH_paternal_autocrat: "Ethiopia" #NT!
+ ETH_paternal_autocrat_ADJ: "Ethiopian" #NT!
+ ETH_paternal_autocrat_DEF: "the Ethiopian Empire" #NT!
+ ETH_national_populist: "Ethiopia" #NT!
+ ETH_national_populist_ADJ: "Ethiopian" #NT!
+ ETH_national_populist_DEF: "the Ethiopian Empire" #NT!
+ ETH_valkist: "Ethiopia" #NT!
+ ETH_valkist_ADJ: "Ethiopian" #NT!
+ ETH_valkist_DEF: "the Ethiopian People's State" #NT!
+  
+ ### Cosmetic 
+ ETH_ITA_subject: "Italian East Africa" #NT!
+ ETH_ITA_subject_DEF: "Italian East Africa" #NT!
+ ETH_ITA_subject_ADJ: "Italian East-African" #NT!
+  
+ ### Parties 
+ ETH_authoritarian_democrat_party: "House of Solomon" #NT!
+ ETH_authoritarian_democrat_party_long: "House of Solomon" #NT!
+  
+ ETH_Haile_Selassie: "Haile Selassie" #NT!
+ ETH_Abebe_Aregai: "Abebe Aregai" #NT!
+ ETH_Mulugeta_Yeggazu: "Mulugeta Yeggazu" #NT!
+ ETH_Kassa_Haile_Darge: "Kassa Haile Darge" #NT!
+ ETH_Hailu_Tekle_Haymanot: "Hailu Tekle Haymanot" #NT!
+ ETH_Seyoum_Mengesha: "Seyoum Mengesha" #NT!

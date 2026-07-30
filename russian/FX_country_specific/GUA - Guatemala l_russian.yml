@@ -1,0 +1,107 @@
+﻿l_russian:
+  
+ ### Country Names 
+ GUA_vanguardist: "Guatemalan Socialist Republic" #NT!
+ GUA_vanguardist_ADJ: "Guatemalan" #NT!
+ GUA_vanguardist_DEF: "the Socialist Republic of Guatemala" #NT!
+ GUA_collectivist: "Guatemalan Socialist Republic" #NT!
+ GUA_collectivist_ADJ: "Guatemalan" #NT!
+ GUA_collectivist_DEF: "the Socialist Republic of Guatemala" #NT!
+ GUA_libertarian_socialist: "Guatemalan Socialist Republic" #NT!
+ GUA_libertarian_socialist_ADJ: "Guatemalan" #NT!
+ GUA_libertarian_socialist_DEF: "the Socialist Republic of Guatemala" #NT!
+ GUA_social_democrat: "Guatemala" #NT!
+ GUA_social_democrat_ADJ: "Guatemalan" #NT!
+ GUA_social_democrat_DEF: "the Republic of Guatemala" #NT!
+ GUA_social_liberal: "Guatemala" #NT!
+ GUA_social_liberal_ADJ: "Guatemalan" #NT!
+ GUA_social_liberal_DEF: "the Republic of Guatemala" #NT!
+ GUA_market_liberal: "Guatemala" #NT!
+ GUA_market_liberal_ADJ: "Guatemalan" #NT!
+ GUA_market_liberal_DEF: "the Republic of Guatemala" #NT!
+ GUA_social_conservative: "Guatemala" #NT!
+ GUA_social_conservative_ADJ: "Guatemalan" #NT!
+ GUA_social_conservative_DEF: "the Republic of Guatemala" #NT!
+ GUA_authoritarian_democrat: "Guatemala" #NT!
+ GUA_authoritarian_democrat_ADJ: "Guatemalan" #NT!
+ GUA_authoritarian_democrat_DEF: "the Republic of Guatemala" #NT!
+ GUA_paternal_autocrat: "Guatemala" #NT!
+ GUA_paternal_autocrat_ADJ: "Guatemalan" #NT!
+ GUA_paternal_autocrat_DEF: "the Republic of Guatemala" #NT!
+ GUA_national_populist: "Guatemala" #NT!
+ GUA_national_populist_ADJ: "Guatemalan" #NT!
+ GUA_national_populist_DEF: "the Republic of Guatemala" #NT!
+ GUA_valkist: "Guatemala" #NT!
+ GUA_valkist_ADJ: "Guatemalan" #NT!
+ GUA_valkist_DEF: "the Republic of Guatemala" #NT!
+  
+ ### Cosmetic 
+ GUA_centroamerica_vanguardist: "Union of Centroamerica" #NT!
+ GUA_centroamerica_vanguardist_ADJ: "Centroamerican" #NT!
+ GUA_centroamerica_vanguardist_DEF: "the Union of Centroamerica" #NT!
+ GUA_centroamerica_collectivist: "Grand Republic of Centroamerica" #NT!
+ GUA_centroamerica_collectivist_ADJ: "Centroamerican" #NT!
+ GUA_centroamerica_collectivist_DEF: "the Grand Republic of Centroamerica" #NT!
+ GUA_centroamerica_libertarian_socialist: "Grand Republic of Centroamerica" #NT!
+ GUA_centroamerica_libertarian_socialist_ADJ: "Centroamerican" #NT!
+ GUA_centroamerica_libertarian_socialist_DEF: "the Grand Republic of Centroamerica" #NT!
+ GUA_centroamerica_social_democrat: "Centroamerica" #NT!
+ GUA_centroamerica_social_democrat_ADJ: "Centroamerican" #NT!
+ GUA_centroamerica_social_democrat_DEF: "the United Provinces of Centroamerica" #NT!
+ GUA_centroamerica_social_liberal: "Centroamerica" #NT!
+ GUA_centroamerica_social_liberal_ADJ: "Centroamerican" #NT!
+ GUA_centroamerica_social_liberal_DEF: "the United Provinces of Centroamerica" #NT!
+ GUA_centroamerica_market_liberal: "Centroamerica" #NT!
+ GUA_centroamerica_market_liberal_ADJ: "Centroamerican" #NT!
+ GUA_centroamerica_market_liberal_DEF: "the United Provinces of Centroamerica" #NT!
+ GUA_centroamerica_social_conservative: "Centroamerica" #NT!
+ GUA_centroamerica_social_conservative_ADJ: "Centroamerican" #NT!
+ GUA_centroamerica_social_conservative_DEF: "the United Provinces of Centroamerica" #NT!
+ GUA_centroamerica_authoritarian_democrat: "Centroamerica" #NT!
+ GUA_centroamerica_authoritarian_democrat_ADJ: "Centroamerican" #NT!
+ GUA_centroamerica_authoritarian_democrat_DEF: "the United Provinces of Centroamerica" #NT!
+ GUA_centroamerica_paternal_autocrat: "Centroamerica" #NT!
+ GUA_centroamerica_paternal_autocrat_ADJ: "Centroamerican" #NT!
+ GUA_centroamerica_paternal_autocrat_DEF: "the United Provinces of Centroamerica" #NT!
+ GUA_centroamerica_national_populist: "Centroamerica" #NT!
+ GUA_centroamerica_national_populist_ADJ: "Centroamerican" #NT!
+ GUA_centroamerica_national_populist_DEF: "the United Provinces of Centroamerica" #NT!
+ GUA_centroamerica_valkist: "Greater Mesoamerican State" #NT!
+ GUA_centroamerica_valkist_ADJ: "Mesoamerican" #NT!
+ GUA_centroamerica_valkist_DEF: "the Greater Mesoamerican State" #NT!
+  
+ ### Parties 
+ GUA_vanguardist_party: "SRC" #NT!
+ GUA_vanguardist_party_long: "Syndicate of Chain Breakers" #NT!
+ GUA_collectivist_party: "SPT" #NT!
+ GUA_collectivist_party_long: "Workers' Political Syndicate" #NT!
+ GUA_libertarian_socialist_party: "SPT" #NT!
+ GUA_libertarian_socialist_party_long: "Workers' Political Syndicate" #NT!
+ GUA_social_democrat_party: "PDR" #NT!
+ GUA_social_democrat_party_long: "Democratic Reformist Party" #NT!
+ GUA_social_liberal_party: "PLC" #NT!
+ GUA_social_liberal_party_long: "Liberal Party of Central America" #NT!
+ GUA_market_liberal_party: "PP" #NT!
+ GUA_market_liberal_party_long: "Prosperity Party" #NT!
+ GUA_social_conservative_party: "PNC" #NT!
+ GUA_social_conservative_party_long: "National Party of Central America" #NT!
+ GUA_authoritarian_democrat_party: "Military Junta" #NT!
+ GUA_authoritarian_democrat_party_long: "Military Organization for National Improvement" #NT!
+ GUA_paternal_autocrat_party: "PRN" #NT!
+ GUA_paternal_autocrat_party_long: "National Renewal Party" #NT!
+ GUA_national_populist_party: "PRN" #NT!
+ GUA_national_populist_party_long: "National Renewal Party" #NT!
+ GUA_valkist_party: "FSNH" #NT!
+ GUA_valkist_party_long: "National Salvationist Front of Guatemala" #NT!
+  
+ ### Events 
+ guatemala.1.t: "Honduras Joins the Grand Republic" #NT!
+ guatemala.1.d: "Not long ago, a socialist coup seized total power in Honduras after they gained majority control of the legislature. Led primarily by Nicaraguans who fled after their failed insurrection against the American military occupation, there are clear parallels between us and them, given the large number of Mexican immigrants that have come to influence our nation. It was their escape, first from the American puppet state and later the nationalists, that helped jumpstart the revolution in Guatemala, their numbers allowing for the toppling of the old regime and the proclamation of a new Centroamérica.\n Before, no other nation near us has successfully broken the chains of oppression. But Honduras now has and, despite some ideological differences, they have at last heeded our call for unity, and are requesting integration into the Grand Republic." #NT!
+ guatemala.1.a: "¡Trabajadores del mundo, Uníos!" #NT!
+  
+ GUA_Silverio_Ortiz_Rivas: "Silverio Ortiz Rivas" #NT!
+ GUA_Manuel_Estrada_Cabrera: "Manuel Estrada Cabrera" #NT!
+ GUA_Jorge_Ubico: "Jorge Ubico" #NT!
+ GUA_Lazaro_Chacon_Gonzalez: "Lázaro Chacón González" #NT!
+ GUA_Jose_Maria_Orellana: "José María Orellana" #NT!
+ GUA_Jacobo_Arbenz: "Jacobo Árbenz" #NT!

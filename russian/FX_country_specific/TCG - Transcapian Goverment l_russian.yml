@@ -1,0 +1,25 @@
+﻿l_russian:
+  
+ #Transcaspia 
+ ### Country Names 
+ TCG_vanguardist: "Transcaspian State" #NT!
+ TCG_vanguardist_ADJ: "Transcaspian" #NT!
+ TCG_vanguardist_DEF: "the Popular State of Transcaspia" #NT!
+ TCG_collectivist: "Transcaspian State" #NT!
+ TCG_collectivist_ADJ: "Transcaspian" #NT!
+ TCG_collectivist_DEF: "the Popular State of Transcaspia" #NT!
+ TCG_libertarian_socialist: "Transcaspian State" #NT!
+ TCG_libertarian_socialist_ADJ: "Transcaspian" #NT!
+ TCG_libertarian_socialist_DEF: "the Popular State of Transcaspia" #NT!
+ TCG: "Transcaspian Government" #NT!
+ TCG_ADJ: "Transcaspian" #NT!
+ TCG_DEF: "the Transcaspian Government" #NT!
+  
+ # Ideas 
+  
+ TCG_help_from_soviets: "Soviet Support" #NT!
+  
+ ### Parties 
+ TCG_authoritarian_democrat_party: "SiU" #NT!
+ TCG_authoritarian_democrat_party_long: "Shura-i-Ulema\n§gCouncil of Islamic Scholars§!" #NT!
+  

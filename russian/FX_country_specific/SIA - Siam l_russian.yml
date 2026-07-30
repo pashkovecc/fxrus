@@ -1,0 +1,1290 @@
+﻿l_russian:
+ #####Countries Name 
+ #Siamese 
+ SIA_vanguardist: "United Workers' Provinces of Siam" #NT!
+ SIA_vanguardist_ADJ: "Siamese" #NT!
+ SIA_vanguardist_DEF: "United Workers' Provinces of Siam" #NT!
+ SIA_collectivist: "Confederated Socialist States of Siam" #NT!
+ SIA_collectivist_ADJ: "Siamese" #NT!
+ SIA_collectivist_DEF: "Confederated Socialist States of Siam" #NT!
+ SIA_libertarian_socialist: "Socialist People's Republic of Siam" #NT!
+ SIA_libertarian_socialist_ADJ: "Siamese" #NT!
+ SIA_libertarian_socialist_DEF: "Socialist People's Republic of Siam" #NT!
+ SIA_social_democrat: "Kingdom of Siam" #NT!
+ SIA_social_democrat_ADJ: "Siamese" #NT!
+ SIA_social_democrat_DEF: "the Kingdom of Siam" #NT!
+ SIA_social_liberal: "Kingdom of Siam" #NT!
+ SIA_social_liberal_ADJ: "Siamese" #NT!
+ SIA_social_liberal_DEF: "the Kingdom of Siam" #NT!
+ SIA_market_liberal: "Kingdom of Siam" #NT!
+ SIA_market_liberal_ADJ: "Siamese" #NT!
+ SIA_market_liberal_DEF: "the Kingdom of Siam" #NT!
+ SIA_social_conservative: "Kingdom of Siam" #NT!
+ SIA_social_conservative_ADJ: "Siamese" #NT!
+ SIA_social_conservative_DEF: "the Kingdom of Siam" #NT!
+ SIA_authoritarian_democrat: "Kingdom of Siam" #NT!
+ SIA_authoritarian_democrat_ADJ: "Siamese" #NT!
+ SIA_authoritarian_democrat_DEF: "the Kingdom of Siam" #NT!
+ SIA_paternal_autocrat: "Kingdom of Siam" #NT!
+ SIA_paternal_autocrat_ADJ: "Siamese" #NT!
+ SIA_paternal_autocrat_DEF: "the Kingdom of Siam" #NT!
+ SIA_national_populist: "Kingdom of Siam" #NT!
+ SIA_national_populist_ADJ: "Siamese" #NT!
+ SIA_national_populist_DEF: "the Most Serene Kingdom of Siam" #NT!
+ SIA_valkist: "State of Siam" #NT!
+ SIA_valkist_ADJ: "Siamese" #NT!
+ SIA_valkist_DEF: "the Greater Divine State of Siam" #NT!
+ ##Cosmetic 
+ SIA_provisional_government_valkist: "Kingdom of Siam" #NT!
+ SIA_provisional_government_valkist_ADJ: "Siam" #NT!
+ SIA_provisional_government_valkist_DEF: "the Kingdom of Siam" #NT!
+ ##Germanic Faction 
+ SIA_ULTRANAT_valkist: "Maha Chakkaphop Sayam" #NT!
+ SIA_ULTRANAT_valkist_ADJ: "Siamese" #NT!
+ SIA_ULTRANAT_valkist_DEF: "Greater Siamese Commonwealth" #NT!
+ ##Tai Tribal League 
+ SIA_TAI_valkist: "Krue Raja Maharat Tai" #NT!
+ SIA_TAI_valkist_ADJ: "Tai" #NT!
+ SIA_TAI_DEF: "League of Greater Imperial Tai State" #NT!
+  
+ SIA_REP_vanguardist: "United Workers' Provinces of Siam" #NT!
+ SIA_REP_vanguardist_ADJ: "Siamese" #NT!
+ SIA_REP_vanguardist_DEF: "United Workers' Provinces of Siam" #NT!
+ SIA_REP_collectivist: "Confederated Socialist States of Siam" #NT!
+ SIA_REP_collectivist_ADJ: "Siamese" #NT!
+ SIA_REP_collectivist_DEF: "Confederated Socialist States of Siam" #NT!
+ SIA_REP_libertarian_socialist: "Socialist People's Republic of Siam" #NT!
+ SIA_REP_libertarian_socialist_ADJ: "Siamese" #NT!
+ SIA_REP_libertarian_socialist_DEF: "Socialist People's Republic of Siam" #NT!
+ SIA_REP_social_democrat: "Republic of Siam" #NT!
+ SIA_REP_social_democrat_ADJ: "Siamese" #NT!
+ SIA_REP_social_democrat_DEF: "the Republic of Siam" #NT!
+ SIA_REP_social_liberal: "Republic of Siam" #NT!
+ SIA_REP_social_liberal_ADJ: "Siamese" #NT!
+ SIA_REP_social_liberal_DEF: "the Republic of Siam" #NT!
+ SIA_REP_market_liberal: "Republic of Siam" #NT!
+ SIA_REP_market_liberal_ADJ: "Siamese" #NT!
+ SIA_REP_market_liberal_DEF: "the Republic of Siam" #NT!
+ SIA_REP_social_conservative: "Republic of Siam" #NT!
+ SIA_REP_social_conservative_ADJ: "Siamese" #NT!
+ SIA_REP_social_conservative_DEF: "the Republic of Siam" #NT!
+ SIA_REP_authoritarian_democrat: "Republic of Siam" #NT!
+ SIA_REP_authoritarian_democrat_ADJ: "Siamese" #NT!
+ SIA_REP_authoritarian_democrat_DEF: "the Republic of Siam" #NT!
+ SIA_REP_paternal_autocrat: "Republic of Siam" #NT!
+ SIA_REP_paternal_autocrat_ADJ: "Siamese" #NT!
+ SIA_REP_paternal_autocrat_DEF: "the Republic of Siam" #NT!
+ SIA_REP_national_populist: "Republic of Siam" #NT!
+ SIA_REP_national_populist_ADJ: "Siamese" #NT!
+ SIA_REP_national_populist_DEF: "the Most Serene Republic of Siam" #NT!
+ SIA_REP_valkist: "State of Siam" #NT!
+ SIA_REP_valkist_ADJ: "Siamese" #NT!
+ SIA_REP_valkist_DEF: "the Greater Divine State of Siam" #NT!
+  
+ THI_vanguardist: "United Workers' Provinces of Thailand" #NT!
+ THI_vanguardist_ADJ: "Thai" #NT!
+ THI_vanguardist_DEF: "United Workers' Provinces of Thailand" #NT!
+ THI_collectivist: "Confederated Socialist States of Thailand" #NT!
+ THI_collectivist_ADJ: "Thai" #NT!
+ THI_collectivist_DEF: "Confederated Socialist States of Thailand" #NT!
+ THI_libertarian_socialist: "Socialist People's Republic of Thailand" #NT!
+ THI_libertarian_socialist_ADJ: "Thai" #NT!
+ THI_libertarian_socialist_DEF: "Socialist People's Republic of Thailand" #NT!
+ THI_social_democrat: "Kingdom of Thailand" #NT!
+ THI_social_democrat_ADJ: "Thai" #NT!
+ THI_social_democrat_DEF: "the Kingdom of Thailand" #NT!
+ THI_social_liberal: "Kingdom of Thailand" #NT!
+ THI_social_liberal_ADJ: "Thai" #NT!
+ THI_social_liberal_DEF: "the Kingdom of Thailand" #NT!
+ THI_market_liberal: "Kingdom of Thailand" #NT!
+ THI_market_liberal_ADJ: "Thai" #NT!
+ THI_market_liberal_DEF: "the Kingdom of Thailand" #NT!
+ THI_social_conservative: "Kingdom of Thailand" #NT!
+ THI_social_conservative_ADJ: "Thai" #NT!
+ THI_social_conservative_DEF: "the Kingdom of Thailand" #NT!
+ THI_authoritarian_democrat: "Kingdom of Thailand" #NT!
+ THI_authoritarian_democrat_ADJ: "Thai" #NT!
+ THI_authoritarian_democrat_DEF: "the Kingdom of Thailand" #NT!
+ THI_paternal_autocrat: "Kingdom of Thailand" #NT!
+ THI_paternal_autocrat_ADJ: "Thai" #NT!
+ THI_paternal_autocrat_DEF: "the Kingdom of Thailand" #NT!
+ THI_national_populist: "Kingdom of Thailand" #NT!
+ THI_national_populist_ADJ: "Thai" #NT!
+ THI_national_populist_DEF: "the Most Serene Kingdom of Thailand" #NT!
+ THI_valkist: "Kingdom of Thailand" #NT!
+ THI_valkist_ADJ: "Thai" #NT!
+ THI_valkist_DEF: "the Greater Divine State of Thailand" #NT!
+  
+ THI_REP_vanguardist: "United Workers' Provinces of Thailand" #NT!
+ THI_REP_vanguardist_ADJ: "Thai" #NT!
+ THI_REP_vanguardist_DEF: "United Workers' Provinces of Thailand" #NT!
+ THI_REP_collectivist: "Confederated Socialist States of Thailand" #NT!
+ THI_REP_collectivist_ADJ: "Thai" #NT!
+ THI_REP_collectivist_DEF: "Confederated Socialist States of Thailand" #NT!
+ THI_REP_libertarian_socialist: "Socialist People's Republic of Thailand" #NT!
+ THI_REP_libertarian_socialist_ADJ: "Thai" #NT!
+ THI_REP_libertarian_socialist_DEF: "Socialist People's Republic of Thailand" #NT!
+ THI_REP_social_democrat: "Republic of Thailand" #NT!
+ THI_REP_social_democrat_ADJ: "Thai" #NT!
+ THI_REP_social_democrat_DEF: "the Republic of Thailand" #NT!
+ THI_REP_social_liberal: "Republic of Thailand" #NT!
+ THI_REP_social_liberal_ADJ: "Thai" #NT!
+ THI_REP_social_liberal_DEF: "the Republic of Thailand" #NT!
+ THI_REP_market_liberal: "Republic of Thailand" #NT!
+ THI_REP_market_liberal_ADJ: "Thai" #NT!
+ THI_REP_market_liberal_DEF: "the Republic of Thailand" #NT!
+ THI_REP_social_conservative: "Republic of Thailand" #NT!
+ THI_REP_social_conservative_ADJ: "Thai" #NT!
+ THI_REP_social_conservative_DEF: "the Republic of Thailand" #NT!
+ THI_REP_authoritarian_democrat: "Republic of Thailand" #NT!
+ THI_REP_authoritarian_democrat_ADJ: "Thai" #NT!
+ THI_REP_authoritarian_democrat_DEF: "the Republic of Thailand" #NT!
+ THI_REP_paternal_autocrat: "Republic of Thailand" #NT!
+ THI_REP_paternal_autocrat_ADJ: "Thai" #NT!
+ THI_REP_paternal_autocrat_DEF: "the Republic of Thailand" #NT!
+ THI_REP_national_populist: "Republic of Thailand" #NT!
+ THI_REP_national_populist_ADJ: "Thai" #NT!
+ THI_REP_national_populist_DEF: "the Most Serene Republic of Thailand" #NT!
+ THI_REP_valkist: "State of Thailand" #NT!
+ THI_REP_valkist_ADJ: "Thai" #NT!
+ THI_REP_valkist_DEF: "the Greater Divine State of Thailand" #NT!
+  
+ ######Ministers 
+ hog_generic_portrait: "Generic in Vanilla" #NT!
+ minister_cant_change: "§R Member of the Cabinet can't manually change by player or AI §!" #NT!
+ ##Head of Gov. (President of Council of Ministers, Grand Coordinator of Presidium of Greater Pantheon Conclave, Chief of Staff of Executive Commission to President of Republic, Chairperson of People's Affairs Commission) 
+ ##SIA## 
+ SIA_phraya_manopakorn_hog_socdem: "Phraya Manopakorn Nitithada" #NT!
+ SIA_plaek_phibunsongkram_hog_natpop: "Plaek Phibunsongkram" #NT!
+ SIA_phin_choonhavan_hog_pataut: "Phin Choonhavan" #NT!
+ SIA_direk_jayanama_hog_socdem: "Direk Jayanama" #NT!
+ SIA_kukrit_pramoj_hog_marlib: "Kukrit Pramoj" #NT!
+ SIA_wichitwathakarn_hog_valkist: "Luang Wichitwathakarn" #NT!
+ SIA_prachuap_bunnag_hog_soccon: "Prachaup Bunnag" #NT!
+ SIA_kuang_abhaiwongse_hog_soclib: "Kuang Abhaiwongse" #NT!
+ SIA_luang_aduldejjarus_hog_pataut: "Luang Aduldejjarus" #NT!
+ SIA_hrh_prince_chainat_hog_authdem: "HRH Prince Chainat" #NT!
+ SIA_council_of_minister_hog_authdem: "Council of Ministers" #NT!
+ SIA_seni_pramoj_hog_marlib: "Seni Pramoj" #NT!
+ SIA_luang_sunawin_wiwat_hog_natpop: "Luang Sunawinwiwat" #NT!
+ SIA_luan_vekchalikanon_hog_col: "Luan Vekchalikanon" #NT!
+ SIA_prayool_pamornmontri_hog_pataut: "Prayool Pamornmontri" #NT!
+ SIA_phao_sriyanond_hog_natpop: "Phao Sriyanond" #NT!
+ SIA_waas_suthornjamorn_hog_van: "Waas Suthornjamorn" #NT!
+ SIA_pridi_banomyong_hog_libsoc: "Pridi Banomyong" #NT!
+  
+ ##Foreign Minister 
+ SIA_pridi_banomyong_for_libsoc: "Pridi Banomyong" #NT!
+ SIA_traidos_phrabandhu_tevakul_for_authdem: "Traidos Phrabandhu Tevakul" #NT!
+ SIA_phraya_sri_visarnvaja_for_soclib: "Tianliang Huntrakul" #NT!
+ SIA_phraya_abhiban_rajamaitri_for_pataut: "Tom Bunnag" #NT!
+ SIA_phraya_phahon_for_soccon: "Phot Phayuhasena" #NT!
+ SIA_phraya_sri_sena_for_maklib: "Phraya Sri Sena" #NT!
+ SIA_phot_sarasin_for_socdem: "Phot Sarasin" #NT!
+ SIA_nai_vorakanbancha_for_natpop: "Nai Vorakanbancha" #NT!
+ SIA_prince_wan_waithayakon_for_soclib: "Prince Wan Waithayakon" #NT!
+ SIA_sukit_nimmarnmhern_for_valkist: "Sukit Nimmarnmherminda" #NT!
+ #Economic Minister 
+ SIA_phya_manavarajasevee_eco_authdem: "P.Vichian na Songkla" #NT!
+ SIA_prince_phromphong_athiraja_eco_patauth: "Prince Phromphong Athiraja" #NT!
+ SIA_prince_wiwathanachai_eco_authdem: "Prince Wiwathanachai" #NT!
+ SIA_phya_koman_kulmontri_eco_authdem: "Phraya Koman Kulmontri" #NT!
+ SIA_suwich_phantaset_eco_collectivist: "Suwich Phantaset" #NT!
+ SIA_leng_srisomwong_eco_marlib: "Leng Srisomwong" #NT!
+ SIA_wichit_lulitanont_eco_socdem: "Wichit Lulitanont" #NT!
+ SIA_puay_ungphakorn_eco_soclib: "Puay Ungphakorn" #NT!
+ SIA_phra_sarasad_palakan_eco_soccon: "Phra Sarasad Palakan" #NT!
+ SIA_jaroon_rattakul_eco_valkist: "Luang Seriroengrit" #NT!
+ SIA_phao_pianloed_eco_natpop: "Phao Pianloed Boripanyuttakit" #NT!
+ SIA_supha_sirimanond_eco_van: "Supha Sirimanond" #NT!
+ ##Security Minister 
+ SIA_samaichaloem_kritdakorn_sec_pataut: "Samaichaloem Kritdakorn" #NT!
+ SIA_tawil_udon_sec_libsoc: "Tawil Udon" #NT!
+ SIA_prince_sukhumbandhu_prince_nakornsawan_sec_authdem: "Prince Boriphatra Sukhumbandhu, Prince Nakornsawan" #NT!
+ SIA_chit_sunthornworn_sec_soccon: "Chit Sunthornworn" #NT!
+ SIA_phraya_udomphong_phensawat_sec_socdem: "Phraya Udomphong Phensawat" #NT!
+ SIA_mangkorn_promyothee_sec_soclib: "Mangkorn Promyothee" #NT!
+ SIA_tawee_bunyaket_sec_marlib: "Tawee Bunyaket" #NT!
+ SIA_banyati_thephassadin_na_ayudhaya_sec_natpop: "Banyati Thephassadin na Ayudhaya" #NT!
+ SIA_praphas_charusathien_sec_valkist: "Praphas Charusathien" #NT!
+ ##Chief of Staff of Royal Intelligent Service Commission 
+ SIA_luang_naruebetmanit_int_authdem: "Sa-nguan Juthatemi" #NT!
+ SIA_chit_sinadyotharak_int_pataut: "Luang Sinadyotharak" #NT!
+ SIA_luang_chamnannitikaset_int_socdem: "Luang Chamnannitikaset" #NT!
+ SIA_chuen_charuphas_int_soccon: "Chuen Charuphas" #NT!
+ SIA_khun_sukhontawit_sueksakorn_int_soclib: "Khun Sukhontawit Sueksakorn" #NT!
+ SIA_suphasawadwongsanit_sawaddiwat_int_natpop: "Suphasawadwongsanit Sawaddiwat" #NT!
+ SIA_sanguan_tularak_int_valkist: "Sa-nguan Tularak" #NT!
+ SIA_krachang_tularak_int_libsoc: "Krachang Tularak" #NT!
+ ##Governor-General of General Staff Council 
+ SIA_phraya_phahon_cos: "Phraya Phahon Phonphayuhasena" #NT!
+ SIA_phraya_ritti_arkaney_cos: "Phraya Ritti-arkaney" #NT!
+ SIA_phraya_songsuradet_cos: "Phraya Songsuradet" #NT!
+ SIA_phraya_sittisongkhram_cos: "Phraya Srisitthisongkhram" #NT!
+ SIA_sarit_thanarat_cos: "Sarit Thanarat" #NT!
+ SIA_phraya_promyothee_cos: "Phraya Promyothee" #NT!
+ SIA_plaek_phibunsongkram_cos: "Plaek Phibunsongkhram" #NT!
+ ##C-n-C of Royal Army 
+ SIA_prince_boworadet_carm: "Prince Boworadet" #NT!
+ SIA_phin_choonhavan_carm: "Phin Choonhavan" #NT!
+ SIA_luang_seriroengrit_carm: "Luang Seriroengrit" #NT!
+ SIA_Prayool_Paramontri_carm: "Prayool Paramontri" #NT!
+ SIA_Thanom_Kittikachorn_carm: "Thanom Kittikachorn" #NT!
+ ##C-n-C of Royal Navy 
+ SIA_Luang_Sinthusongkhramchai_cnav: "Luang Sinthusongkhramchai" #NT!
+ SIA_Luang_Supachalasai_cnav: "Luang Supachalasai" #NT!
+ SIA_Phraya_Wichitchollatee_cnav: "Phraya Wichitchollatee" #NT!
+ SIA_Phraya_Wicharnchakkrit_cnav: "Phraya Wicharnchakkrit" #NT!
+ SIA_Thawan_Thamrongnawasawat_cnav: "Thawan Thamrongnawasawat" #NT!
+ SIA_Luang_Yuthasartkosol_cnav: "Luang Yuthasartkosol" #NT!
+ SIA_Sangad_Chaloryu_cnav: "Sa-ngad Chalor-yu" #NT!
+ ##C-n-C of Royal Air Force 
+ SIA_Luang_Vejayantarungsarit_cair: "Luang Vejayantarungsarit" #NT!
+ SIA_Fuen_Ritthakhanee_cair: "Fuen Ritthakhanee" #NT!
+ SIA_Chaloemkiart_Wattanangkool_cair: "Chaloemkiart Wattanangkool" #NT!
+ SIA_Luang_Atuegtevadej_cair: "Luang Atuegtevadej" #NT!
+ ######Parties 
+ SIA_valkist_party: "Sapha Ruam Chon Phao Tai" #NT!
+ SIA_valkist_party_long: "Sapha Ruam Chon Phao Tai\n§gCouncil of Tai's Unificationist Party§!" #NT!
+ SIA_valkist_party_GER: "SINR" #NT!
+ SIA_valkist_party_long_GER: "Sathabun Wijai Khong Phu Fuenfoo Chart Haeng Sayam\n§gSiamese Institution of National Resurrection§!" #NT!
+ SIA_valkist_party_long_TAI: "Sahaphap Kobkoo Tai\n§gTai Restoration League§!" #NT!
+ SIA_valkist_party_TAI: "TRL" #NT!
+ SIA_social_democrat_party: "Pak Krasetsangkhom" #NT!
+ SIA_social_democrat_party_long: "Pak Krasetsangkhom\n§gAgrarian Social Party§!" #NT!
+ SIA_vanguardist_party_long: "Sapha Naewruam Raeng-ngan Tong Tin Sayam - Klum Sahakarnniyom\n§gUnited Regional Workers' Council of Siam - Syndicalists§!" #NT!
+ SIA_vanguardist_party: "Sapha Naewruam Raeng-ngan Tong Tin Sayam" #NT!
+ SIA_collectivist_party_long: "Sapha Naewruam Raeng-ngan Tong Tin Sayam - Klum Prachaniyom\n§gUnited Regional Workers' Council of Siam - Left Populists§!" #NT!
+ SIA_collectivist_party: "Sapha Naewruam Raeng-ngan Tong Tin Sayam" #NT!
+ SIA_libertarian_socialist_party_long: "Pak Sangkomniyom\n§gSocialist Party§!" #NT!
+ SIA_libertarian_socialist_party: "Pak Sangkomniyom" #NT!
+ SIA_market_liberal_party: "Pak Kit Sangkom" #NT!
+ SIA_market_liberal_party_long: "Pak Kit Sangkom\n§gSocial Action Party§!" #NT!
+ SIA_social_liberal_party: "Pak Prachathipat" #NT!
+ SIA_social_liberal_party_long: "Pak Prachathipat\n§gDemocrat Party§!" #NT!
+ SIA_social_conservative_party: "Khana Ratsadon" #NT!
+ SIA_social_conservative_party_long: "Khana Ratsadon\n§gPeople's Party§!" #NT!
+ SIA_paternal_autocrat_party: "Pak Rajaniyom - Phu Chu Jao" #NT!
+ SIA_paternal_autocrat_party_long: "Pak Rajaniyom - Phu Chu Jao\n§gRoyalist Party - Radical§!" #NT!
+ SIA_authoritarian_democrat_party: "Pak Rajaniyom - Naewruam Prachachon" #NT!
+ SIA_authoritarian_democrat_party_long: "Pak Rajaniyom - Naewruam Prachachon\n§gRoyalist Party - People's United Front§!" #NT!
+ SIA_national_populist_party_long: "Pak Seri Manangkhasila\n§gSeri Manangkhasila Party§!" #NT!
+ SIA_national_populist_party: "Pak Seri Manangkhasila" #NT!
+ ##Grand marshal's branch 
+ SIA_paternal_autocrat_party_GM: "Seri Manangkhasila - Sisao Tevet" #NT!
+ SIA_paternal_autocrat_party_GM_long: "Seri Manangkhasila - Faii Sisao Tevet\n§gSeri Manangkhasila - Sisao Tevet Clique§!" #NT!
+ SIA_national_populist_party_GM: "Seri Manangkhasila - Faii Soi Ratchakroo" #NT!
+ SIA_national_populist_party_GM_long: "Seri Manangkhasila - Faii Soi Ratchakroo\n§gSeri Manangkhasila - Soi Ratchakroo Clique§!" #NT!
+ SIA_authoritarian_democrat_party_GM: "Pak Rajaniyom" #NT!
+ SIA_authoritarian_democrat_party_GM_long: "Pak Rajaniyom\n§gRoyalist Party - Unified Clique§!" #NT!
+ ##Federalism Party 
+ SIA_social_democrat_party_Sahachip: "Pak Sangkom-Sahachip (SD)" #NT!
+ SIA_social_democrat_party_Sahachip_long: "Pak Sangkom-Sahachip - Social Democrat\n§gSocialist-Cooperative Party§!" #NT!
+ SIA_libertarian_socialist_party_Sahachip: "Pak Sangkom-Sahachip (RS)" #NT!
+ SIA_libertarian_socialist_party_Sahachip_long: "Pak Sangkom-Sahachip - Radical Socialist\n§gSocialist-Cooperative Party§!" #NT!
+ ##Siam Rebel 
+ SIR_valkist_party: "Sapha Ruam Chon Phao Tai" #NT!
+ SIR_valkist_party_long: "Sapha Ruam Chon Phao Tai\n§gCouncil of Tai's Unificationist Party§!" #NT!
+ SIR_social_democrat_party: "Pak Krasetsangkhom" #NT!
+ SIR_social_democrat_party_long: "Pak Krasetsangkhom\n§gAgrarian Social Party§!" #NT!
+ SIR_vanguardist_party_long: "Sapha Naewruam Raeng-ngan Tong Tin Sayam - Klum Sahakarnniyom\n§gUnited Regional Workers' Council of Siam - Syndicalists§!" #NT!
+ SIR_vanguardist_party: "Sapha Naewruam Raeng-ngan Tong Tin Sayam" #NT!
+ SIR_collectivist_party_long: "Sapha Naewruam Raeng-ngan Tong Tin Sayam - Klum Prachaniyom\n§gUnited Regional Workers' Council of Siam - Left Populists§!" #NT!
+ SIR_collectivist_party: "Sapha Naewruam Raeng-ngan Tong Tin Sayam" #NT!
+ SIR_libertarian_socialist_party_long: "Pak Sangkomniyom\n§gSocialist Party§!" #NT!
+ SIR_libertarian_socialist_party: "Pak Sangkomniyom" #NT!
+ SIR_market_liberal_party: "Pak Kit Sangkom" #NT!
+ SIR_market_liberal_party_long: "Pak Kit Sangkom\n§gSocial Action Party§!" #NT!
+ SIR_social_liberal_party: "Pak Prachathipat" #NT!
+ SIR_social_liberal_party_long: "Pak Prachathipat\n§gDemocrat Party§!" #NT!
+ SIR_social_conservative_party: "Khana Ratsadon" #NT!
+ SIR_social_conservative_party_long: "Khana Ratsadon\n§gPeople's Party§!" #NT!
+ SIR_paternal_autocrat_party: "Pak Rajaniyom - Phu Chu Jao" #NT!
+ SIR_paternal_autocrat_party_long: "Pak Rajaniyom - Phu Chu Jao\n§gRoyalist Party - Radical§!" #NT!
+ SIR_authoritarian_democrat_party: "Pak Rajaniyom - Naewruam Prachachon" #NT!
+ SIR_authoritarian_democrat_party_long: "Pak Rajaniyom - Naewruam Prachachon\n§gRoyalist Party - People's United Front§!" #NT!
+ SIR_national_populist_party_long: "Pak Seri Manangkhasila\n§gSeri Manangkhasila Party§!" #NT!
+ SIR_national_populist_party: "Pak Seri Manangkhasila" #NT!
+  
+ #######Focus Tree 
+ ##Focus Name 
+ SIA_balance_in_power: "Balance in power" #NT!
+ SIA_political_reform: "Political Reform" #NT!
+ SIA_rajaniyom_incident: "Believe in Democracy" #NT!
+ SIA_coop_with_rajaniyom: "Cooperation with Rajaniyom" #NT!
+ SIA_resolution_after_unrest: "Resolution after unrest" #NT!
+ SIA_after_the_civil_war: "After the Civil War" #NT!
+ ##Unificationist 
+ SIA_unificationist_win_election: "Unificationist Group" #NT!
+ SIA_annoucement_the_first_tai_people_policy: "First Tai Policy's Announcement" #NT!
+ SIA_rise_of_the_cult: "Rise of the Cult" #NT!
+ SIA_first_greater_pantheon_conclave: "1st Congress of Greater Pantheon Conclave" #NT!
+ SIA_talk_with_royal_court: "Talk with Royal Court" #NT!
+ SIA_restore_chatu_sadom: "Restore Chatu Sadom" #NT!
+ SIA_no_guilty_we_trust: "No Guilty We Trust" #NT!
+ SIA_zero_tolerance: "Zero Tolerance" #NT!
+ SIA_vigilante_allowed: "Vigilante Allowed" #NT!
+ SIA_I_am_above_all_of_you: "I am above all of you" #NT!
+ SIA_no_more_degenerate: "No More Degenerate" #NT!
+ SIA_new_militarized_feudalism: "New Militarized Feudalism" #NT!
+ SIA_no_more_multi_religion: "No More Multy-religions Society" #NT!
+ SIA_instrument_of_government: "Instrument of Government of Siam" #NT!
+ SIA_ethinical_machine_from_nothing: "Ethinical Machine from Nothing" #NT!
+ SIA_cultural_machine_from_remnants: "Cultural Machine from Remnants" #NT!
+ SIA_military_machine_from_scratch: "Military Machine from Scratch" #NT!
+ SIA_governs_from_pantheon: "Governs from Pantheon" #NT!
+ SIA_glorious_and_honorable_leader: "Glorious and Honorable Leader" #NT!
+ SIA_any_cost_we_pay: "Any cost we pay" #NT!
+ ##Unification Policy 
+ SIA_unification_policy: "Unification Policy" #NT!
+ SIA_naresuan_plan: "Plan Naresuan" #NT!
+ SIA_phutthayotfa_plan: "Plan Phutthayotfa" #NT!
+ SIA_south_annam_plan: "Operation Saigon" #NT!
+ SIA_mon_independence_movement_plan: "Plan Moulmein" #NT!
+ SIA_reclaim_the_mon_state: "Reclaim Mon Territory" #NT!
+ SIA_shan_independence_movement_plan: "Operation Saopha" #NT!
+ SIA_reclaim_the_shan_state: "Reclaim Shan State" #NT!
+ SIA_reclaim_the_peacock_throne: "Reclaim the Peacock Throne" #NT!
+ SIA_release_sipsongbanna: "Release our relatives" #NT!
+ SIA_release_sirat_malai: "Liberation Four Malay States" #NT!
+ SIA_valkist_expansion_policy: "Valkist Expansion Policy" #NT!
+ SIA_seeking_to_the_west: "Seeking to the West" #NT!
+ SIA_aggressive_policy_to_burma: "Aggressive Policy to Burma" #NT!
+ SIA_demand_burmese_territory: "Burmese Territory Demand" #NT!
+ SIA_aggressive_policy_to_eastern_india: "Aggressive Policy to Eastern India" #NT!
+ SIA_bharata_question: "Bharata Question" #NT!
+ SIA_finish_first_phase: "Close Plan One" #NT!
+ SIA_seeking_to_the_east: "Seeking to the East" #NT!
+ SIA_push_back_the_french: "Push Back the French" #NT!
+ SIA_indochinese_under_garuda_wings: "Indochina beneath the Garuda's Wings" #NT!
+ SIA_valkist_revolution_in_indochina: "Cao Dai Rally" #NT!
+ SIA_indochinese_under_the_guns: "Indochina beneath Gun" #NT!
+ SIA_true_sovereign_of_indochina: "True Indochina's Sovereign" #NT!
+ SIA_central_committee_at_esan: "Esan's Party Central Committee" #NT!
+ SIA_magical_mantra_to_brainwashing: "Brain-washing Magical Mantra" #NT!
+ SIA_magical_mantra_to_change_the_mind: "Mind Changing Magical Mantra" #NT!
+ SIA_finish_second_phase: "Close Plan Two" #NT!
+ SIA_liberation_tai_tribe_in_zhongyuan: "Contest the Heavenly Mandate" #NT!
+ SIA_valkist_foreign_policy: "Valkist's Foreign Policy" #NT!
+ SIA_friend_of_the_eastern_asia: "Our Eastern Friend" #NT!
+ SIA_siam_asiatic_alliance: "Siamese-Asiatic Alliance" #NT!
+ SIA_investment_to_taiwan: "Invest in Taiwan" #NT!
+ SIA_learn_the_germanic_idea: "Relearn the Germanic Idea" #NT!
+ SIA_german_siamese_dual_pillar_of_valkist: "Dual Pillars of Valkist" #NT!
+ SIA_plenipotentiary_minister_to_germany: "Plenipotentiary Minister to Germany" #NT!
+ SIA_anti_colonialism_policy: "Anti-Colonialism Policy" #NT!
+ SIA_calls_foreigner_ministers_to_the_hall: "Invite the our friends" #NT!
+ SIA_neighbors_provisional_governments_question: "Neighbors' Provisional Governments Question" #NT!
+ SIA_burmese_first: "Burmese Question" #NT!
+ SIA_viceroyalty_or_independency: "Viceroyalty or Republic?" #NT!
+ SIA_indochinese_first: "Indochinese Question" #NT!
+ SIA_union_or_not: "Federalism or Unitary" #NT!
+ SIA_malaya_first: "Malaya First" #NT!
+ SIA_forms_the_majlis_raja_raja_in_exiled: "Form the Malay Conference of Rulers" #NT!
+ SIA_end_of_phase_one: "End of Phase One" #NT!
+ SIA_revisit_foreign_policy: "Revisit Foreign Policy" #NT!
+ SIA_molucca_real_sovereign: "Molucca's Real Sovereign" #NT!
+ SIA_reclaim_western_new_guinea_circle: "Reclaim Western New Guinea Circle" #NT!
+ SIA_timor_question: "Timor for Whom?" #NT!
+ ##Royalist 
+ SIA_royalist_win_election: "Royalist Group" #NT!
+ SIA_spread_the_democratic_system_to_countryside: "Spread Democratic System to Countryside" #NT!
+ SIA_attempt_to_destroy_the_illegal_group: "Attempt to Abolish Illegal Groups" #NT!
+ ####Authoritarian 
+ SIA_failed_coup: "Failed Coup" #NT!
+ SIA_new_constitutional_debate: "New Constitution Debate" #NT!
+ SIA_social_democrat_doctrine: "Social Democrat Doctrine" #NT!
+ SIA_national_communication_project: "National Communication Project" #NT!
+ SIA_end_of_agriculture_transportation_stagnation: "End of Agriculture Transport's Stagnation" #NT!
+ SIA_guarantee_agriculture_production: "Guarantee Agriculture Production" #NT!
+ SIA_one_product_one_province: "One Product One Province" #NT!
+ SIA_act_of_60: "Act of 60" #NT!
+ SIA_welfare_standard: "Welfare Standard" #NT!
+ SIA_conservative_doctrine: "Conservative Doctrine" #NT!
+ SIA_maintain_education: "Maintain Education" #NT!
+ SIA_maintain_security: "Maintain Security" #NT!
+ SIA_regional_royal_college: "Regional Royal College" #NT!
+ SIA_maintain_our_foreign_status: "Maintain Our Foreign Status" #NT!
+ SIA_new_tariff_act: "New Tariff Act" #NT!
+ SIA_nationalist_doctrine: "Nationalist Doctrine" #NT!
+ SIA_modernization_democracy: "Modernization Democracy" #NT!
+ SIA_unitary_state: "End of Federalism" #NT!
+ SIA_nationalize_foreign_industry: "Nationalize Foreign Industry" #NT!
+ SIA_national_hero_memorial_day: "National Hero Memorial Day" #NT!
+ SIA_cultural_modernization: "Cultural Modernization" #NT!
+ SIA_academia_occidentalis_siamensium: "Academia Occidentalis Siamensium" #NT!
+ SIA_nation_religion_royal_family: "Nation, Religion, Royal Family" #NT!
+ ####Radical Royalist 
+ SIA_successful_of_radical: "End of Democracy" #NT!
+ SIA_hms_provisional_government: "His Majesty's Provisional Government" #NT!
+ SIA_whose_the_somdech_phra_maha_uparaja: "Whose the Somdech Phra Maha Uparaja" #NT!
+ SIA_centralization_democratic_system: "Centralization Democratic System" #NT!
+ SIA_act_of_royal_asset: "Act of Royal Asset and Crown Property" #NT!
+ SIA_hegemony_of_rattanakosin: "Hegemony of Rattanakosin" #NT!
+ SIA_new_siamese_kingdom: "End of the First Kingdom" #NT!
+ SIA_puppet_or_direct: "New King or Regency?" #NT!
+ ##Centrist 
+ SIA_centrist_win_election: "United Centrists Group" #NT!
+ SIA_our_democracy_torch: "Hold our Democracy Torch" #NT!
+ SIA_promote_federalism: "Act of Federal Administrative Divisions" #NT!
+ SIA_dissolution_of_monthon: "Act of Provincial Administrative Divisions" #NT!
+ SIA_sahachip_kaset_sangkom_party: "Sangkom-Sahachip National Coalition" #NT!
+ SIA_prachatipat_majority: "Prachatipat hold the Majority" #NT!
+ SIA_unitarian_prevail: "Unitarian Prevail" #NT!
+ ##Unitarian 
+ SIA_appoint_new_provincial_governors: "Appoint pro-conservative Provincial Governors" #NT!
+ SIA_local_business_expansion: "Local Business Expansion" #NT!
+ SIA_chamber_of_international_commerce: "Chamber of International Commerce" #NT!
+ SIA_tenasserim_arsenal: "Open Tenasserim new arsenal" #NT!
+ SIA_conservative_national_research_council: "National Research Council" #NT!
+ SIA_local_school: "Local School" #NT!
+ SIA_centralization_army: "Army's Centralization" #NT!
+ ##Federalism 
+ SIA_poor_people_welfare: "Poor People Welfare" #NT!
+ SIA_appoint_socialists_viceroy: "Appoint pro-socialism Viceroys" #NT!
+ SIA_decentralization_economic_policy: "Decentralization Economic Policy" #NT!
+ SIA_new_tariff_act_2: "New Tariff Act" #NT!
+ SIA_socialist_learning_center: "Socialist Learning Center" #NT!
+ SIA_judicial_reform: "Judicial Reform" #NT!
+ SIA_suffrage_question: "Suffrage Question" #NT!
+ SIA_new_electoral_college: "New Electoral College" #NT!
+ SIA_open_new_market: "Open New Market" #NT!
+ SIA_local_learning_center: "Local Learning Center" #NT!
+ ##Economic Branch Focus Name 
+ SIA_recovery_from_great_depression: "Recovery from Great Depression" #NT!
+ SIA_follow_the_trade_union: "Guidance from Trade Union" #NT!
+ SIA_improve_agriculture_production: "Agriculture's Improvement" #NT!
+ SIA_establishes_trades_union_congress: "Forms the Trades Union Congress" #NT!
+ SIA_empowered_trades_union_congress: "Empowered Trades Union Congress" #NT!
+ SIA_emphasize_the_inner_market: "Emphasizes the Inner Markets" #NT!
+ SIA_new_economic_minister: "New Economic Minister" #NT!
+ SIA_centralized_reforms: "Centralized Economic Reforms" #NT!
+ SIA_regional_bank: "Regional Bank" #NT!
+ SIA_classes_compromise: "Classes' Compromise" #NT!
+ SIA_uk_siam_trade_treaty: "United Kingdom and Siam's Trade Treaty" #NT!
+ SIA_bills_for_economic_improvement: "National Bills for Economic Improvement" #NT!
+ SIA_new_economic_minister_1: "New Economic Minister" #NT!
+ SIA_free_trade_reforms: "Free Trade Market's Rising" #NT!
+ SIA_finish_the_recovery: "Afterrain of Economic Great Depression" #NT!
+ SIA_improve_regional_railroad: "Improvement of Regional Railroad" #NT!
+ SIA_foreign_company: "New Foreign Company" #NT!
+ SIA_sayaboury_or_rubber: "Sayaboury or Rubber?" #NT!
+ SIA_entente_trade_alliance: "Entente-Siam Trade Alliance" #NT!
+ SIA_new_economic_minister_2: "New Economic Minister" #NT!
+ ##Industrial Revolution Branch 
+ SIA_third_industrial_revolution: "Third Industrial Revolution" #NT!
+ SIA_more_factory_more_product: "More Factory More Product" #NT!
+ SIA_entrepreneur_association: "Entrepreneurs Association of Siam" #NT!
+ SIA_new_motorized_model: "New Motorized Model" #NT!
+ SIA_deal_with_foreign_company: "Deal with Foreign Company" #NT!
+ SIA_support_our_product: "Our Product" #NT!
+ SIA_create_the_new_road: "Road to Kengtung" #NT!
+ SIA_our_infantry_equipment_model: "New Infantry Model" #NT!
+ SIA_made_in_siam: "Made in Siam" #NT!
+ SIA_government_owned_enterprise: "State-owned Enterprise" #NT!
+ SIA_deal_with_rungpaisarn: "Deal with Rungpaisarn" #NT!
+ SIA_defense_tech_institute: "Defense Technology Institute" #NT!
+ SIA_new_tank_model: "New Armor Model" #NT!
+ SIA_chaiseri: "Chaiseri" #NT!
+ SIA_modernization_railway: "Modernization our Railway" #NT!
+ SIA_our_model: "Our Model, Our Product" #NT!
+ SIA_resource_excavation: "Resources Excavation" #NT!
+ SIA_lanna_industrial_development: "Lanna Industrial Development" #NT!
+ SIA_state_wood_and_natural_resources: "State Wood and Natural Resources in the North" #NT!
+ SIA_esan_industrial_development: "Esan Industrial Development" #NT!
+ SIA_rural_development: "Rural Development" #NT!
+ SIA_tenasserim_dockyard: "Tenasserim Dockyard" #NT!
+ SIA_west_gate_project: "Project West Gate" #NT!
+ SIA_pattani_arsenal: "Pattani Arsenal" #NT!
+ SIA_siam_rubber_co_ltd: "Siam Rubber Co.,Ltd." #NT!
+ SIA_how_many_resources_we_get: "How many resources we get?" #NT!
+ SIA_oppotunity_in_gear_society: "Oppotunity in Gear Society" #NT!
+ SIA_deal_with_crown_property: "Deal with Crown Property" #NT!
+ SIA_alongside_tanin: "Alongside Tanin" #NT!
+ SIA_cooperation_with_gear_society: "Cooperation with Gear Society" #NT!
+ SIA_end_of_third_industrial_revolution: "End of Third Industrial Revolution" #NT!
+ ##Military Branch 
+ SIA_establish_central_command: "Establish Central Command of Siam" #NT!
+ SIA_ground_force_review: "Ground Force Review" #NT!
+ SIA_national_conscription_act: "National Conscription Act" #NT!
+ SIA_female_military_officer: "Female Military Officer" #NT!
+ SIA_local_force: "Local Force" #NT!
+ SIA_new_tactical_movement: "New Tactical Movement" #NT!
+ SIA_expand_military_intelligence_service: "Expand Military Intelligence Service" #NT!
+ SIA_national_communication_center: "National Communication Center" #NT!
+ SIA_incorporation_local_police: "Incorporation the Local Police" #NT!
+ SIA_new_infantry_standard: "New Equipment Standard" #NT!
+ SIA_armored_army_supremacy: "Armored Army's Supremacy" #NT!
+ SIA_medium_tank_model: "Medium Tank Model" #NT!
+ SIA_tactic_improvement: "Our Tactic Improvement" #NT!
+ SIA_give_me_a_sign: "Give me a sign" #NT!
+ SIA_drive_through_a_wall: "Drive through a wall" #NT!
+ SIA_tank_arty_model: "Tank with Artillery" #NT!
+ SIA_artillery_supremacy: "Artillery's Supremacy" #NT!
+ SIA_our_own_model: "Our Own Model" #NT!
+ SIA_artillery_mass_production: "Artillery Mass Production" #NT!
+ SIA_reliability_improvement: "Reliability Improvement" #NT!
+ SIA_new_equipment: "New Equipment" #NT!
+ SIA_new_armament: "New Armament" #NT!
+ SIA_military_medical_service: "Military Medical Service" #NT!
+ SIA_defensive_supremacy: "Defensive's Supremacy" #NT!
+ SIA_trench_warfare_adaptation: "Trench Warfare Adaptation" #NT!
+ SIA_upgrade_trench_equipment: "Upgrage Trench Equipment" #NT!
+ SIA_improve_war_industry: "War Industry Improvement" #NT!
+ SIA_grand_trench_expansion: "Grand Trench Expansion" #NT!
+ SIA_defenders_of_faith_force_f: "Defenders of Faith Force" #NT!
+ SIA_metallic_skin_f: "Metallic Skin" #NT!
+ SIA_blessed_food: "Blessed Food" #NT!
+ SIA_invisible_cloak: "Invisible Cloak" #NT!
+ SIA_wasp_manipulation: "Wasp Manipulation and Summoning Magic" #NT!
+ SIA_sky_striker: "Sky Striker" #NT!
+ SIA_sky_conqueror: "Sky Conqueror" #NT!
+ SIA_expand_airbase: "Expand Airbase" #NT!
+ SIA_ground_battle_support: "Ground Battle Support" #NT!
+ SIA_cas_model: "CAS Model" #NT!
+ SIA_ocean_sky_conqueror: "Ocean's Sky Conqueror" #NT!
+ SIA_sky_battle_support: "Sky Battle Support" #NT!
+ SIA_radar_improvement: "Radar Improvement" #NT!
+ SIA_new_bomber_standard: "New Bomber Standard" #NT!
+ SIA_air_high_command: "High Command of Air Force" #NT!
+ SIA_air_detection: "Air Detection" #NT!
+ SIA_sky_grand_conqueror: "Sky Grand Conqueror" #NT!
+ SIA_national_ocean_pacification_force: "National Ocean Pacification Force" #NT!
+ SIA_flexible_fleet: "Flexible is best way" #NT!
+ SIA_new_submarine: "New Submarine Model" #NT!
+ SIA_incorporation_convoy_escorting_fleet: "Incorporation Convoy Escorting Fleet" #NT!
+ SIA_combination_fleet: "Combination is good for us as well" #NT!
+ SIA_new_fleet_style: "New Fleet Style" #NT!
+ SIA_naval_battle_support: "Naval Battle Support" #NT!
+ SIA_national_ocean_pacification_highcommand: "National Ocean Pacification High Command" #NT!
+ SIA_expand_more_naval_base: "Expand more Naval Base" #NT!
+ SIA_new_modification_ship_team: "New Modification Team" #NT!
+ ##Desc 
+ SIA_balance_in_power_desc: "The Parliament of Siam does not resist the power of the Royal Army in the lower house. King of Siam as the Head of Armed Force called the extraordinary parliament session to decrease the military power in parliament." #NT!
+ SIA_political_reform_desc: "Royalist movement is so quite strong but we can hold their move before so late" #NT!
+ SIA_coop_with_rajaniyom_desc: "With the Royalist Party, we can get their compliance and slow the strong movement of Royalist movement outside parliament" #NT!
+ SIA_rajaniyom_incident_desc: "Parliament decided to cut off the military in parliament and make the democracy clean and clear from the undesirable people" #NT!
+ SIA_resolution_after_unrest_desc: "Sometimes we couldn't have everything by its own way, but we can get something by our decision as well" #NT!
+ SIA_after_the_civil_war_desc: "The civil war has shown the truth by our decision try to get everything, but we didn't see the fallen society. Next time is no more for our oppotunity" #NT!
+ SIA_unificationist_win_election_desc: "The Unificationist Group is formed by the Social Action and Council of Tai's Unificationist Party after the opening session of 1st Conference of National Assembly. This faction contests the government's administration and discredit the left-wing faction with all own way. But now, this faction is elected to the new government with end of their long struggle" #NT!
+ SIA_annoucement_the_first_tai_people_policy_desc: " \"Our way is only way to lead the country to the prosperity, but somebody couldn't get their reward without fighting or trying\" \n - Luang Wattarattawichit's address to the 2nd Central Committee's Conference" #NT!
+ SIA_western_marshal_desc: " \"Trust me or fall down with your anxious\" \n - Field Marshal Plaek Phibunsongkhram, Tenasserim National Guard Meeting, 1934" #NT!
+ SIA_rattaniyom_desc: "Cultural Mandate is proposed project from Luang Phibunsongkhram that offered between 1st Conference of National Assembly, but the motion did not pass his project anyway. When he becomes the President of Council of Ministers, he put this project to address of state's table again. This is time to reforming our culture!" #NT!
+ SIA_take_over_regency_council_desc: "The Regency Council is setting up between His Majesty's absent to England, but the Marshal sees the stagnation of regency's doing their own way and Royalists try to infiltrate the Regency Council to controlling country and turning back to Absolute Monarchy. Time to dissolve them and take over the regency itself to us" #NT!
+ SIA_grand_marshal_of_siam_desc: "The Throne's emptiness is questionable but the Field Marshal seeks an oppotunity. The Grand Marshal of Siam is behalf the king as a new head of state until the Royalists is gone" #NT!
+ SIA_new_successor_of_grand_marshal_desc: "The two deputy leaders of Seri Manangkhasila Party are the same seat in country but only one can become the true successor of Grand Marshal and rule the country with their own way. Who is the true grand marshal?" #NT!
+ SIA_soi_ratchakroo_faction_desc: "Klum Soi Ratchakroo or Progressive Seri Manangkhasila Party is the first republican faction and counterpart of Traditionalist, led by Police General, Vice Grand Marshal Phao Sriyanond. When he steps up and take a seat as new Grand Marshal, that time shall be end of kingdom as well" #NT!
+ SIA_traditionalist_faction_desc: "Klum Buranna Anurakniyom or Traditionalist Seri Manangkhasila Party is the conservative faction of Seri Manangkhasila Party, led by Field Marshal, Vice Grand Marshal Luang Chamnarnyuttasart. This faction is one of Royalist Group in National Assembly and has a closed relationship with Royalist Party as well. and take a seat as new Grand Marshal, that time shall be the living of kingdom as well" #NT!
+ SIA_new_dawn_of_siam_desc: "Sunrise when we rise, sundown when we fail, on going on your trail, we shall not fail anymore" #NT!
+ SIA_seni_policy_desc: "What a thing calls \"Jitsatharana\" is the main factor for our nation's development. This time is no more for the selfishs!" #NT!
+ SIA_cissea_desc: "Council of Independent States of South East Asia is the main project of the Siamese foreign minister and Philipines' head of government about the unity faction in South East Asia against the Imperialism from others and protect the members from intervention as well. This is time for protect our rights and freedom in this region now!" #NT!
+ SIA_status_quo_among_guns_desc: "Our peace in foreign relationships so risky if they force us to join them. Everything we can do now is declaring the status quo and try to stop agressive policies from outside" #NT!
+ SIA_expansion_education_center_desc: "Education is so important, everyone can have their right and have a good livelihood this time. We should expand more schools and educational centers as well" #NT!
+ SIA_national_research_council_desc: "Our innovations are stagnation in ideas and not much. We can share more ideas in this institute and improve the innovation to get new product" #NT!
+ SIA_spirit_of_jit_satharana_desc: "\"If you are not having a public mind, everything you did fails\" \n - Phra Nakorn Circle's local leader's speech between the people's rally" #NT!
+ SIA_tai_unificationist_supremacy_desc: "Siamese people and Tai people is sharing the same blood and same complexion. That factors give us impulsion to unify the Tai people together" #NT!
+ SIA_valkist_coup_desc: " \"If you couldn't get your wanted with smooth-talking, use some gun\" \n - Unknown Siamese's motto" #NT!
+ SIA_first_congress_of_greater_pantheon_conclave_desc: "Greater Pantheon Conclave is the alternate body of Council of Tai's Unificationist Party, alongside the Central Committee, this body is composed the member with ability of ghost possessing and communicate with ghost. The leader of Congress is host of Lord Protector of Siam (Phra Sayam Tevatiraj), Luang Wattarattawichit" #NT!
+ SIA_military_doctrine_debate_desc: "The Greater Pantheon Conclave has the motion of military doctrine between Valkist's doctrine and regular doctrine. This time we are choosing way to lead the army" #NT!
+ SIA_department_of_religious_affairs_desc: "The religions in our country are separating from Constitution. Now we could unite them with centralization and making the one principle under the one ruler as well" #NT!
+ SIA_dissolve_the_parliament_desc: "Now the Greater Pantheon Conclave is a de facto constitutional body, and the National Assembly is not important anymore. The GPC shall take the legislation duty from National Assembly" #NT!
+ SIA_one_believe_one_unity_desc: "Under the flag we risen up to the sky, believers are gathering with one principle and having a faithful in their believe as well" #NT!
+ SIA_renoucement_treaty_of_salaween_desc: "After the end of great war and we got Tenasserim back. The foreigner couldn't get us fully controlled and try to lie us. That would not happen and no more foreign treaties with our land again!" #NT!
+ SIA_way_of_unification_desc: " \" Which path, which way can guide us to the prosperity? What day, what time we could get back our land? Choose it or leave it\" \n - Parliamentary Leader of Unificationist Group addressed to members of faction after the end of 1st Conference of National Assembly" #NT!
+ SIA_royalist_win_election_desc: "The Royalist Group is formed of Royalist Party to gathering the royalist MPs. What a shame of Royalist Party when they had insulted by people about some royalist MPs are military officer and this faction is only one group are having the military officers" #NT!
+ SIA_spread_the_democratic_system_to_countryside_desc: "We already had the democracy but rural society doesn't get in our democracy. We have to teach and help them get in democracy as well" #NT!
+ SIA_attempt_to_destroy_the_illegal_group_desc: "The United Workers' Troop is a illegal paramilitary wing of United Regional Workers' Council of Siam. The UWT has many of suitcases about injuring people, robbery, sabotaging factories by declared the action \"For protect workers\". And now, they should cease to exit by government's last strike and throw them to the court!" #NT!
+ SIA_failed_coup_desc: "Major General Prayool Paramontri, leader of Royalist Party, tried to coup the government and returns an Absolute Monarchy back. His plan is leaking from his soldier who doesn't accept his action and try to stop them. Finally, he and his royalist plotter get caught by police. Everything is fine now" #NT!
+ SIA_new_constitutional_debate_desc: "1932 Constitution of Siam has many loopholes and plotter use the its loopholes to destroy democracy. We, as citizen of [SIA.GetName], have to fix the loopholes and protect democracy from undesirable people" #NT!
+ SIA_nationalist_doctrine_desc: "Chomphon Por, marshal of Tenasserim National Guard, has joined the government and adopts his focus on interior policy with our policy for development our nation. With nationalism characteristic, we can unite every people under our principle" #NT!
+ SIA_modernization_democracy_desc: "With our stagnation in democracy, we should improve our democracy with our doctrine" #NT!
+ SIA_national_hero_memorial_day_desc: "Without the greatest heroes in the past, is also without us today" #NT!
+ SIA_unitary_state_desc: "Our kingdom is still being and quasi-federal state, this is dangerous, if someone try to separating themselves. We have to dissolve all of Monthons and establish new administrative division as well" #NT!
+ SIA_cultural_modernization_desc: "With an our culture is so laggy of modernized details, we should put something modern in our culture and adjustment to new culture" #NT!
+ SIA_nationalize_foreign_industry_desc: "The foreign industry sets on our soil, they have no shame to turning nature worst. We could promulgate the emergency act to taking over them" #NT!
+ SIA_academia_occidentalis_siamensium_desc: " \"Academia Occidentalis Siamensium\" or \"Eastern Siam Research Academy\" is a proposed project from Italian scientist and Siamese doctors to sharing the research papers and helping us to get more scientists for our prosperity as well" #NT!
+ SIA_nation_religion_royal_family_desc: " \"Nation, Region, and Royal Family\" \n -Phra Nakorn Circle's Motto, 1934" #NT!
+ SIA_conservative_doctrine_desc: " \" We are proposing the 6 principle with our intention to help us from foreign manace and develop our stagnation to a new-branded country in the world!\" \n - Prachuap Bunnag, Leader of Khana Ratsadon, held a speech in National Assembly, 1933" #NT!
+ SIA_maintain_security_desc: "Our nation's security is so risky, we have surrounded by imperialism and we are standing alone. We should protect ourselves from future dangerous and keeping inside safe as well" #NT!
+ SIA_maintain_education_desc: "Many successful people aren't coming from local education, they are coming from Royal Scholarship's Project. What a shame we can't expect the local education, even though we expanded the right of education. We should expand and maintain our education more and more" #NT!
+ SIA_regional_royal_college_desc: "With the successful from our maintaining education, we can put more effort for expand the college now" #NT!
+ SIA_maintain_our_foreign_status_desc: "Our foreign status with imperialist is inevitiable but we can protect our status quo on the world as well. How can't they see their behavior with many countries?" #NT!
+ SIA_new_tariff_act_desc: "After we encountered the Black Wednesday, we are learning our failure and going to put more determination for protect our people from great depression" #NT!
+ SIA_social_democrat_doctrine_desc: "With the former Royal Chancellor and President of Council of Ministers, Chao Phraya Vongsanupraphat, he put his determination to interior policy and welfare effort to improve the poor people find their new future. We could bring his determination for continuing the good way of former cabinet and bringing us to the new future" #NT!
+ SIA_guarantee_agriculture_production_desc: "Agriculture product needs the capable agriculture market. We can guarantee that product from farmers and helping them when they can't find the capable market" #NT!
+ SIA_national_communication_project_desc: "With many of communications, we can't make the old trail capable the cars and modern vehicles. We should make more of new roads and create the new communication center" #NT!
+ SIA_act_of_60_desc: "Obviously the society's constructure is composing of the old one and the young one, somebody can't help themselves and they want the supporting from anyone. We, as the main governmental structure of country, are ready for helping the old one though they didn't pay the tax or they aren't capable to pay their own tax as well." #NT!
+ SIA_one_product_one_province_desc: "\"There is a way for develop the raw product in agriculture production, we afford their own outlay and every provinces can get their idea from responsible institution without paying their outlay. This is One Product for One Province\" \n -Chao Phraya Vongsanupraphat, speech from the 2nd Convention of United Regional Workers' Council of Siam, 1933" #NT!
+ SIA_welfare_standard_desc: "With the stabilized welfare, everyone can enjoy their own life, and we can see their smiling face. With the name of Land of Smile, we can see them properly without lying from anyone who tried to lie us" #NT!
+ SIA_end_of_agriculture_transportation_stagnation_desc: "The rural zone can't afford to getting their improved infrastructure and the farmers can't use the old trail anymore, this is so laggy and wasting their time. We have to help them getting their new improved trail, might getting faster in exporting their agriculture product as well" #NT!
+ SIA_successful_of_radical_desc: "The army, under Major General Prayool's commanding, are walking into the parliament and threaten the member and declares the dissolution of the government. With the compliance of Absolutists' Royal Party, key people can't against their own extremity. And the king is mysteriously missing from the his own palace. However, we are ruling the country now. The ash of old shall form their own form again" #NT!
+ SIA_hms_provisional_government_desc: "We can's let the emptiness constitute the body and organ, we should set up the new government and keeping the order. Even though we can't held the election, but we can open the assembly as well." #NT!
+ SIA_whose_the_somdech_phra_maha_uparaja_desc: " \"Somdech Phra Maha Uparaja\", also known as Viceroy of Siam, was a title for successor of the Royal Throne, the last holder was Prince Wichaichan before the Front Palace Crisis in Rattanakosin Era 93 (circa 1874-1875). The king was seeking the dangerous if someone shall intervene and rule the Siam through Viceroy. Finally, the King declared abolishment of Viceroyalty after the death of Prince Wichaichan in 1885. No one is crown prince, we have to reestablish the title and find someone now!" #NT!
+ SIA_centralization_democratic_system_desc: "With the decentralized democracy, we can't afford time to manage them. Everything seperates from center, is looking like a finger on a hand, not fingers on a hand. We have to gathering those fingers together now." #NT!
+ SIA_act_of_royal_asset_desc: "Now the royal asset isn't under control of its real owner, the usurpers were taking over the royal property, we couldn't leave them being like this. We shall return the royal asset's ownership to the real owner" #NT!
+ SIA_hegemony_of_rattanakosin_desc: "The former Rattanakosin period was full of prosperity, glorious time, beautiful culture. Bring it back now!" #NT!
+ SIA_new_siamese_kingdom_desc: "The present kingdom is not longer enough, with the corrupted things inside the political theater, we can't let them being like a past. The future is resonating and inviting us, the future way is beyond us. We will guide the country and step into the future!" #NT!
+ SIA_puppet_or_direct_desc: "The regalias are representing the King, what should we do when the King is puppet of somebody, or the King is not belonging the country. Neither bad or good." #NT!
+ SIA_centrist_win_election_desc: "The United Centrists is a big tent faction of the National Assembly, with the presidency of Agrarian Social Party since 1932, this faction is peaceful. With the victory of our faction again, we are still continuing our peaceful policy" #NT!
+ SIA_our_democracy_torch_desc: "With the fate of democratic Siam, everyone shall hold the democratic torch and reinforcement our democracy as well" #NT!
+ SIA_promote_federalism_desc: "The quasi-federal status in country is questionable for local government, with our viewpoint of federalism. The Monthon system have to improve and expand the local election as well" #NT!
+ ### 
+ SIA_recovery_from_great_depression_desc: "Siam faces the great economic depression from Black Wednesday, Minister of Economic calls the emergency session of Supervisory Board of Royal Market Bureau for finds the how to improve the broken economy in country." #NT!
+ SIA_follow_the_trade_union_desc: "The members of Supervisory Board of Royal Market voted the Trade Union faction in the board for guiding the way self-sufficiency economy and protects the trade market from foreign's investment." #NT!
+ SIA_improve_agriculture_production_desc: "In present, Siam's society is still being the agriculture society, so the Supervisory Board of Trade Union, the main executive body of Supervisory Board of Royal Market Bureau, is going to choose the agriculture production's improvement by set up the food processing organization and distribution center for expanding the agriculture products from any region to others." #NT!
+ SIA_establishes_trades_union_congress_desc: "The expanding and improvement the basic of agriculture methods for everyone and anyone can access them. Then, the Supervisory Board of Trade Union establishes the Trades Union Congress for unites and easy to manage all of trade union organizations." #NT!
+ SIA_empowered_trades_union_congress_desc: "The members of Supervisory Board of Trade Union see the importance of Trades Union Congress of Siam, they're overseeing the client organization and the economic's base. Then, the 1st Congress of Trades Union Congress of Siam will open for improvement and development the Trades Union Congress for stability in Macroeconomic." #NT!
+ SIA_emphasize_the_inner_market_desc: "1st Congress of Trades Union Congress approved the Article for Emphasizes the Inner Markets, the Noble's Market, for give the rights in forbidden goods in Inner Market to all people and make the difference in economic market." #NT!
+ SIA_new_economic_minister_desc: "When the king saw the very well of Trades Union Congress for development the economic for Siam, he has the royal command for change the new economic ministry from the left-wing parties in Supervisory Board of Trade Union." #NT!
+ SIA_centralized_reforms_desc: "The centralist-wing parties in Supervisory Board of Royal Market Bureau see the critical and lowest point of economic must restore and recovery both of Micro and Macroeconomic for stable of economic." #NT!
+ SIA_regional_bank_desc: "Siam Commercial Bank gets the deal from Supervisory Board of Royal Market Bureau for set up the regional banks in each provinces for overseeing the regional economic." #NT!
+ SIA_classes_compromise_desc: "For everyone have the economic equality, Supervisory Board declares the Oath of Classes' Compromise for guarantee their equality in economic market." #NT!
+ SIA_uk_siam_trade_treaty_desc: "Siamese Government sees the friendly United Kingdom is going to find the trading market, Siam offers the rubber concession and UK will give the oil concession in some colonies." #NT!
+ SIA_bills_for_economic_improvement_desc: "Supervisory Board of Royal Market Bureau, the financial sector in government, uses the governing power for enaction the National Bills for Economic Improvement, what expanding into the regional banks." #NT!
+ SIA_new_economic_minister_1_desc: "When the king saw the very well of Centralized Economic Assembly for development the economic for Siam, he has the royal command for change the new economic ministry from the centralist parties in Supervisory Board of Royal Market Bureau." #NT!
+ SIA_free_trade_reforms_desc: "When every members of Supervisory Board of Royal Market Bureau saw how to improve the economic from ash must use capitalism's principle and seek help from France instead of United Kingdoms, Supervisory Board of Royal Market Bureau votes the Free Trading Market Committee in charges of SBRMB." #NT!
+ SIA_improve_regional_railroad_desc: "When the influence of Supervisory Board of Free Trade is growing, The Regional Railroad Project, had stopped in 1935, will continue until finish" #NT!
+ SIA_foreign_company_desc: "Supervisory Board of Free Trade has idea to open the new company for more investment from foreigners, SBFT will open the Central Company for gathering all of foreigners' investment together" #NT!
+ SIA_sayaboury_or_rubber_desc: "Siam acknowledged from french investors about France is lacking of rubber. Then, Siam will send the Synthetic Rubber Concession in Pattani to France and France will give the Sayaboury or Chai Buri to Siam" #NT!
+ SIA_entente_trade_alliance_desc: "Continental Entente and Siam have obviously agree to make the trade alliance if we still can improve the trade relation alongside the diplomatic relationship's improvement between France and Siam" #NT!
+ SIA_new_economic_minister_2_desc: "When the king saw the very well of Free Trading Market Committee for development the economic for Siam, he has the royal command for change the new economic ministry from the right-wing parties in Supervisory Board of Royal Market Bureau." #NT!
+ SIA_finish_the_recovery_desc: "After the Supervisory Board of Royal Market Bureau carry out's duty about economic recovery, it's made Siam's economy is stable again." #NT!
+ #######Decisions 
+ SIA_supervisory_board_of_royal_market: "Supervisory Board of Royal Market" #NT!
+ SIA_supervisory_board_of_royal_market_desc: "\n \n \n \n \n \n \n \n \n " #NT!
+ SIA_supervisory_board_of_royal_market_bureau_desc: "Supervisory Board of Royal Market Bureau is the financial department set up under the Economic Ministry’s policy and development the several economies will manage in this department. SBRMB also has the policy for development the source of investment along the Exchequer of United Kingdom’s advice for two nation’s economic integration. Politics’ integration in Siam should to develops the economic following of them. That’s the cause the SBRMB is also important." #NT!
+ pressure_protest_from_people: "Pressure Protest from People" #NT!
+ ##Trade Union 
+ lands_reform_and_shares_the_wealth: "Lands Reform and Sharing the Wealth" #NT!
+ domestic_consumption_improvement: "Domestic Consumption Improvement" #NT!
+ central_price_reduction_for_people_market: "Reduction the Central Market's Price" #NT!
+ region_trade_union_policy: "Policy of Regional Trade Union" #NT!
+ supervisory_board_of_trade_union: "Trade Union in charge of Supervisory Board of Royal Market Bureau" #NT!
+ ##Centralized 
+ supervisory_board_of_centralized_assembly: "Centralized Economic Assembly in charge of Supervisory Board of Royal Market Bureau" #NT!
+ career_centre_development: "Career Centre Development" #NT!
+ find_new_economic_fund_for_commons: "Find the new Economic Fund for Commons" #NT!
+ establishes_regional_cooperative: "Establishes of Regional Cooperative" #NT!
+ five_years_plan_for_national_trading: "Five Years Plan for National and Interior Trading" #NT!
+ ##Free Trade Market 
+ supervisory_board_of_free_trade: "Free Trading Market Committee in charge of Supervisory Board of Royal Market Bureau" #NT!
+ get_franc_to_economic: "Get Franc to Market" #NT!
+ naval_and_railroad_project: "Economic Zone Development Project" #NT!
+ builds_more_factory: "Expanding the Economic Zone's Production" #NT!
+ foreigner_funding_cooperative_in_capital: "Foreigners' Funding Cooperative" #NT!
+ ##Royal Market 
+ SIA_royal_market_board_text: "Economic Chance of Survival: [?SiamEconomicVar|2]%" #NT!
+ royal_market_board_percentage_text: "Economic Chance of Survival: [?SiamEconomicVar|2]%" #NT!
+ royal_market_board_decaying_text: "ECS Decaying Rate Modifier/12 Days: [?SiamEconomicDecaying|2]%" #NT!
+ decreasing_economic_progress: "ECS Rate shall be decreased by: [?SiamEconomicDecaying|2]%" #NT!
+ ##Separationist Burma 
+ SIA_shan_influence: "Shan Independence League" #NT!
+ hire_shan_people_and_propaganda: "Propaganda" #NT!
+ allowed_shan_people_buy_weapon_from_us: "Shan-[SIA.GetAdjective] Armament Trading" #NT!
+ reeducation_about_friendship_of_thai_and_shan: "Reeducation about our friendship" #NT!
+ establish_shan_seperationist_government: "Shan Seperationist Government" #NT!
+ improve_legitimacy_of_shan: "Improve the Legitimacy" #NT!
+ SIA_mon_influence: "Mon Influence" #NT!
+ hire_mon_people_and_propaganda: "Propaganda" #NT!
+ allowed_mon_people_buy_weapon_from_us: "Mon-[SIA.GetAdjective] Armament Trading" #NT!
+ reeducation_about_friendship_of_thai_and_mon: "Reeducation about our friendship" #NT!
+ establish_mon_coalitionist_government: "Mon Coalitionist Government" #NT!
+ improve_legitimacy_of_mon: "Improve the Legitimacy" #NT!
+ gain_influence_7_points: "§G Gain 7 Influences §!" #NT!
+ gain_influence_10_points: "§G Gain 10 Influences §!" #NT!
+ mon_people_get_100_inf_from_us: "§G Gains 100 Infantry Equipments from us§!" #NT!
+ shan_people_get_100_inf_from_us: "§G Gains 100 Infantry Equipments from us§!" #NT!
+ ###Puppet and Occupation 
+ transfer_rule_to_supreme_ruler: "Transfer the rule to Supreme Ruler" #NT!
+ transfer_rule_to_supreme_ruler_desc: "Dev is allowed you to use it when you found the broken mechanic of autonomous entity system" #NT!
+ SIA_fate_of_occupation: "Fate of Occupation" #NT!
+ activate_occupation: "Activate Occupation Mission" #NT!
+ Fate_of_Indochina: "Fate of Indochina" #NT!
+ Fate_of_Burma: "Fate of Burma" #NT!
+ Fate_of_Malaysia: "Fate of Malaysia" #NT!
+ Fate_of_Insulindia: "Fate of Insulindia" #NT!
+ ##Province Establishment 
+ SIA_establish_administrative_division: "Establish the Administrative Division" #NT!
+ Kengtung_province: "Kengtung Province" #NT!
+ Taunggyi_province: "Taunggyi Province" #NT!
+ Hanthawaddy_autonomous_province: "Hanthawaddy Automonous Circle" #NT!
+ Mandalay_autonomous_province: "Mandalay Automonous Circle" #NT!
+ Maritime_Burma_autonomous_monthon: "Maritime Burmese Territory's Autonomous Circle" #NT!
+ Sagaing_autonomous_province: "Sagaing Autonomous Circle" #NT!
+ Phra_tabong_province: "Phra Tabong Province" #NT!
+ Khmer_nok_province: "Outer Khmer Circle" #NT!
+ Strung_treng_province: "Strung Treng Province" #NT!
+ Luang_phrabang_province: "Luang Phrabang Province" #NT!
+ Viang_chan_province: "Viengtiane Province" #NT!
+ Champasak_province: "Champasak Province" #NT!
+ Yunnan_province: "Chiang Rung Circle" #NT!
+ Vietnam_provincial_government: "Vietnamese Autonomous Circle" #NT!
+ Chinese_provincial_government: "Chinese Automonous Non-Restricted Circle" #NT!
+ bengali_provincial_government: "Bengali Automonous Non-Restricted Circle" #NT!
+ ##Unificationist Persuasion 
+ SIA_unificationist_major_faction_challenge: "Unificationist's Faction Leadership Challenge" #NT!
+ SIA_unificationist_major_faction_challenge_desc: "The Unificationist Faction in National Assembly has been established by the main proposes of §R“Siamese Revanchism”, “Tai Tribe’s Territory Unification”, “Anti-Colonialism”.§! This ideas are coming from “Greater Thai Nation and present geography”, this book has been written by Luang Wichitwathakan in 1930 , First Advisor of Government’s Geographic Bureau and Secretary-General of Council of Tai’s Unificationist Party, who is main Nationalism influencer in Siam. This book is also influenced some politicians such as Luang Wattanarattawichit, Supreme Leader of Council of Tai’s Unificationist Party, Field Marshal Plaek Phibunsongkhram, Commander-in-chief of Tenasserim National Guard and Southern Army, and His Highness Mom Rajawongse Kukrit Pramoj, Leader of Social Action Party and right-wing politician before 2475 Constitutional Revolution." #NT!
+ SIA_unificationist_persuasion_assembly_desc: "Status - [GetUnificationistDominance]" #NT!
+ SIA_natpop_dominance: "Unificationist Faction: §ONational Populists' Dominance §!" #NT!
+ SIA_valkist_dominance: "Unificationist Faction: §G Valkists' Dominance §!" #NT!
+ SIA_marlib_dominance: "Unificationist Faction: §Y Market Liberals' Dominance §!" #NT!
+ SIA_unificationist_equilibrium: "Unificationist Faction: §W Equilibrium §!" #NT!
+ SIA_alignment_clock_tt: "Mandate Percentage in Faction: \n Market Liberal: [?A|2]% \n Valkist: [?B|2]% \n National Populist: [?C|2]%" #NT!
+ start_the_major_faction_challenge_campaign: "Start the Competition" #NT!
+ unificationist_leadership_election: "2nd Unificationist's Leadership Election" #NT!
+ first_phase_is_finished: "First Campaign is finished" #NT!
+ open_the_talad_krungthep_plod_pasee: "Open the Bangkok Free Market" #NT!
+ give_the_speech_at_party_meeting_hall: "Give a speech at address of party" #NT!
+ promote_wichit_book: "Promote Luang Wichitwathakan's Book" #NT!
+ second_phase_is_finished: "Second Campaign is finished" #NT!
+ subsidies_free_trade_market: "Subsidies Free Trade Marketing" #NT!
+ royal_fellowship: "Royal Fellowship of Provisional Political Academy" #NT!
+ promote_magical_things: "Promote the Relics and Magical Things" #NT!
+ third_phase_is_finished: "Third Campaign is finished" #NT!
+ rattanakosin_era_112_revanchism_promoting: "Promote Siamese Revanchism" #NT!
+ ayudhaya_kingdom_restoration: "Pax Nova Yodia" #NT!
+ tai_tribe_confederacy_promoting: "Tai Tribe Grand Confederacy Campaign" #NT!
+ ##Valkist Party Expansion 
+ SIA_valkist_committee_influence: "Expansion Houses of Valkistic Idea" #NT!
+ propaganda_in_esan: "House of Northeastern Valkistic Idea" #NT!
+ propaganda_in_lanna: "House of Northern Valkistic Idea" #NT!
+ increase_party_member: "Welcome new member" #NT!
+ stop_influencing: "Dissolve the house" #NT!
+ ##Border Conflict with Valkist 
+ SIA_valkist_border_conflict: "Indochina Grand Campaign" #NT!
+ start_the_vientiane_border_conflict: "With Laotian Border" #NT!
+ start_the_battambang_border_conflict: "With Khmer Border" #NT!
+ end_of_questionable_indochina_statue: "End of Indochina's Status of Questionable" #NT!
+ escalate_the_border: "Escalation Border" #NT!
+ ##South Annam 
+ send_the_guns: "Send the guns" #NT!
+ give_the_professional_men: "A group of men" #NT!
+ military_trainer_to_south_annam: "Military Trainer" #NT!
+ spread_the_influence_in_french_indochina: "Our House in the East" #NT!
+ ignition_the_rebel: "Ignite the Zippo" #NT!
+ demand_our_claiming_territory: "Demand our claimed territory" #NT!
+ demand_the_subjugation: "Demand the subjugation" #NT!
+ SIA_fading_empire: "Fading British Empire" #NT!
+ fading_empire_in_siamese_agressive_in_burma: "Fading Midnight Sun" #NT!
+ ##Anarchy and NatCol 
+ SIA_anarchy_and_natcol_struggle: "Anarchy Schism and National Communist's Problem" #NT!
+ SIA_anarchy_natcol_controlling_zone_desc: "After the Siamese Government had failed to solve the economic problem, the radical group of United Regional Workers' Council of Siam started sabotaging to emphasize the failure to solve the economic problem of the Siamese Government. In addition, many of the workers did general strike in Lanna and Esan, because of that were the main resources zone. Finally, the Anarchy Schism is begun by the massively harmful general strikes, also many policemen did the sanction to the Government. Then, the Government declared Martial Law and led the chaotic come to homeland." #NT!
+ SIA_resistance_zone_influence: "Anarchist average's influence: [?anarzone]% \n National Communist's average influence: [?natcolzone]%" #NT!
+ SIA_resistance_level_dangerous: "§R Extremely Dangerous §!" #NT!
+ SIA_resistance_level_high: "§Y High Chance §!" #NT!
+ SIA_resistance_level_moderate: "§G Moderate §!" #NT!
+ SIA_resistance_level_secure: "§C Secure §!" #NT!
+ SIA_gov_zone: "Government's average influence: [?govzone]" #NT!
+ SIA_status_showing: "Status: [GetResLevRank]" #NT!
+ start_the_operation_meng_rai: "Start the Operation Meng Rai" #NT!
+ start_the_operation_korat: "Start the Operation Korat" #NT!
+ final_conclusion_bad_ending: "§RFinal Conclusion §!" #NT!
+ final_conclusion_good_ending: "§GFinal Conclusion §!" #NT!
+ natcol_influence_increasing: "National Communist is increasing their popularity" #NT!
+ contact_lanna_spy: "Contact Spy in Lanna" #NT!
+ contact_esan_spy: "Contact Spy in Esan" #NT!
+ ##Faction Way 
+ SIA_foreign_policy: "Foreign Policy" #NT!
+ join_stahlpakt: "Join [GER.GetFactionName]" #NT!
+ join_continental_entente: "Join [FRA.GetFactionName]" #NT!
+ join_pact_of_london: "Join [ENG.GetFactionName]" #NT!
+ join_our_eastern_friend: "Join [JAP.GetFactionName]" #NT!
+ ##Royalist Coup 
+ SIA_royalist_coup: "Royalist Situation" #NT!
+ SIA_royalist_coup_desc: "The hardliner faction of the Royalist Party under the leading of Major General Prayool Paramontri is the group of people who have aligned its path of Royalism. Even though there are a few seats in the National Assembly, but they are still holding the main power in the Army. The government shall balance and share the power between M.G. Prayool and the government itself by the government will attend the Army’s welfare or the MPs from the army when the 1st General Election was finished. This is made the civil MPs are scaring on them. The government will in charge of compromising between civil MPs and military MPs." #NT!
+ SIA_Royalist_status: "Prayool Influence: [GetRolLevel]" #NT!
+ SIA_royalist_risky: "§R Risky" #NT!
+ SIA_royalist_quarantine: "§Y Quarantine" #NT!
+ SIA_royalist_suspicious: "§G Suspicious" #NT!
+ SIA_royalist_secure: "§C Secure" #NT!
+ SIA_royalist_final_conclusion: "Final Conclusion of M.G. Prayool" #NT!
+ time_is_moving: "Time's moving" #NT!
+ prayool_is_moving_one: "Prayool's moving" #NT!
+ prayool_is_moving_two: "Prayool's moving" #NT!
+ prayool_is_moving_three: "Prayool's moving" #NT!
+ prayool_final_moving: "Final Move" #NT!
+ ##Rattaniyom 
+ SIA_rattaniyom: "Rattaniyom (National Mandate)" #NT!
+ Rattaniyom_phase_one: "Phase One" #NT!
+ Rattaniyom_phase_two: "Phase Two" #NT!
+ Rattaniyom_phase_three: "Phase Three" #NT!
+ Rattaniyom_phase_final: "Phase Four" #NT!
+ ##MFMP 
+ SIA_factory_expansion_project: "Factory Expansion Project" #NT!
+ northern_factory_expansion: "Northern Factory Expansion" #NT!
+ esan_factory_expansion: "Esan Factory Expansion" #NT!
+ tenasserim_factory_expansion: "Tanawsri Factory Expansion" #NT!
+ southern_factory_expansion: "Southern Factory Expansion" #NT!
+ #######Event 
+ siam_start.1.d: "Kingdom of Siam or Siam, is the sovereign kingdom, located in South East Asian. Developers Team of Ban Keid Mung Non was seeking an oppotunity fulfill the missing content in this region. We asked the official for permission to making this Submod. We hope you will enjoy this content and mechanics. (We are so sorry for some wrong grammar)" #NT!
+ #######Politics-related Desc 
+ SIA_FUHRERREICH_DESC: "Siam decided to joins the Great War by joined the Entente and sent the expeditionary force to western front in Europe, after the end of Great War, Siam had amended the unequal treaties with France and UK. Moreover, Siam and United Kingdoms signed the Treaty of Salaween and transferred the Tenasserim to Siam’s authority after Siam gave the Tenasserim to United Kingdoms in Rama III’s era. After the Siam had helped from United Kingdoms to draft the new constitution from 1920-1932, the Supreme Council of State of Siam approved the first constitution of Siam and had proclaimed the constitutional monarchy in Siam since 1932." #NT!
+ ##Personal's Lores 
+ POLITICS_RAMA_VII_DESC: "Phrabat Somdet Phra Poramintra Maha Prachatipok Phra Pokklao Klao Chao Yu Hua, or His Majesty Prajadhipok, King of Siam, Grand Prince of Konbaung and Tanawsri, is ascended the King of Siam after the death of his brother, Rama VI. With has the less of knowledges for governing his country, he established the Aphirattamontri Sapha (Supreme Council of State of Siam) and appointed five of his cousins to be the members of Aphirattamontri Sapha for help him to governing the country and give the advice to him. He also has the constitutionalism idea and looks for give the constitution to Siamese people, he follows his father, Rama V, who reformed the country, to give the constitution. In 1919, he signed the treaty with British Raj's government to give the resident in Tanawsri to royal members of Konbaung dynasty. He sent the envoy to bringing back the royal members of Konbaung dynasty live in Tanawsri, the former land in Konbaung era. Thibaw Min, as Head of Konbaung Dynasty, grants the title "Konebhaung nhaint Tanintharyi Maha Mintha" or Grand Prince of Konbaung and Tanawsri to him in 1920. In 1932, after Aphirattamontri Sapha approved the first constitution, he proclaimed himself the first constitutional King of Siam." #NT!
+ POLITIC_PRESIDIUM_RP_DESC: "\"Central Committee of Royalist Party\" or \"Presidium of Royalist Party\" is the ruling and highest body within the Royalist Party from 1932, led by the Responsible Chief. Prayool Paramontri, the former royal guard, holds the power in the party as Responsible Chief and on behalf of Commander-in-chief of Royal Siamese Armed Forces as the First-ranked Vice Commander-in-chief." #NT!
+ POLITICS_PLAEK_PHIBUNSONGKHRAM: "Field Marshal Luang Phibunsongkhram or Plaek Phibunsongkhram, his nickname is \"Chomphon Por\" or the Western Marshal. He was appointed the Commander of Tenasserim National Guard after Siam ruled over Tenasserim by Royal Command. His perspective to his country is enigmatic, but his nationalism characteristics is so clearly, it's shown on his own Seri Manangkhasila Party, the right-wing party. This party is standing on national identity and progressive cultural policy. He has a closed relationship with Royalist Group, also a closed relationship with Unificationist Group as well." #NT!
+ LUANG_WATTANARATTAWICHIT_DESC: "\"Lord Prefect, Luang Wattanarattawichit\" was a Siamese-transferred student from Royal Scholarship Project in Deutsches Reich from 1927-1932 and currently Supreme Leader of Council of Tai's Unificationist Party. He met the Valkist leader, Adam Dressler, while he was lived in Germany and forms his own Valkist party as well. With his perspective to religion and pan-Taism is so strong, this is ambition to push the Siamese nation forward to his way." #NT!
+ POLITICS_ANANDA_MAHIDOL_DESC: "Ananda Mahidol, known by his regnal name Rama VIII, has ascended to the Siamese throne following the absent of his uncle, Rama VII. Ananda Mahidol was once considered a very unlikely candidate for the throne, being barely a teenager and of low birth. He originally held the rank of 'Mom Chao', making him among the lowest of Siamese princes. Despite his youth and inexperience, he has quickly won the hearts of the Siamese people. Foreign observers, however, believe that he did not really want to be king that his reign would not last long." #NT!
+ POLITICS_PANUPAN_YUGALA_DESC: "Panupan Yugala has recognized by National Assembly as a king after the absent of his cousin, Rama VII. He was a director of and one of founders of Lavoe Motion Picture alongside his younggest brother, Anusorn Mongkolkarn. His father, Prince Yugala Dighambara, was a son of Rama VII and he automatically is a heir presumptive of Royal Throne. No one can veto or against his status because the recognization from National Assembly following the 1924 Palace Law of Succession." #NT!
+ POLITICS_CHALOEMPHON_DESC: "Chaloemphon Thikhambara, second son of Prince Yugala Dighambara and brother of Panupan Yugala. Not seemly his big brother, his focus is on Manorah, the southern Siam dancing culture, he wants to resurrect the ancient culture and promote to public. He was expected as one of possible heir presumptive after the vacancy of Throne. He was one of delegates of new king by recognization of National Assembly following a Palace Law of Succession 1924." #NT!
+ LUANG_WATTANARATTAWICHIT_Eternal_Regent_DESC: "Luang Wattanarattawichit rules over the Tai territories, even though the King is still being a head of state of Siam. He declares himself as \"Eternal Unified Regent of all Tai and Greater Pantheon State of Siam\" and he shall reign over the country as pseudo-head of state all along of his life" #NT!
+ POLITICS_BOWORADET_DESC: "" #NT!
+ ##For Traits 
+ real_supreme_leader: "His Superior Leader, Supreme Leader of Council of Tai's Unificationist Party, Lord of Thousand Lives, Hegemon and Autocrat of all Tai" #NT!
+ military_regime: "Military Regime" #NT!
+ grand_marshal: "Grand Marshal of Siam" #NT!
+ eternal_unified_regent: "Eternal Unified Regent of All Tai" #NT!
+ ##Flag 
+ hold_officer_be_mp: "Officers cannot be Member of Parliament" #NT!
+ army_anger: "Royal Siamese Army got anger because of they was banned in parliament" #NT!
+ act_of_parliament_1936: "Act of Parliament 1936 has enacted" #NT!
+ royal_market_crash: "Bangkok Assets and Investment's Ruined" #NT!
+ military_mp: "Military officers can be Member of Parliament" #NT!
+ agreed_only_ret_soldier: "Only retired officers can be Member of Parliament" #NT!
+ industrial_pact: "Industrial Pact signed" #NT!
+ abandon_trade_union_policy: "Cabinet voted to abandon Trade Union's policy" #NT!
+ valkist_takeover_government: "Valkist seized the executive power from previous government" #NT!
+ marlib_supremacy: "Seni Pramoj is still being President of Council of Ministers" #NT!
+ plenipotentiary_representative_of_asean_assembly: "Is Plenipotentiary Representative of ASEAN Assembly" #NT!
+ leader_of_asean_assembly: "Is Leader of Association of South East Asian Nations' Assembly" #NT!
+ regency_is_collective_head_of_state: "Regency is sovereign of Siam" #NT!
+ ##Opinion 
+ SIA_ENG_trade_treaty: "London-Bangkok Trade Treaty" #NT!
+ SIA_asia_alliance: "Siam-Asiatic Alliance" #NT!
+ SIA_two_pillars_of_valkist: "Two Pillars of Valkist" #NT!
+ SIA_fra_rival_forever: "Eternal Rival" #NT!
+ SIA_fra_sia_relationship_improvement: "French-Siamese Relationship Pack" #NT!
+ SIA_ger_sia_relationship_improvement: "Deutschen-Siamese Relationship Pack" #NT!
+ SIA_eng_sia_relationship_improvement: "British-Siamese Relationship Pack" #NT!
+ SIA_usa_sia_relationship_improvement: "American-Siamese Relationship Pack" #NT!
+ SIA_can_sia_relationship_improvement: "Canadian-Siamese Relationship Pack" #NT!
+ SIA_bra_sia_relationship_improvement: "Brazilian-Siamese Relationship Pack" #NT!
+ SIA_chi_sia_relationship_improvement: "Chinese-Siamese Relationship Pack" #NT!
+ SIA_jap_sia_relationship_improvement: "Japanese-Siamese Relationship Pack" #NT!
+ SIA_rus_sia_relationship_improvement: "Russian-Siamese Relationship Pack" #NT!
+ SIA_new_rival_of_the_world: "New Rival of the World" #NT!
+ ##Tooltip 
+ commerce_the_broken_economy: "Start the economic improvement after the worst impact from Black Wednesday and calls the Emergency Session of Royal Market Bureau\n \n" #NT!
+ SIA_pretender_crisis_tt: "§R The reigning king did not decide his successor, the fate of throne must be decided soon §!" #NT!
+ unlock_economic_ui_tt: "Unlock the decisions lead you to decide and provide advice for passing through economic apocalypse" #NT!
+ valkist_start_influencing: "Sapha Ruam Chon Phao Tai will start spreading the valkist ideology to countryside" #NT!
+ finish_fisrt_congress_of_greater_pantheon_conclave: "Finish the First Congress of Greater Pantheon Conclave" #NT!
+ vice_grand_marshal_tt: "§Y Grand Marshal will appoint the vice grand marshal and set the vice grand marshal to the first in line succession \n §!" #NT!
+ finish_1936_election: "Finish the 1936 General Election and can compromise with unrest movement" #NT!
+ finish_the_recovery: "Finish the Recovery before the unrest begins sabotage" #NT!
+ win_civil_war: "Win the Civil War against the Revolutionary Government" #NT!
+ compromise_of_leftist: "Compromise between leftist and government" #NT!
+ unificationist_win_election: "Unificationist Group has won the 1936 General Election" #NT!
+ south_annam_plan_tt: "§Y [SIA.GetAdjective] Government shall storm the French Indochina with Vietnamese rebel" #NT!
+ destroy_lefist_dominance: "§R Destroys the Leftist Dominance in Ministry of Treasury§! \n" #NT!
+ bonus_from_leader_tt: "This country shall adopt the administration doctrine from our Supreme Leader" #NT!
+ bonus_from_leader_tt2: "If you get the mod's Supreme Leader, you will get a §Y Theocratic State: §!" #NT!
+ bonus_from_leader_tt3: "If you get the IRL's Supreme Leader, you will get a §G Semi-Secular State: §!" #NT!
+ spread_democracy_tt: "§R While this focus is progressing, it will unlock the royalist situation and leads us to royalist's struggle §!" #NT!
+ parliament_shall_vote_the_burma_q_referendum_tt: "§Y Parliament shall vote Referendum of Burma Question §! \n" #NT!
+ parliament_shall_vote_the_indochina_q_referendum_tt: "§Y Parliament shall vote Referendum of Indochina Question §! \n" #NT!
+ #######Ideas 
+ #Tooltip 
+ SIA_military_disloyalty_tt: "§RCannot train or disband units, or edit unit templates.§!" #NT!
+ # 
+ decreasing_all_cost_for_minister: "Decreasing to Zero" #NT!
+ foreign_company_investment: "Foreign Companies' Investment" #NT!
+ parliament_with_officers: "Parliament with Officers" #NT!
+ pretender_crisis: "Succession Crisis" #NT!
+ stable_bureaucrat: "§GBureaucracy: Good Work§!" #NT!
+ red_unrest: "Workers' Front of National Salvation" #NT!
+ limited_bureaucrat: "§YBureaucracy: Severe Unstablity§!" #NT!
+ ruined_bureaucrat: "§RBureaucracy: Risky§!" #NT!
+ country_in_chaos: "Country in Chaos" #NT!
+ entrepreneur_association: "Entrepreneur Association" #NT!
+ equipment_mass_production: "Munitions Mass Production" #NT!
+ motorized_equipment_factory: "Motorized Mass Production" #NT!
+ made_in_thailand: "Made in Thailand" #NT!
+ siamese_nation_shall_not_fall: "Our Nation Shall Not Fall" #NT!
+ ####Unificationist 
+ jit_satharana: "Jit Satharana (Public Mind)" #NT!
+ tai_salvation_united_front: "Tai Salvation United Front" #NT!
+ thai_unification_united_front: "Thai Unification United Front" #NT!
+ south_east_asia_liberation_united_front: "South East Asia Liberation United Front" #NT!
+ ##Economic Recovery Project 
+ SIA_black_wednesday: "The London Crash has reached our shores" #NT!
+ SIA_black_wednesday_1: "Bangkok Assets and Investment's New Beginning" #NT!
+ autarky_reform: "Autarky Reform" #NT!
+ gold_standard_soc: "Continue Gold Standard" #NT!
+ new_currency_soc: "National Baht Currency Collective" #NT!
+ agrarian_reform_soc: "Agrarian Reform" #NT!
+ forward_to_industrialized: "Forward to Industrialized" #NT!
+ yellow_cover_dossier: "Yellow Cover Dossier" #NT!
+ ##Valkist 
+ Valkist_influence_in_Siam: "Valkist Influence: Very Low" #NT!
+ Valkist_influence_in_Siam1: "Valkist Influence: Low" #NT!
+ Valkist_influence_in_Siam2: "Valkist Influence: Moderate" #NT!
+ Valkist_influence_in_Siam3: "Valkist Influence: High" #NT!
+ Valkist_influence_in_Siam4: "Valkist Influence: Very High" #NT!
+ Valkist_influence_in_Siam5: "Valkist Influence: Extreme" #NT!
+ Valkist_influence_in_Siam6: "Valkist Influence: Influenced" #NT!
+ defenders_of_faith_force: "Defenders of Faith Force (Khong Khamlang Phu Pitak Sattha)" #NT!
+ metallic_skin: "Metallic Skin (Khongkraphan Nangneow)" #NT!
+ full_but_not_eat: "Blessed Food (Imtip Mai Odtai)" #NT!
+ invisibility_magic: "Invisibility Magic (Longhon Haitua)" #NT!
+ summons_magic: "Wasp Summoning Magic (Sek Tor Sek Taen)" #NT!
+ ##Royalist 
+ people_angry: "People's Disagreement" #NT!
+ our_peace_among_dust: "Our Peace among Dust" #NT!
+ new_tariff_taxation: "New Tariff Limitation" #NT!
+ national_hero: "National Hero Memorial Day" #NT!
+ ##United Centrist 
+ promote_federalism: "Promote Federalism" #NT!
+ dissolution_of_monthon: "End of Royal Circle" #NT!
+ suffrage_allowed: "Act of Suffrage: §G Passed §!" #NT!
+ suffrage_declined: "Act of Suffrage: §R Failed §!" #NT!
+ stabilized_election_system: "Stabilized Election System" #NT!
+ new_market: "New Market's Opening" #NT!
+ poor_people_welfare: "Poor People Welfare" #NT!
+ smes_policy: "Subsidize Small and Medium Entrepreneurs" #NT!
+ ##Military 
+ central_command: "General Staff Council and Central Command of Siam" #NT!
+ bunker_construction: "Bunker Construction" #NT!
+ grand_trench_expansion: "Grand Trench Expansion" #NT!
+ arty_mass_production: "Artillery Mass Production" #NT!
+ drive_through_a_wall: "Drive Through a Wall" #NT!
+ military_intelligence_service_dlc: "Military Intelligency Service" #NT!
+ military_intelligence_service: "Military Intelligency Service" #NT!
+ sky_conq_high_command: "High Command of Air Force: Sky Conqueror" #NT!
+ oceansky_conq_high_command: "High Command of Air Force: Ocean's Sky Conqueror" #NT!
+ air_scout_team: "Air Scout Team" #NT!
+ sky_conqueror: "Sky Grand Conqueror" #NT!
+ flex_highcommand: "National Ocean Pacification High Command: Flexible Fleet" #NT!
+ combine_highcommand: "National Ocean Pacification High Command: Combination Fleet" #NT!
+ flex_modifyteam: "Ship Modification Team: Flexible Fleet" #NT!
+ combine_modifyteam: "Ship Modification Team: Combination Fleet" #NT!
+ ##Industrial Afforts 
+ siam_cement: "Siam Cement Group" #NT!
+ tanin: "Tanin" #NT!
+ chulalongkorn: "Chulalongkorn Industrial Institute" #NT!
+ rung_paisarn: "Rung Paisarn Industry Co., Ltd" #NT!
+ SIA_MEF: "Military Equipments Factory" #NT!
+ SIA_DTI: "Defense Technology Institute" #NT!
+ thairung: "Thairung" #NT!
+ SIA_ford: "Ford" #NT!
+ chaiseri: "Chai Seri" #NT!
+ SIA_SSR: "Siam State Railway" #NT!
+ bangkok_dock: "Bangkok Dock Company" #NT!
+ RSAFW: "Royal Siamese Air Force Working Station" #NT!
+ SIA_TAI: "Thai Aeronautical Institute" #NT!
+ siam_aeronautics: "Siam Aeronautics" #NT!
+  
+ ##Indochina 
+ vietnamese_revolutionary_in_territory: "Vietnamese Revolutionary Movement in our territory" #NT!
+ fight_with_revolutionary_movement: "Fight with our revolutionary movement" #NT!
+ caodaism_influences_the_peninsula: "Cao Daism's Persuasion" #NT!
+  
+ #######Others 
+ national_research_council_name: "National Research Council" #NT!
+ national_research_council_desc: "" #NT!
+ ###Equipment Names 
+  
+ SIA_EQUIPMENT_VERSION_1: "B1" #NT!
+ SIA_EQUIPMENT_VERSION_2: "B2" #NT!
+ SIA_EQUIPMENT_VERSION_3: "B3" #NT!
+ SIA_EQUIPMENT_VERSION_4: "B4" #NT!
+ SIA_EQUIPMENT_VERSION_5: "B5" #NT!
+ SIA_EQUIPMENT_VERSION_6: "B6" #NT!
+ SIA_EQUIPMENT_VERSION_7: "B7" #NT!
+ SIA_EQUIPMENT_VERSION_8: "B8" #NT!
+ SIA_EQUIPMENT_VERSION_9: "B9" #NT!
+ SIA_EQUIPMENT_VERSION_10: "B10" #NT!
+ SIA_EQUIPMENT_VERSION_11: "B11" #NT!
+ SIA_EQUIPMENT_VERSION_12: "B12" #NT!
+ SIA_EQUIPMENT_VERSION_13: "B13" #NT!
+  
+ # Infantry Equip 
+  
+ SIA_infantry_equipment_0: "Type 46/66 Siamese Mauser" #NT!
+ SIA_infantry_equipment_0_short: "Type 46/66" #NT!
+ SIA_infantry_equipment_0_desc: "Basic infantryman equipment developed before and during the Weltkrieg. The Type 46/66 is a unique rifle, chambered in the Siamese 8x52mm Rimmed Cartridge, which incorporates what is essentially a hybrid Mauser 96 & 98 action into a body inspired by both Mauser and Arisaka designs. The Type 46 was the primary armament of the Siamese Expeditionary Force during the Weltkrieg." #NT!
+ SIA_infantry_equipment_1: "Type 66 Siamese Mauser" #NT!
+ SIA_infantry_equipment_1_short: "Type 66" #NT!
+ SIA_infantry_equipment_1_desc: "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. While strictly speaking, not truly a Mauser, the Type 66 is an upgraded Japanese export Type 38 Rifle with an action similar to that found on the older Siamese Type 46. It is chambered for the Siamese 8x52mm Rimmed Cartridge." #NT!
+ SIA_infantry_equipment_2: "Rungpaisarn Industries Type 84 Siamese Submachine Guns" #NT!
+ SIA_infantry_equipment_2_short: "Type 84" #NT!
+ SIA_infantry_equipment_2_desc: "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs, modernised to include a great number of sub-machineguns and anti-tank rifles. The Type 84 is the Siamese liscence produced variant of the Bohemian ZK-383 submachine gun chambered in 9×19mm Parabellum. The Type 84 was adopted following Siam's decision to phase out the aging MP-18; it was chosen both because it shared the 9x19mm catridge with the MP-18 and for its reliability in jungle conditions." #NT!
+ SIA_infantry_equipment_3: "Rungpaisarn Industries RPS-001 Assault Rifles" #NT!
+ SIA_infantry_equipment_3_short: "RPS-001" #NT!
+ SIA_infantry_equipment_3_desc: "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. Further modernised to include personal Assault Rifles and anti-tank rockets. RPS-001 assault rifle were officially adopted as the main service rifle." #NT!
+ SIA_infantry_at: "Type 84 Anti-Tank Rifle" #NT!
+ SIA_infantry_at2: "Type 86 Rocket Launcher" #NT!
+ SIA_support_weapons: "Type 66 LMG & 25cm Minenwerfer" #NT!
+ SIA_support_weapons2: "M1919A3 Browning MG & 8cm Granatwerfer 34" #NT!
+ SIA_support_weapons3: "Type 82 HMG & 8cm Pk83 Mortar" #NT!
+ SIA_support_weapons4: "Type 82B2 HMG & 120mm Pk85 Mortar" #NT!
+ SIA_night_vision: "SL100 Sniperscope" #NT!
+ SIA_night_vision2: "SL200 Sniperscope" #NT!
+  
+ # Motorised 
+  
+ SIA_motorized_equipment_1: "M50 Chaiprakarn" #NT!
+ SIA_mechanized_equipment_1: "Chaiseri Aekachai 100" #NT!
+ SIA_mechanized_equipment_1_short: "Aekachai 100" #NT!
+ SIA_mechanized_equipment_2: "Chaiseri Aekachai 101/44" #NT!
+ SIA_mechanized_equipment_2_short: "Aekachai 101/44" #NT!
+ SIA_mechanized_equipment_3: "Chaiseri Maemaidum" #NT!
+ SIA_mechanized_equipment_3_short: "Maemaidum" #NT!
+ SIA_motorized_rocket_equipment_1: "M51 Santi Chaiprakarn" #NT!
+ SIA_motorized_rocket_equipment_1_short: "M51 Santi Chaiprakarn" #NT!
+  
+ # Artillery 
+  
+ SIA_anti_tank_equipment_1: "3.7cm Puentorsurottang 79" #NT!
+ SIA_anti_tank_equipment_1_short: "3.7cm PTr 79" #NT!
+ SIA_anti_tank_equipment_2: "7.5cm Puentorsurottang 83" #NT!
+ SIA_anti_tank_equipment_2_short: "7.5cm PTr 83" #NT!
+ SIA_anti_tank_equipment_3: "12.8cm Puentorsurottang 87" #NT!
+ SIA_anti_tank_equipment_3_short: "12.8cm PTr 87" #NT!
+ SIA_anti_air_equipment_1: "Bofors L/50 Model 1930" #NT!
+ SIA_anti_air_equipment_1_short: "7.5cm kanon m/30" #NT!
+ SIA_anti_air_equipment_2: "Bofors 4cm L/60 gun" #NT!
+ SIA_anti_air_equipment_2_short: "4cm Bofors gun" #NT!
+ SIA_anti_air_equipment_3: "Type 74/86 Flak" #NT!
+ SIA_anti_air_equipment_3_short: "8.8cm Type 74/86 Flak" #NT!
+ SIA_artillery_equipment_1: "Type 63 Field Gun" #NT!
+ SIA_artillery_equipment_1_short: "7.5cm Type 63" #NT!
+ SIA_artillery_equipment_2: "Bofors L/22 Model 1936" #NT!
+ SIA_artillery_equipment_2_short: "10.5cm kanon m/34" #NT!
+ SIA_artillery_equipment_3: "10.5 cm M618A2 howitzer" #NT!
+ SIA_artillery_equipment_3_short: "10.5cm M618A2" #NT!
+ SIA_rocket_artillery_equipment_1: "15cm Jaruadwisaiklai 84" #NT!
+ SIA_rocket_artillery_equipment_1_short: "15cm Jwk 84" #NT!
+ SIA_rocket_artillery_equipment_2: "21cm Jaruadwisaiklai" #NT!
+ SIA_rocket_artillery_equipment_2_short: "21cm Jwk 85" #NT!
+  
+ # Tanks 
+  
+ SIA_light_tank_equipment_1: "Light Tank Type 76 'Kajorndej'" #NT!
+ SIA_light_tank_equipment_1_short: "Kajorndej" #NT!
+ SIA_light_tank_equipment_2: "Light Tank Type 83 'Vachiravut'" #NT!
+ SIA_light_tank_equipment_2_short: "Vachiravut" #NT!
+ SIA_light_tank_equipment_3: "Chaiseri Light Tank Type 83TH 'Chomklao'" #NT!
+ SIA_light_tank_equipment_3_short: "Chomklao" #NT!
+ SIA_light_tank_equipment_3_desc: "The 'LT Type 83TH' was a Type 83 Vachiravut variant with 75mm Tank gun, improved engine and sloped angle developed and produced by Chaiseri Industries." #NT!
+ SIA_light_tank_aa_equipment_1: "SPAAG Type 76 'Trithot'" #NT!
+ SIA_light_tank_aa_equipment_1_short: "Trithot" #NT!
+ SIA_light_tank_aa_equipment_2: "SPAAG Type 83 'Nirachara'" #NT!
+ SIA_light_tank_aa_equipment_2_short: "Nirachara" #NT!
+ SIA_light_tank_aa_equipment_3: "Chaiseri SPAAG Type 83TH 'Suralak'" #NT!
+ SIA_light_tank_aa_equipment_3_short: "Suralak" #NT!
+ SIA_light_tank_artillery_equipment_1: "SPG Type 76 'Pavararn'" #NT!
+ SIA_light_tank_artillery_equipment_1_short: "Pavararn" #NT!
+ SIA_light_tank_artillery_equipment_2: "SPG Type 83 'Pasubodhi'" #NT!
+ SIA_light_tank_artillery_equipment_2_short: "Pasubodhi" #NT!
+ SIA_light_tank_artillery_equipment_3: "Chaiseri SPG Type 83TH 'Mahesuan'" #NT!
+ SIA_light_tank_artillery_equipment_3_short: "Mahesuan" #NT!
+ SIA_light_tank_destroyer_equipment_1: "Tank Destroyer Type 76 'Chantakasaen'" #NT!
+ SIA_light_tank_destroyer_equipment_1_short: "Chantakasaen" #NT!
+ SIA_light_tank_destroyer_equipment_2: "Tank Destroyer Type 83 'Puthesuan'" #NT!
+ SIA_light_tank_destroyer_equipment_2_short: "Puthesuan" #NT!
+ SIA_light_tank_destroyer_equipment_3: "Chaiseri Tank Destroyer Type 83TH 'Sangkorn'" #NT!
+ SIA_light_tank_destroyer_equipment_3_short: "Sangkorn" #NT!
+  
+ SIA_medium_tank_equipment_1: "Chaiseri Medium Tank Type 258 'U-Thong'" #NT!
+ SIA_medium_tank_equipment_1_short: "U-Thong" #NT!
+ SIA_medium_tank_equipment_1_desc: "Chaiseri's first attempt in developing medium tank. Its prototype suffers a lot in Jungle and Swamp environment of Southeast Asia but it was deemed good enough by the Ministry of Defence who quickly rushed the production line to counter heavier German tanks." #NT!
+ SIA_medium_tank_equipment_2: "Chaiseri Medium Tank Type 260 'Naresuan'" #NT!
+ SIA_medium_tank_equipment_2_short: "Naresuan" #NT!
+ SIA_medium_tank_equipment_2_desc: "One of the most successful Siamese/Thai tank of the war. The tank itself was design specifically for Southeast Asia weather and terrain with high reliability and low maintenance." #NT!
+ SIA_medium_tank_equipment_3: "Chaiseri Medium Tank Type 260/112 'Taksin'" #NT!
+ SIA_medium_tank_equipment_3_short: "Taksin" #NT!
+ SIA_medium_tank_equipment_3_desc: "The TH-260/112 was a TH-260 variant with 112mm low-velocity howitzer, improved engine and thicker tank hull." #NT!
+ SIA_medium_tank_aa_equipment_1: "Chaiseri SPAAG Type 258 'Intchada'" #NT!
+ SIA_medium_tank_aa_equipment_1_short: "Intchada" #NT!
+ SIA_medium_tank_aa_equipment_2: "Chaiseri SPAAG Type 260 'Chatuphak'" #NT!
+ SIA_medium_tank_aa_equipment_2_short: "Chatuphak" #NT!
+ SIA_medium_tank_aa_equipment_3: "Chaiseri SPAAG Type 260/112 'Nirathruhin'" #NT!
+ SIA_medium_tank_aa_equipment_3_short: "Nirathruhin" #NT!
+ SIA_medium_tank_artillery_equipment_1: "Chaiseri SPG Type 258 'Withada'" #NT!
+ SIA_medium_tank_artillery_equipment_1_short: "Withada" #NT!
+ SIA_medium_tank_artillery_equipment_2: "Chaiseri SPG Type 260 'Kamalart'" #NT!
+ SIA_medium_tank_artillery_equipment_2_short: "Kamalart" #NT!
+ SIA_medium_tank_artillery_equipment_3: "Chaiseri SPG Type 260/112 'Saratsada'" #NT!
+ SIA_medium_tank_artillery_equipment_3_short: "Saratsada" #NT!
+ SIA_medium_tank_destroyer_equipment_1: "Chaiseri Tank Destroyer Type 258 'Pachabodhi'" #NT!
+ SIA_medium_tank_destroyer_equipment_1_short: "Pachabodhi" #NT!
+ SIA_medium_tank_destroyer_equipment_2: "Chaiseri Tank Destroyer Type 260 'Kritsana'" #NT!
+ SIA_medium_tank_destroyer_equipment_2_short: "Kritsana" #NT!
+ SIA_medium_tank_destroyer_equipment_3: "Chaiseri Tank Destroyer Type 260/112 'Waikul'" #NT!
+ SIA_medium_tank_destroyer_equipment_3_short: "Waikul" #NT!
+  
+ SIA_heavy_tank_equipment_1: "Heavy Tank Type 01 'Ramkamhaeng'" #NT!
+ SIA_heavy_tank_equipment_1_short: "Ramkamhaeng" #NT!
+ SIA_heavy_tank_equipment_1_desc: "Siamese first few attempts at its own indigenous tank design. Didn't saw widespread use due to being too heavy and thus being unusable for Southeast Asian terrain such as swamps & rice fields." #NT!
+ SIA_heavy_tank_equipment_2: "Chaiseri Heavy Tank Type 84 'Ekathotsarot'" #NT!
+ SIA_heavy_tank_equipment_2_short: "Ekathotsarot" #NT!
+ SIA_heavy_tank_equipment_3: "Chaiseri Heavy Tank Type 301 'Mongkut'" #NT!
+ SIA_heavy_tank_equipment_3_short: "Mongkut" #NT!
+ SIA_heavy_tank_aa_equipment_1: "Heavy SPAAG Type 01 'Kaisop'" #NT!
+ SIA_heavy_tank_aa_equipment_1_short: "Kaisop" #NT!
+ SIA_heavy_tank_aa_equipment_2: "Chaiseri Heavy SPAAG Type 84 'Sawaphu'" #NT!
+ SIA_heavy_tank_aa_equipment_2_short: "Sawaphu" #NT!
+ SIA_heavy_tank_aa_equipment_3: "Chaiseri Heavy SPAAG Type 301 'Mathop'" #NT!
+ SIA_heavy_tank_aa_equipment_3_short: "Mathop" #NT!
+ SIA_heavy_tank_artillery_equipment_1: "Heavy SPG Type 01 'Maiwadee'" #NT!
+ SIA_heavy_tank_artillery_equipment_1_short: "Maiwadee" #NT!
+ SIA_heavy_tank_artillery_equipment_2: "Chaiseri Heavy SPG Type 84 'Trivikrom'" #NT!
+ SIA_heavy_tank_artillery_equipment_2_short: "Trivikrom" #NT!
+ SIA_heavy_tank_artillery_equipment_3: "Chaiseri Heavy SPG Type 301 'Chakraprani'" #NT!
+ SIA_heavy_tank_artillery_equipment_3_short: "Chakraprani" #NT!
+ SIA_heavy_tank_destroyer_equipment_1: "Heavy Tank Destroyer Type 01 'Narai'" #NT!
+ SIA_heavy_tank_destroyer_equipment_1_short: "Narai" #NT!
+ SIA_heavy_tank_destroyer_equipment_2: "Chaiseri Heavy Tank Destroyer Type 84 'Kosee'" #NT!
+ SIA_heavy_tank_destroyer_equipment_2_short: "Kosee" #NT!
+ SIA_heavy_tank_destroyer_equipment_3: "Chaiseri Heavy Tank Destroyer Type 301 'Ramintra'" #NT!
+ SIA_heavy_tank_destroyer_equipment_3_short: "Ramintra" #NT!
+  
+ SIA_super_heavy_tank_equipment_1: "Chaiseri Super Heavy Tank Type 311 'Pinklao'" #NT!
+ SIA_super_heavy_tank_equipment_1_short: "Pinklao" #NT!
+ SIA_super_heavy_tank_aa_equipment_1: "Chaiseri Heavy SPAAG Type 311 'Marutawan'" #NT!
+ SIA_super_heavy_tank_aa_equipment_1_short: "Marutawan" #NT!
+ SIA_super_heavy_tank_artillery_equipment_1: "Chaiseri Heavy SPG Type 311 'Sahatsanai'" #NT!
+ SIA_super_heavy_tank_artillery_equipment_1_short: "Sahatsanai" #NT!
+ SIA_super_heavy_tank_destroyer_equipment_1: "Chaiseri Heavy Tank Destroyer Type 311 'Watcharin'" #NT!
+ SIA_super_heavy_tank_destroyer_equipment_1_short: "Watcharin" #NT!
+  
+ SIA_modern_tank_equipment_1: "Chaiseri TH-401 MBT 'Avatarn'" #NT!
+ SIA_modern_tank_equipment_1_short: "Avatarn" #NT!
+ SIA_modern_tank_aa_equipment_1: "Chaiseri TH-401 SPAAG 'Amarin'" #NT!
+ SIA_modern_tank_aa_equipment_1_short: "Amarin" #NT!
+ SIA_modern_tank_artillery_equipment_1: "Chaiseri TH-401 SPG 'Amornrart'" #NT!
+ SIA_modern_tank_artillery_equipment_1_short: "Amornrart" #NT!
+ SIA_modern_tank_destroyer_equipment_1: "Chaiseri TH-401 TD 'Amaraet'" #NT!
+ SIA_modern_tank_destroyer_equipment_1_short: "Amaraet" #NT!
+  
+ ### 
+ ### Siam ### 
+ ### 
+  
+ # Pre-1936 Model 
+ SIA_fighter_equipment_0: "Fighter Type-5 Prajadhipok" #NT!
+ SIA_fighter_equipment_0_short: "Prajadhipok" #NT!
+ SIA_fighter_equipment_0_desc: "The Prajadhipok, also known as Fighter Type 5, was a single-seat fighter, the second indigenous Siamese aircraft design. In 1929, Lieutenant Colonel Luang Neramit Baijayonta designed the aircraft, which was named Prajadhipok after His Majesty King Prajadhipok (Rama VII). It was the second aircraft designed and built in Siam and the first Siamese designed and built fighter, now called Fighter Type 5." #NT!
+ SIA_tac_bomber_equipment_0: "Bomber Type-2 Boripatra" #NT!
+ SIA_tac_bomber_equipment_0_short: "Boripatra" #NT!
+ SIA_tac_bomber_equipment_0_desc: "The Baribatra (also spelled Boripatra or Boriphat) or Bomber Type 2 was a two-seater light bomber aircraft of the 1920s designed and built by the Royal Siamese Air Force's Aeronautical Workshops. A small number were built for the Siamese Air Force, with the type being the first Siamese-designed aircraft." #NT!
+  
+ # Siamese Fighters 
+ SIA_fighter_equipment_1: "Fighter Type-12 Makhwarn" #NT!
+ SIA_fighter_equipment_1_short: "Makhwarn" #NT!
+ SIA_fighter_equipment_2: "Fighter Type-13 Narukhane" #NT!
+ SIA_fighter_equipment_2_short: "Narukhrane" #NT!
+ SIA_fighter_equipment_3: "Siamese Aeronautics SA-46 Pankhana" #NT!
+ SIA_fighter_equipment_3_short: "SA-46 Pankhana" #NT!
+  
+ # Siamese heavy fighter 
+ SIA_heavy_fighter_equipment_1: "Fighter Type-11 Wihok" #NT!
+ SIA_heavy_fighter_equipment_1_short: "Wihok" #NT!
+ SIA_heavy_fighter_equipment_2: "Siamese Aeronautics SA-12 Paksin" #NT!
+ SIA_heavy_fighter_equipment_2_short: "SA-12 Paksin" #NT!
+ SIA_heavy_fighter_equipment_3: "Siamese Aeronautics SA-14 Tichakorn" #NT!
+ SIA_heavy_fighter_equipment_3_short: "SA-14 Tichakorn" #NT!
+  
+ # Siamese strategic bomber 
+ SIA_strat_bomber_equipment_1: "Siamese Aeronautics SA-71 Kachatarn" #NT!
+ SIA_strat_bomber_equipment_1_short: "SA-71 Kachatarn" #NT!
+ SIA_strat_bomber_equipment_2: "Siamese Aeronautics SA-72 Hatsadin" #NT!
+ SIA_strat_bomber_equipment_2_short: "SA-72 Hatsadin" #NT!
+ SIA_strat_bomber_equipment_3: "Siamese Aeronautics SA-75 Karin" #NT!
+ SIA_strat_bomber_equipment_3_short: "SA-75 Karin" #NT!
+  
+ # Siamese tactical bomber 
+ SIA_tac_bomber_equipment_1: "Heavy Bomber Type-97 Korat" #NT!
+ SIA_tac_bomber_equipment_1_short: "Korat" #NT!
+ SIA_tac_bomber_equipment_2: "Siamese Aeronautics SA-60 Atsawa" #NT!
+ SIA_tac_bomber_equipment_2_short: "SA-60 Atsawa" #NT!
+ SIA_tac_bomber_equipment_3: "Siamese Aeronautics SA-61 Manomai" #NT!
+ SIA_tac_bomber_equipment_3_short: "SA-61 Manomai" #NT!
+  
+ # Siamese naval bomber 
+ SIA_nav_bomber_equipment_1: "Siamese Aeronautics SA-33 Matsaya" #NT!
+ SIA_nav_bomber_equipment_1_short: "SA-33 Matsaya" #NT!
+ SIA_nav_bomber_equipment_2: "Siamese Aeronautics SA-33/15 Chonlajorn" #NT!
+ SIA_nav_bomber_equipment_2_short: "SA-33/15 Chonlajorn" #NT!
+ SIA_nav_bomber_equipment_3: "Siamese Aeronautics SA-39 Ampuchar" #NT!
+ SIA_nav_bomber_equipment_3_short: "SA-39 Ampuchar" #NT!
+  
+ # Siamese close air support 
+ SIA_CAS_equipment_1: "Bomber Type-26 Boworadet" #NT!
+ SIA_CAS_equipment_1_short: "Boworadet" #NT!
+ SIA_CAS_equipment_2: "Siamese Aeronautics SA-57 Kraisee" #NT!
+ SIA_CAS_equipment_2_short: "SA-57 Kraisee" #NT!
+ SIA_CAS_equipment_3: "Siamese Aeronautics SA-59 Pa-yhak" #NT!
+ SIA_CAS_equipment_3_short: "SA-59 Pa-yhak" #NT!
+  
+ # Siamese carrier bomber 
+ SIA_cv_nav_bomber_equipment_1: "Siamese Aeronautics SA-33N Kulau" #NT!
+ SIA_cv_nav_bomber_equipment_1_short: "SA-33N Kulau" #NT!
+ SIA_cv_nav_bomber_equipment_2: "Siamese Aeronautics SA-33/35N Jalamed" #NT!
+ SIA_cv_nav_bomber_equipment_2_short: "SA-33/35N Jalamed" #NT!
+ SIA_cv_nav_bomber_equipment_3: "Siamese Aeronautics SA-39N Tapien" #NT!
+ SIA_cv_nav_bomber_equipment_3_short: "SA-39N Tapien" #NT!
+  
+ # Siamese carrier close air support 
+ SIA_cv_CAS_equipment_1: "Siamese Aeronautics SA-51 Bongkoch" #NT!
+ SIA_cv_CAS_equipment_1_short: "SA-51 Bongkoch" #NT!
+ SIA_cv_CAS_equipment_2: "Siamese Aeronautics SA-57N Pathum" #NT!
+ SIA_cv_CAS_equipment_2_short: "SA-57N Pathum" #NT!
+ SIA_cv_CAS_equipment_3: "Siamese Aeronautics SA-59N Uthumporn" #NT!
+ SIA_cv_CAS_equipment_3_short: "SA-59N Uthumporn" #NT!
+  
+ # Siamese carrier fighter 
+ SIA_cv_fighter_equipment_0: "Siamese Aeronautics SA-4 Chettathirat" #NT!
+ SIA_cv_fighter_equipment_0_short: "SA-4 Chetthathirat" #NT!
+ SIA_cv_fighter_equipment_1: "Siamese Aeronautics SA-42 Trailokanat" #NT!
+ SIA_cv_fighter_equipment_1_short: "SA-42 Trailokanat" #NT!
+ SIA_cv_fighter_equipment_2: "Siamese Aeronautics SA-43 Phetracha" #NT!
+ SIA_cv_fighter_equipment_2_short: "SA-43 Phetracha" #NT!
+ SIA_cv_fighter_equipment_3: "Siamese Aeronautics SA-46N Rachathirat" #NT!
+ SIA_cv_fighter_equipment_3_short: "SA-46N Rachathirat" #NT!
+  
+ # Siamese interceptor 
+ SIA_rocket_interceptor_equipment_1: "Siamese Aeronautics SA-200 Withada" #NT!
+ SIA_rocket_interceptor_equipment_1_short: "SA-200 Withada" #NT!
+ SIA_rocket_interceptor_equipment_2: "Siamese Aeronautics SA-220 Prachabodhi" #NT!
+ SIA_rocket_interceptor_equipment_2_short: "SA-220 Prachabodhi" #NT!
+ SIA_rocket_interceptor_equipment_3: "Siamese Aeronautics SA-240S Kamolrart" #NT!
+ SIA_rocket_interceptor_equipment_3_short: "SA-240S Kamolrart" #NT!
+  
+ # Siamese jet 
+ SIA_jet_tac_bomber_equipment_1: "Siamese Aeronautics SA-162 Sinthop" #NT!
+ SIA_jet_tac_bomber_equipment_1_short: "SA-162 Sinthop" #NT!
+ SIA_jet_tac_bomber_equipment_2: "Siamese Aeronautics SA-164 Archanai" #NT!
+ SIA_jet_tac_bomber_equipment_2_short: "SA-164 Archanai" #NT!
+ SIA_jet_strat_bomber_equipment_1: "Siamese Aeronautics SA-77 Aiyara" #NT!
+ SIA_jet_strat_bomber_equipment_1_short: "SA-77 Aiyara" #NT!
+ SIA_jet_fighter_equipment_1: "Siamese Aeronautics SA-48 Wisarun" #NT!
+ SIA_jet_fighter_equipment_1_short: "SA-140 Wisarun" #NT!
+ SIA_jet_fighter_equipment_2: "Siamese Aeronautics SA-148 Khadesuan" #NT!
+ SIA_jet_fighter_equipment_2_short: "SA-148 Khadesuan" #NT!
+  
+ SIA_Prajadhipok: "Prajadhipok" #NT!
+ SIA_Boworadet_Kritdakorn: "Boworadet Kritdakorn" #NT!
+ SIA_Plaek_Phibunsongkhram: "Plaek Phibunsongkhram" #NT!
+ SIA_Luang_Wattanarattawichit: "Luang Wattanarattawichit" #NT!
+ SIA_Waas_Suthonjamorn: "Waas Suthonjamorn" #NT!
+ SIA_Pridi_Banomyong: "Pridi Banomyong" #NT!
+ SIA_Phin_Choonhavan: "Phin Choonhavan" #NT!
+ SIA_Luang_Seriroengrit: "Luang Seriroengrit" #NT!
+ SIA_Prince_Boworadet: "Prince Boworadet" #NT!
+ SIA_Luang_Phibunsongkhram: "Luang Phibunsongkhram" #NT!
+ SIA_Phraya_Phahon_Phonphayuhasena: "Phraya Phahon Phonphayuhasena" #NT!
+ SIA_Phraya_Songsuradet: "Phraya Songsuradet" #NT!
+ SIA_Phraya_Ritti_arkaney: "Phraya Ritti-arkaney" #NT!
+ SIA_Phraya_Srisitthisongkhram: "Phraya Srisitthisongkhram" #NT!
+ SIA_Sarit_Thanarat: "Sarit Thanarat" #NT!
+ SIA_Phraya_Promyothee: "Phraya Promyothee" #NT!
+ SIA_Luang_Karjsongkhram: "Luang Karjsongkhram" #NT!
+ SIA_Luang_Kriengsakpichit: "Luang Kriengsakpichit" #NT!
+ SIA_Luang_Prasartpitthayayuth: "Luang Prasartpitthayayuth" #NT!
+ SIA_Luang_Sinthusongkhramchai: "Luang Sinthusongkhramchai" #NT!
+ SIA_Luang_Thamrongnawasawat: "Luang Thamrongnawasawat" #NT!
+ SIA_Phraya_Witchitchollatee: "Phraya Witchitchollatee" #NT!
+ SIA_Phraya_Wicharnjakkich: "Phraya Wicharnjakkich" #NT!
+ SIA_Phra_Mongkolnavin: "Phra Mongkolnavin" #NT!

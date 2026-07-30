@@ -1,0 +1,62 @@
+﻿l_russian:
+  
+ ### Country Names 
+ DOM_vanguardist: "Dominican People's Republic" #NT!
+ DOM_vanguardist_ADJ: "Dominican" #NT!
+ DOM_vanguardist_DEF: "the Dominican People's Republic" #NT!
+ DOM_collectivist: "Dominican People's Republic" #NT!
+ DOM_collectivist_ADJ: "Dominican" #NT!
+ DOM_collectivist_DEF: "the Dominican People's Republic" #NT!
+ DOM_libertarian_socialist: "Dominican People's Republic" #NT!
+ DOM_libertarian_socialist_ADJ: "Dominican" #NT!
+ DOM_libertarian_socialist_DEF: "the Dominican People's Republic" #NT!
+ DOM_social_democrat: "Dominican Republic" #NT!
+ DOM_social_democrat_ADJ: "Dominican" #NT!
+ DOM_social_democrat_DEF: "the Dominican Republic" #NT!
+ DOM_social_liberal: "Dominican Republic" #NT!
+ DOM_social_liberal_ADJ: "Dominican" #NT!
+ DOM_social_liberal_DEF: "the Dominican Republic" #NT!
+ DOM_market_liberal: "Dominican Republic" #NT!
+ DOM_market_liberal_ADJ: "Dominican" #NT!
+ DOM_market_liberal_DEF: "the Dominican Republic" #NT!
+ DOM_social_conservative: "Dominican Republic" #NT!
+ DOM_social_conservative_ADJ: "Dominican" #NT!
+ DOM_social_conservative_DEF: "the Dominican Republic" #NT!
+ DOM_authoritarian_democrat: "Dominican Republic" #NT!
+ DOM_authoritarian_democrat_ADJ: "Dominican" #NT!
+ DOM_authoritarian_democrat_DEF: "the Dominican Republic" #NT!
+ DOM_paternal_autocrat: "Dominican Republic" #NT!
+ DOM_paternal_autocrat_ADJ: "Dominican" #NT!
+ DOM_paternal_autocrat_DEF: "the Dominican Republic" #NT!
+ DOM_national_populist: "Dominican State" #NT!
+ DOM_national_populist_ADJ: "Dominican" #NT!
+ DOM_national_populist_DEF: "the Dominican State" #NT!
+ DOM_valkist: "Dominican State" #NT!
+ DOM_valkist_ADJ: "Dominican" #NT!
+ DOM_valkist_DEF: "the Dominican State" #NT!
+  
+ DOM_vanguardist_party: "PCD" #NT!
+ DOM_vanguardist_party_long: "Partido Comunista Dominicano\n§gDominican Communist Party§!" #NT!
+ DOM_collectivist_party: "PPD" #NT!
+ DOM_collectivist_party_long: "Partido del Pueblo Dominicano\n§gDominican People's Party§!" #NT!
+ DOM_libertarian_socialist_party: "Dg" #NT!
+ DOM_libertarian_socialist_party_long: "Dominicanos gratis!\n§g"Free Dominicans!"§!" #NT!
+ DOM_social_democrat_party: "LS" #NT!
+ DOM_social_democrat_party_long: "Los Socialistas\n§gSocialists§!" #NT!
+ DOM_social_liberal_party: "LNL" #NT!
+ DOM_social_liberal_party_long: "Los Nuevos Liberales\n§gNew Liberals§!" #NT!
+ DOM_market_liberal_party: "PL" #NT!
+ DOM_market_liberal_party_long: "Partido Liberal\n§gLiberal Party§!" #NT!
+ DOM_social_conservative_party: "NN" #NT!
+ DOM_social_conservative_party_long: "Nuevos Nacionalistas\n§gNew Nationalists§!" #NT!
+ DOM_authoritarian_democrat_party: "GR" #NT!
+ DOM_authoritarian_democrat_party_long: "Guardia Republicana\n§gRepublican Guard§!" #NT!
+ DOM_paternal_autocrat_party: "GN" #NT!
+ DOM_paternal_autocrat_party_long: "Guardia Nacional\n§gNational Guard§!" #NT!
+ DOM_national_populist_party: "LA" #NT!
+ DOM_national_populist_party_long: "Los Agrarios\n§gAgrarians§!" #NT!
+ DOM_valkist_party: "PRNP" #NT!
+ DOM_valkist_party_long: "El Partido Republicano del Nacional Progresista\n§gNational Progressive Republican Party§!" #NT!
+  
+ DOM_Rafael_Trujillo: "Rafael Trujillo" #NT!
+ DOM_Ramon_Vasquez_Rivera: "Ramón Vásquez Rivera" #NT!

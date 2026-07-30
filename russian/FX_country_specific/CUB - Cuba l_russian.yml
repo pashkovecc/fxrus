@@ -1,0 +1,66 @@
+﻿l_russian:
+  
+ ### Country Names 
+ CUB_vanguardist: "People's Republic of Cuba" #NT!
+ CUB_vanguardist_ADJ: "Cuban" #NT!
+ CUB_vanguardist_DEF: "the People's Republic of Cuba" #NT!
+ CUB_collectivist: "People's Republic of Cuba" #NT!
+ CUB_collectivist_ADJ: "Cuban" #NT!
+ CUB_collectivist_DEF: "the People's Republic of Cuba" #NT!
+ CUB_libertarian_socialist: "People's Republic of Cuba" #NT!
+ CUB_libertarian_socialist_ADJ: "Cuban" #NT!
+ CUB_libertarian_socialist_DEF: "the People's Republic of Cuba" #NT!
+ CUB_social_democrat: "Republic of Cuba" #NT!
+ CUB_social_democrat_ADJ: "Cuban" #NT!
+ CUB_social_democrat_DEF: "the Republic of Cuba" #NT!
+ CUB_social_liberal: "Republic of Cuba" #NT!
+ CUB_social_liberal_ADJ: "Cuban" #NT!
+ CUB_social_liberal_DEF: "the Republic of Cuba" #NT!
+ CUB_market_liberal: "Republic of Cuba" #NT!
+ CUB_market_liberal_ADJ: "Cuban" #NT!
+ CUB_market_liberal_DEF: "the Republic of Cuba" #NT!
+ CUB_social_conservative: "Republic of Cuba" #NT!
+ CUB_social_conservative_ADJ: "Cuban" #NT!
+ CUB_social_conservative_DEF: "the Republic of Cuba" #NT!
+ CUB_authoritarian_democrat: "Republic of Cuba" #NT!
+ CUB_authoritarian_democrat_ADJ: "Cuban" #NT!
+ CUB_authoritarian_democrat_DEF: "the Republic of Cuba" #NT!
+ CUB_paternal_autocrat: "Republic of Cuba" #NT!
+ CUB_paternal_autocrat_ADJ: "Cuban" #NT!
+ CUB_paternal_autocrat_DEF: "the Republic of Cuba" #NT!
+ CUB_national_populist: "Republic of Cuba" #NT!
+ CUB_national_populist_ADJ: "Cuban" #NT!
+ CUB_national_populist_DEF: "the Republic of Cuba" #NT!
+ CUB_valkist: "Republic of Cuba" #NT!
+ CUB_valkist_ADJ: "Cuban" #NT!
+ CUB_valkist_DEF: "the Republic of Cuba" #NT!
+  
+ ### Parties (FROM KR) 
+ CUB_vanguardist_party: "Socialista" #NT!
+ CUB_vanguardist_party_long: "Movimiento Socialistas - Comunista\n§gSocialist Movement - Communists§!" #NT!
+ CUB_collectivist_party: "Socialista" #NT!
+ CUB_collectivist_party_long: "Movimiento Socialistas - Trabajadores\n§gSocialist Movement - Laborists§!" #NT!
+ CUB_libertarian_socialist_party: "Socialista" #NT!
+ CUB_libertarian_socialist_party_long: "Movimiento Socialistas - Revolucionario\n§gSocialist Movement - Revolutionaries§!" #NT!
+ CUB_social_democrat_party: "Unionista" #NT!
+ CUB_social_democrat_party_long: "Partido Unionista\n§gUnionist Party§!" #NT!
+ CUB_social_liberal_party: "Nuevo Liberal" #NT!
+ CUB_social_liberal_party_long: "Partido Nuevo Liberal\n§gNew Liberal Party§!" #NT!
+ CUB_market_liberal_party: "Republicano" #NT!
+ CUB_market_liberal_party_long: "Partido Republicano\n§gRepublican Party§!" #NT!
+ CUB_social_conservative_party: "Democrática" #NT!
+ CUB_social_conservative_party_long: "Asociación Nacional Democrática\n§gNational Democratic Association§!" #NT!
+ CUB_authoritarian_democrat_party: "Progresista" #NT!
+ CUB_authoritarian_democrat_party_long: "Partido Progresista\n§gProgressive Party§!" #NT!
+ CUB_paternal_autocrat_party: "Junta" #NT!
+ CUB_paternal_autocrat_party_long: "Junta" #NT!
+ CUB_national_populist_party: "Legión" #NT!
+ CUB_national_populist_party_long: "Legión Revolucionaria Nacional\n§gRevolutionary National Legion§!" #NT!
+ CUB_valkist_party: "Legión" #NT!
+ CUB_valkist_party_long: "Legión Revolucionaria Nacional\n§gRevolutionary National Legion§!" #NT!
+  
+ CUB_Jose_Agripino_Barnet: "José Agripino Barnet" #NT!
+ CUB_Martin_Diaz_Tamayo: "Martin Diaz Tamayo" #NT!
+ CUB_Alberto_Herrera_Franchi: "Alberto Herrera Franchi" #NT!
+ CUB_Manuel_Lopez_Migoya: "Manuel Lopez Migoya" #NT!
+ CUB_Ernesto_Usatorres_Ubieta: "Ernesto Usatorres Ubieta" #NT!

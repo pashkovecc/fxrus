@@ -1,0 +1,452 @@
+﻿l_russian:
+  
+ ### Country Names 
+ BEA: "Британская Ост-Индия" #NT!
+ BEA_ADJ: "Ост-индск" #NT!
+ BEA_DEF: "Британская Ост-Индия" #NT!
+  
+ BEA_DUTCH_vanguardist: "Dutch East Indies" #NT!
+ BEA_DUTCH_vanguardist_ADJ: "East Indian" #NT!
+ BEA_DUTCH_vanguardist_DEF: "the Dutch East Indies" #NT!
+ BEA_DUTCH_collectivist: "Dutch East Indies" #NT!
+ BEA_DUTCH_collectivist_ADJ: "East Indian" #NT!
+ BEA_DUTCH_collectivist_DEF: "the Dutch East Indies" #NT!
+ BEA_DUTCH_libertarian_socialist: "Dutch East Indies" #NT!
+ BEA_DUTCH_libertarian_socialist_ADJ: "East Indian" #NT!
+ BEA_DUTCH_libertarian_socialist_DEF: "the Dutch East Indies" #NT!
+ BEA_DUTCH_social_democrat: "Dutch East Indies" #NT!
+ BEA_DUTCH_social_democrat_ADJ: "East Indian" #NT!
+ BEA_DUTCH_social_democrat_DEF: "the Dutch East Indies" #NT!
+ BEA_DUTCH_social_liberal: "Dutch East Indies" #NT!
+ BEA_DUTCH_social_liberal_ADJ: "East Indian" #NT!
+ BEA_DUTCH_social_liberal_DEF: "the Dutch East Indies" #NT!
+ BEA_DUTCH_market_liberal: "Dutch East Indies" #NT!
+ BEA_DUTCH_market_liberal_ADJ: "East Indian" #NT!
+ BEA_DUTCH_market_liberal_DEF: "the Dutch East Indies" #NT!
+ BEA_DUTCH_social_conservative: "Dutch East Indies" #NT!
+ BEA_DUTCH_social_conservative_ADJ: "East Indian" #NT!
+ BEA_DUTCH_social_conservative_DEF: "the Dutch East Indies" #NT!
+ BEA_DUTCH_authoritarian_democrat: "Dutch East Indies" #NT!
+ BEA_DUTCH_authoritarian_democrat_ADJ: "East Indian" #NT!
+ BEA_DUTCH_authoritarian_democrat_DEF: "the Dutch East Indies" #NT!
+ BEA_DUTCH_national_populist: "Dutch East Indies" #NT!
+ BEA_DUTCH_national_populist_ADJ: "East Indian" #NT!
+ BEA_DUTCH_national_populist_DEF: "the Dutch East Indies" #NT!
+  
+  
+ #### Political Parties #### 
+ BEA_vanguardist_party: "PKI" #NT!
+ BEA_vanguardist_party_long: "Partai Komunis Insulindia" #NT!
+ BEA_collectivist_party: "PKI" #NT!
+ BEA_collectivist_party_long: "Partai Komunis Insulindia" #NT!
+ BEA_libertarian_socialist_party: "SDWP of the East Indies" #NT!
+ BEA_libertarian_socialist_party_long: "Social Democratic Workers’ Party of the East Indies" #NT!
+ BEA_DUTCH_libertarian_socialist_party: "SDAP van Oost-Indië" #NT!
+ BEA_DUTCH_libertarian_socialist_party_long: "Sociaal-Democratische Arbeiderspartij van Oost-Indië" #NT!
+ BEA_social_democrat_party: "SDWP of the East Indies" #NT!
+ BEA_social_democrat_party_long: "Social Democratic Workers’ Party of the East Indies" #NT!
+ BEA_DUTCH_social_democrat_party: "SDAP van Oost-Indië" #NT!
+ BEA_DUTCH_social_democrat_party_long: "Sociaal-Democratische Arbeiderspartij van Oost-Indië" #NT!
+ BEA_social_liberal_party: "FDL of the East Indies" #NT!
+ BEA_social_liberal_party_long: "Free-thinking Democratic League of the East Indies" #NT!
+ BEA_DUTCH_social_liberal_party: "VDB van Oost-Indië" #NT!
+ BEA_DUTCH_social_liberal_party_long: "Vrijzinnig Democratische Bond van Oost-Indië" #NT!
+ BEA_market_liberal_party: "LSP of the East Indies" #NT!
+ BEA_market_liberal_party_long: "Liberal State Party of the East Indies" #NT!
+ BEA_DUTCH_market_liberal_party: "LSp van Oost-Indië" #NT!
+ BEA_DUTCH_market_liberal_party_long: "Liberale Staatspartij van Oost-Indië" #NT!
+ BEA_social_conservative_party: "ARP of the East Indies" #NT!
+ BEA_social_conservative_party_long: "Anti-Revolutionary Party of the East Indies" #NT!
+ BEA_DUTCH_social_conservative_party: "ARP van Oost-Indië" #NT!
+ BEA_DUTCH_social_conservative_party_long: "Anti-Revolutionaire Partij van Oost-Indië" #NT!
+ BEA_authoritarian_democrat_party: "Nederlandse Regering" #NT!
+ BEA_authoritarian_democrat_party_long: "Nederlandse Regering van Oost-Indië" #NT!
+ BEA_paternal_autocrat_party: "Colonial Administration" #NT!
+ BEA_paternal_autocrat_party_long: "British Colonial Administration" #NT!
+ BEA_national_populist_party: "NNB van Oost-Indië" #NT!
+ BEA_national_populist_party_long: "Nieuwe Nederlandse Beweging van Oost-Indië" #NT!
+  
+ #### Ideas #### 
+ BEA_disputes_between_british_and_dutch_idea: "Anglo-Dutch Colonial Disputes" #NT!
+ BEA_disputes_between_british_and_dutch_idea_desc: "With the British Empire taking control over the former Dutch East Indies, there is great concern over how the East Indies should be governed - and by whom. For now that situation remains relatively peaceful, but what the future brings, no one quite knows." #NT!
+ BEA_colonial_nation_idea: "Colonial Nation" #NT!
+ BEA_colonial_nation_idea_desc: "The East Indies is a colonial nation now under the control of the British Empire." #NT!
+ BEA_effect_london_crash_idea: "The Effects of the London Crash" #NT!
+ BEA_siezing_dutch_assets_idea: "Dutch Assets Siezed" #NT!
+ BEA_insulindian_revolution: "Insulindian Revolution" #NT!
+ BEA_deal_with_banks_idea: "Dealings With the Banks" #NT!
+ BEA_end_bank_closures_idea: "Bank Closures Ended" #NT!
+ BEA_implement_austerity_messures_idea: "Austerity Measures" #NT!
+ BEA_higher_taxes_idea: "Austerity Measures" #NT!
+ BEA_sell_our_resources_idea: "Austerity Measures" #NT!
+ BEA_deal_with_city_unemployment_idea: "Dealing With City Unemployment" #NT!
+ BEA_build_up_trading_connections_idea: "New Trade Connections" #NT!
+ BEA_army_of_colonists_idea: "Colonial Nation" #NT!
+ BEA_army_of_east_indies_idea: "Colonial Nation" #NT!
+ BEA_jungle_divisions_idea: "Jungle Divisions" #NT!
+  
+ BEA_close_down_dutch_schools_idea: "Disputes Between the British and the Dutch" #NT!
+ BEA_ban_dutch_as_official_language_idea: "Disputes Between the British and the Dutch" #NT!
+ BEA_integrate_dutch_into_british_idea: "The Dutch People Integrated" #NT!
+ BEA_strengthen_ties_with_local_rulers_idea: "Ties With Local Rulers" #NT!
+ BEA_bring_new_liberties_idea: "New Liberties" #NT!
+ BEA_a_dutch_dominion_idea: "From Colony to Dominion" #NT!
+ BEA_stabalize_dutch_east_indies_idea: "A Stable Dutch East Indies" #NT!
+ BEA_compromice_with_british_idea: "Disputes Between the British and the Dutch" #NT!
+ BEA_tolerate_british_language_idea: "Disputes Between the British and the Dutch" #NT!
+ BEA_united_against_independence_activists_idea: "The Dutch and the British United" #NT!
+ BEA_no_compromice_with_british_idea: "Disputes Between the British and the Dutch" #NT!
+ BEA_ban_british_language_idea: "Disputes Between the British and the Dutch" #NT!
+ BEA_campaign_against_dissident_idea: "Dissidence Not Allowed!" #NT!
+ BEA_dutch_immigration_to_java_idea: "Dutch Immigration" #NT!
+ BEA_outbreeding_tactics_idea: "Outbreeding Tactics" #NT!
+ BEA_exploit_islands_idea: "Islands Exploited" #NT!
+ BEA_establish_servant_caste_idea: "Policy of Exploitation" #NT!
+  
+ #### Events #### 
+ bei.0.t: "The Dutch East Indies" #NT!
+ bei.0.d: "Before the coup in the Netherlands - when the Royal Family fled to Suriname and Bernhard assumed control - the East Indies was under the rule of the Dutch and Governor-General Bonifacius Cornelis de Jonge. After the coup, the British took control over these islands, ostensibly to protect the trade through the Straits of Malacca, but in reality to prevent the islands becoming either independent, or under the control or influence of other nations.\n\nWith all this happen very recently, the East Indies, while having former British major-general John Frederick Charles Fuller as Governor-General, has a ruling class that are overwhelmingly Dutch. There is also a growing Insulindian independence movement that has been slowly gaining power since the British took control." #NT!
+ bei.0.a: "Long Live the King and the East Indies!" #NT!
+  
+ bei.1.t: "Independence Activities" #NT!
+ bei.1.d: "There have been a new report about independence activists rioting in the colony. There have been some minor clashes between Insulindian nationalists and the military." #NT!
+ bei.1.a: "Damn Those Nationalists!" #NT!
+  
+ bei.2.t: "The Indian Rebellion Has Won!" #NT!
+ bei.2.d: "The Rebellion that has taken place in India is over. The rebels seems to have won over the British forces." #NT!
+ bei.2.a: "This Will be Inspiring for the Insulindians" #NT!
+  
+ bei.3.t: "The Indian Rebellion Has Been Crushed!" #NT!
+ bei.3.d: "The Rebellion that has taken place in India is over. The rebels seems to have been crushed by the British forces." #NT!
+ bei.3.a: "Perhaps our own nationalists will reconsider rebelling now." #NT!
+  
+ bei.4.t: "The London Crash Hits the East Indies" #NT!
+ bei.4.d: "It is not long since the London Stock Market Crash affected the heart of the British Empire. Now it is spreading to the rest of the empire and over the world. Economic crisis has hit the East Indies. It has hit the hardest in the cities, though some inland native communities may be relatively unaffected by it. With this crisis, instability and demonstrations would likely follow." #NT!
+ bei.4.a: "Things aren't looking good." #NT!
+  
+ bei.5.t: "Nationalists Riots" #NT!
+ bei.5.d: "Insulindian nationalists, fueled by the instability and economic crisis, have went on riot against British rule over their country. They demand an end to British rule in the East Indies and the establishment of an independent Insulindian state. Police have been ordered to crack down on their activities and impose law and order where necessary." #NT!
+ bei.5.a: "Damn Nationalists!" #NT!
+  
+ bei.6.t: "Socialists Riots" #NT!
+ bei.6.d: "Insulindian socialists fueled by the instability and economic crisis, have begun riots against our rule over the East Indies. Like many nationalists they demand Insulindian independence and the removal of British rule. They are also openly hostile to those they deem 'capitalist merchants and industrialists who exploit the native population'. Police have been ordered to crack down on their activities and impose law and order where necessary." #NT!
+ bei.6.a: "Damn Socialists!" #NT!
+  
+ bei.7.t: "The Dutch Criticise the British Empire" #NT!
+ bei.7.d: "The Dutch in our colony - even those with ties to our governance - have begun to openly criticise the Empire in many public platforms. They argue that the British Empire is dying, their evidence? The successful rebellion in India and the Economic Crisis now badly affecting our nation. The result has been tensions between the Dutch and British colonists in the East Indies growing worse." #NT!
+ bei.7.a: "Dying? They are sorely mistaken." #NT!
+  
+ bei.8.t: "The Dutch Criticise the British Empire" #NT!
+ bei.8.d: "The Dutch in our colony - even those with ties to our governance - have begun to openly criticise the Empire in many public platforms. They argue that the British Empire needs reforms, or economic crisis and rebellion will continue across the Empire. Those British colonists opposed to reform have been angered by this rhetoric, and tensions between them and the former Dutch rulers remains high." #NT!
+ bei.8.a: "They believe they know how to make the Empire better" #NT!
+  
+ bei.9.t: "Dutch Colonists demand more influence" #NT!
+ bei.9.d: "Those that are seen as the leaders of the Dutch population in the East Indies have demanded that the Colonial Administration cede additional influence to their control to 'assist' in the governance of the East Indies. They argue that if the Colonial Administration did this, it would secure the loyalty of the Dutch people in the East Indies." #NT!
+ bei.9.a: "This would only weaken our control, I don't think so" #NT!
+ bei.9.b: "Only together can we hope to stand against the coming storm" #NT!
+  
+ bei.10.t: "Major Nationalist Riot!" #NT!
+ bei.10.d: "Insulindian nationalists has started a major riot in the country. Tens of thousands of people are marching in the streets of Batavia, looting European owned shops, and clashing with police. The clashes have been said to be violent with police being pushed back. The Colonial Administration have begun openly considering military intervention to put down the rioting and protect Europeans from being attacked. This may be a necessary act." #NT!
+ bei.10.a: "Send in the military." #NT!
+  
+ bei.11.t: "The Dutch Refuse to Take Orders!" #NT!
+ bei.11.d: "Many Dutch soldiers and minor officers have refused to take the orders they have recieved to help the police and military to crack down on the riot. They say that this is a fight between the British and the natives, and is not their concern. Some of them are even willing to support the rioters. Hopefully, the riot will be managable without them." #NT!
+ bei.11.a: "We don't need their help to put down some native revolt." #NT!
+  
+ bei.12.t: "Rioters have been crushed" #NT!
+ bei.12.d: "The riot have been quickly cracked down on. With the help of Dutch soldiers, the effort was quick and with minor casualties on both sides. While the British did as much as the Dutch, it is the latter that have been praised in assisting the crackdown on the rioting. Some British military personnel are beginning to believe they are not getting their deserved praise for their efforts." #NT!
+ bei.12.a: "That's what happens when you don't do enough." #NT!
+  
+ bei.32.t: "Seizing Dutch Assets?" #NT!
+ bei.32.d: "The Dutch population has not always been completely loyal to our rule. With the economic crisis hurting our country some of our government officials has proposed that we sieze some of the assets of the richest Dutchmen in the East Indies. While this could cause some protests from the Dutch community, hopefully we can be prepared in such a situation." #NT!
+ bei.32.a: "Seize them!" #NT!
+ bei.32.b: "This is a bad idea, get rid of whoever came up with it" #NT!
+  
+ bei.13.t: "The Insulindians Declares Independent!" #NT!
+ bei.13.d: "This morning, violent fighting erupted in Sumatra and Java. In many settlements and town the local garrisons were overwhelmed by large numbers of independence activists, and weapons were seized in these areas. From the jungle, men armed with rifles, machine guns and artillary pieces have came out to face the forces of the East Indies. It is something far greater than a riot, it is a rebellion. The leader of the rebellion is a man named Sukarno. With his base on Sumatra, he is ready to lead the Insulindian war for independence!" #NT!
+ bei.13.a: "Long Live Insulindia!" #NT!
+ bei.13.b: "Death to the Traitors!" #NT!
+  
+ bei.14.t: "Stability Finally Returns to the British East Indies" #NT!
+ bei.14.d: "Almost two years have gone with instability and riots, but now it seems like better times are coming. Riots seem to be occurring less and less and stability is on the rise. Many believe the lasting effects of the economic crisis are just about passed. It is fair to say that the British East Indies have survived. Our authority in the East Indies seems to be stronger for each month that has passed. It is now time to start our plan of reforms." #NT!
+ bei.14.a: "Long Live the King and the Empire!" #NT!
+  
+ bei.15.t: "Dutch Opposition Unites" #NT!
+ bei.15.d: "The Dutch in our colony have in the past mostly been unorganised but they have recently coalesced into a small group to oppose our rule in the colony. They consist of both Dutchmen loyal to the Dutch crown and Dutchmen loyal to the current regime in the Netherlands." #NT!
+ bei.15.a: "Further trouble." #NT!
+  
+ bei.16.t: "March on Batavia" #NT!
+ bei.16.d: "The Dutch leaders in the East Indies have rallied together supporters, among them Dutchmen, Insulindian natives and 'misguided' British colonists to oppose our 'authoritarian' rule. Unfortunately we also have reports of them obtaining weapons and arms from those secret supporters with ties to the Government and Military. Now, they are on the streets of Batavia, marching for the government quaters. Over the colony, similar attempts to take power is occuring." #NT!
+ bei.16.a: "What lies ahead?" #NT!
+  
+ bei.17.t: "The Dutch Seize Power!" #NT!
+ bei.17.d: "The Dutch of the East Indies have been able to defeat the British that have governed the colony the last years. With the British Colonial flag being taken down, the Dutch colonial flag is now waving in the air over Batavia. It remains to be seen if the Dutch will be able to maintain control, or if they will lose it again to the British Empire." #NT!
+ bei.17.a: "Long Live the Dutch Crown!" #NT!
+  
+ bei.18.t: "The East Indies Wants to be a Dutch Dominion" #NT!
+ bei.18.d: "The Dutch population in the East Indies have taken power over the islands. Now they have demanded to have control of the colony be reinstated to Dutch rule. If we accept it, it may make the British Empire declare war on us, but if we deny, it may be seen as weak and have a legitimizing effect to the regime currently occupying the Dutch mainland." #NT!
+ bei.18.a: "Accept it, we have no choice" #NT!
+ bei.18.b: "Angering London will only bring the hammer." #NT!
+  
+ bei.19.t: "The Dutch East Indies Revolts" #NT!
+ bei.19.d: "The Dutch population have taken control over the East Indies, overthrowing the British Colonial Government and instituting their own rule in the colony. We need to either take them down, or alternativily, we can show mercy and grant them independence. Whichever action we take, we need to take it now." #NT!
+ bei.19.a: "We Will Take Them Down!" #NT!
+ bei.19.b: "Let Them Gain Their Independence" #NT!
+  
+ bei.20.t: "The East Indies Under Dutch Control Again!" #NT!
+ bei.20.d: "The East Indies is once again under Dutch control. With the British Empire leaving these lands, we will finally raise the colours of the Dutch crown in peace. Long Live the Dutch East Indies and Long Live the Queen!" #NT!
+ bei.20.a: "Long Live the Dutch East Indies!" #NT!
+  
+ bei.21.t: "The British Empire have declared war" #NT!
+ bei.21.d: "The old British Empire has taken the choice to fight us. They hope to retake what they stole from the Dutch colonial empire. We do not have a high chance to win, with defeat being a possibility. But with the crown on our side, we might have a chance for victory." #NT!
+ bei.21.a: "We will fight for freedom!" #NT!
+  
+ bei.22.t: "The British have attacked the East Indies" #NT!
+ bei.22.d: "It seems like the British Empire has attacked the East Indies as a reaction to the colony choosing to align with our nation. We can choose to join our Dutch brothers in their fight, but doing this will likely invoke the wrath of the UK." #NT!
+ bei.22.a: "Sorry, East Indies. You're on your own" #NT!
+ bei.22.b: "We Will Stand With Loyalists of the Crown" #NT!
+  
+ bei.23.t: "The Kingdom of the Netherlands refuses to back us" #NT!
+ bei.23.d: "Surprisingly, the Dutch crown have chosen to not involve themselves in our war. Not only will this leave us to ourself in the war, it will strengthen the popularity of the Dutch people loyal to the regime that currently occupies the Dutch mainland." #NT!
+ bei.23.a: "Perhaps Bernhard will support us" #NT!
+  
+ bei.24.t: "The Pro-Bernhard Coup" #NT!
+ bei.24.d: "Dutchmen loyal to prince Bernhard's regime in the Netherlands have now recently couped the government. They claim that the old Dutch leadership have no power to win the war without help from the crown. With new leadership, the war may be winable." #NT!
+ bei.24.a: "Long Live the True Dutchmen!" #NT!
+  
+ bei.25.t: "The East Indies Wants to Submit to us" #NT!
+ bei.25.d: "Instability in the East Indies have left Dutchmen loyal to our government in charge. They have approached us with the will to become a subject of our government. While accepting will give the Netherlands back a big part of its colonial empire, it could also give us war with the British Empire." #NT!
+ bei.25.a: "We Accept This from our Fellow Dutchmen" #NT!
+ bei.25.b: "War with Britain makes this unacceptable" #NT!
+  
+ bei.26.t: "The Dutch State has accepted us" #NT!
+ bei.26.d: "The Dutch State has accepted us as their subjects. They are willing to protect the East Indies from the British Empire, showing solidarity with their Dutch brothers." #NT!
+ bei.26.a: "Long Live the Dutch People!" #NT!
+  
+ bei.27.t: "We Stand Alone" #NT!
+ bei.27.d: "The traitorious Dutch State has rejected our request to become a subject of their rule, leaving us to die at the hands of the British Empire. We stand alone, but we will give the British a good fight." #NT!
+ bei.27.a: "We Fights Until the End!" #NT!
+  
+ bei.28.t: "The East Indies Again Under British Control" #NT!
+ bei.28.d: "The Dutch rebellion in the East Indies have been taken hand of. Now, the lands are under the control of our military. A new and better colony will hopefully be built up out of this." #NT!
+ bei.28.a: "Perhaps these rebels will have learned their lesson." #NT!
+  
+ bei.29.t: "The Kingdom of the Netherlands Fights With us" #NT!
+ bei.29.d: "Our Queen's government has taken the choice to fight this war with us. Together, we will drive of the British invaders and restore the Dutch in the East Indies." #NT!
+ bei.29.a: "Long Live the Kingdom!" #NT!
+  
+ bei.30.t: "The Dutch East Indies Revolts" #NT!
+ bei.30.d: "The Dutch population has taken control over the East Indies. They have in effect stolen one of the crown's colonies. We need to either take them down, or alternativily, we can show mercy and grant them independence. Whichever action we take, we need to take it now." #NT!
+ bei.30.a: "We Will Take Them Down!" #NT!
+ bei.30.b: "Give them independence" #NT!
+  
+ bei.31.t: "The British Empire has Declared War" #NT!
+ bei.31.d: "With no support from the Kingdom of the Netherlands, we are facing the British Empire. It is not likely that we will be able to fight this alone." #NT!
+ bei.31.a: "This is Not Good" #NT!
+  
+ bei.100.t: "European Generals Join our Forces" #NT!
+ bei.100.d: "New European generals have arrived in the East Indies to help lead our army." #NT!
+ bei.100.a: "Welcome to the East Indies" #NT!
+  
+ bei.101.t: "Local Generals Join our Forces" #NT!
+ bei.101.d: "Local generals have volunteer to help in leading the army of the East Indies." #NT!
+ bei.101.a: "For a Force of Europeans and Natives" #NT!
+  
+ #### Focus Tree #### 
+ BEA_economic_crisis_hit_east_indies: "Economic Crisis Hit the East Indies" #NT!
+ BEA_economic_crisis_hit_east_indies_desc: "" #NT!
+ BEA_deal_with_banks: "Deal With the Banks" #NT!
+ BEA_deal_with_banks_desc: "" #NT!
+ BEA_end_bank_closures: "End Bank Closures" #NT!
+ BEA_end_bank_closures_desc: "" #NT!
+ BEA_implement_austerity_messures: "Implement Austerity Messures" #NT!
+ BEA_implement_austerity_messures_desc: "" #NT!
+ BEA_sieze_and_sell_native_land: "Seize and Sell Native Land" #NT!
+ BEA_sieze_and_sell_native_land_desc: "" #NT!
+ BEA_higher_taxes: "Higher Taxes" #NT!
+ BEA_higher_taxes_desc: "" #NT!
+ BEA_sell_our_resources: "Sell our Resources" #NT!
+ BEA_sell_our_resources_desc: "" #NT!
+ BEA_deal_with_city_unemployment: "Deal with City Unemployment" #NT!
+ BEA_deal_with_city_unemployment_desc: "" #NT!
+ BEA_inland_rails_projects: "Inland Rails Projects" #NT!
+ BEA_inland_rails_projects_desc: "" #NT!
+ BEA_new_work_programs: "New Work Programs" #NT!
+ BEA_new_work_programs_desc: "" #NT!
+ BEA_reeinforce_sumatra: "Reinforce Sumatra" #NT!
+ BEA_reeinforce_sumatra_desc: "" #NT!
+ BEA_reeinforce_borneo: "Reinforce Borneo" #NT!
+ BEA_reeinforce_borneo_desc: "" #NT!
+ BEA_crisis_ended: "Crisis Ended" #NT!
+  
+ BEA_industralize_east_indies: "Industrialize the East Indies" #NT!
+ BEA_industralize_east_indies_desc: "" #NT!
+ BEA_invite_outside_investors: "Invite Foreign Investors" #NT!
+ BEA_invite_outside_investors_desc: "" #NT!
+ BEA_expand_batavian_industries: "Expand Batavian Industries" #NT!
+ BEA_expand_batavian_industries_desc: "" #NT!
+ BEA_inland_indutrialization: "Inland Industrialisation" #NT!
+ BEA_inland_indutrialization_desc: "" #NT!
+ BEA_invest_resource_mining: "Invest in Resource Mining" #NT!
+ BEA_invest_resource_mining_desc: "" #NT!
+ BEA_build_up_trading_connections: "Build up Trading Connections" #NT!
+ BEA_build_up_trading_connections_desc: "" #NT!
+ BEA_east_indies_weapon_factories: "East Indies Weapon Factories" #NT!
+ BEA_east_indies_weapon_factories_desc: "" #NT!
+ BEA_expand_rubber_production: "Expand the Rubber Production" #NT!
+ BEA_expand_rubber_production_desc: "" #NT!
+  
+ BEA_east_indies_navy: "East Indies Navy" #NT!
+ BEA_east_indies_navy_desc: "" #NT!
+ BEA_buy_foreign_ships: "Buy Foreign Ships" #NT!
+ BEA_buy_foreign_ships_desc: "" #NT!
+ BEA_build_up_batavias_dockyards: "Build Up Batavian Dockyards" #NT!
+ BEA_build_up_batavias_dockyards_desc: "" #NT!
+ BEA_island_naval_ports: "Island Naval Ports" #NT!
+ BEA_island_naval_ports_desc: "" #NT!
+ BEA_destroyer_efforts: "Destroyer Efforts" #NT!
+ BEA_destroyer_efforts_desc: "" #NT!
+ BEA_focus_heavier_cruisers: "Focus on Heavier Cruisers" #NT!
+ BEA_focus_heavier_cruisers_desc: "" #NT!
+ BEA_focus_coastal_patrols: "Focus on Coastal Patrols" #NT!
+ BEA_focus_coastal_patrols_desc: "" #NT!
+ BEA_control_seas_between_islands: "Control the Seas Between the Islands" #NT!
+ BEA_control_seas_between_islands_desc: "" #NT!
+  
+ BEA_establish_air_force: "Establish an Air Force" #NT!
+ BEA_establish_air_force_desc: "" #NT!
+ BEA_fighter_focused_air_force: "Fighter Focused Air Force" #NT!
+ BEA_fighter_focused_air_force_desc: "" #NT!
+ BEA_bomber_focused_air_force: "Bomber Focused Air Force" #NT!
+ BEA_bomber_focused_air_force_desc: "" #NT!
+ BEA_construct_air_bases: "Construct Air Bases" #NT!
+ BEA_construct_air_bases_desc: "" #NT!
+ BEA_jungle_paratroopers: "Jungle Paratroopers" #NT!
+ BEA_jungle_paratroopers_desc: "" #NT!
+  
+ BEA_east_indies_army: "East Indies Army" #NT!
+ BEA_east_indies_army_desc: "" #NT!
+ BEA_new_equipment_research: "New Equipment Research" #NT!
+ BEA_new_equipment_research_desc: "" #NT!
+ BEA_army_of_colonists: "Army of Colonists" #NT!
+ BEA_army_of_colonists_desc: "" #NT!
+ BEA_european_officers: "European Officers" #NT!
+ BEA_european_officers_desc: "" #NT!
+ BEA_european_tactics: "European Tactics" #NT!
+ BEA_european_tactics_desc: "" #NT!
+ BEA_army_of_east_indies: "An Army of the East Indies" #NT!
+ BEA_army_of_east_indies_desc: "" #NT!
+ BEA_jungle_divisions: "Jungle Divisions" #NT!
+ BEA_jungle_divisions_desc: "" #NT!
+ BEA_marine_regiment_efforts: "Marine Regiment Efforts" #NT!
+ BEA_marine_regiment_efforts_desc: "" #NT!
+ BEA_invite_loyal_native_officers: "Invite Loyal Native Officers" #NT!
+ BEA_invite_loyal_native_officers_desc: "" #NT!
+ BEA_modernize_old_tactics: "Modernize Old Tactics" #NT!
+ BEA_modernize_old_tactics_desc: "" #NT!
+ BEA_establish_motorized_divisions: "Establish Motorized Divisions" #NT!
+ BEA_establish_motorized_divisions_desc: "" #NT!
+  
+ BEA_continuation_of_british_rule: "Continuation of British Rule" #NT!
+ BEA_continuation_of_british_rule_desc: "" #NT!
+ BEA_continuation_of_british_rule_tt: "§GThis focus will be automatically be bypassed once the East Indies stayed under British rule.§!" #NT!
+ BEA_continue_britishification: "Continue Anglicization" #NT!
+ BEA_continue_britishification_desc: "" #NT!
+ BEA_close_down_dutch_schools: "Close Down Dutch Schools" #NT!
+ BEA_close_down_dutch_schools_desc: "" #NT!
+ BEA_native_negotations: "Native Negotiation" #NT!
+ BEA_native_negotations_desc: "" #NT!
+ BEA_crack_down_independence_activists: "Crack Down Independence Activists" #NT!
+ BEA_crack_down_independence_activists_desc: "" #NT!
+ BEA_introduce_british_culture: "Introduce British Culture" #NT!
+ BEA_introduce_british_culture_desc: "" #NT!
+ BEA_ban_dutch_as_official_language: "Ban Dutch as an Offical Language" #NT!
+ BEA_ban_dutch_as_official_language_desc: "" #NT!
+ BEA_trial_independence_leaders: "Trial Independence Leaders" #NT!
+ BEA_trial_independence_leaders_desc: "" #NT!
+ BEA_invite_british_into_colony: "Invite British People Into the Colony" #NT!
+ BEA_invite_british_into_colony_desc: "" #NT!
+ BEA_integrate_dutch_into_british: "Integrate the Dutch into the British" #NT!
+ BEA_integrate_dutch_into_british_desc: "" #NT!
+ BEA_strengthen_ties_with_local_rulers: "Strengthen Ties with Local Rulers" #NT!
+ BEA_strengthen_ties_with_local_rulers_desc: "" #NT!
+ BEA_amnesty_for_some: "Amnesty for Some" #NT!
+ BEA_amnesty_for_some_desc: "" #NT!
+ BEA_bring_new_liberties: "Bring in New Civil Liberties" #NT!
+ BEA_bring_new_liberties_desc: "" #NT!
+ BEA_british_colony: "A British Colony" #NT!
+ BEA_british_colony_desc: "" #NT!
+  
+ BEA_return_dutch_control: "Return to Dutch Control" #NT!
+ BEA_return_dutch_control_desc: "" #NT!
+ BEA_return_dutch_control_tt: "§GThis focus will be automatically be bypassed once the East Indies has returned to Dutch control.§!" #NT!
+  
+ BEA_suriname_faction: "The Suriname Faction" #NT!
+ BEA_suriname_faction_desc: "" #NT!
+ BEA_a_dutch_dominion: "A Dutch Dominion" #NT!
+ BEA_a_dutch_dominion_desc: "" #NT!
+ BEA_limited_democracy: "Limited Democracy" #NT!
+ BEA_limited_democracy_desc: "" #NT!
+ BEA_voting_rights_for_dutch_british: "Voting Rights for the Dutch and British" #NT!
+ BEA_voting_rights_for_dutch_british_desc: "" #NT!
+ BEA_rule_of_oligarchs: "Rule of Oligarchs" #NT!
+ BEA_rule_of_oligarchs_desc: "" #NT!
+ BEA_ensure_power: "Ensure Power" #NT!
+ BEA_ensure_power_desc: "" #NT!
+ BEA_stabalize_dutch_east_indies: "Stabalize the Dutch East Indies" #NT!
+ BEA_stabalize_dutch_east_indies_desc: "" #NT!
+ BEA_compromice_with_british: "Compromice with the British" #NT!
+ BEA_compromice_with_british_desc: "" #NT!
+ BEA_stop_britishification: "Stop Anglicization" #NT!
+ BEA_stop_britishification_desc: "" #NT!
+ BEA_tolerate_british_language: "Tolerate the English Language" #NT!
+ BEA_tolerate_british_language_desc: "" #NT!
+ BEA_united_against_independence_activists: "United Against Independence Activists" #NT!
+ BEA_united_against_independence_activists_desc: "" #NT!
+ BEA_trial_their_leaders: "Trial Their Leaders" #NT!
+ BEA_trial_their_leaders_desc: "" #NT!
+ BEA_crown_of_dutch_empire: "The Crown of the Dutch Empire" #NT!
+ BEA_crown_of_dutch_empire_desc: "" #NT!
+  
+ BEA_bernhard_faction: "The Bernhard Faction" #NT!
+ BEA_bernhard_faction_desc: "" #NT!
+ BEA_no_compromice_with_british: "No Compromice With the British" #NT!
+ BEA_no_compromice_with_british_desc: "" #NT!
+ BEA_ban_british_language: "Ban the English Language" #NT!
+ BEA_ban_british_language_desc: "" #NT!
+ BEA_campaign_against_dissident: "An Campaign Against Dissident" #NT!
+ BEA_campaign_against_dissident_desc: "" #NT!
+ BEA_no_fair_trials: "No Fair Trials" #NT!
+ BEA_no_fair_trials_desc: "" #NT!
+ BEA_a_truly_dutch_colony: "A Truly Dutch Colony" #NT!
+ BEA_a_truly_dutch_colony_desc: "" #NT!
+ BEA_dutch_immigration_to_java: "Dutch Immigration to Java" #NT!
+ BEA_dutch_immigration_to_java_desc: "" #NT!
+ BEA_outbreeding_tactics: "Outbreeding Tactics" #NT!
+ BEA_outbreeding_tactics_desc: "" #NT!
+ BEA_exploit_islands: "Exploit Islands" #NT!
+ BEA_exploit_islands_desc: "" #NT!
+ BEA_establish_servant_caste: "Establish a Servant Caste" #NT!
+ BEA_establish_servant_caste_desc: "" #NT!
+ BEA_rise_new_dutch_nation: "Rise of a New Dutch Nation" #NT!
+ BEA_rise_new_dutch_nation_desc: "" #NT!
+ BEA_for_us_and_our_brothers: "For Us and Our Brothers" #NT!
+ BEA_for_us_and_our_brothers_desc: "" #NT!
+  
+ #### Country Flag #### 
+ BEA_london_crash_flag: "The §YEconomic Crisis§! has hit the East Indies" #NT!
+ BEA_continuation_of_british_rule_flag: "The §tBritish Rule§! in the §YEast Indies§! continued" #NT!
+ BEA_return_dutch_control_flag: "The §YEast Indies§! once again is controlled by the §ODutch§!" #NT!
+ BEA_suriname_faction_flag: "The §YEast Indies§! is under the §3Suriname Faction§!" #NT!
+ BEA_bernhard_faction_flag: "The §YEast Indies§! is under the §8Bernhard Faction§!" #NT!
+ BEA_The_Volksraad: "The Volksraad" #NT!
+ BEA_Bonifacius_Cornelis_de_Jonge: "Bonifacius Cornelis de Jonge" #NT!
+ BEA_JFC_Fuller: "John Frederick Charles Fuller" #NT!
+ BEA_Ernst_Herman_van_Rappard: "Ernst Herman van Rappard" #NT!
+ BEA_Robert_Brooke_Popham: "Robert Brooke Popham" #NT!
+ BEA_Henri_Nicolas_Alfred_Swart: "Henri Nicolas Alfred Swart" #NT!
+ BEA_Hein_ter_Poorten: "Hein ter Poorten" #NT!
+ BEA_Gerardus_Johannes_Berenschot: "Gerardus Johannes Berenschot" #NT!
+ BEA_Thomas_Riddell_Webster: "Thomas Riddell-Webster" #NT!
+ BEA_Hendrik_Johan_Kruls: "Hendrik Johan Kruls" #NT!
+ BEA_Abdulkadir_Widjojoatmodjo: "Abdulkadir Widjojoatmodjo" #NT!

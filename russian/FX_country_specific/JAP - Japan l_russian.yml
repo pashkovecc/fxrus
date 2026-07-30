@@ -1,0 +1,1435 @@
+﻿l_russian:
+  
+ ### Country Names 
+ JAP_vanguardist: "Federated Communal Republic of Japan" #NT!
+ JAP_vanguardist_ADJ: "Japanese" #NT!
+ JAP_vanguardist_DEF: "the Federated Communal Republic of Japan" #NT!
+ JAP_collectivist: "United Provinces of Revolutionary Japan" #NT!
+ JAP_collectivist_ADJ: "Japanese" #NT!
+ JAP_collectivist_DEF: "the United Provinces of Revolutionary Japan" #NT!
+ JAP_libertarian_socialist: "Japanese Democratic People's Republic" #NT!
+ JAP_libertarian_socialist_ADJ: "Japan" #NT!
+ JAP_libertarian_socialist_DEF: "the Japanese Democratic People's Republic" #NT!
+ JAP: "State of Japan" #NT!
+ JAP_ADJ: "Японск"
+ JAP_DEF: "the State of Japan" #NT!
+  
+ JAP_empire: "Empire of Japan" #NT!
+ JAP_empire_ADJ: "Japanese" #NT!
+ JAP_empire_DEF: "the Empire of Japan" #NT!
+  
+ JAP_reorganized_government_china: "Republic of China" #NT!
+ JAP_reorganized_government_china_ADJ: "Chinese" #NT!
+ JAP_reorganized_government_china_DEF: "the Reformed Government of the Republic of China" #NT!
+  
+ #### Political Parties #### 
+ #社会前衛派 
+ JAP_vanguardist_party: "Shakai Zen'ei-ha" #NT!
+ JAP_vanguardist_party_long: "Nippon Shakaishugi Domei - Shakai Zen'ei-ha\n§gJapan Socialist League - Vanguardist§!" #NT!
+ JAP_collectivist_party: "Kyōsan-ha" #NT!
+ JAP_collectivist_party_long: "Nippon Shakaishugi Domei - Kyōsan-ha\n§gJapan Socialist League - Communist§!" #NT!
+ JAP_libertarian_socialist_party: "Kakumei-ha" #NT!
+ JAP_libertarian_socialist_party_long: "Nippon Shakaishugi Domei - Kakumei-ha\n§gJapan Socialist League - Revolutionist§!" #NT!
+ JAP_social_democrat_party: "Taishūtō" #NT!
+ JAP_social_democrat_party_long: "Shakai Taishūtō\n§gSocialist Masses Party§!" #NT!
+ JAP_social_liberal_party: "Kakushintō" #NT!
+ JAP_social_liberal_party_long: "Kakushintō\n§gReformist Party§!" #NT!
+ JAP_market_liberal_party: "Minseitō" #NT!
+ JAP_market_liberal_party_long: "Rikken Minseitō\n§gConstitutional Democratic Party§!" #NT!
+ JAP_social_conservative_party: "Seiyūkai" #NT!
+ JAP_social_conservative_party_long: "Rikken Seiyūkai\n§gAssociation of Friends of Constitutional Government§!" #NT!
+ JAP_authoritarian_democrat_party: "Anti-Mainstream" #NT!
+ JAP_authoritarian_democrat_party_long: "Rikken Minseitō/Rikken Seiyūkai - Antimainstream Factions\n§gConstitutional Democratic Party/Association of Friends of Constitutional Government§!" #NT!
+ JAP_paternal_autocrat_party: "IJAF - Centralists" #NT!
+ JAP_paternal_autocrat_party_long: "Imperial Japanese Armed Forces - Centralists" #NT!
+ JAP_national_populist_party: "IJAF - Restorationists" #NT!
+ JAP_national_populist_party_long: "Imperial Japanese Armed Forces - Restorationists" #NT!
+ JAP_valkist_party: "Ketsumeidan" #NT!
+ JAP_valkist_party_long: "Ketsumeidan\n§gLeague of Blood§!" #NT!
+  
+ JAP_iraa: "Taisei Yokusankai" #NT!
+ JAP_iraa_long: "Taisei Yokusankai\n§gImperial Rule Assistance Association§!" #NT!
+  
+ #### Bookmark Description #### 
+  
+ JAP_FUHRERREICH_DESC: "Japan is rising. In less than a century it has pulled itself from an isolated, feudal society to Asia's most industrialised and modern state. Emperor Hirohito rules over an young empire that simultaneously holds dominion over Korean and Taiwan, yet upholds a democracy based on American ideals. Lacking natural resources, Japan must advance even further if it's to thrive in this uncertain world. Tennōheika Banzai!" #NT!
+  
+ #####Events##### 
+  
+ jap.0.t: "The Rising Sun" #NT!
+ jap.0.d: "While other nations were immolated in the Great War, the early 20th century has been a blessing to Japan. Gaining dominion over many of Germany's former pacific territories, Japan has continously stepped into the spotlight on the world stage. \n\nHowever, the nation's dabbling in Democracy is still new, and many wish to corrupt it to suit their wishes. Many farmers struggle with the rapid pace of modernisation, and income inequality has exploded. The Zaibatsu, Japan's gargantuan conglomerates, have continued to stifle entrepreunership and innovation. It has been a golden age for Japan, but unless swift action is taken, stagnation may curse us. May the Emperor watch over us all." #NT!
+ jap.0.a: "Tennōheika Banzai!" #NT!
+  
+ jap.1.d.0: "Ever since the First Sino-Japanese war, Korea has been firmly under our influence and in 1910, annexed into our Empire under direct rule. The situation has been met with variable responses, with recent events, the assimilation of Koreans have now been put onto our agenda. We now must decide on the speed of assimilation, or further rebellion will be more often and in much larger scale, perhaps, even a full scale independance war." #NT!
+  
+ jap.2.d.0: "As the Fifth Fengtien-Zhili war starts to rage in Northern China, our interests in China forces our hand in support for one of the two clique, Zhili or Fengtien. One of which shall become victorious in the war and we must help one of them in their ultimate conquest to protect our interests. Now do we support the Zhili clique, whose military has proved itself time and time again, but lacks the industrial power of her neighbours, or the Fengtien governacy, whose area are wealthy in metal and owns the majority of the Manchurian railway?" #NT!
+  
+ jap.3.d.0: "After the London Stock Market Crash, we now have a major trade deficiency as no one would buy our products. To combat the trade deficiency, our politicians have decided to cut the budget for many departments, including both branches of the military. The generals of both branches have been notified and promised an expanded budget whenever the economy has been restored." #NT!
+  
+ jap.9.d: "The most unsettling five days in the British Empire since the start of the Great War has came, as the Empire's stock markets has been varying radically due to the fear of inability to get resources and goods from all corners of the Empire. Due to this, many British investors have withdrawn their Japanese assets and caused a panic in our own stock markets as well. Not to mention the bankrupcy of quite a few Japanese trading partners, thus crippling our economy. Who knows what will happen due to this?" #NT!
+  
+ jap.11.d: "A military coup d'état by the Righteous Army has been set off on the 6th of September 1936, due to the result of military factionalism, constant rivalry against the government, and the recent London Stock Market Crash. This coup is is mostly comprised of young radical Imperial Japanese Army officers and their goal is to eliminate the ideological rivals, the social conservatives. Many in the opposition party say that any harsh military action against the small army would lead to open rebellion of the Army and may result in a civil war! We must act carefully to not hurt either side..." #NT!
+  
+ jap.12.d: "With regiments of the Imperial Guard directed towards putting down the rebellion, The Righteous Army has been destroyed! The last of the commanders of the Righteous Army have been executed. The Righteous Army only managed to assassinate off few political members, as well as occupying the government center of Tokyo for a short while. Many citizens thanked the army, which came in and dealt with these traitors with no mercy. This rather unsettling rebllion may have proved to the two branches that we will crush any rebellions, but much more needs to be done before more of this happens." #NT!
+  
+ jap.13.d: "Peace negotiations have been named, namely the unification of the military factionalism has been ended but for a cost of some political ministers of the ruling government. At the end, no Japanese life was lost at the end of the day and minimum damage has been made overall." #NT!
+  
+ jap.14.d: "Just now, our naval exercise just off Manila, the capital of the Phillipines have succeed in it's true purpose - a surprise attack on both Filipino and American military bases and we triumphed! The president of the Phillipines is mad and the the American President is shocked at our daring raid. We will win this war against the Imperialistic Foreigners!" #NT!
+  
+ jap.15.d: "Yesterday, Japanese planes have attacked Filipino military bases and the American embassy! There has been many casualties of both nationalities and both us and the Phillipines are mad. Both the American and Filipino public are mad and request for war soared! The Phillipines are already at war with the Japanese now, leaving only us, the United States of America not at war. Our response shall be swift and deadly, and wipe this dishonorable empire off the face of the world!" #NT!
+  
+ jap.16.d: "With the establishment of the Imperial Ruling Assistant Association, they have started the discuss the zaibatsu problem. These Zaibatsus are major conglomerates and each own an important part of our economy and industry. But as their influence expands, they start to affect our government's policy, perhaps a little too much. Now we must decide on whether to start dissolving these Zaibatsus, or to prevent them from entering the political sphere entirely. Either will help us complete our goal, but we must decide now, or never." #NT!
+  
+ jap.17.d: "A few days ago, the American Gunboat USS Panay fired at Japanese ships who were participating in the casual naval gunnery exercise. The captain of USS Panay said they thought that the ships were firing in anger and not exercising. While no casualties were caused, the incident proved that not just the American and Japanese government are distrustful of each other, even the militaries of both countries perform the same. Now we wait until the diet and parliament agree on a complaint to the American government." #NT!
+  
+ jap.18.d: "With anti-Japanese sentiment rising in China, citizens of Shanghai attacked many Japanese businessmen, destroyed and vandalised Japanese-owned property, including the burning of the Sanyou factory. An upsurge of anti-Imperialist sentiment was caused and protests to boycott Japanese goods and remove the concessions to Japan also broke out. While the Chinese Nationalist government claim that this was staged by Japanese agents, regardless of this, what we will do is not yet decided on. Now what do we do?" #NT!
+  
+ jap.19.d: "The Japanese diplomat has just sent us a number of demands, including the ability to position Japanese troops in our territories to stop these anti-Japanese sentiment and provide assistance to investigate the recent Shanghai incident. This demand will basically give up our national sovereignty and independence! But our [From.GetLeader] has not yet made any decision on the response. Perhaps he will give in to these demands or this will not. We can only wait..." #NT!
+  
+ jap.20.d: "As our supporters, the Japanese have earned some concessions in the Fifth Fengtien-Zhili war. But now their government has become much more imperialistic and started to expand. In their path of expansion, we lie. Now as the Japanese have sent us their ultimatum, do we refuse and wage a war we can ill fight against with Japan's technological might or do we submit to the imperialistic empire? The fate of Fengtien lies here and we do not know will we survive such a conflict." #NT!
+  
+ jap.201.d: "Despite the fact our nation's great might clearly exceeds their own, Fengtian has ignored our ultimatum." #NT!
+  
+ jap.202.d: "Realizing Japan's great might and diplomatic conviction, Fengtian has accepted our ultimatum." #NT!
+  
+ #Zhili ultimatum 
+ jap.21.d: "Following multiple incidents in Qingdao, Dailian and the Manchurian peninsular, the Japanese has had enough and now sent us an ultimatum. To submit or to go to war with them. While we cannot afford to fight a war with their technological might, we cannot afford to submit either, as the entire population is doubtful of the future of Zhili under Japanese rule. All we know is that the fate and future of Zhili lies here, and we depend on it." #NT!
+  
+ jap.211.d: "Despite the fact our nation's great might clearly exceeds their own, The Zhili Clique has ignored our ultimatum." #NT!
+  
+ jap.212.d: "Realizing Japan's great might and diplomatic conviction, The Zhili Clique has accepted our ultimatum." #NT!
+  
+ #France peace proposal 
+ jap.22.d: "After the Japanese invasion of our only Asian possessions, we no longer have any holdings in Asia, and we therefore cannot fuel a war. The Japanese, through the Swiss diplomat has sent us asking for an armistice, or even peace. If we do, we will be giving up our Pacific possessions. We must consider this carefully." #NT!
+ #Russo-Japanese coalition 
+ jap.23.d: "The Japanese, who have supported us many times in the Russian Civil War, have sent a proposal for an alliance against the reds, who currently own the vast Russian lands. If we do accept, we will gain a powerful ally who undoubtedly will support us in every possible moment and will facilitate us in conquering the vast Soviet menace." #NT!
+  
+ jap.24.d: "The Japanese has allied with the British, and they now cooperate with them militarily. This means another knife will be pointing at us, but this time in the Pacific. While it is unknown on how will the two countries will fight against us, it is sure that the two nations will band together against us." #NT!
+  
+ jap.25.d: "Improved relations with the United States has emboldened the Japanese to once again increase the size of their Navy which is making our most isolated colonies even more vulnerable. We must counter this hostile move from the Japanese by any means we have." #NT!
+  
+ jap.26.d: "" #NT!
+  
+ jap.27.d: "Diplomats from the great and powerful nation of Japan have sent us an offer to form an anti-French alliance with them. The annexation of Siamese controlled Laos by the French following Franco-Siamese War of 1893 is still a contentious issue between our two nations and many within our country wish to reverse this. While the Japanese clearly intend to pressure French interests in South East Asia some ministers are weary of becoming too dependent on the Japanese." #NT!
+  
+ jap.28.d: "Realizing our shared interests in French Indochina, The Siamese have agreed to our offer of an alliance." #NT!
+  
+ jap.29.d: "Despite our shared interests in French Indochina, The Siamese have refused our offer of an alliance." #NT!
+  
+ jap.30.d: "It's clear that we and Japan hold a shared interest in weakening Soviet influence in the Far East. Military personal from Japan have come to us with a plan to test Soviet defenses in the strategic region of Yakutsk. Our military with supplies from Japan will raid this region in a small scale buy highly coordinated attack. While the USSR outnumbers us greatly Tokyo believes that focused and decisive operations can quickly defeat Soviet divisions before they can be reinforced by reserves from Europe, an evolution of the strategy used by Japan to defeat Russia in 1905. While the Japanese envoy is highly confident in this plan, local Russian officers are understandably weary of provoking the USSR but we should also be weary of upsetting our Japanese ally." #NT!
+  
+ jap.31.d: "With the persuading of our military envoy, The Russian have agreed to out plan to raid the Soviet strategic position in Yakutsk." #NT!
+  
+ jap.32.d: "Despite the efforts of our military envoy to Chita, The Russians have rejected our plan to attack the Soviet defenses in Yakutsk. While many back in Tokyo wish to drop the issue for now the Japanese military have little patience for the Russians and are preparing plans to install a more \"amenable\" government in Chita." #NT!
+  
+ jap.33.d: "Reports from our Siberian garrisons have relayed that White forces have crossed our border into our Far Eastern territory of Yakutsk. The scale of this raid isn't fully known as of yet but in any case we must quickly reinforce this position and push the whites back!" #NT!
+  
+ jap.34.d: "The \"Yakutsk Incident\" as some have begun to call it has come to a quick end. The sudden break out of violence between these two states has shocked the international community, some of whom suspect Japan in sparking the incident. All that really matters though is our decisive victory." #NT!
+  
+ jap.35.d: "The \"Yakutsk Incident\" as some have begun to call it has come to a quick end. The sudden break out of violence between these two states has shocked the international community, some of whom suspect Japan in sparking the incident. Our surprise defeat has shocked many of our ministers and officers who are now demanding significant reforms to better prepare our army against future battles." #NT!
+  
+ jap.36.d: "Realizing our shared ambitions against the Soviet Union, Russia has agreed to form an alliance with us." #NT!
+  
+ jap.37.d: "Despite our historic and continued support for their little regime, Russia has refused to form an alliance with us." #NT!
+  
+ jap.38.d: "Our attempts to find a peaceful solution to the growing political power of the Japanese Army has failed. When they threatened Japan's democracy we offered them an inch which they saw as an opportunity to take a mile. Slowly but surely Japan's civil government fell to the interests of the military. Under growing internal pressure even the Emperor himself has given into the demands of the military. What ever kind of democracy may have existed in Japan is now just a foot note in history." #NT!
+  
+  
+ jap.48.d: "Despite our efforts to improve relations with Britain and her people, the British Navy has refused to hand over the designs of the HMS Trafalgar. This modern ship is quite powerful and if we are to retain our place as thee dominate power in the Pacific we must create a ship that can match it's strength." #NT!
+  
+ jappol.11.d: "To help secure the very survival of Japan's democratic government we must reform how the military operates. Currently many of our top generals operate autonomously far from the supervision of Tokyo and as such they have very little interest in parliamentary politics. While this state of affairs has allowed for our military and nation to achieve many stunning victories against our enemies it has also turned Japan into a nation that effectively has two conflicting governments. If we are to secure the stability of our nation we must reign in Japan's most ambitious commanders and install loyalists in their place." #NT!
+  
+ jappol.16.d: "The Police have recently just took in a soldier of the Imperial Japanese Navy who is suspected to be participating in a conspiracy against the democratic government. He has not leaked any information, but what this means is that the Navy is not discouraged despite the September 6 incident, where the Righteous Army's uprising was stopped. Now that we know of such conspiracy, we must start thinking of a solution to this, in order to safeguard democracy." #NT!
+  
+ jappol.17.d: "As the Diet notified the Emperor about the conspiracy, the Emperor has told the Diet that he intends to speak to both branches of the Military to, quote, 'Speak about the recent events'. The Diet is split on this measure, fearing that the speech may lead to criticism of the Emperor by the general public. Now if the Prime Minister agree to the speech, it may lead to either the Military giving up their plans for coups or the Emperor will be criticised. What do we do?" #NT!
+  
+ jappol.18.d: "Isoroku Yamamoto, one of the Admirals notified by the Imperial Diet, handed over the results of his investigation on the potential coup. He pulled his strings within the Imperial Japanese Navy and discovered plenty of officers and marines who were planning to coup later this year. He compiled a list of the officers and marines and gave it to the Imperial Diet. Now what will we do with this list of officers?" #NT!
+  
+ jappol.19.d: "Yesterday, a group of naval officers and marines took hold of the Parliament and took hostage of the legislators. They demanded that the current Prime Minister resign and let a militarist become the new Prime Minister. The Imperial Japanese Army refused to intervene and the civilian government can only give into these demands, putting the Imperial Japanese Navy in command of the Empire. What lies in front of the path of the empire is unknown, yet conflict is sure to come soon quickly." #NT!
+  
+ jappol.20.d: "With Yamamoto's report on the naval officers and marines, the Prime Minister has ordered the mass arrests of these traitors. This has stopped the potential coup at the cost of the personnel of the Navy. We must start recovery from this purge and reinforce the superiority of the democratic government over the two branches." #NT!
+  
+ japhep.1.d: "As the Imperial Conference of 1937 drew to a close, the British called for a conference with us so negotiations and discussions for the continuation of the Anglo-Japanese Alliance and other issues with Japan will continue. Delagations from Britain has reached Osaka and met for the first time today. Both delegations and governments are hopeful of this conference and wishes that both side will get what they want from the conference." #NT!
+  
+ japhep.2.d: "With uncertainty of the ability to provide resources and economic stability after the London Stock Market Crash, many Japanese companies have resorted to trading with other countries and companies, such as American products and German iron. The British Empire suffered a rather great hit to their trade and is not satisfied by this. The British Foreign Minister Anthony Eden has therefore decided to discuss with the Japanese delegate about such trade, namely imports and exports of the Japanese Empire." #NT!
+  
+ japhep.3.d: "As the British start to recover from the Stock Market Crash, many countries have abandoned the Gold Standard. The British delegates have told the Japanese delegates that the British government hopes to abandon the Standard or at least devaluate the Pound. The Japanese economic minister also supports such action. If we do this, we may be able to recover from the Stock Market Crash quicker." #NT!
+  
+ japhep.4.d: "The British delegates now said that the two Empires must band together for protection against unnamed threats that are on the rise. The British delegate is certain that if Japan announces to modify the Anglo-Japanese alliance to join in and support the British Empire in any upcoming conflict, the unspecified threat will doubt any potential attack on both empires. The problem is that, do we, or do we not, fulfil such action?" #NT!
+  
+ japhep.5.d: "With the 1937 temporal renewal of the Anglo-Japanese Alliance soon coming to an end, we have called for a summit with the Japanese. While that is one thing off the agenda, we are not sure how will the Japanese respond to this summit, seeing our numerous acts of aggression in the interwar years. What we are doing now is nothing more than a gamble, and we can only hope for the best." #NT!
+  
+ japhep.6.d: "With the London Stock Market Crash, many has lost much of their confidence in our economic stability and trade, many Japanese investors included. With an agreement, we can make them inclined to trade with us again with terms for guranteeing their trade and them being not affected with our tariffs. Hopefully these terms will be able to make them trade more with us again." #NT!
+  
+ japhep.7.d: "The Gold standard is our former economic standard, while we have our plans on the standard, we do not want any of our trade partners being unable to trade with us continuously, or we will just undo the trade agreement signed previously. We shall encourage them to abandon the Gold Standard." #NT!
+  
+ japhep.8.d: "Despite some disagreement on some terms, our delegates have reported that it may be suitable for us to ask for Anglo-Japanese Alliance. Perhaps the Japanese will finally want to continue our alliance, both for protection, or for deterrance." #NT!
+  
+ japhep.9.d: "With much greatness, we and Great Britain has put aside our disagreements and finished the discussion of the Hirota-Eden Pact. This pact shall show the greatness of diplomacy and ensure the success of both the Empire of Japan and the Empire of Great Britain." #NT!
+  
+ japhep.10.d: "Our delegates in Kyoto has reported back to Downing Street that the Japanese has accepted the extension of the Anglo-Japanese Alliance. This means that most of our hopes for the summit is fulfilled, despite most political councillors' conservative hopes. This will be the most influential conference in history. We shall rejoice at such event!" #NT!
+  
+ japhep.100.d: "Our government, before the new elections take place, hopes to solve the problem of the not-yet-terminated Anglo-Japanese Alliance. Right now the cabinet is undergoing heavy debates at Downing Street to renew the alliance temporarily for three years. Many throughout the government are concerned if this alliance will stay for long, especially when our actions have alienated quite a lot of our former allies." #NT!
+  
+ japhep.101.d: "Britain has just told our minister for foreign affairs that they wish to renew the Anglo-Japanese Alliance for three more years and it is up to us to decide whether or not the alliance will continue. The Navy and Army are supportive of the renewal, but the diet is divided for such action, as many acts by the British have alienated their former allies and made many enemies." #NT!
+  
+ japhep.102.d: "The Japanese Diet has sent a letter to the Foreign Office, saying that they have decided to renew the Alliance, following our proposal of a 3 year temporal renewal, until a complete discussion later. However, the letter has stated that numerous actions by the British Empire has conflicted with Japan and her interests. It will take a lot of actions by the British Empire to undo such acts of aggression against them." #NT!
+  
+ japhep.103.d: "The Japanese Diet has sent a letter to the Foreign Office, saying that they have decided to terminate the Alliance, against our proposal for a 3 year temporal renewal. The letter stated that too many acts of aggression was done by the British Empire against the Japanese empire and has influenced them to terminate the alliance due to not hoping to associate themselves with constant aggressors." #NT!
+  
+ japhep.104.d: "The British diplomat to us has just left us a letter, saying that it is in their nation's interests to terminate the Alliance, due to the overwhelming uncertainty posed by our actions, drifting away from the British interests, aligning ourselves with other nations. The Diet has not made any official comment on the letter currently." #NT!
+  
+ japhep.105.d: "As we enter [GetYear], one of the problems arise as the temporaily renewed Anglo-Japanese alliance comes to an end. With the 3 years ending without much conflict between the both nations, many think that this means the two nation's interests are once again, closer to each other. Quite a number of people support aligning Japan with us fully through inviting them to the Imperial Protection Alliance, but this must be done with thorough discussion." #NT!
+  
+ japhep.106.d: "The British diplomat entered the halls of the Foreign Ministry today, concerned, speaking of holding a conference between the two countries. It is sure that this conference will concern the fate of the Anglo-Japanese Alliance as the temporal renewal ends. The Diet is more optimistic towards holding the conference to discuss the fate of the Alliance. Perhaps it will go miraculously and we will be happy after all, or it may go poorly and both parties will go with a sour face." #NT!
+  
+ japhep.107.d: "Japan has notified our diplomat over there that they will not discuss the Alliance, still citing the noticible times where the British have went against the interests of Japan. Therefore, they will also terminate the alliance. The Foreign Minister has already announced that Britain will not try to attempt to keep Japan as a part of the Alliance." #NT!
+  
+ japhep.108.d: "Japan has notified our diplomat at Japan stating that they will terminate the Alliance immediately, citing the aggression of the British actions. The Foreign Minister has stated that the British Empire will not try to continue the alliance, stating 'A unpleasant alliance is against both nation's interests'. However, a number of our political advisors has advised against just letting go." #NT!
+  
+ japhep.109.d: "Britain has notified our diplomat to terminate the Alliance immediately, citing numerous unpleasant times of cooperation between the two nations, and how it is 'better for no relation than a mutually despiscing one'. Numerous political commentators are very suprised by Britain's actions, but have remained neutral on the issue." #NT!
+  
+ japsanfran.1.d: "Our intelligence sharing with the Americans was just in time. With us inviting them to a summit, they accepted and proposed to hold it in San Francisco. We shall decide a solution to the HMS Trafalgar and numerous other minor items. Now we shall participate immediately, without any doubts, as time is not on our side." #NT!
+  
+ japsanfran.2.d: "The Japanese's invitation of us to a summit about the naval problems and the pressing issue to HMS Trafalgar led to a summit in San Francisco. Now we shall participate to solve these issues. Now we must hold this summit as soon as possible, or our ships will be defeated easily." #NT!
+  
+ japsanfran.3.d: "After 18 years of the Washington Naval Treaty which limited both ours and the United States of America's shipbuilding, the British has launched the Super Heavy Battleship HMS Trafalgar which endangers both the American and the Japanese navy. We, the Japanese shall call for a summit to declare the end of the treaty and restart the fleet construction programs of both countries to ensure the security of our seas. If the Americans does not align with our cause, we must stop following them." #NT!
+  
+ japsanfran.4.d: "The Japanese delegates, on the first day of the Summit, has said that 'With the HMS Trafalgar, we must stop limiting our navies immediately' and called for the immediate termination of the Washington Naval Treaty, and instead, band together for naval technology sharing to catch up for the missing interwar naval development." #NT!
+  
+ japsanfran.5.d: "Due to our reliance on importing resources, we have mentioned that we should stop importing British goods and import more American goods. But if we embargo Britain and America embargoes us, our entire economy may stop functioning properly. To prevent this, we must sign an agreement with the United States. If this is signed, we can ensure this does not happen and the USA will always support us economically and resource-wise." #NT!
+  
+ japsanfran.6.d: "With the reliance of Japan on our exports, if we embargo them, their economy will be heavily damaged. Because of this, they have requested a trade treaty with them. With this trade treaty, we can lower our reliance of British goods. While they don't have the amount of resources Britain has, the less ties we have we the British, the less problems we will have when we go to war with them." #NT!
+  
+ japsanfran.7.d: "With Texas being basically ran by Standard Oil, we have little way to stop such monopoly. With the Japanese companies such as Mitsubishi and Kawasaki, these companies can contest the trust in Texas. We shall notify the Japanese delegates on this." #NT!
+  
+ japsanfran.8.d: "The Americans have notified us on Standard Oil, one of the largest Oil Companies on Earth, and their monopoly over the Texan Oil industry. In order to help counter the trust that John D. Rockafeller has, the American negotiator has asked us to promote investments by the Zaibatsus, such as Nippon Oil, into the American market. This deal would help Japan secure a stable source of US oil for our growing needs while the Americans would gain a much needed source of foreign capital." #NT!
+  
+ japsanfran.9.d: "With the evaluation done by the Department of Defense on Pacific bases, they have concluded that we need more allies in the Pacific to supply an army against any possible interests. Now with the San Francisco Summit, it is best for us to ask, since the Pacific Bulwark will be able to fight off any aggression." #NT!
+  
+ japsanfran.10.d: "Due to the lack of an American fortress in East Asia besides the Phillipines, which cannot fully support a full fleet of America or Guam, which is too small to supply a sized American army. If the Americans are allowed basing rights, in return we will also gain basing rights on American bases. While this might not be as well as an military alliance, this is just as good a deal." #NT!
+  
+ japsanfran.11.d: "The Department of Defence has recommended the president to quickly propose an coalition with the Japanese. While the edges still need to be worked out, we must ensure that Japan will be with us, or if they aren't, we shall defeat them sooner or later." #NT!
+  
+ japsanfran.12.d: "The American President, in response to the great acceptance to their proposals, have proposed one last add-on. The American-Japanese Alliance. The forged alliance will protect both Japanese and American interest in the Pacific, combating the British imperialism. The details will be discussed only if the Japanese agreed to the Alliance first." #NT!
+  
+ japsanfran.13.d: "The Japanese have accepted the Great Pacific Treaty! With this known, many throughout the government rejoice! With this, it is sure that the Japanese will become a definite ally of us. This means that our grand pacific alliance will be able to protect the interests of our own, no matter what." #NT!
+  
+ japsanfran.14.d: "As negotiation talks break down, the Japanese has declared that they will not be limited by this treaty, in one way or another. Now this will mean that war will come, no body is sure, but what is sure is that the Washington Naval Treaty will no longer be valid." #NT!
+  
+ japele.1.d: "The Election of 1936 is here. As usual, only Rikken Minseitō and Rikken Seiyūkai are competeting to be elected. This year Minseitō promised for more rights for workers while Seiyūkai hopes to modernise the railway systems. The election seems to be neck and neck and no one seems to be able to win completely. Who will win this year?" #NT!
+  
+ japele.2.d: "As the new Parliament starts to draft a new budget for the upcoming two years, the both branches of the Military are asking for the priority. We only have enough money for one of the two branches, so who shall we provide it to? The staggering army needs extra funding for expansion to ensure the security of our overseas possessions and research? Or the aging navy of which many ships have aged and needs modernisation and improvements completed soon?" #NT!
+  
+ japele.3.d: "The Elections of 1938 is here. With the many crisis we have gone against, we shall choose a new and strong government. Minseitō has been calling for more rights for workers, while Seiyūkai wishes to in" #NT!
+  
+ japtraf.5.d: "Our spies have reported to our Naval Attache in Britain that a new battleship is on trial, named HMS Trafalgar. Not just any normal battleship. She is a super heavy battleship, armed with brand new, state-of-the-art 18 inch guns, unopposed armor and an unrivaled amount of Anti-Air armament. She is so powerful, that one of her can rival 3 or 4 battleships, freeing up capital ships for the British home waters and threaten our naval supremacy in the Asian seas. We shall notify our American allies and decide our action on it." #NT!
+  
+ jap.44.d: "As the sea trials of HMS Trafalgar continue, our Admirals panic at such a balance disrupting design so out of the blue. With some of the admirals pulling themselves together, they have written a request for a discussion within the diet. While this directly bypasses the parliament, the diet seems to not care in such time of importance. Now, with the diet finally assembled to discuss our response to such the act, we can truly decide our actions. Some in the admiralty suggest requesting the British foreign ministry for the design, while some suggest stealing it. What shall we do now?" #NT!
+  
+ jap.45.d: "Our Foreign Office has just received a letter from the Japanese Diet, requesting that us give the Japanese navy a duplicate for the design for our state-of-the-art flagship, HMS Trafalgar. The Admiralty is currently hosting a fierce debate for the confidentiality of our trials, while both houses of the government are hosting debates just as fierce for whether or not we should hand over the designs. If we do, we can be sure that Japan will be building a ship of roughly the same displacement and analyise the weaknesses of our design, but if we don't, we will be damaging our relationship heavily. Do we risk it or not?" #NT!
+  
+ jap.46.d: "A messenger from the Admiralty has just reached the Foreign Office, swearing as he bust into the halls of the office, informing the Foreign Secretary about the arrest of a \"sneaky bugger lurking inside the Admiralty, near the archives\". The lurker is believed by both the Scotland Yard and the Admiralty as an spy for the Japanese government, our supposed ally. Now we do not have a suitable respond just yet, but we shall accuse the Japanese for shady actions for some mere designs!" #NT!
+  
+ jap.47.d: "Our foreign ministry has just received a document from the British diplomat, saying that it is an 'early Christmas Present' and 'the Admiralty will love it'. After analyzing, it seems that the document is the design for HMS Trafalgar. The Admiralty is very glad for the design and has started assembling a Committee for the analysis for the design. We shall send the British our utmost gratitude." #NT!
+  
+ jap.49.d: "Bakayaro! Our spy who was sent to steal the designs of Trafalgar was caught, and the British are accusing us of provoking aggression and the British populace is up in arms! The most outrageous nationalistic claims of us say that we are harboring imperialistic hopes and warmonging beliefs, while the most reasonable are still biased towards the British. The Diet has already offered an official apology for the indecent act of the thief, while denying any possible connections to him. This has gone very badly despite the high expectations of the operation planners." #NT!
+  
+ jap.50.t: "Joining the Japanese Sphere" #NT!
+ jap.50.d: "For months already, the Japanese have expressed their aggressive ambitions towards our colonial lands as part of their expansionist policies. Today, the Japanese ambassador has presented us an ultimatum: They demand that we become a protectorate of the Empire, or else we will face the full might of the Imperial Japanese Military..." #NT!
+ jap.50.a: "Agree to their demands." #NT!
+ jap.50.b: "Don't even bother answering." #NT!
+  
+ jap.51.d: "We just recently joined the ranks of the Imperial Protection Alliance, but many think we do not belong and are of inequal footing to them. For the sake of a lasting relationship, we must start securing our place in the alliance. But many in the government are debating on how should we secure our place. Our most obvious ways is to persue more economic cooperation inside the Imperial Protection Alliance, or to persue more military cooperation by trading military technology." #NT!
+  
+ jap.52.d: "The Japanese diplomat has just met with the Foreign Secretary and shown Japan's hopes for persuing further economic cooperation, by more mutual economic trade and investments. He claims this is due to the dissentient by other allies. They have already started drafting a proposal for economic investment, ranging from new steam locomotives and new civilian planes to brand new shipping route services. The Japanese are very keen for securing their place in the Alliance as an integral part, inseperable." #NT!
+  
+ jap.53.d: "The Japanese diplomat has just met with the Foreign Secretary to discuss Japan's hopes for persuing further military cooperation. He claims that this is due to dissentient by other allies. The two Foreign ministers have discussed how can the two cooperate further. Some concepts include some war games in different terrain to further train the troops in different terrain and exchanging advisors for doctrine development. The Japanese are very keen for securing their place in the Alliance as an integral part, inseperable." #NT!
+ jap.54.t: "Japan Seizes Guam" #NT!
+ jap.54.d: "With America in turmoil, Japan has moved onto the island of Guam and other pacific territory. There is very little that the US government can do to stop Japan at this point." #NT!
+ jap.54.a: "We'll get them back" #NT!
+  
+ jap.55.t: "[FROM.GetNameDefCap] Surrenders!" #NT!
+ jap.55.d: "Seeing the might of our forces, [FROM.GetNameDef] had no chance but to submit before the brave sons of the empire!" #NT!
+ jap.55.a: "A wise choice..." #NT!
+  
+ jap.56.t: "[FROM.GetNameDefCap] Resist!" #NT!
+ jap.56.d: "[FROM.GetNameDefCap] are resisting our demands, believing that the [USA.GetAdjective]s will come to their rescue. We should make them pay for this in blood." #NT!
+ jap.56.a: "We will destroy them." #NT!
+ jap.56.b: "Drop the matter." #NT!
+  
+ jap.57.t: "[FROM.GetNameDefCap] Begs for Help!" #NT!
+ jap.57.d: "Japan is pounding at the door of [FROM.GetNameDef], and they have come to us begging for assistance. Should we respond?" #NT!
+ jap.57.a: "Offer our protection" #NT!
+ jap.57.b: "We cannot stretch ourselves so far." #NT!
+  
+ jap.58.t: "The Tokyo-Berlin Axis" #NT!
+ jap.58.d: "In our quest to overturn the unjust Entente world order, it appeared that we would have to stand alone in such a grand and dangerous journey. Yet, it seems that the nations of the world are beginning to awake to the reality of the degenerate liberal world order. Recently, we have received a request from the rising Empire of Japan on the prospects of further collaboration and even of an alliance to once and for all smash western hegemony to pieces. Whilst this is a tempting offer, we must consider the great distance between our two nations and the fact that German hegemony must come first once all is said and done." #NT!
+ jap.58.a: "The world shall tremble at our collective might!" #NT!
+ jap.58.b: "This is far too risky..." #NT!
+  
+ jap.59.t: "[FROM.GetName] refuses!" #NT!
+ jap.59.d: "Despite our sincere attempt to secure aid in the liberation of Asia, it seems the dastardly Germans have refused, citing nonsensical excuses such as inopportune global conditions and the great distance between our two countries. Nevertheless, this will serve as a lesson to never trust Europeans." #NT!
+ jap.59.a: "Only Asians can liberate Asia." #NT!
+  
+ jap.60.t: "From an Axis to Allies" #NT!
+ jap.60.d: "As war rages throughout the world, Germany seemingly stands alone. With inferior powers at our beckon and our foes growing ever stronger and numerous, it cannot be doubted just how necessary a worthy ally would be. It seems however that salvation has arrived from the East, with our mutual prosecution of the war against the same enemies, Tokyo has asked that we cooperate ever more closely for the final victory against the old order." #NT!
+ jap.60.a: "The time has come..." #NT!
+ jap.60.b: "...for Tokyo to see reality." #NT!
+ jap.60.b.tt: "§RTokyo will be rebuffed from their laughable proposition§!" #NT!
+  
+ jap.61.t: "The Axis Alliance" #NT!
+ jap.61.d: "In perhaps what should have been expected, but still surprising announcement from Berlin, we have learned that Germany has joined us in our mission to free Asia. Together, the old powers will quake in their boots as the enlightened, superior peoples of Germany and Japan smash their hordes into dust!" #NT!
+ jap.61.a: "Together, the world shall be free of Western hegemony!" #NT!
+  
+ jap.62.t: "A Rude Awakening" #NT!
+ jap.62.d: "It seems that despite our mutual attempts to pursue greater cooperation, the Germans have refused our offer! Such a refusal has put relations at a standstill and many are lamenting this failure to cooperate against undoubtedly greater foes." #NT!
+ jap.62.a: "Damn them!" #NT!
+  
+ jap.63.t: "The End of the Axis" #NT!
+ jap.63.d: "With the defeat of the old order in Asia, it seems that Japan has opted to leave the Germans behind. From now on, colonialism shall not subjugate nor rule Asia - with Japan leading the rest of us into this new future." #NT!
+ jap.63.a: "Asia can now prosper." #NT!
+ jap.63.b: "We shall go our own way." #NT!
+  
+ jap.64.t: "The Loss of the Far East" #NT!
+ jap.64.d: "Despite all that we have done, our war effort in the Far East has become totally grim. With all of our allies in Asia having been defeated and our territories occupied, along with the diminishing prospect of any return to the Far East in a military sense and the realistic inability for the Japanese to strike us in Europe, many have decided that the time for peace has come." #NT!
+ jap.64.a: "It is over..." #NT!
+ jap.64.b: "Never!" #NT!
+ jap.64.c: "We must consult our ally first!" #NT!
+  
+ jap.65.t: "Peace in the East?" #NT!
+ jap.65.d: "With the war in the Far East appearing lost, [FROM.GetNameDef] has consulted us on whether or not the time for peace has come. Whilst a minority of diehards may suggest that all resources be thrown into continuing the struggle, most can agree that such an idea is at best, futile." #NT!
+ jap.65.a: "So be it." #NT!
+ jap.65.b: "Ridiculous!" #NT!
+  
+ jap.66.t: "A Telegram from [FROM.Capital.GetCapitalVictoryPointName]" #NT!
+ jap.66.d: "We have just received news from [FROM.GetNameDef] that they are willing to surrender their Far East holdings to us, allowing us and their other foes in the Far East to divide up the spoils of their imperial system." #NT!
+ jap.66.a: "Excellent!" #NT!
+ jap.66.b: "We shan't rest until we march in [FROM.Capital.GetCapitalVictoryPointName]!" #NT!
+  
+ jap.67.t: "The War Continues" #NT!
+ jap.67.d: "In spite of our evacuation of the Far East, [FROM.GetNameDef] has refused to give up, insisting on continuing the war until they see us humiliated in our own capital!" #NT!
+ jap.67.a: "Unfortunate..." #NT!
+  
+ jap.68.t: "Defeat in the Pacific" #NT!
+ jap.68.d: "In spite of our best efforts, there is little denying that we have lost the war in the Pacific. The Japanese, now holding a significant advantage both navally and strategically have proven able to hold out against our onslaught despite their numerical inferiority.\n\nWith the war turning ever worse for us, many in Congress are now calling for us to leave the war and let the Japanese have Asia. Whilst this will undoubtedly deal a crippling blow to our ability to project power in Asia and beyond, many fear what will come if the Japanese are encouraged to grow stronger and stronger in the face of our flailing attempts to strike back." #NT!
+ jap.68.a: "Those bastards can have the Pacific." #NT!
+ jap.68.b: "We will not let these mice terrify us into submission!" #NT!
+ jap.68.c: "Let us consult our European allies first." #NT!
+  
+ jap.69.t: "America Laid Low" #NT!
+ jap.69.d: "With the defeat of the old order in Asia, it seems that Japan has opted to leave the Germans behind. From now on, colonialism shall not subjugate nor rule Asia - with Japan leading the rest of us into this new future." #NT!
+ jap.69.a: "Banzai!" #NT!
+ jap.69.b: "We look forward to dictating peace in the White House." #NT!
+  
+ jap.70.t: "The Giant Falls" #NT!
+ jap.70.d: "Whilst we still continue to hold out against the Japanese menace, it seems that the United States have opted to withdraw from the war in Asia. Having doubtlessly served as a crucial ally in the war against Japan, it seems that the Japanese pressure was too much for the Americans to handle and now we are left alone to deal with the Asian menace.\n\nWith America defeated, our remaining allies in Asia have lost hope. If the world's greatest economy cannot resist Japanese aggression, who can?" #NT!
+ jap.70.a: "This is not good..." #NT!
+  
+ jap.71.t: "American Withdrawal?" #NT!
+ jap.71.d: "With the Japanese having achieved victory after victory in Asia, it seems that the Americans have been brought to the brink. Recently, a telegram from Washington has requested that we allow them to withdraw seperately from the conflict - to cut losses in the unwinnable war against Japan so to speak. Whilst this will prove severely damaging to our war effort in Asia, perhaps they do have a point in leaving the Japanese be so that we can focus on continents closer to home." #NT!
+ jap.71.a: "Fine." #NT!
+ jap.71.b: "Tell them that they can count on our help." #NT!
+  
+ jap.72.t: "[FROM.GetNameDef] refuses!" #NT!
+ jap.72.d: "Despite our hopes of their acceptance, it seems that our ally has under no circumstances accepted peace in the Far East. It seems that it now remains on us to appear traitorous and ask for peace anyways or to continue the war that is by all accounts seemingly at a impasse." #NT!
+ jap.72.a: "Oh well." #NT!
+ jap.72.b: "Forget that we asked." #NT!
+  
+ jap.73.t: "Demands From Tokyo" #NT!
+ jap.73.d: "With the fall of the homeland, the vultures have begun to circle around the French empire. Most worryingly for us, the Japanese have come knocking - their demands essentially amount to their takeover of the colony. While we would remain de jure in-charge, Tokyo would become the main party sending us orders and demands. While resistance is possible, we will likely be cut off if we do so alone as the metropole is in no position to aid us - what shall we do?" #NT!
+ jap.73.a: "We have little choice..." #NT!
+ jap.73.b: "We will never disgrace ourselves!" #NT!
+  
+  
+ ###Tooltips### 
+ jap_us_excercise: "Unlocks decisions to call military excercises with the United States" #NT!
+ jap_spawn_korean_units_2: "Spawns §Y2§! fully equipped §YKorean Volunteer§! units" #NT!
+ jap_spawn_korean_units_3: "Spawns §Y3§! fully equipped §YKorean Volunteer§! units" #NT!
+ jap_spawn_588_bombers: "Spawns the §Y588 Bomber Squadron§! in Sulawesi" #NT!
+ JAP_brothers_tip: "Either we or a puppet own any state in §YFrench Indochina§!" #NT!
+ JAP_korean_tip: "Owns any state in §YKorea§!" #NT!
+ JAP_usa_intervene_tt: "§RThe [USA.GetName] are very likely to intervene.§!" #NT!
+ JAP_usa_faction_tt: "We will setup an alliance between us and §G[PHI.GetNameDef]§!" #NT!
+ JAP_no_tripartite: "§RWe will not be able to pursue an alliance with the Stahlpakt any further§!" #NT!
+ JAP_GER_tripartite: "§GGermany has agreed to cooperate with us§!" #NT!
+ JAP_they_will_axis: "§GFor the remaining duration of the war, we and Japan will fight side-by-side until all of our enemies are defeated; at which point they may choose to leave the faction.§!" #NT!
+ asian_entente_dies: "§YAll members of the Entente in Asia will have their fate decided by the victors.§!" #NT!
+ ### peace stuff 
+ asian_entente: "Asian Entente" #NT!
+ asian_commonwealth: "Asian Commonwealth" #NT!
+ asian_usa_sphere: "American Pacific" #NT!
+ ENG_east_asia: "British East Asia" #NT!
+ FRA_east_asia: "French East Asia" #NT!
+ USA_east_asia: "American East Asia" #NT!
+ all_east_asia: "South Seas Territories" #NT!
+  
+ #####Ideas##### 
+  
+ jap_war_propoaganda: "War Propaganda" #NT!
+ jap_the_long_lance: "The Long Lance" #NT!
+ jap_expanded_the_snlf: "Expanded the SNLF" #NT!
+ jap_spiritual_mobilization: "Spiritual Mobilization" #NT!
+ jap_improved_naval_artilery: "Improved Naval Artillery" #NT!
+ jap_imperial_battleship_academy: "Imperial Battleship Academy" #NT!
+  
+ jap_imperial_naval_aviation_academy: "Imperial Naval Aviation Academy" #NT!
+ jap_improved_pilot_training: "Improved Pilot Training" #NT!
+ jap_specialised_dive_bomber_pilot: "Specialised Dive Bomber Pilots" #NT!
+ jap_imperial_army_aviation_academy: "Imperial Army Aviation Academy" #NT!
+ jap_improve_bomber_pilot_training: "Improved Bomber Pilot Training" #NT!
+ jap_inaa_idea: "Imperial Naval Aviation Academy" #NT!
+ JAP_duplicate_research_efforts: "Duplicate Research Effort" #NT!
+ jap_wnt: "Washington Naval Treaty" #NT!
+ jap_wnt_desc: "The Washington Naval Treaty was signed in 1921 and limited the ship building of the United States and Japan. The treaty limited the displacement of any new vessels and the armaments of any new battleships of the two signatories. The British stopped laying down new ships as the Americans and Japanese stopped, thus preventing a new arms race." #NT!
+ JAP_gunbatsu: "Gunbatsu" #NT!
+ JAP_gunbatsu_desc: "Gunbatsu is the direct result of the factionalism that takes place in the Imperial army, constant rivalry between the navy, army, and the state, thus cutting off diplomatic solutions and communications over all. Foreign policies and internal affairs are damaged due to this and it seems that this tension is very fragile, the Emperor must find a solution to this!" #NT!
+ jap_LSMC_conquered: "Revival of Japan" #NT!
+ jap_liberation: "Japanese Liberation" #NT!
+ JAP_fund_terrorists: "Japanese Funding of Terrorism" #NT!
+ JAP_militarism_strengthened: "Infantry Hambatsu" #NT!
+ jap_union_suppressed: "Removal of Strikes" #NT!
+ jap_uk_shipbuilding_contest: "Anglo-Japanese Naval Rivalry" #NT!
+ jap_finalisation_of_treaty: "Finalisation of the Treaty" #NT!
+ jap_us_naval_competition: "Menace Across The Sea" #NT!
+ JAP_LSMC_complete: "London Stock Market Crash" #NT!
+ JAP_LSMC_stage1_rec: "London Stock Market Crash - Stage 1 Recovery" #NT!
+ JAP_LSMC_stage2_rec: "London Stock Market Crash - Stage 2 Recovery" #NT!
+ JAP_LSMC_stage3_rec: "London Stock Market Crash - Stage 3 Recovery" #NT!
+ JAP_LSMC_stage4_rec: "London Stock Market Crash - Stage 4 Recovery" #NT!
+ JAP_LSMC_stage5_rec: "London Stock Market Crash - Stage 5 Recovery" #NT!
+ JAP_incorporate_korea_1: "Korean Incorporation - Immediate" #NT!
+ JAP_incorporate_korea_2: "Korean Incorporation - Balanced" #NT!
+ JAP_incorporate_korea_3: "Korean Incorporation - Slowly" #NT!
+ JAP_bank_loans: "Wealth Tax Act" #NT!
+ JAP_interservice_rivalry_army_dominant: "Interservice Rivalry - Dominant" #NT!
+ JAP_interservice_rivalry_army_bolstered: "Interservice Rivalry - Bolstered" #NT!
+ JAP_interservice_rivalry_army_strengthened: "Interservice Rivalry - Strengthened" #NT!
+ JAP_interservice_rivalry_army_preferred: "Interservice Rivalry - Preferred" #NT!
+ JAP_interservice_rivalry_balanced: "Соперничество в войсках – баланс"
+ JAP_interservice_rivalry_balanced_desc: "The Japanese military is factionalised into two factions. The army, and the navy. Both factions struggle over resource and funding, and have mutual hate for each other. Their plans of expansion are in direct opposite to each other. If we must expand, we must decide on which faction to ally with, or the factions will continue to struggle for supremacy." #NT!
+ JAP_interservice_rivalry_navy_preferred: "Interservice Rivalry - Dominant" #NT!
+ JAP_interservice_rivalry_navy_strengthened: "Interservice Rivalry - Strengthened" #NT!
+ JAP_interservice_rivalry_navy_bolstered: "Interservice Rivalry - Bolstered" #NT!
+ JAP_interservice_rivalry_navy_dominant: "Interservice Rivalry - Dominant" #NT!
+ jap_purged_naval_staff: "Naval Staff Purged" #NT!
+ jap_weakened_naval_staff: "Naval Staff Weakened" #NT!
+ jap_purged_army_staff: "Army Staff Purged" #NT!
+ jap_wealth_tax_act: "Wealth Tax Act" #NT!
+ jap_break_wnt: "Washington Naval Treaty - Broken" #NT!
+ jap_prioritise_shipbuilding: "Shipbuilding Prioritised" #NT!
+ JAP_break_wnt_secretly: "Washington Naval Treaty - Secretly Broken" #NT!
+ JAP_divert_resources: "Diverted Resources" #NT!
+ jap_ship_building_act: "Ship Building Act" #NT!
+ jap_housing_act: "Public Housing Act" #NT!
+ jap_banking_reform_act: "Banking Reform Act" #NT!
+ jap_social_security_act: "Social Security Act" #NT!
+ jap_new_union_deal: "New Deal with Unions" #NT!
+ jap_work_for_all: "Work for All campaign" #NT!
+ jap_taishuto_zaibatsu_deal: "Deal with the Zaibatsus" #NT!
+ jap_martial_law: "Martial Law Act" #NT!
+ jap_iraa_idea: "Taisei Yokusankai" #NT!
+ jap_devaluation_act: "Devaluation Act" #NT!
+ jap_chinese_army_idea: "Chinsai Army" #NT!
+ jap_indochina_cooperation: "Freed Indochina" #NT!
+ #jap_research_for_allies: "Balanced Doctrine" #NT!
+ jap_united_against_red: "United Against the red" #NT!
+ jap_rus_cooprosperity: "Russo-Japanese co-prosperity" #NT!
+ jap_kor_project: "Korean Project" #NT!
+ jap_chi_project: "Chinese Project" #NT!
+ jap_air_companies: "Japanese Plane Companies" #NT!
+ jap_three_race_prosperity: "Three race Prosperity" #NT!
+ jap_armies_standardized: "Army Standardized" #NT!
+ jap_anti_british_sentiment: "Anti-British Sentiment" #NT!
+ jap_combined_cosc: "Combined Chief of Staff Committee" #NT!
+ jap_jcosc: "Joint Chief of Staff Committee" #NT!
+ # jap_united_under_the_emperor: "United Under the Emperor" #NT!
+ jap_empirical_hopes: "Imperial Hopes" #NT!
+ jap_improved_bomber_pilot_training: "Improved Bomber Pilot Training" #NT!
+ JAP_militarism_stronghold: "Militarism Stronghold" #NT!
+ jap_improved_military_training_base: "Improved Military Training" #NT!
+ jap_improved_officer_training: "Improved Officier Training" #NT!
+ jap_zaibatsu_limited: "Zaibtasus Limited" #NT!
+ jap_mutual_investments: "Mutual Investments" #NT!
+ jap_military_advisors: "Military Advisors" #NT!
+ jap_training_war_games: "Training War Games" #NT!
+ jap_lowered_exports: "Limited Exports to the USA" #NT!
+ jap_fifth_fleet_expansion_idea: "Fifth Fleet Expansion" #NT!
+  
+ ##FX 
+ # Trait 
+ chancellor_of_state: "Daijo-daijin (Chancellor of State)" #NT!
+ the_just_shogun: "The Just Shogun" #NT!
+ JAP_demon_lord_in_disguise: "Demon Lord in Disguise" #NT!
+ JAP_yamato_ogosho: "Yamato Ogosho" #NT!
+ # Ideas 
+ JAP_great_council_of_state_idea: "[ROOT.GetPrimeMinister]" #NT!
+ JAP_local_cooperative_center_ideas: "Local Cooperative Center" #NT!
+ JAP_local_cooperative_center_imperial_diet: "Local Cooperative Center: Diet Dominated" #NT!
+ JAP_local_cooperative_center_coop_directory: "Local Cooperative Center: Directory Dominated" #NT!
+ JAP_shinjidai_idea_0: "Shinjidai Reform: First Step" #NT!
+ JAP_shinjidai_idea_1: "Shinjidai Reform: Another Goal" #NT!
+ JAP_shinjidai_idea_2: "Shinjidai Reform: On the Way of Prosperity" #NT!
+ JAP_shinjidai_idea_3: "Shinjidai Reform: Future of Japan" #NT!
+ JAP_kyujidai_idea_0: "Kyujidai Reform: First Step" #NT!
+ JAP_kyujidai_idea_1: "Kyujidai Reform: Echoes of Ancient" #NT!
+ JAP_kyujidai_idea_2: "Kyujidai Reform: The Shogun's Throne" #NT!
+ JAP_kyujidai_idea_3: "Kyujidai Reform: Toward the Nostalgic Period" #NT!
+ JAP_nagasaki_tribunal_a1b1c1: "The Great Protocal of Nagasaki Supreme Tribunal" #NT!
+ JAP_nagasaki_tribunal_a1b1c2: "The Great Protocal of Nagasaki Supreme Tribunal" #NT!
+ JAP_nagasaki_tribunal_a1b2c1: "The Great Protocal of Nagasaki Supreme Tribunal" #NT!
+ JAP_nagasaki_tribunal_a1b2c2: "The Great Protocal of Nagasaki Supreme Tribunal" #NT!
+ JAP_nagasaki_tribunal_a2b1c1: "The Great Protocal of Nagasaki Supreme Tribunal" #NT!
+ JAP_nagasaki_tribunal_a2b1c2: "The Great Protocal of Nagasaki Supreme Tribunal" #NT!
+ JAP_nagasaki_tribunal_a2b2c1: "The Great Protocal of Nagasaki Supreme Tribunal" #NT!
+ JAP_nagasaki_tribunal_a2b2c2: "The Great Protocal of Nagasaki Supreme Tribunal" #NT!
+ JAP_first_amongs_equal: "Man of His Men" #NT!
+ JAP_strong_asian_democracy: "Strong Asian Democracy" #NT!
+ JAP_deconfuciused_education_reform_idea: "Deconfuciused Education Reform" #NT!
+ JAP_seigaku_reform_idea: "Seigaku Education Reform" #NT!
+ JAP_universal_right_idea: "Universal Suffrage Edict" #NT!
+ JAP_to_the_new_golden_age_idea: "To the New Golden Age" #NT!
+ JAP_separation_command_1: "Separation of Command" #NT!
+ JAP_separation_command_2: "Separation of Command" #NT!
+ JAP_intelligence_service_shogun: "Court of Hidden Ones (Shuumatsu-in)" #NT!
+ JAP_plant_the_shogunate_loyalty: "Plant the Shogunate Loyalty" #NT!
+ JAP_to_our_nostalgic_period_idea: "To Our Nostalgic Period" #NT!
+ JAP_Tokyo_Market_slowly_restore: "Tokyo Market Recovery" #NT!
+ JAP_fallen_god: "The Fallen God" #NT!
+ JAP_tokugawa_authority_0: "Weakened Tokugawa Authority" #NT!
+ JAP_tokugawa_authority_1: "Recovered Tokugawa Authority" #NT!
+ JAP_tokugawa_authority_2: "Strengthened Tokugawa Authority" #NT!
+ JAP_tokugawa_authority_3: "Absolute Tokugawa Authority" #NT!
+ JAP_quickening_military_production: "Quickening Military Productions" #NT!
+ JAP_tanegashima_league: "Tanegashima League" #NT!
+ JAP_izumo_industrial_league: "Izumo Industrial League" #NT!
+ JAP_naval_force_expand: "Expansion of Shogunal-Imperial Navy" #NT!
+ JAP_thalassocratic_shogunate: "Thalassocratic Shogunate" #NT!
+ JAP_mil_tech_boost: "Land Strategic Institute" #NT!
+ JAP_foreign_liaison_office: "Foreign Liaison Office" #NT!
+ JAP_comintern_far_east_office: "ComIntern Cooperative Office" #NT!
+ JAP_overseas_affairs_office_idea: "Oversea Affairs Office" #NT!
+ JAP_beating_the_war_drum: "Beating the War Drum" #NT!
+ JAP_land_reform_plan_0: "Land Reform" #NT!
+ JAP_land_reform_plan_1: "Land Reform" #NT!
+ JAP_land_reform_plan_2: "Land Reform" #NT!
+ JAP_land_reform_plan_3: "Land Reform" #NT!
+ JAP_shikkenate_labour_act: "Labour Standard Revision Act" #NT!
+ JAP_shikkenate_labour_act_1: "Labour Standard Revision Act" #NT!
+ JAP_shikkenate_labour_act_2: "Labour Standard Revision Act" #NT!
+ JAP_maximum_industrial_capacity_activated: "Maximize Industrial Capacity: §GActivated§!" #NT!
+ JAP_regulated_market_policy_idea_0: "Regulated Market Policy" #NT!
+ JAP_regulated_market_policy_idea_1: "Regulated Market Policy" #NT!
+ JAP_teardown_the_zaibatsu_0: "Zaibatsu in Crisis" #NT!
+ JAP_teardown_the_zaibatsu_1: "Economic Integralism" #NT!
+ JAP_manipulator_of_trade: "Manipulator of Trade" #NT!
+ JAP_jakuniku_kyoushoku: "Jakuniku Kyoushoku; §tThe Laziness is No More§!" #NT!
+ JAP_patriotic_education: "Patriotic Core Curriculum" #NT!
+ JAP_amfa_0: "Academic Monetary Funding Act" #NT!
+ JAP_amfa_1: "Universal Research Institute" #NT!
+ JAP_raise_the_rising_sun_flag: "Raise the §RRising Sun§! Flag" #NT!
+ JAP_shinkansen_project: "Shinkansen Project" #NT!
+ MEC_member: "Member of Manchurian Economic Corridor" #NT!
+ JAP_reformed_mantetsu: "Reformed Mantetsu" #NT!
+ JAP_nana_dai_keikaku: "Nana Dai Keikaku" #NT!
+ JAP_holy_workers_policy_act: "Holy Workers' Act" #NT!
+ JAP_holy_voice_radio: "Holy Voice Radio" #NT!
+ JAP_ministry_true_faith: "Ministry of True Faith" #NT!
+ JAP_bureau_ftip: "Bureau of Faith Inquest and Purify" #NT!
+ JAP_tuned_to_the_blessing_sounds: "Tuned To the Blessing Sounds" #NT!
+ JAP_spirit_of_bodhisatva_idea: "Spirit of Bodhisatva" #NT!
+ JAP_indochinese_guerilla_riot: "Indochinese Guerilla Riots" #NT!
+ #Redux Tree 
+ JAP_alliance_triumphant: "Domei Triumphant" #NT!
+ JAP_alliance_triumphant_desc: "The new Hokubu Domei is finally successfull with its honourable goal to cast down the wrong pretenders strangeling. Our proud nation won't beneath the boot of the military puppets within the false government. We will restore our true Japanese democracy under the wise guide of our benevolent leader, Tokugawa Iesato. He will lead our nation into a free and prosperous future." #NT!
+ JAP_great_council_of_state: "Daijo-kan" #NT!
+ JAP_great_council_of_state_desc: "The Daijo kan was the highest organ of the old Japanese Imperial Government.  We will restore the Institution to its former glory which will involve all aspects of its legal code and governing structure. This will secure the stability and effectiveness of our government in the future to come. " #NT!
+ JAP_restore_ritsuryo: "Restore Ritsuryo Code" #NT!
+ JAP_restore_ritsuryo_desc: "The old Ritsuryo Code was established as a law system based on Confucianism and Chinese Legalism in our great Empire. It was a rigorous adminsitrative system wich defined both the criminal code and the administrative code. Together with the restoration of the Daijo-kan, we should return to this old imperial legal system upon which the very foundation of our imperial legacy was built. It is necessary that we reform and restore this codex into a new modern institution that will guide oir nation forwards." #NT!
+ JAP_empower_shogunal_authority: "Empower Shogunal Authority" #NT!
+ JAP_empower_shogunal_authority_desc: "The Shogun has served as the protector of Japan for ages and our nation saw a almost unparalleled golden age under the last Shogunate. We need to amend the mistakes of the past and empower the Shogun to lead our nation again into a better future." #NT!
+ JAP_kyujidai_doctrine: "Kyujidai Reform" #NT!
+ JAP_kyujidai_doctrine_desc: "The Kyujidai Reform is our great plan to reform our government along the lines of the old japanese system during the feudal era. We will bring these ideas that served as a stable foundation of our state for centuries into our new future and modernize the concept for modern times. These great reforms will lead to a truely prosperous and truely japanese state free of western influences." #NT!
+ JAP_shinjidai_doctrine: "Shinjidai Reform" #NT!
+ JAP_shinjidai_doctrine_desc: "The Shinjidai Reform is our great plan to reform our government along the lines of the Westminster Parliamentary System in Great Britain. It intends to create a upper and lower house, with the lower beign elected by the people. This will mean begin our transition towards the goal of a new asian democracy." #NT!
+ JAP_supreme_tribunal_of_nagasaki: "Supreme Tribunal of Nagasaki" #NT!
+ JAP_supreme_tribunal_of_nagasaki_desc: "After the victory of Second Northern Alliance in the political turmoil, which plagued our nation, the Councilors in Daijo-kan, led by Tokugawa Kuniyuki, together with the Diet of Japan, are urging the Shogunate to open a provisional tribunal to get rid of the hardliners of the Nationalists and Royalists and decide the fate of Imperial Navy. We will make sure that justice is brought swiftly to these unruely elements of society to secure the new state of affairs." #NT!
+ jap_nagasaki_court_tt: "§YOnce your decision is chosen, you will get the following bonus: \n§!" #NT!
+ JAP_the_ultranationalists: "Case: The Ultranationalists" #NT!
+ JAP_the_ultranationalists_desc: "The hardliners of the nationalist block were always a thorn in our side, they are opposed to most of our reform programs and undermine us whenever possible tho their power will surely fade on its own, we need to take action now. To avoid further internal strife and escalation we need to finaly and conclusively decide on how to deal with these unruly elements" #NT!
+ jap_ultranat_effect_1_tt: "Political Power Gain: §R-4%§! \nStability: §G+5%§!" #NT!
+ jap_ultranat_effect_2_tt: "Stability: §R-5%§! \nWar Support: §G+5%§!" #NT!
+ JAP_admiralty_question: "Motion: The Admiralty" #NT!
+ JAP_admiralty_question_desc: "The admiralty of IJN has been questioned recently, Tokugawa Kuniyuki wants to take command of the fleet himself, while many within the Daijo-kan want to subject the navy to the supreme command of the Shogun, like it was already done with the army. We need to settle this dispute now to avoid future conflicts in the chain of command or even worse, treachery. While many things speak for a unified command of the army and navy under the Shogun, Tokugawa Kuniyuki is no doubt a skilled officer and would be a powerfull ally of the state." #NT!
+ jap_admiralty_effect_1_tt: "Daily Command Power Gain: §G10§! \nChief of Navy Cost: §R+5%§!" #NT!
+ jap_admiralty_effect_2_tt: "Chief of Navy Cost: §G-5%§! \nNavy Experience Gain: §G2§!" #NT!
+ JAP_the_ultraroyalists: "Case: The Ultraroyalists" #NT!
+ JAP_the_ultraroyalists_desc: "The hardline supporters of the royalists still long for their old form of government and their hereditary rights. They certainly have no place in our new Japan and we need to quell this potential danger to our government as soon as possible to prevent future conspiracies or worse." #NT!
+ jap_ultraroy_effect_1_tt: "Popularity Drift Defense: §R-5%§! \nConsumer Goods Factories: §G-3%§!" #NT!
+ jap_ultraroy_effect_2_tt: "Popularity Drift Defense: §G+5%§! \nDivision Attack on core territory: §G+3%§!" #NT!
+ JAP_tribunal_final_phase: "The Last Answer" #NT!
+ JAP_tribunal_final_phase_desc: "After all major cases and problems were decided in the court, all waits for the Shogun to finalize the results of the Supreme Tribunal." #NT!
+ JAP_restore_han_system: "Restore the Han System" #NT!
+ JAP_restore_han_system_desc: "The Han system gave the local domains the landlords, better known as Daimyo, has the power over their respective people and land, which were in turn bound to support or at least be neutral towards their Shogun we will restore this system of decentralised organic government." #NT!
+ JAP_restore_military_authority: "Restore Military Authority" #NT!
+ JAP_restore_military_authority_desc: "The command of the army is a very important and powerful position which allowed the commanding officers to gain significant influence. We can not accept this status quo, before the fall of the old Shogunate, the Shogun was the head of the army and we will make sure he takes the power back from the officers and again assumes a leading military role." #NT!
+ JAP_guilty_of_former_shogun: "Sin of Former Shogun" #NT!
+ JAP_guilty_of_former_shogun_desc: "The last Shogun, Tokugawa Yoshinobu was not able to secure the legacy of the Tokugawa by letting the government fall to the insidious powers of the Sonno Joi movement. This lead Japan away from its right path and destroyed what generations had built before him. We will not forget his mistake while we work continously to right the wrongs of the past." #NT!
+ JAP_reform_kazoku_law: "Reform Kazoku Law" #NT!
+ JAP_reform_kazoku_law_desc: "The Kazoku Law was enacted during the Meiji Period and was part of its constitution. It allowed the Samurai Class to become a more westernized noble class which holds significant powers in the upper House of the japanese Diet. We will reform this old law to curb the influence of this class with the British example of the House of Lords serving as our inspiration." #NT!
+ JAP_next_bastion_of_democracy: "Next Bastion of Asian Democracy" #NT!
+ JAP_next_bastion_of_democracy_desc: "Japan will become a shining example of democracy in Asia, by embracing a traditional japanese way of rule under the government of our wise leadership. In the name of our people we will bring our nation towards a new golden age and be an example to those around us." #NT!
+ JAP_new_legacy_of_iesato: "New Legacy of Iesato" #NT!
+ JAP_new_legacy_of_iesato_desc: "The legacy of the Tokugawa Shogunate was destroyed by Tokugawa Yoshinobu, the last reigning Shogun and adoptive father of the new Shogun. He was weak and not able to stop the Sonno Joi Faction. Iseato however, a man of democracy and progress will make sure that the mistakes of the past will not be repeated, he will save the Shogunate from extremism and bring Japan on the right path towards a new glorious future." #NT!
+ JAP_report_to_the_emperor: "Report the Emperor" #NT!
+ JAP_report_to_the_emperor_desc: "The necessary works are done, the state is secured and order is restored, we achieved every goal we had as a transitional government. Now there is only one thing left, someone needs to acknowledge and formalize the new order, we will contact the Emperor and request his official support to our new state." #NT!
+ JAP_long_live_the_shogunate: "Long Live the Shogunate" #NT!
+ JAP_long_live_the_shogunate_desc: "The shakey transitional period is over, our state is secure and the economy is finally starting to recover. It seems like we weathered the storm and brought Japan back on the right path. We should celebrate this great rebirth of our Nation." #NT!
+ JAP_iesato_government: "Iesato Government" #NT!
+ JAP_iesato_government_desc: "The Shogun will declare the appointment of the Left Minister of State (Sa-daijin), the senior assistant of Chancellor of State or Daijo-Daijin, within our government to several minister and government positions. The new administration will work under the guidelines of the Left Minister of State. Only one question remains now, who will be the next leader of the government?" #NT!
+ JAP_mikawahan_faction: "Mikawa-han Faction" #NT!
+ JAP_mikawahan_faction_desc: "The Mikawa-han (Mikawa Faction) are the group of moderates and progressives working under the leadership and guideline of Shogun Iesato. They are named after the ancestral home of the predecessor of the Tokugawa Clan, the Matsudaira clan, which they were served as the Daimyo of domain of Mikawa in Nagoya." #NT!
+ JAP_left_learning_doctrine: "Left-Learning Doctrine" #NT!
+ JAP_left_learning_doctrine_desc: "To achieve our goal of a better Japan we need fundamentally change our nation in many aspects and while we can never forget the great Japanese spirit, it is true, that the common man has suffered long enough. We shall take inspiration from the many socialist movements around the world and take a more left-wing doctrine to bring our nation into the future. There is a lot of work to be done." #NT!
+ JAP_rural_urbanization: "Rural Urbanization" #NT!
+ JAP_rural_urbanization_desc: "Times are changing and with the ever increasing industrialisation of our nation, the rural areas are faling behind. We need to make sure that we modernize every corner of the home islands and encourage urbanisation and bring an end to these rural backwaters. We will invest into the development of local settlements and cities so people are enoucraged to move to the new urban centers." #NT!
+ JAP_municipality_promotion_act: "Municipality Promotion Act" #NT!
+ JAP_municipality_promotion_act_desc: "This system of local self governance will allow smaller towns and cities to manage taxation and other local issues themselves. This makes the regions flexible and reaction times towards pressing or local issues shorther and more efficient. The self governance will allow these settlements to use their resources for their specific needs and help the rejuvination of these smaller urban areas." #NT!
+ JAP_local_election_act: "Local Election Act" #NT!
+ JAP_local_election_act_desc: "The local election system will further improve our decentralised system of government, strengthen the democratic institutions and help voters to easily participate in the democratic state. Together with the Municipality Act, the local institutions will be significantly stronger which will also help us with our demonopolisation efforts and gain us much support from the people." #NT!
+ JAP_prusso_americanism_abolishment: "The End of Prusso-Americanism System" #NT!
+ JAP_prusso_americanism_abolishment_desc: "Prussian Constitutionalism and the Two-Party System inspired by the american system were the main reasons that Taisho democracy failed. We need to get rid of this model and replace it by a westminster style of government to secure democracy in Japan. To achieve this, vast and sweeping reforms will be needed." #NT!
+ JAP_peoples_power_strengthen: "Strengthen the People's Power" #NT!
+ JAP_peoples_power_strengthen_desc: "We need to support our greatest ally, the common people of Japan. Their collective voice shall be heared throughout the nation and we must make sure to properly support them to gain their allegiance to our government. Change will come through the collective will of the Japanese man and we will aid them wherever we can." #NT!
+ JAP_deconfuciusization: "De-Confuciusization" #NT!
+ JAP_deconfuciusization_desc: "Japanese education is filled with Confucianism ideas and philosophy which is not befitting of our Japanese nation anymore. Confucianism is made to uphold chinese social values and is anti-egalitarian, this is contrary to our new approach to social questions and therefore we must work to purge our nation from these archaic foreign influences" #NT!
+ JAP_seigaku_education_reform: "Seigaku Education Reform" #NT!
+ JAP_seigaku_education_reform_desc: "Seigaku, also known as Rangaku or \"Dutch Learning\" around first Tokugawa shogunate, describes western books and knowledge which was forbidden in the  early Tokugawa period. The ban was lifted in 1720 and lead to the studying of these new ideas which allowed Japan to enter a golden era of scientific and cultural advancements. Our new education should strife towards the ideals of these times instead of the old Confucianism ways of isolation and backwardness." #NT!
+ JAP_electoral_reform: "Electoral Reform" #NT!
+ JAP_electoral_reform_desc: "Our nation needs to reform the electorial process towards a fair, efficient and standardised procedure which will ensure the smooth running of our democratic state. We will need to implement a new institution to oversee the process and make the  process and impact of our elections fair and reasonable." #NT!
+ JAP_universal_suffrage_act: "New Universal Suffrage Act" #NT!
+ JAP_universal_suffrage_act_desc: "To enforce a true democracy for Japan, it is important that every person can cast their vote for our elections, we should no longer hold any predjudice based on class, wealth or sex. With this decree, every citizen in Japan who is of age will be able to cast his vote in the coming election and those to follow. This will certainly make sure to endear our government to the common people and untilize the full strengh of a democratic movement -the people." #NT!
+ JAP_to_the_new_golden_age: "To the New Golden Age" #NT!
+ JAP_to_the_new_golden_age_desc: "Tokugawa Iesato and the Mikawa-Han faction managed to heal our nation and better the lifes of the common man. The nation is healing from the troubles of the past and looking towards a bright and free future as a bastion of democracy and rule of law. Already the economy is beginning to boom and the people are beginning to taste the fruits of their labour. Japans future is looking bright." #NT!
+ JAP_oniwahan_faction: "Oniwa-han Faction" #NT!
+ JAP_oniwahan_faction_desc: "Oniwa is a reference to the park behind Edo castle and is the name of the Conservatives and Traditionalists faction within the Northern Alliance. They work under the guidelines of Tokugawa Kuniyuki, who is widely regarded as the Kingmaker, Daimyo of Mikawa and Junior Elder (Wakadoshiyori), and supporter of the government of Tokugawa Iesato." #NT!
+ JAP_believe_the_kingsmaker: "Believe The Kingmaker..." #NT!
+ JAP_believe_the_kingsmaker_desc: "We should trust the reasoning of the wise Kuniyuki who is responsible for our great success so far. His voice of reason and conservatives, sometimes even traditionalist, line of though has proven to be correct so far and under his guide we will lead Japan to greatness." #NT!
+ JAP_reinstall_dismissals: "Reinstall the Dismissals" #NT!
+ JAP_reinstall_dismissals_desc: "Many descendants of the former Daimyo families, who largely lost their old power and influence, are still living here in Japan. We should give back these noble ancient families their power that they held before to secure a loyal upper class for our government." #NT!
+ JAP_military_disintegration: "Military Disintegration" #NT!
+ JAP_military_disintegration_desc: "The Daimyos are a central part of our governing structure and form a new supportive upper class. we should decentralise the army away from the control of the officers towards these Daimyos who will serve as regional miitary commanders, who will have the control over the military of their specific prefecture. This will make our military more specialised on the specific tasks of the region and prevent one man from holding too much influence within the armed forces. The Daimyos will surely be greatfull for this ancient right to be given back to them and the Shogun will now be able to call upon a new warrior aristocracy." #NT!
+ JAP_uphold_prefecturare_imperium: "Uphold Prefecturare Imperium" #NT!
+ JAP_uphold_prefecturare_imperium_desc: "Prefecturare Imperium, or Military Provincial Command, is the latin term for regional military commander's power over their army. To show that the power of military that was before in the hand of corrupted general is now decentralized and evenly distributed to the specialised military officer and new Daimyo. This is the guarantee that the military plots against the nation will be wiped out and the loyalty is lying to the correct institute." #NT!
+ JAP_and_constitution: "...and Constitution" #NT!
+ JAP_and_constitution_desc: "The constitution is highest power of law in nation of Japan, the context give the power of rule with law in the islands and country. Now the power of the constitution and Ritsuryo will be preserved and protected under the Shogun and his loyal servants and officers" #NT!
+ JAP_kuniyuki_blueprint: "Kuniyuki's Blueprint" #NT!
+ JAP_kuniyuki_blueprint_desc: "Kuniyuki's Blueprint is the secret project by Lord Kuniyuki to prevent the infiltration from both hardliner and foreigner inside the Shogunate's administration and proving the loyalty of suspicious officers, by forming intelligence agency under administration of himself." #NT!
+ JAP_bureaucrat_reform: "Bureaucrat Reform" #NT!
+ JAP_bureaucrat_reform_desc: "The Japanese bureaucracy must follow the Shogunate rather than local influences or third parties." #NT!
+ JAP_fudai_toza_restoration: "Fudai-Toza Restoration" #NT!
+ JAP_fudai_toza_restoration_desc: "Fudai and Tozama daimyos were the system adopted by Tokugawa Shogunate to seperate the loyal domains (Fudai) and neutral or secretly opposed the Tokugawa government (Tozama). To secure the stability of Daijo-kan, we will get this system back on the line and select the most loyal officer to serve in the sacred Daijo-kan" #NT!
+ JAP_progressive_advancement_backsliding: "Development Rate Recession" #NT!
+ JAP_progressive_advancement_backsliding_desc: "The progressive advancement drops after Kunikuki became official Left Minister of State, the conservative figure of Oniwa-han in Northern Alliance. He will adopt more feudalism into the modern Japanese nation-state to restore one, true, absolute Tokugawa Shogunate" #NT!
+ JAP_suffrage_of_chosen_one: "Suffrage of the Chosen One" #NT!
+ JAP_suffrage_of_chosen_one_desc: "The suffrage right that was given to almost everybody in the nation is another reason of falling of Taisho democracy. The failures of the system, such as the illiterates, the degenerates, or the juniors, aren't worth for the right of choosing the representative, only men can do. We will adopt the abandoned Ezo Republic's suffrage right that allowing the men can elect the reliable person to represent them." #NT!
+ JAP_to_our_nostalgic_period: "To our Nostalgic Period" #NT!
+ JAP_to_our_nostalgic_period_desc: "The Kuniyuki's doctrine is the correct path for the future of Shogunate. The walking path that made by him is full of nostalgic feeling that was in only first Tokugawa Shogunate, but now we all can feel this feeling again in the contemporary world." #NT!
+ JAP_imperial_power_question: "Imperial Power Question" #NT!
+ JAP_imperial_power_question_desc: "There is the question amongs the lawmaker and councilors, that's about the borderline of Royal Prerogative and Shogunal Prerogative in Rules and Laws in Contitution and Ritsuryo. What is the answer of this situation?" #NT!
+ JAP_learning_from_taisho_era: "Lesson from Taisho Democracy" #NT!
+ JAP_learning_from_taisho_era_desc: "We all have learnt from the past when people couldn't protect the right of choosing people to rule and represent them. The politicians weren't always do as they promised and push the people on the void of dismay. What is the solution that we can learn from it?" #NT!
+ JAP_kokutai_minshu_unity: "Kokutai-Minshu Unity" #NT!
+ JAP_kokutai_minshu_unity_desc: "Kokutai or National Body is the old Confucianism term referring the main structure of national governance. We are surely accepted the emperor of our greatest Japan is Kokutai, as we must protect his majesty at all cost. Meanwhile the Minshu or people means the common men of Japan. The unity between Imperial House and People had been severed by heavenly mandate dictated by militarists, we need to choose how we can do for bring two institutes back together?" #NT!
+ ## 
+ JAP_sgrp_foreign_tree: "On the World Stage" #NT!
+ JAP_sgrp_foreign_tree_desc: "The nation is now awaken from the ashen hell with the assistance of people and alls. On the next step to being the nation of the world, we need to do something. That's the foreign politics." #NT!
+ JAP_expansionism: "Expansionism" #NT!
+ JAP_expansionism_desc: "After we had stabilized the internal politics of our nation, we need to look outwards to the wider world. In the past we made mistake of shutting us off from the outside world, which left us weak and isolated. We can not repeat this error, no it is vital that we secure a true area of influence for ourself, a true empire. It is our right by strengh to act into the best interest of our nation and to preemptively strike our enemies. A new age of Expansionism will dawn upon Japan" #NT!
+ JAP_socialist_weltpolitik: "Rote Weltpolitik" #NT!
+ JAP_socialist_weltpolitik_desc: "The socialist revolution must not have been stopped only in the island, to make sure the imperialism and reactionary will be completely wiped out from Asia, the worldwide revolution is needed." #NT!
+ JAP_approach_germany: "Approach Berlin" #NT!
+ JAP_approach_germany_desc: "At the day of sick Eagle has been arisen from the turmoil of corrupted democracy, we saw an oppotunity to join them as the important ally. On the furthest side of the Eastern Hemisphere, the great Dragon will dance around the sky and join the pack of Eagle, to conquer over the world." #NT!
+ JAP_join_our_own_ally: "In Respect the Anglo-Japanese Treaty" #NT!
+ JAP_join_our_own_ally_desc: "When the Russian was full of aggressive and has threatened toward us, we are all alone in the sea of Pacific. Only ally we can struggle to have them on the side of us is the England. But the years passed, we are all like unknown to each other. But with the only fracture remains in the sea of forgotten memory, the Anglo-Japanese Alliance, we will be the best friend again." #NT!
+ JAP_our_own_way: "Our Own Way" #NT!
+ JAP_our_own_way_desc: "No one can trust or be trusted. There is no perpetual friend or enemy. Path of being alone will make us be stronger than before." #NT!
+ JAP_asian_entente: "Asian Entente" #NT!
+ JAP_asian_entente_desc: "The socialist revolution in Russia is not pure as it was anymore. Since the death of Lenin, no one can replace him as the greatest man and leader of socialist revolution. We will create the great bloc of socialism revolutionary vanguard to liberate every man from shadow slavery. With everything we have, the evil must be gone." #NT!
+ JAP_approach_russia: "Approach Moscow" #NT!
+ JAP_approach_russia_desc: "At the day when the reactionary died in the hand of people gun, the authority is no longer single entity anymore. This is the way of people we needed. We believe the Soviet Union is the only friend we need for the next step of worldwide revolution." #NT!
+ JAP_east_west_liaison_office: "East-West Liaison Office" #NT!
+ JAP_east_west_liaison_office_desc: "In the war time, the uncomfortable or unexpected situation can occur every time. To make sure we can surpass those situations, the harmony and unity is needed. The liaison office is the best choice of making the unity of alliance." #NT!
+ JAP_overseas_affairs_office: "Overseas Affairs Office" #NT!
+ JAP_overseas_affairs_office_desc: "The Overseas Affairs Office (OAC, Kaigai-mufu), is the semi-independent agency under the administration of Chancellor of State and U-daijin (Right Minister of State). Formed by the merging of ministry of colonial affairs and ministry of foreign affairs. To make sure the colonial administration will have fully contacted between government and colonial agencies." #NT!
+ JAP_comintern_cooperative_office: "ComIntern Cooperative Office" #NT!
+ JAP_comintern_cooperative_office_desc: "In the war time, the uncomfortable or unexpected situation can occur every time. To make sure we can surpass those situations, the harmony and unity is needed. The cooperative office is the best choice of making the unity of alliance." #NT!
+ JAP_mobilize_kantogun: "Mobilize Kanto-gun" #NT!
+ JAP_mobilize_kantogun_desc: "After the long battle in Manchuria and ended up with we lost all of colonies while the Hokubu's government has been installed. The remnants of Kanto-gun are now recognized us as the legitimate government and prepare for the next command. It's time to bring our right back to the right hand." #NT!
+ JAP_dismantle_chinese_warlord: "On the Way to Central Plains" #NT!
+ JAP_dismantle_chinese_warlord_desc: "The Chinese nation are fractured and weakened by itself. The Sino culture has been destroyed and preserved at the same time by the revolutionary and military. To restore the right government, the final battle of unification is now begun." #NT!
+ JAP_toward_pacific: "Toward Pacific" #NT!
+ JAP_toward_pacific_desc: "The Pacific is our next stage in great game and golden oppotunity, the United States and Britain have nothing to do with our rightful territory. The Pacific must have only protector, that is us." #NT!
+ JAP_toward_north_america: "Operation Ikan Bridge Crossing" #NT!
+ JAP_toward_north_america_desc: "The Americans are a threat to us since they forcefully ended our era of isolation. They see the Pacific as their lake and Japanese interests will always have stand in the shadow of American Imperialism. We need to begin final strike against the American beast and secure our interests in the Pacific." #NT!
+ JAP_reclaim_our_colony: "Reclaim Our Colony" #NT!
+ JAP_reclaim_our_colony_desc: "We need to reclaim or old glory and reconquer the lost colony of Korea. It is vital for our interests to secure the peninsula and many Japanese leaders have tried it before. The loss of this Colony is a great tragedy and regaining it will cement the legitimacy of our leadership." #NT!
+ JAP_pressure_bangkok_authority: "Pressure Bangkok Authority" #NT!
+ JAP_pressure_bangkok_authority_desc: "Bangkok needs to submit to our new emerging power block in Asia. We will send our final ultimatum to their authorities, so that they may choose their fate." #NT!
+ JAP_toward_indochina: "Operation Nantei" #NT!
+ JAP_toward_indochina_desc: "The French currently occupy much of Indochina, however the grip as weal and central Europe is becoming ever more unstable. We may have a chance of securing our interests in the south and liberate the Indochinese States from european occupation." #NT!
+ JAP_toward_indian_subcontinent: "Demand Subjugation from India" #NT!
+ JAP_toward_indian_subcontinent_desc: "India was the jewel of the European colonizers, but no longer anymore since we will liberate them from their opressors, false allies and misguided leaders. Their people will soon come to understand the great Pan-Asian dream we are building and India will play a key strategic rule within this new world we are forging. Our man are ready and our leadership is steadfast, today we demand from the Indians their total subjugation to freedom." #NT!
+ JAP_take_over_primorye_commission: "Take Over the Primorye Commission" #NT!
+ JAP_take_over_primorye_commission_desc: "The power struggle in Primorye Commission must end. We are not tolerate to the soft policy we've made to maintain the American influence anymore. The ultimatum is our final answer for the Commission." #NT!
+ JAP_strike_vladivostok: "Strike the White Russia" #NT!
+ JAP_strike_vladivostok_desc: "The old land, once ruled by Jurchen people has long held contact and good trading relations with Japan. The Russians took it and colonized it, it is only natural that we can not accept russian imperialism in our backyard, we defeated Russia numerous times already, so it will be easy to retake this land for ourselves." #NT!
+ JAP_toward_mongolia: "Toward Mongolia" #NT!
+ JAP_toward_mongolia_desc: "Mongolia, home of the largest empire the world has ever seen lies to our far west, today it is only the playground of greater powers in Asia, however for us, it will form a formidable bulwark against western expansion into our sphere. Mongolia will serve as a deterance and staging ground for actions against the Russians and bring us much needed breathing space." #NT!
+ JAP_end_red_scare: "End the Red Scare" #NT!
+ JAP_end_red_scare_desc: "The Soviet Union is the devil in disguise, they abused the power of people by confiscating the rations and supplies from their citizen and claiming this is for everyone. While they just took it all and gave to the elites. We are not tolerate for this kind of socialist joke anymore. We will correct this." #NT!
+ JAP_claim_xinjiang_tibet_hegemony: "Claim Hegemony over Dzungar-Lhasa" #NT!
+ JAP_claim_xinjiang_tibet_hegemony_desc: "The Dzungar Khanate was a large rival empire to the Quing which streched from Dzungaria to Lhasar. We shall claim hegemony over these lands in the name of our great Pan-Asian project. The Area will serve as a vital western bulwark for us and connect our holdings in Asia." #NT!
+ ## 
+ JAP_grand_triumvirate: "The Grand Triumvirate" #NT!
+ JAP_grand_triumvirate_desc: "The Northern Alliance is in the chaotic circumstance after the death of Tokugawa Iesato, the 16th Tokugawa Shogun and Taikun of Japan. The fractured is on the surface, everyone chooses their own master or ally. Everyone seeks to be next master of the Shogunate. The main supporters of late Shogun, such as Tokugawa Kuniyuki, Daimyo of Mikawa and leader of conservative Oniwa-han, Nakano Seigo, the Kanjou Commissioner, and Inoue Nissho, the Nichiren priest and Edo Shugoshoku, bring their own allies to the Edo Castle to decide the future of Shogunate." #NT!
+ JAP_meeting_of_three_officials: "Meeting of Three Officials" #NT!
+ JAP_meeting_of_three_officials_desc: "The great officers of Daijo-kan are in the seat of power in Edo Castle, confronting each other with the ideal of creating their own favoured regime. The nationalists, the theocratic pan-Asianists, and the traditionalists, has argued about the next leader of Shogunate. With only way they can fight with free and fair, it is the election." #NT!
+ JAP_the_kingmaker_assumed_shogunate: "The Kingmaker Assumes the Shogunate" #NT!
+ ## 
+ JAP_the_kingmaker_assumed_shogunate_desc: "The true heir dominates the Daijo-kan and Shogunate. No one could oppose him anymore, with the power of justice and sea. The Kingmaker shall make his own nation with the ideal of being the great shogunate, surpassing even Toyotomi Hideyoshi and Oda Nobunaga, the great unifier." #NT!
+ JAP_integrate_ancient_laws: "Integrate Ancient Laws" #NT!
+ JAP_integrate_ancient_laws_desc: "The Tokugawa Shogunate issued many wise decrees in the past. In our effort to restore Japan to its former glory, we will try to integrate these decrees into our modern Lawcode to guide our nation forward, as the Shoguns of old intended." #NT!
+ JAP_extend_navy_budget: "Extend Navy Budget" #NT!
+ JAP_extend_navy_budget_desc: "The power of navy is an importance factor of being the great shogunate. Our navy must be overpowered and large." #NT!
+ JAP_embrace_neo_confucianism: "Embrace Neo-Confucianism" #NT!
+ JAP_embrace_neo_confucianism_desc: "Neo-Confucianism has become the main ideology for Mito-gaku, or Mito School since time immemorial. Our shogun, Kuniyuki, as Lord of Mito-Tokugawa house and the final author of Dai Nihonshi, he believes the Neo-Confucianism is the absolute guidance for being the great and respected shogun. The rites is to show the morality and virtues can be materialized and visible to people, as we must follow this. The nation of Japan will be known as the good nation in the sense of Confucius for sure." #NT!
+ JAP_shin_fukoku_kyohei: "Shin Fukoku Kyohei" #NT!
+ JAP_shin_fukoku_kyohei_desc: "The Meiji era is ended and our army was weakened via lacking of supplies for nearly a decade. With everything we have, the people, the factory, the military, we must unite and create the next wave of Fukoku Kyohei." #NT!
+ JAP_subordinate_democracy: "Subordinate Democracy" #NT!
+ JAP_subordinate_democracy_desc: "The democracy is weak and full of loopholes. Making our nation fall from grace and strong. We will call up the Imperial Diet of Japan and reduce their legislative power. Because shogun known what is best for his state." #NT!
+ JAP_rebuild_the_commissions: "Rebuild the Commissions" #NT!
+ JAP_rebuild_the_commissions_desc: "Commissions or Bugyo was the government agencies of Shogunate functioned similar to modern ministry or department. To centralize the power of administration, the role of cabinet will be absorbed into the Commissions under Daijo-kan, and directed by Shogun as Chancellor of State" #NT!
+ JAP_make_parliament_our_rubberstamp: "Turn the Diet To Rubberstamp" #NT!
+ JAP_make_parliament_our_rubberstamp_desc: "The diet was called, everyone starts to listen. The national legislation from mass must be stopped, with only the professional from Daijo-kan is enough. The diet will turn to be our rubberstamp diet, and everybody must be appointed by us." #NT!
+ JAP_samurai_code_of_law: "Samurai's Code of Law" #NT!
+ JAP_samurai_code_of_law_desc: "Samurai has the political moral to guide them on the way of national governance. With the rule of law by Samurai-class, the justice of our nation will be secured" #NT!
+ JAP_send_parliament_to_hell: "Send Parliament to Hell" #NT!
+ JAP_send_parliament_to_hell_desc: "The diet was called, everyone starts to listen. The national legislation from mass will be ended today. From now the Daijo-kan will take charge for legislation for sake of our future." #NT!
+ JAP_purge_the_old_politicians: "Purge Old Politicians" #NT!
+ JAP_purge_the_old_politicians_desc: "The old men in the court couldn't do the great work anymore. They are weak and one step before grave. There is nothing they can do for us. Only place they can live from now is six-feet below the mortal's realm." #NT!
+ JAP_taiheiyo_circuit_development: "Taiheiyo Circuit Development Project..." #NT!
+ JAP_taiheiyo_circuit_development_desc: "Taiheiyo Belt is main megalopolis in Japan with the large amount of population and industry. The economy in our nation relies on this region's industry. Building and investing the factory in this region could make our nation to be more strong in economic aspect." #NT!
+ JAP_under_supervision_of_government: "...Under the Supervision of Government" #NT!
+ JAP_under_supervision_of_government_desc: "Taiheiyo Circuit Development Project must be supervised by us. It's for sake of our nation." #NT!
+ JAP_nationalize_the_public_company: "...Or By Nationalize the Public Companies" #NT!
+ JAP_nationalize_the_public_company_desc: "The Shogun, by advise of Kanjou Commission, will nationalize the infrastructure-related construction companies under previous government and cooperate with Zaibatsu to help in TCDP." #NT!
+ JAP_samurai_zaibatsu_megacollab: "Samurai-Zaibatsu Megacollaboration" #NT!
+ JAP_samurai_zaibatsu_megacollab_desc: "After the cooperation between Shogun and Zaibatsu is ending with better relationship, we will ensure the economy from now is going to be secured." #NT!
+ JAP_shogunate_industry: "Shogunate Industry" #NT!
+ JAP_shogunate_industry_desc: "Father knows what is the best for his state, also Shogun does too. With the industry made by political samurai, professional economist samurai, perhaps we can call it the Samurai Industry." #NT!
+ JAP_increase_navy_size: "Increase Navy Size" #NT!
+ JAP_increase_navy_size_desc: "On the way of being the overlord of Asia, only army isn't enough. The navy that we've built since Meiji era, we will improve them, we will increase more naval power." #NT!
+ JAP_absolute_naval_power_state: "New Maritime Nation of Far East" #NT!
+ JAP_absolute_naval_power_state_desc: "After the expansion of Shogunal-Imperial Navy, we now prepare to proclaim ourselves the New Maritime Nation." #NT!
+ JAP_extend_military_technology_budget: "Extend Military Technology Budget" #NT!
+ JAP_extend_military_technology_budget_desc: "The military technology is important for the national army, every steps for military technology advancement means the improvement of army quality." #NT!
+ JAP_even_military_can_run_business: "Even Military Can Run Business" #NT!
+ JAP_even_military_can_run_business_desc: "Everyone thought the muscle-head man did nothing only than using strength to solve everything. Who knows even military can run the business." #NT!
+ JAP_long_live_true_justice: "Tenkoku Rakka, Seigi Keizoku" #NT!
+ JAP_long_live_true_justice_desc: "Because the nation is full of lies and deceits, the justice must be rebuilt and preserved as one true guide of Shogunate. Let the justice be done, though the heaven falls. Tenkoku Rakka, Seigi Keizoku." #NT!
+ ## 
+ JAP_the_manager_assumed_shogunate: "The Manager Assumes the Shogunate" #NT!
+ JAP_the_manager_assumed_shogunate_desc: "The Showaist Nationalists has victory over every factions in Daijo-kan. The Manager, Nakano Seigo, was prohibited by Tokugawa clan, as they claimed to be protector of Shogunal throne, to be the next Shogun and Taikun of Japan. Seigo has predicted was going to happen as becomes Chancellor-elect of Daijo-kan. Thus he had planned something to kick off the enemies before his throne will be taken forever." #NT!
+ JAP_restoration_of_shikkenate: "Restoration of Shikkenate" #NT!
+ JAP_restoration_of_shikkenate_desc: "The Shikkenate is the thing for somebody who wants to surpass his master, the Shogun. The Shikkenate was firstly appeared in the Kamakura Shogunate when the mistress from Hojo clan can gain enough legitimacy as mother of Shogun to transfer the ruling power of her Hojo clan. Giving then-leader of Hojo clan being de facto leader of Japan and probihit Shogun to do his work. Instead the power has tranferred to title of Shikken, the Shogun's regent, until fallen of Hojo clan. Now, in the era of Taisho, the shogunate has been restored and the good man has died, the political situation inside Daijo-kan is far more than we could tell it is complicated. The Tokugawa wants nobody rather than themselves to become Shogun. Meanwhile the Manager, Nakano Seigo, becomes the Chancellor-elect for Daijo-kan, the thing is gone worst because no one wants the synthetic nationalism theorist to rule the nation. But he has another trump card to bypass the complexity, that's the Shikken." #NT!
+ JAP_land_reform_program: "Land Reform Program" #NT!
+ JAP_land_reform_program_desc: "Land reform program is the first step of new Japanese industrial era. Since long times ago, the land serves almost no purpose rather than producing the agricultural products. When the time changed, the factory came along with destroying of the ancient purpose. Now we are seeking the mutual profit of both agriculture and industry, therefore the preservation is needed. The land reform program will be the main regulation for both farmers and capitalists to prevent the single-purpose-used land." #NT!
+ JAP_deal_with_landowners: "Deal with Landowners" #NT!
+ JAP_deal_with_landowners_desc: "In order to rebuild a fair Japanese economy, we need to deal with the large landowning class. The redistribution of lands needs to be fair and we will evaluate if the land is truely needed and used by its owner and compensate them if we decide to redistribute it. This deal should prevent large scale unrest and further help our growing economy." #NT!
+ JAP_fund_local_factory: "Fund the Local Factories" #NT!
+ JAP_fund_local_factory_desc: "Instead of relying on single large megacorporations, we should fund the local industry. This will not only secure jobs and develop the region, it will also help to break the monopoly of large corporations and diminish the influence of the ruthless capitalist class." #NT!
+ JAP_agricultural_reserve_area: "Agricultural Reserve Area" #NT!
+ JAP_agricultural_reserve_area_desc: "Agricultural Reserve Area serves as the solution for Agricultural-Industrial parallel economy. We will keep some of the unoccupied land or the land that recently has no new owner for farmer who wants to increase their productivity by renting these lands. This area must not serve as the land for industrialized." #NT!
+ JAP_decrease_agricultural_area_tax: "Reduce Agriculture Zone Tax" #NT!
+ JAP_decrease_agricultural_area_tax_desc: "Every single areas deserved the right of reducing the land tax if they are only for agricultural crops or goods. It's for balance the percentage of existence of industrialized factory and farmland." #NT!
+ JAP_local_cooperative_center: "Local Cooperative Center" #NT!
+ JAP_local_cooperative_center_desc: "Local Cooperative Center is land agency directed by Shikken of Japan to prevent the capitalist from owning a huge portion of land and manage the local taxation for the government. At the same time, those directors in LCC are the commissioner for Shikkenate to direct the policy and head the local police force to investigation of suspected treason" #NT!
+ JAP_appoint_lcc_reg_overseer: "Appointment the LCC's Regional Overseer" #NT!
+ JAP_appoint_lcc_reg_overseer_desc: "The choice of what department will take responsible on appointment the LCC's Regional Overseer, the official director of LCC, between the committee of Imperial Diet or Shikkenate Cooperative Directory, the secretariat of Shikken" #NT!
+ JAP_farmer_bureaucracy: "Farmer Bureaucracy" #NT!
+ JAP_farmer_bureaucracy_desc: "The bureaucracy built by Bourgeoisie is full of corruption and deceit, Shikken won't let this kind of system to be alone functioning to suppress the farmer, labor, worker or any lower class. The Farmer Bureaucracy (Noumin Ganryousei) must be established to be counter-measure of the middle-class bureaucracy" #NT!
+ JAP_yamato_land_for_yamato_man: "Yamato Land for Yamato Man" #NT!
+ JAP_yamato_land_for_yamato_man_desc: "It's indeed that our ancestral land has left is only for us, the Yamato children. They had left this land for the next generations and preserved continuity of sacred imperial bloodline. As we must do the same as we need to protect our homeland and our emperor. The sacrifice must be made. Nippon Teikoku Banzai!!!" #NT!
+ JAP_open_new_arsenal: "Open New Arsenal" #NT!
+ JAP_open_new_arsenal_desc: "We need a new arsenal for our army, and after long years of construction and planning, these facilities are almost ready and will soon begin producing the finest equipments for our armed forces." #NT!
+ JAP_draft_new_labour_act: "Draft New Labour Act" #NT!
+ JAP_draft_new_labour_act_desc: "The labour is the main factor of the continuity of economy, not only the capitalist or oppotunist behind the curtains. This law will ensure the prosperity, the privilages, the living standards, the safety, for all labours. But in the same time, the productivity must be increased synchronously with the new labour standards." #NT!
+ JAP_increase_max_work_hour: "Increase Max Work Hours" #NT!
+ JAP_increase_max_work_hour_desc: "We simply need more output, more productivity. The fires of Industry demand their toll. The 8 hour workday has proven to be insufficient and it is up to everybody to give the state what it needs. Therefore we need to lift these restrictions temporarily to achieve our goals of industrialisation." #NT!
+ JAP_legalize_bonded_labour: "Legalize the Bonded Labour" #NT!
+ JAP_legalize_bonded_labour_desc: "Our state needs to always work to the benefit of our people. Sadly some people are born with a terrible affliction of weak will and slothful lives. We will show them the joy of work and fruits of labour by government mandated work programs. They will therefore be able to repay their debt to society and have an opportunity to change for the better. These measures are sadly necessary in the most extrem cases of lazyness, degeneracy, crime and other afflictions of these people. Our state could never allow ordinary people to suffer from these leeches who need to be carried along by their fellow man." #NT!
+ JAP_maximize_industrial_expansion: "Maximize Industrial Expansion" #NT!
+ JAP_maximize_industrial_expansion_desc: "More! More! More! This summerizes our stance towards industrialisation well. We will do everything we can to maximize the industrial output of our nation to meet the ever growing demands. New facotires are beign built everywhere and small farming villages are transformed into beating hearts of Industry basically overnight. The future is here." #NT!
+ JAP_deal_with_conglomerate: "Deal with Conglomerates" #NT!
+ JAP_deal_with_conglomerate_desc: "The main rival for our economic revolution is indeed the Zaibatsu that secretly manipulating our economy. With a huge advantage for having money in their pocket, we need to deal with them to step back from business competition by either by law or by force. We need to choose wisely." #NT!
+ JAP_regulated_market_policy: "Regulated Market Policy" #NT!
+ JAP_regulated_market_policy_desc: "After a long time of abusing by the Zaibatsu, the government finally has the power and will to step in and end their stronglhold on our economy. The state needs to take reign over the market to secure a free, fair and competitive market. Therefore a large number of reforms will be implemented, beginning with a extensive anti-trust law, to break up monopolies and a large scale crackdown on corruption and government ties to these Megacorporations. Furthermore, strategic tarifs and subvention of smaller competitors will help us to regulate the economy. The goal will be for the state to create a regulated and fair market economy, that fosters healthy competition and serves the state and its people." #NT!
+ JAP_rice_for_we_eat: "Rice for We Eat" #NT!
+ JAP_rice_for_we_eat_desc: "Now that neutralized the monopoly of the Zaibatsu, we have a firm control of our internal economy. However we now need to make sure, that this blooming market is not destroyed again by cheap foreign labour which could now flood our economy. Therefore we will enact trade tarifs on imported goods and give incentive to use local production and resources. This protectionism will help our local ecnomy to grow and stop wealth from flowing out of the country" #NT!
+ JAP_infiltrate_zaibatsu: "Infiltrate the Zaibatsu" #NT!
+ JAP_infiltrate_zaibatsu_desc: "To really deal with the Zaibatsu we need to break their powerful ties and find a reason to move against them. It will be important to gather all information and possible clues to corruption and crime that we can. We will place our spies and informants within the Zaibatsu to help us in this endevour. Once we gathered enough dirt on these board members, we will be ready to make our move." #NT!
+ JAP_squeeze_their_neck: "Squeeze Their Neck" #NT!
+ JAP_squeeze_their_neck_desc: "With the information gathered, we finally have enough to force the Zaibatsu to agree to an ultimatum. The corporation will be broken up and integrated into the Japanese corporate economy. We will also buy a fair amount of their stock and place our loyal man within their boards to further control their endevours. From now one, they will serve the state and not the other way around." #NT!
+ JAP_full_economic_manipulation: "Full Economic Manipulation" #NT!
+ JAP_full_economic_manipulation_desc: "We have achieved complete control over our economy and finally achieved corporatist economic model. We managed to integrate the conglomerate Industry into a mighty tool of the state. Now everything will run smooth, efficient and most importantly, controlled." #NT!
+ JAP_no_place_for_lazybones: "No Place for Lazybones" #NT!
+ JAP_no_place_for_lazybones_desc: "Lazy and inactive people are a burder on our society. They only care for themselves and force others to carry their weight. We finally need to deal with these people and eradicate them from our nation. They will be forced to labour and will be segregated from society. We shall clear up the slums and streets within each city. This nation is for people who work to the best of their abilities, not drunk antisocial punks." #NT!
+ JAP_reform_hierarchical_command: "Reform Hierarchical Command" #NT!
+ JAP_reform_hierarchical_command_desc: "After we took control of the State and the Shikken of Japan, we will make sure to reform the hierarchy and chain of command accordingly. Nobody should be above the Shikken, the Shikken will be the only one at the top and his command will lead the nation." #NT!
+ JAP_control_nation_from_shadow: "Control Nation from Shadow" #NT!
+ JAP_control_nation_from_shadow_desc: "Of course, the Shogun is a prestigous title and we would always have a thorn in our side by those who would want to restore him to his old position. Because of that, we should use the influence of the Shogun to our advantage and install a puppet regime. This will allow us to stay out of the spotlight and rule through the familiar face and position and if ever anything bad happens, it will be easy to sacrife this puppet. We will simply stay in the shadows and control the nation from there." #NT!
+ JAP_even_shogun_is_our_pet: "The Shogun is Nothing than being Puppet" #NT!
+ JAP_even_shogun_is_our_pet_desc: "Not even the Shogun now stands in our way. We managed to get into power, reform the state and fully put the nation under our boots. Japan is ours and the Shogun is nothing more then a fancy pet now. " #NT!
+ JAP_education_reform: "Education Reform" #NT!
+ JAP_education_reform_desc: "The current form of education is unift for our rule and still teaches many aspects which are contrary to our idea of government. We will make sure to reform our education into something which is not only more efficient but also serves our purposes." #NT!
+ JAP_teach_with_patriotism: "Teach with Patriotism" #NT!
+ JAP_teach_with_patriotism_desc: "Japanese live will not be under a strict guideline of patriotism, from education, to youth organisation and the economy. Our education reform will be the central part of this new policy, but it wont be the only part of it." #NT!
+ JAP_install_new_daijo_kan: "Install New Daijo-kan" #NT!
+ JAP_install_new_daijo_kan_desc: "Of course, we can not carry over any politicians from the old regime. The present Daijo-kan was installed by the previous Shogun, its loyalty is therefore questionable at best. We will dissolve the Daijo-kan and install a new on, solely staffed by our fiercest loyalists." #NT!
+ JAP_establish_shikkenate_supremacy: "Establish the Shikkenate Supremacy" #NT!
+ JAP_establish_shikkenate_supremacy_desc: "The Shikken is the father of our nation, the great leader of Japan. It was the Shikken who prevented the downfall of our nation. His wise commands inspire every citizen each day and we will do our very best to honor his sacrifice to Japan. He truely is a larger then life figure." #NT!
+ JAP_academic_monetary_fund_act: "Academic Monetary Fund Act" #NT!
+ JAP_academic_monetary_fund_act_desc: "The academic institutions of our nation are very important to us. Therefore the government has decided to grant a large funding project which will allow us to modernize and fund a lot of new academic instiutions in Japan and further education all throughout the country." #NT!
+ JAP_universal_research_institute: "Universal Research Institute" #NT!
+ JAP_universal_research_institute_desc: "A Universal Research Institute will be created and funded. It will allow us to coordinate our research and bundle all of our resources in one place. Additionaly, the new research enviroment will allow us to make the best of our brightest minds in this nation. This will surely further the deveopment and research of new key technologies." #NT!
+ JAP_philosophy_of_new_panasianism: "Philosophy of New Pan-Asianism" #NT!
+ JAP_philosophy_of_new_panasianism_desc: "The Pan-Asianism was spreading around the Far East for decades. Since the founding father of Republic of China, Dr. Sun Yat-sen, once said the Asia must be united and protect the Asia from colonialism. But it was not enough for being the one single state of Asia. We need more strong ideology to guide our people of Asia. We need the single value, single faith, single society and must be built by only Asian people. For Asian, By Asian." #NT!
+ JAP_ncop: "Form the National Congress of Professionals" #NT!
+ JAP_ncop_desc: "A great council will be formed, which will represent the interests of the different professions within the nations. This Congress will vote on important matters and suggest policies. While decisions still need to be approved by the leader of the Nation, the Congress holds signifiactn power over the appointment of certain ministries and posts within our government structure and the national trade unions." #NT!
+ JAP_now_we_are_big_guy: "This Is What Japan Should Be" #NT!
+ JAP_now_we_are_big_guy_desc: "This is Japan, true to its spirit and history, the japanese culture and people stand triumphant over division and foreign imperialism. Despite all hardships we managed to built a great prosperous nation with a glorious future ahead." #NT!
+ #Navy 
+ jap_modernise_the_navy: "Imperial Navy" #NT!
+ jap_modernise_the_navy_desc: "The Navy since the Washington Naval Treaty has been mostly neglected. Ships from the Great War are now getting surpassed from all other naval powers. We must proceed to modernise the navy at once." #NT!
+ jap_modernisation_of_cruiser: "Modernisation of Cruisers" #NT!
+ jap_modernisation_of_cruiser_desc: "Newer Cruiser designs surpass our old cruisers that were built during the Great War and the Interwar period. We must commission a new cruiser design and start building them immediately." #NT!
+ jap_destroyer_modernisation: "Asashio Destroyer" #NT!
+ jap_destroyer_modernisation_desc: "Our Destroyer designs have also been outdated and cannot properly compete against newer designs. Newer designs must be developed as soon as possible." #NT!
+ jap_expand_the_snlf: "Expand the SNLF" #NT!
+ jap_expand_the_snlf_desc: "The Special Naval Landing Force is a specisalised group of Marines, which could be the dominant invading force if we want to fight a war and land in the islands of the Pacific. Perhaps by investing in the marines, we could recieve a strong and powerful marine invasion force." #NT!
+ jap_long_lance_torpedoes: "Long Lance Torpedoes" #NT!
+ jap_long_lance_torpedoes_desc: "The Long Lance Torpedoes are currently a promising prototype. If we spend time and capital to invest in this prototype, we might develop one of the best torpedoes, ahead of the other navies." #NT!
+ jap_torpedo_cruisers: "Torpedo Cruisers" #NT!
+ jap_torpedo_cruisers_desc: "With the development of the Long Lance Torpedoes, by putting a lot of torpedo launchers on our cruisers, they could overpower many of the naval powers' cruisers, and possibly threaten the pride of the enemy's fleet." #NT!
+ jap_superior_battlefleet: "Superior Battlefleet" #NT!
+ jap_superior_battlefleet_desc: "The Eight-Eight Fleet concept developed by our tacticians after the Russo-Japanese War is a capable doctrine, and we should continue with this concept without any doubt." #NT!
+ jap_improve_naval_artillery: "Improve Naval Artillery" #NT!
+ jap_improve_naval_artillery_desc: "The naval batteries of our ships have always been relatively high quality, but with more investments in them to license other powers' design or to research a more improved version, we could likely design a battery of better quality." #NT!
+ jap_expand_the_kure_dockyards: "Expand Kure Naval Arsenal" #NT!
+ jap_expand_the_kure_dockyards_desc: "The Kure Naval Arsenal has been the dominant shipyard of the Imperial Japanese Navy since the Sasebo arsenal deactivated. It has recently proven incapable to serve a larger fleet and we must now expand it. " #NT!
+ JAP_the_yamato: "The Yamato" #NT!
+ JAP_the_yamato_desc: "The design of a super heavy battleship has been in design during the interwar period, but not actually built due to the Washington Naval Treaty. With imminent conflict coming, we should consider to reactivate the design division, so the class can be completed before the conflict spreads to us." #NT!
+ jap_expand_the_sasebo_arsenal: "Reactivate the Sasebo Arsenal" #NT!
+ jap_expand_the_sasebo_arsenal_desc: "The Sasebo Arsenal was deactivated during the Interwar period and mainly used as a wharf. As the dark clouds of war linger over Europe, we must reactivate this shipyard to increase our naval power that shields us. " #NT!
+ jap_lessons_of_the_great_war: "Lessons of The Great War" #NT!
+ jap_lessons_of_the_great_war_desc: "With many lessons learnt from the naval battles of the Great War, many things are learnt. But these lessons are not properly implemented, with some work, we can make sure our naval staff makes use of them." #NT!
+ jap_imperial_bb_academy: "Imperial Battleship Academy" #NT!
+ jap_imperial_bb_academy_desc: "With the implementation of the lessons of the Great War, a dedicated academy for the battleship crew will be extremely affecting in the imminent naval combat, as we can give our crews an edge over our enemies." #NT!
+ jap_dominance_of_cv: "Dominance of Carriers" #NT!
+ jap_dominance_of_cv_desc: "As the testing of aircraft carrier doctrines with Hosho and Ryujo has found out that aircrafts can destroy a warship with ease, we must push an agenda that focuses on carriers, instead of the battleship fleet our old doctrines suggest." #NT!
+ jap_first_air_fleet: "First Air Fleet" #NT!
+ jap_first_air_fleet_desc: "The First Air Fleet can be established, concentrating the naval aviation power of Kaga, Akagi, Soryu and Hiryu into a neat and powerful fleet, able to be attached or dettach at a moments notice from any other fleets of ours." #NT!
+ jap_third_gen_cv: "Third Gen Carrier Program" #NT!
+ jap_third_gen_cv_desc: "With the experiences of Soryu and Hiryu, we have much more quickly needed improvements that needs to be incoporated. With the new naval expansions, the development of the third generation of carriers must start." #NT!
+ jap_fifth_fleet_expansion: "Fifth Fleet Expansion" #NT!
+ jap_fifth_fleet_expansion_desc: "The Fifth fleet is a collection of a few escort and transport ships. Our planners have found that a few of these ships can be converted into potential military ships, such as the Nitta Maru-class cargo liners built by Mitsubishi." #NT!
+ jap_inaa: "Imperial Naval Aviation Academy" #NT!
+ jap_inaa_desc: "With the expansion of many newer fleets, fewer and fewer experienced pilots and crew are present for them. With the establishment of an academy, these pilots can become a strong force of these fleets." #NT!
+ #Planes are cool 
+ jap_plane_modernisation: "Plane Modernisation" #NT!
+ jap_plane_modernisation_desc: "With our expansion for our militaries, the corresponding aerial support must be implemented as well. Spending some capital on modernising our planes can help increase our militaries' effectiveness." #NT!
+ jap_mitsubishi_designs: "Mitsubishi Designs" #NT!
+ jap_mitsubishi_designs_desc: "Mitsubishi is a company that focused on shipbuilding and transport. But recently they have stepped into the aviation industry. With the experiences the Navy had from the A5M naval fighter, the Navy thinks that they are a great aviation designer and their designs can be used." #NT!
+ jap_the_zero: "The Zero" #NT!
+ jap_the_zero_desc: "Mitsubishi has gained the trust of the Imperial Japanese Navy and the navy now needs a new and capable fighter. We should commission a new agile carrier-based naval fighter from them, with Jiro Horikoshi as the lead designer of the project." #NT!
+ jap_unify_research_effort: "Unify Research Effort" #NT!
+ jap_unify_research_effort_desc: "The seperate research efforts of our militaries' led to duplicate researchs taking place. By ordering the unification of the two branches' research department, we can concentrate our aerial research on what is needed." #NT!
+ jap_combine_bomber_effort: "Combined Bomber Effort" #NT!
+ jap_combine_bomber_effort_desc: "By giving a contract to both the navy's and army's respective plane contractors, we can get a bomber suitable for naval use and tactical bombing, the best of both worlds." #NT!
+ jap_jet_effort: "Jet Effort" #NT!
+ jap_jet_effort_desc: "A proposal by Japanese researchers have concluded that by propelling hot air can provide thrust for planes, but it will be a difficult item to research. Maybe we should spend some capital on the interesting proposal." #NT!
+ jap_the_oka: "The Oka" #NT!
+ jap_the_oka_desc: "The Oka, also nicknamed the cherry blossom, is a kamikaze attack aircraft that can eliminate any competting navy units. This weapon not only shows our dedication to the war, but also to [From.From.GetLeader] himself!" #NT!
+ jap_aichi_design: "Aichi Desgins" #NT!
+ jap_aichi_design_desc: "Aichi is a well renowned company in the army plane contractors for their quality bombers. By investing in them, we could get some more better bombers from them." #NT!
+ jap_CAS_modernisation: "Dive Bomber Modernisation" #NT!
+ jap_CAS_modernisation_desc: "The Imperial Japanese Army's dive bombers have been lacking when compared to other country's. We will issue an commission to plane companies for a new generation of dive bombers" #NT!
+ #Army 
+ jap_expand_the_army: "Imperial Army" #NT!
+ jap_expand_the_army_desc: "The Army that protectss our expanding Empire lacks the amount of troops needed. The Army's expansion is needed just as much as the modernisation of the Navy." #NT!
+ jap_air_land_coop: "Air Land Cooperation" #NT!
+ jap_air_land_coop_desc: "Cooperation between ground forces and the supporting bombers has proved it's effectiveness in the Spanish Civil War. We can probably build up the IJAAF to support our ground forces." #NT!
+ jap_improve_pilot_training: "Improve Pilot Training" #NT!
+ jap_improve_pilot_training_desc: "Just like the IJN's fleet of group of improperly trained pilots, our bomber pilots are trained without incorporating the lessons of the Spanish Civil War. Implementing them will definitely prove beneficial." #NT!
+ jap_specialised_cas: "Specialised Dive Bomber Pilots" #NT!
+ jap_specialised_cas_desc: "Our bomber pilots currently learns to pilot both dive bombers and tactical bombers. By specialising their roles, we can get more effective and capable pilots who perform better." #NT!
+ jap_strat_bomb_doctrine: "Strategic Bombing Doctrine" #NT!
+ jap_strat_bomb_doctrine_desc: "The Doctrine of Strategically bombing the enemy's factoies, lowering their output will hamper the enemy's capability to fight a prolonged war with us. Perhaps we should further develop such doctrine." #NT!
+ jap_improve_bomber_training: "Improve Bomber Pilot Training" #NT!
+ jap_improve_bomber_training_desc: "Our bomber pilots still learns to perform with outdated tactics. We shall modernise their training for increased effectiveness in bombing." #NT!
+ jap_fighter_escort: "Fighter Escort" #NT!
+ jap_fighter_escort_desc: "Our bombers currently lack the escorts that can protect them through enemy fighter close to the frontlines. By building these new types, we will surely increase our bombing efficiency." #NT!
+ jap_further_doctrinal_development: "Further Doctrinal Development" #NT!
+ jap_further_doctrinal_development_desc: "The new doctrine our IJAAF has chosen requires further experimentations to give our pilots a more complete view of the doctrine. We shall do this by holding some more exercises." #NT!
+ jap_imaaa: "Imperial Army Aviation Academy" #NT!
+ jap_imaaa_desc: "If the Navy can have an academy for further development, why can't the Army also have one? We can set up one for the IJAAF so they can operate with more success." #NT!
+ jap_strat_bomber_modernisation: "Strategic Bomber Modernisation" #NT!
+ jap_strat_bomber_modernisation_desc: "The strategic bombers that we operate are old and outdated. We shall send out a contract for a new strategic bomber." #NT!
+ jap_speed_emphasis: "Speed Emphasis" #NT!
+ jap_speed_emphasis_desc: "An emphasis on speed, maneuverablity and breakthrough can provide a strong force that can end conflicts within weeks. We should look further into these tanks to fully realise their potential." #NT!
+ jap_armored_warfare: "Armored Warfare" #NT!
+ jap_armored_warfare_desc: "Our officiers have came to the conclusion that tanks are the way forward, with further developments coming. Focusing our staff on these experiments will hopefully yield even better results." #NT!
+ jap_armor_training_program: "Armor Training Program" #NT!
+ jap_armor_training_program_desc: "With our army still not embracing combined arms warfare, we shall hold programs to further incorporate these tank units into conventional warfare." #NT!
+ jap_motorized_support: "Motorized Support" #NT!
+ jap_motorized_support_desc: "With the constantly improving speed of tanks, motorized infantry has the most potential in following these units. We shall create more of these units, so they can provide sypport for our new and more mobile units." #NT!
+ jap_mechanized_infantry: "Mechanized Infantry" #NT!
+ jap_mechanized_infantry_desc: "Mechanized units designs are interesting in that they provide additional armor for our infantry without completely sacrificing mobility. Perhaps some designs should be considered." #NT!
+ jap_training_war_game: "Training War Games" #NT!
+ jap_training_war_game_desc: "Our troops have been weakened by the lack of constant exercise. We shall hold war games more often so they get used to warfare and be less worn down from pure garrisoning." #NT!
+ jap_further_doctrinal_experiments: "Further Doctrinal Experiments" #NT!
+ jap_further_doctrinal_experiments_desc: "Our lacking doctrines require extra experimentations to fully realise their potentials." #NT!
+ jap_planning_emphasis: "Planning Emphasis" #NT!
+ jap_planning_emphasis_desc: "If we cannot out-gun our opponents, we can out-plan them. Surely a well realised plan can ensure success, no matter how the situation has developed it self. " #NT!
+ jap_arms_modernisation: "Arms Modernisation" #NT!
+ jap_arms_modernisation_desc: "Guns are the backbone of infantry, and our Arisakas, while trusty, have been falling short when compared to the other newer weapons other militaries are fielding now. We must invest in the modernisation of arms to ensure that we are not left behind in the arms race." #NT!
+ jap_teishin_shudan: "The Teishin Shudan" #NT!
+ jap_teishin_shudan_desc: "We currently field a small battatlion, the Teshin Shudan. A group of elite troopers who go behind enemy lines. If we integrate the use of parachutes and planes, they could become an elite group of commandos, working behind the lines. " #NT!
+ jap_improve_military_training: "Improve Military Training" #NT!
+ jap_improve_military_training_desc: "We shall integrate the lessons of the great war and improve our training fully. If we do not, our troops may be at a disadvantage when fighting the other militaries." #NT!
+ jap_improve_officer_training: "Improve Officer Training" #NT!
+ jap_improve_officer_training_desc: "The lessons of the great war was fruitful, but we only improved the training of our troops. Now we shall move onto the improvements for officiers." #NT!
+ jap_cohesion_between_companies: "Cohesion Between Companies" #NT!
+ jap_cohesion_between_companies_desc: "Currently our troops still function less cohesively, acting as independent battalions more than actual divisions. By promoting cohesive action then, their combat capability may be increased." #NT!
+ jap_warrior_spirit: "Warrior Spirit" #NT!
+ jap_warrior_spirit_desc: "By promoting the Bushido in training, our troops will be encouraged to fight more aggressively, or atleast stay true to the principle of 'Death before surrender'." #NT!
+  
+ ##Diplomacy## 
+  
+ #GER DIPLOMACY 
+ jap_friends_with_ger: "Draw Closer to Berlin" #NT!
+ jap_friends_with_ger_desc: "The Valkists in Germany are revolutionaries, despite being in control of a battered nation, has been friendly to many nations all around them. With our government only recently becoming more authoritarian, we should make friends with countries who are similar with us." #NT!
+ jap-ger_army_drills: "German-Japanese Army Exercises" #NT!
+ jap-ger_army_drills_desc: "With Berlin gladly accepting our friendship focus, and the military breakthroughs the German has had in the expansion of their army, we should propose army exercises to exchange knowledge." #NT!
+ jap_daimler-benz: "Daimler-Benz Investments" #NT!
+ jap_daimler-benz_desc: "We could probably invite the well known Daimler-Benz to open factories in the Home islands and improve our economy even more." #NT!
+ jap_ger_tanks: "German Tank Designs" #NT!
+ jap_ger_tanks_desc: "The Germans' expansion of their army include the numerous revolutionary tank designs they have adopted. With our much closer relation now, we should ask for help on the designs for our own designs and adopt their innovations." #NT!
+ jap_friends_with_hol: "Mission to Netherlands" #NT!
+ jap_friends_with_hol_desc: "With the Netherlands also turning to the Valkist Germans, we should also look for the acceptance of them, to find more allies in Europe." #NT!
+ jap_suggest_tripartite: "Suggest Tripartite Pact" #NT!
+ jap_suggest_tripartite_desc: "By suggesting a Tripartite Pact with the Netherlands and Germans, this would allow for mutual protection and economic coperation." #NT!
+ jap_joint_tripartite_research: "Joint Tripartite Research" #NT!
+ jap_joint_tripartite_research_desc: "We shall establish the Joint Tripartite Research Institution that will facilitate research between the members of the Tripartite Pact." #NT!
+ jap_operations: "Operation Drafts" #NT!
+ jap_operations_desc: "We shall start drafting operations for planning attacks on America and Britain. These plans will fuel our war and become our guide in the upcoming war." #NT!
+  
+  
+ #US DIPLOMACY 
+ jap_end_of_sanfran_summit: "The End of the San Francisco Summit" #NT!
+ jap_end_of_sanfran_summit_desc: "With the end of the San Francisco summit, we must work closer with the United States as soon as possible." #NT!
+ jap_us_tanks: "American tank designs" #NT!
+ jap_us_tanks_desc: "The American tank doctrine of infantry support and suppressing fire is very potent and can be followed. We shall ask the Americans for tanks for testing." #NT!
+ jap_us_cv: "American-Japanese Joint Naval Exercise" #NT!
+ jap_us_cv_desc: "With the closer cooperation between us and the Americans, we shall start preparing for naval exercises with them and work together on newer naval doctrines." #NT!
+ jap_us_joint_exercise: "American-Japanese Joint Army Exercise" #NT!
+ jap_us_joint_exercise_desc: "Our army has been less exercised regularly. The United States' army has been the same. We shall call together our armies and perform a joint exercise." #NT!
+ jap_us_railway_invest: "American Railway Investment" #NT!
+ jap_us_railway_invest_desc: "With the poor American infrastructure, we can definitely transfer some of our methods and work to them as a gesture of goodwill." #NT!
+ jap_us_investors: "American Investors" #NT!
+ jap_us_investors_desc: "American investors had pumped many capital into our country already. With some more persuasion, we will be able to get a lot more investors from the USA." #NT!
+ jap_us_oil: "American Oil" #NT!
+ jap_us_oil_desc: "American oil has been one of the major trade resources for us. We shall ask them for getting technology for synthetic oil, which they are doing plenty of research on." #NT!
+  
+ jap_combined_COSC: "The Combined Chief of Staff Committee" #NT!
+ jap_combined_COSC_desc: "We shall establish the Combined Chief of Staff Committee to facilitate intelligence sharing and military unit deployment." #NT!
+ jap_588_sulawesi_bombers: "The 588th Sulawesi Bombers" #NT!
+ jap_588_sulawesi_bombers_desc: "There are some Sulawesi volunteers who are inclined to help us liberate their people in British East Asia. We shall establish the 588th Sulawesi Bomber squadron for Sulawesi volunteers." #NT!
+ jap_SEA_bulwark: "South East Asian Bulwark" #NT!
+ jap_SEA_bulwark_desc: "We shall promote ourselves as the Asian Bulwark of Democracy against the British Imperialists, who are occupying the rest of the Indonesian islands." #NT!
+  
+ #UK-CW DIPLOMACY 
+ jap_alliance_eng: "Hirota-Eden Neutrality Pact" #NT!
+ jap_alliance_eng_desc: "" #NT!
+ jap_trade_agreement_empire: "Anglo-Japanese Trade Agreement" #NT!
+ jap_trade_from_BEA: "British East Asian Trade" #NT!
+ jap_trade_from_BEA_desc: "With the Anglo-Japanese Trade Agreement, we shall send some officials to look for trade potential in the British colony of East Asia." #NT!
+ jap_raj_metal_imports: "Indian Metal Imports" #NT!
+ jap_raj_metal_imports_desc: "The British raj is wealthy in their metal deposits and they can provide us with a stable source of metal. We shall look into reinforcing these ties with actual trade deals." #NT!
+ jap_burmese_rubber_import: "Burmese Rubber Imports" #NT!
+ jap_burmese_rubber_import_desc: "The Burma peninsular is rather rich in rubber, and we should look into settling a trade deal with them for providing us with rubber." #NT!
+ jap_trade_from_isles: "British Mainland Trade" #NT!
+ jap_trade_from_isles_desc: "With the Anglo-Japanese Trade Agreement, we shall send some officials to look for trade potential in the British isles." #NT!
+ jap_nzl_oil: "New Zealand Oil Imports" #NT!
+ jap_nzl_oil_desc: "The New Zealand colony has some oil readily available. We shall look into sealing a deal with them for oil to less depend on just American Oil." #NT!
+ jap_australian_ore: "Australian Ore Purchases" #NT!
+ jap_australian_ore_desc: "Australian ore has been steadily rising. We shall buy some for testing and perhaps strike a deal with them." #NT!
+ jap_australian_railway: "Australian Railway Investments" #NT!
+ jap_australian_railway_desc: "Australia, being so vast, has mainly depended on just few areas. We shall invest in some of their railway projects to help them expand and fully utilise their vast land." #NT!
+ jap_trade_from_australasia: "Australian-New Zealand Trade" #NT!
+ jap_trade_from_australasia_desc: "With the Anglo-Japanese Trade Agreement, we shall send some officials to look for trade potential in the British colonies of Australia and New Zealand." #NT!
+ jap_eng_radar: "English Radar Technology" #NT!
+ jap_eng_radar_desc: "English Radio detection technology has been ahead of the rest of the world. We should look into striking a deal for the transfer of technology which will help us in the upcoming conflict." #NT!
+ jap_british_investment: "British Economic Investments" #NT!
+ jap_british_investment_desc: "The British had pumped millions into our country during the 1920s. With more promotion, they would likely be willing to further invest in a friendly nation." #NT!
+ jap_eng_company: "Attract English Companies" #NT!
+ jap_eng_company_desc: "An effort to attract English Companies from the British homelands to the Japanese islands was somewhat fruitful during the interwar period. We shall try to invite more of them, namely the bigger ones." #NT!
+ jap_indian_railroad: "Indian Railroad Initiative" #NT!
+ jap_indian_railroad_desc: "With the Indian rebellion of 1935 crushed, the railways of them has been destroyed. We shall propose an initiative for them to improve and rebuild their railways once more." #NT!
+  
+ jap_JCOSC: "Joint Chief of Staff Committee" #NT!
+ jap_JCOSC_desc: "We shall establish the Joint Chief of Staff Committee to facilitate intelligence sharing and military unit deployment." #NT!
+ jap_panay_incident: "Panay Incident" #NT!
+ jap_panay_incident_desc: "With the Panay incident passing, we have not decided on a solution to the incident. We shall start discussing this matter." #NT!
+ jap_british_naval_tactics: "British Naval Tactics" #NT!
+ jap_british_naval_tactics_desc: "The British has always been pioneers in naval doctrines. We shall examine their doctrines and adopt what is beneficial to us." #NT!
+  
+ #INTERNATIONAL 
+ jap_internal_stabilization: "Righteous Army Incident" #NT!
+ jap_internal_stabilization_desc: "The Righteous Army Incident is a military coup that took place four days after the London Stock Market Crash after a group of extremist military officers, nicknamed 'the Righteous Army', has risen up against democracy itself. The result of this event changed all of Japanese foreign policy..." #NT!
+ jap_constitutional_crisis: "Constitutional Crisis" #NT!
+ jap_constitutional_crisis_desc: "With the Righteous Army Incident happening, we can see that without the Emperor's consent on the Army, the democratic government holds very little power. This constitutional crisis must be resolved immediately, or more problems shall come." #NT!
+ jap_the_admiral_plot: "The Admirals' Plot" #NT!
+ jap_the_admiral_plot_desc: "The Admirals' Plot is a coup by the navy that sees them take hold of the parliament. This can be prevented, but how, is up for debate." #NT!
+ jap_the_army_coup: "The Army's Coup" #NT!
+ jap_the_army_coup_desc: "The Army's coup is performed by the army, after being emboldened by the Righteous Army incident, who weren't suppressed fully." #NT!
+ jap_assert_asian_dominance: "Assert Asian Dominance" #NT!
+ jap_assert_asian_dominance_desc: "With one of the military in control of the government, we shall start stabilising our country against the fallout of the London Stock Market Crash and for future expansion." #NT!
+ jap_iraa: "Create the Taisei Yokusankai" #NT!
+ jap_iraa_desc: "The Imperial House of Japan has been in power ever since 660 BCE, but as of lately it's power to unite the people under a monarchy has been deteriorated. The solution to this problem is the Imperial Rule Assistance Association, a number of advisors to help make the Emperor appeal more to the low and middle class of Japan." #NT!
+ jap_ally_the_military: "Military Alliance" #NT!
+ jap_ally_the_military_desc: "With one branch in control, the other will definitely be ignored. We shall promote the alliance between the two for the good of the country." #NT!
+ jap_united_under_the_emperor: "Divine Right" #NT!
+ jap_united_under_the_emperor_desc: "The Emperor as the descendant of the gods of Japan is very important. With the liberalisation of our country, the divine right of the Emperor has been diminishing. We shall reestablish the importance of our Emperor and reaffirm his divinity. Banzai!" #NT!
+ jap_all_hail_hirohito: "All Hail Hirohito" #NT!
+ jap_all_hail_hirohito_desc: "With the Emperor back as the head of state of Japan, we shall further promote loyalty towards his majesty, who shall hail him as the great monarch." #NT!
+ jap_jap_militarism: "Fan Japanese Militarism" #NT!
+ jap_jap_militarism_desc: "Bushido had been one of the major influencing factors of our military men. We shall further fan Bushido and the idea of the servicemen." #NT!
+ jap_revitalization_by_force: "Force Revitalization" #NT!
+ jap_revitalization_by_force_desc: "With the politics stabalized, it is time to force our revitalization. With our country now radicalised, we can fuel our revitalization much easier." #NT!
+ jap_the_second_meiji: "The Second Meiji" #NT!
+ jap_the_second_meiji_desc: "Emperor Meiji was one of the greatest Emperors we have. With Emperor Hirohito leading us out of the London Stock Market Crash and into the upcoming war, he shall be just as great as Meiji. Banzai!" #NT!
+ jap_zaibatsu_problem: "Problems with the Zaibatsus" #NT!
+ jap_allow_marshall_law: "Allow Martial Law" #NT!
+ jap_allow_marshall_law_desc: "With the LSMC coming, we need to allow Martial Law immediately as to pacify the numerous strikes and minor rebellions of unpaid workers." #NT!
+ jap_suppress_worker_rebellion: "Suppress Worker Rebellion" #NT!
+ jap_suppress_worker_rebellion_desc: "These worker's rebellions are causing much more damage to our Gross Domestic Product than the LSMC. We shall force these workers to work again immediately." #NT!
+ jap_combat_the_red_threat: "Combat The Red Threat" #NT!
+ jap_combat_the_red_threat_desc: "Our police has identified the major leaders of the rebellions as Communist sympathisers. We shall arrest these leaders and ban their parties." #NT!
+ jap_korean_problem: "The Korean Problem" #NT!
+ jap_korean_problem_desc: "Korea was not fully integrated despite their early annexation in the early 1910s. We shall start their incorporation now." #NT!
+ jap_great_pacific_jewel: "The Great Pacific Jewel" #NT!
+ jap_great_pacific_jewel_desc: "With Democracy prevailing in our country, we can fully claim the title as the 'Great Pacific Jewel'." #NT!
+ jap_seek_loyal_ministers: "Seek Loyal Ministers" #NT!
+ jap_seek_loyal_ministers_desc: "With plenty of ministers against the democratic government, we shall replace them with more loyal ministers, across the party lines." #NT!
+ jap_new_constitution: "A New Consitution" #NT!
+ jap_new_constitution_desc: "With the Meiji constitution starting to show it's flaw, we shall immediately start drafting a new and improved one." #NT!
+ jap_army_under_the_parliament: "Army under the Parliament" #NT!
+ jap_army_under_the_parliament_desc: "The Army, for the sake of stability, shall forever be under the command of the Parliament, with Royal Consent from the Emperor." #NT!
+ jap_economic_devaluation_act: "Numismatic Devaluation Act" #NT!
+ jap_economic_devaluation_act_desc: "Our currency is very costly to maintain it's exchange rate. We shall devaluate it and free up more money for us." #NT!
+ jap_military_contracts: "Imperial Army Contracts" #NT!
+ jap_military_contracts_desc: "One of the ways to recover is to contract military equipment out. Let's start by contracting army equipments." #NT!
+ jap_the_great_recovery: "The Great Recovery" #NT!
+ jap_the_great_recovery_desc: "We have fully recovered from LSMC! We shall proclaim our revitalization fully!" #NT!
+ jap_arrest_the_traitor: "Arrest the Traitorous" #NT!
+ jap_arrest_the_traitor_desc: "With the ministers of the Army and Navy unable to be trusted, we shall arrest those who are related to the plots against the democratic government." #NT!
+  
+ #Menace Across The Sea 
+ jap_menace_across_the_sea: "Menace Across The Sea" #NT!
+ jap_menace_across_the_sea_desc: "The Americans are dammed in their position, being one of the major opponents against us. Their menacing position will be able to fuel our ship building programs with war support." #NT!
+ jap_secure_our_place: "Secure Our Place" #NT!
+ jap_secure_our_place_desc: "We shall finally formally join the Imperial Protection Alliance and secure our place in that alliance as a force and bulwark in East Asia." #NT!
+ jap_join_the_ISC: "Join the ISC" #NT!
+ jap_join_the_ISC_desc: "The Imperial Scientific Council is a council that can help us in technological advancement. If we are able to join it, we will be able to advance further." #NT!
+ jap_for_the_empire: "For The Empires!" #NT!
+ jap_for_the_empire_desc: "Our populace must now accept both our aims for war, and also support the British Empire in the upcoming war." #NT!
+ jap_operation_eagle_hunter: "Operation Eagle Hunter" #NT!
+ jap_operation_eagle_hunter_desc: "With war against the United States sure, we shall prepare for war by drafting operations against them." #NT!
+ jap_manila_bay: "Suprise Attack on Manila" #NT!
+ jap_manila_bay_desc: "An Attack on Manila Bay will be able to cripple the Filipino government and shock the Americans for long enough to reinforce our superiority in the Pacific." #NT!
+ jap_phi_funding: "Demand Filipino Loyalty" #NT!
+ jap_phi_funding_desc: "To make sure that a war between the United States and Japan won't erupt, a clever way of going around is by secretly funding terrorist organisations in the state of Philippines that would like to be independent from the United States." #NT!
+ jap_secure_the_philippines: "Secure The Philippines" #NT!
+ jap_secure_the_philippines_desc: "The Phillippine islands lie directly in intercept to our possessions in Sulawesi. We shall start planning a move to secure the islands to protect our possessions." #NT!
+ jap_south_asia: "Japanese South Asia" #NT!
+ jap_south_asia_desc: "Our empire does not need direct control of Indonesia. We shall set up a government to fully collaborate with us." #NT!
+ jap_exploit_the_colonial_resources: "Exploit The Colonial Resources" #NT!
+ jap_exploit_the_colonial_resources_desc: "The Indonesian islands are very rich in oil, rubber and certain metal. We shall start exploiting this richness in resources fully." #NT!
+ jap_free_from_the_imperialists: "Free From The Imperialists" #NT!
+ jap_free_from_the_imperialists_desc: "We shall spread the words that they are free from the imperialistic west in the liberated colonies of empires." #NT!
+  
+ #Great Pacific Treaty 
+ jap_great_pacific_treaty: "The Great Pacific Treaty" #NT!
+ jap_great_pacific_treaty_desc: "The Great Pacific Treaty is the treaty for aligning Japan with America and against Great Britain and her empire." #NT!
+ jap_finalise_treaty: "Finalise The Treaty" #NT!
+ jap_finalise_treaty_desc: "The Finalisation of the Great Pacific Treaty must come now, or never, before America changes their mind and disrupt our plans." #NT!
+ jap_fuel_anti_british_sentiment: "Fuel Anti-British Sentiment" #NT!
+ jap_fuel_anti_british_sentiment_desc: "With us aligning ourself with American, we shall start fueling Anti-British sentiment so we can soon go to war with the British." #NT!
+ jap_coop_americans: "Cooperate with America" #NT!
+ jap_coop_americans_desc: "We must cooperate with the Americans completely so we can increase our odds against the menacing British." #NT!
+ jap_establish_CCS: "Establish The Combined Chief of Staffs" #NT!
+ jap_establish_CCS_desc: "The establishment of the Combined Chief of Staffs will enhance our unit positioning, improve the intelligence sharing between us and further help us coordinate combat missions." #NT!
+ jap_operation_kingslayer: "Operation Kingslayer" #NT!
+ jap_operation_kingslayer_desc: "With War against the British Empire soon, we shall start planning grand operations against the British immediately." #NT!
+ jap_strike_BEI: "Strike The British East Indies" #NT!
+ jap_strike_BEI_desc: "We shall attack and secure the British East Indies as to secure the valuable resources there and to fuel our empire's hunger for resources." #NT!
+ jap_fund_terrorism_in_singapore: "Demand East Indies Dominion" #NT!
+ jap_fund_terrorism_in_singapore_desc: "Before we do anything rash, we should give a proper casus belli in starting the war for Asian liberation. We prove that Japan simply desires an empire on par with London through requesting the turnover of the British East Indies to us - of course to protect it from unsafe Dutch hands. Regardless of their response, we will be ready!" #NT!
+ jap_cut_off_british_supply_lines: "Cut-off British Supply Lines" #NT!
+ jap_cut_off_british_supply_lines_desc: "We must isolate the Pacific possessions of the British Empire so they can become controlled by us." #NT!
+  
+ #Institution of Subjugation 
+ jap_begin_subjugation: "Institution of Subjugation" #NT!
+ jap_begin_subjugation_desc: "With our country being stabilized, we shall start subjugating other countries close to us, as we shall collect their resources they own for our own compensation from the fallout of the London Stock Market Crash." #NT!
+ jap_nanshinron: "Nanshinron" #NT!
+ jap_nanshinron_desc: "The Nanshinron, or Southern Expansion Doctrine is favoured by the Navy to expand and subjugate the colonies of the West, from the American Philippines to the British Malaya and the French Indochina, we can strike these territories for their resources." #NT!
+ jap_hokushinron: "Hokushinron" #NT!
+ jap_hokushinron_desc: "The Hokushinron, or Northern Expansion Doctrine is favoured by the Army to expand and take the resources of the vast Siberian land and fight the Soviet red menace with the help of the White Russian Government." #NT!
+ jap_research_for_allies: "Strengthen Pan-Asian Research" #NT!
+ jap_research_for_allies_desc: "As Asia continues to be liberated further from Western oppression, we must work with these nascent countries to strengthen our collective research efforts." #NT!
+ jap_demand_beiyang_submit: "Demand Beiyang Submit" #NT!
+ jap_demand_beiyang_submit_desc: "With the Beiyang governancy emerging victorious in the Fifth Beiyang-Zhili war, they have provoked us multiple times. It is time for us to stand up to such acts of aggression and take control of Manchuria, rich in steel." #NT!
+ jap_demand_zhili_submit: "Demand The Zhili Submit" #NT!
+ jap_demand_zhili_submit_desc: "With Zhili emerging victorious in the Fifth Beiyang-Zhili war, they have provoked us multiple times, from the "accidental" bombardments of our military bases to the numerous border clashes in Manchuria. It is time to stand up to these acts of aggression!" #NT!
+ jap_expand_kwantung: "Expand The Kwantung Army" #NT!
+ jap_expand_kwantung_desc: "The Kwantung Army, in charge of the protection of the occupation of Manchuria has proved it's shortages of troops. We shall provide additional funds for them to securely protect our possesions." #NT!
+ jap_operation_rivalry: "Operation Rivalry" #NT!
+ jap_operation_rivalry_desc: "A more free to take location for us is the Indochinese area. We shall start drafting an operation to take the area." #NT!
+ jap_strike_indochina: "Strike Indochina" #NT!
+ jap_strike_indochina_desc: "With the operation ready, we shall start preparing to invade Indochina soon." #NT!
+ jap_three_musketeers_i_mean_indochinese_bros: "The Three Indochinese Brothers" #NT!
+ jap_three_musketeers_i_mean_indochinese_bros_desc: "The Indochinese peninsular is formerly governed by Laos, Vietnam and Cambodia. We shall let them collaborate with us to govern the peninsular." #NT!
+ jap_pressure_siam: "Pressure the Siamese King" #NT!
+ jap_pressure_siam_desc: "We shall pressure the Siamese king to bend to our will and assist us in the future attack on French Indochina." #NT!
+ jap_shanghai_incident: "Shanghai Incident" #NT!
+ jap_shanghai_incident_desc: "The growing Anti-Japanese sentiment in China has been increasing since the First Sino-Japanese War and culminated in the Shanghai incident. We still haven't responded to the incident. We shall use this time to discuss within ourselves." #NT!
+ jap_defeat_cliques: "Defeat the Cliques" #NT!
+ jap_defeat_cliques_desc: "With the Chinese Nationalists under our control, we shall unite the disjointed China, controlled by Cliques, under our collaboratist government's control." #NT!
+ jap_korean_project: "Korean Project" #NT!
+ jap_korean_project_desc: "With the incoporation of Korea, we shall start a project surrounding the Koreans, to show that we care about them." #NT!
+ jap_chinese_project: "Chinese Project" #NT!
+ jap_chinese_project_desc: "The Chinese Project is a plan to keep the Chinese collaboratist government reasonably under our control." #NT!
+ jap_three_race_coprosperity: "Three Race Co-Prosperity" #NT!
+ jap_three_race_coprosperity_desc: "With the Chinese and Korean collaborating with us, we must ensure that working with us will be prospering, or they might leave easily." #NT!
+ jap_promote_koreans: "Promote Korean Servicemen" #NT!
+ jap_promote_koreans_desc: "We shall promote the idea of Korean militarymen and stabalise the Korean so they do not outcast the Koreans who serve for us." #NT!
+ jap_korean_army: "Korean National Army" #NT!
+ jap_korean_army_desc: "With the remains of the Chosen Empire's army still here, we shall establish the Korean National Army, recruiting the remains." #NT!
+ jap_chinese_air: "Chinese Republican Airforce" #NT!
+ jap_chinese_air_desc: "The Chinese Airforce is backwards and old. They do not have anyone to support them in modernising it. We shall be the one who modernises it." #NT!
+ jap_chinese_army: "Establish The Chinsai Army" #NT!
+ jap_chinese_army_desc: "The Chinsai Army will be the force to garrison the Shanxi-Shandong peninsular and protect the possession." #NT!
+ jap_standardize_army: "Standardize The Militias" #NT!
+ jap_standardize_army_desc: "The militias owned by the Chinese are not standardized and cannot fully fight with the other units. We shall help these militia units to standardize themselves." #NT!
+ jap_war_for_prosperity: "War For Prosperity" #NT!
+ jap_war_for_prosperity_desc: "War must be properly support in a collaborative regime, and we shall spread propaganda to maintain the stability in our possessions." #NT!
+ jap_ally_the_whites: "Alliance With The Whites" #NT!
+ jap_ally_the_whites_desc: "We shall offer an alliance with the White Russian Government, who will be definitely be happy to ally with us to fight against the Soviet Red menace." #NT!
+ jap_yakutsk_incident: "Yakutsk Incident" #NT!
+ jap_yakutsk_incident_desc: "We shall start provoking the Soviets, first by provoking border conflicts by the border between the Whites and the Soviets." #NT!
+ jap_assist_white: "Assisting The Whites" #NT!
+ jap_assist_white_desc: "The white russians are the underdog in the fights against the Soviets. We shall assist the Whites in the fight by providing industrial support." #NT!
+ jap_topple_commies: "Topple The Communist Threat" #NT!
+ jap_topple_commies_desc: "The army has finally pledged their commitment against the reds. The time is now. We shall attack the Soviets with a full scale attack. Banzai!" #NT!
+ jap_unite_against_red: "Unite Against The Reds" #NT!
+ jap_unite_against_red_desc: "With the reds now at war with us, we must promote unity at home to fuel the long war." #NT!
+ jap_dominant_white: "Dominance Of The Whites" #NT!
+ jap_dominant_white_desc: "The dominance of the White russians must not be underrestimated, and we shall promote their dominance." #NT!
+ jap_russo_japan_ally: "Russo-Japanese Co-Prosperity" #NT!
+ jap_russo_japan_ally_desc: "With the alliance propped up, we shall promote the idea of Russo-Japanese alliance for prosperity and the fight against the Soviets." #NT!
+  
+ #Country Flags 
+ jap_sep_incident_done: "September Incident has been resolved." #NT!
+ jap_sep_incident_diplo: "The §YRighteous Army§! has survived and taken power." #NT!
+ jap_sep_incident_smash: "The §YRighteous Army§! has failed to coup the government." #NT!
+ JAP_san_fran_summit_held: "San Francisco Summit Held" #NT!
+ us_jap_eco_agreement: "§YEconomic Agreements§! have been made in the §San Francisco Summit§!" #NT!
+ JAP_san_fran_summit_good_end: "San Francisco Summit - A Good End" #NT!
+ jap_HE_pact_trade: "§YTrade Agreements§! have been made in the §YHirota-Eden Pact§!" #NT!
+ jap_panay_incident_flag: "Panay incident happened" #NT!
+ JAP_democracy_prevails: "Democracy has Prevailed in Japan" #NT!
+ JAP_admiral_plot: "The §YImperial Japanese Navy§! have seized control" #NT!
+ JAP_army_coup: "The §YImperial Japanese Army§! have seized control" #NT!
+ JAP_militarism_prevails: "Militarism has Prevailed in Japan" #NT!
+ JAP_navy_first: "§YWe have chosen to prioritize the §CNavy§!§!" #NT!
+ JAP_army_first: "§YWe have chosen to prioritize the §NArmy§!§!" #NT!
+ JAP_unlock_army_tree: "§GWe will now be able to strengthen our army§!" #NT!
+ JAP_unlock_navy_tree: "§GWe will now be able to strengthen our navy§!" #NT!
+ JAP_trafalgar_comissioned: "Balance of Naval Power is disrupted" #NT!
+ JAP_1st_yamato_done: "1st Yamato Built" #NT!
+ JAP_2nd_yamato_done: "2nd Yamato Built" #NT!
+ JAP_3rd_yamato_done: "3rd Yamato Built" #NT!
+ JAP_4th_yamato_done: "4th Yamato Built" #NT!
+  
+ #decision categories 
+ JAP_Washington_naval_treaty: "Washington Naval Treaty" #NT!
+ JAP_renounce_wnt: "Renounce Washington Naval Treaty" #NT!
+ JAP_complete_naval_rearmament: "Complete naval rearmament" #NT!
+ JAP_prioritise_shipbuilding: "Prioritise Shipbuilding" #NT!
+ JAP_break_wnt_in_secret: "Break Washington Naval Treaty Secretly" #NT!
+ JAP_divert_more_resources: "Divert Resources" #NT!
+ JAP_call_the_san_fran_summit: "Call the San Francisco Summit" #NT!
+  
+ JAP_San_Franciso_summit: "San Francisco Summit" #NT!
+ JAP_US_naval_exercise: "Naval Exercise with the USA" #NT!
+ JAP_start_naval_rearmament: "Start Naval rearmament" #NT!
+ JAP_reform_naval_doctrines: "Reform Naval Doctrine" #NT!
+  
+ JAP_buildup_of_the_fleet: "Buildup of the Fleet" #NT!
+ JAP_convert_taiyo_class_cv1: "Convert Taiyo class carriers - Taiyo" #NT!
+ JAP_convert_taiyo_class_cv2: "Convert Taiyo class carriers - Zuiyo" #NT!
+ JAP_convert_taiyo_class_cv3: "Convert Taiyo class carriers - Chiyo" #NT!
+ JAP_convert_ishikari_class_dd1: "Convert Portsumasu Class - First 4" #NT!
+ JAP_convert_ishikari_class_dd2: "Convert Portsumasu Class - Last 4" #NT!
+ JAP_convert_kokai_class_cl1: "Convert Kokai Class - First 2" #NT!
+ JAP_convert_kokai_class_cl2: "Convert Kokai Class - Last 2" #NT!
+ JAP_the_yamato_1: "Build the Yamato - Yamato" #NT!
+ JAP_the_yamato_2: "Build the Yamato - Musashi" #NT!
+ JAP_the_yamato_3: "Build the Yamato - Shinano" #NT!
+ JAP_the_yamato_4: "Build the Yamato - Satsuma" #NT!
+  
+ JAP_counter_LSMC_Minseito: "Minseito's LSMC plan" #NT!
+ JAP_Zaibatsu_act: "Zaibatsu Act" #NT!
+ JAP_wealth_tax_act_1: "Wealth Tax Act" #NT!
+ JAP_public_works_act: "Public Works Act" #NT!
+ JAP_ship_building_act: "Ship building act" #NT!
+ JAP_Pension_act: "Pension Act" #NT!
+ JAP_company_contracts: "Company Contracts" #NT!
+ JAP_infrastructure_decision: "Improve Infrastructure" #NT!
+ JAP_purchase_cargo_ships: "Purchase Cargo ships" #NT!
+  
+ JAP_counter_LSMC_Seiyukai: "Seiyukai's LSMC plan" #NT!
+ JAP_housing_act: "Public Housing Act" #NT!
+ JAP_Banking_reform_act: "Banking Reform Act" #NT!
+ JAP_Social_Security_act: "Social Security Act" #NT!
+ JAP_national_industry_interference_act: "National Industry Interferernce Act" #NT!
+ JAP_wealth_tax_act_2: "Wealth Tax Act" #NT!
+  
+ JAP_counter_LSMC_Taishuto: "Taishuto's LSMC plan" #NT!
+ JAP_New_Union_deal: "A New Deal with the Unions" #NT!
+ JAP_work_for_all: "Work for All campaign" #NT!
+ JAP_government_contracts: "Governmental Contracts" #NT!
+ JAP_Zaibatsu_deal: "A Deal with the Zaibatsus" #NT!
+ JAP_further_industrial_investment: "Further Industrial Investments" #NT!
+ JAP_new_dockyards: "Build New Dockyards" #NT!
+  
+ JAP_south_asian_expansion: "South Asian Expansion" #NT!
+ JAP_add_papua: "Transfer Papua New Guinea" #NT!
+ JAP_add_eastern_islands: "Transfer the Eastern Island Chains" #NT!
+  
+ JAP_limit_exports_to_US: "Limit Exports to the USA" #NT!
+ JAP_seize_american_pacific_territories: "Seize [From.GetAdjective] Pacific Territories" #NT!
+ JAP_complete_tripartite_cooperation: "Complete Tripartite Cooperation" #NT!
+ JAP_reform_the_sphere: "Reform the Co-Prosperity Sphere" #NT!
+ JAP_demand_indochina_submission: "Force French Indochina into Submission" #NT!
+  
+ #Opinion Modifiers 
+ JAP_aggression: "Japanese Aggression" #NT!
+ JAP_german_friendship: "Japanese-German Friendship Pact" #NT!
+ JAP_holland_friendship: "Japanese-Dutch Friendship Pact" #NT!
+ JAP_trade_agreement: "Japanese Trade Partners" #NT!
+ JAP_fuel_anti_british_sentiment_modifier: "Anti-British Sentiment" #NT!
+ JAP_South_Coring: "Japanese Expansion of South Asia" #NT!
+  
+ ### Companies ### 
+ nippon_electric_company: "Nippon Electric Company" #NT!
+ ishikawajima_heavy_industries: "Ishikawajima Heavy Industries" #NT!
+ mitsui_zaibatsu: "Mitsui Zaibatsu" #NT!
+ nihon_musen: "Nihon Musen" #NT!
+ nippon_oil: "Nippon Oil" #NT!
+ kawasaki: "«Кавасаки»"
+ sumitomo: "«Сумитомо»"
+ tokyo_shibaura_denki: "Tokyo Shibaura Denki" #NT!
+ nichitsu: "Nichitsu" #NT!
+ kokura_arsenal: "Арсенал Кокуры"
+ nagoya_arsenal: "Нагойский арсенал"
+ fx_osaka_army_arsenal: "Osaka Army Arsenal" #NT!
+ isuzu: "Isuzu" #NT!
+ toyota: "Toyota" #NT!
+ hitachi: "Hitachi" #NT!
+ nissan: "«Ниссан»"
+ tokyo_gas: "Tokyo Gas & Electric" #NT!
+ mitsubishi: "Mitsubishi" #NT!
+ kyushu_hikoki: "Kyushu Hikoki" #NT!
+ aichi: "Aichi" #NT!
+ tachikawa: "Tachikawa" #NT!
+ fx_nakajima: "Nakajima" #NT!
+ yokosuka: "Yokosuka" #NT!
+ kawanishi: "Kawanishi" #NT!
+ yokosuka_naval_arsenal: "Военно-морской арсенал в Йокосуке"
+ kure_naval_arsenal: "Военно-морской арсенал в Куре"
+ sasebo_naval_arsenal: "Военно-морской арсенал в Сасэбо"
+ maizuru_naval_arsenal: "Военно-морской арсенал в Майдзуру"
+  
+ #Fleet Name 
+ FLEET_NAME_JAP: "Kaigun Kantai $NUMBER$" #NT!
+  
+ ### Characters 
+ JAP_Tokugawa_Iesato: "Tokugawa Iesato" #NT!
+ JAP_Hirohito: "Hirohito" #NT!
+ JAP_Yamakawa_Hitoshi: "Yamakawa Hitoshi" #NT!
+ JAP_Yamakawa_Kikue: "Yamakawa Kikue" #NT!
+ JAP_Hashimoto_Kingoro: "Hashimoto Kingoro" #NT!
+ JAP_Kumazawa_Emperor: "Kumazawa" #NT!
+ JAP_Jiichiro_Matsumoto: "Jiichiro Matsumoto" #NT!
+ JAP_Kyuichi_Tokuda: "Kyuichi Tokuda" #NT!
+ JAP_Sanzo_Nosaka: "Sanzo Nosaka" #NT!
+ JAP_Aso_Hisashi: "Aso Hisashi" #NT!
+ JAP_Shimazu_Tadashige: "Shimazu Tadashige" #NT!
+ JAP_Toshinari_Maeda: "Toshinari Maeda" #NT!
+ JAP_Kacho_Hironobu: "Kacho Hironobu" #NT!
+ JAP_Oyama_Ikuo: "Ōyama Ikuo" #NT!
+ JAP_Arahata_Kanson: "Arahata Kanson" #NT!
+ JAP_Inoue_Nissho: "Inoue Nissho" #NT!
+ JAP_Tokugawa_Kuniyuki: "Tokugawa Kuniyuki" #NT!
+ JAP_Tokugawa_Iemasa: "Tokugawa Iemasa" #NT!
+ JAP_Matsudaira_Tsuneo: "Matsudaira Tsuneo" #NT!
+ JAP_Nakano_Seigo: "Nakano Seigo" #NT!
+ JAP_Tomoyuki_Yamashita: "Tomoyuki Yamashita" #NT!
+ JAP_Hisaichi_Terauchi: "Hisaichi Terauchi" #NT!
+ JAP_Shunroku_Hata: "Shunroku Hata" #NT!
+ JAP_Akira_Muto: "Akira Muto" #NT!
+ JAP_Kanji_Ishiwara: "Kanji Ishiwara" #NT!
+ JAP_Shizuichi_Tanaka: "Shizuichi Tanaka" #NT!
+ JAP_Yasuji_Okamura: "Yasuji Okamura" #NT!
+ JAP_Toshizo_Nishio: "Toshizo Nishio" #NT!
+ JAP_Rikichi_Ando: "Rikichi Ando" #NT!
+ JAP_Naruhiko_Higashikuni: "Naruhiko Higashikuni" #NT!
+ JAP_Seishiro_Itagaki: "Seishiro Itagaki" #NT!
+ JAP_Takashi_Sakai: "Takashi Sakai" #NT!
+ JAP_Kenji_Doihara: "Kenji Doihara" #NT!
+ JAP_Kenkichi_Ueda: "Kenkichi Ueda" #NT!
+ JAP_Shigeru_Honjo: "Shigeru Honjo" #NT!
+ JAP_Yoshijiro_Umezu: "Yoshijiro Umezu" #NT!
+ JAP_Otozo_Yamada: "Otozo Yamada" #NT!
+ JAP_Hatazo_Adachi: "Hatazo Adachi" #NT!
+ JAP_Iwane_Matsui: "Iwane Matsui" #NT!
+ JAP_Sadao_Araki: "Sadao Araki" #NT!
+ JAP_Keisuke_Fujie: "Keisuke Fujie" #NT!
+ JAP_Kiichiro_Higuchi: "Kiichiro Higuchi" #NT!
+ JAP_Masaharu_Homma: "Masaharu Homma" #NT!
+ JAP_Harukichi_Hyakutake: "Harukichi Hyakutake" #NT!
+ JAP_Jo_Iimura: "Jo Iimura" #NT!
+ JAP_Hitoshi_Imamura: "Hitoshi Imamura" #NT!
+ JAP_Masatane_Kanda: "Masatane Kanda" #NT!
+ JAP_Kuniaki_Koiso: "Kuniaki Koiso" #NT!
+ JAP_Isoroku_Yamamoto: "Isoroku Yamamoto" #NT!
+ JAP_Mineichi_Koga: "Mineichi Koga" #NT!
+ JAP_Kiyoshi_Hasegawa: "Kiyoshi Hasegawa" #NT!
+ JAP_Shigeyoshi_Inoue: "Shigeyoshi Inoue" #NT!
+ JAP_Nobutake_Kondo: "Nobutake Kondō" #NT!
+ JAP_Takeo_Takagi: "Takeo Takagi" #NT!
+ JAP_Soemu_Toyoda: "Soemu Toyoda" #NT!
+ JAP_Jisaburo_Ozawa: "Jisaburo Ozawa" #NT!
+ JAP_Zengo_Yoshida: "Zengo Yoshida" #NT!
+ JAP_Hiroaki_Abe: "Hiroaki Abe" #NT!
+ JAP_Tadashige_Daigo: "Tadashige Daigo" #NT!
+ JAP_Gengo_Hyakutake: "Gengo Hyakutake" #NT!
+ JAP_Suzuki_Mosaburo: "Suzuki Mosaburo" #NT!
+ JAP_Abe_Iso: "Abe Iso" #NT!
+ JAP_Katayama_Tetsu: "Katayama Tetsu" #NT!
+ JAP_Hamaguchi_Osachi: "Hamaguchi Osachi" #NT!
+ JAP_Machida_Chuji: "Machida Chuji" #NT!
+ JAP_Miki_Bukichi: "Miki Bukichi" #NT!
+ JAP_Ugaki_Kazushige: "Ugaki Kazushige" #NT!
+ JAP_Hatoyama_Ichiro: "Hatoyama Ichiro" #NT!
+ JAP_Inukai_Tsuyoshi: "Inukai Tsuyoshi" #NT!
+ JAP_Mitsuchi_Chuzo: "Mitsuchi Chuzo" #NT!
+ JAP_Mizuno_Rentaro: "Mizuno Rentaro" #NT!
+ JAP_Suzuki_Kisaburo: "Suzuki Kisaburo" #NT!
+ JAP_Yoshizawa_Kenkichi: "Yoshizawa Kenkichi" #NT!
+ JAP_Adachi_Kenzo: "Adachi Kenzo" #NT!
+ JAP_Maeda_Yonezo: "Maeda Yonezo" #NT!
+ JAP_Nakajima_Chikuhei: "Nakajima Chikuhei" #NT!
+ JAP_Hayashi_Senjuro: "Hayashi Senjuro" #NT!
+ JAP_Hiranuma_Kiichiro: "Hiranuma Kiichiro" #NT!
+ JAP_Nagata_Tetsuzan: "Nagata Tetsuzan" #NT!
+ JAP_Tojo_Hideki: "Tojo Hideki" #NT!
+ JAP_Araki_Sadao: "Araki Sadao" #NT!
+ JAP_Konoe_Fumimaro: "Konoe Fumimaro" #NT!
+ JAP_Kuhara_Fusanosuke: "Kuhara Fusanosuke" #NT!
+ JAP_Fukumoto_Kazuo: "Fukumoto Kazuo" #NT!
+ JAP_Yamamoto_Kenzo: "Yamamoto Kenzo" #NT!
+ JAP_Shidehara_Kijuro: "Shidehara Kijuro" #NT!
+ JAP_Ashida_Hitoshi: "Ashida Hitoshi" #NT!
+ JAP_Yoshida_Shigeru: "Yoshida Shigeru" #NT!
+ JAP_Naotake_Sato: "Naotake Sato" #NT!
+ JAP_Arita_Hachiro: "Arita Hachiro" #NT!
+ JAP_Hirota_Koki: "Hirota Koki" #NT!
+ JAP_Ogawa_Gotaro: "Ogawa Gotaro" #NT!
+ JAP_Hayashi_Fusao: "Hayashi Fusao" #NT!
+ JAP_Mushanokoji_Kintomo: "Musanokoji Kintomo" #NT!
+ JAP_Shiratori_Toshio: "Shiratori Toshio" #NT!
+ JAP_Honda_Kumataro: "Honda Kumataro" #NT!
+ JAP_Tatekawa_Yoshitsugu: "Tatekawa Yoshitsugu" #NT!
+ JAP_Okawa_Shumei: "Okawa Shumei" #NT!
+ JAP_Asanuma_Inejiro: "Asanuma Inejiro" #NT!
+ JAP_Yamada_Moritaro: "Yamada Moritaro" #NT!
+ JAP_Eda_Saburo: "Eda Saburo" #NT!
+ JAP_Mizutani_Chozaburo: "Mizutani Chozaburo" #NT!
+ JAP_Inoue_Junnosuke: "Inoue Junnosuke" #NT!
+ JAP_Matsumura_Kenzo: "Matsumura Kenzo" #NT!
+ JAP_Ikeda_Shigeaki: "Ikeda Shigeaki" #NT!
+ JAP_Matsuno_Tsuruhei: "Matsuno Tsuruhei" #NT!
+ JAP_Oguchi_Kiroku: "Oguchi Kiroku" #NT!
+ JAP_Tsushima_Juichi: "Tsushima Juichi" #NT!
+ JAP_Horikiri_Zenbee: "Horikiri Zenbee" #NT!
+ JAP_Godo_Takuo: "Godo Takuo" #NT!
+ JAP_Shoda_Kazue: "Shoda Kazue" #NT!
+ JAP_Suzuki_Teiichi: "Suzuki Teiichi" #NT!
+ JAP_Etsusaburo_Shiina: "Etsusaburo Shiina" #NT!
+ JAP_Kimura_Takeo: "Kimura Takeo" #NT!
+ JAP_Nagayuki_Asano: "Nagayuki Asano" #NT!
+ JAP_Takashi_Hishikari: "Takashi Hishikari" #NT!
+ JAP_Yoshikawa_Takeo: "Yoshikawa Takeo" #NT!
+ JAP_Sakisaka_Itsuro: "Sakisaka Itsuro" #NT!
+ JAP_Matsuoka_Komakichi: "Matsuoka Komakichi" #NT!
+ JAP_Kawasaki_Katsu: "Kawasaki Katsu" #NT!
+ JAP_Kawasaki_Takukichi: "Kawasaki Takukichi" #NT!
+ JAP_Kimura_Kozaemon: "Kimura Kozaemon" #NT!
+ JAP_Saito_Takao: "Saito Takao" #NT!
+ JAP_Kawamura_Takeji: "Kawamura Takeji" #NT!
+ JAP_Ohara_Naoshi: "Ohara Naoshi" #NT!
+ JAP_Akita_Kiyoshi: "Akita Kiyoshi" #NT!
+ JAP_Mochizuki_Keisuke: "Mochizuki Keisuke" #NT!
+ JAP_Nagai_Ryutaro: "Nagai Ryutaro" #NT!
+ JAP_Oasa_Tadao: "Oasa Tadao" #NT!
+ JAP_Fujie_Keisuke: "Fujie Keisuke" #NT!
+ JAP_Shiono_Suehiko: "Shiono Suehiko" #NT!
+ JAP_Suetsugu_Nobumasa: "Suetsugu Nobumasa" #NT!
+ JAP_Anami_Korechika: "Anami Korechika" #NT!
+ JAP_Kanin_Kotohito: "Kanin Kotohito" #NT!
+ JAP_Sugiyama_Hajime: "Sugiyama Hajime" #NT!
+ JAP_Masaki_Jinzaburo: "Masaki Jinzaburo" #NT!
+ JAP_Nagano_Osami: "Nagano Osami" #NT!
+ JAP_Oikawa_Koshiro: "Oikawa Koshiro" #NT!
+ JAP_Fushimi_Hiroyasu: "Fushimi Hiroyasu" #NT!
+ JAP_Shimada_Shigetaro: "Shimada Shigetaro" #NT!
+ JAP_Teramoto_Kumaichi: "Teramoto Kumaichi" #NT!
+ JAP_Sugawara_Michio: "Sugawara Michio" #NT!
+ JAP_Yoshio_Nishina: "Yoshio Nishina" #NT!
+ JAP_Yoshitoshi_Tokugawa: "Yoshitoshi Tokugawa" #NT!
+ JAP_Hino_Kumazo: "Hino Kumazō" #NT!
+ JAP_Jiro_Minami: "Jirō Minami" #NT!
+  
+  
+  
+ JAP_Tomio_Hara: "Tomio Hara" #NT!
+ JAP_Hideo_Itokawa: "Hideo Itokawa" #NT!
+ JAP_Jiro_Horikoshi: "Jirō Horikoshi" #NT!
+ JAP_Keiji_Fukuda: "Keiji Fukuda" #NT!
+ JAP_Shinichiro_Tomonaga: "Shin'ichirō Tomonaga" #NT!
+ JAP_Taneki_Hisamura: "Taneki Hisamura" #NT!
+ JAP_Yoji_Ito: "Yōji Itō" #NT!

@@ -1,0 +1,20 @@
+﻿l_russian:
+  
+ faction_generic: "Regional Hegemon" #NT!
+  
+ faction_manifest_generic_regional_dominance_name: "Regional Hegemony" #NT!
+ faction_manifest_generic_regional_dominance_desc: "The time has come to carve our place in the sun.\nHave your faction own 150 states." #NT!
+  
+ faction_defender_of_democracy: "Defender of Democracy" #NT!
+  
+ faction_manifest_generic_democratic_bastion_name: "Bastion of Democracy" #NT!
+ faction_manifest_generic_democratic_bastion_desc: "Ensure all countries in the world are either of the following ideologies:\n$social_democrat_color$\n$social_liberal_color$\n$market_liberal_color$\n$social_conservative_color$" #NT!
+  
+ faction_harbinger_of_a_new_order: "Harbinger of a New Order" #NT!
+  
+ faction_manifest_generic_a_new_world_order_name: "A New World Order" #NT!
+ faction_manifest_generic_a_new_world_order_desc: "Ensure all countries in the world are either of the following ideologies:\n$authoritarian_democrat_color$\n$paternal_autocrat_color$\n$national_populist_color$\n$valkist_color$" #NT!
+  
+  # Here because I presume both the USSR and other socialist nations would like this yes 
+ faction_manifest_world_revolution_name: "World Revolution" #NT!
+ faction_manifest_world_revolution_desc: "Ensure all countries in the world are either of the following ideologies:\n$vanguardist_color$\n$collectivist_color$\n$libertarian_socialist_color$" #NT!

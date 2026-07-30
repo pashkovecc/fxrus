@@ -1,0 +1,74 @@
+﻿l_russian:
+  
+ FX_separate_peace: "Will drop out of all current wars\n" #NT!
+ WORLD_second_gw: "The Second Great War" #NT!
+  
+  
+ #UK Related stuff 
+ WAR_NAME_IND_ENG: "Indian Rebellion of 1936" #NT!
+ WAR_NAME_ENG_IND: "Imperial Reconquest of India" #NT!
+ WAR_NAME_ENG_IRE: "The Second IRB Rising" #NT!
+ WAR_NAME_ENG_CAN: "Imperial Restoration of Order to Canada" #NT!
+ WAR_NAME_ENG_AST: "Imperial Restoration of Order to Australia" #NT!
+ WAR_NAME_ENG_NZL: "Imperial Restoration of Order to New Zealand" #NT!
+ WAR_NAME_ENG_SAF: "Imperial Restoration of Order to South Africa" #NT!
+ WAR_NAME_SAF_ZAF: "The Fourth Boer War" #NT!
+  
+ #India 
+ WAR_NAME_INC_IND: "Communist Reunification of India" #NT!
+ WAR_NAME_INC_HYD: "The Princely War" #NT!
+ WAR_NAME_RAJ_IND: "Imperial Reconquest of India" #NT!
+  
+ #Spanish Civil War 
+ WAR_NAME_SPA_SPF: "Spanish Anarchist and Falangist Conflict" #NT!
+ WAR_NAME_SPF_SPA: "Spanish Anarchist and Falangist Conflict" #NT!
+ WAR_NAME_SPR_SPF: "Spanish Republican and Falangist Conflict" #NT!
+ WAR_NAME_SPF_SPR: "Spanish Republican and Falangist Conflict" #NT!
+ WAR_NAME_SPM_SPF: "Spanish Anarchist and Falangist Conflict" #NT!
+ WAR_NAME_SPF_SPM: "Spanish Monarchist and Falangist Conflict" #NT!
+ WAR_NAME_SPA_SPR: "Spanish Anarchist and Republican Conflict" #NT!
+ WAR_NAME_SPR_SPA: "Spanish Anarchist and Republican Conflict" #NT!
+ WAR_NAME_SPM_SPA: "Spanish Anarchist and Monarchist Conflict" #NT!
+ WAR_NAME_SPA_SPM: "Spanish Anarchist and Monarchist Conflict" #NT!
+ WAR_NAME_SPM_SPR: "Spanish Monarchist and Republican Conflict" #NT!
+ WAR_NAME_SPR_SPM: "Spanish Monarchist and Republican Conflict" #NT!
+  
+ #Portuguese Civil War 
+ WAR_NAME_POR_PRR: "Portuguese Civil War" #NT!
+ WAR_NAME_PRR_POR: "Portuguese Civil War" #NT!
+  
+ # #Turkish Civil War 
+ # WAR_NAME_TUR_TRT: "Turkish Civil War" #NT!
+ # WAR_NAME_TRT_TUR: "Turkish Civil War" #NT!
+  
+ #Bulgarian Civil War 
+ WAR_NAME_BUL_BSR: "Bulgarian Civil War" #NT!
+ WAR_NAME_BSR_BUL: "Bulgarian Civil War" #NT!
+  
+ #2nd Russian Civil War 
+ WAR_NAME_SOV_RUS: "Second Russian Civil War" #NT!
+ WAR_NAME_RUS_SOV: "Second Russian Civil War" #NT!
+  
+ #Second Great War 
+ WAR_NAME_GER_FRA: "The Second Great War" #NT!
+ WAR_NAME_FRA_GER: "The Second Great War" #NT!
+  
+ #Third Mexican-American WAR 
+ WAR_NAME_MEX_USA: "Third Mexican-American War" #NT!
+ WAR_NAME_USA_MEX: "Third Mexican-American War" #NT!
+  
+ #Franco-Swiss war 
+ WAR_NAME_FRA_SWI: "The Romandie War" #NT!
+ WAR_NAME_SWI_FRA: "The Romandie War" #NT!
+  
+ #Italo-Swiss war 
+ WAR_NAME_ITA_SWI: "The Tessin War" #NT!
+ WAR_NAME_SWI_ITA: "The Tessin War" #NT!
+  
+ #Franco-Italian war 
+ WAR_NAME_ITA_FRA: "The War of the Mediterranean" #NT!
+ WAR_NAME_FRA_ITA: "The War of the Mediterranean" #NT!
+  
+ #Dahomey-Togoland war 
+ WAR_NAME_DAH_TOG: "War of Togolese Independence" #NT!
+ WAR_NAME_TOG_DAH: "War of Togolese Independence" #NT!

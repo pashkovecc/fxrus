@@ -1,0 +1,448 @@
+﻿l_russian:
+  
+ ### Bihar 
+ BIH_vanguardist: "Bihar" #NT!
+ BIH_vanguardist_ADJ: "Bihari" #NT!
+ BIH_vanguardist_DEF: "Bihar" #NT!
+ BIH_collectivist: "Bihar" #NT!
+ BIH_collectivist_ADJ: "Bihari" #NT!
+ BIH_collectivist_DEF: "Bihar" #NT!
+ BIH_libertarian_socialist: "Bihar" #NT!
+ BIH_libertarian_socialist_ADJ: "Bihari" #NT!
+ BIH_libertarian_socialist_DEF: "Bihar" #NT!
+ BIH_social_democrat: "Bihar" #NT!
+ BIH_social_democrat_ADJ: "Bihari" #NT!
+ BIH_social_democrat_DEF: "Bihar" #NT!
+ BIH_social_liberal: "Bihar" #NT!
+ BIH_social_liberal_ADJ: "Bihari" #NT!
+ BIH_social_liberal_DEF: "Bihar" #NT!
+ BIH_market_liberal: "Bihar" #NT!
+ BIH_market_liberal_ADJ: "Bihari" #NT!
+ BIH_market_liberal_DEF: "Bihar" #NT!
+ BIH_social_conservative: "Bihar" #NT!
+ BIH_social_conservative_ADJ: "Bihari" #NT!
+ BIH_social_conservative_DEF: "Bihar" #NT!
+ BIH_authoritarian_democrat: "Bihar" #NT!
+ BIH_authoritarian_democrat_ADJ: "Bihari" #NT!
+ BIH_authoritarian_democrat_DEF: "Bihar" #NT!
+ BIH_paternal_autocrat: "Bihar" #NT!
+ BIH_paternal_autocrat_ADJ: "Bihari" #NT!
+ BIH_paternal_autocrat_DEF: "Bihar" #NT!
+ BIH_national_populist: "Bihar" #NT!
+ BIH_national_populist_ADJ: "Bihari" #NT!
+ BIH_national_populist_DEF: "Bihar" #NT!
+ BIH_valkist: "Bihar" #NT!
+ BIH_valkist_ADJ: "Bihari" #NT!
+ BIH_valkist_DEF: "Bihar" #NT!
+  
+ ### Punjab 
+ PUN_vanguardist: "Punjab" #NT!
+ PUN_vanguardist_ADJ: "Punjabi" #NT!
+ PUN_vanguardist_DEF: "Punjab" #NT!
+ PUN_collectivist: "Punjab" #NT!
+ PUN_collectivist_ADJ: "Punjabi" #NT!
+ PUN_collectivist_DEF: "Punjab" #NT!
+ PUN_libertarian_socialist: "Punjab" #NT!
+ PUN_libertarian_socialist_ADJ: "Punjabi" #NT!
+ PUN_libertarian_socialist_DEF: "Punjab" #NT!
+ PUN_social_democrat: "Punjab" #NT!
+ PUN_social_democrat_ADJ: "Punjabi" #NT!
+ PUN_social_democrat_DEF: "Punjab" #NT!
+ PUN_social_liberal: "Punjab" #NT!
+ PUN_social_liberal_ADJ: "Punjabi" #NT!
+ PUN_social_liberal_DEF: "Punjab" #NT!
+ PUN_market_liberal: "Punjab" #NT!
+ PUN_market_liberal_ADJ: "Punjabi" #NT!
+ PUN_market_liberal_DEF: "Punjab" #NT!
+ PUN_social_conservative: "Punjab" #NT!
+ PUN_social_conservative_ADJ: "Punjabi" #NT!
+ PUN_social_conservative_DEF: "Punjab" #NT!
+ PUN_authoritarian_democrat: "Punjab" #NT!
+ PUN_authoritarian_democrat_ADJ: "Punjabi" #NT!
+ PUN_authoritarian_democrat_DEF: "Punjab" #NT!
+ PUN_paternal_autocrat: "Punjab" #NT!
+ PUN_paternal_autocrat_ADJ: "Punjabi" #NT!
+ PUN_paternal_autocrat_DEF: "Punjab" #NT!
+ PUN_national_populist: "Punjab" #NT!
+ PUN_national_populist_ADJ: "Punjabi" #NT!
+ PUN_national_populist_DEF: "Punjab" #NT!
+ PUN_valkist: "Punjab" #NT!
+ PUN_valkist_ADJ: "Punjabi" #NT!
+ PUN_valkist_DEF: "Punjab" #NT!
+  
+ ### Baluchistan 
+ BAL_vanguardist: "Baluchistan" #NT!
+ BAL_vanguardist_ADJ: "Baluchistani" #NT!
+ BAL_vanguardist_DEF: "Baluchistan" #NT!
+ BAL_collectivist: "Baluchistan" #NT!
+ BAL_collectivist_ADJ: "Baluchistani" #NT!
+ BAL_collectivist_DEF: "Baluchistan" #NT!
+ BAL_libertarian_socialist: "Baluchistan" #NT!
+ BAL_libertarian_socialist_ADJ: "Baluchistani" #NT!
+ BAL_libertarian_socialist_DEF: "Baluchistan" #NT!
+ BAL_social_democrat: "Baluchistan" #NT!
+ BAL_social_democrat_ADJ: "Baluchistani" #NT!
+ BAL_social_democrat_DEF: "Baluchistan" #NT!
+ BAL_social_liberal: "Baluchistan" #NT!
+ BAL_social_liberal_ADJ: "Baluchistani" #NT!
+ BAL_social_liberal_DEF: "Baluchistan" #NT!
+ BAL_market_liberal: "Baluchistan" #NT!
+ BAL_market_liberal_ADJ: "Baluchistani" #NT!
+ BAL_market_liberal_DEF: "Baluchistan" #NT!
+ BAL_social_conservative: "Baluchistan" #NT!
+ BAL_social_conservative_ADJ: "Baluchistani" #NT!
+ BAL_social_conservative_DEF: "Baluchistan" #NT!
+ BAL_authoritarian_democrat: "Baluchistan" #NT!
+ BAL_authoritarian_democrat_ADJ: "Baluchistani" #NT!
+ BAL_authoritarian_democrat_DEF: "Baluchistan" #NT!
+ BAL_paternal_autocrat: "Baluchistan" #NT!
+ BAL_paternal_autocrat_ADJ: "Baluchistani" #NT!
+ BAL_paternal_autocrat_DEF: "Baluchistan" #NT!
+ BAL_national_populist: "Baluchistan" #NT!
+ BAL_national_populist_ADJ: "Baluchistani" #NT!
+ BAL_national_populist_DEF: "Baluchistan" #NT!
+ BAL_valkist: "Baluchistan" #NT!
+ BAL_valkist_ADJ: "Baluchistani" #NT!
+ BAL_valkist_DEF: "Baluchistan" #NT!
+  
+ ### Bombay 
+ BOM_vanguardist: "Bombay" #NT!
+ BOM_vanguardist_ADJ: "Bombayan" #NT!
+ BOM_vanguardist_DEF: "Bombay" #NT!
+ BOM_collectivist: "Bombay" #NT!
+ BOM_collectivist_ADJ: "Bombayan" #NT!
+ BOM_collectivist_DEF: "Bombay" #NT!
+ BOM_libertarian_socialist: "Bombay" #NT!
+ BOM_libertarian_socialist_ADJ: "Bombayan" #NT!
+ BOM_libertarian_socialist_DEF: "Bombay" #NT!
+ BOM_social_democrat: "Bombay" #NT!
+ BOM_social_democrat_ADJ: "Bombayan" #NT!
+ BOM_social_democrat_DEF: "Bombay" #NT!
+ BOM_social_liberal: "Bombay" #NT!
+ BOM_social_liberal_ADJ: "Bombayan" #NT!
+ BOM_social_liberal_DEF: "Bombay" #NT!
+ BOM_market_liberal: "Bombay" #NT!
+ BOM_market_liberal_ADJ: "Bombayan" #NT!
+ BOM_market_liberal_DEF: "Bombay" #NT!
+ BOM_social_conservative: "Bombay" #NT!
+ BOM_social_conservative_ADJ: "Bombayan" #NT!
+ BOM_social_conservative_DEF: "Bombay" #NT!
+ BOM_authoritarian_democrat: "Bombay" #NT!
+ BOM_authoritarian_democrat_ADJ: "Bombayan" #NT!
+ BOM_authoritarian_democrat_DEF: "Bombay" #NT!
+ BOM_paternal_autocrat: "Bombay" #NT!
+ BOM_paternal_autocrat_ADJ: "Bombayan" #NT!
+ BOM_paternal_autocrat_DEF: "Bombay" #NT!
+ BOM_national_populist: "Bombay" #NT!
+ BOM_national_populist_ADJ: "Bombayan" #NT!
+ BOM_national_populist_DEF: "Bombay" #NT!
+ BOM_valkist: "Bombay" #NT!
+ BOM_valkist_ADJ: "Bombayan" #NT!
+ BOM_valkist_DEF: "Bombay" #NT!
+  
+ ### Gujarat 
+ GUJ_vanguardist: "Gujarat" #NT!
+ GUJ_vanguardist_ADJ: "Gujarati" #NT!
+ GUJ_vanguardist_DEF: "Gujarat" #NT!
+ GUJ_collectivist: "Gujarat" #NT!
+ GUJ_collectivist_ADJ: "Gujarati" #NT!
+ GUJ_collectivist_DEF: "Gujarat" #NT!
+ GUJ_libertarian_socialist: "Gujarat" #NT!
+ GUJ_libertarian_socialist_ADJ: "Gujarati" #NT!
+ GUJ_libertarian_socialist_DEF: "Gujarat" #NT!
+ GUJ_social_democrat: "Gujarat" #NT!
+ GUJ_social_democrat_ADJ: "Gujarati" #NT!
+ GUJ_social_democrat_DEF: "Gujarat" #NT!
+ GUJ_social_liberal: "Gujarat" #NT!
+ GUJ_social_liberal_ADJ: "Gujarati" #NT!
+ GUJ_social_liberal_DEF: "Gujarat" #NT!
+ GUJ_market_liberal: "Gujarat" #NT!
+ GUJ_market_liberal_ADJ: "Gujarati" #NT!
+ GUJ_market_liberal_DEF: "Gujarat" #NT!
+ GUJ_social_conservative: "Gujarat" #NT!
+ GUJ_social_conservative_ADJ: "Gujarati" #NT!
+ GUJ_social_conservative_DEF: "Gujarat" #NT!
+ GUJ_authoritarian_democrat: "Gujarat" #NT!
+ GUJ_authoritarian_democrat_ADJ: "Gujarati" #NT!
+ GUJ_authoritarian_democrat_DEF: "Gujarat" #NT!
+ GUJ_paternal_autocrat: "Gujarat" #NT!
+ GUJ_paternal_autocrat_ADJ: "Gujarati" #NT!
+ GUJ_paternal_autocrat_DEF: "Gujarat" #NT!
+ GUJ_national_populist: "Gujarat" #NT!
+ GUJ_national_populist_ADJ: "Gujarati" #NT!
+ GUJ_national_populist_DEF: "Gujarat" #NT!
+ GUJ_valkist: "Gujarat" #NT!
+ GUJ_valkist_ADJ: "Gujarati" #NT!
+ GUJ_valkist_DEF: "Gujarat" #NT!
+  
+ ### Kashmir 
+ KAS_vanguardist: "Kashmir" #NT!
+ KAS_vanguardist_ADJ: "Kashmiri" #NT!
+ KAS_vanguardist_DEF: "Kashmir" #NT!
+ KAS_collectivist: "Kashmir" #NT!
+ KAS_collectivist_ADJ: "Kashmiri" #NT!
+ KAS_collectivist_DEF: "Kashmir" #NT!
+ KAS_libertarian_socialist: "Kashmir" #NT!
+ KAS_libertarian_socialist_ADJ: "Kashmiri" #NT!
+ KAS_libertarian_socialist_DEF: "Kashmir" #NT!
+ KAS_social_democrat: "Kashmir" #NT!
+ KAS_social_democrat_ADJ: "Kashmiri" #NT!
+ KAS_social_democrat_DEF: "Kashmir" #NT!
+ KAS_social_liberal: "Kashmir" #NT!
+ KAS_social_liberal_ADJ: "Kashmiri" #NT!
+ KAS_social_liberal_DEF: "Kashmir" #NT!
+ KAS_market_liberal: "Kashmir" #NT!
+ KAS_market_liberal_ADJ: "Kashmiri" #NT!
+ KAS_market_liberal_DEF: "Kashmir" #NT!
+ KAS_social_conservative: "Kashmir" #NT!
+ KAS_social_conservative_ADJ: "Kashmiri" #NT!
+ KAS_social_conservative_DEF: "Kashmir" #NT!
+ KAS_authoritarian_democrat: "Kashmir" #NT!
+ KAS_authoritarian_democrat_ADJ: "Kashmiri" #NT!
+ KAS_authoritarian_democrat_DEF: "Kashmir" #NT!
+ KAS_paternal_autocrat: "Kashmir" #NT!
+ KAS_paternal_autocrat_ADJ: "Kashmiri" #NT!
+ KAS_paternal_autocrat_DEF: "Kashmir" #NT!
+ KAS_national_populist: "Kashmir" #NT!
+ KAS_national_populist_ADJ: "Kashmiri" #NT!
+ KAS_national_populist_DEF: "Kashmir" #NT!
+ KAS_valkist: "Kashmir" #NT!
+ KAS_valkist_ADJ: "Kashmiri" #NT!
+ KAS_valkist_DEF: "Kashmir" #NT!
+  
+ ### Khalistan 
+ KHA_vanguardist: "Khalistan" #NT!
+ KHA_vanguardist_ADJ: "Khalistani" #NT!
+ KHA_vanguardist_DEF: "Khalistan" #NT!
+ KHA_collectivist: "Khalistan" #NT!
+ KHA_collectivist_ADJ: "Khalistani" #NT!
+ KHA_collectivist_DEF: "Khalistan" #NT!
+ KHA_libertarian_socialist: "Khalistan" #NT!
+ KHA_libertarian_socialist_ADJ: "Khalistani" #NT!
+ KHA_libertarian_socialist_DEF: "Khalistan" #NT!
+ KHA_social_democrat: "Khalistan" #NT!
+ KHA_social_democrat_ADJ: "Khalistani" #NT!
+ KHA_social_democrat_DEF: "Khalistan" #NT!
+ KHA_social_liberal: "Khalistan" #NT!
+ KHA_social_liberal_ADJ: "Khalistani" #NT!
+ KHA_social_liberal_DEF: "Khalistan" #NT!
+ KHA_market_liberal: "Khalistan" #NT!
+ KHA_market_liberal_ADJ: "Khalistani" #NT!
+ KHA_market_liberal_DEF: "Khalistan" #NT!
+ KHA_social_conservative: "Khalistan" #NT!
+ KHA_social_conservative_ADJ: "Khalistani" #NT!
+ KHA_social_conservative_DEF: "Khalistan" #NT!
+ KHA_authoritarian_democrat: "Khalistan" #NT!
+ KHA_authoritarian_democrat_ADJ: "Khalistani" #NT!
+ KHA_authoritarian_democrat_DEF: "Khalistan" #NT!
+ KHA_paternal_autocrat: "Khalistan" #NT!
+ KHA_paternal_autocrat_ADJ: "Khalistani" #NT!
+ KHA_paternal_autocrat_DEF: "Khalistan" #NT!
+ KHA_national_populist: "Khalistan" #NT!
+ KHA_national_populist_ADJ: "Khalistani" #NT!
+ KHA_national_populist_DEF: "Khalistan" #NT!
+ KHA_valkist: "Khalistan" #NT!
+ KHA_valkist_ADJ: "Khalistani" #NT!
+ KHA_valkist_DEF: "Khalistan" #NT!
+  
+ ### Madras 
+ MDR_vanguardist: "Madras" #NT!
+ MDR_vanguardist_ADJ: "Madrasi" #NT!
+ MDR_vanguardist_DEF: "Madras" #NT!
+ MDR_collectivist: "Madras" #NT!
+ MDR_collectivist_ADJ: "Madrasi" #NT!
+ MDR_collectivist_DEF: "Madras" #NT!
+ MDR_libertarian_socialist: "Madras" #NT!
+ MDR_libertarian_socialist_ADJ: "Madrasi" #NT!
+ MDR_libertarian_socialist_DEF: "Madras" #NT!
+ MDR_social_democrat: "Madras" #NT!
+ MDR_social_democrat_ADJ: "Madrasi" #NT!
+ MDR_social_democrat_DEF: "Madras" #NT!
+ MDR_social_liberal: "Madras" #NT!
+ MDR_social_liberal_ADJ: "Madrasi" #NT!
+ MDR_social_liberal_DEF: "Madras" #NT!
+ MDR_market_liberal: "Madras" #NT!
+ MDR_market_liberal_ADJ: "Madrasi" #NT!
+ MDR_market_liberal_DEF: "Madras" #NT!
+ MDR_social_conservative: "Madras" #NT!
+ MDR_social_conservative_ADJ: "Madrasi" #NT!
+ MDR_social_conservative_DEF: "Madras" #NT!
+ MDR_authoritarian_democrat: "Madras" #NT!
+ MDR_authoritarian_democrat_ADJ: "Madrasi" #NT!
+ MDR_authoritarian_democrat_DEF: "Madras" #NT!
+ MDR_paternal_autocrat: "Madras" #NT!
+ MDR_paternal_autocrat_ADJ: "Madrasi" #NT!
+ MDR_paternal_autocrat_DEF: "Madras" #NT!
+ MDR_national_populist: "Madras" #NT!
+ MDR_national_populist_ADJ: "Madrasi" #NT!
+ MDR_national_populist_DEF: "Madras" #NT!
+ MDR_valkist: "Madras" #NT!
+ MDR_valkist_ADJ: "Madrasi" #NT!
+ MDR_valkist_DEF: "Madras" #NT!
+  
+ ### Mysore 
+ MYS_vanguardist: "Mysore" #NT!
+ MYS_vanguardist_ADJ: "Mysore" #NT!
+ MYS_vanguardist_DEF: "Mysore" #NT!
+ MYS_collectivist: "Mysore" #NT!
+ MYS_collectivist_ADJ: "Mysore" #NT!
+ MYS_collectivist_DEF: "Mysore" #NT!
+ MYS_libertarian_socialist: "Mysore" #NT!
+ MYS_libertarian_socialist_ADJ: "Mysore" #NT!
+ MYS_libertarian_socialist_DEF: "Mysore" #NT!
+ MYS_social_democrat: "Mysore" #NT!
+ MYS_social_democrat_ADJ: "Mysore" #NT!
+ MYS_social_democrat_DEF: "Mysore" #NT!
+ MYS_social_liberal: "Mysore" #NT!
+ MYS_social_liberal_ADJ: "Mysore" #NT!
+ MYS_social_liberal_DEF: "Mysore" #NT!
+ MYS_market_liberal: "Mysore" #NT!
+ MYS_market_liberal_ADJ: "Mysore" #NT!
+ MYS_market_liberal_DEF: "Mysore" #NT!
+ MYS_social_conservative: "Mysore" #NT!
+ MYS_social_conservative_ADJ: "Mysore" #NT!
+ MYS_social_conservative_DEF: "Mysore" #NT!
+ MYS_authoritarian_democrat: "Mysore" #NT!
+ MYS_authoritarian_democrat_ADJ: "Mysore" #NT!
+ MYS_authoritarian_democrat_DEF: "Mysore" #NT!
+ MYS_paternal_autocrat: "Mysore" #NT!
+ MYS_paternal_autocrat_ADJ: "Mysore" #NT!
+ MYS_paternal_autocrat_DEF: "Mysore" #NT!
+ MYS_national_populist: "Mysore" #NT!
+ MYS_national_populist_ADJ: "Mysore" #NT!
+ MYS_national_populist_DEF: "Mysore" #NT!
+ MYS_valkist: "Mysore" #NT!
+ MYS_valkist_ADJ: "Mysore" #NT!
+ MYS_valkist_DEF: "Mysore" #NT!
+  
+ ### Orissa 
+ ORI_vanguardist: "Orissa" #NT!
+ ORI_vanguardist_ADJ: "Orissan" #NT!
+ ORI_vanguardist_DEF: "Orissa" #NT!
+ ORI_collectivist: "Orissa" #NT!
+ ORI_collectivist_ADJ: "Orissan" #NT!
+ ORI_collectivist_DEF: "Orissa" #NT!
+ ORI_libertarian_socialist: "Orissa" #NT!
+ ORI_libertarian_socialist_ADJ: "Orissan" #NT!
+ ORI_libertarian_socialist_DEF: "Orissa" #NT!
+ ORI_social_democrat: "Orissa" #NT!
+ ORI_social_democrat_ADJ: "Orissan" #NT!
+ ORI_social_democrat_DEF: "Orissa" #NT!
+ ORI_social_liberal: "Orissa" #NT!
+ ORI_social_liberal_ADJ: "Orissan" #NT!
+ ORI_social_liberal_DEF: "Orissa" #NT!
+ ORI_market_liberal: "Orissa" #NT!
+ ORI_market_liberal_ADJ: "Orissan" #NT!
+ ORI_market_liberal_DEF: "Orissa" #NT!
+ ORI_social_conservative: "Orissa" #NT!
+ ORI_social_conservative_ADJ: "Orissan" #NT!
+ ORI_social_conservative_DEF: "Orissa" #NT!
+ ORI_authoritarian_democrat: "Orissa" #NT!
+ ORI_authoritarian_democrat_ADJ: "Orissan" #NT!
+ ORI_authoritarian_democrat_DEF: "Orissa" #NT!
+ ORI_paternal_autocrat: "Orissa" #NT!
+ ORI_paternal_autocrat_ADJ: "Orissan" #NT!
+ ORI_paternal_autocrat_DEF: "Orissa" #NT!
+ ORI_national_populist: "Orissa" #NT!
+ ORI_national_populist_ADJ: "Orissan" #NT!
+ ORI_national_populist_DEF: "Orissa" #NT!
+ ORI_valkist: "Orissa" #NT!
+ ORI_valkist_ADJ: "Orissan" #NT!
+ ORI_valkist_DEF: "Orissa" #NT!
+  
+ ### Travancore 
+ TRV_vanguardist: "Travancore" #NT!
+ TRV_vanguardist_ADJ: "Travancore" #NT!
+ TRV_vanguardist_DEF: "Travancore" #NT!
+ TRV_collectivist: "Travancore" #NT!
+ TRV_collectivist_ADJ: "Travancore" #NT!
+ TRV_collectivist_DEF: "Travancore" #NT!
+ TRV_libertarian_socialist: "Travancore" #NT!
+ TRV_libertarian_socialist_ADJ: "Travancore" #NT!
+ TRV_libertarian_socialist_DEF: "Travancore" #NT!
+ TRV_social_democrat: "Travancore" #NT!
+ TRV_social_democrat_ADJ: "Travancore" #NT!
+ TRV_social_democrat_DEF: "Travancore" #NT!
+ TRV_social_liberal: "Travancore" #NT!
+ TRV_social_liberal_ADJ: "Travancore" #NT!
+ TRV_social_liberal_DEF: "Travancore" #NT!
+ TRV_market_liberal: "Travancore" #NT!
+ TRV_market_liberal_ADJ: "Travancore" #NT!
+ TRV_market_liberal_DEF: "Travancore" #NT!
+ TRV_social_conservative: "Travancore" #NT!
+ TRV_social_conservative_ADJ: "Travancore" #NT!
+ TRV_social_conservative_DEF: "Travancore" #NT!
+ TRV_authoritarian_democrat: "Travancore" #NT!
+ TRV_authoritarian_democrat_ADJ: "Travancore" #NT!
+ TRV_authoritarian_democrat_DEF: "Travancore" #NT!
+ TRV_paternal_autocrat: "Travancore" #NT!
+ TRV_paternal_autocrat_ADJ: "Travancore" #NT!
+ TRV_paternal_autocrat_DEF: "Travancore" #NT!
+ TRV_national_populist: "Travancore" #NT!
+ TRV_national_populist_ADJ: "Travancore" #NT!
+ TRV_national_populist_DEF: "Travancore" #NT!
+ TRV_valkist: "Travancore" #NT!
+ TRV_valkist_ADJ: "Travancore" #NT!
+ TRV_valkist_DEF: "Travancore" #NT!
+  
+ # Bengal 
+ BNG_vanguardist: "Bengal" #NT!
+ BNG_vanguardist_ADJ: "Bengal" #NT!
+ BNG_vanguardist_DEF: "Bengal" #NT!
+ BNG_collectivist: "Bengal" #NT!
+ BNG_collectivist_ADJ: "Bengal" #NT!
+ BNG_collectivist_DEF: "Bengal" #NT!
+ BNG_libertarian_socialist: "Bengal" #NT!
+ BNG_libertarian_socialist_ADJ: "Bengal" #NT!
+ BNG_libertarian_socialist_DEF: "Bengal" #NT!
+ BNG_social_democrat: "Bengal" #NT!
+ BNG_social_democrat_ADJ: "Bengal" #NT!
+ BNG_social_democrat_DEF: "Bengal" #NT!
+ BNG_social_liberal: "Bengal" #NT!
+ BNG_social_liberal_ADJ: "Bengal" #NT!
+ BNG_social_liberal_DEF: "Bengal" #NT!
+ BNG_market_liberal: "Bengal" #NT!
+ BNG_market_liberal_ADJ: "Bengal" #NT!
+ BNG_market_liberal_DEF: "Bengal" #NT!
+ BNG_social_conservative: "Bengal" #NT!
+ BNG_social_conservative_ADJ: "Bengal" #NT!
+ BNG_social_conservative_DEF: "Bengal" #NT!
+ BNG_authoritarian_democrat: "Bengal" #NT!
+ BNG_authoritarian_democrat_ADJ: "Bengal" #NT!
+ BNG_authoritarian_democrat_DEF: "Bengal" #NT!
+ BNG_paternal_autocrat: "Bengal" #NT!
+ BNG_paternal_autocrat_ADJ: "Bengal" #NT!
+ BNG_paternal_autocrat_DEF: "Bengal" #NT!
+ BNG_national_populist: "Bengal" #NT!
+ BNG_national_populist_ADJ: "Bengal" #NT!
+ BNG_national_populist_DEF: "Bengal" #NT!
+ BNG_valkist: "Bengal" #NT!
+ BNG_valkist_ADJ: "Bengal" #NT!
+ BNG_valkist_DEF: "Bengal" #NT!
+  
+ ### Ceylon 
+ SRL: "Ceylon" #NT!
+ SRL_DEF: "The State of Ceylon" #NT!
+ SRL_ADJ: "Ceylonese" #NT!
+  
+ ### Maldives 
+ MLD: "Мальдивы"
+ MLD_DEF: "Мальдивы"
+ MLD_ADJ: "Мальдивск"
+  
+  
+ ### Characters 
+ BAL_Ahmad_Yar_Khan: "Ahmad Yar Khan" #NT!
+ BIH_Aditya_Pratap_Singh: "Aditya Pratap Singh" #NT!
+ BNG_Muzaffar_Ahmad: "Muzaffar Ahmad" #NT!
+ BOM_Jamnalal_Bajaj: "Jamnalal Bajaj" #NT!
+  
+ ORI_Biswanath_Das: "Biswanath Das" #NT!
+ PUN_Sadeq_Mohammad_Khan_V: "Sadeq Mohammad Khan V" #NT!
+ PUN_Mirza_Basheer_Ud_Din_Mahmood_Ahmad: "Mirza Basheer-Ud-Din Mahmood Ahmad" #NT!
+ TRV_Chithira_Thirunal_Balarama_Varma: "Chithira Thirunal Balarama Varma" #NT!
+ KAS_Mirza_Basheer_Ud_Din_Mahmood_Ahmad: "Mirza Basheer-Ud-Din Mahmood Ahmad" #NT!
+ KAS_Hari_Singh: "Hari Singh" #NT!
+ HYD_Osman_Ali_Khan: "Osman Ali Khan" #NT!
+ MDR_Yeshwantrao_Ghorpade: "Yeshwantrao Ghorpade" #NT!
+ MYS_Krishna_Raja_Wadiyar_IV: "Krishna Raja Wadiyar IV" #NT!

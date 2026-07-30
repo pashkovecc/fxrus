@@ -1,0 +1,36 @@
+﻿l_russian:
+  
+ ICE: "Исландия"
+ ICE_ADJ: "Исландск"
+ ICE_DEF: "Исландия"
+  
+ ### Parties 
+ ICE_vanguardist_party: "A" #NT!
+ ICE_vanguardist_party_long: "Alþýðubandalagið\n§gPeople's Alliance§!" #NT!
+ ICE_libertarian_socialist_party: "Bændaflokkur" #NT!
+ ICE_libertarian_socialist_party_long: "Bændaflokkur\n§gFarmer's Party§!" #NT!
+ ICE_collectivist_party: "Sósíalist" #NT!
+ ICE_collectivist_party_long: "Sósíalistaflokkurinn\n§gPeople's Unity Party§!" #NT!
+ ICE_social_democrat_party: "Alþýðu" #NT!
+ ICE_social_democrat_party_long: "Alþýðuflokkurinn\n§gSocial Democrat Party§!" #NT!
+ ICE_market_liberal_party: "Sjálfstæðis" #NT!
+ ICE_market_liberal_party_long: "Sjálfstæðisflokkurinn\n§gIndependence Party§!" #NT!
+ ICE_social_liberal_party: "Framsóknar" #NT!
+ ICE_social_liberal_party_long: "Framsóknarflokkurinn\n§gProgressive Party§!" #NT!
+ ICE_social_conservative_party: "Sjálfstæðis" #NT!
+ ICE_social_conservative_party_long: "Sjálfstæðisflokkurinn\n§gIndependence Party§!" #NT!
+ ICE_authoritarian_democrat_party: "DS" #NT!
+ ICE_authoritarian_democrat_party_long: "Dansk Samling\n§gDanish Unity§!" #NT!
+ ICE_paternal_autocrat_party: "Heimastjórnar" #NT!
+ ICE_paternal_autocrat_party_long: "Heimastjórnarflokkurinn\n§gHome Rule Party§!" #NT!
+ ICE_national_populist_party: "FP" #NT!
+ ICE_national_populist_party_long: "Flokkur Þjóðernissinna\n§gNationalist Party§!" #NT!
+ ICE_valkist_party: "DS" #NT!
+ ICE_valkist_party_long: "Dansk Samling\n§gDanish Unity§!" #NT!
+  
+ ICE_Sveinn_Bjornsson: "Sveinn Björnsson" #NT!
+ ICE_Johannes_Valurson: "Johannes Valurson" #NT!
+ ICE_Haraldur_Gudmunsson: "Haraldur Gudmunsson" #NT!
+ ICE_Einar_Olgeirsson: "Einar Olgeirsson" #NT!
+ ICE_Hermann_Jonasson: "Hermann Jónasson" #NT!
+ ICE_Frederick_IX: "Frederick IX" #NT!

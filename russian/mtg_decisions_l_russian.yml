@@ -1,0 +1,18 @@
+﻿l_russian:
+ governments_in_exile_host: "$governments_in_exile$" 
+ governments_in_exile_host_desc: "$governments_in_exile_desc$" 
+ governments_in_exile_desc: "Несмотря на оккупацию их стран противником, некоторые отважные солдаты и граждане готовы продолжать борьбу. Если мы публично признаем эти правительства в изгнании, они смогут воспользоваться ресурсами местных эмигрантских кругов, чтобы создать свои отряды и сражаться вместе с нами." 
+
+
+
+ toggle_exile_decisions: "[toggle_exile_decisions_text]" 
+
+ toggle_exile_decisions_desc: "[toggle_exile_decisions_desc_text]" 
+
+ toggle_exile_decisions_disable: "Отключить решения с изгнанниками" 
+
+ toggle_exile_decisions_disable_desc: "Скрыть решения, касающиеся правительств в изгнании. Вы сможете включить их позже." 
+
+ toggle_exile_decisions_enable: "Включить решения с изгнанниками" 
+
+ toggle_exile_decisions_enable_desc: "Показать решения, касающиеся правительств в изгнании. Их всегда можно снова скрыть." 

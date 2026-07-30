@@ -1,0 +1,30 @@
+﻿l_russian:
+  
+  #Reichspakt AI Faction Theatres 
+ reichspakt_theatre_western_europe: "Reichspakt Western Europe" #NT!
+ reichspakt_theatre_eastern_europe: "Reichspakt Eastern Europe" #NT!
+ reichspakt_theatre_central_europe: "Reichspakt Central Europe" #NT!
+  
+  #Internationale AI Faction Theatres 
+ internationale_theatre_western_europe: "Internationale Western Europe" #NT!
+ internationale_theatre_western_mediterranean: "Internationale Western Mediterranean" #NT!
+  
+  #Moscow Accord AI Faction Theatres 
+ moscow_accord_theatre_eastern_europe: "Moscow Accord Eastern Europe" #NT!
+ moscow_accord_theatre_central_europe: "Moscow Accord Central Europe" #NT!
+  
+  #Entente AI Faction Theatres 
+ entente_theatre_western_europe: "Entente Western Europe" #NT!
+ entente_theatre_western_mediterranean: "Entente Western Mediterranean" #NT!
+ entente_theatre_eastern_north_america: "Entente Eastern North America" #NT!
+  
+  #Co-Prosperity Sphere AI Faction Theatres 
+ co_prosperity_sphere_theatre_northern_china: "Co-Prosperity Sphere Northern China" #NT!
+ co_prosperity_sphere_theatre_southern_china: "Co-Prosperity Sphere Southern China" #NT!
+  
+  #Chinese United Front AI Faction Theatres 
+ chinese_united_front_theatre_northern_china: "Chinese United Front Northern China" #NT!
+ chinese_united_front_theatre_southern_china: "Chinese United Front Southern China" #NT!
+  
+  # so these are in the game now, since this is AI-modding I'd rather leave it for later..., but we shall see ~ retiredlt24 
+  

@@ -1,0 +1,101 @@
+﻿l_russian:
+  
+ ### Country Names 
+ ISR_vanguardist: "Jewish Commonwealth" #NT!
+ ISR_vanguardist_ADJ: "Israeli" #NT!
+ ISR_vanguardist_DEF: "the Jewish Commonwealth" #NT!
+ ISR_collectivist: "Jewish Commonwealth" #NT!
+ ISR_collectivist_ADJ: "Israeli" #NT!
+ ISR_collectivist_DEF: "the Jewish Commonwealth" #NT!
+ ISR_libertarian_socialist: "Jewish Commonwealth" #NT!
+ ISR_libertarian_socialist_ADJ: "Israeli" #NT!
+ ISR_libertarian_socialist_DEF: "the Jewish Commonwealth" #NT!
+ ISR_social_democrat: "Jewish Commonwealth" #NT!
+ ISR_social_democrat_ADJ: "Israeli" #NT!
+ ISR_social_democrat_DEF: "the Jewish Commonwealth" #NT!
+ ISR_social_liberal: "Jewish Commonwealth" #NT!
+ ISR_social_liberal_ADJ: "Israeli" #NT!
+ ISR_social_liberal_DEF: "the Jewish Commonwealth" #NT!
+ ISR_market_liberal: "Jewish Commonwealth" #NT!
+ ISR_market_liberal_ADJ: "Israeli" #NT!
+ ISR_market_liberal_DEF: "the Jewish Commonwealth" #NT!
+ ISR_social_conservative: "Jewish Commonwealth" #NT!
+ ISR_social_conservative_ADJ: "Israeli" #NT!
+ ISR_social_conservative_DEF: "the Jewish Commonwealth" #NT!
+ ISR_authoritarian_democrat: "Jewish Commonwealth" #NT!
+ ISR_authoritarian_democrat_ADJ: "Israeli" #NT!
+ ISR_authoritarian_democrat_DEF: "the Jewish Commonwealth" #NT!
+ ISR_paternal_autocrat: "Jewish Commonwealth" #NT!
+ ISR_paternal_autocrat_ADJ: "Israeli" #NT!
+ ISR_paternal_autocrat_DEF: "the Jewish Commonwealth" #NT!
+ ISR_national_populist: "Jewish Commonwealth" #NT!
+ ISR_national_populist_ADJ: "Israeli" #NT!
+ ISR_national_populist_DEF: "the Jewish Commonwealth" #NT!
+ ISR_valkist: "Jewish Commonwealth" #NT!
+ ISR_valkist_ADJ: "Israeli" #NT!
+ ISR_valkist_DEF: "the Jewish Commonwealth" #NT!
+  
+ #### Parties 
+ ISR_vanguardist_party: "PKP" #NT!
+ ISR_vanguardist_party_long: "Palestinishe Komunistishe Partei\n§gPalestinean Communist Party§!" #NT!
+ ISR_collectivist_party: "Hash Hatz" #NT!
+ ISR_collectivist_party_long: "HaShomer HaTzair\n§gThe Young Guard§!" #NT!
+ ISR_libertarian_socialist_party: "Ahdut Haav - Haki Hame" #NT!
+ ISR_libertarian_socialist_party_long: "Ahdut HaAvoda - HaKibbutz HaMeukhad\n§gLabor Unity - The United Kibbutz§!" #NT!
+ ISR_social_democrat_party: "Hapohatz" #NT!
+ ISR_social_democrat_party_long: "HaPoel HaTzair\n§gThe Young Worker§!" #NT!
+ ISR_social_liberal_party: "Hatz Hakl'im" #NT!
+ ISR_social_liberal_party_long: "HaTzionim HaKlali'im\n§gGeneral Zionists§!" #NT!
+ ISR_market_liberal_party: "Hatz Hakl'im" #NT!
+ ISR_market_liberal_party_long: "HaTzionim HaKlali'im\n§gGeneral Zionists§!" #NT!
+ ISR_social_conservative_party: "Hatz Hakl'im" #NT!
+ ISR_social_conservative_party_long: "HaTzionim HaKlali'im\n§gGeneral Zionists§!" #NT!
+ ISR_authoritarian_democrat_party: "Hapohami" #NT!
+ ISR_authoritarian_democrat_party_long: "Hapoel HaMizrachi\n§gMizrachi Workers§!" #NT!
+ ISR_paternal_autocrat_party: "AY" #NT!
+ ISR_paternal_autocrat_party_long: "Agudat Yisrael\n§gUnion of Israel§!" #NT!
+ ISR_national_populist_party: "HaHazit HaAmamit" #NT!
+ ISR_national_populist_party_long: "HaHazit HaAmamit Shel Yehuda\n§gPopular Front of Judea§!" #NT!
+ ISR_valkist_party: "Havlegihanohaiv" #NT!
+ ISR_valkist_party_long: "HaVaad LeGibush HaNoar HaIvri\n§gThe Committee for the Formation of Hebrew Youth§!" #NT!
+  
+  
+  
+  
+ ### Cosmetic Tags 
+ ISR_JP_vanguardist: "Jewish Protectorate" #NT!
+ ISR_JP_vanguardist_ADJ: "Jewish" #NT!
+ ISR_JP_vanguardist_DEF: "the Jewish Protectorate of Palestine" #NT!
+ ISR_JP_collectivist: "Jewish Protectorate" #NT!
+ ISR_JP_collectivist_ADJ: "Jewish" #NT!
+ ISR_JP_collectivist_DEF: "the Jewish Protectorate of Palestine" #NT!
+ ISR_JP_libertarian_socialist: "Jewish Protectorate" #NT!
+ ISR_JP_libertarian_socialist_ADJ: "Jewish" #NT!
+ ISR_JP_libertarian_socialist_DEF: "the Jewish Protectorate of Palestine" #NT!
+ ISR_JP_social_democrat: "Jewish Protectorate" #NT!
+ ISR_JP_social_democrat_ADJ: "Jewish" #NT!
+ ISR_JP_social_democrat_DEF: "the Jewish Protectorate of Palestine" #NT!
+ ISR_JP_social_liberal: "Jewish Protectorate" #NT!
+ ISR_JP_social_liberal_ADJ: "Jewish" #NT!
+ ISR_JP_social_liberal_DEF: "the Jewish Protectorate of Palestine" #NT!
+ ISR_JP_market_liberal: "Jewish Protectorate" #NT!
+ ISR_JP_market_liberal_ADJ: "Jewish" #NT!
+ ISR_JP_market_liberal_DEF: "the Jewish Protectorate of Palestine" #NT!
+ ISR_JP_social_conservative: "Jewish Protectorate" #NT!
+ ISR_JP_social_conservative_ADJ: "Jewish" #NT!
+ ISR_JP_social_conservative_DEF: "the Jewish Protectorate of Palestine" #NT!
+ ISR_JP_authoritarian_democrat: "Jewish Protectorate" #NT!
+ ISR_JP_authoritarian_democrat_ADJ: "Jewish" #NT!
+ ISR_JP_authoritarian_democrat_DEF: "the Jewish Protectorate of Palestine" #NT!
+ ISR_JP_paternal_autocrat: "Jewish Protectorate" #NT!
+ ISR_JP_paternal_autocrat_ADJ: "Jewish" #NT!
+ ISR_JP_paternal_autocrat_DEF: "the Jewish Protectorate of Palestine" #NT!
+ ISR_JP_national_populist: "Jewish Protectorate" #NT!
+ ISR_JP_national_populist_ADJ: "Jewish" #NT!
+ ISR_JP_national_populist_DEF: "the Jewish Protectorate of Palestine" #NT!
+ ISR_JP_valkist: "Jewish Protectorate" #NT!
+ ISR_JP_valkist_ADJ: "Jewish" #NT!
+ ISR_JP_valkist_DEF: "the Jewish Protectorate of Palestine" #NT!
+  
+ ISR_Chaim_Weizmann: "Chaim Weizmann" #NT!
+ ISR_Gerald_Isaacs: "Gerald Isaacs" #NT!

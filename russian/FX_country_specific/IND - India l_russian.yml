@@ -1,0 +1,244 @@
+﻿l_russian:
+  
+ ### India 
+ IND: "India" #NT!
+ IND_ADJ: "Indian" #NT!
+ IND_DEF: "the Republic of India" #NT!
+  
+ IND_vanguardist_party: "CPI" #NT!
+ IND_vanguardist_party_long: "Communist Party of India" #NT!
+ IND_collectivist_party: "CPI" #NT!
+ IND_collectivist_party_long: "Communist Party of India" #NT!
+ IND_libertarian_socialist_party: "INC - Socialists" #NT!
+ IND_libertarian_socialist_party_long: "Indian National Congress (Socialists)" #NT!
+ IND_social_democrat_party: "INC - Centre" #NT!
+ IND_social_democrat_party_long: "Indian National Congress (Centre)" #NT!
+ IND_social_liberal_party: "ILP" #NT!
+ IND_social_liberal_party_long: "Independent Labour Party" #NT!
+ IND_market_liberal_party: "INLF" #NT!
+ IND_market_liberal_party_long: "Indian National Liberal Federation" #NT!
+ IND_social_conservative_party: "INC - Conservatives" #NT!
+ IND_social_conservative_party_long: "Indian National Congress (Conservatives)" #NT!
+ IND_authoritarian_democrat_party: "Unity Government" #NT!
+ IND_authoritarian_democrat_party_long: "Indian Provisional Unity Government" #NT!
+ IND_paternal_autocrat_party: "Council of Princes" #NT!
+ IND_paternal_autocrat_party_long: "Council of Princes" #NT!
+ IND_national_populist_party: "RSS" #NT!
+ IND_national_populist_party_long: "Rashtriya Swayamsevak Sangh\n§gNational Volunteer Corps§!" #NT!
+ IND_valkist_party: "Hindu Mahasabha" #NT!
+ IND_valkist_party_long: "Akhil Bharatiya Hindu Mahasabha\n§gAll-India Hindu Grand Assembly§!" #NT!
+  
+ IND_inc_nationalist_party: "INC - Nationalists" #NT!
+ IND_inc_nationalist_party_long: "Indian National Congress (Nationalists)" #NT!
+  
+ ### Decisions 
+ # - Revolt 
+ IND_revolt_decisions: "Our Rebellion" #NT!
+ IND_approach_country: "Weapons Deal with the [From.GetName]" #NT!
+ IND_smuggle_weapons_from: "Smuggle [From.GetAdjective] Weapons" #NT!
+ IND_develop_state: "Develop [From.GetName]" #NT!
+  
+ # - Parliament of India 
+ IND_parliament: "The Parliament of India" #NT!
+ IND_parliament_desc: "The Parliament of India is the cornerstone of our very nation. Laws and motions that are agreed upon here will help to unify our nation and get it on a strong footing - if they receive enough support to pass. \n\nThe current breakdown of the 399 seats in the Parliament is:\n\n§CLiberal Coalition: [?ROOT.liberal_seats]\n     Congress Party: 34\n     Indian Liberal Party: 33\n     Swatantra Party: 33\n     Congress Nationalist Party: 33§\n\n§LNationalist Coalition: [?ROOT.nationalist_seats]\n     Provisional Government: 33\n     Military Junta: 33\n     Rashtriya Swayamsevak Sangh: 34\n     Hindu Mahasabha: 33§\n\n§Communist Coalition: [?ROOT.communist_seats]\n     Communist Party of India: 45\n     Revolutionary Socialist Party: 44\n     Radical Democratic Party: 44§\n\n" #NT!
+  
+ # - Reconquer India 
+  
+ IND_unification: "Reunify India" #NT!
+  
+ IND_attack_colonialism: "Destroy the [FROM.GetAdjectiveCap] Imperialists" #NT!
+ IND_secure_siam: "Secure [SIA.GetName]" #NT!
+ IND_secure_afghanistan: "Secure Afghanistan" #NT!
+ IND_join_comintern: "Reach Out to Moscow" #NT!
+ IND_join_stahlpakt: "Alliance with Germany" #NT!
+ IND_join_copro: "Join the Co-prosperity Sphere" #NT!
+ IND_neutrality: "Benevolent Neutrality" #NT!
+ IND_neutrality_tt: "§gThis will set us to pure neutrality - we will not be able to take any further foreign policy decisions§!" #NT!
+  
+ ### Tooltips 
+ IND_Rally_tooltip: "§GUnlocks recruitment decisions.§!\n" #NT!
+ IND_Guerilla_tooltip: "§GUnlocks sabotage decisions.§!\n" #NT!
+ IND_Diplomatic_tooltip: "§GUnlocks diplomatic decisions.§!\n" #NT!
+ IND_Govt: "§GThis will unlock decisions pertaining to our national government.§!\n" #NT!
+ IND_Election: "§RThis will call an election for all seats in Parliament.\nYou are only able to take this option once every three years unless you fail to secure a ruling coalition!§!\n" #NT!
+ IND_developing_state: "Currently developing a different state" #NT!
+ IND_light_cruiser_variant_available_tt: "§CTamar Class§! light cruisers based from the @ENG [ENG.GetAdjective] §YLeander Class Light Cruiser§! will be §Gavailable for production§!" #NT!
+ IND_destroyer_variant_available_tt: "§CDurgam Class§! destroyers based from the @ENG [ENG.GetAdjective] §YA/B/C/D Class Destroyer§! will be §Gavailable for production§!" #NT!
+ IND_submarine_variant_available_tt: "§CChakra Class§! submarines based from the @GER [GER.GetAdjective] §YType II Class Submarine§! will be §Gavailable for production§!" #NT!
+ IND_joining_faction: "We are currently attempting to join a faction" #NT!
+ IND_turn_bose_communist: "§oIf they accept, we will turn National Communist§!" #NT!
+ IND_turn_bose_valkist: "§7If they accept, we will turn Valkist§!" #NT!
+ IND_turn_nehru_communist: "§rIf they accept, we will turn Libertarian Socialist§!" #NT!
+  
+ ### Ideas 
+ IND_rag_army: "Ragtag Army" #NT!
+ IND_fight_chance: "A Fighting Chance" #NT!
+ IND_mahatma_memories: "Memories of the Mahatma" #NT!
+ IND_mahatma_memories_desc: "The British brutally murdered our beloved Mahatma in 1924 for doing nothing but organising peaceful and democratic protests to their rule. We will never forget him nor his legacy, we fight for the Mahatma!" #NT!
+ IND_indian_rebels: "Disorganised Rebellion" #NT!
+ IND_japanese_training: "Japanese Pilot Training" #NT!
+ IND_war_ministry: "The War Ministry" #NT!
+  
+ IND_economic_recovery: "Economic Recovery" #NT!
+ IND_devastated_economy: "Devastated Economy" #NT!
+ IND_improved_worker_conditions: "Improved Worker Conditions" #NT!
+  
+ ### Focuses 
+ IND_reorganize_army: "Reorganize the Indian Army" #NT!
+ IND_reorganize_army_desc: "Our proud Indian army is in disarray following the revolt. Former British-trained soldiers, Gurkhas, local militias and volunteers fight together, but without proper organization. To secure the independence of Indians, we must build a strong, modern army. By training new officers, improving discipline, and equipping our troops properly, we will create a force ready to defend our land and expand our power" #NT!
+ IND_raid_british_arms_depot: "Raid British Armament Depots" #NT!
+ IND_raid_british_arms_depot_desc: "Our fight against British rule requires weapons and the best source is the enemy itself. Launching raids on British armament depots, we can seize rifles, artillery, and ammunition and at the same time weaken their grip on our land. These raids will arm our forces, boost morale and send a clear message that their time here is coming to an end." #NT!
+ IND_establish_the_war_ministry: "Establish the War Ministry" #NT!
+ IND_establish_the_war_ministry_desc: "To sustain and organise our fight and secure the future of India, we need a central command to oversee the army. A War Ministry will organize recruitment, manage supplies and plan military strategy. With clear leadership, our forces will be stronger, better equipped, and ready for the battles ahead, especially with our knowledge of our own lands." #NT!
+ IND_merge_the_militias: "Merge the Militias" #NT!
+ IND_merge_the_militias_desc: "Currently, our armed forces stand as many disparate militias from all across India. While these men are certainly valiant in fighting for their home and freedom, their combat effectiveness compared to even a single battalion of British soldiers leaves much to be desired. As such, we must establish a proper, central army." #NT!
+ IND_smuggle_weapons: "Smuggle Weapons" #NT!
+ IND_smuggle_weapons_desc: "The British blockade will certainly prove tough, nearly impossible even to overcome. As such, our access to overseas weapons is limited. To circumvent this, let us levy contacts with anti-colonial allies to ensure that weapons can reach our forces." #NT!
+ IND_smuggle_weapons_tt: "§GAllows us to smuggle weapons from neutral and or friendly countries§!" #NT!
+ IND_renovate_munitions_factories: "Renovate Munitions Factories" #NT!
+ IND_renovate_munitions_factories_desc: "Unfortunately, India lacks much industry. This is rather unfortunate as without it, how can we hope to maintain our independence and strength? To this end, let us first make use of what we have - with a renovation of our existing arms production." #NT!
+ IND_appeal_to_germany: "Appeal to Germany" #NT!
+ IND_appeal_to_germany_desc: "We and the Germans share much in common despite what it seems - we have both suffered the perils of imperialism, we both desire a re-shaping of the world order into that is more fair and equal and we both desire most of all peace and freedom for all our peoples. Let us reach out to them to see what common ground can bring us." #NT!
+ IND_reclaim_hindustan: "Resistance Against Imperialism" #NT!
+ IND_reclaim_hindustan_desc: "Our war against imperialism and the empires that lord over the oppressed peoples of Asia does not simply end once we ourselves have been freed. The peoples of South Asia and the Middle East cry out for freedom from colonial exploitation, and we must heed their call." #NT!
+ IND_reclaim_hindustan_tt: "§COnce the war is over, we will unlock the following decisions§!" #NT!
+ IND_homegrown_weapons_designs: "Homegrown Weapons Designs" #NT!
+ IND_homegrown_weapons_designs_desc: "While the British may have brought over the most recent designs of today, dependency on such designs is nothing but a disgrace. How can a continent of several hundred million depend on one much smaller country? We must be able to create our own weapon designs" #NT!
+ IND_adopt_modern_tactics: "Adopt Modern Tactics" #NT!
+ IND_adopt_modern_tactics_desc: "The tactics and strategies that we use today still have roots back in the previous century or in the Great War. Many of them are outdated due to the technological advancements the world has seen since then. Facing the British and other western empires, we will meet modern technologies and modern tactics. We need to catch up if we are going to have a fighting chance." #NT!
+ IND_support_companies: "Support Companies" #NT!
+ IND_support_companies_desc: "In modern war, there are many different roles that collectively can prove to be the difference between victory and defeat. We must create new support companies that ensure Indian soldiers are neither wasted nor massacred, with their combat efficiency consequently being vital to future victories." #NT!
+ IND_develop_radio_technologies: "Develop Radio Technologies" #NT!
+ IND_develop_radio_technologies_desc: "India is one of the largest nations in the world, yet communications technology still remains rather primitive compared to Europe and even Japan. We must develop radio and radar technologies that will boost our intel and response to foreign attacks." #NT!
+ IND_procure_armoured_weapons: "Procure Armoured Weapons" #NT!
+ IND_procure_armoured_weapons_desc: "In the new age of modern war, tanks will prove to be a decisive part of the armed forces. If India is to defend itself from foreign aggression, we must be ready to develop or buy armour that will allow us to storm the battlefield and fight other enemy tanks." #NT!
+ IND_motorization_drive: "Motorization Drive" #NT!
+ IND_motorization_drive_desc: "Most of our forces still use horse drawn carriages to bring supplies to the frontlines and few units use oil-driven engines for any purpose. Meanwhile, other countries have implemented motorized supply lines and even whole regiments made up of armoured vehicles. There, we can see the effectiveness of such measures. Implementing motorized supply lines and using vehicles in supportive roles will better the effectiveness of our forces." #NT!
+ IND_armoured_experimentations: "Armoured Experimentations" #NT!
+ IND_armoured_experimentations_desc: "'The battlefield of tomorrow will be won by those who master steel and fire.'\n\n As modern warfare evolves, so too must our understanding of armoured vehicles. While elephants, cavalry and infantry have long served our military traditions, recent conflicts have shown the devastating potential of a mechanized force. We too should start experimenting around with armoured formations, testing new tank designs and refining our doctrines, we shall forge the backbone of a modern army, one capable of withstanding any enemy and striking with relentless force. Let the age of the war elephants clear the way for the age of steel behemoths." #NT!
+ IND_armoured_experimentations_tt: "§7Receive §Y[Root.GetAdjective] Armored§! template with the following composition:\n - 4 £GFX_unit_light_armor_icon_small battalions\n - 4 £GFX_unit_motorized_icon_small battalions;\n\nSpawn §Y3§! division with newly gained template§!\n" #NT!
+ IND_new_weapons_factories: "New Weapons Factories" #NT!
+ IND_new_weapons_factories_desc: "To defend our hard-won independence and ensure the security of our nation, India must build a self-sufficient defense industry. Establishing new weapons factories across the country will allow us to produce modern arms, ammunition, and military technology, reducing our reliance on foreign powers. With these facilities, we can strengthen our military, create jobs, and bolster national pride, ensuring that India stands strong in the face of any threat." #NT!
+ IND_foundations_of_an_air_force: "Foundations of an Air Force" #NT!
+ IND_foundations_of_an_air_force_desc: "As airplanes rewrite the rules of warfare, we can no longer neglect our skies. Our military has relied on traditional ground forces for centuries, the need for an air force has become an undeniable fact. We should start establishing, aviation corps, train pilots and acquire modern aircrafts, we will lay the foundation of an Indian dominion over the skies. The battles of the future will not be fought on land but decided from the heavens and we must be ready to rise to that challenge." #NT!
+ IND_japanese_pilot_training: "Japanese Pilot Training" #NT!
+ IND_japanese_pilot_training_desc: "Recognizing the vital role of airpower, Japan was in the same shoes as India a couple decades ago and has offered to share its expertise in modern aerial warfare. The Imperial Japanese Army Air Service and Naval Air Service have trained some of the world's most skilled pilots and with their collaboration, our own aviators will benefit from their rigorous training methods, advanced air-fighting techniques and precision bombing strategies. By sending our best recruits to Japanese flight academies and hosting experienced instructors in India, we will ensure that our fledgling air force learns from Asia's very best military. This partnership will not only strengthen our military but also deepen Indo-Japanese cooperation in the struggle for dominance in Asia against European imperialists." #NT!
+ IND_reengineer_captured_british_aircraft: "Reengineer Captured British Aircraft" #NT!
+ IND_reengineer_captured_british_aircraft_desc: "For decades, the RAF operated warplanes designed and built in British factories, leaving India dependent on foreign expertise. But no more; we shall take what we have learned from these vessels of the sky and apply it to our own planebuilding efforts. By dismantling, studying and modifying British-made fighters and bombers, India's mighty and many engineers will develop the technical knowledge needed to construct a modern Indian flying fleet. This will not only reduce reliance on foreign designs but also ensure that future Indian warplanes are tailored to the specific needs of our waters and strategic ambitions." #NT!
+ IND_indian_navy: "Establish the Naval Command" #NT!
+ IND_indian_navy_desc: "For centuries, India's maritime legacy was embodied by the Chola navy, the Maratha fleet and the seafaring traditions of Gujarat and Bengal. Yet under British rule, our naval power was reduced to mere auxiliaries of the Royal Navy, with the Royal Indian Navy (RIN) serving as little more than a colonial outpost for London. If we are to defend our shores and project power beyond them, we must lay the foundations of a modern, independent navy.  We shall open Naval academies, invest in warships and further train Indian naval commanders of the past RIN in modern naval tactics, we will ensure that the Indian Ocean remains Indian." #NT!
+ IND_purchase_german_u_boats: "Purchase German U-Boats" #NT!
+ IND_purchase_german_u_boats_desc: "U-boats are one of the most sophisticated weapons in the hands of the Kriegsmarine, and the silent terror of the seas. By purchasing some old decommissioned German U-boats, we can further the science and possibly develop our own models." #NT!
+ IND_refurbish_british_ships: "Refurbish British Ships" #NT!
+ IND_refurbish_british_ships_desc: "The ships we inherited from the British Raj were not designed with Indian priorities in mind, but they remain valuable foundations for our own navy. By overhauling their engines, upgrading their armaments and reinforcing their hulls, we can extend their service life and adapt them for modern naval warfare. This effort will strengthen our fleet in the short term but also provide invaluable experience to Indian shipyards and engineers, preparing us for the day when we launch warships of our own design." #NT!
+ IND_expand_calcutta_shipyards: "Expand the Calcutta Shipyards" #NT!
+ IND_expand_calcutta_shipyards_desc: "The shipbuilding facilities in Calcutta are sorely out of date. They must be updated and expanded, ready to build a new Indian fleet." #NT!
+  
+ IND_recovering_from_ruins: "Recovering from Ruins" #NT!
+ IND_recovering_from_ruins_desc: "The scars of war run deep and India stands battered but unbroken. The struggle against British rule has left our cities in ruins, our fields barren and our people divided. Yet, from this devastation, a new India must rise. Rebuilding our shattered infrastructure, restoring order and revitalizing our economy will be no easy task, but it is a burden we must bear. If we are to forge a future free from foreign domination, we must first heal the wounds of the past and lay the foundation for a stronger, self-reliant India." #NT!
+ IND_nationalise_british_capital: "Nationalise British Capital" #NT!
+ IND_nationalise_british_capital_desc: "Since the East India Company, British companies in general have drained the wealth of our land, exploiting our people and resources for imperial profit. With their rule shattered, it is time to reclaim what is rightfully ours. By nationalizing British-owned industries, railways and plantations, we will ensure that India's wealth serves its people, not foreign masters. Though this move may provoke resistance from remaining colonial sympathizers and disrupt the economy in the short term, it is a necessary step toward true economic independence." #NT!
+ IND_agricultural_reform_drive: "Agricultural Reform Drive" #NT!
+ IND_agricultural_reform_drive_desc: "Decades of colonial exploitation have left India's agriculture stagnant, with outdated practices, an oppressive caste system and food insecurity plaguing the countryside leading to famines. To secure the nation's future, we must embark on a sweeping agricultural reform program; redistributing land to the tillers, modernizing farming techniques and investing in irrigation and rural infrastructure. A well-fed India is a strong India and by empowering our farmers, we lay the foundation for a prosperity of a thousand years." #NT!
+ IND_mechanised_farming_reform: "Mechanised Farming Reform" #NT!
+ IND_mechanised_farming_reform_desc: "Traditional farming methods, while resilient, can no longer sustain the needs of a rapidly growing and recovering India. To ensure food security and agricultural efficiency, we must embrace mechanization; introducing modern tools, tractors and irrigation systems to increase yields and reduce reliance on outdated labor-intensive techniques. While initial costs may be high, the long-term benefits of a more productive and self-sufficient agricultural sector will be undeniable." #NT!
+ IND_rural_maintainance_and_relations_board: "Rural Maintenance and Relations Board" #NT!
+ IND_rural_maintainance_and_relations_board_desc: "The countryside remains the backbone of India, yet decades of neglect and colonial mismanagement have left rural communities in despair. To bridge the gap between the government and the villages, we must establish the Rural Maintenance and Relations Board; a body dedicated to improving infrastructure, mediating land disputes and ensuring that rural voices are heard in national policy. By strengthening our ties with the heart of India, we can foster stability, development, and lasting prosperity" #NT!
+ IND_construct_the_radhanagari_dam: "Construct the Radhanagari Dam" #NT!
+ IND_construct_the_radhanagari_dam_desc: "Water is the lifeblood of our nation and securing it for future generations is paramount. The Radhanagari Dam project will provide irrigation for our farmers, generate much-needed hydroelectric power and serve as a symbol of India's self-reliance. Though ambitious in scale, its completion will mark a turning point in our efforts to modernize infrastructure and ensure sustainable development for our people." #NT!
+ IND_scientific_innovation_council: "Scientific & Innovation Council" #NT!
+ IND_scientific_innovation_council_desc: "To secure India's future, we must embrace progress not only in industry and agriculture but also in science and technology. Establishing the Scientific & Innovation Council will bring together the nation's brightest minds to drive research, industrial innovation and technological advancement. By investing in education, laboratories, and homegrown expertise, we can break free from reliance on foreign knowledge and pave the way for an India that leads, rather than follows, in the modern world." #NT!
+ IND_resource_extraction: "Resource Extraction" #NT!
+ IND_resource_extraction_desc: "India is blessed with vast natural wealth, yet much of it remains untapped or was ruthlessly exploited for the benefit of the British. Now, with control over our own destiny, we must harness these resources for national development. Expanding mining operations, modernizing extraction techniques, and securing strategic materials will fuel our industries and infrastructure projects. With careful planning, we can ensure that India's riches serve its people and not foreign interests." #NT!
+ IND_industry_for_india: "Industry for India" #NT!
+ IND_industry_for_india_desc: "From the din of Bombay's textile mills to the rumble of Jamshedpur's steel furnaces, we shall awaken India's industrial conscience. Let our fields not only feed our people, but our factories; let our hands not only fashion tools, but a future free from foreign shackles. Every track laid, every dam constructed, and every worker trained will be a step towards independence. We shall build a nation whose machinery's clang drowns the whispers of dependence—a India whose progress is hammered out not by foreigners, but by the sweat, toil, and hopes of our own people." #NT!
+ IND_revitalise_the_south: "Revitalise the South" #NT!
+ IND_revitalise_the_south_desc: "Dravida, long known for it's rich culture and agricultural strength, suffered deeply under British economic policies, princely states rule and wartime devastation. Now, with independence secured, we must turn our focus to revitalizing the region. Investments in irrigation networks for the Deccan Plateau, modernization of textile industries in Tamil Nadu, and expansion of port cities like Chennai and Cochin will breathe new life into the South. By integrating these efforts with national infrastructure plans, we will unlock the full potential of this vital region." #NT!
+ IND_national_tax_reform: "National Tax Reform" #NT!
+ IND_national_tax_reform_desc: "The colonial taxation system was designed to drain India's wealth, leaving the people burdened while the British reaped the profits. To build a just and prosperous nation, we must overhaul this outdated system. A new progressive tax structure will ensure fairness, with wealthier individuals and corporations paying their share to support national development. By streamlining taxes, cracking down on corruption and ensuring that the burden is shared equitably, we will create a sustainable and efficient fiscal system that benefits all Indians." #NT!
+ IND_improved_safety_regulations: "Improved Safety Regulations" #NT!
+ IND_improved_safety_regulations_desc: "The safety of our workers and citizens has long been overlooked, with dangerous working conditions rampant in factories, mines and construction sites. As we rebuild our nation, we must implement strict safety regulations to protect our people. By enforcing labor laws, providing proper training and ensuring safe working environments, we can foster a productive workforce while preventing needless accidents and injuries. A healthier, safer India is a more prosperous India." #NT!
+ IND_agriculural_bank_of_india: "Agricultural Bank of India" #NT!
+ IND_agriculural_bank_of_india_desc: "The farmers are the foundation of our nation, yet their access to credit and financial support remains limited. The establishment of the Agricultural Bank of India will provide essential loans, insurance and financial services to farmers, enabling them to invest in better equipment, seeds, and irrigation systems. With a stable financial institution dedicated to rural development, India's agricultural sector can thrive, ensuring food security and long-term prosperity for all." #NT!
+  
+ ### Events 
+ indrev.1.t: "The Revolution Has Begun!" #NT!
+ indrev.1.d: "All across the Raj, people are rising up. The British are scrambling to respond, and in some cases are in full-fledged retreat. Their capital city of New Dehli is surrounded by armed bands, and freedom for India appears like it may finally be a real possibility. We have a long fight ahead of us, and many brave patriots will die before it's over. But so long as we continue to keep the British on the backfoot, and always on the retreat, we may be able to win the day. For far too long, the British Empire has taken advantage of India and its resources. It has destroyed the very civilization we built up over millennia, and today is the beginning of the end of their occupation. Today will forever mark the beginning of our independence! The beginning of our freedom!" #NT!
+ indrev.1.a: "For a Free India!" #NT!
+ indrev.2.t: "Victory is Ours!" #NT!
+ indrev.2.d: "The last British garrisons have waved the white flag. The administration is burning documents by the tonne and fleeing by boat to Ceylon. There they hope to set up some kind of shadow government, perhaps to someday attempt to reconquer us. But the outcome today is clear. British Parliament is already entering talks to sue for peace, and soon, our fight will be won. After 200 years of brutal occupation by a foreign oppressor, we shall finally have our freedom!" #NT!
+ indrev.2.a: "India is Finally Free!" #NT!
+ indrev.3.t: "Defeat Approaches" #NT!
+ indrev.3.d: "The British have come to the subcontinent en masse. Forces from across the Empire now batter and bloody us at every turn, and our strongholds become fewer and fewer in number. Our leadership is scattered, our fighters are unorganized, and any foreign support we may have once had has abandoned us. Yet we continue to fight. Not because we will win, but because this is the eternal struggle. 200 years of brutal occupation by a foreign oppressor has led to this, and even if we lose today, we will fight so that our sons may fight again tomorrow. Down with the British. Long live India." #NT!
+ indrev.3.a: "We shall fight to the end!" #NT!
+ indrev.4.t: "Weapons Shipment Intercepted by the British" #NT!
+ indrev.4.d: "It appears that our daring plan to smuggle in weapons has been caught by the British. Although this will set back our plans for India's freedom, we have no choice but to continue fighting on!" #NT!
+ indrev.4.a: "Blast them!" #NT!
+ indrev.10.t: "Indian Rebels Ask for Assistance" #NT!
+ indrev.10.d: "As we speak, the imperialists in the British Empire are struggling to put down an intense revolt in their Indian colony. Among them are Indian nationalists who are fighting for the opportunity to create a nationalist state in south Asia. While it took several feats for our operatives to meet with them, leaders of this rebel groups are asking us for material and military assistance if we can spare it. If we give it to them, we could help strike a major blow against the British Empire and create a loyal fellow nationalist state in India. Then again, Britain could be a potential ally against France in the future..." #NT!
+ indrev.10.a: "Let's strike a blow to the Empire." #NT!
+ indrev.10.b: "Best not to provoke Britain at this time." #NT!
+ indrev.11.t: "Germany Helps Us!" #NT!
+ indrev.11.d: "It appears that our plea to Berlin has been graciously accepted, with weapon shipments now on their way." #NT!
+ indrev.11.a: "Three cheers to the revived Germany!" #NT!
+ indrev.12.t: "Germany Refuses Us!" #NT!
+ indrev.12.d: "It appears that our plea to Berlin has been refused, with typical excuses of Western colonialism given in response. Nevertheless, we will have to fight on!" #NT!
+ indrev.12.a: "All westerners are the same..." #NT!
+  
+ ind.1.t: "We are Free!" #NT!
+ ind.1.d: "" #NT!
+ ind.1.a: "Long live India!" #NT!
+ ind.2.t: "Establishing the Government" #NT!
+ ind.2.d: "" #NT!
+ ind.2.a: "" #NT!
+  
+ india.1.t: "The Power Vacuum" #NT!
+ india.1.d: "With the end of British rule, India finds itself at a crossroads. The struggle for independence has united the nation, but now that the imperial chains are broken, competing visions for the future of the country clash. Jawaharlal Nehru, seeks to forge a modern, secular, and democratic India; Vallabhbhai Patel, the man of steel, strives to consolidate the states into a unified, strong republic; Subhas Chandra Bose, the Netaji, advocates for a more militant, revolutionary path to maintain India's sovereignty; and Jayaprakash Narayan, a young leader of the left, demands for us to go further and decentralize economic control to the people.\n\n As the new Indian government struggles to find its footing, these towering figures engage in tense negotiations, alliances, and power struggles, each determined to shape the nation in their image. The future of India hangs in the balance—will the nation be unified under a single vision, or will the competing ambitions tear it apart?" #NT!
+ india.1.a: "Nehru" #NT!
+ india.1.b: "Patel" #NT!
+ india.1.c: "Bose" #NT!
+ india.1.e: "Narayan" #NT!
+  
+ ### Characters 
+ IND_V_D_Savarkar: "Vinayak Damodar Savarkar" #NT!
+ IND_Provisional_Government: "Provisional Government" #NT!
+ IND_Subhas_Chandra_Bose: "Subhas Chandra Bose" #NT!
+ IND_Jayaprakash_Narayan: "Jayaprakash Narayan" #NT!
+ IND_Shripad_Amrit_Dange: "Shripad Amrit Dange" #NT!
+ IND_Jawaharlal_Nehru: "Jawaharlal Nehru" #NT!
+ IND_Kodandera_Madappa_Cariappa: "Kodandera Madappa Cariappa" #NT!
+ IND_Rash_Behari_Bose: "Rash Behari Bose" #NT!
+ IND_Satyawant_Mallanna_Shrinagesh: "Satyawant Mallanna Shrinagesh" #NT!
+ IND_Jayanto_Nath_Chaudhuri: "Jayanto Nath Chaudhuri" #NT!
+ IND_Gurbaksh_Singh_Dhillon: "Gurbaksh Singh Dhillon" #NT!
+ IND_Pran_Nath_Thapar: "Pran Nath Thapar" #NT!
+ IND_Bhagat_Singh: "Bhagat Singh" #NT!
+ IND_Ajit_Rudra: "Ajit Rudra" #NT!
+ IND_Mohan_Singh: "Mohan Singh" #NT!
+ IND_Prem_Sahgal: "Prem Sahgal" #NT!
+ IND_Lakshmi_Sahgal: "Lakshmi Sahgal" #NT!
+ IND_Mohammed_Zaman_Kiani: "Mohammed Zaman Kiani" #NT!
+ IND_Ram_Dass_Katari: "Ram Dass Katari" #NT!
+ IND_Kalyani_Sen: "Kalyani Sen" #NT!
+ IND_B_S_Moonje: "Balakrishna Shivram Moonje" #NT!
+ IND_M_S_Golwalkar: "Madhav Sadashivrao Golwalkar" #NT!
+ IND_N_B_Khare: "Narayan Bhaskar Khare" #NT!
+ IND_S_P_Mukherjee: "Syama Prasad Mukherjee" #NT!
+ IND_Lal_Bahadur_Shastri: "Lal Bahadur Shastri" #NT!
+ IND_Vallabhbhai_Jhaverbhai_Patel: "Vallabhbhai Jhaverbhai Patel" #NT!
+ IND_Bhogaraju_Pattabhi_Sitaramayya: "Bhogaraju Pattabhi Sitaramayya" #NT!
+ IND_Rafi_Ahmed_Kidwai: "Rafi Ahmed Kidwai" #NT!
+ IND_Bhimrao_Ramji_Ambedkar: "Bhimrao Ramji Ambedkar" #NT!
+  
+ IND_Gopal_Gurunath_Bewoor: "Gopal Gurunath Bewoor" #NT!
+ IND_Mohammad_Ishfaqul_Mazid: "Mohammad Ishfaqul Mazid" #NT!
+ IND_Adhar_Kumar_Chatterji: "Adhar Kumar Chatterji" #NT!
+ IND_Bhaskar_Sadashiv_Soman: "Bhaskar Sadashiv Soman" #NT!
+ IND_Subroto_Mukerjee: "Subroto Mukerjee" #NT!
+ IND_Dodla_Ranga_Reddy: "Dodla Ranga Reddy" #NT!
+ IND_Arcot_Doraiswamy_Loganadan: "Arcot Doraiswamy Loganadan" #NT!
+ IND_Karun_Krishna_Majumdar: "Karun Krishna Majumdar" #NT!
+  
+  
+  
+ IND_Homi_Jehangir_Bhabha: "Homi Jehangir Bhabha" #NT!

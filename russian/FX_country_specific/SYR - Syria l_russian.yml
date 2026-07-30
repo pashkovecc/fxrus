@@ -1,0 +1,60 @@
+﻿l_russian:
+  
+ ### Country Names 
+ SYR_vanguardist: "Union of Syria" #NT!
+ SYR_vanguardist_ADJ: "Syrian" #NT!
+ SYR_vanguardist_DEF: "the Union of Syria" #NT!
+ SYR_collectivist: "Commune of Syria" #NT!
+ SYR_collectivist_ADJ: "Syrian" #NT!
+ SYR_collectivist_DEF: "the Commune of Syria" #NT!
+ SYR_libertarian_socialist: "Syrian People's Republic" #NT!
+ SYR_libertarian_socialist_ADJ: "Syrian" #NT!
+ SYR_libertarian_socialist_DEF: "the People's Republic of Syria" #NT!
+ SYR_social_democrat: "Republic of Syria" #NT!
+ SYR_social_democrat_ADJ: "Syrian" #NT!
+ SYR_social_democrat_DEF: "the Republic of Syria" #NT!
+ SYR_social_liberal: "Republic of Syria" #NT!
+ SYR_social_liberal_ADJ: "Syrian" #NT!
+ SYR_social_liberal_DEF: "the Republic of Syria" #NT!
+ SYR_market_liberal: "Republic of Syria" #NT!
+ SYR_market_liberal_ADJ: "Syrian" #NT!
+ SYR_market_liberal_DEF: "the Republic of Syria" #NT!
+ SYR_social_conservative: "Republic of Syria" #NT!
+ SYR_social_conservative_ADJ: "Syrian" #NT!
+ SYR_social_conservative_DEF: "the Republic of Syria" #NT!
+ SYR_authoritarian_democrat: "Republic of Syria" #NT!
+ SYR_authoritarian_democrat_ADJ: "Syrian" #NT!
+ SYR_authoritarian_democrat_DEF: "the Republic of Syria" #NT!
+ SYR_paternal_autocrat: "Republic of Syria" #NT!
+ SYR_paternal_autocrat_ADJ: "Syrian" #NT!
+ SYR_paternal_autocrat_DEF: "the Republic of Syria" #NT!
+ SYR_national_populist: "Syrian National Government" #NT!
+ SYR_national_populist_ADJ: "Syrian" #NT!
+ SYR_national_populist_DEF: "the National Government of Syria" #NT!
+ SYR_valkist: "Syrian National Government" #NT!
+ SYR_valkist_ADJ: "Syrian" #NT!
+ SYR_valkist_DEF: "the National Government of Syria" #NT!
+  
+ ### Parties 
+ SYR_vanguardist_party: "HIA" #NT!
+ SYR_vanguardist_party_long: "Harakat al-Ishtirakiyeen al-'Arab\n§gArab Socialist Movement§!" #NT!
+ SYR_collectivist_party: "HSS" #NT!
+ SYR_collectivist_party_long: "Hizb as-Suyui as-Suri\n§gSyrian Communist Party§!" #NT!
+ SYR_libertarian_socialist_party: "HSS" #NT!
+ SYR_libertarian_socialist_party_long: "Hizb as-Suyui as-Suri\n§gSyrian Communist Party§!" #NT!
+ SYR_social_democrat_party: "HSS" #NT!
+ SYR_social_democrat_party_long: "Hizb as-Suyui as-Suri\n§gSyrian Communist Party§!" #NT!
+ SYR_social_liberal_party: "HS (Damascene Wing)" #NT!
+ SYR_social_liberal_party_long: "Hizb al-Sha'ab\n§gPeople's Party§!" #NT!
+ SYR_market_liberal_party: "HS (Aleppan Wing)" #NT!
+ SYR_market_liberal_party_long: "Hizb al-Sha'ab\n§gPeople's Party§!" #NT!
+ SYR_social_conservative_party: "KW" #NT!
+ SYR_social_conservative_party_long: "al-Kutlah al-Wataniyah\n§gNational Bloc§!" #NT!
+ SYR_authoritarian_democrat_party_kingdom: "al-Usra al-Alawiyya" #NT!
+ SYR_authoritarian_democrat_party_long_kingdom: "al-Usra al-Alawiyya\n§gAlawiyya Dynasty§!" #NT!
+ SYR_authoritarian_democrat_party_long: "al-Qiyada al-'Askaria al-Suriya\n§gSyrian Military Leadership§!" #NT!
+ SYR_authoritarian_democrat_party: "al-Qiyada al-'Askaria al-Suriya" #NT!
+ SYR_paternal_autocrat_party: "Military Government" #NT!
+ SYR_paternal_autocrat_party_long: "Military Government" #NT!
+ SYR_national_populist_party: "HSQI" #NT!
+ SYR_national_populist_party_long: "Hizb Al-Suri Al-Qawmi Al-'Ijtima'i\n§gSyrian Social Nationalist Party§!" #NT!

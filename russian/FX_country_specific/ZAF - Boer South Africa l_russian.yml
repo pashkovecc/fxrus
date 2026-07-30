@@ -1,0 +1,57 @@
+﻿l_russian:
+  
+ ### Country Names 
+ ZAF: "South African Republic" #NT!
+ ZAF_ADJ: "Boer" #NT!
+ ZAF_DEF: "the South African Republic" #NT!
+  
+  
+ #### Political Parties #### 
+  
+ ZAF_vanguardist_party: "CPSA" #NT!
+ ZAF_vanguardist_party_long: "Communist Party of South Africa" #NT!
+ ZAF_collectivist_party: "SAA" #NT!
+ ZAF_collectivist_party_long: "Suid-Afrikaanse Arbeidersparty\n§gSouth African Labour Party§!" #NT!
+ ZAF_libertarian_socialist_party: "CPSA" #NT!
+ ZAF_libertarian_socialist_party_long: "Communist Party of South Africa" #NT!
+ ZAF_social_democrat_party: "ANC" #NT!
+ ZAF_social_democrat_party_long: "African National Congress" #NT!
+ ZAF_social_liberal_party: "Dominium" #NT!
+ ZAF_social_liberal_party_long: "Dominiumparty\n§gDominion Party§!" #NT!
+ ZAF_market_liberal_party: "SAP" #NT!
+ ZAF_market_liberal_party_long: "Suid-Afrikaanse Party\n§gSouth African Party§!" #NT!
+ ZAF_social_conservative_party: "VP" #NT!
+ ZAF_social_conservative_party_long: "Verenigde Party\n§gUnited Party§!" #NT!
+ ZAF_authoritarian_democrat_party: "NP" #NT!
+ ZAF_authoritarian_democrat_party_long: "Nasionale Party\n§gNational Party§!" #NT!
+ ZAF_paternal_autocrat_party: "SP" #NT!
+ ZAF_paternal_autocrat_party_long: "Sentrale Party\n§gCentral Party§!" #NT!
+ ZAF_national_populist_party: "GNP" #NT!
+ ZAF_national_populist_party_long: "Gesuiwerde Nasionale Party\n§gPurified National Party§!" #NT!
+ ZAF_valkist_party: "OB" #NT!
+ ZAF_valkist_party_long: "Ossewabrandwag\n§gOx-wagon Sentinel§!" #NT!
+  
+ #### Tooltips #### 
+ ZAF_Help_tooltip: "ยงRWill unlock decisions to aid in the war effort.ยง!\n" #NT!
+  
+ #### Focus #### 
+ ZAF_Something_Terrible: "Start the Fire" #NT!
+ ZAF_Something_Terrible_desc: "The traitors of South Africa shall tremble! We have caught them by surprise, and are now engaged in the fight for the very survival and independence of our nation! Ex Vires Imperium!" #NT!
+ ZAF_Chaos_Ladder: "Chaos is a Ladder" #NT!
+ ZAF_Chaos_Ladder_desc: "The fight we now embark upon will be a long and brutal one. If we are to have any chance at defeating the traitors of South Africa, we must maintain the element of surprise, and strike with no holds barred." #NT!
+ ZAF_Rile_Populace: "Rile up the Populace" #NT!
+ ZAF_Rile_Populace_desc: "The population of the Boer states must be fully brought onboard our efforts. Without them, our movement will not have soldiers and workers, and will be doomed to fail. We must make every outreach possible to recruit them." #NT!
+ ZAF_German_Separatists: "Support Separatists in Kalahari" #NT!
+ ZAF_German_Separatists_desc: "Southwest Africa, given to the Union after the Great War, was once a German colony. As such, there are many in hiding there who are ready to rise up against the South African traitors. All that they would need is a little push..." #NT!
+ ZAF_Total_War: "War of Survival" #NT!
+ ZAF_Total_War_desc: "If we are to win this fight, we must recruit as much of the populace as possible. Fill the militias with men and women alike; children too if they're old enough. This is a fight for our very survival!" #NT!
+ ZAF_Foreign_Aid: "Foreign Aid" #NT!
+ ZAF_Foreign_Aid_desc: "As much as we'd like to show the world just how strong we are by defeating the traitors single-handedly, we will require some degree of foreign aid if we are to survive. We must set aside our pride and ask nations sympathetic to our cause for support." #NT!
+ ZAF_Way_to_Independence: "Way to Independence" #NT!
+ ZAF_Way_to_Independence_desc: "We have secured all of our bases, and waged total war against the traitors in South Africa. Our path to reclaiming our nation is tried and true, and all that remains is to win our war for independence." #NT!
+ ZAF_D_F_Malan: "D. F. Malan" #NT!
+ ZAF_Manie_Maritz: "Manie Maritz" #NT!
+ ZAF_Moses_Kotane: "Moses Kotane" #NT!
+ ZAF_Pixley_Ka_Isaka_Seme: "Pixley Ka Isaka Seme" #NT!
+ ZAF_George_Edwin_Brink: "George Edwin Brink" #NT!
+ ZAF_Guy_Hallifax: "Guy Hallifax" #NT!

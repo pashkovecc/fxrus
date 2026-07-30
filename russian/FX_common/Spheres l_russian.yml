@@ -1,0 +1,95 @@
+﻿l_russian:
+  
+  
+ #Decisions 
+ sphere_decision_group: "Improving Relationships and Sphering" #NT!
+ desphere_decision_group: "Removing nations from spheres" #NT!
+ desphere_nation: "Remove [From.GetNameDef] from their Sphere of Influence" #NT!
+ sphere_information_decision_group: "Sphered Nations" #NT!
+ sphered_nations: "[From.GetNameDef]" #NT!
+ sphere_nation_1: "Improve our relationship with [From.GetNameDef] to cordial" #NT!
+ sphere_nation_1_desc: "Improve our relationship with [From.GetNameDef] to cordial to ensure that we get advantage over this nation compared to the other major powers." #NT!
+ sphere_nation_2: "Improve our relationship with [From.GetNameDef] to friendly" #NT!
+ sphere_nation_2_desc: "Improve our relationship with [From.GetNameDef] to friendly to ensure that we get advantage over this nation compared to the other major powers." #NT!
+ sphere_nation_3: "Sphere [From.GetNameDef]" #NT!
+ sphere_nation_3_desc: "Sphere [From.GetNameDef] to friendly to ensure that we get advantage over this nation compared to the other major powers." #NT!
+  
+ #Interface 
+ sphering_status_1_loc: "[this.sphering_status_1_scripted_loc]" #NT!
+ sphering_status_1_loc_neutral: "[GER.GetFlag]Neutral" #NT!
+ sphering_status_1_loc_cordial: "[GER.GetFlag]Cordial" #NT!
+ sphering_status_1_loc_friendly: "[GER.GetFlag]Friendly" #NT!
+ sphering_status_1_loc_sphered: "[GER.GetFlag]Sphered" #NT!
+  
+ sphering_status_2_loc: "[this.sphering_status_2_scripted_loc]" #NT!
+ sphering_status_2_loc_neutral: "[FRA.GetFlag]Neutral" #NT!
+ sphering_status_2_loc_cordial: "[FRA.GetFlag]Cordial" #NT!
+ sphering_status_2_loc_friendly: "[FRA.GetFlag]Friendly" #NT!
+ sphering_status_2_loc_sphered: "[FRA.GetFlag]Sphered" #NT!
+  
+ sphering_status_3_loc: "[this.sphering_status_3_scripted_loc]" #NT!
+ sphering_status_3_loc_neutral: "[JAP.GetFlag]Neutral" #NT!
+ sphering_status_3_loc_cordial: "[JAP.GetFlag]Cordial" #NT!
+ sphering_status_3_loc_friendly: "[JAP.GetFlag]Friendly" #NT!
+ sphering_status_3_loc_sphered: "[JAP.GetFlag]Sphered" #NT!
+  
+ sphering_status_4_loc: "[this.sphering_status_4_scripted_loc]" #NT!
+ sphering_status_4_loc_neutral: "[USA.GetFlag]Neutral" #NT!
+ sphering_status_4_loc_cordial: "[USA.GetFlag]Cordial" #NT!
+ sphering_status_4_loc_friendly: "[USA.GetFlag]Friendly" #NT!
+ sphering_status_4_loc_sphered: "[USA.GetFlag]Sphered" #NT!
+  
+ sphering_status_5_loc: "[this.sphering_status_5_scripted_loc]" #NT!
+ sphering_status_5_loc_neutral: "[ENG.GetFlag]Neutral" #NT!
+ sphering_status_5_loc_cordial: "[ENG.GetFlag]Cordial" #NT!
+ sphering_status_5_loc_friendly: "[ENG.GetFlag]Friendly" #NT!
+ sphering_status_5_loc_sphered: "[ENG.GetFlag]Sphered" #NT!
+  
+ sphering_status_6_loc: "[this.sphering_status_6_scripted_loc]" #NT!
+ sphering_status_6_loc_neutral: "[SOV.GetFlag]Neutral" #NT!
+ sphering_status_6_loc_cordial: "[SOV.GetFlag]Cordial" #NT!
+ sphering_status_6_loc_friendly: "[SOV.GetFlag]Friendly" #NT!
+ sphering_status_6_loc_sphered: "[SOV.GetFlag]Sphered" #NT!
+  
+ sphering_status_7_loc: "[this.sphering_status_7_scripted_loc]" #NT!
+ sphering_status_7_loc_neutral: "[ITA.GetFlag]Neutral" #NT!
+ sphering_status_7_loc_cordial: "[ITA.GetFlag]Cordial" #NT!
+ sphering_status_7_loc_friendly: "[ITA.GetFlag]Friendly" #NT!
+ sphering_status_7_loc_sphered: "[ITA.GetFlag]Sphered" #NT!
+  
+ sphering_status_8_loc: "[this.sphering_status_8_scripted_loc]" #NT!
+ sphering_status_8_loc_neutral: "[MEX.GetFlag]Neutral" #NT!
+ sphering_status_8_loc_cordial: "[MEX.GetFlag]Cordial" #NT!
+ sphering_status_8_loc_friendly: "[MEX.GetFlag]Friendly" #NT!
+ sphering_status_8_loc_sphered: "[MEX.GetFlag]Sphered" #NT!
+  
+  
+  
+ IMPROVE_INFLUENCE_TOOLTIP: "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest" #NT!
+  
+ #Events 
+ sph.1.t: "[From.GetNameDef] improves relations with us!" #NT!
+ sph.1.d: "Our relationship with [From.GetNameDef] has been increased to cordial." #NT!
+ sph.1.a: "Okay" #NT!
+ sph.2.t: "[From.GetNameDef] improves relations with us!" #NT!
+ sph.2.d: "Our relationship with [From.GetNameDef] has been increased to friendly." #NT!
+ sph.2.a: "Okay" #NT!
+ sph.3.t: "[From.GetNameDef] spheres us!" #NT!
+ sph.3.d: "We have been sphered by [From.GetNameDef]." #NT!
+ sph.3.a: "Okay" #NT!
+ sph.5.t: "Nation removed from sphere!" #NT!
+ sph.5.d: "[sphereremover.GetNameDef] has removed [sphereremovegoal.GetNameDef] from our sphere!" #NT!
+ sph.5.a: "Okay" #NT!
+ sph.6.t: "We have been removed from our sphere" #NT!
+ sph.6.d: "[sphereremover.GetNameDef] has removed us from our sphere, we were originally in [originalsphere.GetNameDef]'s sphere!" #NT!
+ sph.6.a: "Okay" #NT!
+  
+ #Ideas 
+ sphered_idea_1: "In [sphereleader1.GetNameDef]'s Sphere of Influence" #NT!
+ sphered_idea_2: "In [sphereleader2.GetNameDef]'s Sphere of Influence" #NT!
+ sphered_idea_3: "In [sphereleader3.GetNameDef]'s Sphere of Influence" #NT!
+ sphered_idea_4: "In [sphereleader4.GetNameDef]'s Sphere of Influence" #NT!
+ sphered_idea_5: "In [sphereleader5.GetNameDef]'s Sphere of Influence" #NT!
+ sphered_idea_6: "In [sphereleader6.GetNameDef]'s Sphere of Influence" #NT!
+ sphered_idea_7: "In [sphereleader7.GetNameDef]'s Sphere of Influence" #NT!
+ sphered_idea_8: "In [sphereleader8.GetNameDef]'s Sphere of Influence" #NT!

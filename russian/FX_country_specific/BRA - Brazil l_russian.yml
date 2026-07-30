@@ -1,0 +1,520 @@
+﻿l_russian:
+  
+ ### Country Names 
+ BRA_vanguardist: "Republic of Brazil" #NT!
+ BRA_vanguardist_ADJ: "Brazilian" #NT!
+ BRA_vanguardist_DEF: "the Republic of Brazil" #NT!
+ BRA_collectivist: "Republic of Brazil" #NT!
+ BRA_collectivist_ADJ: "Brazilian" #NT!
+ BRA_collectivist_DEF: "the Republic of Brazil" #NT!
+ BRA_libertarian_socialist: "United States of Brazil" #NT!
+ BRA_libertarian_socialist_ADJ: "Brazilian" #NT!
+ BRA_libertarian_socialist_DEF: "the The United States of Brazil" #NT!
+ BRA_social_democrat: "United States of Brazil" #NT!
+ BRA_social_democrat_ADJ: "Brazilian" #NT!
+ BRA_social_democrat_DEF: "the The United States of Brazil" #NT!
+ BRA_social_liberal: "United States of Brazil" #NT!
+ BRA_social_liberal_ADJ: "Brazilian" #NT!
+ BRA_social_liberal_DEF: "the The United States of Brazil" #NT!
+ BRA_market_liberal: "United States of Brazil" #NT!
+ BRA_market_liberal_ADJ: "Brazilian" #NT!
+ BRA_market_liberal_DEF: "the The United States of Brazil" #NT!
+ BRA_social_conservative: "United States of Brazil" #NT!
+ BRA_social_conservative_ADJ: "Brazilian" #NT!
+ BRA_social_conservative_DEF: "the The United States of Brazil" #NT!
+ BRA_authoritarian_democrat: "United States of of Brazil" #NT!
+ BRA_authoritarian_democrat_ADJ: "Brazilian" #NT!
+ BRA_authoritarian_democrat_DEF: "the The United States of Brazil" #NT!
+ BRA_paternal_autocrat: "United States of Brazil" #NT!
+ BRA_paternal_autocrat_ADJ: "Brazilian" #NT!
+ BRA_paternal_autocrat_DEF: "the United States of Brazil" #NT!
+ BRA_national_populist: "Republic of Brazil" #NT!
+ BRA_national_populist_ADJ: "Brazilian" #NT!
+ BRA_national_populist_DEF: "the Republic of Brazil" #NT!
+ BRA_valkist: "Republic of Brazil" #NT!
+ BRA_valkist_ADJ: "Brazilian" #NT!
+ BRA_valkist_DEF: "the Republic of Brazil" #NT!
+  
+ BRA_vanguardist_party: "PCB" #NT!
+ BRA_vanguardist_party_long: "Partido Comunista Brasileiro\n§gCommunist Party of Brazil§!" #NT!
+ BRA_collectivist_party: "PCB" #NT!
+ BRA_collectivist_party_long: "Partido Comunista Brasileiro\n§gCommunist Party of Brazil§!" #NT!
+ BRA_libertarian_socialist_party: "COB" #NT!
+ BRA_libertarian_socialist_party_long: "Confederação Operária Brasileira\n§gBrazilian Workers' Confederation§!" #NT!
+ BRA_social_democrat_party: "PSD" #NT!
+ BRA_social_democrat_party_long: "Partido Social Democrata\n§gSocial Democratic Party§!" #NT!
+ BRA_social_liberal_party: "PL" #NT!
+ BRA_social_liberal_party_long: "Partido Libertador\n§gLiberator Party§!" #NT!
+ BRA_market_liberal_party: "PD" #NT!
+ BRA_market_liberal_party_long: "Partido Democrático\n§gDemocratic Party§!" #NT!
+ BRA_social_conservative_party: "PR" #NT!
+ BRA_social_conservative_party_long: "Partido Republicano\n§gRepublican Party§!" #NT!
+ BRA_authoritarian_democrat_party: "Junta Militar" #NT!
+ BRA_authoritarian_democrat_party_long: "Junta Militar do Governo\n§gMilitary Government§!" #NT!
+ BRA_paternal_autocrat_party: "LEC" #NT!
+ BRA_paternal_autocrat_party_long: "Liga Eleitoral Catolica\n§gCatholic Electoral League§!" #NT!
+ BRA_national_populist_party: "AVA" #NT!
+ BRA_national_populist_party_long: "Ação Verde-Amarela\n§gGreen-Yellow Action§!" #NT!
+ BRA_valkist_party: "UVB" #NT!
+ BRA_valkist_party_long: "União Valquista Brasileira\n§gBrazilian Valkist Union§!" #NT!
+  
+ #flags 
+ BRA_introevent: "Brazil has reached 1936 "intact"." #NT!
+ BRA_AD: "Junta Militar" #NT!
+ BRA_autdem: "Junta Militar do Governo" #NT!
+ BRA_reforming_republic: "Reforming the Republic." #NT!
+ BRA_traditional_republic: "Maintaining the Old Order." #NT!
+ BRA_couporder: "Military coup takes over." #NT!
+ #ideas 
+ BRA_workerstrike: "Labourers on Strike" #NT!
+ BRA_workerstrike_desc: "Supporting by the communist movement, Labourers around Brazil have gone on strike, hurting our economy." #NT!
+ BRA_political_instability: "Political Instability" #NT!
+ BRA_political_instability_desc: "Popular discontent against the current government has given rise to radical groups that wish to replace us." #NT!
+ BRA_political_instability1a: "Political Instability" #NT!
+ BRA_political_instability1a_desc: "Popular discontent against the current government has given rise to radical groups that wish to replace us." #NT!
+ BRA_political_instability1b: "Political Instability" #NT!
+ BRA_political_instability1b_desc: "Popular discontent against the current government has given rise to radical groups that wish to replace us." #NT!
+ BRA_black_wednesday: "Effects of London Market Crash" #NT!
+ BRA_black_wednesday_desc: "As the stock market crashed, so did our economy." #NT!
+ BRA_coronels_aggravated: "Coronels Aggravated" #NT!
+ BRA_coronels_aggravated_desc: "As our government has decided to take on an anti-oligarchic policy, realizing reforming the republic is the only way to go on, the powerful local coronels have taken offense and are working against us." #NT!
+ BRA_unpopular_government: "Unpopular Government" #NT!
+ BRA_unpopular_government_desc: "Siding with the landed gentry, the common people that feels loyalty to the republic is anyways thrown to the side, causing great instability in our already divided nation." #NT!
+ BRA_american_advisors: "American Advisors" #NT!
+  
+ #Brazil Events 
+ bra.1.t: "Brazil in 1936" #NT!
+ bra.1.d: "Since the Great War, Brazil has been able to show itself as succesful on the world stage. With a constantly growing economy, a great population, full of resources and filled with potential, everything seems to be going good for Brazil.\n\nThat's what the international observers see. But inside Brazil the feeling is very different. The ruling government, widely regarded as oligarchic and disinterested in the people, has continued for decades with the tradition of Cafe-com-leite politics, where the "democratic" government has been controlled by the influential states of São Paulo and Minas Gerais, and their oligarchic coronel patrons, that have not cared for the deep social and economical disparities in our society.\n\nA marxist insurrection in 1931 didn't help either, and the violence of it has spread a sense of anti-red sentiment amongst some of the population, who in disapproval of the decadent republic and in hate of marxism has turned to alternative populist groups spreading a message against the government.\n\nLuckily for the government, the gambit of intervening in the Chaco War to the south, preventing the growth of Argentina's influence in our vicinities has given some legitimacy to the government, that has succesfully shown Brazil as strong. Nonetheless, their support is a fraction of our nation, and it seems the seams of our republic are showing, as political polarization mantains." #NT!
+ bra.1.a: "We have to get throught this." #NT!
+ bra.2.t: "Minor strikes all over" #NT!
+ bra.2.d: "Different workers' aggrupations have declared being on strike, looking for further rights and laws to their benefit. This show of chaos has been supported directly by the PCB, that has shown an agenda of mobilizing the workers of Brazil in their support. A worrying trend." #NT!
+ bra.2.a: "We don't need this." #NT!
+ bra.3.t: "LEC reunites people in rally" #NT!
+ bra.3.d: "Founded a couple of years ago by catholic activist Plinio Correa, the Catholic Electoral League has been in the background for most of it. Pushing for the establishment of more religious policies and traditionalism in Brazilian Society, it surged in reaction to the rather liberal reforms the government implemented after the Insurrection of 31', and has accused the government of being "decadent" and "unmoral".\n\nHowever, it's strong anti-marxist attitude and being contrarian to the disliked government has found Correa's movement a growing support base recently. Today in a rally for his cause thousands of people showed up in support for the LEC. We have to keep an eye out on this." #NT!
+ bra.3.a: "I'm sure it's nothing." #NT!
+ bra.3.b: "Try to censure this event." #NT!
+ bra.4.t: "Valquismo in the south" #NT!
+ bra.4.d: "A very recent yet quickly growing group has appeared in Brazil. Headed by Gustavo Dodt Barroso, they have imported the german ideology of Valkism to our country. With a nationalist, anti-socialist rethoric, populist ideas catering to the common people, and progressive proposals catering to the young, they have found great support in our southern regions, where those with german ancestry have shown great liking to it. A rally is planned for tomorrow, in Porto Alegre, and it seems it will be their largest to date." #NT!
+ bra.4.a: "Stop the rally." #NT!
+ bra.4.b: "What's the worst that could happen?" #NT!
+ bra.5.t: "Workers' Confederation supports Communists" #NT!
+ bra.5.d: "In a not surprising at all move, the COB has announced their explicit support for the communist movements. With the support of the largest syndicates in Brazil, this may help quite a bit the Communist Party.\n\nNothing good for the ruling government can come out of this, for sure." #NT!
+ bra.5.a: "There is nothing we can do." #NT!
+ bra.5.b: "Penalize the COB for this political movement." #NT!
+ bra.6.t: "Tensions in the government" #NT!
+ bra.6.d: "While our internal enemies are plenty, there is still room for disunity, as members of the PR have shown discontent at how our government is handling the internal situation, blaming us on the current set of events. This kind of internal trasgression is not a good idea." #NT!
+ bra.6.a: "It's a very bad idea." #NT!
+ bra.7.t: "The divisions inside the army" #NT!
+ bra.7.d: "Serving proudly for long and helping us dissuade dissidents, the Brazilian Army has been very useful for our internal stability. However, rumours have started of potential dissidents inside the army itself, it seems some of our Generals may not like how we are handling the situation, and we need to watch our back. It has also been heard that while some support the legitimate government, they don't trust us to get out of this either. We need our army united to get through this." #NT!
+ bra.7.a: "We really do." #NT!
+ bra.8.t: "Presidential Speech" #NT!
+ bra.8.d: "In a safely guarded event, considered by many dangerous, the President Salles decided that it would be a good idea to make a speech calling for unity and support inside Brazil. While in a surprisingly nice evening, no dissidents tried to ruin the event, it attracted a smaller crowd than expected." #NT!
+ bra.8.a: "We'll get through this." #NT!
+ bra.10.t: "The London Market Crash on Brazil" #NT!
+ bra.10.d: "Awful news have arrived for our economy, as the effects of the London Stock Market Crash seem to have stopped our economic growth and hit us when we didn't need it to." #NT!
+ bra.10.a: "Let's hope it doesn't worsen things..." #NT!
+ bra.11.t: "Mass strikes begin" #NT!
+ bra.11.d: "As exports are cancelled and the industry collapses, mass strikes have began. The workers, radicalized, have taken the blame on the government and the system we have built for Brazil.\n\nIt seems memories of the insurrection are coming back to mind, let's hope another revolution attempt doesn't occur." #NT!
+ bra.11.a: "This is bad." #NT!
+ bra.12.t: "Right-Wing movements unite against government and marxism." #NT!
+ bra.12.d: "In a surprising move, in Santa Catarina, The LEC and the UVB have reunited, as well as other movements of similar veins. Claiming they must stand strong against the menace of Communism, in sight of the current strikes, and denouncing the republican government for our situation, an unlikely alliance has been born.\n\nTogether, they declared that they will do whatever it takes to bring to Brazil the order it needs, that the republic hasn't been able to give, and that the marxists want to take away completely." #NT!
+ bra.12.a: "This is worrying." #NT!
+ bra.20.t: "Western States reintegrate into our Country" #NT!
+ bra.20.d: "After the Civil War, our nation become extremely divided, even after the fighting ended. Now, the tensions are getting colder and we can finally look upon each others as brothers again." #NT!
+ bra.20.a: "We welcome them." #NT!
+ bra.21.t: "Southern States reintegrate into our Country" #NT!
+ bra.21.d: "After the Civil War, our nation become extremely divided, even after the fighting ended. Now, the tensions are getting colder and we can finally look upon each others as brothers again." #NT!
+ bra.21.a: "We welcome them." #NT!
+ bra.22.t: "Southern States reintegrate into our Country" #NT!
+ bra.22.d: "After the Civil War, our nation become extremely divided, even after the fighting ended. Now, the tensions are getting colder and we can finally look upon each others as brothers again." #NT!
+ bra.22.a: "We welcome them." #NT!
+ bra.23.t: "Eastern States reintegrate into our Country" #NT!
+ bra.23.d: "After the Civil War, our nation become extremely divided, even after the fighting ended. Now, the tensions are getting colder and we can finally look upon each others as brothers again." #NT!
+ bra.23.a: "We welcome them." #NT!
+ bra.24.t: "Eastern States reintegrate into our Country" #NT!
+ bra.24.d: "After the Civil War, our nation become extremely divided, even after the fighting ended. Now, the tensions are getting colder and we can finally look upon each others as brothers again." #NT!
+ bra.24.a: "We welcome them." #NT!
+ bra.25.t: "Western States reintegrate into our Country" #NT!
+ bra.25.d: "After the Civil War, our nation become extremely divided, even after the fighting ended. Now, the tensions are getting colder and we can finally look upon each others as brothers again." #NT!
+ bra.25.a: "We welcome them." #NT!
+ bra.26.t: "An Unexpected Betrayal?" #NT!
+ bra.26.d: "As the civil war has taken its toll on us, it has been apparent to everyone that the capabilities of our president to mantain control has been questioned. Not only by the obvious traitors, but also my our own forces. The army in particular has been shady in its loyalties.\n\nThis finally catapulted into action when this afternoon general Euclides Figueiredo showed up with an ultimatum for the president to stand down, as the military, under his lead, would take direct control of the republic's state apparatus and lead Brazil during this civil war. Not everyone seemed to support him, however." #NT!
+ bra.26.a: "The Army takes over, under Figueiredo's leadership." #NT!
+ bra.26.b: "Get rid of these traitors!" #NT!
+  
+ bra.50.t: "The States' Rivalry" #NT!
+ bra.50.d: "Decades under political hegemony under Sao Paulo and Minas Gerais has made us forget the true nature of our republic, an union of states. Or at least, so have felt the "other" states, and have so expressed their representatives in a message to our president.\n\nWhile no one can deny that this is the case, this has left president Salles in a rather awkward position. By giving the favour to the states, he'd help sustain the stability of our nation, something which is sorely needed. But it would make Sao Paulo and Minas Gerais upset, and their hold into our political system is such that doing so would make them disrupt our government. This is not a very easy decision." #NT!
+ bra.50.a: "We need to keep true to the union." #NT!
+ bra.50.b: "The republic is working as intended." #NT!
+ bra.51.t: "Brazil's Power" #NT!
+ bra.51.d: "While our government's strong show of influence during the Chaco War has lead many to believe Brazil is strong and able, this was only a show, while our nation has been divided and unstable. As strikes and political movements radicalize inside our borders, it seems the world is slowly noticing our real status." #NT!
+ bra.51.a: "We could be so much more." #NT!
+ bra.52.t: "The Issue of Coronelism" #NT!
+ bra.52.d: "Coronelism, the great social and political influence carried by the landed coronels, has became the great issue that divides our society. Or at least, that's popularly acclaimed. The coronels themselves, as well as their allies in different government posts, would like to claim no issue exists, and our union stands strong as ever.\n\nNo matter what we believe, however, an official policy has to be taken. Should Coronelism just be considered the natural, beneficial power structure that makes Brazilian society what it is, or should we consider it as something to reform from, into a more representative model?" #NT!
+ bra.52.a: "Coronelism is not an issue." #NT!
+ bra.52.b: "Coronelism has to change." #NT!
+ bra.53.t: "Negotiations with urban workers" #NT!
+ bra.53.d: "Growing urban discontent, specially amongst the urban workers and the also growing middle class, has reached peak levels. Thus, negotiating with them, specially with strikes on the rise, might be a good idea.\n\nAssuming, of course, we manage to find a deal benefitial for both parties." #NT!
+ bra.53.a: "Give them what they want, for now." #NT!
+ bra.53.b: "It may not be beneficial for us." #NT!
+ bra.54.t: "The Worker Dilemma" #NT!
+ bra.54.d: "Social unequalities have been present in Brazil since imperial days. However, for too long the workers were unorganized and tightly in control by the upper classes. Now it's different. With the organization of workers in unions and syndicates, the growth of socialist and populist ideologies, and all along a rather polarized political scene, we can't grow Brazil pretending they don't exist anymore. Or so has been claimed by reformers. The government, however, remains divided towards this issue, whether should it or not be considered a matter of upmost urgency for our nation or not." #NT!
+ bra.54.a: "We'll do what we can for the workers." #NT!
+ bra.54.b: "It's not our priority." #NT!
+ bra.55.t: "Reforming the Union" #NT!
+ bra.55.d: "Born in a dream of democracy and equality between the states, for far too long the landed gentry, the oligarchic coronels have disrupted this dream. The ideal of reforming the republic into this dream is now greater than ever, as our country is divided and torn by the war, so it has been made clear whose fault is it.\n\nThis posture has been obviously rejected by the oligarchs, that blame the current chaos at the traitors that didn't follow their rule willingly. Now, with our government reformism at its peak amongst our populace and our government, it seems like the Coronels will be a stone in our path, that will have to be dealt with. Well, another stone, considering the mess we are stuck at." #NT!
+ bra.55.a: "We'll recreate this union." #NT!
+ bra.56.t: "Our Pride Betrayed" #NT!
+ bra.56.d: "The coronels, the noble and landed gentry that has lead our nation towards being the envy of many, has been betrayed. The weak reformists that sought to make the republic what it's not, and the envious states that didn't realize the best were ruling Brazil in a dign manner, divided us, causing the current chaos to drown us.\n\nSo has been proclaimed by the government, that with full support of the Coronels, has denounced the forces of change that have struck the republic. This however, has been massively unpopular with the common people, that don't empathise whatsoever with such claims." #NT!
+ bra.56.a: "We need to bring back th old order." #NT!
+ bra.57.t: "Division amongst the government" #NT!
+ bra.57.d: "As the civil war surrounds us, it seems this conflict has caused political tensions inside the structure of our legitimate government, as expected. While the war efforts are stable, a rift has been created between those that want to reform the republic, blaming the old order in our current chaos, believing that only with reform Brazil can be brough together. On the other hand, some less popular yet very much influential groups have brough the idea that it is those dreams of reform which weakened us in first place and put is our current situation.\n\nThe only thing that's clear is that no one is happy with this situation." #NT!
+ bra.57.a: "We must reform!" #NT!
+ bra.57.b: "We must go back!" #NT!
+ bra.57.c: "The Stalemate Continues." #NT!
+ bra.58.t: "An Unexpected Betrayal?" #NT!
+ bra.58.d: "As the civil war has taken its toll on us, and our government remains unable to unite even under the current crisis, it has been apparent to everyone that the capabilities of our president to mantain control has been questioned. Not only by the obvious traitors, but also my our own forces. The army in particular has had loyalties of its own.\n\nThis finally catapulted into action when this afternoon general Euclides Figueiredo showed up with an ultimatum for the president to stand down, as the military, under his lead, would take direct control of the republic's state apparatus and lead Brazil during this civil war. Not everyone seemed to support him, however." #NT!
+ bra.58.a: "Order is needed." #NT!
+  
+ #BCW 
+ bcw.1337.t: "Tensions reach peak" #NT!
+ bcw.1337.d: "As tensions between the political groups in our nation have reached their zenith, the government has called the military to prepare and stand ready. It seems that open revolt is imminent, and we must do whatever we must to defend the Republic. Chaos is coming, war is coming." #NT!
+ bcw.1337.a: "We'll be prepared." #NT!
+ bcw.1.t: "Communists rise up in revolt" #NT!
+ bcw.1.d: "As the general strike intensifies, the covers have came off. Today, Luis Prestes, head of the Communist Party, has declared revolution, as the workers of Brazil will fight once again, and try to accomplish what they couldn't years ago, the socialist Union of Brazil has risen up. We had hoped it wouldn't come to this, but this is just the beginning." #NT!
+ bcw.1.a: "We'll fight for the Republic." #NT!
+ bcw.1.b: "We'll fight for the Revolution." #NT!
+ bcw.2.d: "The wait has ended, today, we, the workers, have risen up against the selfish and corrupt oligarch bourgouisie that has ruled Brazil for far too long.\n\nThe end of the Old Republic is at hand, long live the Union! We'll fight on for the workers of Brazil!" #NT!
+ bcw.2.t: "The Rise of the Union" #NT!
+ bcw.2.a: "Para os trabalhadores!" #NT!
+ bcw.3.t: "People's State declared" #NT!
+ bcw.3.d: "United by their hatred of the socialists and the republic, the right-wing coalition has risen in the south, declaring the death of the republic, and a reactionary and populist "People's State", aiming to truly represent the Brazilian people, as they declare we have failed. Confrontation is imminent. Confrontation is inevitable." #NT!
+ bcw.3.a: "We'll stand for the Republic." #NT!
+ bcw.3.b: "We'll stand for the Nation." #NT!
+ bcw.4.t: "The Rebirth of Brazil" #NT!
+ bcw.4.d: "As was expected, the death of the Brazilian Republic was imminent. Now, we have risen, to save our nation from the chaos and decandency it has fallen upon. The Republic has failed us, and the Marxists have divided us. Only together, those who stand for the nation, can rebuild Brazil, in the true, perfect vision of how it should be.\n\nSo was proclaimed as heading the coalition, Plinio Correa declared we beginning of a new age for Brazil, where we will be the ones to decide its fate." #NT!
+ bcw.4.a: "Onwards, for Brazil!" #NT!
+ bcw.25.t: "The End of the Civil War" #NT!
+ bcw.25.d: "Peace is seemingly back in our nation, as both the collie revolutionaries in the west and the traitors in the south collapsed to our forces. While fight continues in pockets of rebels that have yet to submit to the legitimacy of our government, this will soon be taken care of.\n\nWe have came out of our most difficult and unstable period, and now it is time to begin the reconstruction, and to craft this new age for the Republic, where we won't make the mistakes of before." #NT!
+ bcw.25.a: "Ordem e progresso!" #NT!
+ bcw.26.t: "The End of the Civil War" #NT!
+ bcw.26.d: "Peace is seemingly back in our nation, as our revolution has succeeded after the collapse of the reactionaries, both the oligarchs in the capital and the extremists in the south. While fight continues in pockets of reactionary militias struggling to accept our revolution, they will soon be taken care of.\n\nWe have came out of our worst period for the workers of Brazil, and risen up for a better future, and now it is time to begin the reconstruction, and to craft this new age for the workers, where the proletariat won't have to be exploited anymore." #NT!
+ bcw.26.a: "Os trabalhadores unidos nunca serão derrotados!" #NT!
+ bcw.27.t: "The End of the Civil War" #NT!
+ bcw.27.d: "Peace is seemingly back in our nation, as the traitors in the west and decadent oligarchs up north have fallen to our might. While fight continues in pockets of traitors causing chaos around our nation, they will soon be taken care of.\n\nWe have came out of the most chaotic period for our nation, and risen up for Brazil's fate, and now it is time to begin the reconstruction, to bring order and to reshape the path this nation is taking, leading us towards the glory we deserve, where no one will challenge our greatness." #NT!
+ bcw.27.a: "Fé e Nação, para o Brasil!" #NT!
+  
+  
+ BRA_faltering_republic: "A Faltering Republic" #NT!
+ BRA_faltering_republic_desc: "" #NT!
+ BRA_the_people_divided: "The People Divided" #NT!
+ BRA_the_people_divided_desc: "" #NT!
+ BRA_the_states_spited: "The States Spited" #NT!
+ BRA_the_states_spited_desc: "" #NT!
+ BRA_a_feather_giant: "A Feather Giant" #NT!
+ BRA_a_feather_giant_desc: "" #NT!
+ BRA_the_issue_of_coronelism: "The Issue of Coronelism" #NT!
+ BRA_the_issue_of_coronelism_desc: "" #NT!
+ BRA_growing_urban_discontent: "Growing Urban Discontent" #NT!
+ BRA_growing_urban_discontent_desc: "" #NT!
+ BRA_the_worker_dilemma: "The Worker Dilemma" #NT!
+ BRA_the_worker_dilemma_desc: "" #NT!
+ BRA_seeking_change: "Seeking Change" #NT!
+ BRA_seeking_change_desc: "" #NT!
+ BRA_the_crash_arrives: "The Crash Arrives" #NT!
+ BRA_the_crash_arrives_desc: "" #NT!
+ BRA_the_wounds_open: "The Wounds Open" #NT!
+ BRA_the_wounds_open_desc: "" #NT!
+ BRA_civil_war: "The Civil War Begins" #NT!
+ BRA_civil_war_desc: "" #NT!
+ BRA_standing_for_the_union: "Standing for the Union" #NT!
+ BRA_standing_for_the_union_desc: "" #NT!
+ BRA_reforming_the_republic: "Reforming the Republic" #NT!
+ BRA_reforming_the_republic_desc: "" #NT!
+ BRA_rallying_the_abandoned: "Rallying the Abandoned" #NT!
+ BRA_rallying_the_abandoned_desc: "" #NT!
+ BRA_states_stand_equal: "States Stand Equal" #NT!
+ BRA_states_stand_equal_desc: "" #NT!
+ BRA_rein_in_sao_paulo: "Rein in Sao Paulo" #NT!
+ BRA_rein_in_sao_paulo_desc: "" #NT!
+ BRA_rein_in_minas_gerais: "Rein in Minas Gerais" #NT!
+ BRA_rein_in_minas_gerais_desc: "" #NT!
+ BRA_abandon_the_old_legacy: "Abandon the Old Legacy" #NT!
+ BRA_abandon_the_old_legacy_desc: "" #NT!
+ BRA_a_healthy_partnership: "A Healthy Partnership" #NT!
+ BRA_a_healthy_partnership_desc: "" #NT!
+ BRA_work_with_the_middle_class: "Work with the Middle Class" #NT!
+ BRA_work_with_the_middle_class_desc: "" #NT!
+ BRA_empower_the_workers: "Empower the Workers" #NT!
+ BRA_empower_the_workers_desc: "" #NT!
+ BRA_a_central_federation: "A Central Federation" #NT!
+ BRA_a_central_federation_desc: "" #NT!
+ BRA_crafting_a_just_democracy: "Crafting a Just Democracy" #NT!
+ BRA_crafting_a_just_democracy_desc: "" #NT!
+ BRA_challenge_the_coronels: "Challenge the Coronels" #NT!
+ BRA_challenge_the_coronels_desc: "" #NT!
+ BRA_a_wider_society: "A Wider Society" #NT!
+ BRA_a_wider_society_desc: "" #NT!
+ BRA_protect_loyal_citizens: "Protect Loyal Citizens" #NT!
+ BRA_protect_loyal_citizens_desc: "" #NT!
+ BRA_nurture_democratic_traditions: "Nurture Democratic Traditions" #NT!
+ BRA_nurture_democratic_traditions_desc: "" #NT!
+ BRA_urban_emphasis: "Urban Emphasis" #NT!
+ BRA_urban_emphasis_desc: "" #NT!
+ BRA_interventionist_state: "An Interventionist State" #NT!
+ BRA_interventionist_state_desc: "" #NT!
+ BRA_our_government_healing: "Our Government, Healing" #NT!
+ BRA_our_government_healing_desc: "" #NT!
+ BRA_oligarchies_no_more: "Oligarchies No More" #NT!
+ BRA_oligarchies_no_more_desc: "" #NT!
+ BRA_representing_the_people: "Representing the People" #NT!
+ BRA_representing_the_people_desc: "" #NT!
+ BRA_our_society_healing: "Our Society, Healing" #NT!
+ BRA_our_society_healing_desc: "" #NT!
+ BRA_our_republic_reborn: "Our Republic Reborn" #NT!
+ BRA_our_republic_reborn_desc: "" #NT!
+ BRA_mantain_the_old_order: "Maintain the Old Order" #NT!
+ BRA_mantain_the_old_order_desc: "" #NT!
+ BRA_a_legacy_of_prestige: "A Legacy of Prestige" #NT!
+ BRA_a_legacy_of_prestige_desc: "" #NT!
+ BRA_respect_local_autonomies: "Respect Local Autonomies" #NT!
+ BRA_respect_local_autonomies_desc: "" #NT!
+ BRA_call_in_the_coronels: "Call in the Coronels" #NT!
+ BRA_call_in_the_coronels_desc: "" #NT!
+ BRA_a_union_of_states: "An Union of States" #NT!
+ BRA_a_union_of_states_desc: "" #NT!
+ BRA_the_coffee: "The Coffee" #NT!
+ BRA_the_coffee_desc: "" #NT!
+ BRA_the_milk: "The Milk" #NT!
+ BRA_the_milk_desc: "" #NT!
+ BRA_the_other_ones: "The Other Ones" #NT!
+ BRA_the_other_ones_desc: "" #NT!
+ BRA_reinforce_our_patrimony: "Reinforce Our Patrimony" #NT!
+ BRA_reinforce_our_patrimony_desc: "" #NT!
+ BRA_the_social_questions: "The Social Questions" #NT!
+ BRA_the_social_questions_desc: "" #NT!
+ BRA_slight_union_concessions: "Slight Union Concessions" #NT!
+ BRA_slight_union_concessions_desc: "" #NT!
+ BRA_compromise_with_urban_bourgouisie: "Compromise with the Urban Bourgeoisie" #NT!
+ BRA_compromise_with_urban_bourgouisie_desc: "" #NT!
+ BRA_loyalty_to_the_coronels: "Loyalty to the Coronels" #NT!
+ BRA_loyalty_to_the_coronels_desc: "" #NT!
+ BRA_favors_for_power: "Favors for Power" #NT!
+ BRA_favors_for_power_desc: "" #NT!
+ BRA_a_place_for_everyone: "A Place for Everyone" #NT!
+ BRA_a_place_for_everyone_desc: "" #NT!
+ BRA_everyone_in_its_place: "Everyone in their Place" #NT!
+ BRA_everyone_in_its_place_desc: "" #NT!
+ BRA_oligarchy_prevails: "The Oligarchy Prevails" #NT!
+ BRA_oligarchy_prevails_desc: "" #NT!
+ BRA_strength_in_tradition: "Strength in Tradition" #NT!
+ BRA_strength_in_tradition_desc: "" #NT!
+ BRA_rural_support: "Rural Support" #NT!
+ BRA_rural_support_desc: "" #NT!
+ BRA_help_the_agrarian_markets: "Help the Agrarian Markets" #NT!
+ BRA_help_the_agrarian_markets_desc: "" #NT!
+ BRA_restoring_national_order: "Restoring National Order" #NT!
+ BRA_restoring_national_order_desc: "" #NT!
+ BRA_coronelism_strengthened: "Coronelism Strengthened" #NT!
+ BRA_coronelism_strengthened_desc: "" #NT!
+ BRA_back_on_our_feet: "Back On Our Feet" #NT!
+ BRA_back_on_our_feet_desc: "" #NT!
+ BRA_a_forceful_alternative: "A Forceful Alternative" #NT!
+ BRA_a_forceful_alternative_desc: "" #NT!
+ BRA_impose_martial_law: "Impose Martial Law" #NT!
+ BRA_impose_martial_law_desc: "" #NT!
+ BRA_cessation_of_political_activities: "Cessation of Political Activities" #NT!
+ BRA_cessation_of_political_activities_desc: "" #NT!
+ BRA_military_institutions: "Military Institutions" #NT!
+ BRA_military_institutions_desc: "" #NT!
+ BRA_imposing_loyalty: "Imposing Loyalty" #NT!
+ BRA_imposing_loyalty_desc: "" #NT!
+ BRA_a_real_government: "A Real Government" #NT!
+ BRA_a_real_government_desc: "" #NT!
+ BRA_real_order: "Real Order" #NT!
+ BRA_real_order_desc: "" #NT!
+ BRA_our_own_democracy: "Our Own Democracy" #NT!
+ BRA_our_own_democracy_desc: "" #NT!
+ BRA_the_republics_illness: "The Republic's Illness" #NT!
+ BRA_the_republics_illness_desc: "" #NT!
+ BRA_no_room_for_the_coronels: "No Room for the Coronels" #NT!
+ BRA_no_room_for_the_coronels_desc: "" #NT!
+ BRA_seize_agrarian_properties: "Seize Agrarian Properties" #NT!
+ BRA_seize_agrarian_properties_desc: "" #NT!
+ BRA_overrule_autonomies: "Overrule Autonomies" #NT!
+ BRA_overrule_autonomies_desc: "" #NT!
+ BRA_work_with_the_coronels: "Work with the Coronels" #NT!
+ BRA_work_with_the_coronels_desc: "" #NT!
+ BRA_respect_autonomy: "Respect Autonomy" #NT!
+ BRA_respect_autonomy_desc: "" #NT!
+ BRA_rally_the_oligarchs: "Rally the Oligarchs" #NT!
+ BRA_rally_the_oligarchs_desc: "" #NT!
+ BRA_stability: "Stability" #NT!
+ BRA_stability_desc: "" #NT!
+ BRA_adress_the_people: "Adress the People" #NT!
+ BRA_adress_the_people_desc: "" #NT!
+ BRA_dissidents_no_more: "Dissidents No More" #NT!
+ BRA_dissidents_no_more_desc: "" #NT!
+ BRA_enforce_internal_peace: "Enforce Internal Peace" #NT!
+ BRA_enforce_internal_peace_desc: "" #NT!
+ BRA_work_with_unionist_leaders: "Work with Unionist Leaders" #NT!
+ BRA_work_with_unionist_leaders_desc: "" #NT!
+ BRA_arrest_unionist_leaders: "Arrest Unionist Leaders" #NT!
+ BRA_arrest_unionist_leaders_desc: "" #NT!
+ BRA_compromise_with_the_middle_class: "Compromise with the Middle Class" #NT!
+ BRA_compromise_with_the_middle_class_desc: "" #NT!
+ BRA_the_fate_of_the_republic: "The Fate of the Republic" #NT!
+ BRA_the_fate_of_the_republic_desc: "" #NT!
+ BRA_abolish_democratic_institutions: "Abolish Democratic Institutions" #NT!
+ BRA_abolish_democratic_institutions_desc: "" #NT!
+ BRA_the_general_president: "The General-President" #NT!
+ BRA_the_general_president_desc: "" #NT!
+ BRA_a_military_elite: "A New Aristocracy" #NT!
+ BRA_a_military_elite_desc: "" #NT!
+ BRA_a_martial_society: "A Martial Society" #NT!
+ BRA_a_martial_society_desc: "" #NT!
+ BRA_stronger_society: "Stronger Society" #NT!
+ BRA_stronger_society_desc: "" #NT!
+ BRA_a_firm_nation: "A Firm Nation" #NT!
+ BRA_a_firm_nation_desc: "" #NT!
+ BRA_a_rising_power: "A Rising Power" #NT!
+ BRA_a_rising_power_desc: "" #NT!
+ BRA_restore_democratic_order: "Restore Democratic Order" #NT!
+ BRA_restore_democratic_order_desc: "" #NT!
+ BRA_lessons_of_the_ditabranda: "Lessons of the Ditabranda" #NT!
+ BRA_lessons_of_the_ditabranda_desc: "" #NT!
+ BRA_opening_up: "Opening Up" #NT!
+ BRA_opening_up_desc: "" #NT!
+ BRA_a_new_political_age: "A New Political Age" #NT!
+ BRA_a_new_political_age_desc: "" #NT!
+ BRA_back_to_civilian_hands: "Back to Civilian Hands" #NT!
+ BRA_back_to_civilian_hands_desc: "" #NT!
+ BRA_call_elections: "Call Elections" #NT!
+ BRA_call_elections_desc: "" #NT!
+ BRA_the_new_democracy: "The New Democracy" #NT!
+ BRA_the_new_democracy_desc: "" #NT!
+ BRA_emergency_economy_plan: "Emergency Economic Plan" #NT!
+ BRA_emergency_economy_plan_desc: "" #NT!
+ BRA_war_driven_efforts: "War-Driven Efforts" #NT!
+ BRA_war_driven_efforts_desc: "" #NT!
+ BRA_new_industrial_apparatus: "A New Industrial Apparatus" #NT!
+ BRA_new_industrial_apparatus_desc: "" #NT!
+ BRA_finance_urban_centers: "Finance Urban Centers" #NT!
+ BRA_finance_urban_centers_desc: "" #NT!
+ BRA_invest_in_rural_manufacturies: "Invest In Rural Manufacturies" #NT!
+ BRA_invest_in_rural_manufacturies_desc: "" #NT!
+ BRA_protective_measures: "Protection Measures" #NT!
+ BRA_protective_measures_desc: "" #NT!
+ BRA_paving_our_road_to_victory: "Paving Our Road To Victory" #NT!
+ BRA_paving_our_road_to_victory_desc: "" #NT!
+ BRA_fund_new_industries: "Fund Brazilian Industries" #NT!
+ BRA_fund_new_industries_desc: "" #NT!
+ BRA_arms_expansion: "Arms Factory Expansion" #NT!
+ BRA_arms_expansion_desc: "" #NT!
+ BRA_update_technical_processes: "Update Technical Processes" #NT!
+ BRA_update_technical_processes_desc: "" #NT!
+ BRA_stability_measures: "Measures for Stability" #NT!
+ BRA_stability_measures_desc: "" #NT!
+ BRA_resource_refinement: "Resource Refinement" #NT!
+ BRA_resource_refinement_desc: "" #NT!
+ BRA_improving_key_systems: "Key Economic Systems" #NT!
+ BRA_improving_key_systems_desc: "" #NT!
+ BRA_internal_growth_focus: "Integral Growth Focus" #NT!
+ BRA_internal_growth_focus_desc: "" #NT!
+ BRA_industrial_emphasis: "Industrial Emphasis" #NT!
+ BRA_industrial_emphasis_desc: "" #NT!
+ BRA_all_for_the_republic: "All for the Republic" #NT!
+ BRA_all_for_the_republic_desc: "" #NT!
+ BRA_agro_industrial_ties: "Agro-Industrial Ties" #NT!
+ BRA_agro_industrial_ties_desc: "" #NT!
+ BRA_sustain_agricultural_centers: "Sustain Agricultural Centers" #NT!
+ BRA_sustain_agricultural_centers_desc: "" #NT!
+ BRA_funding_the_coronels: "Funding the Coronels" #NT!
+ BRA_funding_the_coronels_desc: "" #NT!
+ BRA_infrastructure_focus: "Infrastructure Focus" #NT!
+ BRA_infrastructure_focus_desc: "" #NT!
+ BRA_arms_investing: "Arms Investing" #NT!
+ BRA_arms_investing_desc: "" #NT!
+ BRA_rural_funding: "Rural Funding" #NT!
+ BRA_rural_funding_desc: "" #NT!
+ BRA_integrated_agriculture: "Integrated Agriculture" #NT!
+ BRA_integrated_agriculture_desc: "" #NT!
+ BRA_national_industries: "Brazilian Industries" #NT!
+ BRA_national_industries_desc: "" #NT!
+ BRA_sao_paulo_manufactories: "Sao Paulo Manufacturies" #NT!
+ BRA_sao_paulo_manufactories_desc: "" #NT!
+ BRA_minas_gerais_production: "Minas Gerais Production" #NT!
+ BRA_minas_gerais_production_desc: "" #NT!
+ BRA_modernized_techniques: "Modernized Techniques" #NT!
+ BRA_modernized_techniques_desc: "" #NT!
+ BRA_coordinated_expansion: "Coordinated Expansion" #NT!
+ BRA_coordinated_expansion_desc: "" #NT!
+ BRA_resource_enterprising: "Resource Enterprising" #NT!
+ BRA_resource_enterprising_desc: "" #NT!
+ BRA_extractive_updates: "Extractive Updates" #NT!
+ BRA_extractive_updates_desc: "" #NT!
+ BRA_noble_sacrifice: "Noble Sacrifice" #NT!
+ BRA_noble_sacrifice_desc: "" #NT!
+  
+ #Me putting here SA occupation events because why the heck not 
+  
+ occupation.40.t: "The Fate of Paraguay" #NT!
+ occupation.40.d: "As we have came to have control over their national core, we can't help but notice the massive cost of our occupation. The Fate of Paraguay is thus yet to be decided, yet the logical choice is recreating their state, putting a friendly government in charge." #NT!
+ occupation.40.a: "Put a friendly government in control." #NT!
+ occupation.40.b: "Direct rule is a better choice." #NT!
+ occupation.41.t: "The Fate of Chile" #NT!
+ occupation.41.d: "As we have came to have control over their national core, we can't help but notice the massive cost of our occupation. The Fate of Chile is thus yet to be decided, yet the logical choice is recreating their state, putting a friendly government in charge." #NT!
+ occupation.41.a: "Put a friendly government in control." #NT!
+ occupation.41.b: "Direct rule is a better choice." #NT!
+ occupation.42.t: "The Fate of Argentina" #NT!
+ occupation.42.d: "As we have came to have control over their national core, we can't help but notice the massive cost of our occupation. The Fate of Argentina is thus yet to be decided, yet the logical choice is recreating their state, putting a friendly government in charge." #NT!
+ occupation.42.a: "Put a friendly government in control." #NT!
+ occupation.42.b: "Direct rule is a better choice." #NT!
+ occupation.43.t: "The Fate of Bolivia" #NT!
+ occupation.43.d: "As we have came to have control over their national core, we can't help but notice the massive cost of our occupation. The Fate of Bolivia is thus yet to be decided, yet the logical choice is recreating their state, putting a friendly government in charge." #NT!
+ occupation.43.a: "Put a friendly government in control." #NT!
+ occupation.43.b: "Direct rule is a better choice." #NT!
+ occupation.44.t: "The Fate of Peru" #NT!
+ occupation.44.d: "As we have came to have control over their national core, we can't help but notice the massive cost of our occupation. The Fate of Peru is thus yet to be decided, yet the logical choice is recreating their state, putting a friendly government in charge." #NT!
+ occupation.44.a: "Put a friendly government in control." #NT!
+ occupation.44.b: "Direct rule is a better choice." #NT!
+ occupation.45.t: "The Fate of Ecuador" #NT!
+ occupation.45.d: "As we have came to have control over their national core, we can't help but notice the massive cost of our occupation. The Fate of Ecuador is thus yet to be decided, yet the logical choice is recreating their state, putting a friendly government in charge." #NT!
+ occupation.45.a: "Put a friendly government in control." #NT!
+ occupation.45.b: "Direct rule is a better choice." #NT!
+ occupation.46.t: "The Fate of Colombia" #NT!
+ occupation.46.d: "As we have came to have control over their national core, we can't help but notice the massive cost of our occupation. The Fate of Colombia is thus yet to be decided, yet the logical choice is recreating their state, putting a friendly government in charge." #NT!
+ occupation.46.a: "Put a friendly government in control." #NT!
+ occupation.46.b: "Direct rule is a better choice." #NT!
+ occupation.47.t: "The Fate of Venezuela" #NT!
+ occupation.47.d: "As we have came to have control over their national core, we can't help but notice the massive cost of our occupation. The Fate of Venezuela is thus yet to be decided, yet the logical choice is recreating their state, putting a friendly government in charge." #NT!
+ occupation.47.a: "Put a friendly government in control." #NT!
+ occupation.47.b: "Direct rule is a better choice." #NT!
+ occupation.48.t: "The Fate of Uruguay" #NT!
+ occupation.48.d: "As we have came to have control over their national core, we can't help but notice the massive cost of our occupation. The Fate of Uruguay is thus yet to be decided, yet the logical choice is recreating their state, putting a friendly government in charge." #NT!
+ occupation.48.a: "Put a friendly government in control." #NT!
+ occupation.48.b: "Direct rule is a better choice." #NT!
+ occupation.49.t: "The Fate of Brazil" #NT!
+ occupation.49.d: "As we have came to have control over their national core, we can't help but notice the massive cost of our occupation. The Fate of Brazil is thus yet to be decided, yet the logical choice is recreating their state, putting a friendly government in charge." #NT!
+ occupation.49.a: "Put a friendly government in control." #NT!
+ occupation.49.b: "Direct rule is a better choice." #NT!
+  
+  
+ #some descriptions 
+ POLITICS_CARLOS_FREILE_LARREA_DESC: "Ascending as president after the death of his predecessor, Neftalí Bonifaz, Carlos Freile Larrea has found himself in a difficult position, having to balance the desires of his own Party and interests, the UPN, with those of his main source of support, the National Workers' Compact, that has slowly been turning Ecuador into an ultra-conservative pseudo-syndicalist state, but not without facing the opposition of traditional power groups." #NT!
+ POLITICS_JuanmaFruc_DESC: "Bringing the Colorados to power, Presidente Fructos has to delicately know how to balance the loyalties of his party, the army, and the upset working classes." #NT!
+ POLITICS_BASMUNN_DESC: "After president Terra's ambitions put in question the strength of democracy in Uruguay, Basilio Muñoz quickly rose to challenge his rule, and became president after Terra's deposing. Now, he has to lead Uruguay as it seeks to rebuild its republican structure once again." #NT!
+ POLITICS_SANTOS_DOMINICI_DESC: "Leading the restitution of Venezuela's Democracy after Delgado Chalbaud-Cardona's Expedition brought the Catfish down, president Dominici has built an outstanding legacy. The future is uncertain, however, and Venezuela might find itself in disarray after his mandate ends." #NT!
+ POLITICS_ARMANDO_SALES_DESC: "Popular amongst the elite and one of the rising politicians in Sao Paulo, Armando Salles de Oliveira has became the president of the Brazilian Republic. His handling of the Chaco conflict has granted him all-around popularity. However, as strife once again fills the republic, it may all go down the drain." #NT!
+  
+ BRA_Joao_Mangabeira: "João Mangabeira" #NT!
+ BRA_Julio_Prestes: "Júlio Prestes" #NT!
+ BRA_Armando_Salles: "Armando Salles" #NT!
+ BRA_Otavio_Mangabeira: "Otávio Mangabeira" #NT!
+ BRA_Getulio_Vargas: "Getulio Vargas" #NT!
+ BRA_Gustavo_Dodt_Barroso: "Gustavo Dodt Barroso" #NT!
+ BRA_Eurico_Gaspar_Dutra: "Eurico Gaspar Dutra" #NT!
+ BRA_Euclides_Figueiredo: "Euclides Figueiredo" #NT!
+ BRA_Palimercio_de_Rezende: "Palimércio de Rezende" #NT!
+ BRA_Mascarenhas_de_Morais: "Mascarenhas de Morais" #NT!
+ BRA_Isaias_de_Noronha: "Isaías de Noronha" #NT!

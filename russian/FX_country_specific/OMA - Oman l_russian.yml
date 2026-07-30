@@ -1,0 +1,46 @@
+﻿l_russian:
+  
+ ### Country Names 
+ OMA_vanguardist: "Oman" #NT!
+ OMA_vanguardist_ADJ: "Omani" #NT!
+ OMA_vanguardist_DEF: "the Union of Oman" #NT!
+ OMA_collectivist: "Oman" #NT!
+ OMA_collectivist_ADJ: "Omani" #NT!
+ OMA_collectivist_DEF: "the United Omani Communes" #NT!
+ OMA_libertarian_socialist: "Oman" #NT!
+ OMA_libertarian_socialist_ADJ: "Omani" #NT!
+ OMA_libertarian_socialist_DEF: "the People's Republic of Oman" #NT!
+ OMA_social_democrat: "Oman" #NT!
+ OMA_social_democrat_ADJ: "Omani" #NT!
+ OMA_social_democrat_DEF: "the Islamic Emirate of Oman" #NT!
+ OMA_social_liberal: "Oman" #NT!
+ OMA_social_liberal_ADJ: "Omani" #NT!
+ OMA_social_liberal_DEF: "the Islamic Emirate of Oman" #NT!
+ OMA_market_liberal: "Oman" #NT!
+ OMA_market_liberal_ADJ: "Omani" #NT!
+ OMA_market_liberal_DEF: "the Islamic Emirate of Oman" #NT!
+ OMA_social_conservative: "Oman" #NT!
+ OMA_social_conservative_ADJ: "Omani" #NT!
+ OMA_social_conservative_DEF: "the Islamic Emirate of Oman" #NT!
+ OMA_authoritarian_democrat: "Oman" #NT!
+ OMA_authoritarian_democrat_ADJ: "Omani" #NT!
+ OMA_authoritarian_democrat_DEF: "the Islamic Emirate of Oman" #NT!
+ OMA_paternal_autocrat: "Oman" #NT!
+ OMA_paternal_autocrat_ADJ: "Omani" #NT!
+ OMA_paternal_autocrat_DEF: "the Sultanate of Oman" #NT!
+ OMA_national_populist: "Oman" #NT!
+ OMA_national_populist_ADJ: "Omani" #NT!
+ OMA_national_populist_DEF: "the Sultanate of Oman" #NT!
+ OMA_valkist: "Oman" #NT!
+ OMA_valkist_ADJ: "Omani" #NT!
+ OMA_valkist_DEF: "the Sultanate of Oman" #NT!
+  
+ ### Parties 
+ OMA_authoritarian_democrat_party: "Al Said" #NT!
+ OMA_authoritarian_democrat_party_long: "Al Said\n§gHouse of Said§!" #NT!
+ OMA_paternal_autocrat_party: "Al Said" #NT!
+ OMA_paternal_autocrat_party_long: "Al Said\n§gHouse of Said§!" #NT!
+ OMA_national_populist_party: "Iimbraturiat Eamman" #NT!
+ OMA_national_populist_party_long: "Iimbraturiat Eamman" #NT!
+  
+ OMA_Said_bin_Taimur: "Said bin Taimur" #NT!

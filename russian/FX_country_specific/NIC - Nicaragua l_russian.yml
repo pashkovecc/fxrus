@@ -1,0 +1,61 @@
+﻿l_russian:
+  
+ ### Country Names 
+ NIC_vanguardist: "Nicaragua" #NT!
+ NIC_vanguardist_ADJ: "Nicaraguan" #NT!
+ NIC_vanguardist_DEF: "the Nicaraguan Socialist State" #NT!
+ NIC_collectivist: "Nicaragua" #NT!
+ NIC_collectivist_ADJ: "Nicaraguan" #NT!
+ NIC_collectivist_DEF: "the Nicaraguan Socialist State" #NT!
+ NIC_libertarian_socialist: "Nicaragua" #NT!
+ NIC_libertarian_socialist_ADJ: "Nicaraguan" #NT!
+ NIC_libertarian_socialist_DEF: "the Nicaraguan Communal Republic" #NT!
+ NIC_social_democrat: "Nicaragua" #NT!
+ NIC_social_democrat_ADJ: "Nicaraguan" #NT!
+ NIC_social_democrat_DEF: "the Republic of Nicaragua" #NT!
+ NIC_social_liberal: "Republic of Nicaragua" #NT!
+ NIC_social_liberal_ADJ: "Nicaraguan" #NT!
+ NIC_social_liberal_DEF: "the Republic of Nicaragua" #NT!
+ NIC_market_liberal: "Republic of Nicaragua" #NT!
+ NIC_market_liberal_ADJ: "Nicaraguan" #NT!
+ NIC_market_liberal_DEF: "the Republic of Nicaragua" #NT!
+ NIC_social_conservative: "Republic of Nicaragua" #NT!
+ NIC_social_conservative_ADJ: "Nicaraguan" #NT!
+ NIC_social_conservative_DEF: "the Republic of Nicaragua" #NT!
+ NIC_authoritarian_democrat: "Republic of Nicaragua" #NT!
+ NIC_authoritarian_democrat_ADJ: "Nicaraguan" #NT!
+ NIC_authoritarian_democrat_DEF: "the Republic of Nicaragua" #NT!
+ NIC_paternal_autocrat: "Nicaragua" #NT!
+ NIC_paternal_autocrat_ADJ: "Nicaraguan" #NT!
+ NIC_paternal_autocrat_DEF: "the Nicaraguan State" #NT!
+ NIC_national_populist: "Nicaragua" #NT!
+ NIC_national_populist_ADJ: "Nicaraguan" #NT!
+ NIC_national_populist_DEF: "the Nicaraguan State" #NT!
+ NIC_valkist: "Nicaragua" #NT!
+ NIC_valkist_ADJ: "Nicaraguan" #NT!
+ NIC_valkist_DEF: "the Republic of Nicaragua" #NT!
+  
+ ### Parties 
+ NIC_vanguardist_party_long: "Partido Nacional Revolucionario\n§gNational Revolutionary Party§!" #NT!
+ NIC_vanguardist_party: "PNR" #NT!
+ NIC_collectivist_party_long: "Frente de Soberanía Nacional\n§gFront of National Sovereignty§!" #NT!
+ NIC_collectivist_party: "FSN" #NT!
+ NIC_libertarian_socialist_party_long: "Partido Campesino de Nicaragua\n§gPeasants' Party of Nicaragua§!" #NT!
+ NIC_libertarian_socialist_party: "PCN" #NT!
+ NIC_social_democrat_party_long: "Partido Campesino de Nicaragua" #NT!
+ NIC_social_democrat_party: "PCN" #NT!
+ NIC_social_liberal_party_long: "Partido de la Revolución Liberal\n§gLiberal Revolutionary Party§!" #NT!
+ NIC_social_liberal_party: "PRL" #NT!
+ NIC_market_liberal_party_long: "Partido Liberal Constitucionalista\n§gConstitutional Liberal Party§!" #NT!
+ NIC_market_liberal_party: "PLC" #NT!
+ NIC_social_conservative_party_long: "Partido Conservador\n§gConservative Party§!" #NT!
+ NIC_social_conservative_party: "PC" #NT!
+ NIC_authoritarian_democrat_party_long: "Partido Liberal Nacionalista\n§gNational Liberal Party§!" #NT!
+ NIC_authoritarian_democrat_party: "PLN" #NT!
+ NIC_paternal_autocrat_party_long: "Unión Nacional Opositora\n§gNational Opposition Party§!" #NT!
+ NIC_paternal_autocrat_party: "UNO" #NT!
+ NIC_national_populist_party_long: "Alianza por la República\n§gAlliance for the Republic§!" #NT!
+ NIC_national_populist_party: "AL" #NT!
+  
+ NIC_Juan_Bautista_Sacasa: "Juan Bautista Sacasa" #NT!
+ NIC_Anastasio_Somoza_Garcia: "Anastasio Somoza García" #NT!

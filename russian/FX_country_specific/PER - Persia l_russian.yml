@@ -1,0 +1,860 @@
+﻿l_russian:
+  
+ #### Descriptions #### 
+  
+ PER_FUHRERREICH_DESC: "Iran has for many years been under military rule, after the fall of the Qajar dynasty in 1922. The country has modernized in many areas, but it is also a country that is nearly powerless to do anything about the British influencing and nearly controlling the lands of Iran.\n\nBut with new challenges approaching Britain, Iran may be able to rid themselves of British influence and control. Either under continued military rule or another regime." #NT!
+  
+ ### Country Names 
+ PER_vanguardist: "Socialist Republic of Iran" #NT!
+ PER_vanguardist_ADJ: "Iranian" #NT!
+ PER_vanguardist_DEF: "the Socialist Republic of Iran" #NT!
+ PER_collectivist: "Socialist Republic of Iran" #NT!
+ PER_collectivist_ADJ: "Iranian" #NT!
+ PER_collectivist_DEF: "the Socialist Republic of Iran" #NT!
+ PER_libertarian_socialist: "Republic of Iran" #NT!
+ PER_libertarian_socialist_ADJ: "Iranian" #NT!
+ PER_libertarian_socialist_DEF: "the Republic of Iran" #NT!
+ PER_social_democrat: "Republic of Iran" #NT!
+ PER_social_democrat_ADJ: "Iranian" #NT!
+ PER_social_democrat_DEF: "the Republic of Iran" #NT!
+ PER_social_liberal: "Republic of Iran" #NT!
+ PER_social_liberal_ADJ: "Iranian" #NT!
+ PER_social_liberal_DEF: "the Republic of Iran" #NT!
+ PER_market_liberal: "Republic of Iran" #NT!
+ PER_market_liberal_ADJ: "Iranian" #NT!
+ PER_market_liberal_DEF: "the Republic of Iran" #NT!
+ PER_social_conservative: "Republic of Iran" #NT!
+ PER_social_conservative_ADJ: "Iranian" #NT!
+ PER_social_conservative_DEF: "the Republic of Iran" #NT!
+ PER_authoritarian_democrat: "State of Iran" #NT!
+ PER_authoritarian_democrat_ADJ: "Iranian" #NT!
+ PER_authoritarian_democrat_DEF: "the State of Iran" #NT!
+ PER_paternal_autocrat: "State of Iran" #NT!
+ PER_paternal_autocrat_ADJ: "Iranian" #NT!
+ PER_paternal_autocrat_DEF: "the State of Iran" #NT!
+ PER_national_populist: "State of Iran" #NT!
+ PER_national_populist_ADJ: "Iranian" #NT!
+ PER_national_populist_DEF: "the State of Iran" #NT!
+ PER_valkist: "Iranian State" #NT!
+ PER_valkist_ADJ: "Iranian" #NT!
+ PER_valkist_DEF: "the Iranian State" #NT!
+  
+ #### Political Parties #### 
+  
+ PER_vanguardist_party: "Tudeh-ye" #NT!
+ PER_vanguardist_party_long: "Hezb-e Tudeh-ye Iran\n§gThe Party of Iranian Masses§!" #NT!
+ PER_collectivist_party: "Tudeh-ye" #NT!
+ PER_collectivist_party_long: "Hezb-e Tudeh-ye Iran\n§gThe Party of Iranian Masses§!" #NT!
+ PER_libertarian_socialist_party: "Hamrahan" #NT!
+ PER_libertarian_socialist_party_long: "Ḥezb-e Hamrahan\n§gComrades Party§!" #NT!
+ PER_social_democrat_party: "Iran" #NT!
+ PER_social_democrat_party_long: "Ḥezb-e Irān\n§gIran Party§!" #NT!
+ PER_social_liberal_party: "Edalat" #NT!
+ PER_social_liberal_party_long: "Ḥezb-eʿEdālat\n§gJustice Party§!" #NT!
+ PER_market_liberal_party: "Tajadod" #NT!
+ PER_market_liberal_party_long: "Ḥezb-e Taǰaddod\n§gRevival Party§!" #NT!
+ PER_social_conservative_party: "HDI - Conservative" #NT!
+ PER_social_conservative_party_long: "Ḥezb-e Demowkrāt-e Irān\n§gDemocrat Party of Iran§!" #NT!
+ PER_authoritarian_democrat_party: "HDI - Authoritarian" #NT!
+ PER_authoritarian_democrat_party_long: "Ḥezb-e Demowkrāt-e Irān\n§gDemocrat Party of Iran§!" #NT!
+ PER_paternal_autocrat_party: "Ertash Shanshaii" #NT!
+ PER_paternal_autocrat_party_long: "Ertash Shanshaii Iran\n§gImperial Iranian Army§!" #NT!
+ PER_national_populist_party: "Kabud" #NT!
+ PER_national_populist_party_long: "Hezb-e Kabud\n§gAzure Party§!" #NT!
+ PER_shiite_islam_party: "Jomhuri-e Eslami" #NT!
+ PER_shiite_islam_party_long: "Ḥezb-e Jomhūrī-e Eslāmī\n§gIslamic Republican Party§!" #NT!
+ PER_valkist_party: "HPI" #NT!
+ PER_valkist_party_long: "Ḥezb-e Pān-Irāni\n§gPan-Iranist Party§!" #NT!
+  
+ #### IDEAS #### 
+  
+ PER_british_influence_iran_idea: "British Influence over Iran" #NT!
+ PER_british_influence_iran_idea_desc: "The British have, for many years, held a strong influence on the country of Iran. Some might say that Iran has been placed indirectly under the control of the British Empire, and that any move from us to leave that zone would have the British invade Iran again." #NT!
+ PER_underground_revolutionaries_idea: "Underground Revolutionaries" #NT!
+ PER_underground_revolutionaries_idea_desc: "" #NT!
+ PER_primitive_military_idea: "Primitive Military" #NT!
+ PER_primitive_military_idea_desc: "The Military Force of the State of Iran has struggled to modernize in recent years, as well as failing to perform proper training for 20th century warfare. This has put the army of Iran in a generally unfavorable position." #NT!
+  
+ PER_effect_london_crash_idea: "Effects of the London Crash" #NT!
+ PER_effect_london_crash_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ PER_economic_cooperation_idea: "Economic Cooperation" #NT!
+ PER_limit_british_influence_idea: "British Influence over Iran" #NT!
+ PER_civil_war_situation_idea: "State of Civil War" #NT!
+  
+ PER_agreements_with_apoc_idea: "British Influence over Iran" #NT!
+ PER_persia_has_recovered_influence1_idea: "British Influence over Iran" #NT!
+ PER_national_austerity_idea: "National Austerity Plan" #NT!
+ PER_issue_rations_idea: "National Austerity Plan" #NT!
+ PER_begin_farmer_reforms_idea: "National Austerity and Farmer Reform Plan" #NT!
+ PER_warlords_wealth_idea: "Warlords Protesting" #NT!
+ PER_nationalize_oil_industry_idea: "British Influence over Iran" #NT!
+ PER_persia_has_recovered_influence2_idea: "British Influence over Iran" #NT!
+ PER_modernize_farming_idea: "Farm Modernizing" #NT!
+ PER_grow_breadbasket_idea: "Farm Modernizing" #NT!
+ PER_reform_army_idea: "Reforming Military" #NT!
+ PER_british_army_idea: "Reforming Military" #NT!
+ PER_british_army2_idea: "Reforming Military" #NT!
+ PER_british_army3_idea: "Reformed Military" #NT!
+ PER_persian_officer_idea: "Reformed Military" #NT!
+ PER_persian_army_idea: "Reforming Military" #NT!
+ PER_persian_army2_idea: "Reforming Military" #NT!
+ PER_persian_army3_idea: "Reformed Military" #NT!
+ PER_soviet_army_idea: "Reforming Military" #NT!
+ PER_soviet_army2_idea: "Reforming Military" #NT!
+ PER_soviet_army3_idea: "Reformed Military" #NT!
+ PER_soviet_officer_idea: "Reformed Military" #NT!
+ PER_control_persian_gulf_idea: "Control in the Persian Gulf" #NT!
+ PER_german_arms_trade_idea: "German Arms Trade" #NT!
+ PER_caspian_sea_trade_idea: "Caspian Sea Trade" #NT!
+  
+ ## MILITARY IDEAS ## 
+  
+ PER_MIL_purge_socialist_elements_idea: "Underground Revolutionaries" #NT!
+ PER_MIL_women_education_idea: "Education Reforms" #NT!
+ PER_MIL_secular_education_idea: "Education Reforms" #NT!
+ PER_MIL_reorganize_mosque_laws_idea: "Regime Reforms" #NT!
+ PER_MIL_tackle_aristocratic_influences_idea: "Aristocratic Influences Tackled" #NT!
+ PER_MIL_establish_military_draft_idea: "Military Draft" #NT!
+ PER_MIL_prohobition_child_labour_idea: "Effects of Child Labour Prohibition" #NT!
+ PER_MIL_ban_women_rights_movements_idea: "Reactionary Reforms" #NT!
+ PER_MIL_reintroduce_religious_education_idea: "Reactionary Reforms" #NT!
+ PER_MIL_resegregate_society_idea: "Reactionary Reforms" #NT!
+ PER_MIL_invite_religious_advisors_idea: "Religious Advisors Invited" #NT!
+  
+ ## REPUBLIC IDEAS ## 
+  
+ PER_REP_women_social_rights_idea: "Women's Rights" #NT!
+ PER_REP_enforce_equal_pay_idea: "Expanded Women's Rights" #NT!
+ PER_REP_expand_tpmo_idea: "The TPMO" #NT!
+ PER_REP_women_volunteer_corp_idea: "The TPMO" #NT!
+ PER_REP_republics_secret_police_idea: "The TPMO" #NT!
+ PER_REP_down_with_capitalism_idea: "Transformation to a Socialist Economy" #NT!
+ PER_REP_reform_administration_idea: "Administrative Reforms" #NT!
+ PER_REP_build_up_tax_system_idea: "Administrative Reforms" #NT!
+ PER_REP_tribal_deorganization_idea: "Administrative Reforms" #NT!
+ PER_REP_provide_public_education_idea: "Public Education" #NT!
+ PER_REP_proggressive_ideals_idea: "Ideals of Progressivism" #NT!
+ PER_REP_embraced_republicanism_idea: "Embraced Republicanism" #NT!
+  
+ ## NATIONALIST IDEAS ## 
+  
+ PER_NAT_centralized_powers_idea: "Centralized Powers" #NT!
+ PER_NAT_head_of_faith_idea: "Head of the Shia Faith" #NT!
+ PER_NAT_allow_moderate_marjas_idea: "Moderate Influence in the Council" #NT!
+ PER_NAT_islamic_democracy_idea: "Islamic Democracy" #NT!
+ PER_NAT_shia_militarism_idea: "Shia Militarism" #NT!
+ PER_NAT_enforce_islamic_conservatism_idea: "Enforced Islamic Conservatism" #NT!
+ PER_NAT_mobilize_youth_idea: "Mobilized Youth" #NT!
+ PER_NAT_nations_inequality_idea: "National Superiority" #NT!
+ PER_NAT_channel_with_iranians_outside_idea: "Rebellious Iranian Minorities" #NT!
+  
+ ## QAJAR IDEAS ## 
+  
+ PER_anti_monarchist_sentiments_idea1: "Anti-Monarchist Sentiments" #NT!
+  
+ ## GOVERNMENT MINISTERS ## 
+  
+ PER_Ardashes_Ardeshir_Ovanessian_hog_rso: "Ardashes "Ardeshir" Ovanessian" #NT!
+ PER_Haydar_Khan_Amo_oghli_hog_rso: "Haydar Khan Amo-oghli" #NT!
+ PER_Soleyman_Mirza_Eskandari_hog_rso: "Soleyman Mirza Eskandari" #NT!
+  
+ PER_Mohammad_Mosaddegh_hog_sde: "Mohammad Mosaddegh" #NT!
+ PER_Mostowfi_ol_Mamalek_hog_sde: "Mostowfi ol-Mamalek" #NT!
+ PER_Sayyed_Hasan_Taqizadeh_hog_sde: "Sayyed Hasan Taqizadeh" #NT!
+  
+ PER_Hassan_Pirnia_hog_sli: "Hassan Pirnia" #NT!
+  
+ PER_Abdolhossein_Teymurtash_hog_mli: "Abdolhossein Teymurtash" #NT!
+ PER_Ali_Akbar_Davar_hog_mli: "Ali Akbar Davar" #NT!
+  
+ PER_Ahmad_Qavam_hog_sco: "Ahmad Qavam" #NT!
+ PER_Hosein_Ala_hog_sco: "Hosein Ala" #NT!
+  
+ PER_Hassan_Vossug_ed_Dowleh_hog_ade: "Hassan Vossug ed Dowleh" #NT!
+  
+ PER_Haj_Ali_Razmara_hog_pau: "Haj Ali Razmara" #NT!
+ PER_Mohammad_Reza_hog_pau: "Mohammad Reza Khan" #NT!
+ PER_Hasan_Arfa_hog_pau: "Hasan Arfa" #NT!
+  
+ PER_Abol_Ghasem_Kashani_hog_npo: "Abol Ghasem Kashani" #NT!
+  
+ PER_Davud_Monshizadeh_hog_val: "Davud Monshizadeh" #NT!
+  
+ #### EVENTS #### 
+  
+ iran.0.t: "The State of Iran in 1936" #NT!
+ iran.0.d: "For many years, Persia, now referred to as Iran, has been in a decline. While modernization of the country began in the 1800s, British and Russian influence began to grow. At the end of the century, many in Persia believed that their rulers were beholden to foreign interests. At the start of the 20th century, Persia became a constitutional monarchy after the Persian Constitutional Revolution. Elections were introduced in Persia soon after. \n\nDuring the Great War, Persia announced its neutrality in the conflict. However, this did not stop the Ottomans from invading the country. During the invasion, parts of the country were under the influence and control of Russia, and Russian forces were present. In Iranian Azerbaijan, clashes began between Ottoman and Russian forces, the latter of them were aided by Assyrian and Armenian volunteer units. However, with the advent of the Russian Revolution, the Ottomans gained the upper hand in Persia. Under the war, many thousands of the Assyrian and Armenian population in Persia was massacred by Ottoman troops. British forces were also occupying parts of the country during the war. The occupying forces were seen as a major cause for the Great Persian famine of 1917 - 1919 that struck the country. \n\nAfter the war, the British tried to establish a protectorate in Iran, but this operation was unsuccessful. While the war was over, the population of Iran was filled with discontent and hatred towards the ruling government. In 1922, a socialist rebellion rose up capturing Tehran and forcing the Qajar royal family to flee from the country. But before a socialist republic could be established, the majority of the Persian army, under the leadership of Reza Khan, Along British support, crushed the rebellion. While some believed that this would lead to the restoration of the royal family, the military took over under the leadership of Reza Khan. Like that, the age of Persian monarchs was over. \n\nThe new military regime modernized Persia and built railways throughout the country. But while all of this happened, the Persian military was cracking down and silencing socialist elements in Persia. Many conservative voices were not happy either when the regime worked to separate religion and state, even adopting Western clothes. In 1933, the country changed its official name to Iran. \n\nThe last 20 years have also seen the regime balancing between favoring both the British Empire and Iranian nationalists. With rebellions rising up in India, it remains to be seen if it is time for Iran to continue under the military regime, adopt a more democratic system, or be consumed by socialist or nationalist revolutions." #NT!
+ iran.0.a: "Long Live Iran!" #NT!
+ iran.1.t: "The Situation in India" #NT!
+ iran.1.d: "Our Indian neighbors have been revolting against their British overlords, giving us an opportunity to change our policies with the British. Many Iranians believe that this could be the perfect time to distance our country away from British influence." #NT!
+ iran.1.a: "This is the beginning of the End for the British Empire." #NT!
+  
+ iran.2.t: "The Day of the New Iran!" #NT!
+ iran.2.d: "Today, the 18th of March, marks the Day of the New Iran. This was the day when the Iranian Armed Forces declared the socialist rebellion was crushed that ended the Qajar dynasty and started the Military Regime. It is now 13 years since that day, and the regime's leader, Reza Khan, held a speech in Tehran. He has currently planned out to speech in many other cities in the weeks that follow, including Tabriz. But this decision could be dangerous as the northern territories is known as a socialist breeding ground." #NT!
+ iran.2.a: "Be Careful, Commander Reza Khan!" #NT!
+ iran.3.t: "The Assassination of Reza Khan!" #NT!
+ iran.3.d: "While giving a speech at the end of Reza Khan's visit to Tabriz, a bomb blew up underneath the platform. Khan was rushed to a local hospital in Tabriz. However, the doctors were unable to save his life. While the country mourns, investigations are already underway to track down and eliminate the terrorist who preformed this horrible act. The whole city of Tabriz has been cut off. Haj Ali Razmara has been selected to serve as temporary commander while the military figures out who will succueed Reza Khan." #NT!
+ iran.3.a: "A Great Man has Passed!" #NT!
+  
+ iran.4.t: "Socialists Begin to Riot" #NT!
+ iran.4.d: "Iranian socialists has begun to riot. With the assassination of Reza Khan, Socialists are taking this as a opportunity take the streats, rioting and protesting. However, this could also be the fault of the Soviets." #NT!
+ iran.4.a: "Order the military to intervene and put down the riots." #NT!
+ iran.4.b: "Wait for the riots to die down, arrest the leaders after this is done." #NT!
+ iran.5.t: "The Massacre of Isfahan" #NT!
+ iran.5.d: "After soldiers were ordered to put down the riots, it was mostly effective. But in Isfahan, violence erupted. Under what became a stressful situation, the military open fired on the crowd of protesters. It quickly turned out that 119 civilians and 4 soldiers were killed that day." #NT!
+ iran.5.a: "This is Not Good!" #NT!
+ iran.6.t: "Socialist Revolutionaries Rise Up!" #NT!
+ iran.6.d: "Socialist Revolutionaries in the northern parts of Iran have risen up against our government. As our control over the country seems to wither away, we must act quick to crack down on these revolutionaries." #NT!
+ iran.6.a: "We Need No Help" #NT!
+ iran.6.b: "Enlist Conservatives and Nationalists to Help Us." #NT!
+ iran.7.t: "Tehran has Been Captured!" #NT!
+ iran.7.d: "The Revolutionaries have managed to capture Tehran after harsh fighting. WIth reinforcements coming in late, it was difficult to hold on to the city. We have two options; we shall try to negotiate, or fight on from the south." #NT!
+ iran.7.a: "We Go South!" #NT!
+ iran.7.b: "Open Negotiations!" #NT!
+ iran.8.t: "Operation Khosrau" #NT!
+ iran.8.d: "An operation to capture Tehran is in the making, but there are disagreements on how it should be executed. Some generals want a fast move to retake Tehran, while others want a more gradual and steady push. The first plan will get us to Tehran faster, and a good opportunity to strike deep into the rebel's lines. But this plan might also be a risky move. The second plan is less risky, but it takes longer time and, perhaps, more lives." #NT!
+ iran.8.a: "Move Fast for Tehran!" #NT!
+ iran.8.b: "Make A Steady Push on All Sides!" #NT!
+ iran.9.t: "Tehran Liberated!" #NT!
+ iran.9.d: "Tehran have been liberated. Our fast push into Tehran have proven to pay off. While this might be a great victory for our troops, we could see our forces fail to defend our new front lines." #NT!
+ iran.9.a: "This is Good, Right?!" #NT!
+ iran.10.t: "Socialists retake Tehran!" #NT!
+ iran.10.d: "Terrible news has been received. Tehran have been reoccupied by the rebel forces. The enemy managed to surround the city, and after tough combat, we were forced to surrender the city. With low morale and not enough manpower, there is only one option left for us." #NT!
+ iran.10.a: "We have no other choice but to negotiate" #NT!
+ iran.11.t: "Negotiations Starts!" #NT!
+ iran.11.d: "Negotiations between the government and the rebels have begun. The rebels have many demands. They wish to achieve modernization and are demanding a full democracy within Iran." #NT!
+ iran.11.a: "We shall see where this takes us." #NT!
+ iran.12.t: "The Negotiations Are Over!" #NT!
+ iran.12.d: "The negotiations are finally over. After days of debate, there is finally agreement in the room of negotiation. General Haj Ali Razmara is will present what was agreed upon." #NT!
+ iran.12.a: "Long Live the Republic!" #NT!
+ iran.12.b: "Together for Progress!" #NT!
+ #iran.13.t: "The Progressive Regime!" #NT!
+ #iran.13.d: "WIP" #NT!
+ #iran.13.a: "Together for Progress!" #NT!
+  
+ iran.14.t: "Tehran Liberated!" #NT!
+ iran.14.d: "Tehran have been liberated. Our steady push into the city of Tehran have given us results. While it took a little more time and men than what our generals would want, Tehran is now firmly in our control." #NT!
+ iran.14.a: "That's Good!" #NT!
+ iran.15.t: "Socialist Revolutionaries Surrender!" #NT!
+ iran.15.d: "With Tehran and much of the surrounding land now under our control, the fighting power of the socialist revolutionaries has been limited. Their contact with their allies has been limited or cut off, while or forces have regained morale. They have surrendered." #NT!
+ iran.15.a: "Finally!" #NT!
+ iran.16.t: "A New Commander of Iran" #NT!
+ iran.16.d: "With the revolt defeated, we can finally choose a successor to our late leader, Reza Khan. Our generals and officials are divided in supporting two candidates. The first the son of Reza Khan, Mohammad Khan, as been presented as a young alternative to his father. Mohammad Khan wants to modernize Iran and make the country into a modern power. The other option is Hasan Arfa. Arfa is more conservative, while holding on to some of the reformist thoughts that Mohammad Khan does." #NT!
+ iran.16.a: "The Young Progressive Mohammad Reza" #NT!
+ iran.16.b: "The Conservative Hasan Arfa" #NT!
+  
+ iran.17.t: "The Battle of Tehran" #NT!
+ iran.17.d: "The battle for control over Tehran has started. With the support of conservatives and nationalists, we can hope for a chance to win over the revolutionaries." #NT!
+ iran.17.a: "The City Can Not Fall!" #NT!
+ iran.17.b: "We Must to Spare Our Men!" #NT!
+ iran.18.t: "The Victory of Tehran" #NT!
+ iran.18.d: "The battle for control over Tehran was victorious. With the help of our conservative and nationalist allies, we have managed to win. Of course, they will have some demands to us, but this is a small price to pay." #NT!
+ iran.18.a: "They are on the Run Now!" #NT!
+ iran.19.t: "A New Regime!" #NT!
+ iran.19.d: "With the socialist revolutionaries on the run, we can finally choose a successor to Reza Khan. With the conservatives and right-wing nationalist elements in Iran supporting us in defeating the revolutionaries, the progressives have found no support among our generals. At the same time, we have to choose between two alternatives; the conservative Hasan Arfa, or the nationalist Fazlollah Zahedi." #NT!
+ iran.19.a: "The Conservative Hasan Arfa Takes Command" #NT!
+ iran.19.b: "Fazlollah Zahedi Takes Command" #NT!
+ iran.20.t: "Violent Protests Over The New Regime!" #NT!
+ iran.20.d: "With the change of the regime, violent protest have taken place. We have sent in an order to put down these riots." #NT!
+ iran.20.a: "We Will Destroy Them!" #NT!
+  
+ iran.21.t: "Socialist Leaders Flees to the Soviet Union" #NT!
+ iran.21.d: "With the arrests of many socialists, many socialist leaders have now fled to Russia via the Caspian Sea. The military and the police has tried to take them before leaving, but they have been mostly unsuccessful." #NT!
+ iran.21.a: "Damn, we lost them!" #NT!
+ iran.22.t: "New Protests Rises Up!" #NT!
+ iran.22.d: "New protests have risen up in Iran. With many people in the streets, the police are asking what they can do against the rioters." #NT!
+ iran.22.a: "Arrest those Breaking the Law only" #NT!
+ iran.23.t: "Protesters Occupy Tehran" #NT!
+ iran.23.d: "The protests have grown, and now, the city of Tehran is under the control of these protesters. The government have, in return, fleed to the south of Iran. Now, the military is asking for permission to engage these protesters and restore order in Iran." #NT!
+ iran.23.a: "Times to Take off the Gloves!" #NT!
+ iran.23.b: "Let us hear what they want" #NT!
+ iran.24.t: "The Liberation of Tehran" #NT!
+ iran.24.d: "With the military now fully engaged with the protesters, we have been able to take back Tehran. With this victory, we have shown that we will not let ourselves be defeated." #NT!
+ iran.24.a: "This Will Finally Mark Their End!" #NT!
+ iran.25.t: "Negotiations with Protesters" #NT!
+ iran.25.d: "The negotiations with the protesters have started. While many in the military have been a little negative to our policy, the people seem happy that a deal is in the making. We can only hope for a better future." #NT!
+ iran.25.a: "Let's See Where We land!" #NT!
+  
+ iran.26.t: "The London Crash Hits Iran!" #NT!
+ iran.26.d: "Some days ago, the London Stock Market Crash occurred in the United Kingdom. With our connections to the British Empire, it is not surprising that the effects of this crash have traveled over to Iran. We are in a bad situation, but we hope that there can be a recovery." #NT!
+ iran.26.a: "The Persian Lion is Shoot!" #NT!
+ iran.27.t: "Shall we Work with the British Empire?" #NT!
+ iran.27.d: "With the London Stock Market Crash now arrived and settled in Iran, there are disputes on how to deal with it. Some people in our government have argued for working with the British Empire. They believe this is an option that will make the recovery faster. But there are also many that want to use this situation to limit British influence in Iran. They sees this crisis as an opportunity to do so, even if that should be dangerous." #NT!
+ iran.27.a: "Yeah. We should stand Together" #NT!
+ iran.27.b: "Hell no! Iran Will Finally be Free!" #NT!
+  
+ iran.28.t: "The Opening of a New Foreign Office" #NT!
+ iran.28.d: "A new foreign office has been opened. This office will be in service in order to better make deals and wage wars." #NT!
+ iran.28.a: "Diplomacy and War is Important!" #NT!
+  
+ iran.100.t: "The Iranians Pursue Economic Cooperation" #NT!
+ iran.100.d: "Iran is interested in economic cooperation with us. They want cooperation that will benefit both of our countries equally." #NT!
+ iran.100.a: "Yeah Seems Fine!" #NT!
+ iran.100.b: "We do Not Need This!" #NT!
+  
+ iran.101.t: "The British Empire Agreed" #NT!
+ iran.101.d: "The British Empire has agreed to economic cooperation between them and us." #NT!
+ iran.101.a: "Economic Cooperation is the Way to go!" #NT!
+  
+ iran.102.t: "The British Empire Rejects" #NT!
+ iran.102.d: "The British Empire has rejected economic cooperation between them and us." #NT!
+ iran.102.a: "That's Bad.." #NT!
+  
+ iran.103.t: "British Economic advisers Provide Advice" #NT!
+ iran.103.d: "British advisers have arrived in Tehran. They are here to teach us about economic theories and what we should practice to improve our economy." #NT!
+ iran.103.a: "That's a Good Deal!" #NT!
+  
+ iran.104.t: "Iran Tries to Limit our Influence!" #NT!
+ iran.104.d: "Iran has begun to try to limit the influence we have over them. It is sad to hear that they try to do this, when we have done so much for them." #NT!
+ iran.104.a: "They are but a cub trying to wrestle with a lion." #NT!
+  
+ iran.105.t: "Warlords Protest Wealth Seizing!" #NT!
+ iran.105.d: "Warlords have begun to protest our newest policy of seizing some of their wealth. They say that it is their wealth and that we should tax them instead." #NT!
+ iran.105.a: "Everybody Must Give!" #NT!
+  
+ iran.106.t: "Iran Begins to Nationalize AIOC" #NT!
+ iran.106.d: "Iran has not stopped their aggressive ways. Right now, they have begun to nationalize the Anglo-Iranian Oil Company. We see this as an attack on the sovereignty of British companies oversea, and of the empire. Some in our government have demanded war, but there are those that says we should wait until after the effects of the London Crash is over." #NT!
+ iran.106.a: "This Means War!" #NT!
+ iran.106.b: "We Have Other Problems Right Now." #NT!
+  
+ iran.107.t: "Local Economic experts Provide Advice" #NT!
+ iran.107.d: "Local experts have stepped forward in order of giving advice on how the Iranian economy can develop. While some argue that our methods are not as good as the British ones, it is ours and not theirs we follow." #NT!
+ iran.107.a: "We Don't Need Foreign Advice!" #NT!
+  
+ iran.108.t: "Iran Wants to Become Our Ally" #NT!
+ iran.108.d: "Iran has sent a telegram with the request to become an official ally to our nation." #NT!
+ iran.108.a: "Yeah, Why Not" #NT!
+ iran.108.b: "No Thanks" #NT!
+  
+ iran.109.t: "Germany Accepts" #NT!
+ iran.109.d: "Germany has accepted our request that they and us shall become allies." #NT!
+ iran.109.a: "The Start of a Good Friendship!" #NT!
+  
+ iran.110.t: "Germany Rejects" #NT!
+ iran.110.d: "Germany has rejected our request that they and us shall become allies." #NT!
+ iran.110.a: "We Don't Need Them!" #NT!
+  
+ iran.111.t: "Iran Wants to Become Our Ally" #NT!
+ iran.111.d: "Iran has sent a telegram with the request to become an official ally to our nation." #NT!
+ iran.111.a: "Yeah, Why Not" #NT!
+ iran.111.b: "No Thanks" #NT!
+  
+ iran.112.t: "Britain Accepts" #NT!
+ iran.112.d: "Britain has accepted our request that they and us shall become allies." #NT!
+ iran.112.a: "The Start of a Good Friendship!" #NT!
+  
+ iran.113.t: "Britain Rejects" #NT!
+ iran.113.d: "Britain has rejected our request that they and us shall become allies." #NT!
+ iran.113.a: "We Don't Need Them!" #NT!
+  
+ iran.114.t: "Iran Wants to Become Our Ally" #NT!
+ iran.114.d: "Iran has sent a telegram with the request to become an official ally to our nation." #NT!
+ iran.114.a: "Yeah, Why Not" #NT!
+ iran.114.b: "No Thanks" #NT!
+ iran.115.t: "Soviet Union Accepts" #NT!
+ iran.115.d: "The Soviets has accepted our request that they and us shall become allies." #NT!
+ iran.115.a: "The Start of a Good Friendship!" #NT!
+ iran.116.t: "Soviet Union Rejects" #NT!
+ iran.116.d: "The Soviets have rejected our request that they and us shall become allies." #NT!
+ iran.116.a: "We Don't Need Them!" #NT!
+  
+ iran.117.t: "The Women Liberation Act of [GetYear]" #NT!
+ iran.117.d: "In a new and modern Iran, women must not be objects, owned by their male relatives. They are their own persons. Therefore, we must crack down on religious clothing that tries to dehumanize women." #NT!
+ iran.117.a: "For a New and Modern Iran!" #NT!
+  
+ iran.118.t: "Shia Zealots Voice Opposition" #NT!
+ iran.118.d: "With our move to limit the influences of the Shiite, there have been many Shia Zealots that have voiced in opposition to our government. They are old school and are resisting the progress of iran." #NT!
+ iran.118.a: "This is Not Iran of the Old!" #NT!
+  
+ iran.119.t: "The Question About Western Laws" #NT!
+ iran.119.d: "There has been discussion on if we should adopt a more western law or not. Those voicing for such change claim that our laws are old and unmodern, an artifact from the age of the Qajar dynasty. But there are also those that say that adopting western laws gives a signal of defeat to European colonialists." #NT!
+ iran.119.a: "We Should Adopt Western Laws" #NT!
+ iran.119.b: "No. We Should hold on to our own Laws" #NT!
+  
+ iran.120.t: "Conservatives Flock to Us" #NT!
+ iran.120.d: "With the limitation of progressive ideals, conservatives have been more eagerly to support us. We welcome them, of course, and hope that they will help us in turning Iran in the right direction." #NT!
+ iran.120.a: "That's Nice" #NT!
+  
+ iran.121.t: "Moderates Rally Towards the Left" #NT!
+ iran.121.d: "Some moderates were against religious clothing. Now when the regime, with the support of many conservatives, have allowed it, there are many moderates that have moved to the political left in protest." #NT!
+ iran.121.a: "Let Them Do Their Things" #NT!
+  
+ iran.122.t: "The Question About Shia Law Code" #NT!
+ iran.122.d: "There have been talks about adopting a Shia law code. Those who support it say there are many things in Shiite Islam that could be good for laws. There are also those that see this move as a way to bring religion into governing, and are therefore a little skeptical." #NT!
+ iran.122.a: "We Should Hold on to our Shia Laws" #NT!
+ iran.122.b: "No Religion in our Law Code" #NT!
+  
+ iran.123.t: "Election for a Civilian Government" #NT!
+ iran.123.d: "Mohammad Reza Khan has finally chosen to hold democratic elections. So long as he will stay as head of state, he has allowed democratic parties to stand in an election. This will mark the end of military rule in Iran." #NT!
+ iran.123.a: "The Iran Party Wins!" #NT!
+ iran.123.b: "The Edalat Party Wins!" #NT!
+  
+ iran.124.t: "Election for a Civilian Government" #NT!
+ iran.124.d: "Hasan Arfa has finally chosen to hold democratic elections. So long he will stay as head of state, he has allowed democratic parties to stand in an election. This will mark the end of military rule in Iran." #NT!
+ iran.124.a: "The Revival Party Wins!" #NT!
+ iran.124.b: "The Democrat Party Wins!" #NT!
+  
+ iran.125.t: "The General Election of [GetYear]" #NT!
+ iran.125.d: "With the Republic in place, we are ready to hold elections. This first election after the establishment of the republic has seen two possible winners. At the one hand, the Tudeh party can win, forming a coalition with other socialist and far-left forces. And on the other hand we can see Mohammad Mosaddegh and the Iran party manage to form a center to left coalition. Who has won this election?!" #NT!
+ iran.125.a: "The Tudeh Party Wins!" #NT!
+ iran.125.b: "Mossadegh's Coalition Wins!" #NT!
+  
+ iran.126.t: "What Doctrine of Rule to Follow?" #NT!
+ iran.126.d: "With the old military regime finally gone, we need to figure out what doctrine of rule we should follow. Some have requested a ultra-conservative Islamic state, while others find inspiration in Germany and argue for a valkist regime instead." #NT!
+ iran.126.a: "A Conservative Shia State is Best" #NT!
+ iran.126.b: "A New Iran Will Rise!" #NT!
+  
+ iran.127.t: "Iran Supports Iranian Rebels" #NT!
+ iran.127.d: "The government of Iran have begun to support Iranian rebels. While they do not say this, we can see where the support comes from." #NT!
+ iran.127.a: "Damn you, Iran!" #NT!
+  
+ iran.128.t: "Building Our Identity!" #NT!
+ iran.128.d: "Iran needs an identity. One that is different from the Arabs or Turks. But with almost the same religion between us, who could manage to see Iranian as a identity of its own. But when we go back, before Islam was forced upon us, we find Zoroastrianism. This could be what can define our new identity." #NT!
+ iran.128.a: "The Zoroastrian Empire of Persia is a Good Place to Look Back on" #NT!
+  
+ #### FOCUS TREE #### 
+  
+ PER_react_economic_crisis: "React to the Economic Crisis" #NT!
+ PER_react_economic_crisis_desc: "" #NT!
+ PER_work_with_british: "Work With the British" #NT!
+ PER_work_with_british_desc: "" #NT!
+ PER_agreements_with_apoc: "Agreements with AIOC" #NT!
+ PER_agreements_with_apoc_desc: "" #NT!
+ PER_invite_british_economics: "Invite British Economics" #NT!
+ PER_invite_british_economics_desc: "" #NT!
+ PER_iranians_working_for_apoc: "Iranians Working for AIOC" #NT!
+ PER_iranians_working_for_apoc_desc: "" #NT!
+ PER_anglo_iranian_trade: "Anglo-Iranian Trade" #NT!
+ PER_anglo_iranian_trade_desc: "" #NT!
+ PER_national_austerity: "National Austerity" #NT!
+ PER_national_austerity_desc: "" #NT!
+ PER_warlords_wealth: "Warlord's Wealth" #NT!
+ PER_warlords_wealth_desc: "" #NT!
+ PER_issue_rations: "Issue Rations" #NT!
+ PER_issue_rations_desc: "" #NT!
+ PER_begin_farmer_reforms: "Begin Farmer Reforms" #NT!
+ PER_begin_farmer_reforms_desc: "" #NT!
+ PER_begin_industrializing: "Begin Industrializing" #NT!
+ PER_begin_industrializing_desc: "" #NT!
+ PER_limit_british_influence: "Limit British Influence" #NT!
+ PER_limit_british_influence_desc: "" #NT!
+ PER_nationalize_oil_industry: "Nationalize the Oil Industry" #NT!
+ PER_nationalize_oil_industry_desc: "" #NT!
+ PER_persian_economic_theories: "Persian Economic Theories" #NT!
+ PER_persian_economic_theories_desc: "" #NT!
+ PER_provide_work_oil_industry: "Provide Work in the Oil Industry" #NT!
+ PER_provide_work_oil_industry_desc: "" #NT!
+ PER_fortify_gulf: "Fortify the Gulf" #NT!
+ PER_fortify_gulf_desc: "" #NT!
+  
+ PER_persia_has_recovered: "Iran Has Recovered!" #NT!
+ PER_persia_has_recovered_desc: "" #NT!
+ PER_modernize_farming: "Modernize Farming" #NT!
+ PER_modernize_farming_desc: "" #NT!
+ PER_grow_breadbasket: "Grow the Breadbasket" #NT!
+ PER_grow_breadbasket_desc: "" #NT!
+ PER_search_for_minerals: "Search for Minerals" #NT!
+ PER_search_for_minerals_desc: "" #NT!
+ PER_expand_oil_exploitation: "Expand Oil Exploitation" #NT!
+ PER_expand_oil_exploitation_desc: "" #NT!
+ PER_strenghten_civilian_industry: "Strengthen the Civilian Industry" #NT!
+ PER_strenghten_civilian_industry_desc: "" #NT!
+ PER_industrialize_south: "Industrialize the South" #NT!
+ PER_industrialize_south_desc: "" #NT!
+ PER_small_arms_factories: "Small Arms Factories" #NT!
+ PER_small_arms_factories_desc: "" #NT!
+ PER_strenghten_border_guards: "Strengthen the Border Guards" #NT!
+ PER_strenghten_border_guards_desc: "" #NT!
+  
+ PER_reform_army: "Reform the Army" #NT!
+ PER_reform_army_desc: "" #NT!
+ PER_british_army_assistance: "British Army Assistance" #NT!
+ PER_british_army_assistance_desc: "" #NT!
+ PER_mimic_british_officer_training: "Mimic British Officer Training" #NT!
+ PER_mimic_british_officer_training_desc: "" #NT!
+ PER_persian_tactics: "Iranian Tactics" #NT!
+ PER_persian_tactics_desc: "" #NT!
+ PER_iranian_spirit: "Iranian Spirits" #NT!
+ PER_iranian_spirit_desc: "" #NT!
+ PER_soviet_army_assistance: "Soviet Army Assistance" #NT!
+ PER_soviet_army_assistance_desc: "" #NT!
+ PER_mimic_soviet_army_training: "Mimic Soviet Army Training" #NT!
+ PER_mimic_soviet_army_training_desc: "" #NT!
+ PER_modernize_equipments: "Modernize Equipments" #NT!
+ PER_modernize_equipments_desc: "" #NT!
+ PER_learn_from_great_war: "Learn from the Great War" #NT!
+ PER_learn_from_great_war_desc: "" #NT!
+ PER_officer_training: "Officer Training" #NT!
+ PER_officer_training_desc: "" #NT!
+ PER_artillary_powers: "Artillery Powers" #NT!
+ PER_artillary_powers_desc: "" #NT!
+ PER_motorization_efforts: "Motorization Efforts" #NT!
+ PER_motorization_efforts_desc: "" #NT!
+ PER_specialized_units: "Specialized Units" #NT!
+ PER_specialized_units_desc: "" #NT!
+ PER_modern_warfare: "Modern Warfare" #NT!
+ PER_modern_warfare_desc: "" #NT!
+  
+ PER_update_navy: "Update the Navy" #NT!
+ PER_update_navy_desc: "" #NT!
+ PER_british_naval_assistance: "British Naval Assistance" #NT!
+ PER_british_naval_assistance_desc: "" #NT!
+ PER_buy_british_ships: "Buy British Ships" #NT!
+ PER_buy_british_ships_desc: "" #NT!
+ PER_approach_other_naval_powers: "Approach Other Naval Powers" #NT!
+ PER_approach_other_naval_powers_desc: "" #NT!
+ PER_mimic_foreign_designs: "Mimic Foreign Designs" #NT!
+ PER_mimic_foreign_designs_desc: "" #NT!
+ PER_modernize_old_ships: "Modernize Old Ships" #NT!
+ PER_modernize_old_ships_desc: "" #NT!
+ PER_under_sea_focus: "Control Under the Sea" #NT!
+ PER_under_sea_focus_desc: "" #NT!
+ PER_coastal_destroyers: "Coastal Destroyers" #NT!
+ PER_coastal_destroyers_desc: "" #NT!
+ PER_over_sea_focus: "Control Over the Sea" #NT!
+ PER_over_sea_focus_desc: "" #NT!
+ PER_more_flagships: "More Flagships" #NT!
+ PER_more_flagships_desc: "" #NT!
+ PER_control_persian_gulf: "Control the Persian Gulf" #NT!
+ PER_control_persian_gulf_desc: "" #NT!
+ PER_upgrade_naval_ports: "Upgrade Naval Ports" #NT!
+ PER_upgrade_naval_ports_desc: "" #NT!
+ PER_open_new_dockyards: "Open New Dockyards" #NT!
+ PER_open_new_dockyards_desc: "" #NT!
+  
+ PER_a_persian_airforce: "An Iranian Air Force" #NT!
+ PER_a_persian_airforce_desc: "" #NT!
+ PER_buy_foreign_models: "Buy Foreign Models" #NT!
+ PER_buy_foreign_models_desc: "" #NT!
+ PER_our_own_air_industry: "Our Own Air Industry" #NT!
+ PER_our_own_air_industry_desc: "" #NT!
+ PER_iranian_fighters: "Iranian Fighters" #NT!
+ PER_iranian_fighters_desc: "" #NT!
+ PER_iranian_bombers: "Iranian Bombers" #NT!
+ PER_iranian_bombers_desc: "" #NT!
+ PER_lions_can_fly: "Lions Can Fly" #NT!
+ PER_lions_can_fly_desc: "" #NT!
+  
+ PER_open_foreign_office: "Open the Foreign Office" #NT!
+ PER_open_foreign_office_desc: "" #NT!
+ PER_persian_diplomacy: "Iranian Diplomacy" #NT!
+ PER_persian_diplomacy_desc: "" #NT!
+ PER_german_allies: "German Allies" #NT!
+ PER_german_allies_desc: "" #NT!
+ PER_german_arms_trade: "German Arms Trade" #NT!
+ PER_german_arms_trade_desc: "" #NT!
+ PER_british_allies: "British Allies" #NT!
+ PER_british_allies_desc: "" #NT!
+ PER_teheran_delhi_railway: "Tehran to Delhi Railway" #NT!
+ PER_teheran_delhi_railway_desc: "" #NT!
+ PER_soviet_allies: "Soviet Allies" #NT!
+ PER_soviet_allies_desc: "" #NT!
+ PER_caspian_sea_trade: "Caspian Sea Trade" #NT!
+ PER_caspian_sea_trade_desc: "" #NT!
+ PER_persian_irridentism: "Iranian Irredentism" #NT!
+ PER_persian_irridentism_desc: "" #NT!
+ PER_claim_mesopotamia: "Claim Mesopotamia" #NT!
+ PER_claim_mesopotamia_desc: "" #NT!
+ PER_contest_arabian_influence: "Contest Arabian Influence" #NT!
+ PER_contest_arabian_influence_desc: "" #NT!
+ PER_claim_turkmenistan: "Claim Turkmenistan" #NT!
+ PER_claim_turkmenistan_desc: "" #NT!
+ PER_contest_british_influence: "Contest British Influence" #NT!
+ PER_contest_british_influence_desc: "" #NT!
+ PER_claim_baluchistan: "Claim Baluchistan" #NT!
+ PER_claim_baluchistan_desc: "" #NT!
+ PER_reclaim_herat: "Reclaim Herat" #NT!
+ PER_reclaim_herat_desc: "" #NT!
+ PER_reclaim_northern_azerbaijan: "Reclaim Azerbaijan" #NT!
+ PER_reclaim_northern_azerbaijan_desc: "" #NT!
+ PER_war_with_armenia: "War with Armenia" #NT!
+ PER_war_with_armenia_desc: "" #NT!
+  
+ ## Military Regime Tree ## 
+  
+ PER_MIL_consilidate_regime: "Consolidate the Regime" #NT!
+ PER_MIL_consilidate_regime_desc: "" #NT!
+ PER_MIL_purge_socialist_elements: "Purge Socialist Elements" #NT!
+ PER_MIL_purge_socialist_elements_desc: "" #NT!
+ PER_MIL_deal_with_nationalists: "Deal With the Nationalists" #NT!
+ PER_MIL_deal_with_nationalists_desc: "" #NT!
+  
+ PER_MIL_progressive_regime: "Progressive Regime" #NT!
+ PER_MIL_progressive_regime_desc: "" #NT!
+ PER_MIL_ban_religious_clothing: "Ban Religious Clothing" #NT!
+ PER_MIL_ban_religious_clothing_desc: "" #NT!
+ PER_MIL_limit_shia_influences: "Limit Shia Influences" #NT!
+ PER_MIL_limit_shia_influences_desc: "" #NT!
+ PER_MIL_women_education: "Enforce Women Education" #NT!
+ PER_MIL_women_education_desc: "" #NT!
+ PER_MIL_secular_education: "Secular Education" #NT!
+ PER_MIL_secular_education_desc: "" #NT!
+ PER_MIL_western_laws: "Establish Western Laws" #NT!
+ PER_MIL_western_laws_desc: "" #NT!
+ PER_MIL_modernize_persian_language: "Modernize the Persian Language" #NT!
+ PER_MIL_modernize_persian_language_desc: "" #NT!
+ PER_MIL_tackle_aristocratic_influences: "Tackle Aristocratic Influences" #NT!
+ PER_MIL_tackle_aristocratic_influences_desc: "" #NT!
+ PER_MIL_reorganize_mosque_laws: "Reorganize Mosque Laws" #NT!
+ PER_MIL_reorganize_mosque_laws_desc: "" #NT!
+  
+ PER_MIL_complete_trans_iranian_railway: "Complete the Trans-Iranian Railway" #NT!
+ PER_MIL_complete_trans_iranian_railway_desc: "" #NT!
+ PER_MIL_strenghten_irano_french_relations: "Strengthen Irano-French Relations" #NT!
+ PER_MIL_strenghten_irano_french_relations_desc: "" #NT!
+ PER_MIL_strengthen_irano_soviet_relations: "Strengthen Irano-Soviet Relations" #NT!
+ PER_MIL_strengthen_irano_soviet_relations_desc: "" #NT!
+ PER_MIL_establish_military_draft: "Establish a Military Draft" #NT!
+ PER_MIL_establish_military_draft_desc: "" #NT!
+ PER_MIL_limit_tribal_influence: "Limit Tribal Influence" #NT!
+ PER_MIL_limit_tribal_influence_desc: "" #NT!
+ PER_MIL_prohobition_child_labour: "Prohibition on Child Labour" #NT!
+ PER_MIL_prohobition_child_labour_desc: "" #NT!
+ PER_MIL_new_land_reform: "New Land Reform" #NT!
+ PER_MIL_new_land_reform_desc: "" #NT!
+  
+ PER_MIL_conservative_regime: "Conservative Regime" #NT!
+ PER_MIL_conservative_regime_desc: "" #NT!
+ PER_MIL_limit_progressive_ideals: "Limit Progressive Ideals" #NT!
+ PER_MIL_limit_progressive_ideals_desc: "" #NT!
+ PER_MIL_allow_religous_clothing: "Allow Religious Clothing" #NT!
+ PER_MIL_allow_religous_clothing_desc: "" #NT!
+ PER_MIL_ban_women_rights_movements: "Ban Women Rights Movements" #NT!
+ PER_MIL_ban_women_rights_movements_desc: "" #NT!
+ PER_MIL_reintroduce_religious_education: "Reintroduce Religious Education" #NT!
+ PER_MIL_reintroduce_religious_education_desc: "" #NT!
+ PER_MIL_shia_influenced_law_code: "Shia Influenced Law Code" #NT!
+ PER_MIL_shia_influenced_law_code_desc: "" #NT!
+ PER_MIL_resegregate_society: "Resegregate Society" #NT!
+ PER_MIL_resegregate_society_desc: "" #NT!
+ PER_MIL_invite_religious_advisors: "Invite Religious Advisors" #NT!
+ PER_MIL_invite_religious_advisors_desc: "" #NT!
+ PER_MIL_aristocratic_bonds: "Aristocratic Bonds" #NT!
+ PER_MIL_aristocratic_bonds_desc: "" #NT!
+  
+ PER_MIL_organize_democracy: "Organize a Democracy" #NT!
+ PER_MIL_organize_democracy_desc: "" #NT!
+ PER_MIL_continued_military_control: "Continued Military Control" #NT!
+ PER_MIL_continued_military_control_desc: "" #NT!
+  
+ ## Republic Tree ## 
+  
+ PER_REP_fall_of_lion: "Fall of the Regime" #NT!
+ PER_REP_fall_of_lion_desc: "" #NT!
+ PER_REP_dissamble_regime: "Disassemble the Regime" #NT!
+ PER_REP_dissamble_regime_desc: "" #NT!
+ PER_REP_purge_reza_khan_supporters: "Purge Reza Khan Supporters" #NT!
+ PER_REP_purge_reza_khan_supporters_desc: "" #NT!
+ PER_REP_kick_out_mohammad_reza: "Kick Out Mohammad Reza" #NT!
+ PER_REP_kick_out_mohammad_reza_desc: "" #NT!
+ PER_REP_republican_election: "Republican Election" #NT!
+ PER_REP_republican_election_desc: "" #NT!
+  
+ PER_REP_tudeh_victory: "Tudeh Victory" #NT!
+ PER_REP_tudeh_victory_desc: "" #NT!
+ PER_REP_socialism_and_nationalism: "Socialism and Nationalism" #NT!
+ PER_REP_socialism_and_nationalism_desc: "" #NT!
+ PER_REP_nationalize_oil_industry: "Nationalize the Oil Industry" #NT!
+ PER_REP_nationalize_oil_industry_desc: "" #NT!
+ PER_REP_sieze_aristocratic_wealth: "Seize Aristocratic Wealth" #NT!
+ PER_REP_sieze_aristocratic_wealth_desc: "" #NT!
+ PER_REP_collective_industries: "Collective Industries" #NT!
+ PER_REP_collective_industries_desc: "" #NT!
+ PER_REP_women_social_rights: "Women Social Rights" #NT!
+ PER_REP_women_social_rights_desc: "" #NT!
+ PER_REP_enforce_equal_pay: "Enforce Equal Pay" #NT!
+ PER_REP_enforce_equal_pay_desc: "" #NT!
+ PER_REP_expand_tpmo: "Expand TPMO" #NT!
+ PER_REP_expand_tpmo_desc: "" #NT!
+ PER_REP_women_volunteer_corp: "Women Volunteer Corp" #NT!
+ PER_REP_women_volunteer_corp_desc: "" #NT!
+ PER_REP_republics_secret_police: "The Republic's Secret Police" #NT!
+ PER_REP_republics_secret_police_desc: "" #NT!
+ PER_REP_down_with_capitalism: "Down With Capitalism" #NT!
+ PER_REP_down_with_capitalism_desc: "" #NT!
+  
+ PER_REP_modernization_act: "The Modernization Act" #NT!
+ PER_REP_modernization_act_desc: "" #NT!
+ PER_REP_beacon_of_progressivism: "A Beacon of Progressivism" #NT!
+ PER_REP_beacon_of_progressivism_desc: "" #NT!
+  
+ PER_REP_mossadegh_victory: "Mossadegh Victory" #NT!
+ PER_REP_mossadegh_victory_desc: "" #NT!
+ PER_REP_separate_church_and_state: "Separate Church and State" #NT!
+ PER_REP_separate_church_and_state_desc: "" #NT!
+ PER_REP_reform_administration: "Reform the Administration" #NT!
+ PER_REP_reform_administration_desc: "" #NT!
+ PER_REP_build_up_tax_system: "Build Up the Tax System" #NT!
+ PER_REP_build_up_tax_system_desc: "" #NT!
+ PER_REP_tribal_deorganization: "Tribal Deorganization" #NT!
+ PER_REP_tribal_deorganization_desc: "" #NT!
+ PER_REP_provide_public_education: "Provide Public Education" #NT!
+ PER_REP_provide_public_education_desc: "" #NT!
+ PER_REP_proggressive_ideals: "Progressive Ideals" #NT!
+ PER_REP_proggressive_ideals_desc: "" #NT!
+ PER_REP_industrialize_iran: "Industrialize Iran" #NT!
+ PER_REP_industrialize_iran_desc: "" #NT!
+ PER_REP_reform_oil_industry: "Reform the Oil Industry" #NT!
+ PER_REP_reform_oil_industry_desc: "" #NT!
+ PER_REP_issue_land_reforms: "Issue Land Reforms" #NT!
+ PER_REP_issue_land_reforms_desc: "" #NT!
+ PER_REP_embraced_republicanism: "Embraced Republicanism" #NT!
+ PER_REP_embraced_republicanism_desc: "" #NT!
+  
+ ## Nationalist Tree ## 
+  
+ PER_NAT_civil_war_iran: "A New Iranian Revolution" #NT!
+ PER_NAT_civil_war_iran_desc: "" #NT!
+ PER_NAT_crush_teheran_socialists: "Crush Tehran Socialists" #NT!
+ PER_NAT_crush_teheran_socialists_desc: "" #NT!
+ PER_NAT_military_support: "Military Support" #NT!
+ PER_NAT_military_support_desc: "" #NT!
+ PER_NAT_crush_southern_socialists: "Crush Southern Socialists" #NT!
+ PER_NAT_crush_southern_socialists_desc: "" #NT!
+ PER_NAT_end_civil_war: "The End of the Leftist Threat" #NT!
+ PER_NAT_end_civil_war_desc: "" #NT!
+  
+ PER_NAT_shia_state: "A Shia State" #NT!
+ PER_NAT_shia_state_desc: "" #NT!
+ PER_NAT_a_religious_leader: "A Religious Leader" #NT!
+ PER_NAT_a_religious_leader_desc: "" #NT!
+ PER_NAT_centralized_powers: "Centralized Powers" #NT!
+ PER_NAT_centralized_powers_desc: "" #NT!
+ PER_NAT_head_of_faith: "The Head of the Faith" #NT!
+ PER_NAT_head_of_faith_desc: "" #NT!
+ PER_NAT_islamic_constitution: "Islamic Constitution" #NT!
+ PER_NAT_islamic_constitution_desc: "" #NT!
+ PER_NAT_purge_secularists: "Purge Secularists" #NT!
+ PER_NAT_purge_secularists_desc: "" #NT!
+ PER_NAT_marja_council: "Maraji Council" #NT!
+ PER_NAT_marja_council_desc: "" #NT!
+ PER_NAT_allow_moderate_marjas: "Allow Moderate Maraji" #NT!
+ PER_NAT_allow_moderate_marjas_desc: "" #NT!
+ PER_NAT_islamic_democracy: "Islamic Democracy" #NT!
+ PER_NAT_islamic_democracy_desc: "" #NT!
+ PER_NAT_shia_militarism: "Shia Militarism" #NT!
+ PER_NAT_shia_militarism_desc: "" #NT!
+ PER_NAT_enforce_islamic_conservatism: "Enforce Islamic Conservatism" #NT!
+ PER_NAT_enforce_islamic_conservatism_desc: "" #NT!
+ PER_NAT_traditionalist_teaching: "Traditionalist Teaching" #NT!
+ PER_NAT_traditionalist_teaching_desc: "" #NT!
+  
+ PER_NAT_nationalize_oil_industry: "Nationalize the Oil Industry" #NT!
+ PER_NAT_nationalize_oil_industry_desc: "" #NT!
+ PER_NAT_nationalize_foreign_industries: "Nationalize Foreign Industries" #NT!
+ PER_NAT_nationalize_foreign_industries_desc: "" #NT!
+ PER_NAT_nationalize_arms_industries: "Nationalize the Arms Industries" #NT!
+ PER_NAT_nationalize_arms_industries_desc: "" #NT!
+  
+ PER_NAT_valkist_state: "A Valkist State" #NT!
+ PER_NAT_valkist_state_desc: "" #NT!
+ PER_NAT_mobilize_youth: "Mobilize the Youth" #NT!
+ PER_NAT_mobilize_youth_desc: "" #NT!
+ PER_NAT_nations_inequality: "Nations Inequality" #NT!
+ PER_NAT_nations_inequality_desc: "" #NT!
+ PER_NAT_purge_leftists: "Purge the Leftists" #NT!
+ PER_NAT_purge_leftists_desc: "" #NT!
+ PER_NAT_channel_with_iranians_outside: "Channel with Iranians Outside of Iran" #NT!
+ PER_NAT_channel_with_iranians_outside_desc: "" #NT!
+ PER_NAT_cult_of_personality: "Cult of Personality" #NT!
+ PER_NAT_cult_of_personality_desc: "" #NT!
+ PER_NAT_adopt_zoroastrian_identity: "Adopt Zoroastrian Identity" #NT!
+ PER_NAT_adopt_zoroastrian_identity_desc: "" #NT!
+ PER_NAT_limit_shia_influences: "Limit Shia Influences" #NT!
+ PER_NAT_limit_shia_influences_desc: "" #NT!
+ PER_NAT_new_iran: "The New Iran!" #NT!
+ PER_NAT_new_iran_desc: "" #NT!
+  
+ ## Country Flags ## 
+ PER_london_crash_flag: "§RThe LSMC has arrived in Iran.§!" #NT!
+ PER_work_with_british_flag: "§YIran wishes to pursue economic cooperation with Britain.§!" #NT!
+ PER_limit_british_influence_flag: "§YIran seeks her own path to economic recovery.§!" #NT!
+ PER_progressive_regime_flag: "§YReza Khan seeks moderate reforms in Iran.§!" #NT!
+ PER_republic_flag: "§YRepublicanism has been established in Iran.§!" #NT!
+ PER_monarchy_flag: "§YA monarchy has been established in Iran.§!" #NT!
+ PER_nationalist_flag: "§YThe Nationalists have taken power in Iran.§!" #NT!
+ PER_conservative_regime_flag: "§YThe Conservatives have taken power in Iran.§!" #NT!
+ PER_military_flag: "§YThe government can now reform the military.§!" #NT!
+ PER_foreign_office_open_flag: "§YA new Foreign Office has been founded.§!" #NT!
+  
+ ## Other ## 
+  
+ PER_anglo_iranian_trade_opinion: "Anglo-Iranian Trade" #NT!
+ PER_irano_french_relations: "Irano-French Relations" #NT!
+ PER_irano_soviet_relations: "Irano-Soviet Relations" #NT!
+  
+ ### Companies 
+ shabaz_aircraft_manufacturer: "Shabaz Aircraft Manufacturer" #NT!
+ imperial_arms_company: "Imperial Arms Company" #NT!
+ imperial_artillery_company: "Imperial Artillery Company" #NT!
+ imperial_oil_PER: "Imperial Oil" #NT!
+ general_motors_iran: "General Motors Irān" #NT!
+ dominion_cartridge_PER: "Dominion Cartridge Irān" #NT!
+  
+ PER_The_Maraji_Council: "The Maraji Council" #NT!
+ PER_Ayatollah_Abol_Ghasem_Kashani: "Ayatollah Abol-Ghasem Kashani" #NT!
+ PER_Fazlollah_Zahedi: "Fazlollah Zahedi" #NT!
+ PER_Reza_Khan: "Reza Khan" #NT!
+ PER_Ahmad_Qavam: "Ahmad Qavam" #NT!
+ PER_Mohammad_Ali_Foroughi: "Mohammad Ali Foroughi" #NT!
+ PER_Ali_Dashti: "Ali Dashti" #NT!
+ PER_Mohammad_Mosaddegh: "Mohammad Mosaddegh" #NT!
+ PER_Mostafa_Fateh: "Mostafa Fateh" #NT!
+ PER_Iraj_Eskandari: "Iraj Eskandari" #NT!
+ PER_Mohammad_Hassan_Mirza: "Mohammad Hassan Mirza" #NT!
+ PER_Haj_Ali_Razmara: "Haj Ali Razmara" #NT!
+ PER_Amanullah_Jahanbani: "Amanullah Jahanbani" #NT!
+ PER_Ahmad_Amir_Ahmadi: "Ahmad Amir-Ahmadi" #NT!
+ PER_Karim_Buzarjomehri: "Karim Buzarjomehri" #NT!
+ PER_Hasan_Arfa: "Hasan Arfa" #NT!
+ PER_Bahram_Aryana: "Bahram Aryana" #NT!
+ PER_Mohammad_Reza: "Mohammad Reza" #NT!
+ PER_Soleyman_Mirza_Eskandari: "Soleyman Mirza Eskandari" #NT!
+ PER_Mostowfi_ol_Mamalek: "Mostowfi ol-Mamalek" #NT!
+ PER_Sayyed_Hasan_Taqizadeh: "Sayyed Hasan Taqizādeh" #NT!
+ PER_Hassan_Pirnia: "Hassan Pirnia" #NT!
+ PER_Abdolhossein_Teymurtash: "Abdolhossein Teymūrtāsh" #NT!
+ PER_Ali_Akbar_Davar: "Ali-Akbar Dāvar" #NT!
+ PER_Hosein_Ala: "Hosein Alā" #NT!
+ PER_Mohsen_Sadr: "Mohsen Sadr" #NT!
+ PER_Prince_Abbas_Mirza_Farman_Farmaian_Qajar: "Prince Abbas Mirza Farman Farmaian Qajar" #NT!
+ PER_Ahmad_Matin_Daftari: "Ahmad Matin-Daftari" #NT!
+ PER_Avetis_Sultan_Zade: "Avetis Sultan-Zade" #NT!
+ PER_Reza_Rousta: "Reza Rousta" #NT!
+ PER_Abdol_Hossein_Sardari: "Abdol Hossein Sardari" #NT!
+ PER_Allah_Yar_Saleh: "Allah-Yar Saleh" #NT!
+ PER_Khalil_Maleki: "Khalil Maleki" #NT!
+ PER_Karim_Sanjabi: "Karim Sanjabi" #NT!
+ PER_Abdullah_Entezam: "Abdullah Entezam" #NT!
+ PER_Ali_Mansur: "Ali Mansur" #NT!
+ PER_Mohammad_Ali_Foroughi_Zoka_ol_Molk: "Mohammad Ali Foroughi Zoka-ol-Molk" #NT!
+ PER_Muhammad_Sa_ed_Maraghei: "Muhammad Sa'ed Maraghei" #NT!
+ PER_Ali_Soheili: "Ali Soheili" #NT!
+ PER_Nasrollah_Entezam: "Nasrollah Entezam" #NT!
+ PER_Ja_far_Pishevari: "Ja'far Pishevari" #NT!
+ PER_Ali_Shayegan: "Ali Shayegan" #NT!
+ PER_Keikhosrow_Shahrokh: "Keikhosrow Shahrokh" #NT!
+ PER_Ali_Amini: "Ali Amini" #NT!
+ PER_Habib_Nafisi: "Habib Nafisi" #NT!
+ PER_Mehdi_Qoli_Khan_Hedayat: "Mehdi Qoli Khan Hedayat" #NT!
+ PER_Abdolhosein_Hazhir: "Abdolhosein Hazhir" #NT!
+ PER_Mahmoud_Modir_al_Molk_Djam: "Mahmoud Modir al-Molk Djam" #NT!
+ PER_Sepahbod_Ahmad_Amir_Ahmadi: "Sepahbod Ahmad Amir-Ahmadi" #NT!
+ PER_Abdol_Samad_Kambakhsh: "Abdol Samad Kambakhsh" #NT!
+ PER_Mohammad_Taqi_Khan_Pessian: "Mohammad Taqi-Khan Pessian" #NT!
+ PER_Mohammad_Taqi_Bahar: "Mohammad-Taqi Bahar" #NT!
+ PER_Qazi_Muhammad: "Qazi Muhammad" #NT!
+ PER_Allameh_Ali_Akbar_Dehkhoda: "Allameh Ali Akbar Dehkhodā" #NT!
+ PER_Esmail_Khan_Merat: "Esmail Khan Merat" #NT!
+ PER_Sayyed_Abu_l_Qasem_Kasani: "Sayyed Abu'l-Qāsem Kāšāni" #NT!
+ PER_Reza_Maxim_Khan: "Reza Maxim Khan" #NT!
+ PER_Abdollah_Khan_Amir_Tahmasebi: "Abdollah Khan Amir Tahmasebi" #NT!
+ PER_Karim_Agha_Khan_Buzarjomehri: "Karim Agha Khan Buzarjomehri" #NT!
+ PER_Mahmud_Khan_Puladeen: "Mahmud Khan Pulādeen" #NT!
+ PER_Gholamali_Bayandor: "Gholamali Bayandor" #NT!
+ PER_Ahmad_Khan_Nakhjaavan: "Ahmad Khan Nakhjaavan" #NT!
+ PER_Ahmad_Mirza_Khosravani: "Ahmad Mirza Khosravani" #NT!
+ PER_Mir_Mohammad_Mohanna: "Mir Mohammad Mohanna" #NT!
+ PER_Mohammad_Hossein_Firooz: "Mohammad Hossein Firooz" #NT!
+ PER_Reza_Mizani: "Reza Mizani" #NT!
+ PER_Sharafaldin_Ghahremani: "Sharafaldin Ghahremani" #NT!

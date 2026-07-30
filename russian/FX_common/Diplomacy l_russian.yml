@@ -1,0 +1,131 @@
+﻿l_russian:
+  
+ RECALL_VOLUNTEERS_TITLE: "Recall Volunteers" #NT!
+ RECALL_VOLUNTEERS_ACTION_DESC: "Recall all volunteers sent to this country." #NT!
+ RECALL_VOLUNTEERS_ACTION_SEND_DESC: "Recall all volunteers sent to §Y[FROM.GetNameDef]§!?" #NT!
+ REQUEST_EXP_FORCE_BLOCKED_GENERIC_TT: "§RThis country doesn't allow you to request their forces.§!" #NT!
+  
+ EMBARGO_THREAT_TT: "§RWorld Tension needs to be above §Y50%§!.§!" #NT!
+ EMBARGO_OPINION_TT: "§R- §Y[FROM.GetNameWithFlag]'s§! opinion of §Y[ROOT.GetNameWithFlag]§! must be lower than -50.§!" #NT!
+ REVOKE_EMBARGO_SAME_ECONOMIC_SPHERE_TT: "§RCountries in the same economic sphere cannot embargo to each other.§!" #NT!
+  
+ REVOKE_EMBARGO_SCRIPTED_TT: "§RThis embargo cannot be revoked.§!" #NT!
+ REVOKE_MARKET_ACCESS_SAME_ECONOMIC_SPHERE_TT: "§RCountries in the same economic sphere cannot revoke market access to each other.§!" #NT!
+  
+ RULE_DISABLED_IN_FR_TT: "§RDisabled in Führerreich!" #NT!
+  
+ cannot_call_allies_or_join_wars: "Cannot Call Allies or Join Wars" #NT!
+ cannot_call_allies_or_join_wars_warning: "§Y[ROOT.GetNameWithFlag]§! §Rcannot call allies or join wars.§!" #NT!
+ cannot_call_allies_or_join_wars_warning_FROM: "§Y[FROM.GetNameWithFlag]§! §Rcannot call allies or join wars.§!" #NT!
+  
+ cannot_receive_volunteers: "Cannot Receive Volunteers" #NT!
+ cannot_receive_volunteers_warning: "§Y[FROM.GetNameWithFlag]§! §Rcannot receive volunteers.§!" #NT!
+  
+ puppet_but_keep_government_tt: "([to_be_overlord.GetFlag]§H[to_be_overlord.GetName]§!) §H[marked_country.GetName]§! becomes puppet of §H[to_be_overlord.GetName]§!, but keeps its current government and popularity settings." #NT!
+  
+ # Diplomatic Actions 
+ RULE_GUARANTEES_AFTER_WW2: "§RBefore the Second Great War starts, guarantees can only be made through national focuses, events and decisions.§!" #NT!
+ REQUEST_EXP_FORCE_BLOCKED_TT: "§RThis country doesn't allow you to request their forces.§!" #NT!
+ RULE_WARGOALS_AFTER_WW2_TT: "§RBefore the Second Weltkrieg starts, wargoals can only be gained from national focuses, events and decisions.§!" #NT!
+ RULE_NO_WARGOALS_ON_ALLIED_PUPPETS_TT: "§R$DIPLOMACY_DEM_NO_THREAT_ON_DEPENDENDY$§!" #NT!
+ FX_MARKET_ACCESS_FOR_ALLY: "§RYou need to be an ally of [FROM.GetNameWithFlag] to request Market Access§!" #NT!
+ FX_CANT_CANCEL_MARKET_ACCESS_ENTENTE: "§RYou can't Cancel Market Access with [FROM.GetNameWithFlag] while in the Entente Council§!" #NT!
+ FX_CANT_CANCEL_MARKET_ACCESS_FACTION: "§RYou can't Cancel Market Access with [FROM.GetNameWithFlag] while in the same faction§!" #NT!
+  
+ ### Decisions 
+ return_cores_to_ally: "Return [From.GetAdjective] Lands" #NT!
+ return_cores_to_ally_desc: "The [Root.GetAdjective] government has been discussing what to do with the [From.GetAdjective] lands we currently occupy - land which we have no rightful claim to. Should we return the land to our [From.GetAdjective] allies?" #NT!
+ return_cores_to_subject: "Return [From.GetAdjective] Lands" #NT!
+ return_cores_to_subject_desc: "The [Root.GetAdjective] government has been discussing what to do with the [From.GetAdjective] lands we currently occupy - land which we have no rightful claim to. Should we return the land to our subjects in [From.GetNameDef]?" #NT!
+ ask_for_cores: "Request the return of core territory" #NT!
+ ask_for_cores_decisions: "Request the return of core territory" #NT!
+  
+  
+ ### Events 
+  
+ generic.26.t: "[FROM.GetName] uses Poison Gas!" #NT!
+ generic.26.d: "In a truly saddening turn of events, [FROM.GetName] has opted to break all the decency established since the last war and have launched chemical attacks upon our troops. Whilst some have demanded that we respond in kind, many have suggested that we should simply invest into countermeasures - for poison gas can prove to be a double-edged sword in our favour." #NT!
+ generic.26.a: "Invest all measures into protecting ourselves!" #NT!
+ generic.26.b: "As they reaped the wind, they shall reap the whirlwind." #NT!
+  
+ generic.27.t: "The Reality of Chemical Warfare" #NT!
+ generic.27.d: "It seems that despite our attempts to use all available means to suppress our enemies, this has not worked out as much as we would have hoped. With battlefield reports indicating that posion gas has proven to be utterly ineffective at granting us any sort of initiative, it seems that the time has come for this relic of the first war to be buried - lest we turn the entire world against us." #NT!
+ generic.27.a: "Oh well..." #NT!
+ generic.27.b: "They shall not stop us!" #NT!
+  
+ generic.41.t: "The [From.From.GetAdjective] Lands" #NT!
+ generic.41.d: "The [Root.GetAdjective] government has been discussing what to do with the [return_to.GetAdjective] lands we currently occupy - land which we have no rightful claim to. Should we return this land to them?" #NT!
+ generic.41.a: "Yes, return all land to them" #NT!
+ FX_will_return_all: "All coastal or contiguous owned states which are [return_to.GetAdjective] cores or claims will be returned to §Y[return_to.GetNameDef]§!.\n\nNote this will §Rnot§! include states that are [Root.GetAdjective] §Yclaimed§! or §Ycore§! states." #NT!
+ generic.41.b: "Yes, return land to them... but keep the most vital states" #NT!
+ FX_will_return_rest: "All coastal or contiguous owned states which are [return_to.GetAdjective] cores or claims will be returned to §Y[return_to.GetNameDef]§!.\n\nNote this will §Rnot§! include states that are [Root.GetAdjective] §Yclaimed§! or §Ycore§! states, nor will it include §Yvital§! states such as canals." #NT!
+ generic.41.c: "Return their core lands only" #NT!
+ FX_will_return_cores: "All coastal or contiguous owned states which are [return_to.GetAdjective] cores will be returned to §Y[return_to.GetNameDef]§!.\n\nNote this will §Rnot§! include [Root.GetAdjective] §Yclaimed§! or §Ycore§! states, nor §Yvital§! states such as canals. Any [return_to.GetAdjective] §Yclaims§! will also be retained." #NT!
+ generic.41.e: "We will keep it all!" #NT!
+ FX_will_not_return: "We will §Rnot§! return any of their lands, nor will we be asked to do so again." #NT!
+  
+ gencores.1.t: "[From.GetName] requests the return of their core territory" #NT!
+ gencores.1.d: "Territorial disputes between us and the [From.GetName] have needlessly soured our diplomatic relations. [From.GetAdjectiveCap] diplomats have delivered us a proposal outlining the return of their disputed territory currently under our control. While surrendering territory might seem short sighted the [From.GetName] assures us this as the best way to improve our nation's relationship." #NT!
+ gencores.1.a: "This proposal is sensible" #NT!
+ gencores.1.b: "We can never agree to this" #NT!
+  
+ gencores.2.t: "[From.GetName] agrees to return disputed territory" #NT!
+ gencores.2.d: "It seems the [From.GetName] has seen the need to improve our nation's relationship and has agreed to return disputed territory to our sovereignty." #NT!
+ gencores.2.a: "A toast to our [From.GetAdjectiveCap] friends." #NT!
+  
+ gencores.3.t: "[From.GetName] refuses to return disputed territory" #NT!
+ gencores.3.d: "It seems the [From.GetName] sees no need to improve our nation's relationship and has refuses to return any disputed territory." #NT!
+ gencores.3.a: "Damn them." #NT!
+  
+ generic.42.t: "[From.GetNameDefCap] Returns [Root.GetAdjective] Land" #NT!
+ generic.42.d: "Our allies in [From.GetNameDefCap] have returned some of our proper lands to us!" #NT!
+ generic.42.a: "Great!" #NT!
+  
+ generic.30.t: "An Alliance with [FROM.GetNonIdeologyNameDef]?" #NT!
+ generic.30.d: "International relations is often fluid, with agreements and alignments quickly shifting from generation to generation. Sometimes even within a generation, pacts are signed and discarded as interests change. The instability fostered after the London Stock Market Crash and other political developments around the world has heightened fears in many weaker nations that the great powers coming to blows will catch them in the middle.\n\nWhile some turn to isolation either because of their own domestic turmoil or in hopes that neutrality will make them not worth the time for various powers to prey upon them, [FROM.GetNameDefCap] has taken the opposite approach. With any internal issues now resolved, the people in [FROM.GetNameDefCap] are now looking outwards hoping to find protection alliances provide. We, perhaps due to superior geographic conditions, military power or ideological consistency are [ROOT.GetFactionName]'s choice of ally.\n\nThe question now remains, do we accept them? Another ally in our pact does mean further resources contributed to our combined forces, though any additional dangers they add for our faction is danger that will be taken into common. Any competing claims need to be taken into consideration, and any discord they may cause between faction members. What should be our decision?" #NT!
+ generic.30.a: "Stronger together!" #NT!
+ generic.30.b: "A fine proposition, forward it to [THIS.faction_leader.GetNonIdeologyNameDef]!" #NT!
+ generic.30.c: "On second thought, no..." #NT!
+  
+ generic.31.t: "[FROM.GetNonIdeologyNameDefCap] Has Accepted!" #NT!
+ generic.31.d: "Having heard our request to enter their alliance, [FROM.GetNameDef] has accepted our application and we are now set to become a member of [FROM.GetFactionName]. This will hopefully increase our safety in these troubling times, as we strive to ensure our people's protection from outside powers and foreign meddling.\n\nThat is not to say however this agreement comes for free. We have certain expectations now placed upon us to contribute to the common defence of the nations of [FROM.GetFactionName] and will likely be drawn into conflicts involving this pact. This includes the possibility of being brought into wars initiated by members of this pact.\n\nWe go now into the future together, our fates now intertwined both by words and by force of arms. With any luck, we will gain far more out of this agreement that we have lost in autonomy." #NT!
+ generic.31.a: "Excellent!" #NT!
+  
+ generic.32.t: "[negotiator.GetNonIdeologyNameDefCap] Proposes an Alliance with [potential_ally.GetNonIdeologyNameDef]" #NT!
+ generic.32.d: "An urgent notice has just come in from the foreign office: [negotiator.GetNonIdeologyNameDef] has asked us to consider bringing [potential_ally.GetNonIdeologyNameDef] into our military alliance. Apparently, [potential_ally.GetNonIdeologyNameDef] originally proposed the idea to [negotiator.GetNonIdeologyNameDef], who believed the idea had enough merit to warrant passing to us.\n\nThe benefits are fairly obvious. In strategy, having more forces available is virtually always a good thing, and [potential_ally.GetNonIdeologyNameDef] has acknowledged that it would likely be compelled to participate in all conflicts we may be involved in, regardless of their origin. However, the idea is not without risk — we would be similarly expected to participate in [potential_ally.GetNonIdeologyNameDef]'s wars, and entering an alliance with them may be contrary to our existing strategic aims. Such questions must always be considered when a new alliance is on the table.\n\nAll that being said, what is our decision?" #NT!
+ generic.32.a: "Let them join." #NT!
+ generic.32.b: "We don't want them." #NT!
+  
+ generic.33.t: "[FROM.GetNonIdeologyNameDefCap] Has Accepted!" #NT!
+ generic.33.d: "Good news! After considering [negotiator.GetNonIdeologyNameDef]'s proposal, [FROM.GetNonIdeologyNameDef] has accepted our request to join their alliance. With friends like these, we will surely sleep much safer." #NT!
+ generic.33.a: "Excellent." #NT!
+  
+ generic.34.t: "[FROM.GetNonIdeologyNameDefCap] Has Accepted!" #NT!
+ generic.34.d: "Good news! After considering our proposal, [FROM.GetNonIdeologyNameDef] has agreed to allow [potential_ally.GetNonIdeologyNameDef] into the alliance. We will both surely benefit from the arrangement." #NT!
+ generic.34.a: "Excellent." #NT!
+  
+ generic.35.t: "[FROM.GetNonIdeologyNameDefCap] Has Refused!" #NT!
+ generic.35.d: "Unfortunate news: despite [negotiator.GetNonIdeologyNameDef]'s sponsorship, [FROM.GetNonIdeologyNameDef] has rejected our offer to join their alliance. It seems that their aims are not as aligned as once thought." #NT!
+ generic.35.a: "Their loss." #NT!
+  
+ generic.36.t: "[FROM.GetNonIdeologyNameDefCap] Has Refused!" #NT!
+ generic.36.d: "Shocking news: despite our arguing on their behalf, [FROM.GetNonIdeologyNameDef] has refused to allow [potential_ally.GetNonIdeologyNameDef] into the alliance. Our foreign office has been caught completely off-guard by this development — they believed our strategic thinking to be much closer than it seems to be." #NT!
+ generic.36.a: "What?" #NT!
+  
+ generic.37.t: "[FROM.GetNonIdeologyNameDefCap] Has Refused!" #NT!
+ generic.37.d: "Despite our convincing appeals that we could be an effective contributor and member of their alliance, to our chagrin [FROM.GetNameDef] has refused our request to join the [FROM.GetFactionName]. In some ways, this can be expected: alliances are often delicate and wrought with dangers, and some caution is to be expected when making them. Still, this rejection leaves us in a sore spot. Either they have no intentions of defending us or more cynically they see us as a future target on the battlefield.\n\nWe must hurry then to find a working means of national security. Whether this means finding another alliance to shield us from invasion, appealing to multiple factions as a benevolent neutral mediator or whether it means turning inwards to an armed defence, we need to ensure our people's security. The [FROM.GetFactionName] may or may not regret rejecting us, but it is essential that we do not regret this outcome." #NT!
+ generic.37.a: "Their loss." #NT!
+  
+ generic.38.t: "An Alliance with [FROM.GetNonIdeologyNameDef]?" #NT!
+ generic.38.d: "International relations is often fluid, with agreements and alignments quickly shifting from generation to generation. Sometimes even within a generation, pacts are signed and discarded as interests change. The instability fostered after the London Stock Market Crash and other political developments around the world has heightened fears in many weaker nations that the great powers coming to blows will catch them in the middle.\n\nIn an effort to pursue common interests, [FROM.GetFactionName] has banded together into a comprehensive military alliance. They have sought our membership, offering us the potential of further protection (whether from outside threats or from themselves), and in exchange for deepened military and economic ties we will become part of a stronger and united bloc.\n\nJoining however is not without risk. We will likely be drawn into any conflicts that emerge related to this alliance, and it is possible that our contributions will outweigh the benefits we gain from membership. It is essential that as a nation we carefully weigh the costs and benefits of such an agreement." #NT!
+ generic.38.a: "Stronger together!" #NT!
+ generic.38.b: "On second thought, no..." #NT!
+  
+ generic.39.t: "[FROM.GetNonIdeologyNameDefCap] Has Accepted!" #NT!
+ generic.39.d: "After some deliberations, [FROM.GetNameDefCap] has accepted our invitation to join the [ROOT.GetFactionName], as we had dearly hoped they would. A new member of our alliance is generally welcome, bringing further security for each other and at the very least ensuring peace between the members in it. Their contributions of military forces, funding, and diplomatic weight will hopefully advance the mutual interests of [ROOT.GetFactionName], but there are some concerns ahead.\n\nAnother ally in our pact does mean further resources contributed to our combined forces, though any additional dangers they add for our faction is danger that will be taken into common. Any competing claims need to be taken into consideration, and any discord they may cause between faction members.\n\nWe will need to work diligently to ensure that these issues are smoothened over and that this alliance works for everybody (or at the very least, ourselves). Still, this should not dampen the diplomatic victory we have won today for all of our peoples." #NT!
+ generic.39.a: "Excellent!" #NT!
+  
+ generic.40.t: "[FROM.GetNonIdeologyNameDefCap] Has Refused!" #NT!
+ generic.40.d: "After some deliberation, to our chagrin [FROM.GetNameDef] has rejected our invitation to join the [ROOT.GetFactionName]. Unfortunately this is not an uncommon occurrence when it comes to alliance building. Some nations fear the loss of diplomatic flexibility a formal commitment would make, hoping to avoid being drawn into a losing conflict or wishing to join a more suitable alliance. It is also possible that they have designs that are mutually exclusive with our goals, though hopefully not in antagonistic way.\n\nWhatever the case, [FROM.GetNameDef] will not make or break our alliance. Or at least that should be the case if our faction is to have any weight. We will go on to achieve our goals one way or another, and if they are lucky [FROM.GetNameDef] will not regret their poor decision too much." #NT!
+ generic.40.a: "Their loss." #NT!
+  

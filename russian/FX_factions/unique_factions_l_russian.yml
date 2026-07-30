@@ -1,0 +1,47 @@
+﻿l_russian:
+  
+ # Add more as we go along 
+  
+ faction_continental_entente: "Континентальная Антанта"
+ faction_entente: "Антанта"
+ faction_imperial_protection_alliance: "Имперский оборонительный союз"
+ faction_united_nations_alliance: "Объединенные Нации"
+ faction_stahlpakt: "Стальной пакт"
+ faction_3rd_international: "Третий Интернационал"
+ faction_washington_accord: "Вашингтонское соглашение"
+ faction_rome_pact: "Римский пакт"
+ faction_barcelona_pact: "Барселонский пакт"
+ faction_league_of_nations: "Лига Наций"
+ faction_commonwealth: "Содружество Наций"
+ faction_co_prosperity_sphere: "Сфера сопроцветания"
+ faction_vienna_accord: "Венское соглашение"
+ faction_anti_valkist_league: "Антивалькистская лига"
+ faction_european_community: "Европейское сообщество"
+ faction_reichsbund: "Рейхсбунд"
+ faction_toshkent: "Ташкентское соглашение"
+  
+ intermarium: "Интермариум"
+ balkan_pact: "Балканский пакт"
+  
+ # Faction Manifests 
+  
+ faction_manifest_guardians_of_europe_name: "Стражи Европы"
+ faction_manifest_guardians_of_europe_desc: "Убедитесь, что все страны Европы, Северной Африки и Ближнего Востока состоят в вашем альянсе."
+ 
+ faction_manifest_imperial_hegemony_name: "Имперская гегемония"
+ faction_manifest_imperial_hegemony_desc: "Сохраняйте целостность всех регионов Империи."
+ 
+ faction_manifest_protect_the_old_order_name: "Защита старого порядка"
+ faction_manifest_protect_the_old_order_desc: "Убедитесь, что на все подконтрольные регионы претендуют только члены нашего альянса."
+ 
+ faction_manifest_repudiation_of_1919_name: "Отказ от итогов 1919 года"
+ faction_manifest_repudiation_of_1919_desc: "Контролируйте все де-юре территории Центральных держав в их максимальных границах."
+ 
+ faction_manifest_new_world_dominance_name: "Доминирование в Новом Свете"
+ faction_manifest_new_world_dominance_desc: "Убедитесь, что все страны Северной и Южной Америки состоят в вашем альянсе."
+ 
+ faction_manifest_mare_nostrum_name: "Mare Nostrum"
+ faction_manifest_mare_nostrum_desc: "Контролировать все регионы Средиземноморья."
+ 
+ faction_manifest_pacific_dominance_name: "Доминирование в Тихоокеанском регионе"
+ faction_manifest_pacific_dominance_desc: "Убедитесь, что все страны Азиатско-Тихоокеанского региона разгромлены или состоят в нашем альянсе."

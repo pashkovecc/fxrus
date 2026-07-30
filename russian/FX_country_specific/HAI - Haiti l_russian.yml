@@ -1,0 +1,73 @@
+﻿l_russian:
+  
+ ### Country Names 
+ HAI_vanguardist: "Haiti" #NT!
+ HAI_vanguardist_ADJ: "Haitian" #NT!
+ HAI_vanguardist_DEF: "the People's Republic of Haiti" #NT!
+ HAI_collectivist: "Haiti" #NT!
+ HAI_collectivist_ADJ: "Haitian" #NT!
+ HAI_collectivist_DEF: "the People's Republic of Haiti" #NT!
+ HAI_libertarian_socialist: "Haiti" #NT!
+ HAI_libertarian_socialist_ADJ: "Haitian" #NT!
+ HAI_libertarian_socialist_DEF: "the People's Republic of Haiti" #NT!
+ HAI_social_democrat: "Haiti" #NT!
+ HAI_social_democrat_ADJ: "Haitian" #NT!
+ HAI_social_democrat_DEF: "the Republic of Haiti" #NT!
+ HAI_social_liberal: "Haiti" #NT!
+ HAI_social_liberal_ADJ: "Haitian" #NT!
+ HAI_social_liberal_DEF: "the Republic of Haiti" #NT!
+ HAI_market_liberal: "Haiti" #NT!
+ HAI_market_liberal_ADJ: "Haitian" #NT!
+ HAI_market_liberal_DEF: "the Republic of Haiti" #NT!
+ HAI_social_conservative: "Haiti" #NT!
+ HAI_social_conservative_ADJ: "Haitian" #NT!
+ HAI_social_conservative_DEF: "the Republic of Haiti" #NT!
+ HAI_authoritarian_democrat: "Haiti" #NT!
+ HAI_authoritarian_democrat_ADJ: "Haitian" #NT!
+ HAI_authoritarian_democrat_DEF: "the Republic of Haiti" #NT!
+ HAI_paternal_autocrat: "Haiti" #NT!
+ HAI_paternal_autocrat_ADJ: "Haitian" #NT!
+ HAI_paternal_autocrat_DEF: "the State of Haiti" #NT!
+ HAI_national_populist: "Haiti" #NT!
+ HAI_national_populist_ADJ: "Haitian" #NT!
+ HAI_national_populist_DEF: "the State of Haiti" #NT!
+ HAI_valkist: "Haiti" #NT!
+ HAI_valkist_ADJ: "Haitian" #NT!
+ HAI_valkist_DEF: "the State of Haiti" #NT!
+  
+ ### Political Parties ### 
+  
+ HAI_vanguardist_party: "PcH" #NT!
+ HAI_vanguardist_party_long: "Parti communiste Haïtien" #NT!
+ HAI_collectivist_party: "PpH" #NT!
+ HAI_collectivist_party_long: "Parti du peuple Haïtien" #NT!
+ HAI_libertarian_socialist_party: "GHL" #NT!
+ HAI_libertarian_socialist_party_long: "Gratuit Haiti League" #NT!
+ HAI_social_democrat_party: "S" #NT!
+ HAI_social_democrat_party_long: "Socialistes" #NT!
+ HAI_social_liberal_party: "PnTO" #NT!
+ HAI_social_liberal_party_long: "Parti nationale des Taureau-Orignaux" #NT!
+ HAI_market_liberal_party: "L" #NT!
+ HAI_market_liberal_party_long: "Libéraux" #NT!
+ HAI_social_conservative_party: "PMLC" #NT!
+ HAI_social_conservative_party_long: "Parti de la Monarchie Libérale Constitutionnelle" #NT!
+ HAI_authoritarian_democrat_party: "American Plebiscite" #NT!
+ HAI_authoritarian_democrat_party_long: "American Plebiscite" #NT!
+ HAI_paternal_autocrat_party: "House of Dessalines" #NT!
+ HAI_paternal_autocrat_party_long: "House of Dessalines" #NT!
+ HAI_national_populist_party: "Nationaux" #NT!
+ HAI_national_populist_party_long: "Nationaux" #NT!
+ HAI_valkist_party: "PANH" #NT!
+ HAI_valkist_party_long: "Parti Agraire National Haïtien" #NT!
+  
+ ### Events 
+ haiti.1.t: "Haitian Independence" #NT!
+ haiti.1.d: "President Calixte and the elite of the Garde d'Haiti paraded through Port-au-Prince to declare Haitian Independence Day, a day which seems ironic to many considering Haiti's political situation. Haiti gained its independence when the United States has collapsed due to internal divisions following the catastrophic defeat against Mexico; which in turn provided an opportunity for the newly installed President to coup the former American lapdog, Louis Borno." #NT!
+ haiti.1.a: "Libète, Egalite, Fratènite" #NT!
+  
+ HAI_Jacques_Roumain: "Jacques Roumain" #NT!
+ HAI_Desmothenes_Calixte: "Desmothenes Calixte" #NT!
+ HAI_Stenio_Vincent: "Stenio Vincent" #NT!
+ HAI_Louis_Borno: "Louis Borno" #NT!
+ HAI_Antonio_Thrasybule_Kebreau: "Antonio Thrasybule Kébreau" #NT!
+ HAI_Carl_Brouard: "Carl Brouard" #NT!

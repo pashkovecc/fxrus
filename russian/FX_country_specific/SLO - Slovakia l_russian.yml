@@ -1,0 +1,83 @@
+﻿l_russian:
+  
+ ### Country Name 
+ SLO_vanguardist: "Slovakia" #NT!
+ SLO_vanguardist_ADJ: "Slovak" #NT!
+ SLO_vanguardist_DEF: "the Slovak Socialist Republic" #NT!
+ SLO_collectivist: "Slovakia" #NT!
+ SLO_collectivist_ADJ: "Slovak" #NT!
+ SLO_collectivist_DEF: "the Slovak Socialist Republic" #NT!
+ SLO_libertarian_socialist: "Slovakia" #NT!
+ SLO_libertarian_socialist_ADJ: "Slovak" #NT!
+ SLO_libertarian_socialist_DEF: "the Slovak Socialist Republic" #NT!
+ SLO_social_democrat: "Slovakia" #NT!
+ SLO_social_democrat_ADJ: "Slovak" #NT!
+ SLO_social_democrat_DEF: "the Slovak Republic" #NT!
+ SLO_social_liberal: "Slovakia" #NT!
+ SLO_social_liberal_ADJ: "Slovak" #NT!
+ SLO_social_liberal_DEF: "the Slovak Republic" #NT!
+ SLO_market_liberal: "Slovakia" #NT!
+ SLO_market_liberal_ADJ: "Slovak" #NT!
+ SLO_market_liberal_DEF: "the Slovak Republic" #NT!
+ SLO_social_conservative: "Slovakia" #NT!
+ SLO_social_conservative_ADJ: "Slovak" #NT!
+ SLO_social_conservative_DEF: "the Slovak Republic" #NT!
+ SLO_authoritarian_democrat: "Slovakia" #NT!
+ SLO_authoritarian_democrat_ADJ: "Slovak" #NT!
+ SLO_authoritarian_democrat_DEF: "the Slovak Republic" #NT!
+ SLO_paternal_autocrat: "Slovakia" #NT!
+ SLO_paternal_autocrat_ADJ: "Slovak" #NT!
+ SLO_paternal_autocrat_DEF: "the Slovak Republic" #NT!
+ SLO_national_populist: "Slovakia" #NT!
+ SLO_national_populist_ADJ: "Slovak" #NT!
+ SLO_national_populist_DEF: "the Slovak Republic" #NT!
+ SLO_valkist: "Slovakia" #NT!
+ SLO_valkist_ADJ: "Slovak" #NT!
+ SLO_valkist_DEF: "the Slovak Republic" #NT!
+  
+ ### Parties 
+  
+ SLO_vanguardist_party: "KSS" #NT!
+ SLO_vanguardist_party_long: "Komunistická strana Slovenska\n§gCommunist Party of Slovakia§!" #NT!
+ SLO_collectivist_party: "KSS" #NT!
+ SLO_collectivist_party_long: "Komunistická strana Slovenska\n§gCommunist Party of Slovakia§!" #NT!
+ SLO_libertarian_socialist_party: "KSS" #NT!
+ SLO_libertarian_socialist_party_long: "Komunistická strana Slovenska\n§gCommunist Party of Slovakia§!" #NT!
+ SLO_social_democrat_party: "SSS" #NT!
+ SLO_social_democrat_party_long: "Slovenská Sociálnodemokratická strana\n§gSlovak Social Democratic Party§!" #NT!
+ SLO_social_liberal_party: "RSPML'" #NT!
+ SLO_social_liberal_party_long: "Republikánska strana poľnohospodárskeho a maloroľníckeho ľudu\n§gRepublican Party of Farmers and Peasants§!" #NT!
+ SLO_market_liberal_party: "SND" #NT!
+ SLO_market_liberal_party_long: "Slovenskej národnej demokracie\n§gSlovak National Democracy§!" #NT!
+ SLO_social_conservative_party: "HSL'S" #NT!
+ SLO_social_conservative_party_long: "Hlinkova slovenská ľudová strana\n§gHlinka's Slovak People's Party§!" #NT!
+ SLO_authoritarian_democrat_party: "SNS" #NT!
+ SLO_authoritarian_democrat_party_long: "Slovenská národná strana\n§gSlovak National Party§!" #NT!
+ SLO_paternal_autocrat_party: "Armáda" #NT!
+ SLO_paternal_autocrat_party_long: "Slovenská Armáda\n§gSlovak Army§!" #NT!
+ SLO_national_populist_party: "HSL'S" #NT!
+ SLO_national_populist_party_long: "Hlinkova slovenská ľudová strana\n§gHlinka's Slovak People's Party§!" #NT!
+ SLO_valkist_party: "Rodobrana" #NT!
+ SLO_valkist_party_long: "Rodobrana\n§gHome Defense§!" #NT!
+  
+  
+ ### EVENTS ### 
+ slovakia.1.t: "Union with Hungary" #NT!
+ slovakia.1.d: "The Hungarians have approached us with an offer, they wish to help us in our fight for independance. The chances of us winning this war on our own are very slim, and sadly the Hungarian soldiers on our border have left us with no other choice. We will become subjects of Hungary, for our own survival." #NT!
+ slovakia.1.a: "We will bind our dynsaty to theirs." #NT!
+  
+ slovakia.2.t: "The Death of Andrej Hlinka" #NT!
+ slovakia.2.d: "In a truly sad day for Slovakia, the father of the nation, Andrej Hlinka has passed. Having freed us from the tyrannical Czechs and seeking to defend Slovaks from imperialism from all sides, he will be sorely missed. In his place, the People's Party have at last finalized their lurch to the right - with Hlinka's favorite, Karol Sidor taking over. It seems that Slovakia is now headed for a anti-liberal destiny." #NT!
+ slovakia.2.a: "Slovákom som sa narodil, Slovák som a Slovák budem!" #NT!
+  
+ SLO_Andrej_Hlinka: "Andrej Hlinka" #NT!
+ SLO_Vladimir_Clementis: "Vladimír Clementis" #NT!
+ SLO_Ivan_Derer: "Ivan Dérer" #NT!
+ SLO_Milan_Hodza: "Milan Hodža" #NT!
+ SLO_Gejza_Rehak: "Gejza Rehák" #NT!
+ SLO_Jozef_Sivak: "Jozef Sivák" #NT!
+ SLO_Juraj_Janoska: "Juraj Janoška" #NT!
+ SLO_Ferdinand_Catlos: "Ferdinand Čatloš" #NT!
+ SLO_Karol_Sidor: "Karol Sidor" #NT!
+ SLO_Alexander_Mach: "Alexander Mach" #NT!
+  

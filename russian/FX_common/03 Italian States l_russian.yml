@@ -1,0 +1,365 @@
+﻿l_russian:
+  
+ ### Naples 
+ NAP_vanguardist: "Republic of Naples" #NT!
+ NAP_vanguardist_ADJ: "Neapolitan" #NT!
+ NAP_vanguardist_DEF: "The Republic of Naples" #NT!
+ NAP_collectivist: "Republic of Naples" #NT!
+ NAP_collectivist_ADJ: "Neapolitan" #NT!
+ NAP_collectivist_DEF: "The Republic of Naples" #NT!
+ NAP_libertarian_socialist: "Republic of Naples" #NT!
+ NAP_libertarian_socialist_ADJ: "Neapolitan" #NT!
+ NAP_libertarian_socialist_DEF: "The Republic of Naples" #NT!
+ NAP_social_democrat: "Republic of Naples" #NT!
+ NAP_social_democrat_ADJ: "Neapolitan" #NT!
+ NAP_social_democrat_DEF: "The Republic of Naples" #NT!
+ NAP_social_liberal: "Republic of Naples" #NT!
+ NAP_social_liberal_ADJ: "Neapolitan" #NT!
+ NAP_social_liberal_DEF: "The Republic of Naples" #NT!
+ NAP_market_liberal: "Republic of Naples" #NT!
+ NAP_market_liberal_ADJ: "Neapolitan" #NT!
+ NAP_market_liberal_DEF: "The Republic of Naples" #NT!
+ NAP_social_conservative: "Republic of Naples" #NT!
+ NAP_social_conservative_ADJ: "Neapolitan" #NT!
+ NAP_social_conservative_DEF: "The Republic of Naples" #NT!
+ NAP_authoritarian_democrat: "Republic of Naples" #NT!
+ NAP_authoritarian_democrat_ADJ: "Neapolitan" #NT!
+ NAP_authoritarian_democrat_DEF: "The Republic of Naples" #NT!
+ NAP_paternal_autocrat: "Republic of Naples" #NT!
+ NAP_paternal_autocrat_ADJ: "Neapolitan" #NT!
+ NAP_paternal_autocrat_DEF: "The Republic of Naples" #NT!
+ NAP_national_populist: "Republic of Naples" #NT!
+ NAP_national_populist_ADJ: "Neapolitan" #NT!
+ NAP_national_populist_DEF: "The Republic of Naples" #NT!
+ NAP_valkist: "Republic of Naples" #NT!
+ NAP_valkist_ADJ: "Neapolitan" #NT!
+ NAP_valkist_DEF: "The Republic of Naples" #NT!
+  
+ ### Sicily 
+ SIC_vanguardist: "Republic of Sicily" #NT!
+ SIC_vanguardist_ADJ: "Sicilian" #NT!
+ SIC_vanguardist_DEF: "The Republic of Sicily" #NT!
+ SIC_collectivist: "Republic of Sicily" #NT!
+ SIC_collectivist_ADJ: "Sicilian" #NT!
+ SIC_collectivist_DEF: "The Republic of Sicily" #NT!
+ SIC_libertarian_socialist: "Republic of Sicily" #NT!
+ SIC_libertarian_socialist_ADJ: "Sicilian" #NT!
+ SIC_libertarian_socialist_DEF: "The Republic of Sicily" #NT!
+ SIC_social_democrat: "Republic of Sicily" #NT!
+ SIC_social_democrat_ADJ: "Sicilian" #NT!
+ SIC_social_democrat_DEF: "The Republic of Sicily" #NT!
+ SIC_social_liberal: "Republic of Sicily" #NT!
+ SIC_social_liberal_ADJ: "Sicilian" #NT!
+ SIC_social_liberal_DEF: "The Republic of Sicily" #NT!
+ SIC_market_liberal: "Republic of Sicily" #NT!
+ SIC_market_liberal_ADJ: "Sicilian" #NT!
+ SIC_market_liberal_DEF: "The Republic of Sicily" #NT!
+ SIC_social_conservative: "Republic of Sicily" #NT!
+ SIC_social_conservative_ADJ: "Sicilian" #NT!
+ SIC_social_conservative_DEF: "The Republic of Sicily" #NT!
+ SIC_authoritarian_democrat: "Republic of Sicily" #NT!
+ SIC_authoritarian_democrat_ADJ: "Sicilian" #NT!
+ SIC_authoritarian_democrat_DEF: "The Republic of Sicily" #NT!
+ SIC_paternal_autocrat: "Republic of Sicily" #NT!
+ SIC_paternal_autocrat_ADJ: "Sicilian" #NT!
+ SIC_paternal_autocrat_DEF: "The Republic of Sicily" #NT!
+ SIC_national_populist: "Republic of Sicily" #NT!
+ SIC_national_populist_ADJ: "Sicilian" #NT!
+ SIC_national_populist_DEF: "The Republic of Sicily" #NT!
+ SIC_valkist: "Republic of Sicily" #NT!
+ SIC_valkist_ADJ: "Sicilian" #NT!
+ SIC_valkist_DEF: "The Republic of Sicily" #NT!
+  
+ ### United Provinces 
+ UPC_vanguardist: "United Provinces of Central Italy" #NT!
+ UPC_vanguardist_ADJ: "Central Italian" #NT!
+ UPC_vanguardist_DEF: "The United Provinces of Central Italy" #NT!
+ UPC_collectivist: "United Provinces of Central Italy" #NT!
+ UPC_collectivist_ADJ: "Central Italian" #NT!
+ UPC_collectivist_DEF: "The United Provinces of Central Italy" #NT!
+ UPC_libertarian_socialist: "United Provinces of Central Italy" #NT!
+ UPC_libertarian_socialist_ADJ: "Central Italian" #NT!
+ UPC_libertarian_socialist_DEF: "The United Provinces of Central Italy" #NT!
+ UPC_social_democrat: "United Provinces of Central Italy" #NT!
+ UPC_social_democrat_ADJ: "Central Italian" #NT!
+ UPC_social_democrat_DEF: "The United Provinces of Central Italy" #NT!
+ UPC_social_liberal: "United Provinces of Central Italy" #NT!
+ UPC_social_liberal_ADJ: "Central Italian" #NT!
+ UPC_social_liberal_DEF: "The United Provinces of Central Italy" #NT!
+ UPC_market_liberal: "United Provinces of Central Italy" #NT!
+ UPC_market_liberal_ADJ: "Central Italian" #NT!
+ UPC_market_liberal_DEF: "The United Provinces of Central Italy" #NT!
+ UPC_social_conservative: "United Provinces of Central Italy" #NT!
+ UPC_social_conservative_ADJ: "Central Italian" #NT!
+ UPC_social_conservative_DEF: "The United Provinces of Central Italy" #NT!
+ UPC_authoritarian_democrat: "United Provinces of Central Italy" #NT!
+ UPC_authoritarian_democrat_ADJ: "Central Italian" #NT!
+ UPC_authoritarian_democrat_DEF: "The United Provinces of Central Italy" #NT!
+ UPC_paternal_autocrat: "United Provinces of Central Italy" #NT!
+ UPC_paternal_autocrat_ADJ: "Central Italian" #NT!
+ UPC_paternal_autocrat_DEF: "The United Provinces of Central Italy" #NT!
+ UPC_national_populist: "United Provinces of Central Italy" #NT!
+ UPC_national_populist_ADJ: "Central Italian" #NT!
+ UPC_national_populist_DEF: "The United Provinces of Central Italy" #NT!
+ UPC_valkist: "United Provinces of Central Italy" #NT!
+ UPC_valkist_ADJ: "Central Italian" #NT!
+ UPC_valkist_DEF: "The United Provinces of Central Italy" #NT!
+  
+ ### Tuscany 
+ TOS_vanguardist: "Republic of Tuscany" #NT!
+ TOS_vanguardist_ADJ: "Tositanian" #NT!
+ TOS_vanguardist_DEF: "The Republic of Tuscany" #NT!
+ TOS_collectivist: "Republic of Tuscany" #NT!
+ TOS_collectivist_ADJ: "Tositanian" #NT!
+ TOS_collectivist_DEF: "The Republic of Tuscany" #NT!
+ TOS_libertarian_socialist: "Republic of Tuscany" #NT!
+ TOS_libertarian_socialist_ADJ: "Tositanian" #NT!
+ TOS_libertarian_socialist_DEF: "The Republic of Tuscany" #NT!
+ TOS_social_democrat: "Republic of Tuscany" #NT!
+ TOS_social_democrat_ADJ: "Tositanian" #NT!
+ TOS_social_democrat_DEF: "The Republic of Tuscany" #NT!
+ TOS_social_liberal: "Republic of Tuscany" #NT!
+ TOS_social_liberal_ADJ: "Tositanian" #NT!
+ TOS_social_liberal_DEF: "The Republic of Tuscany" #NT!
+ TOS_market_liberal: "Republic of Tuscany" #NT!
+ TOS_market_liberal_ADJ: "Tositanian" #NT!
+ TOS_market_liberal_DEF: "The Republic of Tuscany" #NT!
+ TOS_social_conservative: "Republic of Tuscany" #NT!
+ TOS_social_conservative_ADJ: "Tositanian" #NT!
+ TOS_social_conservative_DEF: "The Republic of Tuscany" #NT!
+ TOS_authoritarian_democrat: "Republic of Tuscany" #NT!
+ TOS_authoritarian_democrat_ADJ: "Tositanian" #NT!
+ TOS_authoritarian_democrat_DEF: "The Republic of Tuscany" #NT!
+ TOS_paternal_autocrat: "Republic of Tuscany" #NT!
+ TOS_paternal_autocrat_ADJ: "Tositanian" #NT!
+ TOS_paternal_autocrat_DEF: "The Republic of Tuscany" #NT!
+ TOS_national_populist: "Republic of Tuscany" #NT!
+ TOS_national_populist_ADJ: "Tositanian" #NT!
+ TOS_national_populist_DEF: "The Republic of Tuscany" #NT!
+ TOS_valkist: "Republic of Tuscany" #NT!
+ TOS_valkist_ADJ: "Tositanian" #NT!
+ TOS_valkist_DEF: "The Republic of Tuscany" #NT!
+  
+ ### Lombardy 
+ LOM_vanguardist: "Republic of Lombardy" #NT!
+ LOM_vanguardist_ADJ: "Lombardian" #NT!
+ LOM_vanguardist_DEF: "The Republic of Lombardy" #NT!
+ LOM_collectivist: "Republic of Lombardy" #NT!
+ LOM_collectivist_ADJ: "Lombardian" #NT!
+ LOM_collectivist_DEF: "The Republic of Lombardy" #NT!
+ LOM_libertarian_socialist: "Republic of Lombardy" #NT!
+ LOM_libertarian_socialist_ADJ: "Lombardian" #NT!
+ LOM_libertarian_socialist_DEF: "The Republic of Lombardy" #NT!
+ LOM_social_democrat: "Republic of Lombardy" #NT!
+ LOM_social_democrat_ADJ: "Lombardian" #NT!
+ LOM_social_democrat_DEF: "The Republic of Lombardy" #NT!
+ LOM_social_liberal: "Republic of Lombardy" #NT!
+ LOM_social_liberal_ADJ: "Lombardian" #NT!
+ LOM_social_liberal_DEF: "The Republic of Lombardy" #NT!
+ LOM_market_liberal: "Republic of Lombardy" #NT!
+ LOM_market_liberal_ADJ: "Lombardian" #NT!
+ LOM_market_liberal_DEF: "The Republic of Lombardy" #NT!
+ LOM_social_conservative: "Republic of Lombardy" #NT!
+ LOM_social_conservative_ADJ: "Lombardian" #NT!
+ LOM_social_conservative_DEF: "The Republic of Lombardy" #NT!
+ LOM_authoritarian_democrat: "Republic of Lombardy" #NT!
+ LOM_authoritarian_democrat_ADJ: "Lombardian" #NT!
+ LOM_authoritarian_democrat_DEF: "The Republic of Lombardy" #NT!
+ LOM_paternal_autocrat: "Republic of Lombardy" #NT!
+ LOM_paternal_autocrat_ADJ: "Lombardian" #NT!
+ LOM_paternal_autocrat_DEF: "The Republic of Lombardy" #NT!
+ LOM_national_populist: "Republic of Lombardy" #NT!
+ LOM_national_populist_ADJ: "Lombardian" #NT!
+ LOM_national_populist_DEF: "The Republic of Lombardy" #NT!
+ LOM_valkist: "Republic of Lombardy" #NT!
+ LOM_valkist_ADJ: "Lombardian" #NT!
+ LOM_valkist_DEF: "The Republic of Lombardy" #NT!
+  
+ ### Piedmont 
+ PIE_vanguardist: "Republic of Piedmont" #NT!
+ PIE_vanguardist_ADJ: "Piedmont" #NT!
+ PIE_vanguardist_DEF: "The Republic of Piedmont" #NT!
+ PIE_collectivist: "Republic of Piedmont" #NT!
+ PIE_collectivist_ADJ: "Piedmont" #NT!
+ PIE_collectivist_DEF: "The Republic of Piedmont" #NT!
+ PIE_libertarian_socialist: "Republic of Piedmont" #NT!
+ PIE_libertarian_socialist_ADJ: "Piedmont" #NT!
+ PIE_libertarian_socialist_DEF: "The Republic of Piedmont" #NT!
+ PIE_social_democrat: "Republic of Piedmont" #NT!
+ PIE_social_democrat_ADJ: "Piedmont" #NT!
+ PIE_social_democrat_DEF: "The Republic of Piedmont" #NT!
+ PIE_social_liberal: "Republic of Piedmont" #NT!
+ PIE_social_liberal_ADJ: "Piedmont" #NT!
+ PIE_social_liberal_DEF: "The Republic of Piedmont" #NT!
+ PIE_market_liberal: "Republic of Piedmont" #NT!
+ PIE_market_liberal_ADJ: "Piedmont" #NT!
+ PIE_market_liberal_DEF: "The Republic of Piedmont" #NT!
+ PIE_social_conservative: "Republic of Piedmont" #NT!
+ PIE_social_conservative_ADJ: "Piedmont" #NT!
+ PIE_social_conservative_DEF: "The Republic of Piedmont" #NT!
+ PIE_authoritarian_democrat: "Republic of Piedmont" #NT!
+ PIE_authoritarian_democrat_ADJ: "Piedmont" #NT!
+ PIE_authoritarian_democrat_DEF: "The Republic of Piedmont" #NT!
+ PIE_paternal_autocrat: "Republic of Piedmont" #NT!
+ PIE_paternal_autocrat_ADJ: "Piedmont" #NT!
+ PIE_paternal_autocrat_DEF: "The Republic of Piedmont" #NT!
+ PIE_national_populist: "Republic of Piedmont" #NT!
+ PIE_national_populist_ADJ: "Piedmont" #NT!
+ PIE_national_populist_DEF: "The Republic of Piedmont" #NT!
+ PIE_valkist: "Republic of Piedmont" #NT!
+ PIE_valkist_ADJ: "Piedmont" #NT!
+ PIE_valkist_DEF: "The Republic of Piedmont" #NT!
+  
+ PIE_vanguardist_party: "PCI(CN)" #NT!
+ PIE_vanguardist_party_long: "Partito Comunista Italiano (Collettivista Nazionale)" #NT!
+ PIE_collectivist_party: "PCI" #NT!
+ PIE_collectivist_party_long: "Partito Comunista Italiano" #NT!
+ PIE_libertarian_socialist_party: "PSI" #NT!
+ PIE_libertarian_socialist_party_long: "Partito Socialista Italiana" #NT!
+ PIE_social_democrat_party: "PPI" #NT!
+ PIE_social_democrat_party_long: "Partito Popolare Italiano" #NT!
+ PIE_social_liberal_party: "PDL" #NT!
+ PIE_social_liberal_party_long: "Partito Democratico del Lavoro" #NT!
+ PIE_market_liberal_party: "PLI" #NT!
+ PIE_market_liberal_party_long: "Partito Liberale Italiano" #NT!
+ PIE_social_conservative_party: "PDI" #NT!
+ PIE_social_conservative_party_long: "Partito Democratico Italiano" #NT!
+ PIE_authoritarian_democrat_party: "PMI" #NT!
+ PIE_authoritarian_democrat_party_long: "Partito Monarchico Italiano" #NT!
+ PIE_paternal_autocrat_party: "PMI(SA)" #NT!
+ PIE_paternal_autocrat_party_long: "Partito Monarchico Italiano (Savoia Aosta)" #NT!
+ PIE_national_populist_party: "ANI" #NT!
+ PIE_national_populist_party_long: "Associazione Nazionalista Italiana" #NT!
+ PIE_valkist_party: "FISN" #NT!
+ PIE_valkist_party_long: "Fasci Italiani del Sindacalismo Nazionale" #NT!
+  
+  
+ ### Venice 
+ SRV_vanguardist: "Serene Republic of Venice" #NT!
+ SRV_vanguardist_ADJ: "Venetian" #NT!
+ SRV_vanguardist_DEF: "The Serene Republic of Venice" #NT!
+ SRV_collectivist: "Serene Republic of Venice" #NT!
+ SRV_collectivist_ADJ: "Venetian" #NT!
+ SRV_collectivist_DEF: "The Serene Republic of Venice" #NT!
+ SRV_libertarian_socialist: "Serene Republic of Venice" #NT!
+ SRV_libertarian_socialist_ADJ: "Venetian" #NT!
+ SRV_libertarian_socialist_DEF: "The Serene Republic of Venice" #NT!
+ SRV_social_democrat: "Serene Republic of Venice" #NT!
+ SRV_social_democrat_ADJ: "Venetian" #NT!
+ SRV_social_democrat_DEF: "The Serene Republic of Venice" #NT!
+ SRV_social_liberal: "Serene Republic of Venice" #NT!
+ SRV_social_liberal_ADJ: "Venetian" #NT!
+ SRV_social_liberal_DEF: "The Serene Republic of Venice" #NT!
+ SRV_market_liberal: "Serene Republic of Venice" #NT!
+ SRV_market_liberal_ADJ: "Venetian" #NT!
+ SRV_market_liberal_DEF: "The Serene Republic of Venice" #NT!
+ SRV_social_conservative: "Serene Republic of Venice" #NT!
+ SRV_social_conservative_ADJ: "Venetian" #NT!
+ SRV_social_conservative_DEF: "The Serene Republic of Venice" #NT!
+ SRV_authoritarian_democrat: "Serene Republic of Venice" #NT!
+ SRV_authoritarian_democrat_ADJ: "Venetian" #NT!
+ SRV_authoritarian_democrat_DEF: "The Serene Republic of Venice" #NT!
+ SRV_paternal_autocrat: "Serene Republic of Venice" #NT!
+ SRV_paternal_autocrat_ADJ: "Venetian" #NT!
+ SRV_paternal_autocrat_DEF: "The Serene Republic of Venice" #NT!
+ SRV_national_populist: "Serene Republic of Venice" #NT!
+ SRV_national_populist_ADJ: "Venetian" #NT!
+ SRV_national_populist_DEF: "The Serene Republic of Venice" #NT!
+ SRV_valkist: "Serene Republic of Venice" #NT!
+ SRV_valkist_ADJ: "Venetian" #NT!
+ SRV_valkist_DEF: "The Serene Republic of Venice" #NT!
+  
+ ### Sardinia 
+ SRD_vanguardist: "Socialist Republic of Sardinia" #NT!
+ SRD_vanguardist_ADJ: "Sardinian" #NT!
+ SRD_vanguardist_DEF: "The Socialist Republic of Sardinia" #NT!
+ SRD_collectivist: "Socialist Republic of Sardinia" #NT!
+ SRD_collectivist_ADJ: "Sardinian" #NT!
+ SRD_collectivist_DEF: "The Socialist Republic of Sardinia" #NT!
+ SRD_libertarian_socialist: "Sardinia People’s Republic" #NT!
+ SRD_libertarian_socialist_ADJ: "Sardinian" #NT!
+ SRD_libertarian_socialist_DEF: "The Sardinia People’s Republic" #NT!
+ SRD_social_democrat: "Republic of Sardinia" #NT!
+ SRD_social_democrat_ADJ: "Sardinian" #NT!
+ SRD_social_democrat_DEF: "The Republic of Sardinia" #NT!
+ SRD_social_liberal: "Republic of Sardinia" #NT!
+ SRD_social_liberal_ADJ: "Sardinian" #NT!
+ SRD_social_liberal_DEF: "The Republic of Sardinia" #NT!
+ SRD_market_liberal: "Republic of Sardinia" #NT!
+ SRD_market_liberal_ADJ: "Sardinian" #NT!
+ SRD_market_liberal_DEF: "The Republic of Sardinia" #NT!
+ SRD_social_conservative: "Republic of Sardinia" #NT!
+ SRD_social_conservative_ADJ: "Sardinian" #NT!
+ SRD_social_conservative_DEF: "The Republic of Sardinia" #NT!
+ SRD_authoritarian_democrat: "Republic of Sardinia" #NT!
+ SRD_authoritarian_democrat_ADJ: "Sardinian" #NT!
+ SRD_authoritarian_democrat_DEF: "The Republic of Sardinia" #NT!
+ SRD_paternal_autocrat: "Kingdom of Sardinia" #NT!
+ SRD_paternal_autocrat_ADJ: "Sardinian" #NT!
+ SRD_paternal_autocrat_DEF: "The Kingdom of Sardinia" #NT!
+ SRD_national_populist: "Sardinian State" #NT!
+ SRD_national_populist_ADJ: "Sardinian" #NT!
+ SRD_national_populist_DEF: "The State of Sardinia" #NT!
+ SRD_valkist: "Stato della Sardegna" #NT!
+ SRD_valkist_ADJ: "Sardo" #NT!
+ SRD_valkist_DEF: "Lo stato della Sardegna" #NT!
+  
+ ### Corsica 
+ COR_vanguardist: "Socialist Republic of Corsica" #NT!
+ COR_vanguardist_ADJ: "Corsican" #NT!
+ COR_vanguardist_DEF: "The Socialist Republic of Corsica" #NT!
+ COR_collectivist: "Socialist Republic of Corsica" #NT!
+ COR_collectivist_ADJ: "Corsican" #NT!
+ COR_collectivist_DEF: "The Socialist Republic of Corsica" #NT!
+ COR_libertarian_socialist: "Corsica People’s Republic" #NT!
+ COR_libertarian_socialist_ADJ: "Corsican" #NT!
+ COR_libertarian_socialist_DEF: "The Corsica People’s Republic" #NT!
+ COR_social_democrat: "Republic of Corsica" #NT!
+ COR_social_democrat_ADJ: "Corsican" #NT!
+ COR_social_democrat_DEF: "The Republic of Corsica" #NT!
+ COR_social_liberal: "Republic of Corsica" #NT!
+ COR_social_liberal_ADJ: "Corsican" #NT!
+ COR_social_liberal_DEF: "The Republic of Corsica" #NT!
+ COR_market_liberal: "Republic of Corsica" #NT!
+ COR_market_liberal_ADJ: "Corsican" #NT!
+ COR_market_liberal_DEF: "The Republic of Corsica" #NT!
+ COR_social_conservative: "Republic of Corsica" #NT!
+ COR_social_conservative_ADJ: "Corsican" #NT!
+ COR_social_conservative_DEF: "The Republic of Corsica" #NT!
+ COR_authoritarian_democrat: "Republic of Corsica" #NT!
+ COR_authoritarian_democrat_ADJ: "Corsican" #NT!
+ COR_authoritarian_democrat_DEF: "The Republic of Corsica" #NT!
+ COR_paternal_autocrat: "Kingdom of Corsica" #NT!
+ COR_paternal_autocrat_ADJ: "Corsican" #NT!
+ COR_paternal_autocrat_DEF: "The Kingdom of Corsica" #NT!
+ COR_national_populist: "Corsican State" #NT!
+ COR_national_populist_ADJ: "Corsican" #NT!
+ COR_national_populist_DEF: "The State of Corsica" #NT!
+ COR_valkist: "Stato della Corsica" #NT!
+ COR_valkist_ADJ: "Corsican" #NT!
+ COR_valkist_DEF: "Lo stato della Corsica" #NT!
+  
+ ### Characters (FR Italy is old mk) 
+ LOM_Angelo_Filippetti: "Angelo Filippetti" #NT!
+ LOM_Giuseppe_De_Capitani_d_Arzago: "Giuseppe De Capitani d'Arzago" #NT!
+ LOM_Piero_Parini: "Piero Parini" #NT!
+ LOM_Pietro_Bucalossi: "Pietro Bucalossi" #NT!
+ LOM_Gian_Giacomo_Gallarati_Scotti: "Gian Giacomo Gallarati Scotti" #NT!
+ LOM_Emilio_Caldara: "Emilio Caldara" #NT!
+ NAP_Achille_Lauro: "Achille Lauro" #NT!
+ NAP_Maurizio_Valenzi: "Maurizio Valenzi" #NT!
+ PIE_Palmiro_Togliatti: "Palmiro Togliatti" #NT!
+ PIE_Pompeo_Colajanni: "Pompeo Colajanni" #NT!
+ SAR_Cesar_Campinchi: "César Campinchi" #NT!
+ SAR_Petru_Giovacchini: "Petru Giovacchini" #NT!
+ SIC_Andrea_Finocchiaro_Aprile: "Andrea Finocchiaro Aprile" #NT!
+ SIC_Antonio_Canepa: "Antonio Canepa" #NT!
+ SIC_Salvatore_Giulian: "Salvatore Giulian" #NT!
+ SIC_Concetto_Gallo: "Concetto Gallo" #NT!
+ SIC_Gabrielle_D_Annunzio: "Gabrielle D'Annunzio" #NT!
+ SIC_Antonino_Varvaro: "Antonino Varvaro" #NT!
+ SRV_Arnaldo_Azzi: "Arnaldo Azzi" #NT!
+ SRV_Giuseppe_Volpi: "Giuseppe Volpi" #NT!
+ SRV_Luigi_Gui: "Luigi Gui" #NT!
+ COR_Cesar_Campinchi: "César Campinchi" #NT!
+ COR_Petru_Giovacchini: "Petru Giovacchini" #NT!

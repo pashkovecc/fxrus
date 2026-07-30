@@ -1,0 +1,55 @@
+﻿l_russian:
+  
+ ### Country Names 
+ GDC_vanguardist: "Guangdong Clique" #NT!
+ GDC_vanguardist_ADJ: "Guangdong" #NT!
+ GDC_vanguardist_DEF: "the Guangdong Clique" #NT!
+ GDC_collectivist: "Guangdong Clique" #NT!
+ GDC_collectivist_ADJ: "Guangdong" #NT!
+ GDC_collectivist_DEF: "the Guangdong Clique" #NT!
+ GDC_libertarian_socialist: "Guangdong Clique" #NT!
+ GDC_libertarian_socialist_ADJ: "Guangdong" #NT!
+ GDC_libertarian_socialist_DEF: "the Guangdong Clique" #NT!
+ GDC_social_democrat: "Guangdong Clique" #NT!
+ GDC_social_democrat_ADJ: "Guangdong" #NT!
+ GDC_social_democrat_DEF: "the Guangdong Clique" #NT!
+ GDC_social_liberal: "Guangdong Clique" #NT!
+ GDC_social_liberal_ADJ: "Guangdong" #NT!
+ GDC_social_liberal_DEF: "the Guangdong Clique" #NT!
+ GDC_market_liberal: "Guangdong Clique" #NT!
+ GDC_market_liberal_ADJ: "Guangdong" #NT!
+ GDC_market_liberal_DEF: "the Guangdong Clique" #NT!
+ GDC_social_conservative: "Guangdong Clique" #NT!
+ GDC_social_conservative_ADJ: "Guangdong" #NT!
+ GDC_social_conservative_DEF: "the Guangdong Clique" #NT!
+ GDC_authoritarian_democrat: "Guangdong Clique" #NT!
+ GDC_authoritarian_democrat_ADJ: "Guangdong" #NT!
+ GDC_authoritarian_democrat_DEF: "the Guangdong Clique" #NT!
+ GDC_paternal_autocrat: "Guangdong Clique" #NT!
+ GDC_paternal_autocrat_ADJ: "Guangdong" #NT!
+ GDC_paternal_autocrat_DEF: "the Guangdong Clique" #NT!
+ GDC_national_populist: "Guangdong Clique" #NT!
+ GDC_national_populist_ADJ: "Guangdong" #NT!
+ GDC_national_populist_DEF: "the Guangdong Clique" #NT!
+ GDC_valkist: "Guangdong Clique" #NT!
+ GDC_valkist_ADJ: "Guangdong" #NT!
+ GDC_valkist_DEF: "the Guangdong Clique" #NT!
+  
+ ### DECISIONS ### 
+ GDC_war_decisions: "War decisions" #NT!
+ GDC_invade_tibet: "Invade Tibet" #NT!
+ GDC_invade_mongolia: "Invade Great Mongolian State" #NT!
+ GDC_invade_yunnan: "Invade Yunnan Clique" #NT!
+ GDC_invade_sichuan: "Invade Sichuan Clique" #NT!
+ GDC_invade_xinjiang: "Invade Xinjiang Clique" #NT!
+ GDC_invade_ma: "Invade Ma Clique" #NT!
+ GDC_invade_kuomintang: "Invade Kuomintang Government" #NT!
+ GDC_invade_zhili: "Invade Zhili Clique" #NT!
+ GDC_invade_fengtian: "Invade Fengtian Governancy" #NT!
+ GDC_invade_guominjun: "Invade Guominjun" #NT!
+ GDC_invade_shanxi: "Invade Shanxi Clique" #NT!
+ GDC_invade_guanxi: "Invade Guanxi Clique" #NT!
+ GDC_invade_national_revoliutionary_army: "Invade National Revoliutionary Army" #NT!
+ GDC_chinese_unification_decisions: "Chinese Unification Decisions" #NT!
+ GDC_claim_to_be_Beijing_government: "Proclaim the new Beijing Government" #NT!
+ GDC_unite_china: "Unite China" #NT!

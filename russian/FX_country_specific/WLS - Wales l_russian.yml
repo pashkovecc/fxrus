@@ -1,0 +1,60 @@
+﻿l_russian:
+  
+ ### Country Names 
+ WLS_vanguardist: "Wales" #NT!
+ WLS_vanguardist_ADJ: "Welsh" #NT!
+ WLS_vanguardist_DEF: "the Commune of Wales" #NT!
+ WLS_collectivist: "Wales" #NT!
+ WLS_collectivist_ADJ: "Welsh" #NT!
+ WLS_collectivist_DEF: "the Welsh Socialist Republic" #NT!
+ WLS_libertarian_socialist: "Wales" #NT!
+ WLS_libertarian_socialist_ADJ: "Welsh" #NT!
+ WLS_libertarian_socialist_DEF: "the Welsh Free Territory" #NT!
+ WLS_social_democrat: "Wales" #NT!
+ WLS_social_democrat_ADJ: "Welsh" #NT!
+ WLS_social_democrat_DEF: "the Republic of Wales" #NT!
+ WLS_social_liberal: "Wales" #NT!
+ WLS_social_liberal_ADJ: "Welsh" #NT!
+ WLS_social_liberal_DEF: "the Republic of Wales" #NT!
+ WLS_market_liberal: "Wales" #NT!
+ WLS_market_liberal_ADJ: "Welsh" #NT!
+ WLS_market_liberal_DEF: "the Republic of Wales" #NT!
+ WLS_social_conservative: "Wales" #NT!
+ WLS_social_conservative_ADJ: "Welsh" #NT!
+ WLS_social_conservative_DEF: "the Republic of Wales" #NT!
+ WLS_authoritarian_democrat: "Wales" #NT!
+ WLS_authoritarian_democrat_ADJ: "Welsh" #NT!
+ WLS_authoritarian_democrat_DEF: "the Republic of Wales" #NT!
+ WLS_paternal_autocrat: "Wales" #NT!
+ WLS_paternal_autocrat_ADJ: "Welsh" #NT!
+ WLS_paternal_autocrat_DEF: "the Republic of Wales" #NT!
+ WLS_national_populist: "Wales" #NT!
+ WLS_national_populist_ADJ: "Welsh" #NT!
+ WLS_national_populist_DEF: "the Republic of Wales" #NT!
+ WLS_valkist: "Wales" #NT!
+ WLS_valkist_ADJ: "Welsh" #NT!
+ WLS_valkist_DEF: "the Republic of Wales" #NT!
+  
+ ### Parties 
+ WLS_vanguardist_party: "CPGB" #NT!
+ WLS_vanguardist_party_long: "Communist Party of Great Britain - Welsh Branch" #NT!
+ WLS_collectivist_party: "CPGB" #NT!
+ WLS_collectivist_party_long: "Communist Party of Great Britain - Welsh Branch" #NT!
+ WLS_libertarian_socialist_party: "CPGB" #NT!
+ WLS_libertarian_socialist_party_long: "Communist Party of Great Britain - Welsh Branch" #NT!
+ WLS_social_democrat_party: "ILP" #NT!
+ WLS_social_democrat_party_long: "Independent Labour Party - Welsh Branch" #NT!
+ WLS_social_liberal_party: "PRN" #NT!
+ WLS_social_liberal_party_long: "Plaid Ryddfrydol Newydd\n§gNew Liberal Party§!" #NT!
+ WLS_market_liberal_party: "Liberal" #NT!
+ WLS_market_liberal_party_long: "Welsh Liberal Party" #NT!
+ WLS_social_conservative_party: "PC - Moderates" #NT!
+ WLS_social_conservative_party_long: "Plaid Cymru\n§gParty of Wales§!" #NT!
+ WLS_authoritarian_democrat_party: "PC - Radicals" #NT!
+ WLS_authoritarian_democrat_party_long: "Plaid Cymru\n§gParty of Wales§!" #NT!
+ WLS_paternal_autocrat_party: "WHRA" #NT!
+ WLS_paternal_autocrat_party_long: "Welsh Home Rule Army" #NT!
+ WLS_national_populist_party: "Fringe Ultranationalists" #NT!
+ WLS_national_populist_party_long: "Fringe Ultranationalists" #NT!
+ WLS_valkist_party: "Fringe Ultranationalists" #NT!
+ WLS_valkist_party_long: "Fringe Ultranationalists" #NT!

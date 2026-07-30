@@ -1,0 +1,39 @@
+﻿l_russian:
+  
+ ### Country Names 
+ TUN_vanguardist: "Tunisia" #NT!
+ TUN_vanguardist_ADJ: "Tunisian" #NT!
+ TUN_vanguardist_DEF: "the Union of Tunisia" #NT!
+ TUN_collectivist: "Tunisia" #NT!
+ TUN_collectivist_ADJ: "Tunisian" #NT!
+ TUN_collectivist_DEF: "the Workers State of Tunisia" #NT!
+ TUN_libertarian_socialist: "Tunisia" #NT!
+ TUN_libertarian_socialist_ADJ: "Tunisian" #NT!
+ TUN_libertarian_socialist_DEF: "the Socialist Republic of Tunisia" #NT!
+ TUN: "Тунис"
+ TUN_ADJ: "Тунисск"
+ TUN_DEF: "the State of Tunisia" #NT!
+  
+ ### Parties 
+ TUN_vanguardist_party: "Néo-Destour" #NT!
+ TUN_vanguardist_party_long: "Nouveau Parti libéral constitutionnel\n§gNew Constitutional Liberal Party§!" #NT!
+ TUN_collectivist_party: "CGTT" #NT!
+ TUN_collectivist_party_long: "Confédération Générale Des Travailleurs Tunisiens\n§gGeneral Confederation of Tunisian Workers§!" #NT!
+ TUN_libertarian_socialist_party: "CGTT" #NT!
+ TUN_libertarian_socialist_party_long: "Confédération Générale Des Travailleurs Tunisiens\n§gGeneral Confederation of Tunisian Workers§!" #NT!
+ TUN_social_democrat_party: "Fédération Tunisienne Socialiste" #NT!
+ TUN_social_democrat_party_long: "Fédération Tunisienne Socialiste\n§gTunisian Socialist Federation§!" #NT!
+ TUN_social_liberal_party: "Destour" #NT!
+ TUN_social_liberal_party_long: "Parti libéral constitutionnel\n§gConstitutional Liberal Party§!" #NT!
+ TUN_market_liberal_party: "JT" #NT!
+ TUN_market_liberal_party_long: "Jeunes Tunisiens\n§gYoung Tunisians§!" #NT!
+ TUN_social_conservative_party: "Grand Mufti of Tunis" #NT!
+ TUN_social_conservative_party_long: "Grand Mufti of Tunis" #NT!
+ TUN_authoritarian_democrat_party: "Destour" #NT!
+ TUN_authoritarian_democrat_party_long: "Parti libéral constitutionnel\n§gConstitutional Liberal Party§!" #NT!
+ TUN_paternal_autocrat_party: "Beylical Throne" #NT!
+ TUN_paternal_autocrat_party_long: "Beylical Throne" #NT!
+ TUN_national_populist_party: "Beylical Throne" #NT!
+ TUN_national_populist_party_long: "Beylical Throne" #NT!
+  
+ TUN_Ahmad_II: "Ahmad II" #NT!

@@ -1,0 +1,74 @@
+﻿l_russian:
+  
+ ### Country Names 
+ LIB_vanguardist: "Liberia" #NT!
+ LIB_vanguardist_ADJ: "Liberia" #NT!
+ LIB_vanguardist_DEF: "the Socialist Republic of Liberia" #NT!
+ LIB_collectivist: "Liberia" #NT!
+ LIB_collectivist_ADJ: "Liberia" #NT!
+ LIB_collectivist_DEF: "the Socialist Republic of Liberia" #NT!
+ LIB_libertarian_socialist: "Liberia" #NT!
+ LIB_libertarian_socialist_ADJ: "Liberia" #NT!
+ LIB_libertarian_socialist_DEF: "the Socialist Republic of Liberia" #NT!
+ LIB_social_democrat: "Liberia" #NT!
+ LIB_social_democrat_ADJ: "Liberia" #NT!
+ LIB_social_democrat_DEF: "the Republic of Liberia" #NT!
+ LIB_social_liberal: "Liberia" #NT!
+ LIB_social_liberal_ADJ: "Liberia" #NT!
+ LIB_social_liberal_DEF: "the Republic of Liberia" #NT!
+ LIB_market_liberal: "Liberia" #NT!
+ LIB_market_liberal_ADJ: "Liberia" #NT!
+ LIB_market_liberal_DEF: "the Republic of Liberia" #NT!
+ LIB_social_conservative: "Liberia" #NT!
+ LIB_social_conservative_ADJ: "Liberia" #NT!
+ LIB_social_conservative_DEF: "the Republic of Liberia" #NT!
+ LIB_authoritarian_democrat: "Liberia" #NT!
+ LIB_authoritarian_democrat_ADJ: "Liberia" #NT!
+ LIB_authoritarian_democrat_DEF: "the Republic of Liberia" #NT!
+ LIB_paternal_autocrat: "Liberia" #NT!
+ LIB_paternal_autocrat_ADJ: "Liberian" #NT!
+ LIB_paternal_autocrat_DEF: "the Republic of Liberia" #NT!
+ LIB_national_populist: "Liberia" #NT!
+ LIB_national_populist_ADJ: "Liberia" #NT!
+ LIB_national_populist_DEF: "the Republic of Liberia" #NT!
+ LIB_valkist: "Liberia" #NT!
+ LIB_valkist_ADJ: "Liberia" #NT!
+ LIB_valkist_DEF: "the Republic of Liberia" #NT!
+  
+ #### Political Parties #### 
+  
+ LIB_vanguardist_party: "-" #NT!
+ LIB_vanguardist_party_long: "-" #NT!
+ LIB_collectivist_party: "-" #NT!
+ LIB_collectivist_party_long: "-" #NT!
+ LIB_libertarian_socialist_party: "-" #NT!
+ LIB_libertarian_socialist_party_long: "-" #NT!
+ LIB_social_democrat_party: "PP" #NT!
+ LIB_social_democrat_party_long: "People's Party" #NT!
+ LIB_social_liberal_party: "TWP" #NT!
+ LIB_social_liberal_party_long: "True Whig Party\n§gAnthony Dashward Wilson§!" #NT!
+ LIB_market_liberal_party: "TWP" #NT!
+ LIB_market_liberal_party_long: "True Whig Party\n§gWilliam Tubman§!" #NT!
+ LIB_social_conservative_party: "TWP" #NT!
+ LIB_social_conservative_party_long: "True Whig Party\n§gEdwin Barclay§!" #NT!
+ LIB_authoritarian_democrat_party: "LFF" #NT!
+ LIB_authoritarian_democrat_party_long: "Liberian Frontier Force" #NT!
+ LIB_paternal_autocrat_party: "Firestone Corporation" #NT!
+ LIB_paternal_autocrat_party_long: "Firestone Corporation" #NT!
+ LIB_national_populist_party: "TWP" #NT!
+ LIB_national_populist_party_long: "True Whig Party" #NT!
+ LIB_valkist_party: "UNIA" #NT!
+ LIB_valkist_party_long: "Universal Negro Improvement Association" #NT!
+  
+ LIB_Edwin_Barclay: "Edwin Barclay" #NT!
+ LIB_Anthony_Dashward_Wilson: "Anthony Dashward Wilson" #NT!
+ LIB_Thomas_J_Faulkner: "Thomas J. Faulkner" #NT!
+ LIB_William_Tubman: "William Tubman" #NT!
+ LIB_Alford_Russ: "Alford Russ" #NT!
+ LIB_Harvey_S_Firestone: "Harvey S. Firestone" #NT!
+ LIB_Frank_E_Tolbert: "Frank E. Tolbert" #NT!
+ LIB_Garvey_I: "Garvey I" #NT!
+ LIB_Jenkins_Yancey: "Jenkins Yancey" #NT!
+ LIB_Wilson_Ballard: "Wilson Ballard" #NT!
+ LIB_Arthur_Brown: "Arthur Brown" #NT!
+ LIB_Richard_Newton: "Richard Newton" #NT!

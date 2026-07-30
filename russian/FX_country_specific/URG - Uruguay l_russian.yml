@@ -1,0 +1,60 @@
+﻿l_russian:
+  
+ ### Country Names 
+ URG_vanguardist: "Uruguay" #NT!
+ URG_vanguardist_ADJ: "Uruguayan" #NT!
+ URG_vanguardist_DEF: "the People's Republic of Uruguay" #NT!
+ URG_collectivist: "Uruguay" #NT!
+ URG_collectivist_ADJ: "Uruguayan" #NT!
+ URG_collectivist_DEF: "the People's Republic of Uruguay" #NT!
+ URG_libertarian_socialist: "Uruguay" #NT!
+ URG_libertarian_socialist_ADJ: "Uruguayan" #NT!
+ URG_libertarian_socialist_DEF: "the People's Republic of Uruguay" #NT!
+ URG_social_democrat: "Uruguay" #NT!
+ URG_social_democrat_ADJ: "Uruguayan" #NT!
+ URG_social_democrat_DEF: "the Republic of Uruguay" #NT!
+ URG_social_liberal: "Uruguay" #NT!
+ URG_social_liberal_ADJ: "Uruguayan" #NT!
+ URG_social_liberal_DEF: "the Republic of Uruguay" #NT!
+ URG_market_liberal: "Uruguay" #NT!
+ URG_market_liberal_ADJ: "Uruguayan" #NT!
+ URG_market_liberal_DEF: "the Republic of Uruguay" #NT!
+ URG_social_conservative: "Uruguay" #NT!
+ URG_social_conservative_ADJ: "Uruguayan" #NT!
+ URG_social_conservative_DEF: "the Republic of Uruguay" #NT!
+ URG_authoritarian_democrat: "Uruguay" #NT!
+ URG_authoritarian_democrat_ADJ: "Uruguayan" #NT!
+ URG_authoritarian_democrat_DEF: "the Republic of Uruguay" #NT!
+ URG_paternal_autocrat: "Uruguay" #NT!
+ URG_paternal_autocrat_ADJ: "Uruguayan" #NT!
+ URG_paternal_autocrat_DEF: "the State of Uruguay" #NT!
+ URG_national_populist: "Uruguay" #NT!
+ URG_national_populist_ADJ: "Uruguayan" #NT!
+ URG_national_populist_DEF: "the State of Uruguay" #NT!
+ URG_valkist: "Uruguay" #NT!
+ URG_valkist_ADJ: "Uruguayan" #NT!
+ URG_valkist_DEF: "the State of Uruguay" #NT!
+  
+ ### Parties 
+ URG_vanguardist_party: "URU" #NT!
+ URG_vanguardist_party_long: "Union Revolucionaria Uruguaia\n§gUruguayan Revolutionary Union§!" #NT!
+ URG_collectivist_party: "PSiU" #NT!
+ URG_collectivist_party_long: "Partido Sindicalista de Uruguay\n§gSyndicalist Party of Uruguay§!" #NT!
+ URG_libertarian_socialist_party: "PSU" #NT!
+ URG_libertarian_socialist_party_long: "Partido Socialista de Uruguay\n§gSocialist Party of Uruguay§!" #NT!
+ URG_social_democrat_party: "PC" #NT!
+ URG_social_democrat_party_long: "Partido Colorado\n§gRed Party§!" #NT!
+ URG_social_liberal_party: "PC" #NT!
+ URG_social_liberal_party_long: "Facción Centrista del Partido Colorado\n§gRed Party - Centrist Faction§!" #NT!
+ URG_market_liberal_party: "PN" #NT!
+ URG_market_liberal_party_long: "Facción Centrista del Partio Nacional\n§gNational Party - Centrist Faction§!" #NT!
+ URG_social_conservative_party: "PN" #NT!
+ URG_social_conservative_party_long: "Partido Nacional\n§gNational Party§!" #NT!
+ URG_authoritarian_democrat_party: "PNC" #NT!
+ URG_authoritarian_democrat_party_long: "Partido Nacional Independiente\n§gNational Independent Party§!" #NT!
+ URG_paternal_autocrat_party: "Administración Militar" #NT!
+ URG_paternal_autocrat_party_long: "Administración Militar\n§gMilitary Administration§!" #NT!
+ URG_national_populist_party: "Ultranacionalistas" #NT!
+ URG_national_populist_party_long: "Ultranacionalistas\n§gUltranationalists§!" #NT!
+ URG_Basilio_Munoz: "Basilio Muñoz" #NT!
+ URG_Alfredo_Baldomir_Ferrari: "Alfredo Baldomir Ferrari" #NT!

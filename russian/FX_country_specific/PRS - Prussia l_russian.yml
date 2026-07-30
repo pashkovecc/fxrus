@@ -1,0 +1,112 @@
+﻿l_russian:
+  
+ ### Country Names 
+ EPR: "East Prussia" #NT!
+ EPR_ADJ: "East Prussian" #NT!
+ EPR_DEF: "the Free State of East Prussia" #NT!
+  
+ PRS_vanguardist: "East German Union" #NT!
+ PRS_vanguardist_ADJ: "East German" #NT!
+ PRS_vanguardist_DEF: "the East German Union" #NT!
+ PRS_collectivist: "East German Union" #NT!
+ PRS_collectivist_ADJ: "East German" #NT!
+ PRS_collectivist_DEF: "the East German Union" #NT!
+ PRS_libertarian_socialist: "East German Union" #NT!
+ PRS_libertarian_socialist_ADJ: "East German" #NT!
+ PRS_libertarian_socialist_DEF: "the East German Union" #NT!
+ PRS_social_democrat: "Prussia" #NT!
+ PRS_social_democrat_ADJ: "Prussian" #NT!
+ PRS_social_democrat_DEF: "the Free State of Prussia" #NT!
+ PRS_social_liberal: "Prussia" #NT!
+ PRS_social_liberal_ADJ: "Prussian" #NT!
+ PRS_social_liberal_DEF: "the Free State of Prussia" #NT!
+ PRS_market_liberal: "Prussia" #NT!
+ PRS_market_liberal_ADJ: "Prussian" #NT!
+ PRS_market_liberal_DEF: "the Free State of Prussia" #NT!
+ PRS_social_conservative: "Prussia" #NT!
+ PRS_social_conservative_ADJ: "Prussian" #NT!
+ PRS_social_conservative_DEF: "the Free State of Prussia" #NT!
+ PRS_authoritarian_democrat: "Prussia" #NT!
+ PRS_authoritarian_democrat_ADJ: "Prussian" #NT!
+ PRS_authoritarian_democrat_DEF: "the Free State of Prussia" #NT!
+ PRS_paternal_autocrat: "Prussia" #NT!
+ PRS_paternal_autocrat_ADJ: "Prussian" #NT!
+ PRS_paternal_autocrat_DEF: "the Free State of Prussia" #NT!
+ PRS_national_populist: "Prussia" #NT!
+ PRS_national_populist_ADJ: "Prussian" #NT!
+ PRS_valkist: "Prussia" #NT!
+ PRS_valkist_ADJ: "Prussian" #NT!
+ PRS_valkist_DEF: "the Free State of Prussia" #NT!
+  
+ PRS_meme: "German Empire" #NT!
+ PRS_meme_ADJ: "German" #NT!
+ PRS_meme_DEF: "the German Empire" #NT!
+  
+ PRS_kingdom_vanguardist: "East German Union" #NT!
+ PRS_kingdom_vanguardist_ADJ: "East German" #NT!
+ PRS_kingdom_vanguardist_DEF: "the East German Union" #NT!
+ PRS_kingdom_collectivist: "East German Union" #NT!
+ PRS_kingdom_collectivist_ADJ: "East German" #NT!
+ PRS_kingdom_collectivist_DEF: "the East German Union" #NT!
+ PRS_kingdom_libertarian_socialist: "East German Union" #NT!
+ PRS_kingdom_libertarian_socialist_ADJ: "East German" #NT!
+ PRS_kingdom_libertarian_socialist_DEF: "the East German Union" #NT!
+ PRS_kingdom_social_democrat: "Prussia" #NT!
+ PRS_kingdom_social_democrat_ADJ: "Prussian" #NT!
+ PRS_kingdom_social_democrat_DEF: "the Kingdom of Prussia" #NT!
+ PRS_kingdom_social_liberal: "Prussia" #NT!
+ PRS_kingdom_social_liberal_ADJ: "Prussian" #NT!
+ PRS_kingdom_social_liberal_DEF: "the Kingdom of Prussia" #NT!
+ PRS_kingdom_market_liberal: "Prussia" #NT!
+ PRS_kingdom_market_liberal_ADJ: "Prussian" #NT!
+ PRS_kingdom_market_liberal_DEF: "the Kingdom of Prussia" #NT!
+ PRS_kingdom_social_conservative: "Prussia" #NT!
+ PRS_kingdom_social_conservative_ADJ: "Prussian" #NT!
+ PRS_kingdom_social_conservative_DEF: "the Kingdom of Prussia" #NT!
+ PRS_kingdom_authoritarian_democrat: "Prussia" #NT!
+ PRS_kingdom_authoritarian_democrat_ADJ: "Prussian" #NT!
+ PRS_kingdom_authoritarian_democrat_DEF: "the Kingdom of Prussia" #NT!
+ PRS_kingdom_paternal_autocrat: "Prussia" #NT!
+ PRS_kingdom_paternal_autocrat_ADJ: "Prussian" #NT!
+ PRS_kingdom_paternal_autocrat_DEF: "the Kingdom of Prussia" #NT!
+ PRS_kingdom_national_populist: "Prussia" #NT!
+ PRS_kingdom_national_populist_ADJ: "Prussian" #NT!
+ PRS_kingdom_national_populist_DEF: "the Kingdom of Prussia" #NT!
+ PRS_kingdom_valkist: "Prussia" #NT!
+ PRS_kingdom_valkist_ADJ: "Prussian" #NT!
+ PRS_kingdom_valkist_DEF: "the Kingdom of Prussia" #NT!
+  
+ PRS_vanguardist_party: "KPD" #NT!
+ PRS_vanguardist_party_long: "Kommunistische Partei Deutschlands - Ostdeutsche\n§gCommunist Party of Germany - East German§!" #NT!
+ PRS_collectivist_party: "KPD" #NT!
+ PRS_collectivist_party_long: "Kommunistische Partei Deutschlands - Ostdeutsche\n§gCommunist Party of Germany - East German§!" #NT!
+ PRS_libertarian_socialist_party: "KPD" #NT!
+ PRS_libertarian_socialist_party_long: "Kommunistische Partei Deutschlands - Ostdeutsche\n§gCommunist Party of Germany - East German§!" #NT!
+ PRS_social_democrat_party: "SPD" #NT!
+ PRS_social_democrat_party_long: "Sozialdemokratische Partei Deutschlands - Ostdeutsche\n§gSocial Democratic Party of Germany - East German§!" #NT!
+ PRS_social_liberal_party: "LDPD" #NT!
+ PRS_social_liberal_party_long: "Liberal-Demokratische Partei Deutschlands\n§gLiberal Democratic Party of Germany§!" #NT!
+ PRS_market_liberal_party: "LDPD" #NT!
+ PRS_market_liberal_party_long: "Liberal-Demokratische Partei Deutschlands\n§gLiberal Democratic Party of Germany§!" #NT!
+ PRS_social_conservative_party: "KVP" #NT!
+ PRS_social_conservative_party_long: "Konservative Volkspartei\n§gConservative People's Party§!" #NT!
+ PRS_authoritarian_democrat_party: "GVP" #NT!
+ PRS_authoritarian_democrat_party_long: "Gesamtdeutsche Volkspartei\n§gAll-German People's Party§!" #NT!
+ PRS_paternal_autocrat_party: "Militärregierung" #NT!
+ PRS_paternal_autocrat_party_long: "Militärregierung\n§gMilitary Government§!" #NT!
+ PRS_national_populist_party: "DvP" #NT!
+ PRS_national_populist_party_long: "Deutschvölkische Partei\n§gGerman Völkisch Party§!" #NT!
+ PRS_valkist_party: "VDF" #NT!
+ PRS_valkist_party_long: "Valkistischer Deutscher Frontkämpferblock\n§gValkist German Fighter's Front Bloc§!" #NT!
+  
+ ### Characters 
+ PRS_Joachim_von_Ostau: "Joachim von Ostau" #NT!
+ PRS_Hans_Joachim_Rohr: "Hansjoachim von Rohr" #NT!
+ PRS_Carl_Hubert_Schwennicke: "Carl-Hubert Schwennicke" #NT!
+ PRS_Hermann_Matern: "Hermann Matern" #NT!
+ PRS_Franz_Neumann: "Franz Neumann" #NT!
+ PRS_Andreas_Hermes: "Andreas Hermes" #NT!
+  
+ ### Opinion Modifiers 
+ PRU_revitalize_prussian_militarism: "Revitalized Prussian Militarism" #NT!
+ PRU_renounced_prussian_values: "Renounced Prussian Values" #NT!

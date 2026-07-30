@@ -1,0 +1,76 @@
+﻿l_russian:
+  
+ ### Country Names 
+ CEN_vanguardist: "Zapadoslav People's Republic" #NT!
+ CEN_vanguardist_ADJ: "Zapadoslav" #NT!
+ CEN_vanguardist_DEF: "The People's Republic of Zapadoslavia" #NT!
+ CEN_collectivist: "Zapadoslav People's Republic" #NT!
+ CEN_collectivist_ADJ: "Centroslav" #NT!
+ CEN_collectivist_DEF: "The People's Republic of Zapadoslavia" #NT!
+ CEN_libertarian_socialist: "Zapadoslav People's Republic" #NT!
+ CEN_libertarian_socialist_ADJ: "Zapadoslav" #NT!
+ CEN_libertarian_socialist_DEF: "The Socialist Republic of Zapadoslavia" #NT!
+ CEN_social_democrat: "Republic of Zapadoslavia" #NT!
+ CEN_social_democrat_ADJ: "Zapadoslav" #NT!
+ CEN_social_democrat_DEF: "The Republic of Zapadoslavia" #NT!
+ CEN_social_liberal: "Zapadoslavia" #NT!
+ CEN_social_liberal_ADJ: "Zapadoslav" #NT!
+ CEN_social_liberal_DEF: "Zapadoslavia" #NT!
+ CEN_market_liberal: "Zapadoslavia" #NT!
+ CEN_market_liberal_ADJ: "Zapadoslav" #NT!
+ CEN_market_liberal_DEF: "The Republic of Zapadoslavia" #NT!
+ CEN_social_conservative: "Zapadoslavia" #NT!
+ CEN_social_conservative_ADJ: "Zapadoslav" #NT!
+ CEN_social_conservative_DEF: "Zapadoslavia" #NT!
+ CEN_authoritarian_democrat: "Zapadoslavia" #NT!
+ CEN_authoritarian_democrat_ADJ: "Zapadoslav" #NT!
+ CEN_authoritarian_democrat_DEF: "Zapadoslavia" #NT!
+ CEN_paternal_autocrat: "Zapadoslav Republic" #NT!
+ CEN_paternal_autocrat_ADJ: "Zapadoslav" #NT!
+ CEN_paternal_autocrat_DEF: "The Republic of Zapadoslavia" #NT!
+ CEN_national_populist: "Zapadoslav State" #NT!
+ CEN_national_populist_ADJ: "Zapadoslav" #NT!
+ CEN_national_populist_DEF: "The Zapadoslav State" #NT!
+ CEN_valkist: "Slavic Empire" #NT!
+ CEN_valkist_ADJ: "Slavic" #NT!
+ CEN_valkist_DEF: "The Slavic Empire" #NT!
+  
+ CEN_PAN_vanguardist: "Panslavic People's Republic" #NT!
+ CEN_PAN_vanguardist_ADJ: "Panslavic" #NT!
+ CEN_PAN_vanguardist_DEF: "The People's Republic of Panslavia" #NT!
+ CEN_PAN_collectivist: "Panslavic People's Republic" #NT!
+ CEN_PAN_collectivist_ADJ: "Panslavic" #NT!
+ CEN_PAN_collectivist_DEF: "The People's Republic of Panslavia" #NT!
+ CEN_PAN_libertarian_socialist: "Panslavic People's Republic" #NT!
+ CEN_PAN_libertarian_socialist_ADJ: "Panslavic" #NT!
+ CEN_PAN_libertarian_socialist_DEF: "The Socialist Republic of Panslavia" #NT!
+ CEN_PAN_social_democrat: "Republic of Panslavia" #NT!
+ CEN_PAN_social_democrat_ADJ: "Panslavic" #NT!
+ CEN_PAN_social_democrat_DEF: "The Republic of Panslavia" #NT!
+ CEN_PAN_social_liberal: "Panslavia" #NT!
+ CEN_PAN_social_liberal_ADJ: "Panslavic" #NT!
+ CEN_PAN_social_liberal_DEF: "Panslavia" #NT!
+ CEN_PAN_market_liberal: "Panslavia" #NT!
+ CEN_PAN_market_liberal_ADJ: "Panslavic" #NT!
+ CEN_PAN_market_liberal_DEF: "The Republic of Panslavia" #NT!
+ CEN_PAN_social_conservative: "Panslavia" #NT!
+ CEN_PAN_social_conservative_ADJ: "Panslavic" #NT!
+ CEN_PAN_social_conservative_DEF: "Panslavia" #NT!
+ CEN_PAN_authoritarian_democrat: "Panslavia" #NT!
+ CEN_PAN_authoritarian_democrat_ADJ: "Panslavic" #NT!
+ CEN_PAN_authoritarian_democrat_DEF: "Panslavia" #NT!
+ CEN_PAN_paternal_autocrat: "Panslav Republic" #NT!
+ CEN_PAN_paternal_autocrat_ADJ: "Panslavic" #NT!
+ CEN_PAN_paternal_autocrat_DEF: "The Republic of Panslavia" #NT!
+ CEN_PAN_national_populist: "Panslav State" #NT!
+ CEN_PAN_national_populist_ADJ: "Panslavic" #NT!
+ CEN_PAN_national_populist_DEF: "The Panslav State" #NT!
+ CEN_PAN_valkist: "Svaz Slovanů" #NT!
+ CEN_PAN_valkist_ADJ: "Slovanský" #NT!
+ CEN_PAN_valkist_DEF: "Svaz Slovanů" #NT!
+  
+ ### Ideas 
+ CEN_black_wednesday: "London Stock Market Collapse" #NT!
+ CEN_black_wednesday_less_bad: "London Stock Market Collapse" #NT!
+  
+ CEN_Emil_Hacha: "Emil Hácha" #NT!

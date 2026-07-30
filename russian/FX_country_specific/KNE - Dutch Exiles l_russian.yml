@@ -1,0 +1,114 @@
+﻿l_russian:
+  
+ ### Country Names 
+ KNE: "Kingdom of the Netherlands" #NT!
+ KNE_ADJ: "Royalist Dutch" #NT!
+ KNE_DEF: "the Kingdom of the Netherlands" #NT!
+  
+ ### Parties 
+ KNE_vanguardist_party: "RF" #NT!
+ KNE_vanguardist_party_long: "Revolutionair Front\n§gRevolutionary Front§!" #NT!
+ KNE_collectivist_party: "VVA" #NT!
+ KNE_collectivist_party_long: "Volkspartij voor Agrariërs\n§gPeople's Party for Farmers§!" #NT!
+ KNE_libertarian_socialist_party: "AP" #NT!
+ KNE_libertarian_socialist_party_long: "Anarchistische partij\n§gAnarchist Party§!" #NT!
+ KNE_social_democrat_party: "SDAP" #NT!
+ KNE_social_democrat_party_long: "Sociaal-Democratische Arbeiderspartij\n§gSocial Democratic Workers' Party§!" #NT!
+ KNE_social_liberal_party: "VDB" #NT!
+ KNE_social_liberal_party_long: "Vrijzinnig Democratische Bond\n§gFree-thinking Democratic League§!" #NT!
+ KNE_market_liberal_party: "LSP" #NT!
+ KNE_market_liberal_party_long: "Liberale Staatspartij\n§gLiberal State Party§!" #NT!
+ KNE_social_conservative_party: "ARP" #NT!
+ KNE_social_conservative_party_long: "Anti-Revolutionaire Partij\n§gAnti-Revolutionary Party§!" #NT!
+ KNE_authoritarian_democrat_party: "RKSP" #NT!
+ KNE_authoritarian_democrat_party_long: "Roomsch-Katholieke Staatspartij\n§gRoman-Catholic State Party§!" #NT!
+ KNE_paternal_autocrat_party: "MP" #NT!
+ KNE_paternal_autocrat_party_long: "Monarchistische Partij\n§gMonarchist Party§!" #NT!
+ KNE_national_populist_party: "NPU" #NT!
+ KNE_national_populist_party_long: "Nederlandse Partij voor Unificatie\n§gDutch Party for Unification§!" #NT!
+ KNE_valkist_party: "PVV" #NT!
+ KNE_valkist_party_long: "Partij Voor 't Vaoderland\n§gParty for the Fatherland§!" #NT!
+  
+ KNE_junta_party: "MR" #NT!
+ KNE_junta_party_long: "Militaire Regering\n§gMilitary Government§!" #NT!
+  
+ KNE_short_vanguardist: "Netherlands" #NT!
+ KNE_short_vanguardist_ADJ: "Dutch" #NT!
+ KNE_short_vanguardist_DEF: "the Kingdom of the Netherlands" #NT!
+ KNE_short_collectivist: "Netherlands" #NT!
+ KNE_short_collectivist_ADJ: "Dutch" #NT!
+ KNE_short_collectivist_DEF: "the Kingdom of the Netherlands" #NT!
+ KNE_short_libertarian_socialist: "Netherlands" #NT!
+ KNE_short_libertarian_socialist_ADJ: "Dutch" #NT!
+ KNE_short_libertarian_socialist_DEF: "the Kingdom of the Netherlands" #NT!
+ KNE_short_social_democrat: "Netherlands" #NT!
+ KNE_short_social_democrat_ADJ: "Dutch" #NT!
+ KNE_short_social_democrat_DEF: "the Kingdom of the Netherlands" #NT!
+ KNE_short_social_liberal: "Netherlands" #NT!
+ KNE_short_social_liberal_ADJ: "Dutch" #NT!
+ KNE_short_social_liberal_DEF: "the Kingdom of the Netherlands" #NT!
+ KNE_short_market_liberal: "Netherlands" #NT!
+ KNE_short_market_liberal_ADJ: "Dutch" #NT!
+ KNE_short_market_liberal_DEF: "the Kingdom of the Netherlands" #NT!
+ KNE_short_social_conservative: "Netherlands" #NT!
+ KNE_short_social_conservative_ADJ: "Dutch" #NT!
+ KNE_short_social_conservative_DEF: "the Kingdom of the Netherlands" #NT!
+ KNE_short_authoritarian_democrat: "Netherlands" #NT!
+ KNE_short_authoritarian_democrat_ADJ: "Dutch" #NT!
+ KNE_short_authoritarian_democrat_DEF: "the Kingdom of the Netherlands" #NT!
+ KNE_short_paternal_autocrat: "Netherlands" #NT!
+ KNE_short_paternal_autocrat_ADJ: "Dutch" #NT!
+ KNE_short_paternal_autocrat_DEF: "the Kingdom of the Netherlands" #NT!
+ KNE_short_national_populist: "Netherlands" #NT!
+ KNE_short_national_populist_ADJ: "Dutch" #NT!
+ KNE_short_national_populist_DEF: "the Kingdom of the Netherlands" #NT!
+ KNE_short_valkist: "Netherlands" #NT!
+ KNE_short_valkist_ADJ: "Dutch" #NT!
+ KNE_short_valkist_DEF: "the Kingdom of the Netherlands" #NT!
+  
+ ### Ideas 
+ KNE_military_refugees: "Military Refugees" #NT!
+ KNE_military_refugees_desc: "A large part of the military fled the Netherlands to come to Suriname in refuge. Because of this we have a lot of capable soldiers who are willing to retake the homeland." #NT!
+  
+ ### Decisions 
+ KNE_join_entente: "Join the [From.GetFactionName]" #NT!
+ KNE_join_entente_desc: "In order to return to our home, we must align ourselves with France and defeat the illegitimate government in Amsterdam that is allied to Germany." #NT!
+ KNE_invest_in_the_exiles: "Invest in [From.GetName]" #NT!
+ KNE_return_of_the_queen: "Return of the Queen" #NT!
+ KNE_return_of_the_queen_desc: "Amsterdam is now back in our hands, the capital and very heart of the Dutch Empire! At long last, we can restore the Kingdom of the Netherlands and the monarchy!" #NT!
+  
+ ### Events 
+ dutchexiles.100.t: "[From.GetName] Requests Membership in the [Root.GetFactionName]" #NT!
+ dutchexiles.100.d: "The exiled government of the [KNE.GetNameDef] have requested to enter our military alliance. It seems that they are determined to return to their home country; and return [KNE.GetLeader] to her rightful place." #NT!
+ dutchexiles.100.a: "They are most welcome..." #NT!
+ dutchexiles.100.b: "They cannot be trusted." #NT!
+ dutchexiles.101.t: "[From.GetName] Rejects our Entry" #NT!
+ dutchexiles.101.d: "It seems our chance in recovering the home country from the nationalist rebels that took over it has blown off. The [From.GetAdjective] Government have refused our entry into their faction; effectively cuting us from the peace deals that may occur after the war." #NT!
+ dutchexiles.101.a: "All is not lost..." #NT!
+ dutchexiles.102.t: "Investments from [From.GetName]" #NT!
+ dutchexiles.102.d: "To bolster our war effort; the government of the [From.GetName] have provided investments in our economy. Giving us the necessary resources to increase production for the war effort." #NT!
+ dutchexiles.102.a: "Their help is most appreciated." #NT!
+ dutchexiles.103.t: "Reclamation of the Homeland" #NT!
+ dutchexiles.103.d: "We have successfully reclaimed our homeland." #NT!
+ dutchexiles.103.a: "God Save the Queen!" #NT!
+ dutchexiles.104.t: "Reclamation?" #NT!
+ dutchexiles.104.d: "Through a miraculous turn of events, the old German puppet government that once ruled has now been overturned. In its place, loyalists of Queen Wilhelmina have taken hold in the Netherlands and now graciously await her Majesty's return to the homeland.\n\nHowever, there are some fears that this will prompt a German intervention, forcing us to be on-guard for a German intervention. Additionally, the socialist government that is ruling has been forced out on the demands of the loyalists back home, who view them as part of the reason this whole mess occured in the first place." #NT!
+ dutchexiles.104.a: "God Save the Queen!" #NT!
+  
+ KNE_Wilhelmina_van_Orange_Nassau: "Wilhelmina" #NT!
+ KNE_Henri_Winkelman: "Henri Winkelman" #NT!
+ KNE_Jan_van_Andel: "Jan van Andel" #NT!
+ KNE_Gustave_Statius_Muller: "Gustave Statius-Muller" #NT!
+ KNE_Gerardus_Johannes_Berenschot: "Gerardus Johannes Berenschot" #NT!
+ KNE_Petrus_Wilhelmus_Best: "Petrus Wilhelmus Best" #NT!
+ KNE_Murk_Boerstra: "Murk Boerstra" #NT!
+ KNE_Willem_Hackstroh: "Willem Hackstroh" #NT!
+ KNE_Jakob_Harberts: "Jakob Harberts" #NT!
+ KNE_Jan_van_Dulm: "Jan van Dulm" #NT!
+ KNE_Maarten_van_Dulm: "Maarten van Dulm" #NT!
+ KNE_Willem_Jan_Kruys: "Willem Jan Kruys" #NT!
+ KNE_Albertus_Samuel_Pinke: "Albertus Samuel Pinke" #NT!
+ KNE_Willem_Drees: "Willem Drees" #NT!
+ KNE_Charles_Guillaume_Cramer: "Charles Guillaume Cramer" #NT!
+ KNE_Jacob_van_Gelderen: "Jacob van Gelderen" #NT!
+ KNE_Jan_Bergmeijer: "Jan Bergmeijer" #NT!

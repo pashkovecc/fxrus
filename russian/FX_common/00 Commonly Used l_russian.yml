@@ -1,0 +1,962 @@
+﻿l_russian:
+  
+ # Effects 
+ tooltip_white_line: "   \n" #NT!
+ tooltip_line_break: "\n" #NT!
+ tooltip_line_break_2: "$tooltip_line_break$$tooltip_line_break$" #NT!
+  
+ elections_in_one_months: "§HElections will be held in one month§!" #NT!
+ elections_in_three_months: "§HElections will be held in three months§!" #NT!
+  
+ characters_will_be_retired: "§RThe following characters will be retired:§!" #NT!
+ characters_will_be_recruited: "§GThe following characters will be recruited:§!" #NT!
+ character_becomes_a_general: "(Skill [?skill_level]) becomes a General.\nAttributes: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]" #NT!
+ character_becomes_a_general_bound: "(Skill $SKILL$) becomes a General.\nAttributes: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$" #NT!
+ character_becomes_a_field_marshal: "(Skill [?skill_level]) becomes a Field Marshal.\nAttributes: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]" #NT!
+ character_becomes_a_field_marshal_bound: "(Skill $SKILL$) becomes a Field Marshal.\nAttributes: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$" #NT!
+ character_becomes_a_naval_commander: "(Skill [?skill_level]) becomes a naval commander.\nAttributes: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]" #NT!
+ character_becomes_a_naval_commander_bound: "(Skill $SKILL$) becomes a naval commander.\nAttributes: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$" #NT!
+  
+ unlock_focuses: "§GThis focus will eventually be automatically bypassed and will unlock the other focuses§!" #NT!
+ tooltip_focus_unlocked_by_event: "§GThis focus will be automatically unlocked via event§!" #NT!
+ enables_new_focus_branches: "§GEnables new focus branches.§!" #NT!
+ unlocks_new_focuses: "§GNew national focuses will be unlocked.§!" #NT!
+  
+ merge_national_spirits: "The previously gained §YNational Spirits§! will be merged into a §Gmore powerful§! one!" #NT!
+ merge_national_spirits_new: "This will merge several §YNational Spirits§! into one stronger §YNational Spirit!§!\n\n" #NT!
+ apply_one_of_effects_depending_on_ruling_party: "§gApply one of the following effects depending on our current ruling party:§!" #NT!
+  
+ will_get_event_with_effects: "\n§YEffects on [This.GetName]:§!" #NT!
+ immediate_effect_upon_focus_start: "§YImmediate effect upon focus start:§!\n" #NT!
+ effect_upon_focus_completion: "\n§GEffect upon focus completion:§!\n" #NT!
+ apply_one_of_effects_depending_on_ideas: "§gApply one of the following effects depending on our current National Spirits:§!" #NT!
+ apply_one_of_effects_depending_on_event_choice: "§gApply one of the following effects depending on our choice in a previous Event:§!" #NT!
+ event_choice_tt: "§CEvent Choice§!: " #NT!
+ has_completed_focus: "Has completed focus §H" #NT!
+ gets_event_start: "Gets event '§H" #NT!
+ gets_event_end: "§!'." #NT!
+ while_mission_is_active: "§YWhile this mission is active:§!\n" #NT!
+ upgrade_effect_tooltip: "§CThe previous national spirits will be merged into a new more powerful one.§!" #NT!
+ focus_effect_varies: "Focus reward depends on what prerequesite focus taken" #NT!
+  
+ increase_state_category_by_one_level_tt: "This provides §G1§! additional base building slot.\n" #NT!
+ increase_state_category_by_two_levels_tt: "This provides §G2§! additional base building slots.\n" #NT!
+ decrease_state_category_by_one_level_tt: "This §Rremoves§! a building slot from the state.\n" #NT!
+  
+ has_completed_decision: "Has completed decision £decision_icon_small $DECISION|H$" #NT!
+ has_completed_decision_NOT: "Has not completed decision £decision_icon_small $DECISION|H$" #NT!
+  
+ has_completed_decision_in_focus: "$has_completed_decision$ in focus $FOCUS|H$" #NT!
+ has_completed_decision_in_focus_NOT: "$has_completed_decision_NOT$ in focus $FOCUS|H$" #NT!
+  
+ has_completed_decision_in_focus_2: "$has_completed_decision$ in focus $FOCUS|H$ or focus $FOCUS_2|H$" #NT!
+ has_completed_decision_in_focus_2_NOT: "$has_completed_decision_NOT$ in focus $FOCUS|H$ or focus $FOCUS_2|H$" #NT!
+  
+ tooltip_unlock_decisions_to: "Unlocks $NAME|Y$ decisions to $EFFECT$." #NT!
+  
+ tooltip_create_division_template: "Create $NAME|Y$ template, which has the following composition:$LINE_1$$LINE_2$$LINE_3$$LINE_4$$LINE_5$$LINE_6$$LINE_7$$LINE_8$$LINE_9$$LINE_10$$SUPPORT_1$$SUPPORT_2$$SUPPORT_3$$SUPPORT_4$$SUPPORT_5$[GetTemplateDeletionWarning]" #NT!
+ division_template_deletion_warning: "\nAny existing templates with the same name will be §Rdisbanded§!, refunding all manpower and equipment." #NT!
+ line_battalion_tt: "\n£indent £$ICON$ §Y$COUNT$ $NAME$§! line battalions" #NT!
+ support_battalion_tt: "\n£indent £$ICON$ §Y$NAME$§!" #NT!
+  
+ # Tooltips 
+ kill_character_tt: "dies." #NT!
+  
+ is_economic_minister_tt: "is the §YEconomic Minister§!" #NT!
+ is_economic_minister_tt_NOT: "is §rnot§! the §YEconomic Minister§!" #NT!
+  
+ is_foreign_minister_tt: "is the §CForeign Minister§!" #NT!
+ is_foreign_minister_tt_NOT: "is §rnot§! the §CForeign Minister§!" #NT!
+  
+ is_security_minister_tt: "is the §LSecurity Minister§!" #NT!
+ is_security_minister_tt_NOT: "is §rnot§! the §LSecurity Minister§!" #NT!
+  
+ is_head_of_government_tt: "is the §SHead of Government§!" #NT!
+ is_head_of_government_tt_NOT: "is §rnot§! the §SHead of Government§!" #NT!
+  
+ opinion_based_chance_tt: "§g§H[THIS.GetNameDefCap]§!'s likelihood of agreeing is based on their §WOpinion§! of §H[ROOT.GetNameDef]§!.§!" #NT!
+  
+ option_decision_tt: "§GThis option is available because of a §YDecision§! we took§!." #NT!
+ option_focus_tt: "§GThis option is available because of a §YNational Focus§! we completed§!." #NT!
+ option_idea_tt: "§GThis option is available because of one of our §YIdeas§!§!." #NT!
+ option_ideology_tt: "§GThis option is available because of our §YRuling Party§!§!." #NT!
+  
+ option_leader_tt: "§GThis option is available because of our §YCountry Leader§!§!." #NT!
+ option_head_of_government_tt: "§GThis option is available because of our §YHead of Government§!§!." #NT!
+ option_minister_foreign_tt: "§GThis option is available because of our §YForeign Minister§!§!." #NT!
+ option_minister_economic_tt: "§GThis option is available because of our §YEconomic Minister§!§!." #NT!
+ option_minister_security_tt: "§GThis option is available because of our §YSecurity Minister§!§!." #NT!
+  
+ # Ideas 
+ after_idea_expires: "After the National Spirit expires:" #NT!
+  
+ # Modifier Tooltips 
+ cannot_enact_conscription_tt: "§RCannot increase conscription laws.§!" #NT!
+ cannot_train_units_tt: "§RCannot train units, disband units, or edit unit templates.§!" #NT!
+ cannot_mobilise_tt: "§RCannot increase conscription or mobilisation laws.§!" #NT!
+ cannot_build_armour_tt: "§RCannot produce armour.§!" #NT!
+ cannot_build_aircraft_tt: "§RCannot produce aircraft.§!" #NT!
+ cannot_build_ships_tt: "§RCannot produce ships.§!" #NT!
+ cannot_build_armor_aircraft_tt: "§RCannot produce armour or aircraft.§!" #NT!
+ cannot_build_armor_ships_tt: "§RCannot produce armour or ships.§!" #NT!
+ cannot_build_aircraft_ships_tt: "§RCannot produce aircraft or ships.§!" #NT!
+ cannot_build_anything_tt: "§RCannot produce armour, aircraft or ships.§!" #NT!
+ cannot_produce_armor_and_aircraft: "§RCannot produce armor or aircraft.§!" #NT!
+ closed_economy_TT: "Никакие ресурсы экспортироваться не будут.\n\n"
+  
+  
+ volunteer_limit_plus_three_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?3|+=0]" #NT!
+ volunteer_limit_plus_two_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?2|+=0]" #NT!
+ volunteer_limit_plus_one_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?1|+=0]" #NT!
+ volunteer_limit_plus_fifty_percent_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?0.5|+=%1]" #NT!
+ volunteer_limit_plus_hundred_percent_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?0.1|+=%1]" #NT!
+  
+ # Custom Modifiers 
+ offmap_military_factories_tooltip: "Offmap Military Factories" #NT!
+ offmap_civilian_factories_tooltip: "Offmap Civilian Factories" #NT!
+ offmap_dockyards_tooltip: "Offmap Dockyards" #NT!
+ daily_popularity_drift: "Daily Ruling Party Support" #NT!
+ daily_non_ruling_popularity_drift: "Daily Non-Ruling Party Support" #NT!
+ cic_from_target_factor_tooltip: "Civilian industry from target country" #NT!
+ mic_from_target_factor_tooltip: "Military industry from target country" #NT!
+  
+  
+ ### Bindable Localisation ### 
+ tooltip_unlock_focus: "Unlocks the national focus $FOCUS|Y$." #NT!
+ tooltip_unlock_two_focuses: "Unlocks the national focuses $FOCUS1|Y$ and $FOCUS2|Y$." #NT!
+ tooltip_if_focus_completed: "§CIf $FOCUS|Y$ was completed:§!" #NT!
+ tooltip_if_focus_not_completed: "§CIf $FOCUS|Y$ was §RNOT§! completed:§!" #NT!
+ tooltip_if_two_foci_completed: "§CIf $FOCUS1|Y$ or $FOCUS2|Y$ were completed:§!" #NT!
+ tooltip_if_two_foci_not_completed: "§CIf $FOCUS1|Y$ and $FOCUS2|Y$ were §RNOT§! completed:§!" #NT!
+ tooltip_extra_effect_from_focus_completion: "§CExtra Effect from completion of $FOCUS|Y$:§!" #NT!
+ tooltip_if_country_completed_focus: "§CIf $COUNTRY|Y$ has completed $FOCUS|Y$:§!" #NT!
+ tooltip_if_country_not_completed_focus: "§CIf $COUNTRY|Y$ has §RNOT§! completed $FOCUS|Y$:§!" #NT!
+  
+ tooltip_has_national_spirit: "Has national spirit $IDEA|Y$" #NT!
+ tooltip_has_national_spirit_NOT: "Does not have national spirit $IDEA|Y$" #NT!
+  
+ tooltip_if_national_spirit_is_active: "§CIf $IDEA|Y$ is currently active:§!" #NT!
+ tooltip_available_if_not_at_war_with: "§CAvailable only if we are §Rnot§! at war with $COUNTRY|Y$.§!" #NT!
+  
+ tooltip_change_law_to: "Change $CATEGORY$ to '$LAW|Y$' which grants:" #NT!
+  
+ tooltip_if_political_advisor_is_hired: "§CIf $ADVISOR|Y$ is hired as a §YPolitical Advisor§!:§!" #NT!
+ tooltip_improves_advisor_trait: "§GImproves§! the trait of $ADVISOR|Y$:" #NT!
+ tooltip_disable_political_advisor: "§R$ADVISOR|Y$ will no longer be available as a §YPolitical Advisor§!§!" #NT!
+  
+ tooltip_has_tech: "Has researched $TECH|Y$" #NT!
+ tooltip_has_tech_detailed: "Has researched $NAME|Y$ ($TECH|Y$)" #NT!
+ tooltip_add_tech: "Add technology: $TECH|Y$." #NT!
+ tooltip_add_tech_detailed: "Add technology: $NAME|Y$ ($TECH|Y$)." #NT!
+ tooltip_enable_hidden_tech: "Enables $TECH|Y$\n$EFFECT$" #NT!
+  
+ tooltip_add_dynmod: "Add $DYNMOD|Y$ which grants:" #NT!
+  
+ tooltip_modify_dynmod: "Modify $DYNMOD|Y$ by" #NT!
+ tooltip_modify_two_dynmods: "Modify $DYNMOD1|Y$ or $DYNMOD2|Y$ by" #NT!
+ tooltip_modify_three_dynmods: "Modify $DYNMOD1|Y$, $DYNMOD2|Y$ or $DYNMOD3|Y$ by" #NT!
+ tooltip_modify_four_dynmods: "Modify $DYNMOD1|Y$, $DYNMOD2|Y$, $DYNMOD3|Y$ or $DYNMOD4|Y$ by" #NT!
+  
+ tooltip_enable_spirit: "Enables $IDEA|Y$ as our $SPIRIT|Y$ which gives the following effects:\n  $MODIFIER$" #NT!
+  
+ tooltip_spawn_units: "Create $COUNT|Y$ $TYPE|Y$ divisions.\n" #NT!
+ tooltip_spawn_unit: "Create a $TYPE|Y$ division.\n" #NT!
+  
+ tooltip_yellow_text: "$TEXT|Y$" #NT!
+ tooltip_red_text: "$TEXT|R$" #NT!
+ tooltip_green_text: "$TEXT|E$" #NT!
+  
+ tooltip_in_days: "In $DAYS|Y0$ days:" #NT!
+ tooltip_after_days: "After $DAYS|Y0$ days:" #NT!
+  
+ tooltip_available_scientist: "$CHARACTER|Y$ becomes available as a §GScientist§!." #NT!
+  
+ mission_will_have: "We will begin a mission, which we have $DAYS|Y$ days to complete by doing the following:" #NT!
+  
+ stability_weekly_tt: " $MODIFIER_STABILITY_WEEKLY$: $RIGHT|+=%1$" #NT!
+ war_support_weekly_tt: " $MODIFIER_WAR_SUPPORT_WEEKLY$: $RIGHT|+=%1$" #NT!
+ industry_repair_factor_tt: " $MODIFIER_INDUSTRY_REPAIR_FACTOR$: $RIGHT|+=%1$"
+ cic_construction_boost_tt: " $MODIFIER_CIC_CONSTRUCTION_BOOST$: $RIGHT|+=%1$" #NT!
+  
+ # Companies - MIOs 
+  
+ improves_designer_tt: "§GImproves§! §YDesign Company§!:" #NT!
+ improves_industrial_concern_tt: "§GImproves§! §YIndustrial Concern§!:" #NT!
+ improves_mio_tt: "§GImproves§! §YIndustrial Military Organization§!:" #NT!
+ immediately_activate_tt: "and immediately activates it." #NT!
+  
+ add_equipment_to_stockpile_tt: "$UNITS|Y$ units of $EQUIPMENT|Y$ is added to the national stockpile." #NT!
+  
+ MIO_more_than_X_funds: "§Y[THIS.GetName]§! has at least $FUNDS$ §YFunds§!" #NT!
+  
+ # Government 
+ FX_approves_of_govt: "Approves of Government" #NT!
+ FX_disapproves_of_govt: "Disapproves of Government" #NT!
+  
+ # Custom Cost Tooltips (for decisions) 
+ # Command Power 
+ CP_5: "£command_power §H5§!" #NT!
+ CP_5_blocked: "£command_power §R5§!" #NT!
+ CP_5_tooltip: "It costs $CP_5_blocked$ to take the decision" #NT!
+ CP_10: "£command_power §H10§!" #NT!
+ CP_10_blocked: "£command_power §R10§!" #NT!
+ CP_10_tooltip: "It costs $CP_10_blocked$ to take the decision" #NT!
+ CP_15: "£command_power §H15§!" #NT!
+ CP_15_blocked: "£command_power §R15§!" #NT!
+ CP_15_tooltip: "It costs $CP_15_blocked$ to take the decision" #NT!
+ CP_20: "£command_power §H20§!" #NT!
+ CP_20_blocked: "£command_power §R20§!" #NT!
+ CP_20_tooltip: "It costs $CP_20_blocked$ to take the decision" #NT!
+ CP_25: "£command_power §H25§!" #NT!
+ CP_25_blocked: "£command_power §R25§!" #NT!
+ CP_25_tooltip: "It costs $CP_25_blocked$ to take the decision" #NT!
+ CP_30: "£command_power §H30§!" #NT!
+ CP_30_blocked: "£command_power §R30§!" #NT!
+ CP_30_tooltip: "It costs $CP_30_blocked$ to take the decision" #NT!
+ CP_35: "£command_power §H35§!" #NT!
+ CP_35_blocked: "£command_power §R35§!" #NT!
+ CP_35_tooltip: "It costs $CP_35_blocked$ to take the decision" #NT!
+ CP_40: "£command_power §H40§!" #NT!
+ CP_40_blocked: "£command_power §R40§!" #NT!
+ CP_40_tooltip: "It costs $CP_40_blocked$ to take the decision" #NT!
+ CP_45: "£command_power §H45§!" #NT!
+ CP_45_blocked: "£command_power §R45§!" #NT!
+ CP_45_tooltip: "It costs $CP_45_blocked$ to take the decision" #NT!
+ CP_50: "£command_power §H50§!" #NT!
+ CP_50_blocked: "£command_power §R50§!" #NT!
+ CP_50_tooltip: "It costs $CP_50_blocked$ to take the decision" #NT!
+ CP_55: "£command_power §H55§!" #NT!
+ CP_55_blocked: "£command_power §R55§!" #NT!
+ CP_55_tooltip: "It costs $CP_55_blocked$ to take the decision" #NT!
+ CP_60: "£command_power §H60§!" #NT!
+ CP_60_blocked: "£command_power §R60§!" #NT!
+ CP_60_tooltip: "It costs $CP_60_blocked$ to take the decision" #NT!
+ CP_65: "£command_power §H65§!" #NT!
+ CP_65_blocked: "£command_power §R65§!" #NT!
+ CP_65_tooltip: "It costs $CP_65_blocked$ to take the decision" #NT!
+ CP_70: "£command_power §H70§!" #NT!
+ CP_70_blocked: "£command_power §R70§!" #NT!
+ CP_70_tooltip: "It costs $CP_70_blocked$ to take the decision" #NT!
+ CP_75: "£command_power §H75§!" #NT!
+ CP_75_blocked: "£command_power §R75§!" #NT!
+ CP_75_tooltip: "It costs $CP_75_blocked$ to take the decision" #NT!
+ CP_80: "£command_power §H80§!" #NT!
+ CP_80_blocked: "£command_power §R80§!" #NT!
+ CP_80_tooltip: "It costs $CP_80_blocked$ to take the decision" #NT!
+ CP_85: "£command_power §H85§!" #NT!
+ CP_85_blocked: "£command_power §R85§!" #NT!
+ CP_85_tooltip: "It costs $CP_85_blocked$ to take the decision" #NT!
+ CP_90: "£command_power §H90§!" #NT!
+ CP_90_blocked: "£command_power §R90§!" #NT!
+ CP_90_tooltip: "It costs $CP_90_blocked$ to take the decision" #NT!
+ CP_95: "£command_power §H95§!" #NT!
+ CP_95_blocked: "£command_power §R95§!" #NT!
+ CP_95_tooltip: "It costs $CP_95_blocked$ to take the decision" #NT!
+ CP_100: "£command_power §H100§!" #NT!
+ CP_100_blocked: "£command_power §R100§!" #NT!
+ CP_100_tooltip: "It costs $CP_100_blocked$ to take the decision" #NT!
+  
+ # Command Power & Political Power 
+ CP_80_PP_20: "£command_power §H80§! £pol_power §H20§!" #NT!
+ CP_80_PP_20_blocked: "£command_power §R80§! £pol_power §R20§!" #NT!
+ CP_80_PP_20_tooltip: "It costs $CP_80_PP_20_blocked$ to take the decision" #NT!
+  
+ # Army Experience 
+ army_xp_5: "£army_experience §H5§!" #NT!
+ army_xp_5_blocked: "£army_experience §R5§!" #NT!
+ army_xp_5_tooltip: "It costs $army_xp_5_blocked$ to take the decision" #NT!
+ army_xp_10: "£army_experience §H10§!" #NT!
+ army_xp_10_blocked: "£army_experience §R10§!" #NT!
+ army_xp_10_tooltip: "It costs $army_xp_10_blocked$ to take the decision" #NT!
+ army_xp_15: "£army_experience §H15§!" #NT!
+ army_xp_15_blocked: "£army_experience §R15§!" #NT!
+ army_xp_15_tooltip: "It costs $army_xp_15_blocked$ to take the decision" #NT!
+ army_xp_20: "£army_experience §H20§!" #NT!
+ army_xp_20_blocked: "£army_experience §R20§!" #NT!
+ army_xp_20_tooltip: "It costs $army_xp_20_blocked$ to take the decision" #NT!
+ army_xp_25: "£army_experience §H25§!" #NT!
+ army_xp_25_blocked: "£army_experience §R25§!" #NT!
+ army_xp_25_tooltip: "It costs $army_xp_25_blocked$ to take the decision" #NT!
+ army_xp_30: "£army_experience §H30§!" #NT!
+ army_xp_30_blocked: "£army_experience §R30§!" #NT!
+ army_xp_30_tooltip: "It costs $army_xp_30_blocked$ to take the decision" #NT!
+ army_xp_35: "£army_experience §H35§!" #NT!
+ army_xp_35_blocked: "£army_experience §R35§!" #NT!
+ army_xp_35_tooltip: "It costs $army_xp_35_blocked$ to take the decision" #NT!
+ army_xp_40: "£army_experience §H40§!" #NT!
+ army_xp_40_blocked: "£army_experience §R40§!" #NT!
+ army_xp_40_tooltip: "It costs $army_xp_40_blocked$ to take the decision" #NT!
+ army_xp_45: "£army_experience §H45§!" #NT!
+ army_xp_45_blocked: "£army_experience §R45§!" #NT!
+ army_xp_45_tooltip: "It costs $army_xp_45_blocked$ to take the decision" #NT!
+ army_xp_50: "£army_experience §H50§!" #NT!
+ army_xp_50_blocked: "£army_experience §R50§!" #NT!
+ army_xp_50_tooltip: "It costs $army_xp_50_blocked$ to take the decision" #NT!
+ army_xp_55: "£army_experience §H55§!" #NT!
+ army_xp_55_blocked: "£army_experience §R55§!" #NT!
+ army_xp_55_tooltip: "It costs $army_xp_55_blocked$ to take the decision" #NT!
+ army_xp_60: "£army_experience §H60§!" #NT!
+ army_xp_60_blocked: "£army_experience §R60§!" #NT!
+ army_xp_60_tooltip: "It costs $army_xp_60_blocked$ to take the decision" #NT!
+ army_xp_65: "£army_experience §H65§!" #NT!
+ army_xp_65_blocked: "£army_experience §R65§!" #NT!
+ army_xp_65_tooltip: "It costs $army_xp_65_blocked$ to take the decision" #NT!
+ army_xp_70: "£army_experience §H70§!" #NT!
+ army_xp_70_blocked: "£army_experience §R70§!" #NT!
+ army_xp_70_tooltip: "It costs $army_xp_70_blocked$ to take the decision" #NT!
+ army_xp_75: "£army_experience §H75§!" #NT!
+ army_xp_75_blocked: "£army_experience §R75§!" #NT!
+ army_xp_75_tooltip: "It costs $army_xp_75_blocked$ to take the decision" #NT!
+ army_xp_80: "£army_experience §H80§!" #NT!
+ army_xp_80_blocked: "£army_experience §R80§!" #NT!
+ army_xp_80_tooltip: "It costs $army_xp_80_blocked$ to take the decision" #NT!
+ army_xp_85: "£army_experience §H85§!" #NT!
+ army_xp_85_blocked: "£army_experience §R85§!" #NT!
+ army_xp_85_tooltip: "It costs $army_xp_85_blocked$ to take the decision" #NT!
+ army_xp_90: "£army_experience §H90§!" #NT!
+ army_xp_90_blocked: "£army_experience §R90§!" #NT!
+ army_xp_90_tooltip: "It costs $army_xp_90_blocked$ to take the decision" #NT!
+ army_xp_95: "£army_experience §H95§!" #NT!
+ army_xp_95_blocked: "£army_experience §R95§!" #NT!
+ army_xp_95_tooltip: "It costs $army_xp_95_blocked$ to take the decision" #NT!
+ army_xp_100: "£army_experience §H100§!" #NT!
+ army_xp_100_blocked: "£army_experience §R100§!" #NT!
+ army_xp_100_tooltip: "It costs $army_xp_100_blocked$ to take the decision" #NT!
+ army_xp_125: "£army_experience §H125§!" #NT!
+ army_xp_125_blocked: "£army_experience §R125§!" #NT!
+ army_xp_125_tooltip: "It costs $army_xp_125_blocked$ to take the decision" #NT!
+ army_xp_150: "£army_experience §H150§!" #NT!
+ army_xp_150_blocked: "£army_experience §R150§!" #NT!
+ army_xp_150_tooltip: "It costs $army_xp_150_blocked$ to take the decision" #NT!
+ army_xp_175: "£army_experience §H175§!" #NT!
+ army_xp_175_blocked: "£army_experience §R175§!" #NT!
+ army_xp_175_tooltip: "It costs $army_xp_175_blocked$ to take the decision" #NT!
+ army_xp_200: "£army_experience §H200§!" #NT!
+ army_xp_200_blocked: "£army_experience §R200§!" #NT!
+ army_xp_200_tooltip: "It costs $army_xp_200_blocked$ to take the decision" #NT!
+  
+ # War Support 
+ war_support3: "£war_support_texticon §H3%§!" #NT!
+ war_support3_blocked: "£war_support_texticon §R3%§!" #NT!
+ war_support3_blocked_tooltip: "It costs $war_support3_blocked$ to take the decision" #NT!
+ war_support5: "£war_support_texticon §H5%§!" #NT!
+ war_support5_blocked: "£war_support_texticon §R5%§!" #NT!
+ war_support5_blocked_tooltip: "It costs $war_support5_blocked$ to take the decision" #NT!
+ war_support10: "£war_support_texticon §H10%§!" #NT!
+ war_support10_blocked: "£war_support_texticon §R10%§!" #NT!
+ war_support10_blocked_tooltip: "It costs $war_support10_blocked$ to take the decision" #NT!
+ war_support15: "£war_support_texticon §H15%§!" #NT!
+ war_support15_blocked: "£war_support_texticon §R15%§!" #NT!
+ war_support15_blocked_tooltip: "It costs $war_support15_blocked$ to take the decision" #NT!
+ war_support20: "£war_support_texticon §H20%§!" #NT!
+ war_support20_blocked: "£war_support_texticon §R20%§!" #NT!
+ war_support20_blocked_tooltip: "It costs $war_support20_blocked$ to take the decision" #NT!
+  
+ # Stability 
+ stability3: "£GFX_stability_texticon §H3%§!" #NT!
+ stability3_blocked: "£GFX_stability_texticon §R3%§!" #NT!
+ stability3_blocked_tooltip: "It costs $stability3_blocked$ to take the decision" #NT!
+ stability5: "£GFX_stability_texticon §H5%§!" #NT!
+ stability5_blocked: "£GFX_stability_texticon §R5%§!" #NT!
+ stability5_blocked_tooltip: "It costs $stability5_blocked$ to take the decision" #NT!
+ stability10: "£GFX_stability_texticon §H10%§!" #NT!
+ stability10_blocked: "£GFX_stability_texticon §R10%§!" #NT!
+ stability10_blocked_tooltip: "It costs $stability10_blocked$ to take the decision" #NT!
+ stability15: "£GFX_stability_texticon §H15%§!" #NT!
+ stability15_blocked: "£GFX_stability_texticon §R15%§!" #NT!
+ stability15_blocked_tooltip: "It costs $stability15_blocked$ to take the decision" #NT!
+ stability20: "£GFX_stability_texticon §H20%§!" #NT!
+ stability20_blocked: "£GFX_stability_texticon §R20%§!" #NT!
+ stability20_blocked_tooltip: "It costs $stability20_blocked$ to take the decision" #NT!
+  
+ # Guns 
+ 100_guns: "£rifle_texticon  §H100§!" #NT!
+ 100_guns_blocked: "£rifle_texticon  §R100§!" #NT!
+ 100_guns_tooltip: "It costs $100_guns_blocked$ to take the decision" #NT!
+ 150_guns: "£rifle_texticon  §H150§!" #NT!
+ 150_guns_blocked: "£rifle_texticon  §R150§!" #NT!
+ 150_guns_tooltip: "It costs $150_guns_blocked$ to take the decision" #NT!
+ 200_guns: "£rifle_texticon  §H200§!" #NT!
+ 200_guns_blocked: "£rifle_texticon  §R200§!" #NT!
+ 200_guns_tooltip: "It costs $200_guns_blocked$ to take the decision" #NT!
+ 250_guns: "£rifle_texticon  §H250§!" #NT!
+ 250_guns_blocked: "£rifle_texticon  §R250§!" #NT!
+ 250_guns_tooltip: "It costs $250_guns_blocked$ to take the decision" #NT!
+ 300_guns: "£rifle_texticon  §H300§!" #NT!
+ 300_guns_blocked: "£rifle_texticon  §R300§!" #NT!
+ 300_guns_tooltip: "It costs $300_guns_blocked$ to take the decision" #NT!
+ 500_guns: "£rifle_texticon  §H500§!" #NT!
+ 500_guns_blocked: "£rifle_texticon  §R500§!" #NT!
+ 500_guns_tooltip: "It costs $500_guns_blocked$ to take the decision" #NT!
+ 1000_guns: "£rifle_texticon  §H1000§!" #NT!
+ 1000_guns_blocked: "£rifle_texticon  §R1000§!" #NT!
+ 1000_guns_tooltip: "It costs $1000_guns_blocked$ to take the decision" #NT!
+ 2000_guns: "£rifle_texticon  §H2000§!" #NT!
+ 2000_guns_blocked: "£rifle_texticon  §R2000§!" #NT!
+ 2000_guns_tooltip: "It costs $2000_guns_blocked$ to take the decision" #NT!
+ 5000_guns: "£rifle_texticon  §H5000§!" #NT!
+ 5000_guns_blocked: "£rifle_texticon  §R5000§!" #NT!
+ 5000_guns_tooltip: "It costs $5000_guns_blocked$ to take the decision" #NT!
+  
+ support_100: "£support_texticon  §H100§!" #NT!
+ support_100_blocked: "£support_texticon  §R100§!" #NT!
+ support_100_tooltip: "It costs $support_100_blocked$ to take the decision" #NT!
+  
+ support_150: "£support_texticon  §H150§!" #NT!
+ support_150_blocked: "£support_texticon  §R150§!" #NT!
+ support_150_tooltip: "It costs $support_150_blocked$ to take the decision" #NT!
+  
+ support_200: "£support_texticon  §H200§!" #NT!
+ support_200_blocked: "£support_texticon  §R200§!" #NT!
+ support_200_tooltip: "It costs $support_200_blocked$ to take the decision" #NT!
+  
+ support_250: "£support_texticon  §H250§!" #NT!
+ support_250_blocked: "£support_texticon  §R250§!" #NT!
+ support_250_tooltip: "It costs $support_250_blocked$ to take the decision" #NT!
+  
+ support_500: "£support_texticon  §H500§!" #NT!
+ support_500_blocked: "£support_texticon  §R500§!" #NT!
+ support_500_tooltip: "It costs $support_500_blocked$ to take the decision" #NT!
+  
+ # Ideas 
+ generic_research_advances: "Research Advances" #NT!
+ generic_neutral_foreign_policy: "Neutral Foreign Policy" #NT!
+ deterrence: "Сдерживание"
+  
+ # tag tooltips 
+ western_european_tag: "§YIs a Western European Country§!" #NT!
+ eastern_european_tag: "§YIs a Eastern European Country§!" #NT!
+ north_american_tag: "§YIs a North American Country§!" #NT!
+ latin_american_tag: "§YIs a Latin American Country§!" #NT!
+ central_asian_tag: "§YIs a Central Asian Country§!" #NT!
+ middle_eastern_tag: "§YIs a Middle Eastern Country§!" #NT!
+ east_asian_tag: "§YIs a East Asian Country§!" #NT!
+ south_asian_tag: "§YIs a South Asian Country§!" #NT!
+ commonwealth_tag: "§YIs a Commonwealth Country§!" #NT!
+ african_tag: "§YIs an African Country§!" #NT!
+ oceanian_tag: "§YIs an Oceanian Country§!" #NT!
+  
+ # Scripted Loc... 
+  
+ empty: "" #NT!
+  
+ loc_royal: "royal" #NT!
+ loc_royal_cap: "Royal" #NT!
+ loc_royal_with_space: "$loc_royal$ " #NT!
+ loc_royal_cap_with_space: "$loc_royal_cap$ " #NT!
+  
+ loc_imperial: "imperial" #NT!
+ loc_imperial_cap: "Imperial" #NT!
+ loc_imperial_with_space: "$loc_imperial$ " #NT!
+ loc_imperial_cap_with_space: "$loc_imperial_cap$ " #NT!
+  
+ loc_republican: "republican" #NT!
+ loc_republican_cap: "Republican" #NT!
+ loc_republican_with_space: "$loc_republican$ " #NT!
+ loc_republican_cap_with_space: "$loc_republican_cap$ " #NT!
+  
+  
+ ### Modifiers (for use as tooltips in variable effects) ### 
+ consumer_goods_factor_tooltip: "$MODIFIER_CONSUMER_GOODS_FACTOR$: $RIGHT|Y=%1$" #NT!
+ consumer_goods_expected_value_tooltip: "$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: $RIGHT|Y=%1$" #NT!
+ industrial_capacity_factory_tooltip: "$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: $RIGHT|+=%$" #NT!
+ industrial_capacity_dockyard_tooltip: "$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: $RIGHT|+=%$" #NT!
+ industry_repair_tooltip: "$MODIFIER_INDUSTRY_REPAIR_FACTOR$: $RIGHT|+=%$" #NT!
+ local_resources_factor_tooltip: "$MODIFIER_LOCAL_RESOURCES_FACTOR$: $RIGHT|+=%$" #NT!
+ global_building_slots_factor_tooltip: "$MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR$: $RIGHT|+=%0$" #NT!
+ research_speed_factor_tooltip: "$MODIFIER_RESEARCH_SPEED_FACTOR$: $RIGHT|%=+$" #NT!
+  
+ production_speed_buildings_factor_tooltip: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: $RIGHT|+=%$" #NT!
+ production_speed_infrastructure_factor_tooltip: "$modifier_production_speed_infrastructure_factor$: $RIGHT|+=%$" #NT!
+ production_speed_arms_factory_factor_tooltip: "$modifier_production_speed_arms_factory_factor$: $RIGHT|+=%$" #NT!
+ production_speed_industrial_complex_factor_tooltip: "$modifier_production_speed_industrial_complex_factor$: $RIGHT|+=%$" #NT!
+ production_speed_dockyard_factor_tooltip: "$modifier_production_speed_dockyard_factor$: $RIGHT|+=%$" #NT!
+ production_speed_synthetic_refinery_factor_tooltip: "$modifier_production_speed_synthetic_refinery_factor$: $RIGHT|+=%$" #NT!
+ production_speed_air_base_factor_tooltip: "$modifier_production_speed_air_base_factor$: $RIGHT|+=%$" #NT!
+ production_speed_naval_base_factor_tooltip: "$modifier_production_speed_naval_base_factor$: $RIGHT|+=%$" #NT!
+ production_speed_bunker_factor_tooltip: "$modifier_production_speed_bunker_factor$: $RIGHT|+=%$" #NT!
+ production_speed_coastal_bunker_factor_tooltip: "$modifier_production_speed_coastal_bunker_factor$: $RIGHT|+=%$" #NT!
+ production_speed_anti_air_building_factor_tooltip: "$modifier_production_speed_anti_air_building_factor$: $RIGHT|+=%$" #NT!
+ production_speed_radar_station_factor_tooltip: "$modifier_production_speed_radar_station_factor$: $RIGHT|+=%$" #NT!
+ production_speed_rocket_site_factor_tooltip: "$modifier_production_speed_rocket_site_factor$: $RIGHT|+=%$" #NT!
+ production_speed_nuclear_reactor_factor_tooltip: "$modifier_production_speed_nuclear_reactor_factor$: $RIGHT|+=%$" #NT!
+ production_speed_fuel_silo_factor_tooltip: "$modifier_production_speed_fuel_silo_factor$: $RIGHT|+=%$" #NT!
+ production_speed_railway_factor_tooltip: "$modifier_production_speed_rail_way_factor$: $RIGHT|+=%$" #NT!
+ production_speed_supply_node_factor_tooltip: "$modifier_production_speed_supply_node_factor$: $RIGHT|+=%$" #NT!
+  
+ conversion_cost_civ_to_mil_factor_tooltip: "$MODIFIER_CONVERSION_COST_CIV_TO_MIL_FACTOR$: $RIGHT|-=%$" #NT!
+ conversion_cost_mil_to_civ_factor_tooltip: "$MODIFIER_CONVERSION_COST_MIL_TO_CIV_FACTOR$: $RIGHT|-=%$" #NT!
+  
+ trade_opinion_factor_tooltip: "$MODIFIER_TRADE_OPINION_FACTOR$: $RIGHT|Y=%$" #NT!
+ min_export_tooltip: "$MODIFIER_MIN_EXPORT_FACTOR$: $RIGHT|=Y%0$" #NT!
+  
+ production_factory_max_efficiency_factor_tooltip: "$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: $RIGHT|=%+$" #NT!
+ production_factory_start_efficiency_factor_tooltip: "$MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR$: $RIGHT|=%+$" #NT!
+ production_factory_efficiency_gain_factor_tooltip: "$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: $RIGHT|=%+$" #NT!
+ line_change_production_efficiency_factor_tooltip: "$MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR$: $RIGHT|=%+$" #NT!
+ production_lack_of_resource_penalty_factor_tooltip: "$MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: $RIGHT|-=%$" #NT!
+  
+ country_resource_aluminium_tooltip: "$country_resource_aluminium$: $RIGHT|+=0$" #NT!
+ country_resource_chromium_tooltip: "$country_resource_chromium$: $RIGHT|+=0$" #NT!
+ country_resource_oil_tooltip: "$country_resource_oil$: $RIGHT|+=0$" #NT!
+ country_resource_rubber_tooltip: "$country_resource_rubber$: $RIGHT|+=0$" #NT!
+ country_resource_steel_tooltip: "$country_resource_steel$: $RIGHT|+=0$" #NT!
+ country_resource_tungsten_tooltip: "$country_resource_tungsten$: $RIGHT|+=0$" #NT!
+  
+ country_resource_cost_aluminium_tooltip: "$country_resource_cost_aluminium$: $RIGHT|-=0$" #NT!
+ country_resource_cost_chromium_tooltip: "$country_resource_cost_chromium$: $RIGHT|-=0$" #NT!
+ country_resource_cost_oil_tooltip: "$country_resource_cost_oil$: $RIGHT|-=0$" #NT!
+ country_resource_cost_rubber_tooltip: "$country_resource_cost_rubber$: $RIGHT|-=0$" #NT!
+ country_resource_cost_steel_tooltip: "$country_resource_cost_steel$: $RIGHT|-=0$" #NT!
+ country_resource_cost_tungsten_tooltip: "$country_resource_cost_tungsten$: $RIGHT|-=0$" #NT!
+  
+ max_fuel_factor_tooltip: "$MODIFIER_MAX_FUEL_FACTOR$: $RIGHT|+=%2$" #NT!
+ base_fuel_gain_factor_tooltip: "$MODIFIER_BASE_FUEL_GAIN_FACTOR$: $RIGHT|+=%2$" #NT!
+ fuel_gain_factor_tooltip: "$MODIFIER_FUEL_GAIN_FACTOR$: $RIGHT|+=%2$" #NT!
+ fuel_gain_factor_from_states_tooltip: "$MODIFIER_FUEL_GAIN_FACTOR_FROM_STATES$: $RIGHT|+=%2$" #NT!
+ production_oil_factor_tooltip: "$MODIFIER_PRODUCTION_OIL_FACTOR$: $RIGHT|+=%2$" #NT!
+  
+ army_fuel_consumption_factor_tooltip: "$MODIFIER_ARMY_FUEL_CONSUMPTION_FACTOR$: $RIGHT|-=%2$" #NT!
+ army_fuel_capacity_factor_tooltip: "$MODIFIER_ARMY_FUEL_CONSUMPTION_FACTOR$: $RIGHT|+=%2$" #NT!
+ navy_fuel_consumption_factor_tooltip: "$MODIFIER_NAVY_FUEL_CONSUMPTION_FACTOR$: $RIGHT|-=%2$" #NT!
+ air_fuel_consumption_factor_tooltip: "$MODIFIER_AIR_FUEL_CONSUMPTION_FACTOR$: $RIGHT|-=%2$" #NT!
+  
+ industrial_factory_donations_tooltip: "$MODIFIER_INDUSTRIAL_FACTORY_DONATIONS$: $RIGHT|+=0$" #NT!
+ military_factory_donations_tooltip: "$MODIFIER_MILITARY_FACTORY_DONATIONS$: $RIGHT|+=0$" #NT!
+ dockyard_donations_tooltip: "$MODIFIER_DOCKYARD_DONATIONS$: $RIGHT|+=0$" #NT!
+  
+ equipment_conversion_speed_tooltip: "$MODIFIER_EQUIPMENT_CONVERSION_SPEED$: $RIGHT|+=%0$" #NT!
+ equipment_capture_factor_tooltip: "$MODIFIER_EQUIPMENT_CAPTURE_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ political_power_gain_tooltip: "$MODIFIER_POLITICAL_POWER_GAIN$: $RIGHT|+=$" #NT!
+ political_power_cost_tooltip: "$MODIFIER_POLITICAL_POWER_COST$: $RIGHT|-=$" #NT!
+ political_power_factor_tooltip: "$MODIFIER_POLITICAL_POWER_FACTOR$: $RIGHT|+=%0$" #NT!
+ stability_factor_tooltip: "$MODIFIER_STABILITY_FACTOR$: $RIGHT|=%+$" #NT!
+ stability_weekly_tooltip: "$MODIFIER_STABILITY_WEEKLY$: $RIGHT|=%+$" #NT!
+ party_popularity_stability_factor_tooltip: "$MODIFIER_STABILITY_POPULARITY_FACTOR$: $RIGHT|=%+$" #NT!
+  
+ starting_compliance_tooltip: "$MODIFIER_COMPLIANCE_STARTING_VALUE$: $RIGHT|+=%0$" #NT!
+ compliance_gain_tooltip: "$MODIFIER_COMPLIANCE_GAIN_ADD$: $RIGHT|+=2$" #NT!
+ compliance_growth_tooltip: "$MODIFIER_COMPLIANCE_GROWTH$: $RIGHT|+=%0$" #NT!
+ resistance_target_tooltip: "$MODIFIER_RESISTANCE_TARGET$: $RIGHT|-=%0$" #NT!
+ resistance_growth_tooltip: "$MODIFIER_RESISTANCE_GROWTH$: $RIGHT|-=%0$" #NT!
+ resistance_decay_tooltip: "$MODIFIER_RESISTANCE_DECAY$: $RIGHT|+=%0$" #NT!
+ resistance_activity_tooltip: "$MODIFIER_RESISTANCE_ACTIVITY_FACTOR$: $RIGHT|-=%1$" #NT!
+ resistance_damage_to_garrison_tooltip: "$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: $RIGHT|-=%2$" #NT!
+ resistance_garrison_penetration_chance_tooltip: "$MODIFIER_RESISTANCE_GARRISON_PENETRATION_CHANCE$: $RIGHT|-=%2$" #NT!
+  
+ compliance_growth_on_our_occupied_states_tooltip: "$MODIFIER_COMPLIANCE_GROWTH_ON_OUR_OCCUPIED_STATES$: $RIGHT|-=%0$" #NT!
+ resistance_target_on_our_occupied_states_tooltip: "$MODIFIER_RESISTANCE_TARGET_ON_OUR_OCCUPIED_STATES$: $RIGHT|+=%0$" #NT!
+ resistance_growth_on_our_occupied_states_tooltip: "$MODIFIER_RESISTANCE_GROWTH_ON_OUR_OCCUPIED_STATES$: $RIGHT|+=%0$" #NT!
+ resistance_decay_on_our_occupied_states_tooltip: "$MODIFIER_RESISTANCE_DECAY_ON_OUR_OCCUPIED_STATES$: $RIGHT|-=%0$" #NT!
+ resistance_damage_to_garrison_on_our_occupied_states_tooltip: "$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS_ON_OUR_OCCUPIED_STATES$: $RIGHT|+=%2$" #NT!
+  
+ war_support_tooltip: "$MODIFIER_WAR_SUPPORT_FACTOR$: $RIGHT|=%+$" #NT!
+ war_support_weekly_tooltip: "$MODIFIER_WAR_SUPPORT_WEEKLY$: $RIGHT|+=%2$" #NT!
+ weekly_casualties_war_support_tooltip: "$MODIFIER_WEEKLY_CASUALTIES_WAR_SUPPORT$: $RIGHT|+=%0$" #NT!
+ weekly_convoys_war_support_tooltip: "$MODIFIER_WEEKLY_CONVOYS_WAR_SUPPORT$: $RIGHT|+=%0$" #NT!
+ weekly_bombing_war_support_tooltip: "$MODIFIER_WEEKLY_BOMBING_WAR_SUPPORT$: $RIGHT|+=%0$" #NT!
+  
+ max_dig_in_tooltip: "$MODIFIER_MAX_DIG_IN$: $RIGHT|+=1$" #NT!
+ max_dig_in_factor_tooltip: "$MODIFIER_MAX_DIG_IN_FACTOR$: $RIGHT|=%+1$" #NT!
+ dig_in_speed_factor_tooltip: "$MODIFIER_DIG_IN_SPEED_FACTOR$: $RIGHT|=%+1$" #NT!
+  
+ initiative_factor_tooltip: "$MODIFIER_INITIATIVE_FACTOR$: $RIGHT|=%+1$" #NT!
+ coordination_bonus_tooltip: "$coordination_bonus$: $RIGHT|+=%1$" #NT!
+ combat_width_factor_tooltip: "$MODIFIER_COMBAT_WIDTH_FACTOR$: $RIGHT|-=%1$" #NT!
+  
+ supply_factor_tooltip: "$MODIFIER_SUPPLY_FACTOR$: $RIGHT|+=%0$" #NT!
+ supply_node_range_tooltip: "$MODIFIER_SUPPLY_NODE_RANGE$: $RIGHT|+=%0$" #NT!
+ supply_consumption_factor_tooltip: "$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: $RIGHT|-=%1$" #NT!
+ supply_combat_penalties_on_core_factor_tooltip: "$supply_combat_penalties_on_core_factor$: $RIGHT|-=%1$" #NT!
+ out_of_supply_factor_tooltip: "$MODIFIER_OUT_OF_SUPPLY_FACTOR$: $RIGHT|-=%1$" #NT!
+  
+ special_forces_cap_tooltip: "$MODIFIER_SPECIAL_FORCES_CAP$: $RIGHT|+=%1$" #NT!
+ special_forces_cap_flat_tooltip: "$MODIFIER_SPECIAL_FORCES_CAP_FLAT$: $RIGHT|+=0$" #NT!
+ special_forces_min_tooltip: "$MODIFIER_SPECIAL_FORCES_MIN$: $RIGHT|+=0$" #NT!
+ special_forces_out_of_supply_factor_tooltip: "$MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR$: $RIGHT|-=%2$" #NT!
+  
+ modifier_army_sub_unit_mountaineers_attack_factor_tooltip: "$modifier_army_sub_unit_mountaineers_attack_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_mountaineers_defence_factor_tooltip: "$modifier_army_sub_unit_mountaineers_defence_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_mountaineers_max_org_factor_tooltip: "$modifier_army_sub_unit_mountaineers_max_org_factor$: $RIGHT|+=%2$" #NT!
+  
+ modifier_army_sub_unit_marine_attack_factor_tooltip: "$modifier_army_sub_unit_marine_attack_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_marine_defence_factor_tooltip: "$modifier_army_sub_unit_marine_defence_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_marine_max_org_factor_tooltip: "$modifier_army_sub_unit_marine_max_org_factor$: $RIGHT|+=%2$" #NT!
+  
+ modifier_army_sub_unit_paratrooper_attack_factor_tooltip: "$modifier_army_sub_unit_paratrooper_attack_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_paratrooper_defence_factor_tooltip: "$modifier_army_sub_unit_paratrooper_defence_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_paratrooper_max_org_factor_tooltip: "$modifier_army_sub_unit_paratrooper_max_org_factor$: $RIGHT|+=%2$" #NT!
+  
+ modifier_army_sub_unit_assault_battalion_attack_factor_tooltip: "$modifier_army_sub_unit_assault_battalion_attack_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_assault_battalion_defence_factor_tooltip: "$modifier_army_sub_unit_assault_battalion_defence_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_assault_battalion_max_org_factor_tooltip: "$modifier_army_sub_unit_assault_battalion_max_org_factor$: $RIGHT|+=%2$" #NT!
+  
+ max_planning_tooltip: "$MODIFIER_MAX_PLANNING$: $RIGHT|+=%1$" #NT!
+ max_planning_factor_tooltip: "$MODIFIER_MAX_PLANNING_FACTOR$: $RIGHT|+=%1$" #NT!
+ planning_speed_tooltip: "$MODIFIER_PLANNING_SPEED$: $RIGHT|+=%1$" #NT!
+  
+ air_advisor_cost_factor_tooltip: "$MODIFIER_AIR_ADVISOR_COST_FACTOR$: $RIGHT|-=%0$" #NT!
+ army_advisor_cost_factor_tooltip: "$MODIFIER_ARMY_ADVISOR_COST_FACTOR$: $RIGHT|-=%0$" #NT!
+ navy_advisor_cost_factor_tooltip: "$MODIFIER_NAVY_ADVISOR_COST_FACTOR$: $RIGHT|-=%0$" #NT!
+ army_chief_cost_factor_tooltip: "$army_chief_cost_factor$: $RIGHT|-=%0$" #NT!
+ navy_chief_cost_factor_tooltip: "$navy_chief_cost_factor$: $RIGHT|-=%0$" #NT!
+ air_chief_cost_factor_tooltip: "$air_chief_cost_factor$: $RIGHT|-=%0$" #NT!
+ high_command_cost_factor_tooltip: "$high_command_cost_factor$: $RIGHT|-=%0$" #NT!
+ theorist_cost_factor_tooltip: "$theorist_cost_factor$: $RIGHT|-=%0$" #NT!
+ tank_manufacturer_cost_factor_tooltip: "$tank_manufacturer_cost_factor$: $RIGHT|-=%0$" #NT!
+ naval_manufacturer_cost_factor_tooltip: "$naval_manufacturer_cost_factor$: $RIGHT|-=%0$" #NT!
+ aircraft_manufacturer_cost_factor_tooltip: "$aircraft_manufacturer_cost_factor$: $RIGHT|-=%0$" #NT!
+ materiel_manufacturer_cost_factor_tooltip: "$materiel_manufacturer_cost_factor$: $RIGHT|-=%0$" #NT!
+ industrial_concern_cost_factor_tooltip: "$industrial_concern_cost_factor$: $RIGHT|-=%0$" #NT!
+  
+ monthly_population_tooltip: "$MODIFIER_GLOBAL_MONTHLY_POPULATION$: $RIGHT|=%+1$" #NT!
+  
+ conscription_tooltip: "$MODIFIER_CONSCRIPTION_FACTOR$: $RIGHT|H%$" #NT!
+ conscription_factor_tooltip: "$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: $RIGHT|%+=0$" #NT!
+ weekly_manpower_tooltip: "$MODIFIER_WEEKLY_MANPOWER$: $RIGHT|+=0$" #NT!
+ non_core_manpower_tooltip: "$MODIFIER_GLOBAL_NON_CORE_MANPOWER$: $RIGHT|+=%2$" #NT!
+ mobilization_speed_tooltip: "$MODIFIER_MOBILIZATION_SPEED$: $RIGHT|+=%2$" #NT!
+  
+ army_strength_factor_tooltip: "$MODIFIER_ARMY_STRENGTH$: $RIGHT|+=%2$" #NT!
+  
+ army_org_tooltip: "$MODIFIER_ARMY_ORG$: $RIGHT|+=1$" #NT!
+ army_org_factor_tooltip: "$MODIFIER_ARMY_ORG_FACTOR$: $RIGHT|+=%1$" #NT!
+ army_org_regain_tooltip: "$MODIFIER_ARMY_ORG_REGAIN$: $RIGHT|+=%2$" #NT!
+ org_loss_when_moving_tooltip: "$MODIFIER_ORG_LOSS_WHEN_MOVING$: $RIGHT|-=%1$" #NT!
+ org_loss_at_low_org_factor_tooltip: "$MODIFIER_ORG_LOSS_AT_LOW_ORG_FACTOR$: $RIGHT|-=%2$" #NT!
+ army_morale_tooltip: "$MODIFIER_ARMY_MORALE$: $RIGHT|+=1$" #NT!
+ army_morale_factor_tooltip: "$MODIFIER_ARMY_MORALE_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ modifier_army_sub_unit_militia_attack_factor_tooltip: "$modifier_army_sub_unit_militia_attack_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_militia_defence_factor_tooltip: "$modifier_army_sub_unit_militia_defence_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_militia_max_org_factor_tooltip: "$modifier_army_sub_unit_militia_max_org_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_militia_speed_factor_tooltip: "$modifier_army_sub_unit_cavalry_speed_factor$: $RIGHT|+=%1$" #NT!
+  
+ modifier_army_sub_unit_irregular_attack_factor_tooltip: "$modifier_army_sub_unit_irregular_infantry_attack_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_irregular_defence_factor_tooltip: "$modifier_army_sub_unit_irregular_infantry_defence_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_irregular_max_org_factor_tooltip: "$modifier_army_sub_unit_irregular_infantry_max_org_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_irregular_speed_factor_tooltip: "$modifier_army_sub_unit_cavalry_speed_factor$: $RIGHT|+=%1$" #NT!
+  
+ modifier_army_sub_unit_armored_car_attack_factor_tooltip: "$modifier_army_sub_unit_armored_car_attack_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_armored_car_defence_factor_tooltip: "$modifier_army_sub_unit_armored_car_defence_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_armored_car_max_org_factor_tooltip: "$modifier_army_sub_unit_armored_car_max_org_factor$: $RIGHT|+=%2$" #NT!
+ modifier_army_sub_unit_armored_car_speed_factor_tooltip: "$modifier_army_sub_unit_cavalry_speed_factor$: $RIGHT|+=%1$" #NT!
+  
+ navy_org_tooltip: "$MODIFIER_NAVY_ORG$: $RIGHT|+=1$" #NT!
+ navy_org_factor_tooltip: "$MODIFIER_NAVY_ORG_FACTOR$: $RIGHT|+=%1$" #NT!
+ naval_morale_tooltip: "$MODIFIER_NAVAL_MORALE$: $RIGHT|+=1$" #NT!
+ naval_morale_factor_tooltip: "$MODIFIER_NAVAL_MORALE_FACTOR$: $RIGHT|+=%1$" #NT!
+ naval_night_attack_tooltip: "$MODIFIER_NAVAL_NIGHT_ATTACK$: $RIGHT|+=%1$" #NT!
+  
+ army_xp_gain_tooltip: "$MODIFIER_XP_GAIN_ARMY$: $RIGHT|+=$ $MOD_DAILY$" #NT!
+ army_xp_gain_factor_tooltip: "$MODIFIER_XP_GAIN_ARMY_FACTOR$: $RIGHT|+=%1$" #NT!
+ navy_xp_gain_tooltip: "$MODIFIER_XP_GAIN_ARMY$: $RIGHT|+=$ $MOD_DAILY$" #NT!
+ navy_xp_gain_factor_tooltip: "$MODIFIER_XP_GAIN_ARMY_FACTOR$: $RIGHT|+=%1$" #NT!
+ air_xp_gain_tooltip: "$MODIFIER_XP_GAIN_AIR$: $RIGHT|+=$ $MOD_DAILY$" #NT!
+ air_xp_gain_factor_tooltip: "$MODIFIER_XP_GAIN_AIR_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ terrain_trait_xp_gain_factor_tooltip: "$MODIFIER_TERRAIN_TRAIT_XP_GAIN_FACTOR$: $RIGHT|+=%2$" #NT!
+  
+ training_time_factor_tooltip: "$MODIFIER_TRAINING_TIME_FACTOR$: $RIGHT|Y=%1$" #NT!
+ training_time_army_factor_tooltip: "$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: $RIGHT|Y=%1$" #NT!
+ special_forces_training_time_factor_tooltip: "$MODIFIER_SPECIAL_FORCES_TRAINING_TIME_FACTOR$: $RIGHT|-=%1$" #NT!
+  
+ experience_gain_factor_tooltip: "$MODIFIER_XP_GAIN_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ experience_gain_army_unit_factor_tooltip: "$MODIFIER_XP_GAIN_ARMY_UNIT_FACTOR$: $RIGHT|+=%1$" #NT!
+ experience_gain_navy_unit_factor_tooltip: "$MODIFIER_XP_GAIN_NAVY_UNIT_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ army_unit_xp_gain_tooltip: "$MODIFIER_XP_GAIN_ARMY_UNIT$: $RIGHT|+=$ $MOD_DAILY$" #NT!
+ army_unit_xp_gain_factor_tooltip: "$MODIFIER_XP_GAIN_ARMY_UNIT_FACTOR$: $RIGHT|+=%1$" #NT!
+ navy_unit_xp_gain_tooltip: "$MODIFIER_XP_GAIN_NAVY_UNIT$: $RIGHT|+=$ $MOD_DAILY$" #NT!
+ navy_unit_xp_gain_factor_tooltip: "$MODIFIER_XP_GAIN_NAVY_UNIT_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ command_abilities_cost_factor_tooltip: "$MODIFIER_COMMAND_ABILITIES_COST_FACTOR$: $RIGHT|-=%2$" #NT!
+ command_power_gain_tooltip: "$MODIFIER_COMMAND_POWER_GAIN$: $RIGHT|+=2$" #NT!
+ command_power_gain_mult_tooltip: "$MODIFIER_COMMAND_POWER_GAIN_MULT$: $RIGHT|+=%0$" #NT!
+ max_command_power_tooltip: "$MODIFIER_MAX_COMMAND_POWER$: $RIGHT|+=0$" #NT!
+ max_command_power_mult_tooltip: "$MODIFIER_MAX_COMMAND_POWER_MULT$: $RIGHT|+=%0$" #NT!
+  
+ land_doctrine_cost_factor_tooltip: "$MODIFIER_LAND_DOCTRINE_COST_FACTOR$: $RIGHT|-=%2$" #NT!
+ air_doctrine_cost_factor_tooltip: "$MODIFIER_AIR_DOCTRINE_COST_FACTOR$: $RIGHT|-=%2$" #NT!
+ naval_doctrine_cost_factor_tooltip: "$MODIFIER_NAVAL_DOCTRINE_COST_FACTOR$: $RIGHT|-=%2$" #NT!
+  
+ army_spirit_category_type_cost_factor_tooltip: "$army_spirit_category_type_cost_factor$: $RIGHT|-=%0$" #NT!
+ air_spirit_category_type_cost_factor_tooltip: "$air_spirit_category_type_cost_factor$: $RIGHT|-=%0$" #NT!
+ navy_spirit_category_type_cost_factor_tooltip: "$navy_spirit_category_type_cost_factor$: $RIGHT|-=%0$" #NT!
+  
+ army_speed_factor_tooltip: "$MODIFIER_ARMY_SPEED_FACTOR$: $RIGHT|+=%$" #NT!
+ army_attack_speed_tooltip: "$MODIFIER_ARMY_ATTACK_SPEED_FACTOR$: $RIGHT|+=%$" #NT!
+ army_speed_factor_for_controller_tooltip: "$MODIFIER_ARMY_SPEED_FACTOR_FOR_CONTROLLER$: $RIGHT|+=%$" #NT!
+ enemy_army_speed_factor_tooltip: "$MODIFIER_ENEMY_ARMY_SPEED_FACTOR$: $RIGHT|-=%$" #NT!
+  
+ army_attack_factor_tooltip: "$MODIFIERS_ARMY_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+ breakthrough_factor_tooltip: "$MODIFIER_BREAKTHROUGH$: $RIGHT|+=%$" #NT!
+ army_defence_tooltip: "$MODIFIERS_ARMY_DEFENCE_FACTOR$: $RIGHT|+=%1$" #NT!
+ army_core_attack_tooltip: "$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+ army_core_defence_tooltip: "$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: $RIGHT|+=%1$" #NT!
+ land_night_attack_tooltip: "$MODIFIER_LAND_NIGHT_ATTACK$: $RIGHT|+=%1$" #NT!
+ army_attack_against_major_factor_tooltip: "$MODIFIERS_ARMY_ATTACK_AGAINST_MAJOR_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ army_infantry_attack_factor_tooltip: "$MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+ army_infantry_defence_factor_tooltip: "$MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ army_armor_attack_factor_tooltip: "$MODIFIERS_ARMY_ARMOR_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+ army_armor_defence_factor_tooltip: "$MODIFIERS_ARMY_ARMOR_DEFENCE_FACTOR$: $RIGHT|+=%1$" #NT!
+ army_armor_speed_factor_tooltip: "$MODIFIER_ARMY_ARMOR_SPEED_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ cavalry_attack_factor_tooltip: "$MODIFIER_CAVALRY_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+ cavalry_defence_factor_tooltip: "$MODIFIER_CAVALRY_DEFENCE_FACTOR$: $RIGHT|+=%1$" #NT!
+ cavalry_speed_factor_tooltip: "$modifier_army_sub_unit_cavalry_speed_factor$: $RIGHT|+=%1$" #NT!
+  
+ motorized_attack_factor_tooltip: "$MODIFIER_MOTORIZED_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+ motorized_defence_factor_tooltip: "$MODIFIER_MOTORIZED_DEFENCE_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ mechanized_attack_factor_tooltip: "$MODIFIER_MECHANIZED_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+ mechanized_defence_factor_tooltip: "$MODIFIER_MECHANIZED_DEFENCE_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ army_artillery_attack_factor_tooltip: "$MODIFIERS_ARMY_ARTILLERY_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+ army_artillery_defence_factor_tooltip: "$MODIFIERS_ARMY_ARTILLERY_DEFENCE_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ special_forces_attack_factor_tooltip: "$MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+ special_forces_defence_factor_tooltip: "$MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ unit_assault_battalion_design_cost_factor_tooltip: "$blackshirt_assault_battalion$ Unit Design Cost: $RIGHT|-=%2$" #NT!
+  
+ recon_factor_tooltip: "$MODIFIER_RECON_FACTOR$: $RIGHT|+=%1$" #NT!
+ recon_factor_while_entrenched_tooltip: "$MODIFIER_RECON_FACTOR_WHILE_ENTRENCHED$: $RIGHT|+=%1$" #NT!
+  
+ land_reinforce_rate_tooltip: "$MODIFIER_LAND_REINFORCE_RATE$: $RIGHT|+=%1$" #NT!
+  
+ cas_damage_reduction_tooltip: "$MODIFIER_CAS_DAMAGE_REDUCTION$: $RIGHT|+=%1$" #NT!
+  
+ land_bunker_effectiveness_factor_tooltip: "$MODIFIER_LAND_BUNKER_EFFECTIVENESS_FACTOR$: $RIGHT|+=%0$" #NT!
+ coastal_bunker_effectiveness_factor_tooltip: "$MODIFIER_COASTAL_BUNKER_EFFECTIVENESS_FACTOR$: $RIGHT|+=%0$" #NT!
+  
+ attrition_tooltip: "$MODIFIER_ATTRITION$: $RIGHT|-=%1$" #NT!
+  
+ winter_attrition_factor_tooltip: "$MODIFIER_WINTER_ATTRITION_FACTOR$: $RIGHT|-=%1$" #NT!
+  
+ acclimatization_hot_climate_gain_factor_tooltip: "$MODIFIER_ACCLIMATIZATION_HOT_CLIMATE_GAIN_FACTOR$: $RIGHT|+=%1$" #NT!
+ acclimatization_cold_climate_gain_factor_tooltip: "$MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ air_home_defence_factor_tooltip: "$MODIFIER_AIR_HOME_DEFENCE_FACTOR$: $RIGHT|+=%0$" #NT!
+ air_ace_generation_chance_factor_tooltip: "$MODIFIER_AIR_ACE_GENERATION_CHANCE_FACTOR$: $RIGHT|+=%2$" #NT!
+ ace_effectiveness_factor_tooltip: "$MODIFIER_ACE_EFFECTIVENESS_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ air_attack_factor_tooltip: "$MODIFIER_AIR_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+ air_defence_factor_tooltip: "$MODIFIER_AIR_DEFENCE_FACTOR$: $RIGHT|+=%1$" #NT!
+ air_range_factor_tooltip: "$MODIFIER_AIR_RANGE_FACTOR$: $RIGHT|+=%0$" #NT!
+ air_agility_factor_tooltip: "$MODIFIER_AIR_AGILITY_FACTOR$: $RIGHT|+=%0$" #NT!
+ air_accidents_factor_tooltip: "$MODIFIER_AIR_ACCIDENTS_FACTOR$: $RIGHT|-=%1$" #NT!
+  
+ air_night_penalty_tooltip: "$MODIFIER_AIR_NIGHT_PENALTY$: $RIGHT|-=%2$" #NT!
+ air_strategic_bomber_night_penalty_tooltip: "$MODIFIER_AIR_STRAT_BOMBER_NIGHT_PENALTY$: $RIGHT|-=%2$" #NT!
+  
+ mines_planting_by_air_factor_tooltip: "$MODIFIER_MINES_PLANTING_BY_AIR_FACTOR$: $RIGHT|+=%0$" #NT!
+ air_bombing_targetting_tooltip: "$MODIFIER_AIR_BOMBING_TARGETTING$: $RIGHT|+=%1$" #NT!
+ air_strategic_bomber_bombing_factor_tooltip: "$MODIFIER_STRATEGIC_BOMBER_BOMBING_FACTOR$: $RIGHT|+=%1$" #NT!
+ ground_attack_factor_tooltip: "$MODIFIER_GROUND_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+ port_strike_tooltip: "$MODIFIER_PORT_STRIKE_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ air_interception_detect_factor_tooltip: "$MODIFIER_AIR_INTERCEPTION_DETECT_FACTOR$: $RIGHT|+=%1$" #NT!
+ air_superiority_detect_factor_tooltip: "$MODIFIER_AIR_SUPERIORITY_DETECT_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ static_anti_air_damage_factor_tooltip: "$MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR$: $RIGHT|+=%1$" #NT!
+ static_anti_air_hit_chance_factor_tooltip: "$MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR$: $RIGHT|+=%1$" #NT!
+  
+ air_mission_efficiency_tooltip: "$MODIFIER_AIR_MISSION_EFFICIENCY$: $RIGHT|+=%1$" #NT!
+ air_escort_efficiency_tooltip: "$MODIFIER_AIR_ESCORT_EFFICIENCY$: $RIGHT|+=%0$" #NT!
+ air_superiority_efficiency_tooltip: "$MODIFIER_AIR_SUPERIORITY_EFFICIENCY$: $RIGHT|+=%0$" #NT!
+ air_intercept_efficiency_tooltip: "$MODIFIER_AIR_INTERCEPT_EFFICIENCY$: $RIGHT|+=%0$" #NT!
+ air_cas_efficiency_tooltip: "$MODIFIER_AIR_CAS_EFFICIENCY$: $RIGHT|+=%0$" #NT!
+ air_close_air_support_org_damage_factor_tooltip: "$MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR$: $RIGHT|+=%0$" #NT!
+ air_nav_efficiency_tooltip: "$MODIFIER_AIR_NAV_EFFICIENCY$: $RIGHT|+=%0$" #NT!
+  
+ air_weather_penalty_tooltip: "$MODIFIER_AIR_WEATHER_PENALTY$: $RIGHT|-=%2$" #NT!
+ air_cas_present_factor_tooltip: "$MODIFIER_AIR_CAS_PRESENT_FACTOR$: $RIGHT|+=%0$" #NT!
+ air_power_projection_factor_tooltip: "$MODIFIER_AIR_POWER_PROJECTION_FACTOR$: $RIGHT|+=%0$" #NT!
+ army_bonus_air_superiority_factor_tooltip: "$MODIFIER_ARMY_BONUS_AIR_SUPERIORITY_FACTOR$: $RIGHT|+=%2$" #NT!
+ air_superiority_bonus_in_combat_tooltip: "$MODIFIER_AIR_SUPERIORITY_BONUS_IN_COMBAT$: $RIGHT|+=%1$" #NT!
+ air_mission_xp_gain_factor_tooltip: "$MODIFIER_AIR_MISSION_XP_FACTOR$: $RIGHT|+=%0$" #NT!
+ air_training_xp_gain_factor_tooltip: "$MODIFIER_AIR_TRAINING_XP_FACTOR$: $RIGHT|+=%0$" #NT!
+ air_untrained_pilots_penalty_factor_tooltip: "$MODIFIER_AIR_UNTRAINED_PILOTS_PENALTY_FACTOR$: $RIGHT|-=%0$" #NT!
+ air_wing_xp_loss_when_killed_factor_tooltip: "$MODIFIER_AIR_WING_XP_LOSS_WHEN_KILLED_FACTOR$: $RIGHT|-=%0$" #NT!
+ enemy_army_bonus_air_superiority_factor_tooltip: "$MODIFIER_ENEMY_ARMY_BONUS_AIR_SUPERIORITY_FACTOR$: $RIGHT|-=%2$" #NT!
+  
+ strategic_bomb_visibility_tooltip: "$MODIFIER_STRAT_BOMBING_VISIBILITY$: $RIGHT|-=%0$" #NT!
+  
+ air_paradrop_agility_factor_tooltip: "$MODIFIER_PARADROP_AGILITY_FACTOR$: $RIGHT|+=%2$" #NT!
+ air_paradrop_attack_factor_tooltip: "$MODIFIER_PARADROP_ATTACK_FACTOR$: $RIGHT|+=%2$" #NT!
+ air_paradrop_defence_factor_tooltip: "$MODIFIER_PARADROP_DEFENCE_FACTOR$: $RIGHT|+=%2$" #NT!
+ paradrop_organization_factor_tooltip: "$MODIFIER_PARADROP_ORGANIZATION_FACTOR$: $RIGHT|+=%1$" #NT!
+ extra_paratrooper_supply_grace_tooltip: "$MODIFIER_PARATROOPER_EXTRA_SUPPLY_GRACE$: $RIGHT|+=1$ $MOD_HOUR$" #NT!
+  
+ refit_ic_cost_tooltip: "$MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR$: $RIGHT|-=%0$" #NT!
+ refit_speed_tooltip: "$MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR$: $RIGHT|+=%0$" #NT!
+ repair_speed_factor_tooltip: "$MODIFIER_REPAIR_SPEED_FACTOR$: $RIGHT|+=%0$" #NT!
+  
+ positioning_tooltip: "$MODIFIER_POSITIONING$: $RIGHT|+=%1$" #NT!
+ naval_detection_tooltip: "$MODIFIER_NAVAL_DETECTION$: $RIGHT|+=%0$" #NT!
+ spotting_chance_tooltip: "$MODIFIER_SPOTTING_CHANCE_FACTOR$: $RIGHT|+=%0$" #NT!
+ screening_efficiency_tooltip: "$MODIFIER_SCREENING_EFFICIENCY$: $RIGHT|+=%1$" #NT!
+ screening_without_screens_tooltip: "$MODIFIER_SCREENING_WITHOUT_SCREENS$: $RIGHT|+=%1$" #NT!
+ strike_force_movement_org_loss_tooltip: "$MODIFIER_STRIKE_FORCE_MOVING_ORG$: $RIGHT|-=%2$" #NT!
+ ships_at_battle_start_tooltip: "$MODIFIER_SHIPS_AT_BATTLE_START_FACTOR$: $RIGHT|H%$" #NT!
+ sortie_efficiency_tooltip: "$CARRIER_SORTIE_EFFICIENCY_FACTOR$: $RIGHT|+=%0$" #NT!
+ naval_has_potf_in_combat_attack_tooltip: "$MODIFIER_NAVAL_HAS_POTF_IN_COMBAT_ATTACK$: $RIGHT|+=%2$" #NT!
+ naval_has_potf_in_combat_defense_tooltip: "$MODIFIER_NAVAL_HAS_POTF_IN_COMBAT_DEFENSE$: $RIGHT|+=%2$" #NT!
+  
+ naval_accidents_chance_tooltip: "$MODIFIER_NAVAL_ACCIDENTS_CHANCE$: $RIGHT|-=%2$" #NT!
+ navy_visibility_tooltip: "$MODIFIER_NAVAL_VISIBILITY_FACTOR$: $RIGHT|-=%2$" #NT!
+ naval_hit_chance_tooltip: "$MODIFIER_NAVAL_HIT_CHANCE$: $RIGHT|+=%0$" #NT!
+ naval_speed_factor_tooltip: "$MODIFIER_NAVAL_SPEED$: $RIGHT|+=%0$" #NT!
+ naval_retreat_chance_tooltip: "$MODIFIER_NAVAL_RETREAT_CHANCE$: $RIGHT|+=%0$" #NT!
+ naval_retreat_chance_after_initial_combat_tooltip: "$MODIFIER_NAVAL_RETREAT_CHANCE_AFTER_INITIAL_COMBAT$: $RIGHT|+=%0$" #NT!
+ naval_retreat_speed_tooltip: "$MODIFIER_NAVAL_RETREAT_SPEED$: $RIGHT|+=%0$" #NT!
+ naval_retreat_speed_after_initial_combat_tooltip: "$MODIFIER_NAVAL_RETREAT_SPEED_AFTER_INITIAL_COMBAT$: $RIGHT|+=%0$" #NT!
+  
+ night_spotting_chance_tooltip: "$MODIFIER_NIGHT_SPOTTING_CHANCE$: $RIGHT|+=%1$" #NT!
+  
+ convoy_escort_efficiency_factor_tooltip: "$MODIFIER_MISSION_CONVOY_ESCORT_EFFICIENCY$: $RIGHT|+=%2$" #NT!
+ convoy_raiding_efficiency_factor_tooltip: "$MODIFIER_CONVOY_RAIDING_EFFICIENCY_FACTOR$: $RIGHT|+=%2$" #NT!
+ naval_torpedo_screen_penetration_factor_tooltip: "$MODIFIER_NAVAL_TORPEDO_SCREEN_PENETRATION_FACTOR$: $RIGHT|+=%2$" #NT!
+ naval_torpedo_hit_chance_factor_tooltip: "$MODIFIER_NAVAL_TORPEDO_HIT_CHANCE_FACTOR$: $RIGHT|+=%2$" #NT!
+ naval_critical_score_chance_factor_tooltip: "$MODIFIER_NAVAL_CRITICAL_SCORE_CHANCE_FACTOR$: $RIGHT|+=%2$" #NT!
+  
+ naval_strike_attack_factor_tooltip: "$MODIFIER_NAVAL_STRIKE_ATTACK_FACTOR$: $RIGHT|+=%0$" #NT!
+ naval_strike_targetting_factor_tooltip: "$MODIFIER_NAVAL_STRIKE_TARGETTING_FACTOR$: $RIGHT|+=%0$" #NT!
+ naval_strike_agility_factor_tooltip: "$MODIFIER_NAVAL_STRIKE_AGILITY_FACTOR$: $RIGHT|+=%0$" #NT!
+  
+ navy_anti_air_attack_factor_tooltip: "$MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR$: $RIGHT|+=%2$" #NT!
+  
+ navy_submarine_attack_factor_tooltip: "$MODIFIER_NAVY_SUBMARINE_ATTACK_FACTOR$: $RIGHT|+=%2$" #NT!
+ navy_submarine_defence_factor_tooltip: "$MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR$: $RIGHT|+=%2$" #NT!
+ navy_submarine_detection_factor_tooltip: "$MODIFIERS_SUBMARINE_DETECTION_FACTOR$: $RIGHT|+=%2$" #NT!
+ sub_retreat_speed_tooltip: "$MODIFIER_SUB_RETREAT_SPEED$: $RIGHT|+=%0$" #NT!
+ naval_torpedo_cooldown_factor_tooltip: "$MODIFIER_NAVAL_TORPEDO_COOLDOWN_FACTOR$: $RIGHT|+=%2$" #NT!
+ navy_capital_ship_attack_factor_tooltip: "$MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: $RIGHT|+=%2$" #NT!
+ navy_capital_ship_defence_factor_tooltip: "$MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: $RIGHT|+=%2$" #NT!
+ navy_screen_attack_factor_tooltip: "$MODIFIER_NAVY_SCREEN_ATTACK_FACTOR$: $RIGHT|+=%2$" #NT!
+ navy_screen_defence_factor_tooltip: "$MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR$: $RIGHT|+=%2$" #NT!
+  
+ navy_max_range_factor_tooltip: "$MODIFIER_NAVY_MAX_RANGE_FACTOR$: $RIGHT|+=%0$" #NT!
+ naval_coordination_tooltip: "$MODIFIER_NAVAL_COORDINATION$: $RIGHT|+=%0$" #NT!
+ naval_attrition_tooltip: "$MODIFIER_NAVAL_ATTRITION_FACTOR$: $RIGHT|-=%1$" #NT!
+  
+ mines_planting_by_fleets_factor_tooltip: "$MODIFIER_MINES_PLANTING_BY_FLEETS_FACTOR$: $RIGHT|+=%0$" #NT!
+ mines_sweeping_by_fleets_factor_tooltip: "$MODIFIER_MINES_SWEEPING_BY_FLEETS_FACTOR$: $RIGHT|+=%0$" #NT!
+ naval_mine_hit_chance_tooltip: "$MODIFIER_NAVAL_MINE_HIT_CHANCE$: $RIGHT|-=%2$" #NT!
+ naval_mines_damage_factor_tooltip: "$MODIFIER_NAVAL_MINES_DAMAGE_FACTOR$: $RIGHT|+=%0$" #NT!
+  
+ naval_invasion_capacity_tooltip: "$MODIFIER_NAVAL_INVASION_CAPACITY$: $RIGHT|+=0$" #NT!
+ amphibious_invasion_tooltip: "$MODIFIER_AMPHIBIOUS_INVASION$: $RIGHT|+=%1$" #NT!
+ invasion_preparation_tooltip: "$MODIFIER_NAVAL_INVASION_PREPARATION$: $RIGHT|-=%1$" #NT!
+ naval_invasion_prep_speed_tooltip: "$MODIFIER_NAVAL_INVASION_PREPARATION_SPEED$: $RIGHT|+=%1$" #NT!
+ extra_marine_supply_grace_tooltip: "$MODIFIER_MARINE_EXTRA_SUPPLY_GRACE$: $RIGHT|+=1$ $MOD_HOUR$" #NT!
+  
+ no_supply_grace_tooltip: "$MODIFIER_NO_SUPPLY_GRACE$: $RIGHT|+=1$ $MOD_HOUR$" #NT!
+ special_forces_no_supply_grace_tooltip: "$MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE$: $RIGHT|+=1$ $MOD_HOUR$" #NT!
+  
+ required_garrison_factor_tooltip: "$MODIFIER_REQUIRED_GARRISON_FACTOR$: $RIGHT|-=%0$" #NT!
+ intel_network_gain_tooltip: "$MODIFIER_INTEL_NETWORK_GAIN$: $RIGHT|+=1$" #NT!
+ intel_network_gain_factor_tooltip: "$MODIFIER_INTEL_NETWORK_GAIN_FACTOR$: $RIGHT|+=%0$" #NT!
+ enemy_intel_network_gain_factor_over_occupied_tag_tooltip: "$MODIFIER_ENEMY_INTEL_NETWORK_GAIN_FACTOR_OVER_OCCUPIED_TAG$: $RIGHT|-=%0$" #NT!
+ local_intel_to_enemies_tooltip: "$MODIFIER_LOCAL_INTEL_TO_ENEMIES$: $RIGHT|-=%0$" #NT!
+  
+ local_building_slots_tooltip: "$MODIFIER_LOCAL_BUILDING_SLOTS$: $RIGHT|+=0$" #NT!
+ local_building_slots_factor_tooltip: "$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: $RIGHT|+=%0$" #NT!
+ local_factories_tooltip: "$MODIFIER_LOCAL_FACTORIES$: $RIGHT|+=%0$" #NT!
+ local_factory_sabotage_tooltip: "$MODIFIER_LOCAL_FACTORY_SABOTAGE$: $RIGHT|-=%0$" #NT!
+  
+ local_manpower_tooltip: "$MODIFIER_LOCAL_MANPOWER$: $RIGHT|+=%0$" #NT!
+ local_non_core_manpower_tooltip: "$MODIFIER_LOCAL_NON_CORE_MANPOWER$: $RIGHT|+=%0$" #NT!
+ recruitable_population_tooltip: "$MODIFIER_RECRUITABLE_POPULATION$: $RIGHT|+=%2$" #NT!
+ recruitable_population_factor_tooltip: "$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: $RIGHT|+=%2$" #NT!
+  
+ local_org_regain_tooltip: "$MODIFIER_LOCAL_ORG_REGAIN$: $RIGHT|+=%2$" #NT!
+  
+ local_supplies_tooltip: "$MODIFIER_LOCAL_SUPPLIES$: $RIGHT|+=%0$" #NT!
+ local_supplies_for_controller_tooltip: "$MODIFIER_LOCAL_SUPPLIES_FOR_CONTROLLER$: $RIGHT|+=%0$" #NT!
+ enemy_local_supplies_tooltip: "$MODIFIER_ENEMY_LOCAL_SUPPLIES$: $RIGHT|-=%0$" #NT!
+ local_supply_impact_factor_tooltip: "$MODIFIER_LOCAL_SUPPLY_IMPACT$: $RIGHT|-=%0$" #NT!
+ local_non_core_supply_impact_factor_tooltip: "$MODIFIER_LOCAL_NON_CORE_SUPPLY_IMPACT$: $RIGHT|-=%0$" #NT!
+  
+ enemy_attrition_tooltip: "$MODIFIER_ENEMY_ATTRITION$: $RIGHT|+=%1$" #NT!
+ truck_attrition_tooltip: "$MODIFIER_TRUCK_ATTRITION$: $RIGHT|-=%2$" #NT!
+ truck_attrition_factor_tooltip: "$MODIFIER_TRUCK_ATTRITION_FACTOR$: $RIGHT|-=%0$" #NT!
+ enemy_truck_attrition_factor_tooltip: "$MODIFIER_ENEMY_TRUCK_ATTRITION_FACTOR$: $RIGHT|+=%0$" #NT!
+  
+ equipment_capture_for_controller_tooltip: "$MODIFIER_EQUIPMENT_CAPTURE_FOR_CONTROLLER$: $RIGHT|+=%1$" #NT!
+ equipment_capture_factor_for_controller_tooltip: "$MODIFIER_EQUIPMENT_CAPTURE_FACTOR_FOR_CONTROLLER$: $RIGHT|+=%1$" #NT!
+  
+ local_resources_tooltip: "$MODIFIER_LOCAL_RESOURCES$: $RIGHT|+=%0$" #NT!
+  
+ state_resources_factor_tooltip: "$MODIFIER_STATE_RESOURCES_FACTOR$: $RIGHT|+=%0$" #NT!
+ state_resource_aluminium_tooltip: "$state_resource_aluminium$: $RIGHT|+=0$" #NT!
+ state_resource_chromium_tooltip: "$state_resource_chromium$: $RIGHT|+=0$" #NT!
+ state_resource_oil_tooltip: "$state_resource_oil$: $RIGHT|+=0$" #NT!
+ state_resource_rubber_tooltip: "$state_resource_rubber$: $RIGHT|+=0$" #NT!
+ state_resource_steel_tooltip: "$state_resource_steel$: $RIGHT|+=0$" #NT!
+ state_resource_tungsten_tooltip: "$state_resource_tungsten$: $RIGHT|+=0$" #NT!
+  
+ state_resource_cost_aluminium_tooltip: "$state_resource_cost_aluminium$: $RIGHT|-=0$" #NT!
+ state_resource_cost_chromium_tooltip: "$state_resource_cost_chromium$: $RIGHT|-=0$" #NT!
+ state_resource_cost_oil_tooltip: "$state_resource_cost_oil$: $RIGHT|-=0$" #NT!
+ state_resource_cost_rubber_tooltip: "$state_resource_cost_rubber$: $RIGHT|-=0$" #NT!
+ state_resource_cost_steel_tooltip: "$state_resource_cost_steel$: $RIGHT|-=0$" #NT!
+ state_resource_cost_tungsten_tooltip: "$state_resource_cost_tungsten$: $RIGHT|-=0$" #NT!
+  
+ temporary_state_resource_aluminium_tooltip: "$temporary_state_resource_aluminium$: $RIGHT|+=0$" #NT!
+ temporary_state_resource_chromium_tooltip: "$temporary_state_resource_chromium$: $RIGHT|+=0$" #NT!
+ temporary_state_resource_oil_tooltip: "$temporary_state_resource_oil$: $RIGHT|+=0$" #NT!
+ temporary_state_resource_rubber_tooltip: "$temporary_state_resource_rubber$: $RIGHT|+=0$" #NT!
+ temporary_state_resource_steel_tooltip: "$temporary_state_resource_steel$: $RIGHT|+=0$" #NT!
+ temporary_state_resource_tungsten_tooltip: "$temporary_state_resource_tungsten$: $RIGHT|+=0$" #NT!
+  
+ state_production_speed_buildings_factor: "$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: $RIGHT|+=%0$" #NT!
+ state_production_speed_facility_factor: "$MODIFIER_STATE_PRODUCTION_SPEED_FACILITY_FACTOR$: $RIGHT|+=%2$" #NT!
+  
+ state_production_speed_air_base_factor_tooltip: "$modifier_state_production_speed_air_base_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_anti_air_building_factor_tooltip: "$modifier_state_production_speed_anti_air_building_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_arms_factory_factor_tooltip: "$modifier_state_production_speed_arms_factory_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_bunker_factor_tooltip: "$modifier_state_production_speed_bunker_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_coastal_bunker_factor_tooltip: "$modifier_state_production_speed_coastal_bunker_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_dockyard_factor_tooltip: "$modifier_state_production_speed_dockyard_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_fuel_silo_factor_tooltip: "$modifier_state_production_speed_fuel_silo_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_industrial_complex_factor_tooltip: "$modifier_state_production_speed_industrial_complex_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_infrastructure_factor_tooltip: "$modifier_state_production_speed_infrastructure_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_naval_base_factor_tooltip: "$modifier_state_production_speed_naval_base_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_nuclear_reactor_factor_tooltip: "$modifier_state_production_speed_nuclear_reactor_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_radar_station_factor_tooltip: "$modifier_state_production_speed_radar_station_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_rail_way_factor_tooltip: "$modifier_state_production_speed_rail_way_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_rocket_site_factor_tooltip: "$modifier_state_production_speed_rocket_site_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_supply_node_factor_tooltip: "$modifier_state_production_speed_supply_node_factor$: $RIGHT|+=%2$" #NT!
+ state_production_speed_synthetic_refinery_factor_tooltip: "$modifier_state_production_speed_synthetic_refinery_factor$: $RIGHT|+=%2$" #NT!
+  
+ civilian_intel_factor_tooltip: "$MODIFIER_CIVILIAN_INTEL_FACTOR$: $RIGHT|+=%0$" #NT!
+ army_intel_factor_tooltip: "$MODIFIER_ARMY_INTEL_FACTOR$: $RIGHT|+=%0$" #NT!
+ navy_intel_factor_tooltip: "$MODIFIER_NAVY_INTEL_FACTOR$: $RIGHT|+=%0$" #NT!
+ airforce_intel_factor_tooltip: "$MODIFIER_AIRFORCE_INTEL_FACTOR$: $RIGHT|+=%0$" #NT!
+  
+ civilian_intel_to_others_tooltip: "$MODIFIER_CIVILIAN_INTEL_TO_OTHERS$: $RIGHT|-=%%1$" #NT!
+ army_intel_to_others_tooltip: "$MODIFIER_ARMY_INTEL_TO_OTHERS$: $RIGHT|-=%%1$" #NT!
+ navy_intel_to_others_tooltip: "$MODIFIER_NAVY_INTEL_TO_OTHERS$: $RIGHT|-=%%1$" #NT!
+ airforce_intel_to_others_tooltip: "$MODIFIER_AIRFORCE_INTEL_TO_OTHERS$: $RIGHT|-=%%1$" #NT!
+  
+ vanguardist_drift_tooltip: "$vanguardist_drift$: $RIGHT|+=$" #NT!
+ collectivist_drift_tooltip: "$collectivist_drift$: $RIGHT|+=$" #NT!
+ libertarian_socialist_drift_tooltip: "$libertarian_socialist_drift$: $RIGHT|+=$" #NT!
+ social_democrat_drift_tooltip: "$social_democrat_drift$: $RIGHT|+=$" #NT!
+ social_liberal_drift_tooltip: "$social_liberal_drift$: $RIGHT|+=$" #NT!
+ market_liberal_drift_tooltip: "$market_liberal_drift$: $RIGHT|+=$" #NT!
+ social_conservative_drift_tooltip: "$social_conservative_drift$: $RIGHT|+=$" #NT!
+ authoritarian_democrat_drift_tooltip: "$authoritarian_democrat_drift$: $RIGHT|+=$" #NT!
+ paternal_autocrat_drift_tooltip: "$paternal_autocrat_drift$: $RIGHT|+=$" #NT!
+ national_populist_drift_tooltip: "$national_populist_drift$: $RIGHT|+=$" #NT!
+ valkist_drift_tooltip: "$valkist_drift$: $RIGHT|+=$" #NT!
+  
+ tactic_breakthrough_preferred_weight_factor: "Дополнительный шанс тактики §Y«Прорыв»§!, если эта тактика — предпочитаемая"
+ tactic_backhand_blow_preferred_weight_factor: "Additional §YBackhand Blow§! Tactic Chance if it is Preferred tactic" #NT!
+ tactic_tactical_withdrawal_preferred_weight_factor: "Дополнительный шанс тактики §Y«Тактическое отступление»§!, если эта тактика — предпочитаемая"

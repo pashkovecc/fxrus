@@ -1,0 +1,595 @@
+﻿l_russian:
+  
+ o_strat_offensive_default: "Наступательная операция"
+ o_strat_defensive_default: "Оборонительный приказ"
+ o_strat_naval_default: "Десантная операция"
+  
+ o_operation: "Операция"
+  
+  ###German 
+ o_unternehmen: "Операция"
+ o_barbarossa: "Операция «Барбаросса»"
+ o_fall_blau: "План «Блау»"
+ o_fall_rot: "План «Рот»"
+ o_fall_gelb: "План «Гельб»"
+ o_fall_braun: "План «Браун»"
+ o_fall_weiss: "План «Вайс»"
+ o_fall_otto: "Fall Otto" #NT!
+ o_anton: "Fall Anton" #NT!
+ o_fall_marder: "Fall Marder" #NT!
+ o_attila: "Unternehmen Attila" #NT!
+ o_seelowe: "Операция «Морской лев»"
+ o_weserubung: "Операция «Учения на Везере»"
+ o_fall_grun: "План «Грюн»"
+ o_merkur: "Операция «Меркурий»"
+ o_marita: "Операция «Марита»"
+ o_herkules: "Операция «Геркулес»"
+ o_silberfuchs: "Операция «Серебристая лиса»"
+ o_blaufuchs: "Операция «Голубой песец»"
+ o_polarfuchs: "Операция «Песец»"
+ o_platinfuchs: "Операция «Платиновая лиса»"
+ o_taifun: "Операция «Тайфун»"
+ o_zitadelle: "Операция «Цитадель»"
+ o_herbstnebel: "Операция «Осенний туман»"
+ o_buffel: "Операция «Буйвол»"
+ o_sizilien: "Операция «Сицилия»"
+ o_birke: "Операция «Береза»"
+ o_tanne_ost: "Операция «Восточная ель»"
+ o_tanne_west: "Операция «Западная ель»"
+ o_tannenbaum: "Unternehmen Tannenbaum" #NT!
+ o_margarethe: "Операция «Маргарете»"
+ o_yugoslavia: "Unternehmen 25" #NT!
+ o_castigo: "Unternehmen Castigo" #NT!
+ o_cannae: "Unternehmen Cannae" #NT!
+ o_hundesohn: "Unternehmen Hundesohn" #NT!
+ o_treuebruch: "Unternehmen Treuebruch" #NT!
+ o_strafe: "Unternehmen Strafe" #NT!
+ o_safari: "Unternehmen Safari" #NT!
+ o_seydlitz: "Unternehmen Seydlitz" #NT!
+ o_hannover: "Unternehmen Hannover" #NT!
+ o_alaric: "Unternehmen Alarich" #NT!
+ o_lehrgang: "Unternehmen Lehrgang" #NT!
+ o_fritz: "Unternehmen Fritz" #NT!
+ o_zahnarzt: "Unternehmen Zahnarzt" #NT!
+  
+ o_wildente: "Дикая утка"
+ o_biene: "Пчела"
+ o_gneisenau: "Гнайзенау"
+ o_granit: "Гранит"
+ o_stahl: "Сталь"
+ o_scharnhorst: "Шарнхорст"
+ o_nebelubung: "Учения в тумане"
+ o_eisen: "Железо"
+ o_festung: "Крепость"
+ o_Geier: "Коршун"
+ o_habicht: "Ястреб"
+ o_luchs: "Рысь"
+ o_morgenrote: "Заря"
+ o_grunpfeil: "Зеленая стрела"
+  
+ o_ikarus: "Операция «Икар»"
+ o_herbstreise: "Операция «Осенняя поездка»"
+ o_kathleen: "Операция «Кэтлин»"
+  
+ o_brandung: "Операция «Прибой»"
+ o_skorpion: "Операция «Скорпион»"
+ o_aida: "Операция «Аида»"
+ o_capri: "Операция «Капри»"
+ o_theseus: "Операция «Тесей»"
+ o_ochsenkopf: "Операция «Бычья голова»"
+ o_venezie: "Операция «Венеция»"
+ o_fruhlingswind: "Операция «Весенний ветер»"
+ o_ausladung: "Операция «Разгрузка»"
+ o_eilbote: "Операция «Курьер»"
+ o_fliederblute: "Операция «Цветок лилии»"
+ o_kuckuksei: "Операция «Яйцо кукушки»"
+  
+ o_beowulf: "Операция «Беовульф»"
+ o_doppelkopf: "Операция «Двойная голова»"
+ o_laura: "Операция «Лаура»"
+ o_haifisch: "Акула"
+ o_nordwind: "Северный ветер"
+ o_schlussjagd: "Последняя охота"
+ o_sturmflut: "Штормовой прилив"
+ o_taube: "Голубь"
+ o_siegfried: "Зигфрид"
+ o_westwind: "Западный ветер"
+ o_nordwest: "Unternehmen Nordwest" #NT!
+ o_fredericus: "Unternehmen Fredericus" #NT!
+ o_dampfhammer: "Unternehmen Dampfhammer" #NT!
+ o_hubertus: "Unternehmen Hubertus" #NT!
+  
+ o_edelweiss: "Операция «Эдельвейс»"
+ o_attika: "Операция «Аттика»"
+ o_bussard: "Операция «Канюк»"
+ o_herbstlaub: "Операция «Осенняя листва»"
+ o_herbstzeitlose: "Операция «Осенний крокус»"
+ o_schamil: "Операция «Шамиль»"
+ o_clausewitz: "Операция «Клаузевиц»"
+ o_brunhild: "Операция «Брюнхильда»"
+ o_krimhilde: "Операция «Кримхильда»"
+ o_wikinger: "Операция «Викинг»"
+  
+ o_gisella: "Операция «Гизелла»"
+ o_ilona: "Операция «Илона»"
+ o_isabella: "Операция «Изабелла»"
+  
+ o_maus: "Мышь"
+ o_derfflinger: "Дерффлингер"
+ o_moorbrand: "Пожар на болоте"
+ o_bettelstab: "Клюка"
+ o_blucher: "Блюхер"
+ o_braunschweig: "Брауншвейг"
+ o_bruckenschlag: "Наведение мостов"
+ o_feuerzauber: "Операция «Фейерверк»"
+ o_nordlicht: "Операция «Северное сияние»"
+ o_sumpf: "Операция «Болото»"
+  
+ o_gertrud: "Операция «Гертруда»"
+ o_fischreiher: "Цапля"
+ o_lichtschlag: "Молния"
+ o_nordpol: "Северный полюс"
+ o_orkan: "Ураган"
+ o_raubtier: "Хищник"
+ o_storfang: "Unternehmen Störfang" #NT!
+ o_taubenschlag: "Голубятня"
+ o_trappenjagd: "Охота на дрофу"
+ o_wiesengrund: "Луговая долина"
+ o_wintermarchen: "Зимняя сказка"
+ o_eisbar: "Белый медведь"
+ o_leopard: "Леопард"
+ o_michael: "Майкл"
+ o_poseidon: "Посейдон"
+ o_zwischenspiel: "Интерлюдия"
+ o_wintergewitter: "Зимняя гроза"
+ o_aster: "Ветка"
+ o_blei: "Свинец"
+ o_blume: "Цветок"
+ o_fischfang: "Рыбная ловля"
+ o_ludwig: "Людвиг"
+ o_luttich: "Люттих"
+ o_martin: "Мартин"
+ o_morgenwind: "Утренний ветер"
+ o_sonnenaufgang: "Рассвет"
+ o_konrad: "Операция «Конрад»"
+ o_fruhlingserwachen: "Операция «Весеннее пробуждение»"
+ o_wacht_am_rhein: "Операция «Стража на Рейне»"
+ o_schneeman: "Снеговик"
+ o_sonnenwende: "Солнцестояние"
+ o_sudwing: "Южный ветер"
+  
+ o_ostwind: "Восточный ветер"
+ o_wetzstein: "Точильный камень"
+ o_oderubung: "Учения на Одере"
+ o_donauubung: "Учения на Дунае"
+ o_osterspaziergang: "Пасхальная прогулка"
+ o_reibeisen: "Терка"
+ o_einbaum: "Челн"
+ o_apfelbaum: "Яблоня"
+ o_fuchsjagd: "Охота на лис"
+ o_bismarck: "Бисмарк"
+ o_dorffest: "Сельская ярмарка"
+ o_gelandemarsch: "Марш-бросок"
+ o_freiherr: "Барон"
+ o_deichgraf: "Начальник плотины"
+ o_heimfahrt: "Возвращение домой"
+ o_heimspiel: "Игра на своем поле"
+ o_hasenjagd: "Охота на зайцев"
+ o_ingwer: "Имбирь"
+ o_jahreswechsel: "Новый год"
+ o_kannonenkugel: "Пушечное ядро"
+ o_lastkahn: "Баржа"
+ o_mondschein: "Лунный свет"
+ o_neuland: "Неизведанная земля"
+ o_ofenrohr: "Дымовая труба"
+ o_pistole: "Пистолет"
+ o_ruckreise: "Возвращение"
+ o_sandbank: "Песчаная отмель"
+ o_tankwart: "Заправщик"
+ o_vogelsang: "Пение птиц"
+ o_winkel: "Угол"
+ o_zebra: "Зебра"
+  
+  ###Russia 
+ o_strat_offensive_ru: "Стратегическая наступательная операция"
+ o_strat_defensive_ru: "Стратегическая оборонительная операция"
+ o_strat_naval_ru: "Стратегическая десантная операция"
+  
+ o_operatsiya: "Операция"
+  
+ o_bagration: "Операция «Багратион»"
+ o_suvorov: "Операция «Суворов»"
+ o_kutuzov: "Операция «Кутузов»"
+ o_rumyantsev: "Операция «Полководец Румянцев»"
+ o_potyomkin: "Operatsiya Potyomkin" #NT!
+ o_alekseyev: "Operatsiya Alekseyev" #NT!
+  
+ o_mars: "Операция «Марс»"
+ o_jupiter: "Operatsiya Yupiter" #NT!
+ o_saturn: "Операция «Сатурн»"
+ o_small_saturn: "Operatsiya Maly Saturn" #NT!
+ o_uranus: "Операция «Уран»"
+ o_small_uranus: "Operatsiya Maly Uran" #NT!
+ o_mercury: "Operatsiya Merkury" #NT!
+ o_venus: "Operatsiya Venera" #NT!
+ o_neptune: "Операция «Нептун»"
+  
+ o_proryv: "Operatsiya Proryv" #NT!
+ o_polar_star: "Операция «Полярная звезда»"
+ o_star_rus: "Operatsiya Zvezda" #NT!
+ o_kontsert: "Операция «Концерт»"
+ o_ekaterina: "Operatsiya Yekaterina" #NT!
+ o_neva_1: "Operatsiya Neva" #NT!
+ o_neva_2: "Operatsiya Neva-2" #NT!
+ o_iskra: "Операция «Искра»"
+ o_grom: "Operatsiya Grom" #NT!
+ o_groza: "Operatsiya Groza" #NT!
+ o_don_rus: "Operatsiya Don" #NT!
+ o_skachok: "Operatsiya Skachok" #NT!
+ o_pustynya: "Operatsiya Pustynya" #NT!
+ o_general_moroz: "Operatsiya General Moroz" #NT!
+ o_ring: "Операция «Кольцо»"
+  
+ o_berlin_strategic_offensive: "Berlin Strategic Offensive Operation" #NT!
+ o_prussian_strategic_offensive: "Prussian Strategic Offensive Operation" #NT!
+ o_warsaw_strategic_offensive: "Warsaw Strategic Offensive Operation" #NT!
+ o_baltic_strategic_offensive: "Baltic Strategic Offensive Operation" #NT!
+ o_north_caucasus_strategic_offensive: "North Caucasian Strategic Offensive Operation" #NT!
+  
+  ###Japan 
+ o_ichi: "Ichi-Go" #NT!
+ o_ni: "Ni-Go" #NT!
+ o_san: "San-Go" #NT!
+ o_yon: "Yon-Go" #NT!
+ o_ko: "Ko-Go" #NT!
+ o_roku: "Roku-Go" #NT!
+ o_nana: "Nana-Go" #NT!
+ o_hachi: "Hachi-Go" #NT!
+ o_kyu: "Kyu-Go" #NT!
+ o_ju: "Ju-Go" #NT!
+ o_ju_ichi: "Дзю Ити"
+ o_ju_ni: "Дзю Ни"
+ o_ju_san: "Дзю Сан"
+ o_ju_yon: "Дзю Ён"
+ o_ju_ko: "Дзю Го"
+ o_ju_roku: "Дзю Року"
+ o_ju_hachi: "Дзю Хати"
+ o_ju_kyu: "Дзю Кю"
+ o_ni_ju: "Ни-Дзю"
+ o_ni_ju_ichi: "Ни-Дзю Ити"
+ o_ni_ju_ni: "Ни-Дзю Ни"
+ o_ni_ju_san: "Ни-Дзю Сан"
+ o_ni_ju_yon: "Ни-Дзю Ён"
+ o_ni_ju_ko: "Ни-Дзю Го"
+ o_ni_ju_roku: "Ни-Дзю Року"
+ o_ni_ju_hachi: "Ни-Дзю Хати"
+ o_ni_ju_kyu: "Ни-Дзю Кю"
+ o_san_ju: "Сан-Дзю"
+ o_san_ju_ichi: "Сан-Дзю Ити"
+ o_san_ju_ni: "Сан-Дзю Ни"
+ o_san_ju_san: "Сан-Дзю Сан"
+ o_san_ju_yon: "Сан-Дзю Ён"
+ o_san_ju_ko: "Сан-Дзю Ко"
+ o_san_ju_roku: "Сан-Дзю Року"
+ o_san_ju_hachi: "Сан-Дзю Хати"
+ o_san_ju_kyu: "Сан-Дзю Кю"
+ o_yon_ju: "Ён-Дзю"
+ o_yon_ju_ichi: "Ён-Дзю Ити"
+ o_yon_ju_ni: "Ён-Дзю Ни"
+ o_yon_ju_san: "Ён-Дзю Сан"
+ o_yon_ju_yon: "Ён-Дзю Ён"
+ o_yon_ju_ko: "Ён-Дзю Го"
+ o_yon_ju_roku: "Ён-Дзю Року"
+ o_yon_ju_hachi: "Ён-Дзю Хати"
+ o_yon_ju_kyu: "Ён-Дзю Кю"
+ o_roku_ju: "Року-Дзю"
+ o_roku_ju_ichi: "Року-Дзю Ити"
+ o_roku_ju_ni: "Року-Дзю Ни"
+ o_roku_ju_san: "Року-Дзю Сан"
+ o_roku_ju_yon: "Року-Дзю Ён"
+ o_roku_ju_ko: "Року-Дзю Го"
+ o_roku_ju_roku: "Року-Дзю Року"
+ o_roku_ju_hachi: "Року-Дзю Хати"
+ o_roku_ju_kyu: "Року-Дзю Кю"
+ o_fu: "F U"
+ o_ai: "A I"
+ o_e: "E"
+ o_b: "B"
+ o_de: "D E"
+ o_l: "L"
+ o_t: "T"
+ o_sr: "S R"
+ o_m: "M"
+ o_al: "A L"
+ o_d: "D"
+ o_j: "J"
+ o_fs: "F S"
+ o_mo: "M O"
+ o_ry: "R Y"
+ o_mi: "M I"
+  
+  ###USA 
+ o_bold: "Смелый"
+ o_striking: "Сокрушающий"
+ o_cobra: "Кобра"
+ o_musketeer: "Musketeer" #NT!
+ o_diplomat: "Diplomat" #NT!
+ o_cartwheel: "Cartwheel" #NT!
+ o_chronicle: "Chronicle" #NT!
+ o_postern: "Postern" #NT!
+ o_blissful: "Blissful" #NT!
+ o_dexterity: "Dexterity" #NT!
+ o_cleanslate: "Cleanslate" #NT!
+ o_cyclone: "Cyclone" #NT!
+ o_oboe: "Oboe" #NT!
+ o_watchtower: "Watchtower" #NT!
+ o_detachment: "Detachment" #NT!
+ o_flintlock: "Flintlock" #NT!
+ o_catchpole: "Catchpole" #NT!
+ o_forager: "Forager" #NT!
+ o_galvanic: "Galvanic" #NT!
+ o_iceberg: "Iceberg" #NT!
+ o_stalemate: "Stalemate" #NT!
+ o_downfall: "Downfall" #NT!
+ o_olympic: "Olympic" #NT!
+ o_coronet: "Coronet" #NT!
+ o_majestic: "Majestic" #NT!
+ o_cottage: "Cottage" #NT!
+ o_sandcrab: "Sandcrab" #NT!
+ o_causway: "Causway" #NT!
+ o_avalanche: "Avalanche" #NT!
+ o_giant: "Giant" #NT!
+ o_buffalo: "Buffalo" #NT!
+ o_anvil: "Anvil" #NT!
+ o_dragoon: "Dragoon" #NT!
+ o_roundup: "Roundup" #NT!
+ o_sledgehammer: "Sledgehammer" #NT!
+ o_overlord: "Overlord" #NT!
+ o_blackstone: "Blackstone" #NT!
+ o_brushwood: "Brushwood" #NT!
+ o_goalpost: "Goalpost" #NT!
+  
+  
+  ###ENG 
+ o_abstention: "Abstention" #NT!
+ o_acrobat: "Acrobat" #NT!
+ o_agreement: "Agreement" #NT!
+ o_daffodil: "Daffodil" #NT!
+ o_snowdrop: "Snowdrop" #NT!
+ o_battleaxe: "Battleaxe" #NT!
+ o_brevity: "Brevity" #NT!
+ o_compass: "Compass" #NT!
+ o_crusader: "Crusader" #NT!
+ o_guillotine: "Guillotine" #NT!
+ o_lightfoot: "Lightfoot" #NT!
+ o_supercharge: "Supercharge" #NT!
+ o_pugilist: "Pugilist" #NT!
+ o_vulcan: "Vulcan" #NT!
+ o_zimbabwe: "Zimbabwe" #NT!
+ o_torch: "Torch" #NT!
+ o_jubilee: "Jubilee" #NT!
+ o_bluecoat: "Bluecoat" #NT!
+ o_Astonia: "Astonia" #NT!
+ o_charnwood: "Charnwood" #NT!
+ o_epsom: "Epsom" #NT!
+ o_goodwood: "Goodwood" #NT!
+ o_greenline: "Greenline" #NT!
+ o_pomegranate: "Pomegranate" #NT!
+ o_totalize: "Totalize" #NT!
+ o_plunder: "Plunder" #NT!
+ o_varsity: "Varsity" #NT!
+ o_accolade: "Accolade" #NT!
+ o_exporter: "Exporter" #NT!
+ o_mandibles: "Mandibles" #NT!
+ o_manna: "Manna" #NT!
+ o_baytown: "Baytown" #NT!
+ o_slapstick: "Slapstick" #NT!
+ o_chesterfield: "Chesterfield" #NT!
+ o_diadem: "Diadem" #NT!
+ o_encore: "Encore" #NT!
+ o_husky: "Husky" #NT!
+ o_shingle: "Shingle" #NT!
+ o_olive: "Olive" #NT!
+ o_anakim: "Anakim" #NT!
+ o_capital: "Capital" #NT!
+ o_dracula: "Dracula" #NT!
+ o_longcloth: "Longcloth" #NT!
+ o_talon: "Talon" #NT!
+ o_thursday: "Thursday" #NT!
+ o_krohcol: "Krohcol" #NT!
+ o_matador: "Matador" #NT!
+ o_countenance: "Countenance" #NT!
+ o_zipper: "Zipper" #NT!
+ o_broadsword: "Broadsword" #NT!
+ o_fork: "Fork" #NT!
+ o_primrose: "Primrose" #NT!
+ o_r4: "R 4"
+ o_infatuate: "Infatuate" #NT!
+ o_comet: "Comet" #NT!
+ o_constellation: "Созвездие"
+ o_clipper: "Клиппер"
+ o_aintree: "Эйнтри"
+ o_fusilade: "Шквальный огонь"
+  
+  ###CAN 
+ o_umbral: "Сумрак"
+ o_shadow: "Тень"
+ o_sunlight: "Солнечный свет"
+ o_starry: "Звезда"
+ o_mountain: "Гора"
+ o_crescent: "Полумесяц"
+ o_resolute: "Решительный"
+ o_courageous: "Храбрый"
+ o_dark: "Темный"
+ o_bright: "Яркий"
+ o_defiant: "Непокорный"
+ o_poised: "Уверенный"
+ o_proud: "Гордый"
+ o_spotless: "Безупречный"
+ o_steel: "Сталь"
+ o_iron: "Железо"
+ o_bronze: "Бронза"
+ o_alpha: "Альфа"
+ o_beta: "Бета"
+ o_gamma: "Гамма"
+ o_reckless: "Беспечный"
+ o_stalwart: "Несокрушимый"
+ o_red: "Красный"
+ o_green: "Зеленый"
+ o_orange: "Оранжевый"
+ o_blue: "Синий"
+ o_ochre: "Коричневато-желтый"
+ o_grey: "Серый"
+ o_purple: "Лиловый"
+ o_restless: "Беспокойный"
+ o_storm: "Шторм"
+ o_fox: "Лис"
+ o_scimitar: "Ятаган"
+ o_sword: "Меч"
+ o_spirit: "Дух"
+ o_wolf: "Волк"
+ o_panther: "Пантера"
+ o_slingshot: "Праща"
+ o_wind: "Ветер"
+ o_garden: "Сад"
+ o_thunder: "Гром"
+ o_rain: "Дождь"
+ o_hail: "Град"
+ o_pegasus: "Пегас"
+ o_star: "Звезда"
+ o_apron: "Фартук"
+ o_dome: "Купол"
+ o_homecoming: "Возвращение"
+ o_laser: "Лазер"
+ o_default_operation: "Фаланга"
+ o_phalanx: "Фаланга"
+ o_resolve: "Решимость"
+ o_heart: "Сердце"
+ o_support: "Поддержка"
+ o_heat: "Жара"
+ o_moon: "Луна"
+ o_oak: "Дуб"
+ o_ash: "Пепел"
+ o_fire: "Огонь"
+ o_force: "Сила"
+ o_hill: "Холм"
+ o_river: "Река"
+ o_eagle: "Орел"
+ o_raptor: "Хищник"
+ o_hawk: "Ястреб"
+ o_lion: "Лев"
+ o_tiger: "Тигр"
+ o_shield: "Щит"
+  
+ ### NFA 
+ o_strat_offensive_nfa: "" #NT!
+ o_strat_defensive_nfa: "" #NT!
+ o_strat_naval_nfa: "" #NT!
+  
+ o_adolphe: "Adolphe" #NT!
+ o_atlante: "Atlante" #NT!
+ o_bretagne: "Bretagne" #NT!
+ o_brochet: "Brochet" #NT!
+ o_camargue: "Camargue" #NT!
+ o_castor: "Castor" #NT!
+ o_ceinture: "Ceinture" #NT!
+ o_condor: "Condor" #NT!
+ o_hirondelle: "Hirondelle" #NT!
+ o_lea: "Léa" #NT!
+ o_lorraine: "Lorraine" #NT!
+ o_mouette: "Mouette" #NT!
+ o_papillon: "Papillon" #NT!
+ o_pollux: "Pollux" #NT!
+  
+ ### CHI - Left Kuomintang 
+ o_strat_offensive_chi: "NRA Strategic Offensive Operation" #NT!
+ o_strat_defensive_chi: "NRA Strategic Defensive Operation" #NT!
+ o_strat_naval_chi: "NRA Strategic Landing Operation" #NT!
+  
+ o_mingan: "MinGan Campaign" #NT!
+ o_nanchang: "Nanchang Campaign" #NT!
+ o_dabei_mountains: "Dabei Mountains Campaign" #NT!
+ o_nanjing: "Middle Yangtze Campaign" #NT!
+ o_jilu: "Jilu Region Campaign" #NT!
+ o_jiluyu: "Jiluyu Region Campaign" #NT!
+ o_lower_yangtze: "Middle Yangtze River Crossing Campaign" #NT!
+ o_pingjin: "Pingjin Campaign" #NT!
+ o_shanganning: "ShanGanNing Campaign" #NT!
+ o_liangguang: "Liangguang Liberation Campaign" #NT!
+ o_yunnan: "Yunnan Liberation Campaign" #NT!
+ o_upper_yangtze: "Upper Yangtze River Crossing Campaign" #NT!
+  
+ o_heart_strike: "Heart Strike" #NT!
+ o_duty: "Duty" #NT!
+ o_red_sword: "Red Sword" #NT!
+ 0_united: "United" #NT!
+  
+ ### SIA - Kingdom of Siam 
+ o_yutthakarn: "Yutthakarn" #NT!
+  
+  # (Generic) Classical Names 
+ o_anantanakkharat: "Anantanakkharat" #NT!
+ o_anekkachatphuchong: "Anekkachatphuchong" #NT!
+ o_kruthernhej: "Kruthernhej" #NT!
+ o_kruttrejjakkrai: "Kruttrejjakkrai" #NT!
+ o_asuravayupak: "Asuravayupak" #NT!
+ o_asurapaksi: "Asurapaksi" #NT!
+ o_sayobpairee: "Sayobpairee" #NT!
+ o_sueatayarnchol: "Suea Tayarnchol" #NT!
+ o_sueakamronsin: "Suea Kamronsin" #NT!
+ o_thongkhwanfah: "Thong Khwan Fah" #NT!
+ o_thongbahbin: "Thong Bahbin" #NT!
+ o_ekachaihernhao: "Ekachai Hernhao" #NT!
+ o_ekachailhaothong: "Ekachai Lhaothong" #NT!
+ o_krabiprabmarn: "Krabi Prabmarn" #NT!
+ o_krabiranronrarb: "Krabi Ranronrarb" #NT!
+ o_paleerangthaweep: "Palree Rangthaweep" #NT!
+ o_sukreepkrongmueang: "Sukreep Krongmueang" #NT!
+ o_naraisongsuban: "Narai Song Suban" #NT!
+  
+  # (Generic) Real Generic Stuff 
+ o_phitakthai: "Phitakthai" #NT!
+ o_prabpai: "Prabpai" #NT!
+ o_phamueang: "Phamueang" #NT!
+ o_phadetsuek: "Phadetsuek" #NT!
+  
+  # (Regional) Within Indochina 
+ o_inthalaeng: "Inthalaeng" #NT!
+ o_talengphai: "Taleng Phai" #NT!
+ o_suriyamonthon: "Suriyamonthong" #NT!
+ o_suphannaphum: "Suphannaphum" #NT!
+ o_norasingh: "Norasingh" #NT!
+ o_phamakamrarb: "Phamakamrarb" #NT!
+ o_bodindecha: "Bodindecha" #NT!
+ o_tampornling: "Tampornling" #NT!
+ o_siwichai: "Siwichai" #NT!
+ o_lawaek: "Lawaek" #NT!
+ o_haripunchai: "Haripunchai" #NT!
+ o_mangrai: "Mangrai" #NT!
+ o_ramkamhaeng: "Ramkamhaeng" #NT!
+ o_suranaree: "Suranaree" #NT!
+ o_taksin: "Taksin" #NT!
+ o_phranareth: "Phra Nareth" #NT!
+ o_pikartyuan: "Pikart Yuan" #NT!
+ o_mahasurasinghanat: "Mahasurasinghanat" #NT!
+ o_bungamas: "Bunga Mas" #NT!
+ o_putthaimart: "Putthaimart" #NT!
+ o_yonokpokpak: "Yonok Pokpak" #NT!
+  
+  ### GRE - Greece 
+  
+ o_epixeirisi: "Epicheírisi" #NT!
+ o_gre_offensive_operation_suffix: "Epithetikí Epicheírisi" #NT!
+ o_gre_defensive_operation_suffix: "Amyntikí Epicheírisi" #NT!
+ o_gre_naval_operation_suffix: "Naftikí Epicheírisi" #NT!
+  
+ o_niki: "Níki" #NT!
+ o_parmenion: "Parmeníon" #NT!
+ o_thermopyles: "Thermopýles" #NT!
+ o_perka: "Pérka" #NT!
+ o_dimitra: "Dímitra" #NT!
+ o_eirini: "Eiríni" #NT!
+ o_chrysos: "Chrysós" #NT!
+ o_ares: "Áris" #NT!
+ o_euxinos_pontos: "Éuxeinos Póntos" #NT!
+ o_kosmima: "Kósmima" #NT!

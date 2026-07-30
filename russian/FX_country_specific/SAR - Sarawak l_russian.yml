@@ -1,0 +1,68 @@
+﻿l_russian:
+  
+ ### Parties ### 
+  
+ SAR_vanguardist_party: "Education Society" #NT!
+ SAR_vanguardist_party_long: "Chung Hwa Education Society" #NT!
+ SAR_collectivist_party: "Youth Association" #NT!
+ SAR_collectivist_party_long: "Sarawak Advanced Youth Association" #NT!
+ SAR_libertarian_socialist_party: "Anti-Imperialist League" #NT!
+ SAR_libertarian_socialist_party_long: "Sarawak Anti-Imperialist League" #NT!
+ SAR_social_democrat_party: "Students' Delegation" #NT!
+ SAR_social_democrat_party_long: "Kuching All Students' Representative Delegation" #NT!
+ SAR_social_liberal_party: "Dayak Association" #NT!
+ SAR_social_liberal_party_long: "Sarawak Dayak Association" #NT!
+ SAR_market_liberal_party: "Chamber of Commerce" #NT!
+ SAR_market_liberal_party_long: "Chinese General Chamber of Commerce" #NT!
+ SAR_social_conservative_party: "Persatuan Kebangsaan" #NT!
+ SAR_social_conservative_party_long: "Persatuan Kebangsaan Melayu Sarawak (Sarawak Malay National Union)" #NT!
+ SAR_authoritarian_democrat_party: "Persatuan Melayu Muda" #NT!
+ SAR_authoritarian_democrat_party_long: "Persatuan Melayu Muda (Young Malay Association)" #NT!
+ SAR_paternal_autocrat_party: "Persatuan Melayu Muda" #NT!
+ SAR_paternal_autocrat_party_long: "Persatuan Melayu Muda (Young Malay Association)" #NT!
+ SAR_national_populist_party: "Pergerakan Pemuda" #NT!
+ SAR_national_populist_party_long: "Pergerakan Pemuda Melayu (Malay Youth Movement)" #NT!
+ SAR_valkist_party: "Pergerakan Pemuda" #NT!
+ SAR_valkist_party_long: "Pergerakan Pemuda Melayu (Malay Youth Movement)" #NT!
+  
+ SAR_white_rajah_party: "Raja Putih" #NT!
+ SAR_white_rajah_party_long: "Raja Putih (White Rajahs)" #NT!
+  
+ SAR_datu_patinggi_party: "Datu Patinggi" #NT!
+ SAR_datu_patinggi_party_long: "Datu Patinggi (Paramount Chiefs)" #NT!
+  
+ ### Country Names ### 
+  
+ SAR: "Саравак"
+ SAR_ADJ: "Sarawakian" #NT!
+ SAR_DEF: "Саравак"
+  
+ SAR_vanguardist: "People's Republic of Sarawak" #NT!
+ SAR_vanguardist_DEF: "the People's Republic of Sarawak" #NT!
+ SAR_collectivist: "People's Republic of Sarawak" #NT!
+ SAR_collectivist_DEF: "the People's Republic of Sarawak" #NT!
+ SAR_libertarian_socialist: "People's Republic of Sarawak" #NT!
+ SAR_libertarian_socialist_DEF: "the People's Republic of Sarawak" #NT!
+ SAR_national_populist: "East Malaya" #NT!
+ SAR_national_populist_ADJ: "East Malay" #NT!
+ SAR_national_populist_DEF: "the State of East Malaya" #NT!
+ SAR_valkist: "East Malaya" #NT!
+ SAR_valkist_ADJ: "East Malay" #NT!
+ SAR_valkist_DEF: "the State of East Malaya" #NT!
+  
+ SAR_monarchy_social_democrat: "Raj of Sarawak" #NT!
+ SAR_monarchy_social_democrat_DEF: "the Raj of Sarawak" #NT!
+ SAR_monarchy_social_liberal: "Raj of Sarawak" #NT!
+ SAR_monarchy_social_liberal_DEF: "the Raj of Sarawak" #NT!
+ SAR_monarchy_market_liberal: "Raj of Sarawak" #NT!
+ SAR_monarchy_market_liberal_DEF: "the Raj of Sarawak" #NT!
+ SAR_monarchy_social_conservative: "Raj of Sarawak" #NT!
+ SAR_monarchy_social_conservative_DEF: "the Raj of Sarawak" #NT!
+ SAR_monarchy_authoritarian_democrat: "Raj of Sarawak" #NT!
+ SAR_monarchy_authoritarian_democrat_DEF: "the Raj of Sarawak" #NT!
+ SAR_monarchy_paternal_autocrat: "Raj of Sarawak" #NT!
+ SAR_monarchy_paternal_autocrat_DEF: "the Raj of Sarawak" #NT!
+ SAR_monarchy_national_populist: "Raj of Sarawak" #NT!
+ SAR_monarchy_national_populist_DEF: "the Raj of Sarawak" #NT!
+  
+  

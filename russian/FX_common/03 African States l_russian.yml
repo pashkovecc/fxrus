@@ -1,0 +1,1136 @@
+﻿l_russian:
+  
+ # Curacao 
+ CRC: "Curacao" #NT!
+ CRC_ADJ: "Curacao" #NT!
+ CRC_DEF: "Curacao" #NT!
+  
+ # Rwanda 
+ RWA: "Руанда"
+ RWA_ADJ: "Руандийск"
+ RWA_DEF: "the Republic of Rwanda" #NT!
+  
+ # Burundi 
+ BRD: "Бурунди"
+ BRD_ADJ: "Burundian" #NT!
+ BRD_DEF: "the Republic of Burundi" #NT!
+  
+ # Botswana 
+ BOT_vanguardist: "Botswana" #NT!
+ BOT_vanguardist_ADJ: "Botswanan" #NT!
+ BOT_vanguardist_DEF: "the Union of Botswana" #NT!
+ BOT_collectivist: "Botswana" #NT!
+ BOT_collectivist_ADJ: "Botswanan" #NT!
+ BOT_collectivist_DEF: "the Workers State of Botswana" #NT!
+ BOT_libertarian_socialist: "Botswana" #NT!
+ BOT_libertarian_socialist_ADJ: "Botswanan" #NT!
+ BOT_libertarian_socialist_DEF: "the Socialist Republic of Botswana" #NT!
+ BOT_social_democrat: "Botswana" #NT!
+ BOT_social_democrat_ADJ: "Botswanan" #NT!
+ BOT_social_democrat_DEF: "the Republic of Botswana" #NT!
+ BOT_social_liberal: "Botswana" #NT!
+ BOT_social_liberal_ADJ: "Botswanan" #NT!
+ BOT_social_liberal_DEF: "the Republic of Botswana" #NT!
+ BOT_market_liberal: "Botswana" #NT!
+ BOT_market_liberal_ADJ: "Botswanan" #NT!
+ BOT_market_liberal_DEF: "the Republic of Botswana" #NT!
+ BOT_social_conservative: "Botswana" #NT!
+ BOT_social_conservative_ADJ: "Botswanan" #NT!
+ BOT_social_conservative_DEF: "the Republic of Botswana" #NT!
+ BOT_authoritarian_democrat: "Botswana" #NT!
+ BOT_authoritarian_democrat_ADJ: "Botswanan" #NT!
+ BOT_authoritarian_democrat_DEF: "Republic of Botswana" #NT!
+ BOT_paternal_autocrat: "Botswana" #NT!
+ BOT_paternal_autocrat_ADJ: "Botswanan" #NT!
+ BOT_paternal_autocrat_DEF: "the military Junta of Botswana" #NT!
+ BOT_national_populist: "Botswana" #NT!
+ BOT_national_populist_ADJ: "Botswanan" #NT!
+ BOT_national_populist_DEF: "the Military State of Botswana" #NT!
+ BOT_valkist: "Botswana" #NT!
+ BOT_valkist_ADJ: "Botswanan" #NT!
+ BOT_valkist_DEF: "the Empire of Botswana" #NT!
+  
+ # Zambia 
+ ZIM_vanguardist: "Zambia" #NT!
+ ZIM_vanguardist_ADJ: "Zambian" #NT!
+ ZIM_vanguardist_DEF: "the Union of Zambia" #NT!
+ ZIM_collectivist: "Zambia" #NT!
+ ZIM_collectivist_ADJ: "Zambian" #NT!
+ ZIM_collectivist_DEF: "the Workers State of Zambia" #NT!
+ ZIM_libertarian_socialist: "Zambia" #NT!
+ ZIM_libertarian_socialist_ADJ: "Zambian" #NT!
+ ZIM_libertarian_socialist_DEF: "the Socialist Republic of Zambia" #NT!
+ ZIM_social_democrat: "Zambia" #NT!
+ ZIM_social_democrat_ADJ: "Zambian" #NT!
+ ZIM_social_democrat_DEF: "the Republic of Zambia" #NT!
+ ZIM_social_liberal: "Zambia" #NT!
+ ZIM_social_liberal_ADJ: "Zambian" #NT!
+ ZIM_social_liberal_DEF: "the Republic of Zambia" #NT!
+ ZIM_market_liberal: "Zambia" #NT!
+ ZIM_market_liberal_ADJ: "Zambian" #NT!
+ ZIM_market_liberal_DEF: "the Republic of Zambia" #NT!
+ ZIM_social_conservative: "Zambia" #NT!
+ ZIM_social_conservative_ADJ: "Zambian" #NT!
+ ZIM_social_conservative_DEF: "the Republic of Zambia" #NT!
+ ZIM_authoritarian_democrat: "Zambia" #NT!
+ ZIM_authoritarian_democrat_ADJ: "Zambian" #NT!
+ ZIM_authoritarian_democrat_DEF: "the Republic of Zambia" #NT!
+ ZIM_paternal_autocrat: "Zambia" #NT!
+ ZIM_paternal_autocrat_ADJ: "Zambian" #NT!
+ ZIM_paternal_autocrat_DEF: "the military Junta of Zambia" #NT!
+ ZIM_national_populist: "Zambia" #NT!
+ ZIM_national_populist_ADJ: "Zambian" #NT!
+ ZIM_national_populist_DEF: "the Military State of Zambia" #NT!
+ ZIM_valkist: "Zambia" #NT!
+ ZIM_valkist_ADJ: "Zambian" #NT!
+ ZIM_valkist_DEF: "the Empire of Zambia" #NT!
+  
+ # Mozambique 
+ MZB_vanguardist: "Union of Mozambique" #NT!
+ MZB_vanguardist_ADJ: "Mozambican" #NT!
+ MZB_vanguardist_DEF: "the Union of Mozambique" #NT!
+ MZB_collectivist: "Mozambican Workers State" #NT!
+ MZB_collectivist_ADJ: "Mozambican" #NT!
+ MZB_collectivist_DEF: "the Workers State of Mozambique" #NT!
+ MZB_libertarian_socialist: "Socialist Republic of Mozambique" #NT!
+ MZB_libertarian_socialist_ADJ: "Mozambican" #NT!
+ MZB_libertarian_socialist_DEF: "the Socialist Republic of Mozambique" #NT!
+ MZB_social_democrat: "Republic of Mozambique" #NT!
+ MZB_social_democrat_ADJ: "Mozambican" #NT!
+ MZB_social_democrat_DEF: "the Republic of Mozambique" #NT!
+ MZB_social_liberal: "Republic of Mozambique" #NT!
+ MZB_social_liberal_ADJ: "Mozambican" #NT!
+ MZB_social_liberal_DEF: "the Republic of Mozambique" #NT!
+ MZB_market_liberal: "Republic of Mozambique" #NT!
+ MZB_market_liberal_ADJ: "Mozambican" #NT!
+ MZB_market_liberal_DEF: "the Republic of Mozambique" #NT!
+ MZB_social_conservative: "Republic of Mozambique" #NT!
+ MZB_social_conservative_ADJ: "Mozambican" #NT!
+ MZB_social_conservative_DEF: "the Republic of Mozambique" #NT!
+ MZB_authoritarian_democrat: "Republic of Mozambique" #NT!
+ MZB_authoritarian_democrat_ADJ: "Mozambican" #NT!
+ MZB_authoritarian_democrat_DEF: "Republic of Mozambique" #NT!
+ MZB_paternal_autocrat: "Mozambican Junta" #NT!
+ MZB_paternal_autocrat_ADJ: "Mozambican" #NT!
+ MZB_paternal_autocrat_DEF: "the military Junta of Mozambique" #NT!
+ MZB_national_populist: "Mozambican State" #NT!
+ MZB_national_populist_ADJ: "Mozambican" #NT!
+ MZB_national_populist_DEF: "the Military State of Mozambique" #NT!
+ MZB_valkist: "Mozambican Empire" #NT!
+ MZB_valkist_ADJ: "Mozambican" #NT!
+ MZB_valkist_DEF: "the Empire of Mozambique" #NT!
+  
+ # Angola 
+ ANG_vanguardist: "Angola" #NT!
+ ANG_vanguardist_ADJ: "Angolan" #NT!
+ ANG_vanguardist_DEF: "the Union of Angola" #NT!
+ ANG_collectivist: "Angola" #NT!
+ ANG_collectivist_ADJ: "Angolan" #NT!
+ ANG_collectivist_DEF: "the Workers State of Angola" #NT!
+ ANG_libertarian_socialist: "Angola" #NT!
+ ANG_libertarian_socialist_ADJ: "Angolan" #NT!
+ ANG_libertarian_socialist_DEF: "the Socialist Republic of Angola" #NT!
+ ANG_social_democrat: "Angola" #NT!
+ ANG_social_democrat_ADJ: "Angolan" #NT!
+ ANG_social_democrat_DEF: "the Republic of Angola" #NT!
+ ANG_social_liberal: "Angola" #NT!
+ ANG_social_liberal_ADJ: "Angolan" #NT!
+ ANG_social_liberal_DEF: "the Republic of Angola" #NT!
+ ANG_market_liberal: "Angola" #NT!
+ ANG_market_liberal_ADJ: "Angolan" #NT!
+ ANG_market_liberal_DEF: "the Republic of Angola" #NT!
+ ANG_social_conservative: "Angola" #NT!
+ ANG_social_conservative_ADJ: "Angolan" #NT!
+ ANG_social_conservative_DEF: "the Republic of Angola" #NT!
+ ANG_authoritarian_democrat: "Angola" #NT!
+ ANG_authoritarian_democrat_ADJ: "Angolan" #NT!
+ ANG_authoritarian_democrat_DEF: "the Republic of Angola" #NT!
+ ANG_paternal_autocrat: "Angola" #NT!
+ ANG_paternal_autocrat_ADJ: "Angolan" #NT!
+ ANG_paternal_autocrat_DEF: "the military Junta of Angola" #NT!
+ ANG_national_populist: "Angola" #NT!
+ ANG_national_populist_ADJ: "Angolan" #NT!
+ ANG_national_populist_DEF: "the Military State of Angola" #NT!
+ ANG_valkist: "Angola" #NT!
+ ANG_valkist_ADJ: "Angolan" #NT!
+ ANG_valkist_DEF: "the Empire of Angola" #NT!
+  
+ # Congo 
+ # commented some stuff for future reference 
+ #COG_vanugardist: "Union of Congo" #NT!
+ #COG_vanguardist_ADJ: "Congolese" #NT!
+ #COG_vanguardist_DEF: "the Union of Congo" #NT!
+ #COG_collectivist: "Congolese Workers State" #NT!
+ #COG_collectivist_ADJ: "Congolese" #NT!
+ #COG_collectivist_DEF: "the Workers State of Congo" #NT!
+ #COG_libertarian_socialist: "Socialist Republic of Congo" #NT!
+ #COG_libertarian_socialist_ADJ: "Congolese" #NT!
+ #COG_libertarian_socialist_DEF: "the Socialist Republic of Congo" #NT!
+ #COG_social_democrat: "Republic of Congo" #NT!
+ #COG_social_democrat_ADJ: "Congolese" #NT!
+ #COG_social_democrat_DEF: "the Republic of Congo" #NT!
+ #COG_social_liberal: "Republic of Congo" #NT!
+ #COG_social_liberal_ADJ: "Congolese" #NT!
+ #COG_social_liberal_DEF: "the Republic of Congo" #NT!
+ #COG_market_liberal: "Republic of Congo" #NT!
+ #COG_market_liberal_ADJ: "Congolese" #NT!
+ #COG_market_liberal_DEF: "the Republic of Congo" #NT!
+ #COG_social_conservative: "Republic of Congo" #NT!
+ #COG_social_conservative_ADJ: "Congolese" #NT!
+ #COG_social_conservative_DEF: "the Republic of Congo" #NT!
+ #COG_authoritarian_democrat: "Republic of Congo" #NT!
+ #COG_authoritarian_democrat_ADJ: "Congolese" #NT!
+ #COG_authoritarian_democrat_DEF: "Republic of Congo" #NT!
+ #COG_paternal_autocrat: "Kimbanguist Congo" #NT!
+ #COG_paternal_autocrat_ADJ: "Congolese" #NT!
+ #COG_paternal_autocrat_DEF: "the Kimbanguist State of Congo" #NT!
+ #COG_national_populist: "Congolese State" #NT!
+ #COG_national_populist_ADJ: "Congolese" #NT!
+ #COG_national_populist_DEF: "the Military State of Congo" #NT!
+ #COG_valkist: "Congolese Empire" #NT!
+ #COG_valkist_ADJ: "Congolese" #NT!
+ #COG_valkist_DEF: "the Empire of Congo" #NT!
+  
+ ## new stuff 
+ COG: "Конго"
+ COG_ADJ: "Конголезск"
+ COG_DEF: "the Republic of the Congo" #NT!
+ COG_BCA: "Belgian Central Africa" #NT!
+ COG_BCA_ADJ: "Belgian Central African" #NT!
+ COG_BCA_DEF: "the Belgian Central Africa" #NT!
+  
+ COG_vanguardist_party: "Administration Belge" #NT!
+ COG_collectivist_party: "Administration Belge" #NT!
+ COG_libertarian_socialist_party: "Administration Belge" #NT!
+ COG_social_democrat_party: "Administration Belge" #NT!
+ COG_social_liberal_party: "Administration Belge" #NT!
+ COG_market_liberal_party: "Administration Belge" #NT!
+ COG_social_conservative_party: "Administration Belge" #NT!
+ COG_authoritarian_democrat_party: "Administration Belge" #NT!
+ COG_paternal_autocrat_party: "Administration Belge" #NT!
+ COG_national_populist_party: "Administration Belge" #NT!
+ COG_valkist_party: "Administration Belge" #NT!
+  
+ # RHO 
+  
+  
+ # Namibia 
+ NMB_vanguardist: "Namibia" #NT!
+ NMB_vanguardist_ADJ: "Namibian" #NT!
+ NMB_vanguardist_DEF: "the People's State of Namibia" #NT!
+ NMB_collectivist: "Namibia" #NT!
+ NMB_collectivist_ADJ: "Namibian" #NT!
+ NMB_collectivist_DEF: "the Commune of Namibia" #NT!
+ NMB_libertarian_socialist: "Namibia" #NT!
+ NMB_libertarian_socialist_ADJ: "Namibian" #NT!
+ NMB_libertarian_socialist_DEF: "the Namibian People's Republic" #NT!
+ NMB_social_democrat: "Namibia" #NT!
+ NMB_social_democrat_ADJ: "Namibian" #NT!
+ NMB_social_democrat_DEF: "the Namibian Republic" #NT!
+ NMB_social_liberal: "Namibia" #NT!
+ NMB_social_liberal_ADJ: "Namibian" #NT!
+ NMB_social_liberal_DEF: "the Namibian Republic" #NT!
+ NMB_market_liberal: "Namibia" #NT!
+ NMB_market_liberal_ADJ: "Namibian" #NT!
+ NMB_market_liberal_DEF: "the Namibian Republic" #NT!
+ NMB_social_conservative: "Namibia" #NT!
+ NMB_social_conservative_ADJ: "Namibian" #NT!
+ NMB_social_conservative_DEF: "the Namibian Republic" #NT!
+ NMB_authoritarian_democrat: "Namibia" #NT!
+ NMB_authoritarian_democrat_ADJ: "Namibian" #NT!
+ NMB_authoritarian_democrat_DEF: "the Namibian Junta" #NT!
+ NMB_paternal_autocrat: "Namibia" #NT!
+ NMB_paternal_autocrat_ADJ: "Namibian" #NT!
+ NMB_paternal_autocrat_DEF: "the Namibian State" #NT!
+ NMB_national_populist: "Namibia" #NT!
+ NMB_national_populist_ADJ: "Namibian" #NT!
+ NMB_national_populist_DEF: "the Namibian State" #NT!
+ NMB_valkist: "Herero State" #NT!
+ NMB_valkist_ADJ: "Herero" #NT!
+ NMB_valkist_DEF: "the Herero State" #NT!
+  
+ # GAB 
+ GAB_vanguardist: "Gabon" #NT!
+ GAB_vanguardist_ADJ: "Gabonese" #NT!
+ GAB_vanguardist_DEF: "the Peoples Democratic Republic of Gabon" #NT!
+ GAB_collectivist: "Gabon" #NT!
+ GAB_collectivist_ADJ: "Gabonese" #NT!
+ GAB_collectivist_DEF: "the People's Republic of Gabon" #NT!
+ GAB_libertarian_socialist: "Gabon" #NT!
+ GAB_libertarian_socialist_ADJ: "Gabonese" #NT!
+ GAB_libertarian_socialist_DEF: "the People's Republic of Gabon" #NT!
+ GAB_social_democrat: "Gabon" #NT!
+ GAB_social_democrat_ADJ: "Gabonese" #NT!
+ GAB_social_democrat_DEF: "the Republic of Gabon" #NT!
+ GAB_social_liberal: "Gabon" #NT!
+ GAB_social_liberal_ADJ: "Gabonese" #NT!
+ GAB_social_liberal_DEF: "the Republic of Gabon" #NT!
+ GAB_market_liberal: "Gabon" #NT!
+ GAB_market_liberal_ADJ: "Gabonese" #NT!
+ GAB_market_liberal_DEF: "the Republic of Gabon" #NT!
+ GAB_social_conservative: "Gabon" #NT!
+ GAB_social_conservative_ADJ: "Gabonese" #NT!
+ GAB_social_conservative_DEF: "the Republic of Gabon" #NT!
+ GAB_authoritarian_democrat: "Gabon" #NT!
+ GAB_authoritarian_democrat_ADJ: "Gabonese" #NT!
+ GAB_authoritarian_democrat_DEF: "the Republic of Gabon" #NT!
+ GAB_paternal_autocrat: "Gabon" #NT!
+ GAB_paternal_autocrat_ADJ: "Gabonese" #NT!
+ GAB_paternal_autocrat_DEF: "the Gabonese Junta" #NT!
+ GAB_national_populist: "Gabon" #NT!
+ GAB_national_populist_ADJ: "Gabonese" #NT!
+ GAB_national_populist_DEF: "the Gabonese State" #NT!
+ GAB_valkist: "Fang State" #NT!
+ GAB_valkist_ADJ: "Fang" #NT!
+ GAB_valkist_DEF: "the Fang State" #NT!
+  
+ # TZN 
+ TZN_vanguardist: "Tanganyika" #NT!
+ TZN_vanguardist_ADJ: "Tanganyikan" #NT!
+ TZN_vanguardist_DEF: "the People's State of Tanganyika" #NT!
+ TZN_collectivist: "Tanganyika" #NT!
+ TZN_collectivist_ADJ: "Tanganyikan" #NT!
+ TZN_collectivist_DEF: "the Tanganyikan People's Republic" #NT!
+ TZN_libertarian_socialist: "Tanganyika" #NT!
+ TZN_libertarian_socialist_ADJ: "Tanganyikan" #NT!
+ TZN_libertarian_socialist_DEF: "the Tanganyikan Democratic Republic" #NT!
+ TZN_social_democrat: "Tanganyika" #NT!
+ TZN_social_democrat_ADJ: "Tanganyikan" #NT!
+ TZN_social_democrat_DEF: "the Tanganyikan Republic" #NT!
+ TZN_social_liberal: "Tanganyika" #NT!
+ TZN_social_liberal_ADJ: "Tanganyikan" #NT!
+ TZN_social_liberal_DEF: "the Republic of Tanganyika" #NT!
+ TZN_market_liberal: "Tanganyika" #NT!
+ TZN_market_liberal_ADJ: "Tanganyikan" #NT!
+ TZN_market_liberal_DEF: "the Republic of Tanganyika" #NT!
+ TZN_social_conservative: "Tanganyika" #NT!
+ TZN_social_conservative_ADJ: "Tanganyikan" #NT!
+ TZN_social_conservative_DEF: "the Republic of Tanganyika" #NT!
+ TZN_authoritarian_democrat: "Tanganyika" #NT!
+ TZN_authoritarian_democrat_ADJ: "Tanganyikan" #NT!
+ TZN_authoritarian_democrat_DEF: "the Tanganyikan State" #NT!
+ TZN_paternal_autocrat: "Tanganyika" #NT!
+ TZN_paternal_autocrat_ADJ: "Tanganyikan" #NT!
+ TZN_paternal_autocrat_DEF: "the Tanganyikan State" #NT!
+ TZN_national_populist: "Tanzania" #NT!
+ TZN_national_populist_ADJ: "Tanzanian" #NT!
+ TZN_national_populist_DEF: "the Tanzanian State" #NT!
+ TZN_valkist: "Sukuma State" #NT!
+ TZN_valkist_ADJ: "Sukuma" #NT!
+ TZN_valkist_DEF: "the Sukuman State" #NT!
+  
+ # Uganda #do you know da wae? 
+ UGA_vanguardist: "Uganda" #NT!
+ UGA_vanguardist_ADJ: "Ugandan" #NT!
+ UGA_vanguardist_DEF: "the Union of Uganda" #NT!
+ UGA_collectivist: "Uganda" #NT!
+ UGA_collectivist_ADJ: "Ugandan" #NT!
+ UGA_collectivist_DEF: "the Ugandan People's Republic" #NT!
+ UGA_libertarian_socialist: "Uganda" #NT!
+ UGA_libertarian_socialist_ADJ: "Ugandan" #NT!
+ UGA_libertarian_socialist_DEF: "the Ugandan People's Republic" #NT!
+ UGA_social_democrat: "Uganda" #NT!
+ UGA_social_democrat_ADJ: "Ugandan" #NT!
+ UGA_social_democrat_DEF: "the Ugandan Republic" #NT!
+ UGA_social_liberal: "Uganda" #NT!
+ UGA_social_liberal_ADJ: "Ugandan" #NT!
+ UGA_social_liberal_DEF: "Ugandan" #NT!
+ UGA_market_liberal: "Uganda" #NT!
+ UGA_market_liberal_ADJ: "Ugandan" #NT!
+ UGA_market_liberal_DEF: "the Ugandan Republic" #NT!
+ UGA_social_conservative: "Uganda" #NT!
+ UGA_social_conservative_ADJ: "Ugandan" #NT!
+ UGA_social_conservative_DEF: "the Ugandan Republic" #NT!
+ UGA_authoritarian_democrat: "Uganda" #NT!
+ UGA_authoritarian_democrat_ADJ: "Ugandan" #NT!
+ UGA_authoritarian_democrat_DEF: "the Ugandan Republic" #NT!
+ UGA_paternal_autocrat: "Ugandan State" #NT!
+ UGA_paternal_autocrat_ADJ: "Ugandan " #NT!
+ UGA_paternal_autocrat_DEF: "the Ugandan State" #NT!
+ UGA_national_populist: "Ugandan empire" #NT!
+ UGA_national_populist_ADJ: "Ugandan" #NT!
+ UGA_national_populist_DEF: "the Ugandan Empire" #NT!
+ UGA_valkist: "Hutu State" #NT!
+ UGA_valkist_ADJ: "Hutu" #NT!
+ UGA_valkist_DEF: "the Hutu State" #NT!
+  
+ #Nigeria 
+ NGA_vanguardist: "Nigeria" #NT!
+ NGA_vanguardist_ADJ: "Nigerian" #NT!
+ NGA_vanguardist_DEF: "the Democratic Republic of Nigeria" #NT!
+ NGA_collectivist: "Nigeria" #NT!
+ NGA_collectivist_ADJ: "Nigerian" #NT!
+ NGA_collectivist_DEF: "the People's Republic of Nigeria" #NT!
+ NGA_libertarian_socialist: "Nigeria" #NT!
+ NGA_libertarian_socialist_ADJ: "Nigerian" #NT!
+ NGA_libertarian_socialist_DEF: "the Soviet Republic of Nigeria" #NT!
+  
+ # Eritrea 
+ ERI_vanguardist: "Eritrea" #NT!
+ ERI_vanguardist_ADJ: "Eritrean" #NT!
+ ERI_vanguardist_DEF: "the Union of Eritrea" #NT!
+ ERI_collectivist: "Eritrea" #NT!
+ ERI_collectivist_ADJ: "Eritrean" #NT!
+ ERI_collectivist_DEF: "the Democratic Republic of Eritrea" #NT!
+ ERI_libertarian_socialist: "Eritrea" #NT!
+ ERI_libertarian_socialist_ADJ: "Eritrean" #NT!
+ ERI_libertarian_socialist_DEF: "the Socialist Republic of Eritrea" #NT!
+ ERI_social_democrat: "Eritrea" #NT!
+ ERI_social_democrat_ADJ: "Eritrean" #NT!
+ ERI_social_democrat_DEF: "the Republic of Eritrea" #NT!
+ ERI_social_liberal: "Eritrea" #NT!
+ ERI_social_liberal_ADJ: "Eritrean" #NT!
+ ERI_social_liberal_DEF: "the Republic of Eritrea" #NT!
+ ERI_market_liberal: "Eritrea" #NT!
+ ERI_market_liberal_ADJ: "Eritrean" #NT!
+ ERI_market_liberal_DEF: "the Republic of Eritrea" #NT!
+ ERI_social_conservative: "Eritrea" #NT!
+ ERI_social_conservative_ADJ: "Eritrean" #NT!
+ ERI_social_conservative_DEF: "the Republic of Eritrea" #NT!
+ ERI_authoritarian_democrat: "Eritrea" #NT!
+ ERI_authoritarian_democrat_ADJ: "Eritrean" #NT!
+ ERI_authoritarian_democrat_DEF: "the Republic of Erirea" #NT!
+ ERI_paternal_autocrat: "Eritrea" #NT!
+ ERI_paternal_autocrat_ADJ: "Eritrean" #NT!
+ ERI_paternal_autocrat_DEF: "the military Junta of Eritrea" #NT!
+ ERI_national_populist: "Eritrea" #NT!
+ ERI_national_populist_ADJ: "Eritrean" #NT!
+ ERI_national_populist_DEF: "the Military State of Eritrea" #NT!
+ ERI_valkist: "Black Sea Empire" #NT!
+ ERI_valkist_ADJ: "Black Sea" #NT!
+ ERI_valkist_DEF: "the Empire of the Black Sea" #NT!
+  
+ ERI_ITA: "Italian East Africa" #NT!
+ ERI_ITA_ADJ: "Italian East African" #NT!
+ ERI_ITA_DEF: "the Colony of Italian East Africa" #NT!
+  
+ # Equatorial Guinea 
+ EQG_vanguardist: "Guinean Union" #NT!
+ EQG_vanguardist_ADJ: "Equatorial Guinean" #NT!
+ EQG_vanguardist_DEF: "the Union of Equatorial Guinea" #NT!
+ EQG_collectivist: "Guinean People's Republic" #NT!
+ EQG_collectivist_ADJ: "Equatorial Guinean" #NT!
+ EQG_collectivist_DEF: "the Equatorial Guinean People's Republic" #NT!
+ EQG_libertarian_socialist: "Guinean Democratic Republic" #NT!
+ EQG_libertarian_socialist_ADJ: "Equatorial Guinean" #NT!
+ EQG_libertarian_socialist_DEF: "the Democratic Republic of Equatorial Guinea" #NT!
+ EQG_social_democrat: "Equatorial Guinea" #NT!
+ EQG_social_democrat_ADJ: "Equatorial Guinean" #NT!
+ EQG_social_democrat_DEF: "the Republic of Equatorial Guinea" #NT!
+ EQG_social_liberal: "Equatorial Guinea" #NT!
+ EQG_social_liberal_ADJ: "Equatorial Guinean" #NT!
+ EQG_social_liberal_DEF: "the Republic of Equatorial Guinea" #NT!
+ EQG_market_liberal: "Equatorial Guinea" #NT!
+ EQG_market_liberal_ADJ: "Equatorial Guinean" #NT!
+ EQG_market_liberal_DEF: "the Republic of Equatorial Guinea" #NT!
+ EQG_social_conservative: "Equatorial Guinea" #NT!
+ EQG_social_conservative_ADJ: "Equatorial Guinean" #NT!
+ EQG_social_conservative_DEF: "the Republic of Equatorial Guinea" #NT!
+ EQG_authoritarian_democrat: "Equatorial Guinea" #NT!
+ EQG_authoritarian_democrat_ADJ: "Equatorial Guinean" #NT!
+ EQG_authoritarian_democrat_DEF: "the Republic of Equatorial Guinea" #NT!
+ EQG_paternal_autocrat: "Equatorial Guinea" #NT!
+ EQG_paternal_autocrat_ADJ: "Equatorial Guinean" #NT!
+ EQG_paternal_autocrat_DEF: "the State of Equatorial Guinea" #NT!
+ EQG_national_populist: "Equatorial Guinea" #NT!
+ EQG_national_populist_ADJ: "Equatorial Guinean" #NT!
+ EQG_national_populist_DEF: "the State of Equatorial Guinea" #NT!
+ EQG_valkist: "Igbo State" #NT!
+ EQG_valkist_ADJ: "Igboan" #NT!
+ EQG_valkist_DEF: "the Igboan State" #NT!
+  
+ # Cameroon 
+ CMR_vanguardist: "Cameroon" #NT!
+ CMR_vanguardist_ADJ: "Cameroonian" #NT!
+ CMR_vanguardist_DEF: "the Cameroonian People's Union" #NT!
+ CMR_collectivist: "Cameroon" #NT!
+ CMR_collectivist_ADJ: "Cameroonian" #NT!
+ CMR_collectivist_DEF: "the Cameroonian People's Republic" #NT!
+ CMR_libertarian_socialist: "Cameroon" #NT!
+ CMR_libertarian_socialist_ADJ: "Cameroonian" #NT!
+ CMR_libertarian_socialist_DEF: "the Union of Cameroon" #NT!
+ CMR_social_democrat: "Cameroon" #NT!
+ CMR_social_democrat_ADJ: "Cameroonian" #NT!
+ CMR_social_democrat_DEF: "the Republic of Cameroon" #NT!
+ CMR_social_liberal: "Cameroon" #NT!
+ CMR_social_liberal_ADJ: "Cameroonian" #NT!
+ CMR_social_liberal_DEF: "the Republic of Cameroon" #NT!
+ CMR_market_liberal: "Cameroon" #NT!
+ CMR_market_liberal_ADJ: "Cameroonian" #NT!
+ CMR_market_liberal_DEF: "the Republic of Cameroon" #NT!
+ CMR_social_conservative: "Cameroon" #NT!
+ CMR_social_conservative_ADJ: "Cameroonian" #NT!
+ CMR_social_conservative_DEF: "the Republic of Cameroon" #NT!
+ CMR_authoritarian_democrat: "Cameroon" #NT!
+ CMR_authoritarian_democrat_ADJ: "Cameroonian" #NT!
+ CMR_authoritarian_democrat_DEF: "the Republic of Cameroon" #NT!
+ CMR_paternal_autocrat: "Cameroon State" #NT!
+ CMR_paternal_autocrat_ADJ: "Cameroonian" #NT!
+ CMR_paternal_autocrat_DEF: "the Cameroonian State" #NT!
+ CMR_national_populist: "Cameroon State" #NT!
+ CMR_national_populist_ADJ: "Cameroonian" #NT!
+ CMR_national_populist_DEF: "the Cameroonian State" #NT!
+ CMR_valkist: "Bamileke State" #NT!
+ CMR_valkist_ADJ: "Bamileke" #NT!
+ CMR_valkist_DEF: "the Bamileke State" #NT!
+  
+ CMR_ITA: "Italian Cameroon" #NT!
+ CMR_ITA_ADJ: "Italian Cameroonian" #NT!
+ CMR_ITA_DEF: "the Colony of Italian Cameroon" #NT!
+  
+ # Madagascar 
+ MAD_vanguardist: "Madagascar" #NT!
+ MAD_vanguardist_ADJ: "Madagascarian" #NT!
+ MAD_vanguardist_DEF: "the Madagascarian People's State" #NT!
+ MAD_collectivist: "Madagascar" #NT!
+ MAD_collectivist_ADJ: "Madagascarian" #NT!
+ MAD_collectivist_DEF: "the Madagascarian Union" #NT!
+ MAD_libertarian_socialist: "Madagascar" #NT!
+ MAD_libertarian_socialist_ADJ: "Madagascarian" #NT!
+ MAD_libertarian_socialist_DEF: "the Madagascarian Democratic Republic" #NT!
+ MAD_social_democrat: "Madagascar" #NT!
+ MAD_social_democrat_ADJ: "Madagascarian" #NT!
+ MAD_social_democrat_DEF: "the Republic of Madagascar" #NT!
+ MAD_social_liberal: "Madagascar" #NT!
+ MAD_social_liberal_ADJ: "Madagascarian" #NT!
+ MAD_social_liberal_DEF: "the Republic of Madagascar" #NT!
+ MAD_market_liberal: "Madagascar" #NT!
+ MAD_market_liberal_ADJ: "Madagascarian" #NT!
+ MAD_market_liberal_DEF: "the Republic of Madagascar" #NT!
+ MAD_social_conservative: "Madagascar" #NT!
+ MAD_social_conservative_ADJ: "Madagascarian" #NT!
+ MAD_social_conservative_DEF: "the Republic of Madagascar" #NT!
+ MAD_authoritarian_democrat: "Madagascar" #NT!
+ MAD_authoritarian_democrat_ADJ: "Madagascarian" #NT!
+ MAD_authoritarian_democrat_DEF: "the Republic of Madagascar" #NT!
+ MAD_paternal_autocrat: "Madagascarian State" #NT!
+ MAD_paternal_autocrat_ADJ: "Madagascarian" #NT!
+ MAD_paternal_autocrat_DEF: "the State of Madagascar" #NT!
+ MAD_national_populist: "Madagascarian State" #NT!
+ MAD_national_populist_ADJ: "Madagascarian" #NT!
+ MAD_national_populist_DEF: "the State of Madagascar" #NT!
+ MAD_valkist: "Malagasy State" #NT!
+ MAD_valkist_ADJ: "Malagasy" #NT!
+ MAD_valkist_DEF: "the Malagasy State" #NT!
+  
+ # Central African Republic 
+ CAR_vanguardist: "Central African Union" #NT!
+ CAR_vanguardist_ADJ: "Central African" #NT!
+ CAR_vanguardist_DEF: "the Central African Union" #NT!
+ CAR_collectivist: "Central African Commune" #NT!
+ CAR_collectivist_ADJ: "Central African" #NT!
+ CAR_collectivist_DEF: "the Central African Commune" #NT!
+ CAR_libertarian_socialist: "Central African Union" #NT!
+ CAR_libertarian_socialist_ADJ: "Central African" #NT!
+ CAR_libertarian_socialist_DEF: "the Central African Union" #NT!
+ CAR_social_democrat: "Central African Republic" #NT!
+ CAR_social_democrat_ADJ: "Central African" #NT!
+ CAR_social_democrat_DEF: "the Central African Republic" #NT!
+ CAR_social_liberal: "Central African Republic" #NT!
+ CAR_social_liberal_ADJ: "Central African" #NT!
+ CAR_social_liberal_DEF: "the Central African Republic" #NT!
+ CAR_market_liberal: "Central African Republic" #NT!
+ CAR_market_liberal_ADJ: "Central African" #NT!
+ CAR_market_liberal_DEF: "the Central African Republic" #NT!
+ CAR_social_conservative: "Central African Republic" #NT!
+ CAR_social_conservative_ADJ: "Central African" #NT!
+ CAR_social_conservative_DEF: "the Central African Republic" #NT!
+ CAR_authoritarian_democrat: "Central African Republic" #NT!
+ CAR_authoritarian_democrat_ADJ: "Central African" #NT!
+ CAR_authoritarian_democrat_DEF: "the Central African Republic" #NT!
+ CAR_paternal_autocrat: "Central African Authority" #NT!
+ CAR_paternal_autocrat_ADJ: "Central African" #NT!
+ CAR_paternal_autocrat_DEF: "the Central African Authority" #NT!
+ CAR_national_populist: "Central African State" #NT!
+ CAR_national_populist_ADJ: "Central African" #NT!
+ CAR_national_populist_DEF: "the Central African State" #NT!
+ CAR_valkist: "Gbaya State" #NT!
+ CAR_valkist_ADJ: "Gbaya" #NT!
+ CAR_valkist_DEF: "the Gbaya State" #NT!
+  
+ # Djibouti 
+ DJI_vanguardist: "Djibouti" #NT!
+ DJI_vanguardist_ADJ: "Djiboutian" #NT!
+ DJI_vanguardist_DEF: "the Djibouti People's Republic" #NT!
+ DJI_collectivist: "Djibouti" #NT!
+ DJI_collectivist_ADJ: "Djiboutian" #NT!
+ DJI_collectivist_DEF: "the Djubouti Democratic People's Republic" #NT!
+ DJI_libertarian_socialist: "Djibouti" #NT!
+ DJI_libertarian_socialist_ADJ: "Djiboutian" #NT!
+ DJI_libertarian_socialist_DEF: "the Djiboutian Commune" #NT!
+ DJI_social_democrat: "Djibouti" #NT!
+ DJI_social_democrat_ADJ: "Djiboutian" #NT!
+ DJI_social_democrat_DEF: "the Republic of Djibouti" #NT!
+ DJI_social_liberal: "Djibouti" #NT!
+ DJI_social_liberal_ADJ: "Djiboutian" #NT!
+ DJI_social_liberal_DEF: "the Republic of Djibouti" #NT!
+ DJI_market_liberal: "Djibouti" #NT!
+ DJI_market_liberal_ADJ: "Djiboutian" #NT!
+ DJI_market_liberal_DEF: "the Republic of Djibouti" #NT!
+ DJI_social_conservative: "Djibouti" #NT!
+ DJI_social_conservative_ADJ: "Djiboutian" #NT!
+ DJI_social_conservative_DEF: "the Republic of Djibouti" #NT!
+ DJI_authoritarian_democrat: "Djibouti" #NT!
+ DJI_authoritarian_democrat_ADJ: "Djiboutian" #NT!
+ DJI_authoritarian_democrat_DEF: "the Republic of Djibouti" #NT!
+ DJI_paternal_autocrat: "Djibouti" #NT!
+ DJI_paternal_autocrat_ADJ: "Djiboutian" #NT!
+ DJI_paternal_autocrat_DEF: "the Republic of Djibouti" #NT!
+ DJI_national_populist: "Djibouti" #NT!
+ DJI_national_populist_ADJ: "Djiboutian" #NT!
+ DJI_national_populist_DEF: "the Republic of Djibouti" #NT!
+ DJI_valkist: "Aden Gulf Empire" #NT!
+ DJI_valkist_ADJ: "Adenean" #NT!
+ DJI_valkist_DEF: "the Empire of the Aden Gulf" #NT!
+  
+ # Chad 
+ CHA_vanguardist: "Chad" #NT!
+ CHA_vanguardist_ADJ: "Chadian" #NT!
+ CHA_vanguardist_DEF: "the Union of Chad" #NT!
+ CHA_collectivist: "Chad" #NT!
+ CHA_collectivist_ADJ: "Chadian" #NT!
+ CHA_collectivist_DEF: "the Workers State of Chad" #NT!
+ CHA_libertarian_socialist: "Chad" #NT!
+ CHA_libertarian_socialist_ADJ: "Chadian" #NT!
+ CHA_libertarian_socialist_DEF: "the Chadian Democratic Socialist Peoples Republic" #NT!
+ CHA_social_democrat: "Chad" #NT!
+ CHA_social_democrat_ADJ: "Chadian" #NT!
+ CHA_social_democrat_DEF: "the Republic of Chad" #NT!
+ CHA_social_liberal: "Chad" #NT!
+ CHA_social_liberal_ADJ: "Chadian" #NT!
+ CHA_social_liberal_DEF: "the Republic of Chad" #NT!
+ CHA_market_liberal: "Chad" #NT!
+ CHA_market_liberal_ADJ: "Chadian" #NT!
+ CHA_market_liberal_DEF: "the Republic of Chad" #NT!
+ CHA_social_conservative: "Chad" #NT!
+ CHA_social_conservative_ADJ: "Chadian" #NT!
+ CHA_social_conservative_DEF: "the Republic of Chad" #NT!
+ CHA_authoritarian_democrat: "Chad" #NT!
+ CHA_authoritarian_democrat_ADJ: "Chadian" #NT!
+ CHA_authoritarian_democrat_DEF: "the Republic of Chad" #NT!
+ CHA_paternal_autocrat: "Chad" #NT!
+ CHA_paternal_autocrat_ADJ: "Chadian" #NT!
+ CHA_paternal_autocrat_DEF: "the Chadian Junta" #NT!
+ CHA_national_populist: "Chad" #NT!
+ CHA_national_populist_ADJ: "Chadian" #NT!
+ CHA_national_populist_DEF: "Greater Chad" #NT!
+ CHA_valkist: "Sara State" #NT!
+ CHA_valkist_ADJ: "Saran" #NT!
+ CHA_valkist_DEF: "the Saran State" #NT!
+  
+ # Niger 
+ NGR_vanguardist: "Niger" #NT!
+ NGR_vanguardist_ADJ: "Nigerien" #NT!
+ NGR_vanguardist_DEF: "the Nigerien Workers Stat" #NT!
+ NGR_collectivist: "Niger" #NT!
+ NGR_collectivist_ADJ: "Nigerien" #NT!
+ NGR_collectivist_DEF: "the Nigerien People's Republic" #NT!
+ NGR_libertarian_socialist: "Niger" #NT!
+ NGR_libertarian_socialist_ADJ: "Nigerien" #NT!
+ NGR_libertarian_socialist_DEF: "the Nigerien Democratic Republic" #NT!
+ NGR_social_democrat: "Niger" #NT!
+ NGR_social_democrat_ADJ: "Nigerien" #NT!
+ NGR_social_democrat_DEF: "the Republic of The Niger" #NT!
+ NGR_social_liberal: "Niger" #NT!
+ NGR_social_liberal_ADJ: "Nigerien" #NT!
+ NGR_social_liberal_DEF: "the Republic of The Niger" #NT!
+ NGR_market_liberal: "Niger" #NT!
+ NGR_market_liberal_ADJ: "Nigerien" #NT!
+ NGR_market_liberal_DEF: "the Republic of The Niger" #NT!
+ NGR_social_conservative: "Niger" #NT!
+ NGR_social_conservative_ADJ: "Nigerien" #NT!
+ NGR_social_conservative_DEF: "the Republic of The Niger" #NT!
+ NGR_authoritarian_democrat: "Niger" #NT!
+ NGR_authoritarian_democrat_ADJ: "Nigerien" #NT!
+ NGR_authoritarian_democrat_DEF: "the Republic of The Niger" #NT!
+ NGR_paternal_autocrat: "Niger" #NT!
+ NGR_paternal_autocrat_ADJ: "Nigerien" #NT!
+ NGR_paternal_autocrat_DEF: "the Nigerien State" #NT!
+ NGR_national_populist: "Greater Niger" #NT!
+ NGR_national_populist_ADJ: "Nigerien" #NT!
+ NGR_national_populist_DEF: "the Expanded State of Niger" #NT!
+ NGR_valkist: "Hausa State" #NT!
+ NGR_valkist_ADJ: "Hausa" #NT!
+ NGR_valkist_DEF: "the North Hausan State" #NT!
+  
+ # Ivory Coast/Côte d'Ivoire 
+ IVO_vanguardist: "Côte d'Ivoire" #NT!
+ IVO_vanguardist_ADJ: "Ivorian" #NT!
+ IVO_vanguardist_DEF: "the Ivory Coast People's Republic" #NT!
+ IVO_collectivist: "Côte d'Ivoire" #NT!
+ IVO_collectivist_ADJ: "Ivorian" #NT!
+ IVO_collectivist_DEF: "the Ivory Coast Democratic Republic" #NT!
+ IVO_libertarian_socialist: "Côte d'Ivoire" #NT!
+ IVO_libertarian_socialist_ADJ: "Ivorian" #NT!
+ IVO_libertarian_socialist_DEF: "the Ivory Coast Workers State" #NT!
+ IVO_social_democrat: "Côte d'Ivoire" #NT!
+ IVO_social_democrat_ADJ: "Ivorian" #NT!
+ IVO_social_democrat_DEF: "the Ivory Coast Republic" #NT!
+ IVO_social_liberal: "Côte d'Ivoire" #NT!
+ IVO_social_liberal_ADJ: "Ivorian" #NT!
+ IVO_social_liberal_DEF: "the Ivory Coast Republic" #NT!
+ IVO_market_liberal: "Côte d'Ivoire" #NT!
+ IVO_market_liberal_ADJ: "Ivorian" #NT!
+ IVO_market_liberal_DEF: "the Ivory Coast Republic" #NT!
+ IVO_social_conservative: "Côte d'Ivoire" #NT!
+ IVO_social_conservative_ADJ: "Ivorian" #NT!
+ IVO_social_conservative_DEF: "the Ivory Coast Republic" #NT!
+ IVO_authoritarian_democrat: "Côte d'Ivoire" #NT!
+ IVO_authoritarian_democrat_ADJ: "Ivorian" #NT!
+ IVO_authoritarian_democrat_DEF: "the Ivory Coast Republic" #NT!
+ IVO_paternal_autocrat: "Côte d'Ivoire" #NT!
+ IVO_paternal_autocrat_ADJ: "Ivorian" #NT!
+ IVO_paternal_autocrat_DEF: "the Ivory Coast Unitary State" #NT!
+ IVO_national_populist: "The Gold Coast" #NT!
+ IVO_national_populist_ADJ: "Gold Coast" #NT!
+ IVO_national_populist_DEF: "the Gold Coast State" #NT!
+ IVO_valkist: "Akan State" #NT!
+ IVO_valkist_ADJ: "Akan" #NT!
+ IVO_valkist_DEF: "the Akan People's State" #NT!
+  
+ # Ghana 
+ GHA_vanguardist: "Ghana" #NT!
+ GHA_vanguardist_ADJ: "Ghanaian" #NT!
+ GHA_vanguardist_DEF: "the Ghanaian People's State" #NT!
+ GHA_collectivist: "Ghana" #NT!
+ GHA_collectivist_ADJ: "Ghanaian" #NT!
+ GHA_collectivist_DEF: "the Ghanaian Workers State" #NT!
+ GHA_libertarian_socialist: "Ghana" #NT!
+ GHA_libertarian_socialist_ADJ: "Ghanaian" #NT!
+ GHA_libertarian_socialist_DEF: "the Ghanaian Union" #NT!
+ GHA_social_democrat: "Ghana" #NT!
+ GHA_social_democrat_ADJ: "Ghanaian" #NT!
+ GHA_social_democrat_DEF: "the Republic of Ghana" #NT!
+ GHA_social_liberal: "Ghana" #NT!
+ GHA_social_liberal_ADJ: "Ghanaian" #NT!
+ GHA_social_liberal_DEF: "the Republic of Ghana" #NT!
+ GHA_market_liberal: "Ghana" #NT!
+ GHA_market_liberal_ADJ: "Ghanaian" #NT!
+ GHA_market_liberal_DEF: "the Republic of Ghana" #NT!
+ GHA_social_conservative: "Ghana" #NT!
+ GHA_social_conservative_ADJ: "Ghanaian" #NT!
+ GHA_social_conservative_DEF: "the Republic of Ghana" #NT!
+ GHA_authoritarian_democrat: "Ghana" #NT!
+ GHA_authoritarian_democrat_ADJ: "Ghanaian" #NT!
+ GHA_authoritarian_democrat_DEF: "the Republic of Ghana" #NT!
+ GHA_paternal_autocrat: "Ghana" #NT!
+ GHA_paternal_autocrat_ADJ: "Ghanaian" #NT!
+ GHA_paternal_autocrat_DEF: "the Ghanaian State" #NT!
+ GHA_national_populist: "Ghana" #NT!
+ GHA_national_populist_ADJ: "Ghanaian" #NT!
+ GHA_national_populist_DEF: "the Ghanaian Empire" #NT!
+ GHA_valkist: "West Akan State" #NT!
+ GHA_valkist_ADJ: "West Akan" #NT!
+ GHA_valkist_DEF: "the West Akan State" #NT!
+  
+ # Mauritania 
+ MRT_vanguardist: "Mauritania" #NT!
+ MRT_vanguardist_ADJ: "Mauritanian" #NT!
+ MRT_vanguardist_DEF: "the People's Commune of Mauritania" #NT!
+ MRT_collectivist: "Mauritania" #NT!
+ MRT_collectivist_ADJ: "Mauritanian" #NT!
+ MRT_collectivist_DEF: "the Mauritanian Workers State" #NT!
+ MRT_libertarian_socialist: "Mauritania" #NT!
+ MRT_libertarian_socialist_ADJ: "Mauritanian" #NT!
+ MRT_libertarian_socialist_DEF: "the Mauritanian People's State" #NT!
+ MRT_social_democrat: "Mauritania" #NT!
+ MRT_social_democrat_ADJ: "Mauritanian" #NT!
+ MRT_social_democrat_DEF: "the Mauritanian Republic" #NT!
+ MRT_social_liberal: "Mauritania" #NT!
+ MRT_social_liberal_ADJ: "Mauritanian" #NT!
+ MRT_social_liberal_DEF: "the Mauritanian Republic" #NT!
+ MRT_market_liberal: "Mauritania" #NT!
+ MRT_market_liberal_ADJ: "Mauritanian" #NT!
+ MRT_market_liberal_DEF: "the Mauritanian Republic" #NT!
+ MRT_social_conservative: "Mauritania" #NT!
+ MRT_social_conservative_ADJ: "Mauritanian" #NT!
+ MRT_social_conservative_DEF: "the Mauritanian Republic" #NT!
+ MRT_authoritarian_democrat: "Mauritania" #NT!
+ MRT_authoritarian_democrat_ADJ: "Mauritanian" #NT!
+ MRT_authoritarian_democrat_DEF: "the Mauritanian Republic" #NT!
+ MRT_paternal_autocrat: "Mauritania" #NT!
+ MRT_paternal_autocrat_ADJ: "Mauritanian" #NT!
+ MRT_paternal_autocrat_DEF: "the Mauritanian State" #NT!
+ MRT_national_populist: "Mauritania" #NT!
+ MRT_national_populist_ADJ: "Mauritanian" #NT!
+ MRT_national_populist_DEF: "the Mauritanian Empire" #NT!
+ MRT_valkist: "Moorish State" #NT!
+ MRT_valkist_ADJ: "Moorish" #NT!
+ MRT_valkist_DEF: "the Moorish State" #NT!
+  
+ # Mali 
+ MLI_vanguardist: "Mali" #NT!
+ MLI_vanguardist_ADJ: "Malian" #NT!
+ MLI_vanguardist_DEF: "the People's Commune of Mali" #NT!
+ MLI_collectivist: "Mali" #NT!
+ MLI_collectivist_ADJ: "Malian" #NT!
+ MLI_collectivist_DEF: "the Malian Workers State" #NT!
+ MLI_libertarian_socialist: "Mali" #NT!
+ MLI_libertarian_socialist_ADJ: "Malian" #NT!
+ MLI_libertarian_socialist_DEF: "the Malian People's State" #NT!
+ MLI_social_democrat: "Mali" #NT!
+ MLI_social_democrat_ADJ: "Malian" #NT!
+ MLI_social_democrat_DEF: "the Malian Republic" #NT!
+ MLI_social_liberal: "Mali" #NT!
+ MLI_social_liberal_ADJ: "Malian" #NT!
+ MLI_social_liberal_DEF: "the Malian Republic" #NT!
+ MLI_market_liberal: "Mali" #NT!
+ MLI_market_liberal_ADJ: "Malian" #NT!
+ MLI_market_liberal_DEF: "the Malian Republic" #NT!
+ MLI_social_conservative: "Mali" #NT!
+ MLI_social_conservative_ADJ: "Malian" #NT!
+ MLI_social_conservative_DEF: "the Malian Republic" #NT!
+ MLI_authoritarian_democrat: "Mali" #NT!
+ MLI_authoritarian_democrat_ADJ: "Malian" #NT!
+ MLI_authoritarian_democrat_DEF: "the Malian Republic" #NT!
+ MLI_paternal_autocrat: "Mali" #NT!
+ MLI_paternal_autocrat_ADJ: "Malian" #NT!
+ MLI_paternal_autocrat_DEF: "the Malian State" #NT!
+ MLI_national_populist: "Mali" #NT!
+ MLI_national_populist_ADJ: "Malian" #NT!
+ MLI_national_populist_DEF: "the Malian Empire" #NT!
+ MLI_valkist: "Manden Kurufaba" #NT!
+ MLI_valkist_ADJ: "Mali" #NT!
+ MLI_valkist_DEF: "Manden Kurufaba" #NT!
+  
+ # Burkina Faso 
+ VOL_vanguardist: "Burkina Faso" #NT!
+ VOL_vanguardist_ADJ: "Burkinabe" #NT!
+ VOL_vanguardist_DEF: "the People's Commune of Burkina Faso" #NT!
+ VOL_collectivist: "Burkina Faso" #NT!
+ VOL_collectivist_ADJ: "Burkinabe" #NT!
+ VOL_collectivist_DEF: "the Burkinabe Workers State" #NT!
+ VOL_libertarian_socialist: "Burkina Faso" #NT!
+ VOL_libertarian_socialist_ADJ: "Burkinabe" #NT!
+ VOL_libertarian_socialist_DEF: "the Burkinabe People's State" #NT!
+ VOL_social_democrat: "Burkina Faso" #NT!
+ VOL_social_democrat_ADJ: "Burkinabe" #NT!
+ VOL_social_democrat_DEF: "the Burkinabe Republic" #NT!
+ VOL_social_liberal: "Burkina Faso" #NT!
+ VOL_social_liberal_ADJ: "Burkinabe" #NT!
+ VOL_social_liberal_DEF: "the Burkinabe Republic" #NT!
+ VOL_market_liberal: "Burkina Faso" #NT!
+ VOL_market_liberal_ADJ: "Burkinabe" #NT!
+ VOL_market_liberal_DEF: "the Burkinabe Republic" #NT!
+ VOL_social_conservative: "Burkina Faso" #NT!
+ VOL_social_conservative_ADJ: "Burkinabe" #NT!
+ VOL_social_conservative_DEF: "the Burkinabe Republic" #NT!
+ VOL_authoritarian_democrat: "Burkina Faso" #NT!
+ VOL_authoritarian_democrat_ADJ: "Burkinabe" #NT!
+ VOL_authoritarian_democrat_DEF: "the Burkinabe Republic" #NT!
+ VOL_paternal_autocrat: "Burkina Faso" #NT!
+ VOL_paternal_autocrat_ADJ: "Burkinabe" #NT!
+ VOL_paternal_autocrat_DEF: "the Burkinabe State" #NT!
+ VOL_national_populist: "Burkina Faso" #NT!
+ VOL_national_populist_ADJ: "Burkinabe" #NT!
+ VOL_national_populist_DEF: "the Burkinabe Empire" #NT!
+ VOL_valkist: "Wattara State" #NT!
+ VOL_valkist_ADJ: "Wattaran" #NT!
+ VOL_valkist_DEF: "Wattara State" #NT!
+  
+ # Western Sahara/Sahrawi 
+ WES_vanguardist: "Western Sahara" #NT!
+ WES_vanguardist_ADJ: "Sahrawi" #NT!
+ WES_vanguardist_DEF: "the Sahrawi People's Republic" #NT!
+ WES_collectivist: "Western Sahara" #NT!
+ WES_collectivist_ADJ: "Sahrawi" #NT!
+ WES_collectivist_DEF: "the Sahrawi Wrokers State" #NT!
+ WES_libertarian_socialist: "Western Sahara" #NT!
+ WES_libertarian_socialist_ADJ: "Sahrawi" #NT!
+ WES_libertarian_socialist_DEF: "the Sahrawi Democratic Republic" #NT!
+ WES_social_democrat: "Western Sahara" #NT!
+ WES_social_democrat_ADJ: "Sahrawi" #NT!
+ WES_social_democrat_DEF: "the Sahrawi Republic" #NT!
+ WES_social_liberal: "Western Sahara" #NT!
+ WES_social_liberal_ADJ: "Sahrawi" #NT!
+ WES_social_liberal_DEF: "the Sahrawi Republic" #NT!
+ WES_market_liberal: "Western Sahara" #NT!
+ WES_market_liberal_ADJ: "Sahrawi" #NT!
+ WES_market_liberal_DEF: "the Sahrawi Republic" #NT!
+ WES_social_conservative: "Western Sahara" #NT!
+ WES_social_conservative_ADJ: "Sahrawi" #NT!
+ WES_social_conservative_DEF: "the Sahrawi Republic" #NT!
+ WES_authoritarian_democrat: "Western Sahara" #NT!
+ WES_authoritarian_democrat_ADJ: "Sahrawi" #NT!
+ WES_authoritarian_democrat_DEF: "the Sahrawi Republic" #NT!
+ WES_paternal_autocrat: "Western Sahara" #NT!
+ WES_paternal_autocrat_ADJ: "Sahrawi" #NT!
+ WES_paternal_autocrat_DEF: "the Sahrawi State" #NT!
+ WES_national_populist: "Sahrawi State" #NT!
+ WES_national_populist_ADJ: "Sahrawi" #NT!
+ WES_national_populist_DEF: "the Sahrawi State" #NT!
+ WES_valkist: "Sahrawi State" #NT!
+ WES_valkist_ADJ: "Sahrawi" #NT!
+ WES_valkist_DEF: "the Sahrawi State" #NT!
+  
+ # Senegal 
+ SEN_vanguardist: "Senegal" #NT!
+ SEN_vanguardist_ADJ: "Senegalese" #NT!
+ SEN_vanguardist_DEF: "the Senegalese Workers Republic" #NT!
+ SEN_collectivist: "Senegal" #NT!
+ SEN_collectivist_ADJ: "Senegalese" #NT!
+ SEN_collectivist_DEF: "the Senegalese People's Stat" #NT!
+ SEN_libertarian_socialist: "Senegal" #NT!
+ SEN_libertarian_socialist_ADJ: "Senegalese" #NT!
+ SEN_libertarian_socialist_DEF: "the Senegalese Union" #NT!
+ SEN_social_democrat: "Senegal" #NT!
+ SEN_social_democrat_ADJ: "Senegalese" #NT!
+ SEN_social_democrat_DEF: "the Senegalese Republic" #NT!
+ SEN_social_liberal: "Senegal" #NT!
+ SEN_social_liberal_ADJ: "Senegalese" #NT!
+ SEN_social_liberal_DEF: "the Senegalese Republic" #NT!
+ SEN_market_liberal: "Senegal" #NT!
+ SEN_market_liberal_ADJ: "Senegalese" #NT!
+ SEN_market_liberal_DEF: "the Senegalese Republic" #NT!
+ SEN_social_conservative: "Senegal" #NT!
+ SEN_social_conservative_ADJ: "Senegalese" #NT!
+ SEN_social_conservative_DEF: "the Senegalese Republic" #NT!
+ SEN_authoritarian_democrat: "Senegal" #NT!
+ SEN_authoritarian_democrat_ADJ: "Senegalese" #NT!
+ SEN_authoritarian_democrat_DEF: "the Senegalese Republic" #NT!
+ SEN_paternal_autocrat: "Senegal" #NT!
+ SEN_paternal_autocrat_ADJ: "Senegalese" #NT!
+ SEN_paternal_autocrat_DEF: "the Senegalese State" #NT!
+ SEN_national_populist: "Senegal" #NT!
+ SEN_national_populist_ADJ: "Senegalese" #NT!
+ SEN_national_populist_DEF: "the Senegalese Empire" #NT!
+ SEN_valkist: "Neo-Wolof Empire" #NT!
+ SEN_valkist_ADJ: "Wolof" #NT!
+ SEN_valkist_DEF: "the New Empire of the Wolof" #NT!
+  
+ # Gambia 
+ GAM_vanguardist: "The Gambia" #NT!
+ GAM_vanguardist_ADJ: "Gambian" #NT!
+ GAM_vanguardist_DEF: "the People's Democratic Republic of The Gambia" #NT!
+ GAM_collectivist: "The Gambia" #NT!
+ GAM_collectivist_ADJ: "Gambian" #NT!
+ GAM_collectivist_DEF: "the Union of The Gambia" #NT!
+ GAM_libertarian_socialist: "The Gambia" #NT!
+ GAM_libertarian_socialist_ADJ: "Gambian" #NT!
+ GAM_libertarian_socialist_DEF: "the Commune of The Gambia" #NT!
+ GAM_social_democrat: "The Gambia" #NT!
+ GAM_social_democrat_ADJ: "Gambian" #NT!
+ GAM_social_democrat_DEF: "the Republic of The Gambia" #NT!
+ GAM_social_liberal: "The Gambia" #NT!
+ GAM_social_liberal_ADJ: "Gambian" #NT!
+ GAM_social_liberal_DEF: "the Republic of The Gambia" #NT!
+ GAM_market_liberal: "The Gambia" #NT!
+ GAM_market_liberal_ADJ: "Gambian" #NT!
+ GAM_market_liberal_DEF: "the Republic of The Gambia" #NT!
+ GAM_social_conservative: "The Gambia" #NT!
+ GAM_social_conservative_ADJ: "Gambian" #NT!
+ GAM_social_conservative_DEF: "the Republic of The Gambia" #NT!
+ GAM_authoritarian_democrat: "The Gambia" #NT!
+ GAM_authoritarian_democrat_ADJ: "Gambian" #NT!
+ GAM_authoritarian_democrat_DEF: "the Republic of The Gambia" #NT!
+ GAM_paternal_autocrat: "The Gambia" #NT!
+ GAM_paternal_autocrat_ADJ: "Gambian" #NT!
+ GAM_paternal_autocrat_DEF: "the State of The Gambia" #NT!
+ GAM_national_populist: "Greater Gambia" #NT!
+ GAM_national_populist_ADJ: "Gambian" #NT!
+ GAM_national_populist_DEF: "the Greater State of The Gambia" #NT!
+ GAM_valkist: "Mandinka Empire" #NT!
+ GAM_valkist_ADJ: "Mandinkan" #NT!
+ GAM_valkist_DEF: "the Mandinkan Empire" #NT!
+  
+ # GNB 
+ GNB_vanguardist: "Guinea-Bissau" #NT!
+ GNB_vanguardist_ADJ: "Bissau-Guinean" #NT!
+ GNB_vanguardist_DEF: "Workers State of Guinea-Bissau" #NT!
+ GNB_collectivist: "Guinea-Bissau" #NT!
+ GNB_collectivist_ADJ: "Bissau-Guinean" #NT!
+ GNB_collectivist_DEF: "Bissau-Guinean People's Republic" #NT!
+ GNB_libertarian_socialist: "Guinea-Bissau" #NT!
+ GNB_libertarian_socialist_ADJ: "Bissau-Guinean" #NT!
+ GNB_libertarian_socialist_DEF: "Commune of Guinea-Bissau" #NT!
+ GNB_social_democrat: "Guinea-Bissau" #NT!
+ GNB_social_democrat_ADJ: "Bissau-Guinean" #NT!
+ GNB_social_democrat_DEF: "the Republic of Guinea-Bissau" #NT!
+ GNB_social_liberal: "Guinea-Bissau" #NT!
+ GNB_social_liberal_ADJ: "Bissau-Guinean" #NT!
+ GNB_social_liberal_DEF: "the Republic of Guinea-Bissau" #NT!
+ GNB_market_liberal: "Guinea-Bissau" #NT!
+ GNB_market_liberal_ADJ: "Bissau-Guinean" #NT!
+ GNB_market_liberal_DEF: "the Republic of Guinea-Bissau" #NT!
+ GNB_social_conservative: "Guinea-Bissau" #NT!
+ GNB_social_conservative_ADJ: "Bissau-Guinean" #NT!
+ GNB_social_conservative_DEF: "the Republic of Guinea-Bissau" #NT!
+ GNB_authoritarian_democrat: "Guinea-Bissau" #NT!
+ GNB_authoritarian_democrat_ADJ: "Bissau-Guinean" #NT!
+ GNB_authoritarian_democrat_DEF: "the Republic of Guinea-Bissau" #NT!
+ GNB_paternal_autocrat: "Guinea-Bissau" #NT!
+ GNB_paternal_autocrat_ADJ: "Bissau-Guinean" #NT!
+ GNB_paternal_autocrat_DEF: "the State of Guinea-Bissau" #NT!
+ GNB_national_populist: "Greater Guinea" #NT!
+ GNB_national_populist_ADJ: "Bissau-Guinean" #NT!
+ GNB_national_populist_DEF: "the Greater Empire of Guinea-Bissau" #NT!
+ GNB_valkist: "Balanta Empire" #NT!
+ GNB_valkist_ADJ: "Balanta" #NT!
+ GNB_valkist_DEF: "the Balanta Empire" #NT!
+  
+ # SIE 
+ SIE_vanguardist: "Sierra Leone" #NT!
+ SIE_vanguardist_ADJ: "Sierra Leonean" #NT!
+ SIE_vanguardist_DEF: "the Union of Sierra Leone" #NT!
+ SIE_collectivist: "Sierra Leone" #NT!
+ SIE_collectivist_ADJ: "Sierra Leonean" #NT!
+ SIE_collectivist_DEF: "the Workers Republic of Sierra Leone" #NT!
+ SIE_libertarian_socialist: "Sierra Leone" #NT!
+ SIE_libertarian_socialist_ADJ: "Sierra Leonean" #NT!
+ SIE_libertarian_socialist_DEF: "the People's Republic of Sierra Leone" #NT!
+ SIE_social_democrat: "Sierra Leone" #NT!
+ SIE_social_democrat_ADJ: "Sierra Leonean" #NT!
+ SIE_social_democrat_DEF: "the Republic of Sierra Leone" #NT!
+ SIE_social_liberal: "Sierra Leone" #NT!
+ SIE_social_liberal_ADJ: "Sierra Leonean" #NT!
+ SIE_social_liberal_DEF: "the Republic of Sierra Leone" #NT!
+ SIE_market_liberal: "Sierra Leone" #NT!
+ SIE_market_liberal_ADJ: "Sierra Leonean" #NT!
+ SIE_market_liberal_DEF: "the Republic of Sierra Leone" #NT!
+ SIE_social_conservative: "Sierra Leone" #NT!
+ SIE_social_conservative_ADJ: "Sierra Leonean" #NT!
+ SIE_social_conservative_DEF: "the Republic of Sierra Leone" #NT!
+ SIE_authoritarian_democrat: "Sierra Leone" #NT!
+ SIE_authoritarian_democrat_ADJ: "Sierra Leonean" #NT!
+ SIE_authoritarian_democrat_DEF: "the Republic of Sierra Leone" #NT!
+ SIE_paternal_autocrat: "Sierra Leone" #NT!
+ SIE_paternal_autocrat_ADJ: "Sierra Leonean" #NT!
+ SIE_paternal_autocrat_DEF: "the State of Sierra Leone" #NT!
+ SIE_national_populist: "Sierra Leone" #NT!
+ SIE_national_populist_ADJ: "Sierra Leonean" #NT!
+ SIE_national_populist_DEF: "the Empire of Sierra Leone" #NT!
+ SIE_valkist: "Temne Empire" #NT!
+ SIE_valkist_ADJ: "Temne" #NT!
+ SIE_valkist_DEF: "the Temne Empire" #NT!
+  
+ # GNA 
+ GNA_vanguardist: "Guinea" #NT!
+ GNA_vanguardist_ADJ: "Guinean" #NT!
+ GNA_vanguardist_DEF: "the People's Republic of Guinea" #NT!
+ GNA_collectivist: "Guinea" #NT!
+ GNA_collectivist_ADJ: "Guinean" #NT!
+ GNA_collectivist_DEF: "the Democratic Republic of Guinea" #NT!
+ GNA_libertarian_socialist: "Guinea" #NT!
+ GNA_libertarian_socialist_ADJ: "Guinean" #NT!
+ GNA_libertarian_socialist_DEF: "the Workers State of Guinea" #NT!
+ GNA_social_democrat: "Guinea" #NT!
+ GNA_social_democrat_ADJ: "Guinean" #NT!
+ GNA_social_democrat_DEF: "the Republic of Guinea" #NT!
+ GNA_social_liberal: "Guinea" #NT!
+ GNA_social_liberal_ADJ: "Guinean" #NT!
+ GNA_social_liberal_DEF: "the Republic of Guinea" #NT!
+ GNA_market_liberal: "Guinea" #NT!
+ GNA_market_liberal_ADJ: "Guinean" #NT!
+ GNA_market_liberal_DEF: "the Republic of Guinea" #NT!
+ GNA_social_conservative: "Guinea" #NT!
+ GNA_social_conservative_ADJ: "Guinean" #NT!
+ GNA_social_conservative_DEF: "the Republic of Guinea" #NT!
+ GNA_authoritarian_democrat: "Guinea" #NT!
+ GNA_authoritarian_democrat_ADJ: "Guinean" #NT!
+ GNA_authoritarian_democrat_DEF: "the Republic of Guinea" #NT!
+ GNA_paternal_autocrat: "Guinea" #NT!
+ GNA_paternal_autocrat_ADJ: "Guinean" #NT!
+ GNA_paternal_autocrat_DEF: "the Guinean Military State" #NT!
+ GNA_national_populist: "Guinea" #NT!
+ GNA_national_populist_ADJ: "Guinean" #NT!
+ GNA_national_populist_DEF: "the Greater Guinean State" #NT!
+ GNA_valkist: "Fula State" #NT!
+ GNA_valkist_ADJ: "Fula" #NT!
+ GNA_valkist_DEF: "the Fula State" #NT!
+  
+ # TOG 
+ TOG_vanguardist: "Togo" #NT!
+ TOG_vanguardist_ADJ: "Togolese" #NT!
+ TOG_vanguardist_DEF: "the Togolese People's Republic" #NT!
+ TOG_collectivist: "Togo" #NT!
+ TOG_collectivist_ADJ: "Togolese" #NT!
+ TOG_collectivist_DEF: "the Democratic Republic of Togo" #NT!
+ TOG_libertarian_socialist: "Togo" #NT!
+ TOG_libertarian_socialist_ADJ: "Togolese" #NT!
+ TOG_libertarian_socialist_DEF: "the Togolese Workers State" #NT!
+ TOG_social_democrat: "Togo" #NT!
+ TOG_social_democrat_ADJ: "Togolese" #NT!
+ TOG_social_democrat_DEF: "the Togolese Republic" #NT!
+ TOG_social_liberal: "Togo" #NT!
+ TOG_social_liberal_ADJ: "Togolese" #NT!
+ TOG_social_liberal_DEF: "the Togolese Republic" #NT!
+ TOG_market_liberal: "Togo" #NT!
+ TOG_market_liberal_ADJ: "Togolese" #NT!
+ TOG_market_liberal_DEF: "the Togolese Republic" #NT!
+ TOG_social_conservative: "Togo" #NT!
+ TOG_social_conservative_ADJ: "Togolese" #NT!
+ TOG_social_conservative_DEF: "the Togolese Republic" #NT!
+ TOG_authoritarian_democrat: "Togo" #NT!
+ TOG_authoritarian_democrat_ADJ: "Togolese" #NT!
+ TOG_authoritarian_democrat_DEF: "the Togolese Republic" #NT!
+ TOG_paternal_autocrat: "Togo" #NT!
+ TOG_paternal_autocrat_ADJ: "Togolese" #NT!
+ TOG_paternal_autocrat_DEF: "the Togolese State" #NT!
+ TOG_national_populist: "Togo" #NT!
+ TOG_national_populist_ADJ: "Togolese" #NT!
+ TOG_national_populist_DEF: "the Greater Togolese Empire" #NT!
+ TOG_valkist: "Ewe State" #NT!
+ TOG_valkist_ADJ: "Ewe" #NT!
+ TOG_valkist_DEF: "the Ewe Estate" #NT!
+  
+ # Dahomey 
+ DAH_vanguardist: "Commune of Dahomey" #NT!
+ DAH_vanguardist_ADJ: "Dahomean" #NT!
+ DAH_vanguardist_DEF: "the Commune of Dahomey" #NT!
+ DAH_collectivist: "Commune of Dahomey" #NT!
+ DAH_collectivist_ADJ: "Dahomean" #NT!
+ DAH_collectivist_DEF: "the Commune of Dahomey" #NT!
+ DAH_libertarian_socialist: "Commune of Dahomey" #NT!
+ DAH_libertarian_socialist_ADJ: "Dahomean" #NT!
+ DAH_libertarian_socialist_DEF: "the Commune of Dahomey" #NT!
+ DAH_social_democrat: "Republic of Dahomey" #NT!
+ DAH_social_democrat_ADJ: "Dahomean" #NT!
+ DAH_social_democrat_DEF: "the Republic of Dahomey" #NT!
+ DAH_social_liberal: "Republic of Dahomey" #NT!
+ DAH_social_liberal_ADJ: "Dahomean" #NT!
+ DAH_social_liberal_DEF: "the Republic of Dahomey" #NT!
+ DAH_market_liberal: "Republic of Dahomey" #NT!
+ DAH_market_liberal_ADJ: "Dahomean" #NT!
+ DAH_market_liberal_DEF: "the Republic of Dahomey" #NT!
+ DAH_social_conservative: "Republic of Dahomey" #NT!
+ DAH_social_conservative_ADJ: "Dahomean" #NT!
+ DAH_social_conservative_DEF: "the Republic of Dahomey" #NT!
+ DAH_authoritarian_democrat: "Kingdom of Dahomey" #NT!
+ DAH_authoritarian_democrat_ADJ: "Dahomean" #NT!
+ DAH_authoritarian_democrat_DEF: "the Kingdom of Dahomey" #NT!
+ DAH_paternal_autocrat: "Kingdom of Dahomey" #NT!
+ DAH_paternal_autocrat_ADJ: "Dahomean" #NT!
+ DAH_paternal_autocrat_DEF: "the Kingdom of Dahomey" #NT!
+ DAH_national_populist: "State of Dahomey" #NT!
+ DAH_national_populist_ADJ: "Dahomean" #NT!
+ DAH_national_populist_DEF: "the State of Dahomey" #NT!
+ DAH_valkist: "Empire of Dahomey" #NT!
+ DAH_valkist_ADJ: "Dahomean" #NT!
+ DAH_valkist_DEF: "Empire of Dahomey" #NT!
+  
+ GYA: "Guyanna" #NT!
+ GYA_ADJ: "Guyannan" #NT!
+ GYA_DEF: "the Republic of Guyanna" #NT!
+  
+ #Cosmetic Tags 
+ DAH_revolt_paternal_autocrat: "Dahomey" #NT!
+ DAH_revolt_paternal_autocrat_ADJ: "Dahomey" #NT!
+ DAH_revolt_paternal_autocrat_DEF: "the Kingdom of Dahomey" #NT!
+  
+ SEN_native_paternal_autocrat: "Fula Jallon" #NT!
+ SEN_native_paternal_autocrat_ADJ: "Fula Jallon" #NT!
+ SEN_native_paternal_autocrat_DEF: "Fula Jallon" #NT!
+  
+ IVO_native_paternal_autocrat: "Neo Kong Empire" #NT!
+ IVO_native_paternal_autocrat_ADJ: "Kong" #NT!
+ IVO_native_paternal_autocrat_DEF: "the Neo Kong Empire" #NT!
+  
+ VOL_native_paternal_autocrat: "Neo Ashanti Empire" #NT!
+ VOL_native_paternal_autocrat_ADJ: "Ashanti" #NT!
+ VOL_native_paternal_autocrat_DEF: "the Neo Ashanti Empire" #NT!
+  
+ COG_subject: "$OVERLORDADJ$ое Конго"
+  
+ # Characters 
+  
+ COG_Pierre_Ryckmans: "Pierre Ryckmans" #NT!

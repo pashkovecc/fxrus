@@ -1,0 +1,69 @@
+﻿l_russian:
+  
+ ### Country Names 
+ ECU_vanguardist: "Socialist Republic of Ecuador" #NT!
+ ECU_vanguardist_ADJ: "Ecuadorian" #NT!
+ ECU_vanguardist_DEF: "Ecuador" #NT!
+ ECU_collectivist: "Socialist Republic of Ecuador" #NT!
+ ECU_collectivist_ADJ: "Ecuadorian" #NT!
+ ECU_collectivist_DEF: "Ecuador" #NT!
+ ECU_libertarian_socialist: "Socialist Republic of Ecuador" #NT!
+ ECU_libertarian_socialist_ADJ: "Ecuadorian" #NT!
+ ECU_libertartarian_socialist_DEF: "Ecuador" #NT!
+ ECU_social_democrat: "Ecuador" #NT!
+ ECU_social_democrat_ADJ: "Ecuadorian" #NT!
+ ECU_social_democrat_DEF: "the Republic of Ecuador" #NT!
+ ECU_social_liberal: "Ecuador" #NT!
+ ECU_social_liberal_ADJ: "Ecuadorian" #NT!
+ ECU_social_liberal_DEF: "the Republic of Ecuador" #NT!
+ ECU_market_liberal: "Ecuador" #NT!
+ ECU_market_liberal_ADJ: "Ecuadorian" #NT!
+ ECU_market_liberal_DEF: "the Republic of Ecuador" #NT!
+ ECU_social_conservative: "Ecuador" #NT!
+ ECU_social_conservative_ADJ: "Ecuadorian" #NT!
+ ECU_social_conservative_DEF: "the Republic of Ecuador" #NT!
+ ECU_authoritarian_democrat: "Ecuador" #NT!
+ ECU_authoritarian_democrat_ADJ: "Ecuadorian" #NT!
+ ECU_authoritarian_democrat_DEF: "the Republic of Ecuador" #NT!
+ ECU_paternal_autocrat: "Ecuador" #NT!
+ ECU_paternal_autocrat_ADJ: "Ecuadorian" #NT!
+ ECU_paternal_autocrat_DEF: "the Federal State of Ecuador" #NT!
+ ECU_national_populist: "Ecuador" #NT!
+ ECU_national_populist_ADJ: "Ecuadorian" #NT!
+ ECU_national_populist_DEF: "the Federal State of Ecuador" #NT!
+ ECU_valkist: "Ecuador" #NT!
+ ECU_valkist_ADJ: "Ecuadorian" #NT!
+ ECU_valkist_DEF: "the Federal State of Ecuador" #NT!
+  
+  
+ ### Political Parties ### 
+  
+ ECU_vanguardist_party: "VSE" #NT!
+ ECU_vanguardist_party_long: "Vanguardia Socialista Ecuatoriana\n§gEcuadorian Socialist Vanguard§!" #NT!
+ ECU_collectivist_party: "PCE" #NT!
+ ECU_collectivist_party_long: "Partido Comunista Ecuatoriano\n§gEcuadorian Communist Party§!" #NT!
+ ECU_libertarian_socialist_party: "PSE" #NT!
+ ECU_libertarian_socialist_party_long: "Partido Socialista Ecuatoriano (Ala Radical)\n§gEcuadorian Socialist Party (Radical Wing)§!" #NT!
+ ECU_social_democrat_party: "PSE" #NT!
+ ECU_social_democrat_party_long: "Partido Socialista Ecuatoriano (Ala Reformista)\n§gEcuadorian Socialist Party (Reformist Wing)§!" #NT!
+ ECU_social_liberal_party: "PLRE" #NT!
+ ECU_social_liberal_party_long: "Partido Liberal Radical Ecuatoriano\n§gEcuadorian Radical Liberal Party§!" #NT!
+ ECU_market_liberal_party: "PLRE" #NT!
+ ECU_market_liberal_party_long: "Partido Liberal Radical Ecuatoriano\n§gEcuadorian Radical Liberal Party§!" #NT!
+ ECU_social_conservative_party: "PC" #NT!
+ ECU_social_conservative_party_long: "Partido Conservador\n§gConservative Party§!" #NT!
+ ECU_authoritarian_democrat_party: "PC (V)" #NT!
+ ECU_authoritarian_democrat_party_long: "Partido Conservador (Velasquista)\n§gConservative Party (Velasquista)§!" #NT!
+ ECU_paternal_autocrat_party: "UPN" #NT!
+ ECU_paternal_autocrat_party_long: "Unión Patriótica Nacional\n§gNational Patriotic Union§!" #NT!
+ ECU_national_populist_party: "UPN - CON" #NT!
+ ECU_national_populist_party_long: "UPN - Compactación Obrera Nacional\n§gUPN - National Workers' Compaction§!" #NT!
+ ECU_valkist_party: "FADN" #NT!
+ ECU_valkist_party_long: "Frente Anti-Comunista de Defensa Nacional\n§gNational Defense Anti-Communist Front§!" #NT!
+  
+ ECU_Federico_Paez: "Federico Páez" #NT!
+ ECU_Carlos_Freile_Larrea: "Carlos Freile Larrea" #NT!
+ ECU_Enriquez_Gallo: "Enriquez Gallo" #NT!
+ ECU_Francisco_Urrutia_Suarez: "Francisco Urrutia Suárez" #NT!
+ ECU_Edmundo_Chiriboga_Gonzalez: "Edmundo Chiriboga Gonzalez" #NT!
+ ECU_Hugo_Ortiz_Garces: "Hugo Ortiz Garcés" #NT!

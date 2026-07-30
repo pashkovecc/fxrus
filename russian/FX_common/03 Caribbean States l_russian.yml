@@ -1,0 +1,33 @@
+﻿l_russian:
+  
+ JAM: "Ямайка"
+ JAM_ADJ: "Ямайск"
+ JAM_DEF: "State of Jamaica" #NT!
+  
+ BAH: "Багамы"
+ BAH_ADJ: "Багамск"
+ BAH_DEF: "Commonweath of the Bahamas" #NT!
+  
+ BLZ: "Белиз"
+ BLZ_ADJ: "Белизск"
+ BLZ_DEF: "The State of Belize" #NT!
+  
+ GDL: "Гваделупа"
+ GDL_ADJ: "Гваделупск"
+ GDL_DEF: "Guadaloupe" #NT!
+  
+ TRI: "Тринидад и Тобаго"
+ TRI_ADJ: "Тринидад-и-тобагск"
+ TRI_DEF: "Тринидад и Тобаго"
+  
+ BAS: "British West Indies" #NT!
+ BAS_DEF: "the British West Indies" #NT!
+  
+ SUR: "Суринам"
+ SUR_ADJ: "Суринамск"
+ SUR_DEF: "Republic of Surinamese" #NT!
+  
+ CAY: "Cayenne" #NT!
+ CAY_ADJ: "Cayennese" #NT!
+ CAY_DEF: "State of Cayenne" #NT!
+  

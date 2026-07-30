@@ -1,0 +1,771 @@
+﻿l_russian:
+  
+ RAJ_FUHRERREICH_DESC: "The British Raj stands at a crossroads in 1936. Decades of unrest, economic exploitation, and political suppression have left the subcontinent simmering with discontent. The whispers of rebellion grow louder, and the administration must decide whether to reform, or rule with an iron fist.\n\nThe failure of the Government of India Act 1935 has already put India's future in the empire into question. Will the Raj maintain its place as the jewel of the British Empire, or will it crumble under the weight of its own contradictions? The future of India—and the Empire—hangs in the balance." #NT!
+  
+ ### Country Names 
+ RAJ: "British Raj" #NT!
+ RAJ_ADJ: "British-Indian" #NT!
+ RAJ_DEF: "the British Raj" #NT!
+  
+ RAJ_dominion: "Dominion of India" #NT!
+ RAJ_dominion_ADJ: "Indian" #NT!
+ RAJ_dominion_DEF: "the Dominion of India" #NT!
+  
+ RAJ_federation: "All-India Federation" #NT!
+ RAJ_federation_ADJ: "British-Indian" #NT!
+ RAJ_federation_DEF: "the All-India Federation" #NT!
+  
+ ### Parties 
+ RAJ_vanguardist_party: "$IND_vanguardist_party$" #NT!
+ RAJ_vanguardist_party_long: "$IND_vanguardist_party_long$" #NT!
+ RAJ_collectivist_party: "$IND_collectivist_party$" #NT!
+ RAJ_collectivist_party_long: "$IND_collectivist_party_long$" #NT!
+ RAJ_libertarian_socialist_party: "$IND_libertarian_socialist_party$" #NT!
+ RAJ_libertarian_socialist_party_long: "$IND_libertarian_socialist_party_long$" #NT!
+ RAJ_social_democrat_party: "$IND_social_democrat_party$" #NT!
+ RAJ_social_democrat_party_long: "$IND_social_democrat_party_long$" #NT!
+ RAJ_social_liberal_party: "$IND_social_liberal_party$" #NT!
+ RAJ_social_liberal_party_long: "$IND_social_liberal_party_long$" #NT!
+ RAJ_market_liberal_party: "$IND_market_liberal_party$" #NT!
+ RAJ_market_liberal_party_long: "$IND_market_liberal_party_long$" #NT!
+ RAJ_social_conservative_party: "$IND_social_conservative_party$" #NT!
+ RAJ_social_conservative_party_long: "$IND_social_conservative_party_long$" #NT!
+ RAJ_authoritarian_democrat_party: "British Administration" #NT!
+ RAJ_authoritarian_democrat_party_long: "British Colonial Administration" #NT!
+ RAJ_paternal_autocrat_party: "British Administration" #NT!
+ RAJ_paternal_autocrat_party_long: "British Colonial Administration" #NT!
+ RAJ_national_populist_party: "$IND_national_populist_party$" #NT!
+ RAJ_national_populist_party_long: "$IND_national_populist_party_long$" #NT!
+ RAJ_valkist_party: "$IND_valkist_party$" #NT!
+ RAJ_valkist_party_long: "$IND_valkist_party_long$" #NT!
+  
+ RAJ_council_of_princes: "Council of Princes" #NT!
+ RAJ_council_of_princes_long: "Council of Princes" #NT!
+  
+ RAJ_unionist_party: "UP" #NT!
+ RAJ_unionist_party_long: "Unionist Party" #NT!
+  
+ ### Leaders 
+ POLITICS_LORD_LINLITHGOW_DESC: "§GPolitical Dossier\n§GBorn:§W\nSeptember 6th 1887, South Queensferry, Scotland\n§GMilitary Career:\n§WLinlithgow served as an officer on the Western Front during the First World War. Transferred from Lothians and Border Horse, he commanded a battalion of the Royal Scots. He was mentioned in dispatches and appointed an Officer of the Order of the British Empire, ending the war with the rank of colonel.\n\n-Knight of the Most Noble Order of the Garter\n-Knight Companion of the Most Ancient and Most Noble Order of the Thistle\n-Knight Grand Commander of the Most Exalted Order of the Star of India\n-Knight Grand Commander of the Most Eminent Order of the Indian Empire\n-Officer of the Most Excellent Order of the British Empire\n-Recipient of the Territorial Decoration\n§GNotes:§W\n-Royal Background\n-Conservative" #NT!
+ ARMY_FRANK_MESSERVY_DESC: "§GMilitary Dossier\n§GBorn:§W\nDecember 9th 1893, South Queensferry, Scotland\n§GMilitary Career:\n§WMesservy was educated at Eton College and the Royal Military College, Sandhurst and was commissioned into the Indian Army in 1913 and in 1914 joined 9th Hodson's Horse. which later became part of 4th Duke of Cambridge's Own Hodson's Horse. He would see action in the First World War in France, Palestine and Syria from 1914 to 1918. He later served in Kurdistan in 1919. In 1932 Messervy was appointed as an instructor at the Command and Staff College in Quetta.\n\n-Knight Commander of the Order of the Star of India\n-Knight Commander of the Order of the British Empire\n-Companion of the Order of the Bath\n§GNotes:§W\n-Slightly Eccentric\n-Mediocre Armor Tactician" #NT!
+ ARMY_NOEL_BERESFORD_PEIRSE_DESC: "§GMilitary Dossier\n§GBorn:§W\nDecember 22nd 1887, Ireland\n§GMilitary Career:\n§WBeresford-Peirse was commissioned into the Royal Artillery in 1907. He served in the First World War in, briefly, Egypt in 1914 then Mesopotamia back to Egypt and finally France and Belgium. He was Mentioned in Dispatches and awarded the Distinguished Service Order in 1918. After the First World War and after attendance at the Staff College, Camberley from 1924 to 1925, until 1929, he performed a number of roles in the Royal Artillery in France and Britain. There were then staff and administrative posts in the UK until 1935. In 1936, Beresford-Peirse was posted to India for \"special duties\" and has been assigned as instructor at the Senior Officers' School in Belgaum, India.\n\n-Companion of the Order of the Bath\n§GNotes:§W\n-Chaotic personal life" #NT!
+ ARMY_DOUGLAS_GRACEY_DESC: "§GMilitary Dossier\n§GBorn:§W\nSeptember 3rd 1894, Muzaffarnagar, Uttar Pradesh, British India\n§GMilitary Career:\n§WEducated at Blundell's School and the Royal Military College, Sandhurst, Gracey was commissioned onto the Unattached List, Indian Army on 15 August 1914 as a second lieutenant. By early 1915 he had been attached to the 5th Extra Reserve Battalion, Royal Munster Fusiliers. He served in France from 11 January to 2 May 1915 when he was wounded. In September 1915 he was appointed from the unattached list of the Indian Army into the 1st King George's Own Gurkha Rifles (The Malaun Regiment) with the rank of second lieutenant. With his Indian Army regiment he saw active service in Mesopotamia and Palestine and was awarded the Military Cross (MC) in 1917 and again in 1919 Between the wars he became an instructor at the Royal Military College, Sandhurst, in 1925, commanding one of the cadet companies. After this he attended the Staff College, Quetta from 1928 to 1929 and his fellow students included Colin Gubbins, John Crocker, Eric Goddard, Lionel Cox and Henry Davies, among many others, who were destined to achieve general officer rank. In peacetime promotion came slowly and brevet ranks were used as an interim step to the next rank up for officers who performed well. In 1930 Gracey received promotion to brevet major. In late 1931 he was appointed a GSO2 at GHQ India and by the time this appointment finished in late 1935 he had received his promotion to major..\n\n-Companion of the Order of the Bath\n§GNotes:§W\n-Popular among his soldiers\n-Very familiar with India" #NT!
+  
+ ### Tooltips 
+ RAJ_Revolt_tooltip: "§RThe Revolt has begun.§!\n" #NT!
+ RAJ_PlayIndia_tooltip: "§GYou will take control of the Indian Revolt.§!\n" #NT!
+ RAJ_NoContent_tooltip: "§RWarning; this country does not currently have any content.§!\n" #NT!
+ RAJ_Revolt_Up: "§R+1 to Revolt Severity.§!\n" #NT!
+ RAJ_Revolt_Down: "§G-1 to Revolt Severity.§!\n" #NT!
+ RAJ_Future1: "§RThe Raj will remain loyal to the Empire.§!\n" #NT!
+ RAJ_Future2: "§RThe Raj will pursue a path to independence.§!\n" #NT!
+ RAJ_Attack_tooltip: "§RThe Raj will declare war on every breakaway state.§!\n" #NT!
+  
+ ### Ideas 
+ RAJ_Incoming_Revolt: "Incoming Revolt" #NT!
+ RAJ_Incoming_Revolt_desc: "Our intelligence operatives have discovered a plot by rebel leaders to initiate a revolt in June. We must be abundantly cautious, and prepared to meet it with extreme force." #NT!
+ RAJ_poor_conditions: "Appalling Conditions" #NT!
+ RAJ_poor_conditions_desc: "A plethora of poor working conditions for the population has generated great resentment to our rule in India, almost at every turn in politics we are presented with demands to improve the situation." #NT!
+ RAJ_colonial_administration: "Colonial Administration" #NT!
+ RAJ_colonial_administration_desc: "While we can claim to rule India, there is no question as to who rules us. Due to this arrangement many view our Government as illegitimate and are as such unwilling to fight to ensure its survival. Additionally many of the country's best minds prefer to leave rather than stay, hampering our research capabilities." #NT!
+ RAJ_poor_training: "Inefficient Training" #NT!
+ RAJ_poor_training_desc: "Improper training procedures and a general lack of discipline in the army has led to it being an incredibly incapable force, suited only for policing. On the bright side we can at least train our soldiers quicker." #NT!
+ RAJ_reconquest_campaign: "Beginning the Reconquest" #NT!
+ RAJ_exiled_government: "Our Government in Exile" #NT!
+ RAJ_anti_british: "Anti-British Sentiment" #NT!
+ RAJ_anti_british_desc: "The population of the British Raj has been overcome by a staunch anti-British sentiment. Many in Indian politics would like to see the British Empire gone from the subcontinent entirely. So long as this is the predominant thought in India, we will struggle to make any headway in winning the hearts and souls of our population." #NT!
+ RAJ_princely_states: "The Princely States" #NT!
+ RAJ_princely_states_desc: "The Princely States have long been semi-autonomous kingdoms within the Raj. Providing them autonomy has assaunged some unrest within their borders, but our lack of direct control over them creates a drag on our administration. Balancing the autonomy of these states is important to the survival of the Raj." #NT!
+ RAJ_Indian_Officers: "Indian Officers" #NT!
+ RAJ_british_business: "British Business" #NT!
+ RAJ_building_indian_industry: "Building Indian Industry" #NT!
+ RAJ_improved_conditions: "Improving Conditions" #NT!
+ RAJ_new_nation: "A New Nation" #NT!
+ RAJ_limited_intervention: "Indian Civil War" #NT!
+ RAJ_limited_intervention_desc: "Civil War has enveloped the Indian subcontinent and our administration is in shambles. We must wait for our overlord's decision before we can recieve any outside support from the already weakened British sphere." #NT!
+ RAJ_decentral_command_idea: "Officer Autonomy" #NT!
+ RAJ_central_command_idea: "Centralised Command" #NT!
+ RAJ_support_unions: "Supported Unions" #NT!
+ RAJ_economic_recovery: "Economic Recovery Plan" #NT!
+ RAJ_spectre_of_revolt: "Spectre of 1936" #NT!
+ RAJ_council_of_state: "Council of State" #NT!
+ RAJ_crushing_of_dissent: "Nationalist Crackdown" #NT!
+ RAJ_jewel_of_empire: "Imperial Crown Jewel" #NT!
+ RAJ_princely_federation: "Federation of Princes" #NT!
+ RAJ_princely_autonomy: "Автономные княжества"
+ RAJ_princely_allies: "$RAJ_princely_autonomy$" #NT!
+  
+ ### Focuses 
+ RAJ_British_Indian_Army: "The British Indian Army" #NT!
+ RAJ_British_Indian_Army_desc: "The Raj has had its own army - the British Indian Army - for decades. Its effecitveness has been debated, however, and perhaps it is now time to look at potential reform." #NT!
+ RAJ_Centralise_the_Armys_Command: "Centralise the Army's Command" #NT!
+ RAJ_Centralise_the_Armys_Command_desc: "Command of the armies must be taken out of the hands of the princes and centralised in a small group of commanders. This is the only efficient way, though it will take time to make the princes realise it." #NT!
+ RAJ_Formalise_the_General_Staff: "Formalise the General Staff" #NT!
+ RAJ_Formalise_the_General_Staff_desc: "The British Indian army continues to expand and modernize, hence necessitating a more modern and advanced form of control and communications. An ad-hoc general staff has been in place so far, but now it is time to formalize it." #NT!
+ RAJ_Motorisation_of_the_Army: "Motorisation of the Army" #NT!
+ RAJ_Motorisation_of_the_Army_desc: "Modernizing our army by introducing motorized units will greatly enhance its mobility and effectiveness on the battlefield, allowing us to respond swiftly to threats." #NT!
+ RAJ_Military_Research_Council: "Military Research Council" #NT!
+ RAJ_Military_Research_Council_desc: "Military research is slowly but surely becoming a very important part of modern war. For a country so far behind relative to her size, we must ensure that the British-Indian army has the most modern equipment available." #NT!
+ RAJ_Expand_Support_Capacity: "Expand Support Capacity" #NT!
+ RAJ_Expand_Support_Capacity_desc: "Support equipment will be vital for the future in ensuring that the cost of modern war is not too great to inspire mass unrest. We should hence invest into the creation of new support battalions to help our soldiers." #NT!
+ RAJ_New_Munitions_Factory: "New Munitions Factories" #NT!
+ RAJ_New_Munitions_Factory_desc: "Constructing new munitions factories will bolster our ability to produce the weapons and ammunition required to sustain our military efforts." #NT!
+ RAJ_Expand_the_Officers_School: "Expand the Officer's School" #NT!
+ RAJ_Expand_the_Officers_School_desc: "Establishing a Military Academy specifically for Indian officers and commanders is essential to training the next generation of leaders of the British Indian Army." #NT!
+ RAJ_Maintain_Officer_Autonomy: "Maintain Officer Autonomy" #NT!
+ RAJ_Maintain_Officer_Autonomy_desc: "Working with the princes to make their common command of the army more efficient, but still respecting their rights, is the best way to keep morale high and maintain national unity." #NT!
+ RAJ_Reinforce_Command: "Centralised Planning" #NT!
+ RAJ_Reinforce_Command_desc: "The existing command structure has served the Army well for decades. Reinforcing it is the best and only way to prevent the Army from drifting away from our administration." #NT!
+ RAJ_Improved_Basic_Training: "Improved Basic Training" #NT!
+ RAJ_Improved_Basic_Training_desc: "The best way to bring our army up to modern standards is to initiate training reforms. We will continue to be woefully behind our enemies otherwise." #NT!
+ RAJ_Equipment_Upgrades: "Equipment Upgrades" #NT!
+ RAJ_Equipment_Upgrades_desc: "We continue to use outdated equipment issued to us by the British. Only by buying new equipment licenses and upgrading our current weapons and gear can we bring our army into the modern age." #NT!
+ RAJ_Cohesive_Strategy: "A Cohesive Strategy" #NT!
+ RAJ_Cohesive_Strategy_desc: "It cannot do for different divisions of the army to have different plans of action. We must standardize our strategy to ensure that the entire army is on the same page in any conflicts." #NT!
+ RAJ_Signals_Department: "Signals Department" #NT!
+ RAJ_Signals_Department_desc: "As troops become increasingly mechanised and combat is focused on squad operations, we will have to improve our communications significantly. Wars are no longer fought in lines and trenches, and units moving quickly must be in constant communication with each other in order to coordinate effectively. In addition to expanding the Signals Department and by providing radios to as many squads as possible, we will also adopt the No. 83 coloured smoke grenades for soldiers to use." #NT!
+  
+ RAJ_Indian_Airforce: "Airforce of the Raj" #NT!
+ RAJ_Indian_Airforce_desc: "Creating an Indian Airforce is essential to beginning our conquest of the skies." #NT!
+ RAJ_Adjust_Manufacturies: "Adjust Manufacturies" #NT!
+ RAJ_Adjust_Manufacturies_desc: "Unfortunately, our current manufacturies are not equipped to handle the production of new planes for our air force. We must adjust these factories and production lines to be able to do so." #NT!
+ RAJ_Create_Command_Structure: "Create A Command Structure" #NT!
+ RAJ_Create_Command_Structure_desc: "Creating a command structure for our new Air Force is essential in creating an Air Force that will successfully defend our country and its interests." #NT!
+ RAJ_New_Airbases: "New Airbases" #NT!
+ RAJ_New_Airbases_desc: "Air superiority is won by swarming the skies with planes. Mass producing them is the first step in achieving that goal." #NT!
+ RAJ_Strategy_for_Skies: "A Strategy for the Skies" #NT!
+ RAJ_Strategy_for_Skies_desc: "We must have a cohesive strategy as it comes to aerial warfare; only then can we successfully coordinate its operations with the Army and Navy." #NT!
+ RAJ_Prioritize_Fighters: "Prioritize Fighters" #NT!
+ RAJ_Prioritize_Fighters_desc: "We need to prioritize the creation of fighters over bombers; if the Great War has taught us anything, it's that modern wars are won by exercising complete control over the skies." #NT!
+ RAJ_Prioritize_Bombers: "Prioritize Bombers" #NT!
+ RAJ_Prioritize_Bombers_desc: "We need to prioritize the creation of bombers over fighters; if the Great War taught us anything, it's that modern wars are won by absolutely and completely destroying the enemy." #NT!
+ RAJ_Wings_Over_India: "Wings Over India" #NT!
+ RAJ_Wings_Over_India_desc: "The skies of India must become our domain, and more specifically, the domain of our new air force." #NT!
+ RAJ_Radio_Communications: "Radio Communications" #NT!
+ RAJ_Radio_Communications_desc: "Across such a vast continent, radio communication is absolutely mandatory for quick communication. While this technology may not be widely spread yet, we shall see to it that it is!" #NT!
+ RAJ_Defend_the_Indian_Skies: "Defend the Indian Skies" #NT!
+ RAJ_Defend_the_Indian_Skies_desc: "There are many potential threats that lay on the horizon. The spectre of Soviet, Japanese or even French bombers raining down terror upon unsuspecting India is a future that remains quite undesirable. Hence, we must ready our air defences, both on ground and in the sky!" #NT!
+  
+ RAJ_Raj_Navy: "A Raj Navy" #NT!
+ RAJ_Raj_Navy_desc: "The British Indian Army requires a British Indian Navy to supplement it. Building ships and docks should be our priority to secure our country." #NT!
+ RAJ_New_Dockyards: "New Dockyards" #NT!
+ RAJ_New_Dockyards_desc: "We can't build new ships without having dockyards to build them. Focusing on the construction of new dockyards must be undertaken now before we can focus on any other aspect of our new Navy." #NT!
+ RAJ_Shipbuilding_Techniques: "Shipbuilding Techniques" #NT!
+ RAJ_Shipbuilding_Techniques_desc: "We are far behind the rest of the world when it comes to shipbuilding. But using their techniques is not out of the question when it comes to producing our own ships." #NT!
+ RAJ_Strategy_for_Waves: "A Strategy for the Waves" #NT!
+ RAJ_Strategy_for_Waves_desc: "We require a cohesive strategy to control the seas around India, and the time to begin planning one out is now." #NT!
+ RAJ_Ocean_Supremacy: "Ocean Supremacy" #NT!
+ RAJ_Ocean_Supremacy_desc: "Controlling the seas completely is essential to our strategies. Protecting India from the sea means dominating the waves." #NT!
+ RAJ_Battleship_Designs: "Battleship Designs" #NT!
+ RAJ_Battleship_Designs_desc: "Battleships will be the bread and butter of our strategy to control the seas. We must assert our supremecy outright." #NT!
+ RAJ_Control_Deep: "Control the Deep" #NT!
+ RAJ_Control_Deep_desc: "Instead of attempting to dominate the waves, a much better strategy for our Navy is to dominate the deep, and create a safety net of submarines around the Raj." #NT!
+ RAJ_Submarine_Designs: "Submarine Designs" #NT!
+ RAJ_Submarine_Designs_desc: "Submarines will be the bread and butter of our strategy to control the deep. We must assert our supremecy subtly." #NT!
+ RAJ_Carrier_Ambitions: "Carrier Ambitions" #NT!
+ RAJ_Carrier_Ambitions_desc: "Creating aircraft carriers is a daunting prospect, especially in the face of established naval supremecy. But we will not stand down. We must not be cowed. We must create a Navy for the new age." #NT!
+ RAJ_Fund_Karachi_Dockyards: "Fund Karachi Shipyards" #NT!
+ RAJ_Fund_Karachi_Dockyards_desc: "Investing in the Karachi Dockyards will bolster our naval capabilities, enabling us to construct and maintain a modern fleet to safeguard our maritime interests." #NT!
+ RAJ_Cruiser_Models: "Cruiser Models" #NT!
+ RAJ_Cruiser_Models_desc: "To build up the British-Indian navy, we will need modern cruiser models to patrol the vast Indian ocean. There is simply no other way for us to deter potential French and Japanese incursions that may even cut us off from the mother country" #NT!
+ RAJ_Naval_Aviation: "Naval Aviation" #NT!
+ RAJ_Naval_Aviation_desc: "Naval aviation is a new field of war, one that holds much potential. We should invest in it, most especially to make up for our rather lacklustre naval tradition compared to the Japanese or even the French." #NT!
+  
+ RAJ_Third_Roundtable_Talks: "Third Roundtable Talks" #NT!
+ RAJ_Third_Roundtable_Talks_desc: "Once more, we have reached an impasse regarding Indian self-rule. Despite the best attempts of the government, the Government of India 1935 Act has failed and hence we have been set back to the drawing board of what we shall do next." #NT!
+ RAJ_Embrace_British_Industry: "Embrace British Industry" #NT!
+ RAJ_Embrace_British_Industry_desc: "As much as it may pain us, the most efficient way to achieve our ultimate goal is to embrace the British industry already present within our country." #NT!
+ RAJ_Reject_British_Industry: "Reject British Industry" #NT!
+ RAJ_Reject_British_Industry_desc: "As much difficulty it may give us, the only way to achieve our ultimate goal is to reject the industry that the British have forced upon us, and to create our own styles and methods." #NT!
+ RAJ_Gujarat_Oil_Exploration: "Gujarat Oil Exploration" #NT!
+ RAJ_Gujarat_Oil_Exploration_desc: "There have been reports that there is oil in the region of Gujarat, which so far has not experienced much development. We should prospect for this vital resource to ensure imperial strength and prosperity." #NT!
+ RAJ_Deals_With_Vickers: "Deals with Vickers" #NT!
+ RAJ_Deals_With_Vickers_desc: "Vickers is one of the biggest British arms companies and their know-how as well as technical aid will prove vital to establishing Indian self-sufficiency in defence. We should hence reach out to them for the construction of Indian plants." #NT!
+ RAJ_Rural_Electrification: "Rural Electrification" #NT!
+ RAJ_Rural_Electrification_desc: "The rural countryside continues to suffer in dismal poverty, causing much of the population to be weak and restless. Electrification will bring about the wonders of modernity to India and will aid imperial interests for years to come." #NT!
+ RAJ_The_Reserve_Bank_of_India: "The Reserve Bank of India" #NT!
+ RAJ_The_Reserve_Bank_of_India_desc: "With economic troubles still plaguing India, a central bank is vital to ensuring economic stability and sanity. While this move has been held off by colonial traditionalists, the reality is that the best course of action is to establish a bank that will regulate the currency of the Crown Jewel." #NT!
+ RAJ_Expand_Raniganj_Coalfield: "Expand Raniganj Coalfield" #NT!
+ RAJ_Expand_Raniganj_Coalfield_desc: "As one of the oldest coal fields in India, Raniganj will prove immensely important to industrialization of British India and to building its utility to the empire and beyond." #NT!
+ RAJ_Subsidize_the_Textile_Industry: "Subsidize the Textile Industry" #NT!
+ RAJ_Subsidize_the_Textile_Industry_desc: "Textiles are a vital part of Indian exports, especially to the core of the British empire. We must subsidize it to ensure that it does not go hungry for funds and aid." #NT!
+ RAJ_Agricultural_Modernisation: "Agricultural Modernisation" #NT!
+ RAJ_Agricultural_Modernisation_desc: "Most of the country remains agricultural, meaning no economic policy is complete without at least some rural aid. Agricultural modernization through mechanization and equipment will help to relieve the burden faced by many Indians." #NT!
+ RAJ_Industrial_Cooperation: "Industrial Cooperation" #NT!
+ RAJ_Industrial_Cooperation_desc: "Cooperating with the British is the best way to improve upon our already-existing industry and build new factories." #NT!
+  
+ RAJ_Incoming_Storm: "Incoming Storm" #NT!
+ RAJ_Incoming_Storm_desc: "Our intelligence reports indicate that a major crisis is brewing within the Raj. Whispers of rebellion and unrest are growing louder, and we must act swiftly to prepare for the storm ahead. Strengthening our administration and military readiness will be critical to weathering this impending challenge." #NT!
+ RAJ_Wartime_Mobilisation: "Emergency Mobilisation" #NT!
+ RAJ_Wartime_Mobilisation_desc: "The growing unrest within the Raj demands immediate action. We must mobilize all available resources and manpower to prepare for any potential conflict that may arise." #NT!
+ RAJ_Expand_the_Intelligence_Bureau: "Expand the Intelligence Bureau" #NT!
+ RAJ_Expand_the_Intelligence_Bureau_desc: "To counter the rising threats, we must expand our intelligence capabilities. A stronger intelligence bureau will allow us to uncover plots and maintain control over the Raj." #NT!
+ RAJ_Appoint_Stopford: "Appoint Stopford" #NT!
+ RAJ_Appoint_Stopford_desc: "Appointing a capable and experienced leader like Stopford will strengthen our administration and ensure decisive action during these turbulent times." #NT!
+ RAJ_Appeal_to_Westminster: "Appeal to Westminster" #NT!
+ RAJ_Appeal_to_Westminster_desc: "The situation in the Raj is dire. We must appeal to Westminster for additional support and resources to stabilize the region and maintain British control." #NT!
+ RAJ_Increase_Training: "Increase Training" #NT!
+ RAJ_Increase_Training_desc: "Our forces are ill-prepared for the challenges ahead. Increasing training efforts will ensure our troops are ready to face any threat with discipline and efficiency." #NT!
+ RAJ_After_Storm: "Calm After the Storm" #NT!
+ RAJ_After_Storm_desc: "With the crisis subsiding, it is time to focus on rebuilding and stabilizing the Raj. We must ensure that peace and order are restored across the region." #NT!
+ RAJ_Reconcile_with_the_People: "Reconcile with the People" #NT!
+ RAJ_Reconcile_with_the_People_desc: "To prevent further unrest, we must reconcile with the people of the Raj. Addressing their grievances and fostering unity will be key to maintaining stability." #NT!
+ RAJ_Ensure_Loyalty_of_the_Princes: "Ensure Loyalty of the Princes" #NT!
+ RAJ_Ensure_Loyalty_of_the_Princes_desc: "The loyalty of the Princely States is crucial to the survival of the Raj. We must take steps to ensure their continued allegiance to the British administration." #NT!
+ RAJ_Establish_the_Propaganda_Office: "Establish the Propaganda Office" #NT!
+ RAJ_Establish_the_Propaganda_Office_desc: "A dedicated propaganda office will help us control the narrative and maintain public support for our administration during these challenging times." #NT!
+ RAJ_Start_Reconstruction: "Start Reconstruction" #NT!
+ RAJ_Start_Reconstruction_desc: "The recent turmoil has left the Raj in disarray. We must begin reconstruction efforts to rebuild infrastructure and restore normalcy to the region." #NT!
+ RAJ_Ramp_Up_Relief_Efforts_for_Peasants: "Ramp Up Relief Efforts for Pesants" #NT!
+ RAJ_Ramp_Up_Relief_Efforts_for_Peasants_desc: "The rural population has suffered greatly during the crisis. Increasing relief efforts for peasants will help alleviate their hardships and reduce discontent." #NT!
+ RAJ_Compromise_with_the_Unions: "Compromise with the Unions" #NT!
+ RAJ_Compromise_with_the_Unions_desc: "Labor unrest threatens to destabilize the Raj further. Compromising with the unions will help maintain industrial productivity and prevent strikes." #NT!
+ RAJ_Education_Reforms: "Education Reforms" #NT!
+ RAJ_Education_Reforms_desc: "Investing in education reforms will ensure a brighter future for the Raj. A well-educated population will contribute to the region's stability and prosperity." #NT!
+  
+ RAJ_Troubled_Future: "Our Troubled Future" #NT!
+ RAJ_Troubled_Future_desc: "The Raj has been through troubled times before, but the issues we face today are unparalleled. We must confront them head-on if we are to prevail." #NT!
+ RAJ_Reform_and_Reconciliation: "Reform and Reconciliation" #NT!
+ RAJ_Reform_and_Reconciliation_desc: "The only way to gain our own autonomy and independence is through reform and reconciliation with the British system that currently rules us." #NT!
+ RAJ_Top_Down_Reform: "Top Down Reform" #NT!
+ RAJ_Top_Down_Reform_desc: "The most efficient kind of reform we should seek must be from the top down. It is the duty of the administrators of the Raj to bring about the change necessary." #NT!
+ RAJ_Administrative_Changes: "Administrative Changes" #NT!
+ RAJ_Administrative_Changes_desc: "Substantial changes in how we administrate our nation must be made if we are to pursue proper reform." #NT!
+ RAJ_Bottom_Up_Reform: "Bottom Up Reform" #NT!
+ RAJ_Bottom_Up_Reform_desc: "The most efficient kind of reform we shoudl seek must be from the bottom up. It is our duty to listen to the people to bring about the change necessary." #NT!
+ RAJ_Listen_to_People: "Listen to the People" #NT!
+ RAJ_Listen_to_People_desc: "The people are our final arbiters. We have a responsibility to them - and a responsibility to the future of the Raj - to listen to their needs and act accordingly." #NT!
+ RAJ_Status_Quo: "Status Quo" #NT!
+ RAJ_Status_Quo_desc: "With proper reform and reconciliation, the current situation under British rule is the best way to maintain the stability and peace of the British Raj." #NT!
+ RAJ_Request_British_Assistance: "Request British Assistance" #NT!
+ RAJ_Request_British_Assistance_desc: "While it may be humiliating to some, we cannot go forward without aid from the British. If we want to create a great nation, we must use every tool at our disposal." #NT!
+ RAJ_Restrict_Communication: "Restrict Communication" #NT!
+ RAJ_Restrict_Communication_desc: "Consolidating our control over the Raj is the best way to bring about peace and prosperity. Working to restrict any communication between would-be rebels is an excellent way to avoid further conflict." #NT!
+ RAJ_Time_Tested_Solution: "The Time-Tested Solution" #NT!
+ RAJ_Time_Tested_Solution_desc: "If the British and the Empire have taught us one thing, it is that the best way to rule is by force." #NT!
+ RAJ_Gentle_Hand: "A Gentle Hand..." #NT!
+ RAJ_Gentle_Hand_desc: "We must be prepared to offer concessions and handouts where necessary..." #NT!
+ RAJ_Iron_Fist: "...And An Iron Fist" #NT!
+ RAJ_Iron_Fist_desc: "...but also to crush any sign of rebellion at first sight." #NT!
+ RAJ_Dominion_Status: "Request Dominion Status" #NT!
+ RAJ_Dominion_Status_desc: "Over the years, the British have provided Dominion status for several of their former colonies - Canada, Australia, New Zealand, South Africa. The best way to maintain the status quo while seeking reform is to become a Dominion in our own right." #NT!
+ RAJ_Simon_Commission: "The Simon Commission" #NT!
+ RAJ_Simon_Commission_desc: "The British have chosen to provide for our freedom with a Commission of white British men. While it is obviously not what we desired, it is what we will be forced to work with." #NT!
+ RAJ_Sitaramayya_Commission: "The Sitaramayya Commission" #NT!
+ RAJ_Sitaramayya_Commission_desc: "The British have granted us with the ability to provide for our own freedom with a Commission split between British and Indian negotiators. This is the best way forward, and the best way to bring about a bright Indian future." #NT!
+ RAJ_Subdue_Nationalists: "Subdue the Nationalists" #NT!
+ RAJ_Subdue_Nationalists_desc: "The nationalists threaten to become violent if their every demand is not met. We must subdue them in order to ensure a peaceful transition into independence and nationhood." #NT!
+ RAJ_Boost_Moderates: "Boost the Moderates" #NT!
+ RAJ_Boost_Moderates_desc: "The moderates in our state are much more valuable to the negotiation process and independence than the extreme nationalists. Boosting their standing in negotiations is the best way to proceed." #NT!
+ RAJ_New_State_Apparatus: "A New Apparatus of State" #NT!
+ RAJ_New_State_Apparatus_desc: "One of the most pressing issues we face is to create an entirely new appratus of state. Our administration, as well as our system of government, must be decided now to provide for the future of India." #NT!
+ RAJ_Free_Elections: "Free Elections" #NT!
+ RAJ_Free_Elections_desc: "We have lacked the very basic building block of democracy as long as we have been ruled by the British. Free and fair elections are what we should seek, and what we must seek going forward." #NT!
+ RAJ_Assume_Control: "Assume Control of the Military" #NT!
+ RAJ_Assume_Control_desc: "Taking control of our own military is a step long overdue. If we are to break with the British, they can no longer control that which defends our nation." #NT!
+ RAJ_Transition: "Transition to Dominionhood" #NT!
+ RAJ_Transition_desc: "The only way forward, without war or violence, is to transition to Dominionhood. While it is not full independence, it is still independence." #NT!
+ RAJ_Enough: "Enough is Enough" #NT!
+ RAJ_Enough_desc: "We have dealt with British rule for far too long. Enough is enough." #NT!
+ RAJ_Call_of_People: "Call of the People" #NT!
+ RAJ_Call_of_People_desc: "The people will no longer be silenced. Listen. Can you hear them sing?" #NT!
+ RAJ_Untenable: "No Longer Tenable" #NT!
+ RAJ_Untenable_desc: "The status quo is simply no longer tenable. We can no longer pretend like the British rule over India is acceptable. It is time for us to seize our independence and shape our own destiny." #NT!
+ RAJ_Worth: "Is it Worth It?" #NT!
+ RAJ_Worth_desc: "Is breaking with the British Empire worth it? This is a question we must ask ourselves. Can we sustain ourselves without the Empire's support? These questions must be answered before we can move forward." #NT!
+ RAJ_Withdraw: "Time to Withdraw" #NT!
+ RAJ_Withdraw_desc: "It is time to move on." #NT!
+ RAJ_Independence_Path: "A Path to Independence" #NT!
+ RAJ_Independence_Path_desc: "Laying out the path to independence is essential to achieving the ultimate goal. We must work with the British to get it done." #NT!
+ RAJ_Domestic_Reform: "Domestic Reform" #NT!
+ RAJ_Domestic_Reform_desc: "While leaving the British Empire is our foremost concern, domestic reform is also necessary to ensure that our nation will withstand the test of time." #NT!
+ RAJ_British_System: "Maintain the British System" #NT!
+ RAJ_British_System_desc: "We are already pushing our limits by becoming our own, independent nations. Writing our own legal codes is too much work to realisitically undertake; maintaining the laws we've been given is the best way forward." #NT!
+ RAJ_Reinforce_Legal_Codes: "Maintain Current Legal Codes" #NT!
+ RAJ_Reinforce_Legal_Codes_desc: "The easiest way forward is to maintain the legal codes that the British have given us, and reforming them only where absolutely necessary." #NT!
+ RAJ_Indian_System: "Create an Indian System" #NT!
+ RAJ_Indian_System_desc: "The British have ruled us with their laws for far too long. Creating our own Indian legal system is the best way forward, and the best way to create our own national identity." #NT!
+ RAJ_Draft_New_Codes: "Draft New Legal Codes" #NT!
+ RAJ_Draft_New_Codes_desc: "In order to create our own system of laws, we must undertake the long process of drafting entirely new legal codes." #NT!
+ RAJ_Foreign_Relations: "Establish Foreign Relations" #NT!
+ RAJ_Foreign_Relations_desc: "Establishing foreign relations is one of the most important things a newly born nation can do. Working on that here and now can only help us in the long run." #NT!
+ RAJ_Break_with_British: "Break with the British" #NT!
+ RAJ_Break_with_British_desc: "The best way forward is to break our ties with the British Empire. The only way India can become truly great and independent is to start anew." #NT!
+ RAJ_Leave_IPA: "Leave the IPA" #NT!
+ RAJ_Leave_IPA_desc: "Leaving the Imperial Protection Alliance is the best and fastest way to show the British that we are no longer a part of their sphere." #NT!
+ RAJ_Keep_with_British: "Keep with the British" #NT!
+ RAJ_Keep_with_British_desc: "As a new nation, it's essential that we have established allies. Remaining friends with the British, even if it keeps us in their sphere, is essential to fulfilling this." #NT!
+ RAJ_Reinforce_Foreign_Ties: "Reinforce Our Foreign Ties" #NT!
+ RAJ_Reinforce_Foreign_Ties_desc: "If a newly independent nation needs one thing, it's ties to other nations. We must reinforce the ties that bind us to our potential allies in order to make this a reality." #NT!
+ RAJ_Gradual_Independence: "Gradual Independence" #NT!
+ RAJ_Gradual_Independence_desc: "The path to independence is long, but it is a path that we shall take, one step at a time. Our future shall be bright, and our nation shall be great." #NT!
+  
+ RAJ_new_viceroy: "A New Viceroy?" #NT!
+ RAJ_new_viceroy_desc: "The fallout of the Indian rebellion has yet to fully manifest and still it is already clear that some clear mistakes were made in the lead-up to the rebellion. Improper measures, corruption at a worrying level and plain mismanagement led us to this point, putting into question Linlithgow’s suitability for the job." #NT!
+  
+ RAJ_consolidate_british_rule: "Consolidate British Rule" #NT!
+ RAJ_consolidate_british_rule_desc: "The unruly Indian rabble that rose up against us has demonstrated that even appearing to give an inch to them will only cause them to demand a mile. No compromise on the British hold on India shall be made!" #NT!
+ RAJ_consolidate_british_rule_tt: "§YOur government will change to §gPaternal Autocrat§!§!" #NT!
+  
+ RAJ_control_council_state: "Subjugate the Council of State" #NT!
+ RAJ_control_council_state_desc: "The Council of State, while practically speaking is under our thumb, still poses a threat to the potential power that the new central British Indian bureaucracy shall hold, especially with its Indian constituents. Let us ensure that all new laws and decrees need not be obstructed by this body." #NT!
+  
+ RAJ_ruthless_suppression: "Destroy Rebel Remnants" #NT!
+ RAJ_ruthless_suppression_desc: "The remaining Indian rebels that stalk the countryside are by imperial law bandits and traitors to the empire. Their continued defiance only risks sending poor India into the hands of the Germans, Soviets or even Japanese. We must uproot this group once and for all." #NT!
+  
+ RAJ_levy_loyal_princes: "Levy Loyal Princes" #NT!
+ RAJ_levy_loyal_princes_desc: "The princely states of the empire have for the most part remained generally loyal, though naturally the rebellion has put a damper on the mood of many officials for cooperation with local Indians. Still, our shared interests in maintaining the status quo will go a long way in securing our rule." #NT!
+  
+ RAJ_crown_jewel_of_empire: "Crown Jewel of the Empire" #NT!
+ RAJ_crown_jewel_of_empire_desc: "For now, we have secured India as a firm and faithful part of the empire. Although some may argue that we have only kicked the can down the road on the issue of Indian independence, for now we can rest easy knowing that India remains steady for king and country." #NT!
+  
+ RAJ_a_new_age: "New Age for India" #NT!
+ RAJ_a_new_age_desc: "The most eventful chapter in recent Indian history has only shown one thing - independence will come eventually. We can choose to either resist in futility, in turn ruining imperial prestige and our efforts in developing the continent or we can choose to take this as a sign - to reform." #NT!
+  
+ RAJ_compromise_former_rebels: "Compromise with Former Rebels" #NT!
+ RAJ_compromise_former_rebels_desc: "The nature of the recent uprising has resulted in many former rebels either fleeing back into hiding amongst the massive Indian population or overseas with sympathizers in Berlin, Tokyo and Moscow. They may prove a critical thorn in our side if they are not neutralized - which can be best done through compromise." #NT!
+  
+ RAJ_upgrade_princely_status: "Elevate Princely Status" #NT!
+ RAJ_upgrade_princely_status_desc: "The princely states of India have always relied on a rather one-sided relationship with the British crown, even in spite of which they have remained loyal to the British cause. Let us reward them for their service to the empire, without which we would not be here today." #NT!
+  
+ RAJ_increase_indian_participation: "Increase Indian Participation" #NT!
+ RAJ_increase_indian_participation_desc: "The simple reality is that the burdens of modernization and development necessitate more people - people which we currently lack. Even if hardliners question their reliability, local Indians have proven to be adept at running the imperial bureaucracy, regardless if they add a slightly more local touch." #NT!
+  
+ RAJ_all_india_federation: "The All-India Federation" #NT!
+ RAJ_all_india_federation_desc: "With London having given us the greenlight for what the fate of India shall be, let us at once inaugurate the new order on the continent. The king-emperor may reign above, but India has now entered a new age - an independent and firm bulwark of the empire!" #NT!
+  
+ RAJ_request_dominion_status: "Request Dominion Status" #NT!
+ RAJ_request_dominion_status_desc: "Over the years, the British have provided Dominion status for several of their former colonies - Canada, Australia, New Zealand, South Africa. The best way to maintain the status quo while seeking reform is to become a Dominion in our own right." #NT!
+ RAJ_request_dominion_status_tt: "§YIf we attain dominion status, the following effects will happen:§!" #NT!
+  
+ RAJ_foreign_policy: "Into the World" #NT!
+ RAJ_foreign_policy_desc: "Although we remain firmly committed to the cause of king and country, India must still decide eventually what her fate shall be in the world. Will she go forth together with the empire and lead the British empire in Asia to glory? Or will she follow London's directives? Only time will tell." #NT!
+  
+  
+ #### Exiled Raj 
+ RAJ_ex: "Exile to Ceylon" #NT!
+ RAJ_ex_desc: "Our worst fears have come to pass. Our government - or what remains of it - is now exiled to an island in the Indian Ocean, just close enough to the mainland for us to see what we lost. We must regroup and recover, and forge a path forward." #NT!
+ RAJ_Regroup: "Regroup Our Forces" #NT!
+ RAJ_Regroup_desc: "What forces remain to us remain rather scattered across the island. We must bring them together and re-organize in order to create a fighting force strong enough to repel our enemies and perhaps reconquer what we lost." #NT!
+ RAJ_Reconquer: "Reconquer India" #NT!
+ RAJ_Reconquer_desc: "We may have been pushed from the continent, but we refuse to believe we have lost the Raj forever. With British assistance, the reconquest of the subcontinent is within our grasp. We will have much work, and much planning, before we can return. But we shall return." #NT!
+ RAJ_Ceylon_Industry: "Industry of Ceylon" #NT!
+ RAJ_Ceylon_Industry_desc: "The island of Ceylon has little industry, if any. Most of it is ancient, but can suit our needs if repurposed." #NT!
+ RAJ_Ceylon_Garrison: "The Ceylon Garrison" #NT!
+ RAJ_Ceylon_Garrison_desc: "The small garrison that the British kept on Ceylon is mostly made up of native peoples. We must accomodate them if we wish to grow our own fighting force." #NT!
+ RAJ_Revive_Industry: "Revive Old Industries" #NT!
+ RAJ_Revive_Industry_desc: "The old industry that litters Ceylon can serve our purposes, if revived correctly. We must focus on making these old factories churn out arms and ammunition for our reconquest." #NT!
+ RAJ_Ceylon_Infrastructure: "Infrastructure of Ceylon" #NT!
+ RAJ_Ceylon_Infrastructure_desc: "Most of Ceylon remains cluttered with jungle, and very little infrastructure exists to accomodate our forces. We must build up the island's resources in order to properly prepare the reconquest." #NT!
+ RAJ_Ceylon_Repurposed: "Ceylon Repurposed" #NT!
+ RAJ_Ceylon_Repurposed_desc: "Ceylon, a small island in the Indian Ocean, has now become our base of operations, and shall serve as a launchpad for our reconquest of the Indian mainland." #NT!
+ RAJ_Stockpile: "Weapons from the British Stockpile" #NT!
+ RAJ_Stockpile_desc: "While we are able to use Ceylon industry to produce arms and ammunition, we must still pressure the British to provide material aid for the coming reconquest." #NT!
+ RAJ_Training: "New Training Methods" #NT!
+ RAJ_Training_desc: "It is clear that our current army cannot take on the rebels now controlling mainland India without significant adjustment." #NT!
+ RAJ_Conscription: "Conscript Ceylonese Soldiers" #NT!
+ RAJ_Conscription_desc: "With the British largely abandoning us, we must rely on native Ceylonese conscripts to bolster our numbers for the reconquest." #NT!
+ RAJ_New_Army: "A New Army" #NT!
+ RAJ_New_Army_desc: "We must remake our forces in a new image; one which will allow us to defeat the rebels that now occupy the Indian mainland." #NT!
+ RAJ_Against_India: "Against the Indian States" #NT!
+ RAJ_Against_India_desc: "The time has come to wage war against the Indian 'states' that now occupy the subcontinent. Preparations near completion; the reconquest is nearly ready to proceed." #NT!
+ RAJ_Crossing_the_Straits: "Crossing the Straits" #NT!
+ RAJ_Crossing_the_Straits_desc: "It will be necessary for us to cross the water in order to reconquer the Raj. We must prepare our forces for naval landings and invasions so we can take the fight to the continent as soon as possible." #NT!
+ RAJ_Pressure_British: "Pressure the British" #NT!
+ RAJ_Pressure_British_desc: "Despite all of our preparations, it will not be possible for us to invade the Indian mainland without British assistance. We must petition and pressure them for aid until they give in. And then our reconquest can begin..." #NT!
+  
+ ### Decisions 
+ RAJ_national_reforms: "National Reforms" #NT!
+ RAJ_improving_conditions: "Improve Living and Working Conditions" #NT!
+ RAJ_reforming_military: "Reforming the Military" #NT!
+ RAJ_reforming_admin: "Reforming the Administration" #NT!
+ RAJ_countdown: "Impending Revolt" #NT!
+ RAJ_reach_out_to_muslim_league: "Negotiate with the Muslim League" #NT!
+ RAJ_reach_out_to_muslim_league_desc: "As the foremost representative of Indian muslims - a key demographic that we can still sway somewhat - we should reach out to the Muslim League for their neutrality or even support in any coming rebellion." #NT!
+ RAJ_cooperation_with_hm: "Reach Out to the Hindu Mahasabha" #NT!
+ RAJ_cooperation_with_hm_desc: "While their brand of Hindu nationalism stands very much against the stability of the empire, the relative irrelevance of the Hindu Mahasabha and their allied paramilitary in the RSS has pushed them into being amenable to tacitly aiding us in the coming rebellion - especially in the struggle against communism." #NT!
+ RAJ_cooperation_with_hm_tt: "§gOnce the revolt breaks out, we will receive the following benefits§!" #NT!
+ RAJ_quick_crackdown: "Crackdown on Nationalists" #NT!
+ RAJ_quick_crackdown_desc: "A short crackdown will help to buy us time before the revolt inevitably hits." #NT!
+ RAJ_quick_crackdown_3: "§gWe have launched crackdowns at least 3 times§!" #NT!
+ RAJ_revolt1: "Create Emergency Industries" #NT!
+ RAJ_revolt2: "Implement Extensive Conscription" #NT!
+ RAJ_revolt3: "Seize Dissidents" #NT!
+ RAJ_revolt4: "Raise Militia Units" #NT!
+ RAJ_revolt4_tt: "§gWe will raise §Y7§! militia divisions to fight for us§!" #NT!
+ RAJ_revolt5: "Ready the Princely Armies" #NT!
+ RAJ_revolt5_tt: "§gWe will raise §Y4§! infantry divisions in §CKashmir§!, §CHyderabad§!, §CTranvancore§! and §CMysore§! to fight for us§!" #NT!
+  
+ RAJ_secure_siam: "$IND_secure_siam$" #NT!
+ RAJ_secure_afghanistan: "$IND_secure_afghanistan$" #NT!
+ RAJ_secure_burma: "Secure Burma" #NT!
+ RAJ_secure_persia: "Secure Persia" #NT!
+ RAJ_request_burma: "Request Burmese Domain" #NT!
+ RAJ_demand_himalayan_fealty: "Demand [FROM.GetAdjective] Fealty" #NT!
+  
+ ### Flags 
+ RAJ_Coming_Storm: "Our intelligence networks have intercepted an §Yincoming revolt§!." #NT!
+ RAJ_Peace: "The revolt has §Yfailed§!." #NT!
+ RAJ_Indian_Army: "§WWe have chosen to maintain the current system.§!\n" #NT!
+ RAJ_British_Army: "§WWe have chosen to reform the army.§!\n" #NT!
+ RAJ_Chose_Status_Quo: "§WWe have chosen to keep to the status quo.§!\n" #NT!
+ RAJ_Dominion: "§WBritain has granted us a path to Dominion status.§!\n" #NT!
+ RAJ_Simon: "§RBritain has established the Simon Commission.§!\n" #NT!
+ RAJ_Sitaramayya: "§GBritain has established the Sitaramayya Commission.§!\n" #NT!
+ RAJ_Independence: "§WWe have decided to seek our own path.§!\n" #NT!
+ ENG_refused_dominion: "§RBritain has refused our request for dominion status§!" #NT!
+  
+ ### Events 
+ raj.1.t: "The British Raj" #NT!
+ raj.1.d: "Since 1765, the Indian subcontinent has been under the thumb of the British Empire. In that year, the English East India Company secured land on the Indian subcontinent and began exercising heightened levels of control over the Indian economy, beginning a relationship seemingly doomed to fail from the start. Over the next century and a half, the East India Company gradually provided the British Empire with increased control over India’s political and governmental systems, until it was all but another British colony. In 1857, a widespread Indian Revolt was brutally suppressed, and direct control of India was transferred from the Company to the Crown. The following year, the Raj was introduced as the British colonial government over all of India and Burma. \n\nFor nearly two hundred years, Indian politics have been characterized by resistance to British rule. The Indian National Congress was founded as a political movement in 1885 and became the principal leader of the Indian Independence movement. While initially only a small group, the Congress became a mass movement following the Great War, and subsequently became a thorn in the Empire’s side. Satyagraha - a measure of civil disobedience practiced by many of the Congress's supporters, ground portions of the nation’s economy to a standstill. These movements were led by Mahatma Gandhi, the leader of the Congress after the War. In 1924, Gandhi was shot and killed when British soldiers opened fire on a peaceful protest. This event sparked riots across the country that were not put down for several months. In response to greater calls for self-governance from the Indian population, the British government introduced the Government of India Act, designed to transfer sovereignty to the Raj over an extended period of time. However, The Act was voted down in Parliament in 1935, enraging the leaders of the old Indian National Congress and making the position of the Indian government that much more precarious. \n\nToday, the British administration in India is forced to tread carefully as whispers of rebellion haunt their government and threaten British dominion over south Asia." #NT!
+ raj.1.a: "We will persevere. We must." #NT!
+  
+ raj.2.t: "Banning Communist and Nationalist Propaganda" #NT!
+ raj.2.d: "The Communist and Nationalist wings of the Indian independence parties have long been the most outspoken. The Communists have long advocated for an independent 'People's State,' while the Nationalists have fought for an independent, autocratic India that would encompass most of southern Asia. While the Indian National Congress has long been a thorn in our side, these two groups in particular have caused issues, from protests that have paralyzed our economy to blatant attacks on our armed forces. \n\nFollowing the discovery of the revolt plot, a plan has been proposed to our government to ban Communist and Nationalist propaganda under punishment of imprisonment. Doing so would almost surely further inflame their would-be rebel followers, but allowing them to continue speaking could create massive problems further down the line, once this crisis has been resolved." #NT!
+ raj.2.a: "Let them speak. We need to focus on the immediate threat." #NT!
+ raj.2.b: "Ban their speech. Limit the spread of their ideas." #NT!
+  
+ raj.3.t: "Where to Send Additional Security" #NT!
+ raj.3.d: "With the suspected revolt less than four months away, our administration has begun allocating additional funding for security purposes. The British have put in requests to the Governor General to reinforce British assets and positions, largely focused along the coast. Doing so would certainly help in preventing them from falling into enemy hands if the revolt begins. But others in our government, including the leaders of the semi-autonomous Princely States, have advocated for the reinforcements to be directed to their fortifications, which are located mainly in the interior of the country. Doing so could solidify our alliances with them and secure their loyalty, should the revolt come to fruition. But fortifying their positions could give them an upper hand should they ever choose to move against us in the future." #NT!
+ raj.3.a: "Prioritize securing British assets." #NT!
+ raj.3.b: "Prioritize securing local fortifications." #NT!
+  
+ raj.4.t: "Clemency to Rebel Leaders" #NT!
+ raj.4.d: "Over the past two decades, our administration has arrested countless dissidents and leaders of independence or resistance movements. While those movements did not compare in size or scale to what we suspect we may face in three months, most of their leaders still languish in prisons across the country. \n\nA recent proposal within our adminsitration to grant some of the lesser offenders clemency has gained traction. Doing so, proponents argue, would help mitigate the rage fueling the suspected revolt. However, critics point out that releasing them could also allow them to resume their subversive activities as soon as the crisis is over." #NT!
+ raj.4.a: "Grant them Clemency." #NT!
+ raj.4.b: "They are in prison for a reason." #NT!
+  
+ raj.5.t: "Power to Local Militias" #NT!
+ raj.5.d: "An extraordinarily controversial proposal has come before our government, now that we are only two months out from the suspected revolt. Some of our ministers are proposing that we grant power, supplies, and autonomy to local militias - largely those that would defend the Princely States. Doing so, they argue, would stop the revolt before it could even begin in many regions. They argue that non-British armed forces would appear less threatening, and be more capable of dissuading the public from violence. However, the very obvious drawback to this is that once we grant these militas this power, we will never be able to take it away without a fight. Giving them this autonomy now could tear our entire country to pieces in the future." #NT!
+ raj.5.a: "Grant them the power to supress the rebels." #NT!
+ raj.5.b: "We will not have unregulated militias running around the country." #NT!
+  
+ raj.6.t: "Aid from Britain" #NT!
+ raj.6.d: "While the British admiralty has doubted our intelligence reports on the suspected revolt since the beginning, their government ministers appear to have finally accepted the danger that we face, and have offered us assistance in the form of supplies and soldiers. While accepting the supplies is a given, taking in British soldiers is more controversial. Many in our government are eager to accept British troops, and argue for stationing them at various suspected hotspots throughout the country. Others, however, are urging caution, warning that bringing in more British soldiers would only further the revolt's cause. Of course, additional soldiers could be the difference between victory and defeat in a few weeks. This is not a decision we can take lightly." #NT!
+ raj.6.a: "Ask for military assistance. We need it desperately." #NT!
+ raj.6.b: "The people already hate us. Bringing in more British would only worsen that." #NT!
+  
+ raj.7.t: "The Day of Reckoning" #NT!
+ raj.7.d: "The day our intelligence agents told us of six months ago is now upon us. Everyone in the government is standing beside their radios, waiting with bated breath for news from the countryside. Have rebels risen up and seized arms depots? Have the cities turned against us? So far, there has only been silence. And in silence, we can only wait..." #NT!
+ raj.7.a: "It's quiet..." #NT!
+  
+ raj.8.t: "A Failed Uprising" #NT!
+ raj.8.d: "It appears that our intelligence reports were correct about the uprising, but quite far off in their estimate of its severity. The rebels that we face today are ill-equipped, under-fed, and few and far between. Still, although they have only managed to just reach the outskirts of Delhi, they cannot be taken lightly with them being in a position to siege the capital city of New Delhi. While pospects for our swift victory are high, we cannot underestimate our foe." #NT!
+ raj.8.a: "This will be trivial." #NT!
+ raj.8.b: "Freedom for India!" #NT!
+  
+ raj.9.t: "A Minor Uprising" #NT!
+ raj.9.d: "It appears that our intelligence reports were correct about the uprising, but quite far off in their estimate of its severity. The rebels that we face today are ill-equipped, under-fed, and few and far between. Still, they cannot be taken lightly. They have managed to secure a broad swath of territory from Calcutta to Afghanistan, and while they may be weak, they are in a position to siege the capital city of New Delhi. While pospects for our swift victory are high, we cannot underestimate our foe." #NT!
+ raj.9.a: "Let's end this once and for all." #NT!
+ raj.9.b: "Freedom for India!" #NT!
+  
+ raj.10.t: "Uprising Across India" #NT!
+ raj.10.d: "It appears that our intelligence reports were correct about the uprising, but thankfully off in their estimate of its severity. The rebels that we face today are ill-equipped and few and far between. Still, they cannot be taken lightly. They have managed to secure a broad swath of territory from Calcutta to Afghanistan, and while they may be weak, they are in a position to siege the capital city of New Delhi. While pospects for our victory are good, we cannot underestimate our foe." #NT!
+ raj.10.a: "We will win. We must." #NT!
+ raj.10.b: "Freedom for India!" #NT!
+  
+ raj.11.t: "Significant Uprising Across India" #NT!
+ raj.11.d: "It appears that our intelligence reports were correct about the uprising, both in its timing and severity. The rebels that we face today are ill-equipped but large in number. They must not be taken lightly. If given the chance, they could topple everything we have strived to build here. They have managed to secure an extensive swath of territory from Calcutta to Afghanistan, and they are in a position to siege the capital city of New Delhi. We cannot afford to underestimate our foe; this fight will be for the very future of the Raj." #NT!
+ raj.11.a: "For the Empire!" #NT!
+ raj.11.b: "Freedom for India!" #NT!
+  
+ raj.12.t: "Major Uprising Across India" #NT!
+ raj.12.d: "The revolt is worse than we could have expected. The rebels are well-equipped and vast in number, at times resembling a foreign army more than a ragtag group of farmers and street urchins. They are in a fair position to topple everything we have strived to build here if given the chance. They've secured a massive amount of territory from Calcutta to Afghanistan, and are in the process of sieging the capital city of New Delhi. We will need all the help we can get from the rest of the Empire; this fight is one for the very future of the Raj...and it's one we don't know if we can win." #NT!
+ raj.12.a: "May God help us all." #NT!
+ raj.12.b: "Freedom for India!" #NT!
+  
+ raj.13.t: "Massive Uprising Across the Raj" #NT!
+ raj.13.d: "The revolt is far worse than anything we could have expected. It seems as if the entire population of the Raj has risen up against us. Rebels from Calcutta to Tranvacore have risen up and seized military bases, city centers, and ports. From the empty countryside to the crowded urban centers, their message is the same. They intend to defeat our forces totally and without question, and to force us and our British counterparts into the sea. We are now fighting for the very existence of the Raj, and it may not be a fight that we can win." #NT!
+ raj.13.a: "This is the end of the Raj." #NT!
+ raj.13.b: "Freedom for India!" #NT!
+  
+ raj.20.t: "Our Assets in Burma" #NT!
+ raj.20.d: "The current situation in the British Raj is beyond alarming. Armed rebels have seized vast swathes of territory, and while the administration of the Raj is doing everything it can to control the damage with our assistance, it is abundantly clear that they will not be able to protect everything necessary. Our forces are in a position to move quickly and decisively into the jungles of Burma, and to secure the colony under our occupation before Indian rebels can initiate never-ending guerilla warfare in its environment." #NT!
+ raj.20.a: "Occupy Burma immediately!" #NT!
+  
+ raj.21.t: "Britain Occupies Burma" #NT!
+ raj.21.d: "British forces, moving out of Malaysia and the British East Indies, have occupied Burma, a territory granted to the Raj many years ago. While it is unlikely that the British will ever release it from their occupation, we have much bigger problems to handle at the moment than to lodge complaints with London." #NT!
+ raj.21.a: "They are doing what they must." #NT!
+  
+ raj.22.t: "The Indian Revolt" #NT!
+ raj.22.d: "Unrelenting economic woes, massive loss of life from the Great War, frequent famines, and poor administration which led to a sharp increase in radicalization have all finally culminated in a massive revolt the likes of which haven't been seen on the subcontinent since the Sepoy Rebellion 80 years ago. Whilst massive, the Indian revolt is poorly organized and is made up of dozens of individual factions who all work within relative cooperation with each other, but under the surface exist massive internal divisions which will surely destroy the United Front once there are no foreigners left to fight. \n\nThe issue of intervention has proven to be a divisive issue in Parliament, with both Liberals and Tories on either side of the issue arguing their stances. Full abandonment of India is out of the question, and as such we must choose." #NT!
+ raj.22.a: "We must commit the full forces of our domain to secure India!" #NT!
+ raj.22.b: "India has been hemorrhaging profits for years, we shall send a limited force." #NT!
+  
+ raj.23.t: "Parliament votes on full intervention" #NT!
+ raj.23.d: "After much deliberation in London and further chaos in the Indian subcontinent, we have recieved word that the Britsh military will be \"used to the fullest possible extent in order to quell and suppress the rebel forces and capture their leadership\". We expect the first British troops to be landing within days, however we cannot expect any help from the other member-states of the Empire, at least not by military means." #NT!
+ raj.23.a: "Reinforcements inbound!" #NT!
+  
+ raj.24.t: "Parliament votes on limited intervention" #NT!
+ raj.24.d: "Failing to grasp the gravity of the situation developing here in India, the British Parliament in London has voted to allow limited military intervention in this Indian Revolt. The \"relief\" being sent is a meagre stimulus to our collapsed economy and confused military structure. Still, we must make do with what we have." #NT!
+ raj.24.a: "...What?" #NT!
+  
+ raj.30.t: "Plans for a Revolt" #NT!
+ raj.30.d: "Today, our intelligence agents came to our government with extremely troubling news. According to them, the inner circles of the Indian Communist and Nationalist movements, as well as the leaders of several independence movements, are laying the groundwork for a widespread revolt akin to the Indian Revolt of 1857. Planned acts of violence are set to commence in four to eight months, and it appears that as of right now, these leaders do not know that our admistration knows. There is indecision within the government on how to approach this issue. Some ministers are advocating for the immediate arrest of the leaders of these movements, but others argue that cracking down on them would only lead to further unrest, and argue instead that we should immediately bring them to the negotiating table. London has remained silent on the issue thus far. One thing is abundantly clear; we must take steps to mitigate this crisis before it can happen." #NT!
+ raj.30.a: "We have four months to prepare, then." #NT!
+  
+ raj.31.t: "The Revolt Defeated!" #NT!
+ raj.31.d: "The last of the Indian rebels have surrendered. The Revolt which has ravaged the Raj and destroyed countless pounds worth of infrastructure has finally come to an end. While some rebels continue to hold out in small fortifications in the countryside, they no longer pose a threat to our cities and will be dealt with in due time. While we were forced to make sacrifices leading up to the Revolt to prepare for and mitigate it, it appears they ultimately paid off. While the repercurssions of those decisions may yet come to bite us, now is the time to rebuild and recover from the damages that the recent fighting has caused." #NT!
+ raj.31.a: "The Empire prevails once more!" #NT!
+  
+ raj.32.t: "Flight to Ceylon" #NT!
+ raj.32.d: "The Revolt is far stronger than anything we could have anticipated. While troops from across the Empire are sailing across the sea even now to aid us, they may be coming too late. We have lost many of our military installations across the subcontinent, and the rebels gain more followers with every city they take from our control. Our military leaders are desperate now, and are convinced that we have no choice but to abandon the Raj and flee to Ceylon. While Parliament in London is loathe to abandon their largest colony, they have offered us control of the island should we take this plan of action. Of course, neither London nor our leaders expect a flight to Ceylon to be permanent; we would return in force once Parliament is ready to reconquer India. Yet there is the possibility that they will never choose to allow our reconquest, in which case everything we have worked for up until now would be for naught, and it may have been better for us to die here in our final stand." #NT!
+ raj.32.a: "Get us out of here!" #NT!
+ raj.32.b: "No! We will fight to the end!" #NT!
+  
+ raj.33.t: "The Raj Requests a Declaration of War" #NT!
+ raj.33.d: "The exile government of the British Raj in Ceylon has reached out to our government with a request to declare a state of war between the United Kingdom and the breakaway states that have taken over the Indian subcontinent in our absence. While a blanket declaration would usually mean little or less, doing so could endanger our position in the region and take from us what few colonies we have left. Additionally, there are many in our administration who feel that helping the failed state that the Raj has become would just drag us into a prolonged war we can't afford. That being said, taking back India would provide us with all of the resources we lost once more...." #NT!
+ raj.33.a: "The Jewel will be ours once more." #NT!
+ raj.33.b: "They already lost India once. They will not do it again." #NT!
+  
+ raj.40.t: "A Return to Peace" #NT!
+ raj.40.d: "The ruins of some buildings still smolder. Landmines still lie in wait to blow up as farmers step on them, and bombs from the British Airforce still lie undetonated in remote woods and villages. But the fight is over. And the Raj still stands strong. \n\nBut threats remain at our borders. The British Empire has shown that it cares little and less for us, the attempted Revolt has set the world's economy to crashing and burning, and the leaders of the Revolt still evade us. A sizable number of advisers in our administration are demanding we crack down on civil rights and liberties as they currently exist in the country until we can apprehend the at-large leaders. But others, perhaps more wisely, are suggesting that the best way to rebuild and prevent another Revolt from ever happening is to continue on as if nothing had ever happened. That may mean we will never catch those leaders, but it could also mean we would not be further inflaming the passions of the countryside. We must choose wisely; even though we've won, our country is perhaps more fragile than it has ever been." #NT!
+ raj.40.a: "Continue everything as normal. It is the best way to rebuild." #NT!
+ raj.40.b: "Crack down on everything." #NT!
+  
+ raj.41.t: "The Crackdown" #NT!
+ raj.41.d: "In the interest of preserving the peace we have won, our government has instituted a number of measures designed to restrict the rights and freedoms of the people of the Raj until the at-large leaders of the failed rebellion are caught. From now on, speech criticizing the administration of the Raj in any way has been banned - punishable by prison without release. Private citizens are no longer allowed to own firearms, and must submit them to our forces at once. The cities, as well, are now under occupation by the British Indian Army. Protest of any kind has been outlawed. The British themselves have remained largely silent on the issue, but their diplomats have privately told us that these actions are unacceptable. But we no longer have to listen to their complaints. They didn't put down the revolt - we did. And we will decide how to ensure it doesn't happen again." #NT!
+ raj.41.a: "They can have their freedoms back once the perpetrators are caught." #NT!
+  
+ raj.42.t: "Manhunt" #NT!
+ raj.42.d: "So long as any leaders of the failed Revolt remain at large, we risk a second uprising. The British have already shown us that they are unwilling to help put down another rebellion, especially one of the magnitude we just experienced. Unfortunately, our search for these missing leaders remains unfruitful. They have been taking advantage of loyalists in the countryside, as well as the extremely rural nature of the country outside of the cities, to hide themselves. If we have any hope of finding them, we must launch a full-scale manhunt. Deploy soldiers to remote villages. Bribe villagers for information. Infiltrate any remaining networks. And, eventually, find and capture the culprits behind this mess. Then, and only then, can we finally start to relax our guard and return to normal." #NT!
+ raj.42.a: "We will not rest until they are behind bars!" #NT!
+  
+ raj.43.t: "Rebel Leaders Captured" #NT!
+ raj.43.d: "News has reached us today that the remaining leaders of the attempted rebellion have been captured in the countryside. Reports indicate that they were disguised as peasant farmers in Bengal, perhaps hoping to unify with the Indian Communists who some reports indicate remain in hiding here. Regardless of whether the threat of the Indian Communists is real or not, the leaders of the very real recent Revolt are now in our custody. Many are eager to see them put on trial before the whole nation, broadcast over radio as a show trial. A handful, however, are suggesting that we keep any trial out of the public light, so as to heal over our recent wounds." #NT!
+ raj.43.a: "No need to make this a public affair." #NT!
+ raj.43.b: "Let's put on the trial of the century." #NT!
+  
+ raj.44.t: "The Trial of the Century" #NT!
+ raj.44.d: "The rebel leaders we captured were put on trial this week in New Delhi. Huge crowds gathered outside the courthouse, and the army was brought in to preserve the peace. Indians across the country listened in by radio as well, as the state provided an overwhelming amount of evidence against the accused. The outcome is predetermined, of course, but the rebel leaders were still granted a defense. They used most of that time railing against our judiciary system and the governance of the Raj. At one point, the judge of the trial ordered them bound and gagged so they would not further disturb the court's proceedings. The trial has also attracted a number of foreign correspondents, and appears to be attracting coverage across the globe. Our overlords in London have sent us messages appealing for us to keep the trial out of the public eye, but we have so far and will continue to ignore them. Justice must be served." #NT!
+ raj.44.a: "What a show!" #NT!
+  
+ raj.45.t: "Rebel Leaders Sentenced" #NT!
+ raj.45.d: "In a surprise to absolutely no one, all of the rebel leaders have been found guilty by our justice system, and are now subject to sentencing. A number of members of our government are saying that we should literally end the trial of the century with a bang, and execute the leaders to send a final message to those that would defy us in the future. A less vocal handful of advisers are saying that we should offer clemency - not total exoneration, but perhaps lighter prison sentences with the possibility of future parole. Doing so would send a message of reconciliation, but we must decide if that is what we really need at this moment." #NT!
+ raj.45.a: "They are traitors, but clemency should be awarded." #NT!
+ raj.45.b: "They are traitors, and the punishment for treason is death." #NT!
+  
+ raj.46.t: "Protests Against the Sentencing" #NT!
+ raj.46.d: "With the news of the execution of the former leaders of the attempted rebellion spreading throughout the country, protests have spurng up in cities across the Raj. They are demanding reforms to the judiciary system, and calling the recent trial of those leaders nothing less than a sham. While it's obviously too late for us to pardon those leaders, some in our government are suggesting we pay heed to their words and look into reform. At the very least, they argue, we must let the protests continue until they fizzle out on their own. More of our advisers, however, argue for a different approach. They say that leaving these protests as they are will undoubtebly sew more chaos into our cities at a time when we need peace and stability. They argue for cracking down hard on these protests before they can grow too large. All in the name of preserving the peace, of course." #NT!
+ raj.46.a: "It is within their rights to protest." #NT!
+ raj.46.b: "Peace and protest cannot coexist." #NT!
+  
+ raj.47.t: "Retaliation" #NT!
+ raj.47.d: "The protests against the sentencing of the leaders of the attempted rebellion have been crushed. With the help of the British Indian Army, we have arrested and charged hundreds, if not thousands, of the conspirators. While our original plan was to lift our civil rights restrictions after the rebel leaders were captured and executed, that is no longer a possibility. If we are to ensure that such a thing never happens again, these restrictions shall become the new norm. Our administration cannot and shall not be questioned, and any attempt to do so will result in immediate and hard retaliation. We will make it clear that we are in charge here, and that even the very thought of rising up against us will be met with the most brutal of punishments." #NT!
+ raj.47.a: "Long live the British Raj!" #NT!
+  
+ raj.hidden.t: "You should't have seen this" #NT!
+ raj.hidden.d: "If you saw this event, report to the developers please" #NT!
+  
+ raj.recall.t: "[This.GetName] is recalled to the [ENG.GetName]" #NT!
+ raj.recall.d: "With the European continent plummeting into the Second Great War, the [ENG.GetAdjective] Government has ordered the recall of [This.GetName] back to the Britsh Army proper, citing [This.GetHerHis] experience is needed in case of Britain's entry to the war." #NT!
+  
+ raj.60.t: "A New Viceroy?" #NT!
+ raj.60.d: "The aftermath of the Indian debacle has left many in the India office in London as well as the bureaucracy here in the newly reclaimed halls of Delhi and Bombay both relieved and yet utterly terrified. While it is true that we have crushed this rebellion, can we expect to be able to crush any future rebellion? Many nervously compare the situation right now to the Irish situation back in 1920, a situation that no one desires in the crown jewel of the empire.\n\nSo a choice has to be made as to who we will recommend to London as the new viceroy of India. There are those who see this rebellion as a sign that the Indians are simply too unruly and need a tough hand to guide them towards the light of empire. For many, this will mean a military man, a strong-willed general ready to do what needs to be done. For them, Archibald Wavell has been chosen as the nominee we will present to London.\n\nOn the other hand, many other more reform-minded administrators have pointed out that some Indian grievances are legitimate - it simply is the case that the rebellion did not spring out from nowhere. As such, they argue instead that we should select a viceroy that will prove not just amenable to the cause of reform in India, but himself is an Indian to show the population some goodwill. Amidst this, Hari Singh - the loyal Maharaja of Jammu and Kashmir has become the popular candidate for nomination to London. His appointment would certainly be a radical departure from typical British policy, but would herald a new turning point that could make stabilization of India easier.\n\nOr we could just keep Lord Linlithgow? His conduct may not have been terribly perfect on the part of his overseeing a colonial rebellion, but this uprising has been crushed, no? London would not mind very much if we urged that he remain - which with his goal of overseeing India’s political transformation to a federation making such a prospect much more likely." #NT!
+ raj.60.a: "We need a tough soldier - like Wavell." #NT!
+ raj.60.b: "Singh is by far the optimal choice." #NT!
+ raj.60.c: "What has Lord Linlithgow done wrong?" #NT!
+  
+ raj.61.t: "Delhi Nominates [RAJ_nominee.GetName]" #NT!
+ raj.61.d_wavell: "It appears that the Indian government has lodged a request for our approval to select a new viceroy of India. In it, they urge that accomplished officer Archibald Wavell be made the next viceroy of India. Many feel that he will certainly be the man to put India into line with the rest of the empire, though some worry his military background will simply aggravate the common Indian - what do we say?" #NT!
+ raj.61.d_singh: "It appears that the Indian government has lodged a request for our approval to select a new viceroy of India. In it, they urge that loyal subject of the crown and Maharaja of Jammu and Kashmir Hari Singh be made the next viceroy of India. A reliable ally of the empire, his cooperation with us during the rebellion was very much appreciated and his Indian background will certainly make it easier for India to fall in line like the rest of the empire. Still, some say that the Indians are not to be trusted and that even a man of his stature is not fit to be viceroy." #NT!
+ raj.61.a: "Accept him." #NT!
+ raj.61.b: "How about no?" #NT!
+  
+ raj.62.t: "Viceroy [RAJ_nominee.GetName]" #NT!
+ raj.62.d: "Thankfully, it appears London has accepted our nomination of [RAJ_nominee.GetName]. This is already a victory for the British-Indian administration, which has not been degraded in power and influence in spite of the recent uprising. Many are now looking forward to the new direction that viceroy [RAJ_nominee.GetName] will bring to India in the name of king and country." #NT!
+ raj.62.a: "Let’s get to work!" #NT!
+  
+ raj.63.t: "London Rejects [RAJ_nominee.GetName]!" #NT!
+ raj.63.d: "Unfortunately, it appears London has refused our nomination of [RAJ_nominee.GetName] and have greenlighted Linlithgow’s continuation as viceroy of India. This is unfortunate for the British-Indian administration, which has been degraded in power and influence due to the recent uprising." #NT!
+ raj.63.a: "Too bad." #NT!
+  
+ raj.64.t: "Demands From Delhi" #NT!
+ raj.64.d: "With the Indian rebellion now over, the British-Indian government has seemingly begun to make a comeback from the devastation of the war. Although we have successfully negotiated and escaped the watchful eye of London, it seems that Delhi now has second thoughts and has demanded that we once again submit to the British empire’s protection - though this will mean a loss of independence as well.." #NT!
+ raj.64.a: "We cannot hope to resist." #NT!
+ raj.64.b: "Never!" #NT!
+  
+ raj.65.t: "[FROM.GetName] Accepts!" #NT!
+ raj.65.d: "Thankfully, the leaders of [FROM.GetNameDef] have seen sense and have submitted to British protection once again. Under our protection, they need not fear Chinese encroachment as the empire stands stronger than ever!" #NT!
+ raj.65.a: "They need not fear us." #NT!
+  
+ raj.66.t: "[FROM.GetName] Defies Us!" #NT!
+ raj.66.d: "In a total fit of delusion, the Himalayan kingdom of [FROM.GetName] has rejected our offer of protection - instead refusing to negotiate with us. This necessitates our intervention, of course." #NT!
+ raj.66.a: "Their madness will not save them!" #NT!
+  
+ raj.80.t: "Status of the British Indian Army" #NT!
+ raj.80.d: "The British Indian Army has long been a tool by the British to keep their Indian colony satiated. By nominally making the Army under the command of Indian officers, the British are able to use the army to subdue unrest in the Raj without appearing as an invading force. With the recent Revolt, however, we may want to re-examine how exactly this army is used. Some in our administration have argued to continue using it as a nominally Indian army, some going so far as to suggest that we hand it over completely to the control of Indian officers. Others, however, have suggested that it would be far more useful if it were to be turned into a completely British occupation force." #NT!
+ raj.80.a: "Maintain Indian Control" #NT!
+ raj.80.b: "Increase British Involvement" #NT!
+  
+ raj.81.t: "Status of Our Industry" #NT!
+ raj.81.d: "Our nation's industry has been ravaged by Europeans for years. The British, with the aid of their East India Company, have slaved our factories and production to their markets for more than a century, and as such, the things we make leave our country, and our people are left behind. If our ultimate goal is to revitalize our industry and making it work for our people instead of those back in Europe, we will have a lot of work to do to begin revitalizing our industry and taking back what is rightfully ours." #NT!
+ raj.81.a: "Sounds like we have a lot of work to do." #NT!
+  
+ raj.82.t: "Outcome of the Third Round Table Talks" #NT!
+ raj.82.d: "With the failure of the Government of India 1935 Act, the Indian activists and we have once again had to come to another round of discussions. That said, the idea that any talks would actually be fruitful has clearly shown itself to be false hope. Despite the best efforts of the moderates in the British India Office - who in spite of the setback that was the 1935 Act’s failure have nevertheless attempted to compromise with the Congress on accepting a new, more equal status in the empire, the Indian nationalists have once again refused anything that was not a track to full independence.\n\nSuch a thing, of course, is out of the question. Barring that, questions over the potential separate electorates that untouchables, Muslims and other minorities and marginalized groups might have in a state that would demographically be dominated by Hindus has already caused the talks to seem at best a dubious prospect when it comes to success. All anyone can be sure of now is that rebellion may very well be around the corner." #NT!
+ raj.82.a: "Of course - more Indian defiance..." #NT!
+  
+ raj.83.t: "Our Industry Improves" #NT!
+ raj.83.d: "All of our hard work over the past few months is finally beginning to pay off. Our industry is once more within our own control, and while we still have much work to due to fully overcome the damage the British have done over the centuries, just producing Indian goods for Indian people has given us a newfound excitement as we create our new nation." #NT!
+ raj.83.a: "Long live India!" #NT!
+  
+ raj.84.t: "The Raj Requests Reparations" #NT!
+ raj.84.d: "Our diplomats in the British Raj received an odd request today. The government of the Raj is requesting reparations from us for the 'one and a half centuries of British suppression and hijacking of Indian industry.' They are referencing, of course, the East India Company, which is functionally no more but which helped us consolidate control over the Indian subcontinent a century ago. The reparations they are requesting are staggeringly huge, but in all likelihood they aren't actually expecting us to agree. Still, it might be worth sending a little money their way to placate them. We never did anything wrong, of course, but it's a small price to pay to keep them from revolting again." #NT!
+ raj.84.a: "We can work out the details in a few years." #NT!
+ raj.84.b: "That won't be happening" #NT!
+  
+ raj.85.t: "Transition to Dominionhood" #NT!
+ raj.85.d: "There is cheering in the streets. Entire parades of people fill the avenues and boulevards of every major city, from Dhaka to Karachi. Hindus and Muslims alike celebrated as the new flag of the new Dominion of India was raised above every building in the country. Granted, for every ten people celebrating there was one Hindu or Muslim nationalist solemnly watching with a hate-filled gaze, or one British opportunist who continues to gripe about the specifics of independence and the new nations - or lack thereof - that would adorn the maps of South Asia. But above all, there is a common thread: we have won. We have forced the singe greatest imperial power in the world to accede to us. The very nation that once destroyed everything that Indian society had built over millennia was now forced to bow down and grant it the sovereignty it so desperately deserved. Reporters from every major nation swarmed New Delhi, desperate to get quotes from officials and citizens. Indeed, the world is watching, and waiting to see how we approach and overcome the trials and tribulations ahead of us. But for now, we need only worry about - and celebrate - one thing: our Dominionhood." #NT!
+ raj.85.a: "Long live the Dominion of India!" #NT!
+  
+ raj.86.t: "The Raj Demands Independence" #NT!
+ raj.86.d: "Demands from the leaders of various Indian movements in the British Raj reached our foreign ministry today. They are all alike. They demand independence and the recognition of a sovereign Indian state. The Raj will be dissolved, and our colonial presence in south Asia limited to just Ceylon and Burma. They warn us that continued occupation of the subcontinent is not sustainable, and that the revolt that was planned in 1936 would just be a taste of the resentment to come if we remain. Attached notes from our administration in the colony confirm that these are not empty threats. Governance of the Raj has become extremely difficult, and a majority of those in the administration there agree that political independence is the best way to go to avoid embarassment further down the line. A very small minority (just one minister really), say that we should invade the country properly and put this independence nonsense down for good. But that is disastrous policy, and will only hurt us more. The best move is to have Parliament grant them some path to indpendence. May God help us all." #NT!
+ raj.86.a: "The time has come. Let's let them go." #NT!
+ raj.86.b: "Enough of this nonsense. They will be crushed." #NT!
+  
+ raj.87.t: "Parliament Grants Us A Path to Independence" #NT!
+ raj.87.d: "Fantastic news has reached us out of London. Our diplomats are ecstatic, for Parliament has granted us a path to national and political independence. Any celebration over the decision was shortlived in the Raj, though. The Indian people still have a series of hoops that London has seen fit to make them jump through before they are able to fully claim independence. The British are making it very clear that this is their own decision, done out of the kindness of their imperial hearts, perhaps to save face. That doesn't matter now. What matters now is negotiating the terms of their withdrawal, and beginning to negotiate among the Indian people to determine how the new nation will look. Already there is talk and dissent over partitioning the country between Hindus and Muslims. One thing is clear, though. Independence will come. The question now is how long it will take." #NT!
+ raj.87.a: "We're nearly there." #NT!
+  
+ raj.90.t: "Lord Linlithgow Arrives in India" #NT!
+ raj.90.d: "Lord Victor Alexander John Hope, 2nd arquess of Linlithgow, arrived by ship in Bombay today. Linlithgow was appointed by the British government to take this position after Lord Willingdon resigned late last year, but didn't deign to leave England until recently. Linlithgow served on the comissions that drafted the flawed and failed Governent of India Act last year, so why he was chosen to be the colony's new Viceroy is beyond the current administration's understanding. Yet with his arrival, the current governing Council finds itself more limited in the scope of its powers. If we are to avoid the coming Revolt, we would do well not to offend him. As his ship docks in the harbor and he sets foot into India for the first time, the best we can hope for from Linlithgow is that he takes the current threat seriously." #NT!
+ raj.90.a: "You have work to get to, Viceroy." #NT!
+  
+ raj.91.t: "Indian Independence Parties Win Provincial Elections" #NT!
+ raj.91.d: "While elections were delayed due to the Revolt we faced and ultimately defeated, Lord Linlithgow's government was able to declare and hold elections for the Indian Legislature, a largely elitist body with little actual power. It was with complete surprise, therefore, that the government received results from across the country detailing a surge of support for a variety of Indian independence parties, which splintered off of the old Indian National Congress and which have long pushed for further Indian sovereignty and autonomy. Lord Linlithgow himself has privately expressed that he views this outcome as a slap in the face; it seems as if putting down the Revolt did not put down the calls for more radical change from the populace. While some in our administration have called for us to petition London to strip the legislature of what legislative powers it does possess, doing so would only cause trouble where little currently exists. We will just have to accept greater Indian political influence as it is." #NT!
+ raj.91.a: "They just never quit, do they?" #NT!
+  
+ raj.100.t: "The Raj Requests A Path to Dominion Status" #NT!
+ raj.100.d: "Delegates from the British Raj arrived in London today with a rather odd request. They petitioned our government to grant the Raj a path to Dominionhood, alike to the Dominions of Canada, South Africa, Australia, and New Zealand. In the past, this would have been unheard of - the Raj has always existed purely for our exploitation, though we of course don't frame it that way. However, the situation there has gotten out of hand in recent years. The planned revolt, and the fracture of the country, has left many in both Parliament and our Ministries wondering if it remains feasible to maintain a stranglehold on the subcontinent. It would likely take years for the Raj to meet all of the requirements for Dominionhood proposed by our Ministries, but even offering to grant the nation this much autonomy will have many on the right up in arms. India remains 'the jewel of the Empire' for a reason, and to willingly relinquish so much of our power at once is something that has never been done in British history. All this being said, it would be much worse for our image - both domestically and internationally - if another revolt were to tear the country out of our hands forcefully. In that case, we would lose everything." #NT!
+ raj.100.a: "We shall grant them a path." #NT!
+ raj.100.b: "It's out of the question." #NT!
+  
+ raj.101.t: "Britain Grants Our Request" #NT!
+ raj.101.d: "No one in our government expected London to grant us a path to Dominionhood. So when the news reached New Delhi, everyone was shocked. The Ministers lucky enough to be in the Governor General's office said nothing for a long, long time. Requesting Dominion status had been the longest shot possible - so much of a reach that it should have been impossible! And yet, the message from the Isles was clear. The Raj was being granted a path." #NT!
+ raj.101.a: "Then let us begin!" #NT!
+ raj.101_tt: "§3We will transition into a democracy - elections will be held one month from now.§!" #NT!
+  
+ raj.102.t: "Britain Denies Our Request" #NT!
+ raj.102.d: "No one in our government expected London to grant us a path to Dominionhood, so it was no surprise when the news reached New Delhi. Still, there was an air of disappointment in the air in the Governor General's office. Requesting Dominion status had been the last-ditch attempt to ease tensions without becoming a police state. And without a path to that far-fetched dream, we must needs turn our attention away from London and back to the matter at hand." #NT!
+ raj.102.a: "Typical." #NT!
+  
+ raj.103.t: "The Indian Elections of [GetYear]" #NT!
+ raj.103.d: "With the transition from a colony to a democracy for India, the time has come for Indian elections. With the Indian National Congress forcibly banned and their rebellion a failure, a variety of parties have sprung out of the vacuum to take its place. For many, the Unionist Party led by Sikandar Hayat Khan and based primarily in the Punjab are the favorites to achieve a broad government with the support of many Indian muslims and loyalists in the north of the country. In opposition to them, the Indian National Liberal Federation have also run a campaign throughout India in the name of liberal ideals, with much of their support being moderates who see them as the best chance for a democratic and freer India along with business interests that benefit from liberal policies.\n\nWhile naturally other parties and interest groups are present, like the ILP of Bhimrao Ramji Ambedkar that seeks total emancipation of the untouchables or the newly revived Muslim League led by Muhammad Ali Jinnah, they will not be able to form a government on their own. Hence, it remains to be seen which party has come out triumphant at the ballot box and forms a government." #NT!
+ raj.103.a: "The Unionists succeed!." #NT!
+ raj.103.b: "The Liberals triumph!" #NT!
+  
+ raj.104.t: "Negotiations with the Muslim League" #NT!
+ raj.104.d: "While demographically much of the Indian subcontinent is made up of Hindus, across the great Indian empire there live many Muslims, far more than even in the traditional home of Islam in the Middle East. Here, they have mostly rallied behind the All-India Muslim League led by Muhammad Ali Jinnah. Holding the interests of India’s muslims among their foremost priorities, the failure of the Government of India 1935 Act has in many ways emboldened the Muslim League, who see its failure in part due to hardliners in London as another reason not to trust the colonial government. Still, the tensions between the Indian National Congress and Muslim League continue to serve as an excellent pressure point that our government can use to at least turn the Muslim League away from rebellion. That however may entail reforms that would anger not just our allies, but the overall cause for Indian stability. With tensions running high, how should we reach out to them?" #NT!
+ raj.104.a: "Point to Congress’s poor track record of protecting Muslim interests." #NT!
+ raj.104.b: "Promise reforms in favour of the Indian muslims." #NT!
+ raj.104.c: "Do not bother with these Congress lackeys!" #NT!
+ raj.104.b.tt: "§rIf they accept, we will not be able to complete the focus §YRAJ_consolidate_british_rule§!§!" #NT!
+ RAJ_ensure_punjab: "§rThis will guarantee the Punjab remains with us during the revolt§!" #NT!
+ RAJ_muslim_concessions_gotten: "§rWe have compromised with the Muslim League§!" #NT!
+  
+ raj.105.t: "Successful Negotiations with the League" #NT!
+ raj.105.d: "The Muslim League have thankfully seen reason and in our parleys with them have proven amenable to some form of tacit agreement to avoid conflict in the meanwhile. Although this will involve some concessions and a promise not to establish military rule in India, many believe this will go a long way in ensuring British rule in India for another decade." #NT!
+ raj.105.a: "Excellent." #NT!
+  
+ raj.106.t: "Failed Negotiations with the League" #NT!
+ raj.106.d: "Sadly, the short-sighted Jinnah has foolishly opted to refuse all negotiation outcomes that are unacceptable for us. Does he not realize that a Hindu-dominated Indian national state will only hurt the muslims of India? Either way, our gambit to reach out to the Muslim League has backfired significantly as many in that organization are now urging for a most unfortunate outcome; Hindu-Muslim unity against the empire." #NT!
+ raj.106.a: "Blast it!" #NT!
+  
+ raj.107.t: "An Indian Viceroy" #NT!
+ raj.107.d: "With the creation of an all-India federation, the time has come for the British viceroy of India to step aside and make way for an Indian that can truly represent India on the world stage. Some have urged that Hari Singh, Maharaja of Kashmir and Jammu will prove to be an excellent viceroy to show India’s dedication to the empire and its values - for his service to the empire is without question. Others have opined however that the Nizam of Hyderabad, Osman Ali Khan would be a better candidate, especially if one considers not just his fruitful relationship with the empire but his status as the richest man in the world." #NT!
+ raj.107.a: "The Maharaja of Kashmir and Jammu is an excellent candidate!" #NT!
+ raj.107.b: "The Nizam will provide the representation India needs on the world stage!" #NT!
+  
+ raj.108.t: "Telegram From Bombay" #NT!
+ raj.108.d: "With the Indian emergency now over, the Indian government has come to request that we return Burma to them. Although some are rather antsy of such a prospect when Burma and India are two rather different colonies, some say that we should simply humour them anyways and return things to normal." #NT!
+ raj.108.a: "Let us restore the old order." #NT!
+ raj.108.b: "How about - no?" #NT!
+  
+ raj.109.t: "The Return of Burma" #NT!
+ raj.109.d: "In true logical fashion, London has returned Burma to our control. Although the locals are not necessarily the most thrilled with this arrangement, they can be rest assured that we will seek to protect them from the dangers that lurk around the corner - whether it be Thai expansion or Japanese imperialism." #NT!
+ raj.109.a: "Excellent!" #NT!
+  
+ raj.110.t: "London Refuses!" #NT!
+ raj.110.d: "Strangely, London has refused to return Burma to our control. The locals themselves are not thrilled with this arrangement and the British government has not elaborated well as to why exactly turning over this key pillar of imperial defence to a far more regionally stable administration was an option not taken." #NT!
+ raj.110.a: "Odd." #NT!
+  
+ raj.111.t: "Indian Independence" #NT!
+ raj.111.d: "Despite our current, much larger, issues, we must still decide how to deal with the question of Indian independence. With the Raj all but guaranteed to leave the Empire within a few years, we must decide how to approach its departure. Some in our government have said that we should just allow the Indians to handle their own affairs. Others, however, have been much more vocal about an alternative solution. The current divide between Hindu and Muslim Indians could escalate into a devastating conflict in the future, and these members of our government are suggesting that widespread research and planning be put into a possible partition of India, so that such a conflict might be avoided. Doing so would take valuable time and resources on our part, but it may be the right thing to do if we hope to ensure future stability in the region." #NT!
+ raj.111.a: "Release India As One State" #NT!
+ raj.111.b: "Partition India" #NT!
+ raj.111.c: "Let the Indians Handle Their Own Affairs." #NT!
+  
+ raj.112.t: "Partitioning India" #NT!
+ raj.112.d: "Releasing India as a single entity would be disastrous - not just for our dominance in the region, but also for the citizens of the Raj themselves. There are too many ethnic and religious differences to enable the creation of a single, stable state. The two biggest ethnic groups, fortunately, are largely clustered into three areas. Both Bengal and Punjab are Muslim-majority areas, while the rest of the country is Hindu-majority. It is now up to us to decide how to divide up the Raj. Some are advocating for splitting it between Punjab, Bengal, and the rest of the country. Others, however, advocate for only releasing one or the other rather than both, fearing that a war between the two and India could be disastrous. Others say that only by releasing both can we avoid a humanitarian crisis and millions upon millions of displaced persons. What shall we do?" #NT!
+ raj.112.a: "Release Just Bengal" #NT!
+ raj.112.b: "Release Just Punjab" #NT!
+ raj.112.c: "Release both Bengal and Punjab" #NT!
+  
+ raj.113.t: "Dividing The Country" #NT!
+ raj.113.d: "The British have taken the unprecedented step of allowing us to determine our own future. While many are celebrating this as a good omen for the future of our new nation, others continue to urge caution, and some have even go so far as to advocate for a voluntary division of the nation. These advisers are concerned that, once the celebrations of our independence have passed, ethnic and religious divides will rear their heads and spark a conflict that could kill millions. They suggest that dividing India between majority-Hindu and majority-Muslim areas is the best course of action. Others, however, continue to push for maintaining a united India, both to project as much strength as possible as the world's youngest nation, and to dissuade potential attacks by the superpowers that still surround us. What path shall we take?" #NT!
+ raj.113.a: "We can work out our issues together." #NT!
+ raj.113.b: "We should create several states." #NT!
+  
+ raj.114.t: "Dividing India" #NT!
+ raj.114.d: "India has long been a massive and diverse state. But so far, most ethnic and religious violence has been dissuaded by a heavy British military presence. With the British leaving soon, however, we must face the problems that will confront us when they do. The best way to avoid violence between our Hindu and Muslim brothers is to divide the country, but there are questions on how many divisions should be made. Muslim Indians are mainly concentrated in two areas: Bengal and Punjab. Some have therefore suggested creating three states altogether, but others have said we should just release one or the other, not both, in the interest of our future as a nation. Releasing both would likely avert the worst of a humanitarian refugee crisis, but releasing only one may be necessary to keep as many resources as possible and defend against threats in the future. Whatever we choose, we will be defining the future of South Asia here and now." #NT!
+ raj.114.a: "Release Just Bengal" #NT!
+ raj.114.b: "Release Just Punjab" #NT!
+ raj.114.c: "Release both Bengal and Punjab" #NT!
+  
+ raj.115.t: "Independence Day" #NT!
+ raj.115.d: "There is cheering in the streets. Entire parades of people fill the avenues and boulevards of every major city, from Dhaka to Karachi. Hindus and Muslims alike celebrated as the new flag of the Indian state was raised above every building in the country. Granted, for every ten people celebrating there was one British officer solemnly packing his bags, or one extremist who continues to gripe about the specifics of independence and the new nations - or lack thereof - that would adorn the maps of South Asia. But above all, there is a common thread: we have won. We have forced the singe greatest imperial power in the world to accede to us. The very nation that once destroyed everything that Indian society had built over millennia was now forced to bow down and grant it the independence it so desperately deserved. Reporters from every major nation swarmed New Delhi, desperate to get quotes from officials and citizens. Indeed, the world is watching, and waiting to see how we approach and overcome the trials and tribulations ahead of us. But for now, we need only worry about - and celebrate - one thing: our freedom." #NT!
+ raj.115.a: "Long Live India!" #NT!
+  
+ ### Decisions 
+ RAJ_storm: "The Storm" #NT!
+ RAJ_storm_desc: "The Raj teeters on a precipice. With a potential revolt incoming, we must do all we can to mitigate its danger. However, granting too many concessions to certain groups could tie our hands in the future, forcing us to inevitably concede at least some power.\n\n§YNote to players: below is our Revolt score. The higher the score is, the worse the coming rebellion will be. You can reduce them by taking certain decisions.\n\n§RRevolt Severity: §R[?ROOT.raj_revolt]§!" #NT!
+ RAJ_reconquest: "Reuniting the Raj" #NT!
+ RAJ_reconquest_desc: "The Raj has fragmented, and various rebel groups now control vast swaths of the countryside. It is now incumbent upon us to take back our cities and land, and must mobilize to take them by force if necessary." #NT!
+  
+ ### Companies 
+ braithwaite: "Braithwaite & Co." #NT!
+ ordnance_factories_board: "«Орднанс Факториз Боард»"
+ gun_factory_jabalpur: "Gun Carriage Factory Jabalpur" #NT!
+ hindustan_motors: "Hindustan Motors" #NT!
+ hindustan_aircraft: "Hindustan Aircraft" #NT!
+ garden_reach_workshops: "Garden Reach Workshops" #NT!
+ mazagon_dock: "Mazagon Dock Limited" #NT!
+ tata_steel: "Tata Steel" #NT!
+ punjab_ordnance_factories: "Punjab Ordnance Factories" #NT!
+ ashok_leyland: "Ashok Leyland" #NT!
+ jessop_company: "Jessop & Company Limited" #NT!
+ tata_air: "Tata Air" #NT!
+ karachi_shipyard: "Karachi Shipyard" #NT!
+ vickers_armstrong_india: "Vickers-Armstrong India" #NT!
+ reserve_bank_of_india: "Reserve Bank of India" #NT!
+  
+ ### Characters 
+ RAJ_Lord_Linlithgow: "Lord Linlithgow" #NT!
+ RAJ_Ganga_Singh: "Ganga Singh" #NT!
+ RAJ_Sydney_Muspratt: "Sydney Muspratt" #NT!
+ RAJ_Philip_Walhouse_Chetwode: "Philip Walhouse Chetwode" #NT!
+ RAJ_Thomas_Wynford_Rees: "Thomas Wynford Rees" #NT!
+ RAJ_Hastings_Ismay: "Hastings Ismay" #NT!
+ RAJ_Geoffrey_Scoones: "Geoffrey Scoones" #NT!
+ RAJ_Walter_Lentaigne: "Walter Lentaigne" #NT!
+ RAJ_Francis_Tuker: "Francis Tuker" #NT!
+ RAJ_Frank_Messervy: "Frank Messervy" #NT!
+ RAJ_Douglas_Gracey: "Douglas Gracey" #NT!
+ RAJ_Herbert_Fitzherbert: "Herbert Fitzherbert" #NT!
+ RAJ_John_Henry_Godfrey: "John Henry Godfrey" #NT!
+ RAJ_Montagu_Stopford: "Montagu Stopford" #NT!
+ RAJ_Vengalil_Krishnan_Krishna_Menon: "Vengalil Krishnan Krishna Menon" #NT!
+ RAJ_Minoo_Masani: "Minoo Masani" #NT!
+ RAJ_Sikandar_Hayat_Khan: "Sikandar Hayat Khan" #NT!
+ RAJ_Huseyn_Shaheed_Suhrawardy: "Huseyn Shaheed Suhrawardy" #NT!
+ RAJ_Tej_Bahadur_Sapru: "Tej Bahadur Sapru" #NT!
+ RAJ_Khizar_Hayat_Tiwana: "Khizar Hayat Tiwana" #NT!
+ RAJ_Atul_Chandra_Chatterjee: "Atul Chandra Chatterjee" #NT!
+ RAJ_Kanhaiyalal_Maneklal_Munshi: "Kanhaiyalal Maneklal Munshi" #NT!
+ RAJ_Alfred_Knox: "Alfred Knox" #NT!
+ RAJ_Balasaheb_Gangadhar_Kher: "Balasaheb Gangadhar Kher" #NT!
+ RAJ_Ramaswami_Iyer: "Ramaswami Iyer" #NT!
+ RAJ_Khengarji_III_Sawai_Bahadur: "Khengarji III Sawai Bahadur" #NT!
+ RAJ_Pratap_Singh_Rao_Gaekwad: "Pratap Singh Rao Gaekwad" #NT!
+ RAJ_No_Central_Leader: "No Central Leader" #NT!

@@ -1,0 +1,709 @@
+﻿l_russian:
+  
+  
+ ### Placeholder Generic Characters ### 
+ FX_generic_hog_democratic_parliament: "Empowered Legislature" #NT!
+ FX_generic_hog_authoritarian_parliament: "Empowered Executive" #NT!
+ FX_generic_hog_socialist_parliament: "Empowered Trade Unions" #NT!
+  
+ ### Placeholder Traits ### 
+ hog_democratic_parliament: "Legislative Branch" #NT!
+ hog_authoritarian_parliament: "Controlled Legislature" #NT!
+ hog_socialist_parliament: "Empowered Trade Unions" #NT!
+ FX_colonial_government_sic: "Colonial Government" #NT!
+  
+  
+ ### Leader traits ### 
+ MAC_the_Great: "The Great" #NT!
+ SOV_father: "The Father" #NT!
+ SOV_Vladimir_Lenin_desc: "§YLeader Description\nBorn:§! §gApril 22nd, 1870, in Simbirsk, Simbirsk Governorate, Russian Empire§!\n§YPolitical Career:§gLenin was born on the 22 April 1870 in Simbirsk. Lenin's family was part of the growing middle-class in Russia. After the execution of his brother in 1887 because of revolutionary activieties, he embraced socialism. In 1893 he moved to Leningrad and became an important revolutionary in Russia. In 1897 he was arrested for sedition and exiled to Shushenskoye, he married Nadezhda Krupskaya there. After the exile was over he moved to Western Europe, where he worked for the RSDLP. In 1903 the RSDLP split into two factions, the Bolshevik lead by Lenin and the Menshevik lead by Julius Martov. With the outbreak of the Feburary Revolution Germany send him in a sealed train to Russia to advocate for an end ot the war. When Kornilov marched onto Leningrad the Provisional Government requested the help of the Soviets led again by Lenin.\n\nOn 7 November in 1917 the October Revolution broke out between the Bolsheviks and Whites. In 1918 an assasination hits Lenin which causes him to peace out with Eastern Europe and make a de facto truce with the Whites in the Russian Far East. With the Russian Civil War over Lenin now focuses on armament on the nation, in order to be ready if the western powers try to crush the Soviet Union once and for all. Lenin also decentralizes the economy by giving power to the worker controlled regional and municipal councils.§!" #NT!
+ SOV_son: "The Son" #NT!
+ SOV_the_general: "The General" #NT!
+ SOV_the_soldier: "The Soldier" #NT!
+ SOV_the_spymaster: "The Spymaster" #NT!
+ SOV_the_metallworker: "The Metallworker" #NT!
+ SOV_the_revolutionary: "The Revolutionary" #NT!
+ SOV_the_theorist: "The Theorist" #NT!
+ SOV_the_bureaucrat: "The Bureaucrat" #NT!
+ george_windsor: "§8George the Fifth, by the Grace of God, of the United Kingdom of Great Britain and Ireland and of the British Dominions beyond the Seas, King, Defender of the Faith, Emperor of India.§!" #NT!
+ american_dressler: "The American Dressler" #NT!
+ prince_of_the_people: "Prince of the People" #NT!
+ prince_of_the_people_1: "Prince of the People" #NT!
+ enlightened_sovereign: "Enlightened Sovereign" #NT!
+ enlightened_sovereign_1: "Enlightened Sovereign" #NT!
+ the_otaman: "The Otaman" #NT!
+ exiled_pope: "Exiled Pope" #NT!
+ meddler: "Political Meddler" #NT!
+ charismatic: "Charismatic" #NT!
+ KMT_generalissimo_chiang: "Generalissimo" #NT!
+  
+ ### From DH ### 
+ undistinguished_suit: "Undistinguished Suit" #NT!
+ grand_protector: "The Grand Protector" #NT!
+  
+ ### Ministers ### 
+ head_of_government: "Head of Government" #NT!
+ foreign_minister: "Foreign Minister" #NT!
+ economy_minister: "Economic Minister" #NT!
+ security_minister: "Interior Minister" #NT!
+  
+ ### Head of Government ### 
+ hog_field_marshal_baron: "The Field Marshal Baron" #NT!
+ hog_vacant_position: "Vacant Position" #NT!
+ hog_the_grey_cardinal: "The Grey Cardinal" #NT!
+ hog_red_chairmen: "Red Chairman" #NT!
+ hog_ambitious_union_boss: "Ambitious Union Boss" #NT!
+ hog_backroom_backstabber: "Backroom Backstabber" #NT!
+ hog_charismatic_charmer: "Charismatic Charmer" #NT!
+ hog_corporate_suit: "Corporate Suit" #NT!
+ hog_flamboyant_tough_guy: "Flamboyant Tough Guy" #NT!
+ hog_happy_amateur: "Happy Amateur" #NT!
+ hog_local_tyrant: "Local Tyrant" #NT!
+ hog_naive_optimist: "Naive Optimist" #NT!
+ hog_old_admiral: "Old Admiral" #NT!
+ hog_old_air_marshal: "Old Air Marshal" #NT!
+ hog_old_general: "Old General" #NT!
+ hog_political_protege: "Political Protege" #NT!
+ hog_pragmatic_statesman: "Pragmatic Statesman" #NT!
+ hog_reformist_soldier: "Reformist Soldier" #NT!
+ hog_respected_war_hero: "Respected War Hero" #NT!
+ hog_silent_workhorse: "Silent Workhorse" #NT!
+ hog_smiling_oilman: "Smiling Oilman" #NT!
+ hog_spiritual_leader: "Spiritual Leader" #NT!
+ hog_underground_figurehead: "Underground Figurehead" #NT!
+ hog_respected_politician: "Respected Politician" #NT!
+ hog_antiwar_veteran: "Anti-War Veteran" #NT!
+ hog_state_secularist: "State Secularist" #NT!
+ hog_determined_populist: "Determined Populist" #NT!
+ hog_revanchist_conspirator: "Revanchist Conspirator" #NT!
+ hog_old_compromiser: "Old Compromiser" #NT!
+ hog_oligarchic_council: "Oligarchic Council" #NT!
+ hog_nationalist_patriot: "Nationalist Patriot" #NT!
+ hog_kingsmaker: "The Kingmaker" #NT!
+ hog_holy_vice_marshal: "Blessed Vice-Marshal" #NT!
+ hog_propagandist: "Propagandist" #NT!
+ for_propagandist: "Propagandist" #NT!
+  
+ hog_mad_jack: "Mad Jack" #NT!
+ hog_meme_man: "Inspiring Figure" #NT!
+ hog_undergrounder_figurehead: "Undergrounder Figurehead" #NT!
+ hog_lauriers_heir: "Laurier's Spirit" #NT!
+ hog_iron_heel: "Iron Heel" #NT!
+ hog_king_emperor: "King-Emperor" #NT!
+ hog_philosopher_general: "Philosopher General" #NT!
+ hog_ruthless_warlord: "Ruthless Warlord" #NT!
+ hog_democratic_tyrant: "Democratic Tyrant" #NT!
+ hog_privileged_socialist: "Privileged Socialist" #NT!
+ hog_sincere_internationalist: "Sincere Internationalist" #NT!
+ hog_accomplished_diplomat: "Accomplished Diplomat" #NT!
+ hog_rhineland_giant: "Rhenish Giant" #NT!
+ hog_faceless_prussian: "Faceless Prussian" #NT!
+ hog_supreme_bureaucrat: "Supreme Bureaucrat" #NT!
+ hog_separatist_firebrand: "Separatist Firebrand" #NT!
+ hog_middle_class_advocate: "Middle Class Advocate" #NT!
+ hog_young_liberal: "Young Liberal" #NT!
+ hog_old_chancellor: "The Old Chancellor" #NT!
+ hog_bourgeois_nationalist: "Bourgeois Nationalist" #NT!
+ hog_old_valkist_thinker: "Alter Denker" #NT!
+ hog_grand_master: "Grand Master" #NT!
+ hog_habsburg: "Habsburg Scion" #NT!
+ hog_habsburg_redux: "$hog_habsburg$" #NT!
+ hog_extreme_germanophile: "Extreme Germanophile" #NT!
+ hog_new_valkist_elite: "New Valkist Captain" #NT!
+ hog_volkisch_legalist: "Völkisch Legalist" #NT!
+ hog_favourite_of_dressler: "Favourite of the Führer" #NT!
+  
+ ### Economy Minister ### 
+ eco_administrative_genius: "Administrative Genius" #NT!
+ eco_army_reform_committee: "Army Reform Committee" #NT!
+ eco_balanced_budget_economy: "Balanced Budget Economy" #NT!
+ eco_bank_president: "Bank President" #NT!
+ eco_construction_magnate: "Construction Magnate" #NT!
+ eco_corrupt_kleptocrat: "Corrupt Kleptocrat" #NT!
+ eco_industrial_chemist: "Industrial Chemist" #NT!
+ eco_industrialiser: "Industrialiser" #NT!
+ eco_keynesian_economy: "Keynesian Economy" #NT!
+ eco_laissez_faire_capitalist: "Laissez-Faire Capitalist" #NT!
+ eco_military_entrepreneur: "Military Entrepreneur" #NT!
+ eco_mixed_economy: "Mixed Economy" #NT!
+ eco_oil_baron: "Oil Baron" #NT!
+ eco_planned_economy_proponent: "Planned Economy Proponent" #NT!
+ eco_reformer: "Reformer" #NT!
+ eco_resource_industrialist: "Resource Industrialist" #NT!
+ eco_agrarian_conservative: "Agrarian Advocate" #NT!
+ eco_steel_magnate: "Steel Magnate" #NT!
+ eco_theoretical_scientist: "Theoretical Scientist" #NT!
+ eco_imbedded_unioneer: "Imbedded Unioneer" #NT!
+ eco_national_liberal: "National Liberal" #NT!
+ eco_devoted_monopoly_buster: "Devoted Monopoly Buster" #NT!
+ eco_railway_magnate: "Railway Magnate" #NT!
+ eco_air_superiority_proponent: "Air Superiority Proponent" #NT!
+ eco_battlefield_support_proponent: "Air Support Proponent" #NT!
+ eco_battle_fleet_proponent: "Battle Fleet Proponent" #NT!
+ eco_carrier_proponent: "Carrier Proponent" #NT!
+ eco_infantry_proponent: "Infantry Proponent" #NT!
+ eco_naval_aviation_proponent: "Naval Aviation Proponent" #NT!
+ eco_strategic_destruction_proponent: "Strategic Air Proponent" #NT!
+ eco_u_boat_proponent: "U-Boat Proponent" #NT!
+ eco_tank_proponent: "Tank Proponent" #NT!
+ eco_trade_proponent: "Trade Proponent" #NT!
+  
+ eco_the_minister_for_everything: "The Minister for Everything" #NT!
+ eco_socred_economist: "SoCred Economist" #NT!
+ eco_vernacular_industrialiser: "Vernacular Industrialiser" #NT!
+ eco_blut_und_boden: "Blood and Soil" #NT!
+ eco_rhine_magnate: "Ruhr Magnate" #NT!
+ eco_seperatist_banker: "Separatist Banker" #NT!
+ eco_middle_class_unionist: "White Collar Unionist" #NT!
+ eco_christian_unionist: "Christian Union Leader" #NT!
+  
+ ### Foreign Minister ### 
+ for_biased_intellectual: "Biased Intellectual" #NT!
+ for_ideological_crusader: "Ideological Crusader" #NT!
+ for_apologetic_clerk: "Apologetic Clerk" #NT!
+ for_iron_fisted_brute: "Iron-Fisted Brute" #NT!
+ for_hawkish_intervener: "Hawkish Intervener" #NT!
+ for_relations_expert: "Relations Expert" #NT!
+ for_great_compromiser: "Great Compromiser" #NT!
+ for_general_staffer: "General Staffer" #NT!
+ for_the_cloak_n_dagger_schemer: "The Cloak-n-Dagger Schemer" #NT!
+ for_foreign_sympathizer: "Foreign Sympathizer" #NT!
+ for_world_patrician: "World Patrician" #NT!
+ for_moderate_among_radicals: "Moderate Among Radicals" #NT!
+ for_radical_among_moderates: "Radical Among Moderates" #NT!
+  
+ for_pan_european: "Paneuropean Advocate" #NT!
+  
+ ### Security Minister ### 
+ sec_back_stabber: "Back Stabber" #NT!
+ sec_compassionate_gentleman: "Compassionate Gentleman" #NT!
+ sec_crime_fighter: "Crime Fighter" #NT!
+ sec_crooked_kleptocrat: "Crooked Kleptocrat" #NT!
+ sec_efficient_sociopath: "Efficient Sociopath" #NT!
+ sec_great_soul: "Great Soul" #NT!
+ sec_health_and_safety: "Health and Safety" #NT!
+ sec_man_of_the_people: "Man of the People" #NT!
+ sec_media_magnate: "Media Magnate" #NT!
+ sec_socialist_novelist: "Socialist Novelist" #NT!
+ sec_prince_of_terror: "Prince of Terror" #NT!
+ sec_driven_recruiter: "Driven Recruiter" #NT!
+ sec_secret_police_chief: "Secret Police Chief" #NT!
+ sec_silent_lawyer: "Silent Lawyer" #NT!
+ sec_regionalist: "Regionalist" #NT!
+ sec_preserver_of_culture: "Preserver of Culture" #NT!
+  
+ sec_comintern_extraordianaire: "Comintern Extraordinaire" #NT!
+ sec_french_watchdog: "French Watchdog" #NT!
+ sec_ruthless_general: "Ruthless General" #NT!
+ sec_ruthlesser_general: "Ruthless General" #NT!
+ sec_head_of_tst: "$GER_tst_fuhrer$" #NT!
+ sec_artaman_leader: "Artaman Leader" #NT!
+ sec_jungdo_leader: "Jungdo Radical" #NT!
+ sec_racist_mf: "Race Hygienist" #NT!
+  
+ ### Chief of Staff 
+ cos_school_of_manoeuvre: "School of Manoeuvre" #NT!
+ cos_school_of_fire_support: "School of Fire Support" #NT!
+ cos_school_of_mass_combat: "School of Mass Combat" #NT!
+ cos_school_of_psychology: "School of Psychology" #NT!
+ cos_school_of_defence: "School of Defence" #NT!
+ cos_school_of_commando_operations: "School of Commando Operations" #NT!
+ cos_school_of_grand_battleplan: "School of Grand Battleplan" #NT!
+  
+ ### Chief of Army 
+ carm_elastic_defence_doctrine: "Elastic Defence Doctrine" #NT!
+ carm_static_defence_doctrine: "Static Defence Doctrine" #NT!
+ carm_decisive_battle_doctrine: "Decisive Battle Doctrine" #NT!
+ carm_armoured_spearhead_doctrine: "Armoured Spearhead Doctrine" #NT!
+ carm_guns_and_butter_doctrine: "Guns and Butter Doctrine" #NT!
+ carm_commando_doctrine: "Commando Doctrine" #NT!
+ carm_doctrine_of_autonomy: "Doctrine of Autonomy" #NT!
+ carm_inept_lackey: "Inept Lackey" #NT!
+  
+ ### Chief of Navy 
+ cnav_open_seas_doctrine: "Open Seas Doctrine" #NT!
+ cnav_decisive_battle_doctrine: "Decisive Battle Doctrine" #NT!
+ cnav_power_projection_doctrine: "Power Projection Doctrine" #NT!
+ cnav_indirect_approach_doctrine: "Indirect Approach Doctrine" #NT!
+ cnav_base_control_doctrine: "Base Control Doctrine" #NT!
+  
+ ### Chief of Air Force 
+ cair_air_superiority_doctrine: "Air Superiority Doctrine" #NT!
+ cair_naval_aviation_doctrine: "Naval Aviation Doctrine" #NT!
+ cair_battlefield_support_doctrine: "Battlefield Support Doctrine" #NT!
+ cair_carpet_bombing_doctrine: "Carpet Bombing Doctrine" #NT!
+ cair_vertical_envelopment_doctrine: "Vertical Envelopment Doctrine" #NT!
+  
+ cair_the_red_baron: "The Black Baron" #NT!
+ cair_blitzkrieg_enthusiast: "Blitzkrieg Advocate" #NT!
+  
+  
+ # ideological_crusader: "Ideological Crusader" #NT!
+ popular_figurehead: "Любимец народа"
+ silent_workhorse: "Рабочая лошадка"
+ compassionate_gentleman: "Благожелательный джентльмен"
+ prince_of_terror: "Кровавый палач"
+ backroom_backstabber: "Тайный манипулятор"
+ smooth_talking_charmer: "Обаятельный льстец"
+ fortification_engineer: "Строитель укреплений"
+ war_industrialist: "Военный магнат"
+ captain_of_industry: "Капитан индустрии"
+ armaments_organizer: "Armaments Organiser" #NT!
+ quartermaster_general: "Генерал-квартирмейстер"
+ rocket_scientist: "Ракетостроитель"
+ nuclear_scientist: "Ученый-ядерщик"
+ blitzkrieg_theorist: "Теоретик блицкрига"
+ military_theorist: "Военный теоретик"
+ air_warfare_theorist: "Теоретик воздушной войны"
+ victory_through_airpower: "Victory Through Air Power" #NT!
+ close_air_support_proponent: "Сторонник авиационной поддержки"
+ assault_avaition: "Штурмовая авиация"
+ naval_theorist: "Теоретик морского флота"
+ naval_aviation_pioneer: "Первопроходец морской авиации"
+ grand_fleet_proponent: "Сторонник крупных флотов"
+ submarine_specialist: "Специалист по подводным лодкам"
+ artillery_manufacturer: "Конструктор артиллерии"
+ infantry_equipment_manufacturer: "Конструктор пехотного снаряжения"
+ motorized_equipment_manufacturer: "Motorised Equipment Designer" #NT!
+ electronics_concern: "Электронный концерн"
+ electronics_developer: "Производитель электроники"
+ construction_company: "Строительная компания"
+ bank_company: "Bank" #NT!
+ university_company: "University" #NT!
+ technical_university: "Arts University" #NT!
+ academy_company: "Academy" #NT!
+ technical_academy: "Academy of Arts" #NT!
+ stock_exchange_company: "Stock Exchange" #NT!
+ financial_institution: "Financial Insitution" #NT!
+ polytechnic: "Polytechnic" #NT!
+ mapping_service: "Mapping Service" #NT!
+ postal_office: "Postal Office" #NT!
+  
+  
+ FX_army_chief_lakeitel: "Lakeitel" #NT!
+  
+ FX_air_chief_blitzkrieg_enthusiast: "Reckless Attacker" #NT!
+  
+ ### Military High Command ### 
+ FX_MHC_entrenchment_1: "Entrenchment\n(Specialist)" #NT!
+ FX_MHC_entrenchment_2: "Entrenchment\n(Expert)" #NT!
+ FX_MHC_entrenchment_3: "Entrenchment\n(Genius)" #NT!
+ FX_MHC_armoured_1: "Armour\n(Specialist)" #NT!
+ FX_MHC_armoured_2: "Armour\n(Expert)" #NT!
+ FX_MHC_armoured_3: "Armour\n(Genius)" #NT!
+ FX_MHC_artillery_1: "Artillery\n(Specialist)" #NT!
+ FX_MHC_artillery_2: "Artillery\n(Expert)" #NT!
+ FX_MHC_artillery_3: "Artillery\n(Genius)" #NT!
+ FX_MHC_infantry_1: "Infantry\n(Specialist)" #NT!
+ FX_MHC_infantry_2: "Infantry\n(Expert)" #NT!
+ FX_MHC_infantry_3: "Infantry\n(Genius)" #NT!
+ FX_MHC_commando_1: "Commando\n(Specialist)" #NT!
+ FX_MHC_commando_2: "Commando\n(Expert)" #NT!
+ FX_MHC_commando_3: "Commando\n(Genius)" #NT!
+ FX_MHC_cavalry_1: "Cavalry\n(Specialist)" #NT!
+ FX_MHC_cavalry_2: "Cavalry\n(Expert)" #NT!
+ FX_MHC_cavalry_3: "Cavalry\n(Genius)" #NT!
+ FX_MHC_CombinedArms_1: "Combined Arms\n(Specialist)" #NT!
+ FX_MHC_CombinedArms_2: "Combined Arms\n(Expert)" #NT!
+ FX_MHC_CombinedArms_3: "Combined Arms\n(Genius)" #NT!
+ FX_MHC_army_regrouping_1: "Army Regrouping\n(Specialist)" #NT!
+ FX_MHC_army_regrouping_2: "Army Regrouping\n(Expert)" #NT!
+ FX_MHC_army_regrouping_3: "Army Regrouping\n(Genius)" #NT!
+ FX_MHC_concealment_1: "Concealment\n(Specialist)" #NT!
+ FX_MHC_concealment_2: "Concealment\n(Expert)" #NT!
+ FX_MHC_concealment_3: "Concealment\n(Genius)" #NT!
+ FX_MHC_army_logistics_1: "Army Logistics\n(Specialist)" #NT!
+ FX_MHC_army_logistics_2: "Army Logistics\n(Expert)" #NT!
+ FX_MHC_army_logistics_3: "Army Logistics\n(Genius)" #NT!
+ FX_MHC_army_radio_intelligence_1: "Radio Intelligence\n(Specialist)" #NT!
+ FX_MHC_army_radio_intelligence_2: "Radio Intelligence\n(Expert)" #NT!
+ FX_MHC_army_radio_intelligence_3: "Radio Intelligence\n(Genius)" #NT!
+ FX_MHC_anti_submarine_1: "Anti-Submarine\n(Specialist)" #NT!
+ FX_MHC_anti_submarine_2: "Anti-Submarine\n(Expert)" #NT!
+ FX_MHC_anti_submarine_3: "Anti-Submarine\n(Genius)" #NT!
+ FX_MHC_naval_air_defence_1: "Naval Air Defence\n(Specialist)" #NT!
+ FX_MHC_naval_air_defence_2: "Naval Air Defence\n(Expert)" #NT!
+ FX_MHC_naval_air_defence_3: "Naval Air Defence\n(Genius)" #NT!
+ FX_MHC_fleet_logistics_1: "Fleet Logistics\n(Specialist)" #NT!
+ FX_MHC_fleet_logistics_2: "Fleet Logistics\n(Expert)" #NT!
+ FX_MHC_fleet_logistics_3: "Fleet Logistics\n(Genius)" #NT!
+ FX_MHC_amphibious_assault_1: "Amphibious Assault\n(Specialist)" #NT!
+ FX_MHC_amphibious_assault_2: "Amphibious Assault\n(Expert)" #NT!
+ FX_MHC_amphibious_assault_3: "Amphibious Assault\n(Genius)" #NT!
+ FX_MHC_submarine_1: "Submarines\n(Specialist)" #NT!
+ FX_MHC_submarine_2: "Submarines\n(Expert)" #NT!
+ FX_MHC_submarine_3: "Submarines\n(Genius)" #NT!
+ FX_MHC_capital_ship_1: "Capital Ships\n(Specialist)" #NT!
+ FX_MHC_capital_ship_2: "Capital Ships\n(Expert)" #NT!
+ FX_MHC_capital_ship_3: "Capital Ships\n(Genius)" #NT!
+ FX_MHC_screen_1: "Screens\n(Specialist)" #NT!
+ FX_MHC_screen_2: "Screens\n(Expert)" #NT!
+ FX_MHC_screen_3: "Screens\n(Genius)" #NT!
+ FX_MHC_carrier_1: "Carriers\n(Specialist)" #NT!
+ FX_MHC_carrier_2: "Carriers\n(Expert)" #NT!
+ FX_MHC_carrier_3: "Carriers\n(Genius)" #NT!
+ FX_MHC_air_combat_training_1: "Air Combat Training\n(Specialist)" #NT!
+ FX_MHC_air_combat_training_2: "Air Combat Training\n(Expert)" #NT!
+ FX_MHC_air_combat_training_3: "Air Combat Training\n(Genius)" #NT!
+ FX_MHC_naval_strike_1: "Naval Strike\n(Specialist)" #NT!
+ FX_MHC_naval_strike_2: "Naval Strike\n(Expert)" #NT!
+ FX_MHC_naval_strike_3: "Naval Strike\n(Genius)" #NT!
+ FX_MHC_bomber_interception_1: "Bomber Interception\n(Specialist)" #NT!
+ FX_MHC_bomber_interception_2: "Bomber Interception\n(Expert)" #NT!
+ FX_MHC_bomber_interception_3: "Bomber Interception\n(Genius)" #NT!
+ FX_MHC_air_superiority_1: "Air Superiority\n(Specialist)" #NT!
+ FX_MHC_air_superiority_2: "Air Superiority\n(Expert)" #NT!
+ FX_MHC_air_superiority_3: "Air Superiority\n(Genius)" #NT!
+ FX_MHC_close_air_support_1: "Close Air Support\n(Specialist)" #NT!
+ FX_MHC_close_air_support_2: "Close Air Support\n(Expert)" #NT!
+ FX_MHC_close_air_support_3: "Close Air Support\n(Genius)" #NT!
+ FX_MHC_strategic_bombing_1: "Strategic Bombing\n(Specialist)" #NT!
+ FX_MHC_strategic_bombing_2: "Strategic Bombing\n(Expert)" #NT!
+ FX_MHC_strategic_bombing_3: "Strategic Bombing\n(Genius)" #NT!
+ FX_MHC_tactical_bombing_1: "Tactical Bombing\n(Specialist)" #NT!
+ FX_MHC_tactical_bombing_2: "Tactical Bombing\n(Expert)" #NT!
+ FX_MHC_tactical_bombing_3: "Tactical Bombing\n(Genius)" #NT!
+ FX_MHC_airborne_1: "Airborne Assault\n(Specialist)" #NT!
+ FX_MHC_airborne_2: "Airborne Assault\n(Expert)" #NT!
+ FX_MHC_airborne_3: "Airborne Assault\n(Genius)" #NT!
+ FX_MHC_pilot_training_1: "Pilot Training\n(Specialist)" #NT!
+ FX_MHC_pilot_training_2: "Pilot Training\n(Expert)" #NT!
+ FX_MHC_pilot_training_3: "Pilot Training\n(Genius)" #NT!
+  
+ FX_TST_advocate: "Organizer of the Waffen-TST" #NT!
+ FX_wiruamt_trait: "Total War Planner" #NT!
+  
+  
+ ### Theorists ### 
+ FX_council_of_theorists: "Council of Theorists" #NT!
+ FX_mmic_2: "MMIC" #NT!
+ FX_military_theorist: "Military Theorist" #NT!
+ FX_armour_theorist: "Armour Theorist" #NT!
+ FX_mobile_warfare_expert: "Mobile Warfare Expert" #NT!
+ FX_superior_firepower_expert: "Superior Firepower Expert" #NT!
+ FX_grand_battle_plan_expert: "Grand Battleplan Expert" #NT!
+ FX_mass_assault_expert: "Mass Assault Expert" #NT!
+ FX_air_warfare_theorist: "Air Warfare Theorist" #NT!
+ FX_dive_bomber: "Dive Bomber" #NT!
+ FX_victory_through_airpower: "Victory Through Firepower" #NT!
+ FX_close_air_support_proponent: "Close Air Support Proponent" #NT!
+ FX_assault_aviation: "Assault Aviation" #NT!
+ FX_naval_theorist: "Naval Theorist" #NT!
+ FX_naval_aviation_pioneer: "Naval Aviation Pioneer" #NT!
+ FX_grand_fleet_proponent: "Grand Fleet Proponent" #NT!
+ FX_submarine_specialist: "Submarine Specialist" #NT!
+ FX_rocket_scientist: "Rocket Scientist" #NT!
+ FX_nuclear_scientist: "Nuclear Scientist" #NT!
+ FX_electronic_scientist: "Electronic Scientist" #NT!
+ FX_engineering_scientist: "Engineering Expert" #NT!
+  
+ FX_balanced_airpower: "Balanced Airpower Supporter" #NT!
+ FX_red_general_theorist: "Red General" #NT!
+  
+ FX_long_war_advocate: "Long War Advocate" #NT!
+ FX_short_war_advocate: "Short War Advocate" #NT!
+  
+ FX_shock_theorist: "Shock Proponent" #NT!
+  
+ bearer_of_artillery: "Artillery Expert" #NT!
+ bearer_of_artillery_desc: "An Expert in all things that create big Explosions." #NT!
+ dictator: "Диктатор"
+ CAS_manufacturer: "Конструктор штурмовиков"
+ light_aircraft_manufacturer: "Light aircraft designer" #NT!
+ medium_aircraft_manufacturer: "Medium aircraft designer" #NT!
+ heavy_aircraft_manufacturer: "Heavy aircraft designer" #NT!
+ naval_aircraft_manufacturer: "Naval aircraft designer" #NT!
+ fast_tank_manufacturer: "Mobile tank designer" #NT!
+ medium_tank_manufacturer: "Tank designer" #NT!
+ heavy_tank_manufacturer: "Heavy tank designer" #NT!
+ pacific_fleet_naval_manufacturer: "Pacific fleet designer" #NT!
+ atlantic_fleet_naval_manufacturer: "Atlantic fleet designer" #NT!
+ raiding_fleet_naval_manufacturer: "Raiding fleet designer" #NT!
+ convoy_escort_naval_manufacturer: "Escort fleet designer" #NT!
+ coastal_defence_naval_manufacturer: "Coastal Defence fleet designer" #NT!
+ refinery_concern: "Refining concern" #NT!
+ political_dancer: "Master Manoeuvrer" #NT!
+ political_dancer_desc: "Knows the moves when it comes to political manoeuvring on the dance mat of Europe." #NT!
+ mobile_warfare_expert: "Эксперт по маневренной войне"
+ superior_firepower_expert: "Эксперт по огневой мощи"
+ grand_battle_plan_expert: "Grand Battle-plan Expert" #NT!
+ mass_assault_expert: "Эксперт по массированному штурму"
+ warrior_code: "Кодекс воинской чести"
+ dislikes_germany: "Не любит Германию"
+ staunch_constitutionalist: "Ярый конституционалист"
+ cornered_fox: "Загнанный лис"
+ stout_defender: "Ярый защитник"
+ warmonger: "Милитарист"
+ permanent_revolutionary: "Вечный революционер"
+ triumphant_revolutionary: "Победоносный революционер"
+ inexperienced_imperialist: "Неопытный империалист"
+ spirit_of_genghis: "Дух Чингисхана"
+ stalins_puppet: "Марионетка Сталина"
+ stalins_puppet_desc: "As loyal as he is patriotic, he will never betray the International, the plight of the worker, or his home country. In that order." #NT!
+ marysue: "Shameless Self-Insert" #NT!
+ marysue_desc: "This guy I swear..." #NT!
+ popular_figurehead_desc: "This leader is popular among the people and is a factor towards the unity of the country" #NT!
+  
+ ### Unit Leader Traits ### 
+ artillery_officer: "Artillery Officer" #NT!
+ artillery_officer_desc: "Trained as an artillery officer." #NT!
+ artillery_specialist: "Artillery Specialist" #NT!
+ artillery_specialist_desc: "Skilled at directing artillery in combat." #NT!
+ artillery_expert: "Artillery Expert" #NT!
+ artillery_expert_desc: "A true expert in directing artillery." #NT!
+ artillery_ratio_over_30: "Artillery ratio > §H30%§!" #NT!
+  
+ JAP_samurai_lineage: "Традиции самураев"
+ JAP_samurai_lineage_desc: "§LПредки этого человека были гордыми самураями. Он высоко чтит древние традиции и связи своего рода.§!"
+  
+ ### Company Traits ### 
+ chemical_producer: "Chemical Producer" #NT!
+ industrial_manufacturer: "Industrial Concern" #NT!
+ electronics_manufacturer: "Electronics Conglomerate" #NT!
+ mining_company: "Mining Corporation" #NT!
+ oil_concern: "Oil Concern" #NT!
+ railroad_compnay: "Railroad and Infrastructure Concern" #NT!
+  
+ small_tank_producer_offense_0: "Light Tank Manufacturer" #NT!
+ small_tank_producer_offense_1: "Light Tank Manufacturer" #NT!
+ small_tank_producer_offense_2: "Light Tank Manufacturer" #NT!
+ small_tank_producer_defense_0: "Light Tank Manufacturer" #NT!
+ small_tank_producer_defense_1: "Light Tank Manufacturer" #NT!
+ small_tank_producer_defense_2: "Light Tank Manufacturer" #NT!
+ small_tank_producer_mass_0: "Light Tank Manufacturer" #NT!
+ small_tank_producer_mass_1: "Light Tank Manufacturer" #NT!
+ small_tank_producer_mass_2: "Light Tank Manufacturer" #NT!
+ medium_tank_producer_offense_0: "Medium Tank Manufacturer" #NT!
+ medium_tank_producer_offense_1: "Medium Tank Manufacturer" #NT!
+ medium_tank_producer_offense_2: "Medium Tank Manufacturer" #NT!
+ medium_tank_producer_defense_0: "Medium Tank Manufacturer" #NT!
+ medium_tank_producer_defense_1: "Medium Tank Manufacturer" #NT!
+ medium_tank_producer_defense_2: "Medium Tank Manufacturer" #NT!
+ medium_tank_producer_mass_0: "Medium Tank Manufacturer" #NT!
+ medium_tank_producer_mass_1: "Medium Tank Manufacturer" #NT!
+ medium_tank_producer_mass_2: "Medium Tank Manufacturer" #NT!
+ heavy_tank_producer_offense_0: "Heavy Tank Manufacturer" #NT!
+ heavy_tank_producer_offense_1: "Heavy Tank Manufacturer" #NT!
+ heavy_tank_producer_offense_2: "Heavy Tank Manufacturer" #NT!
+ heavy_tank_producer_defense_0: "Heavy Tank Manufacturer" #NT!
+ heavy_tank_producer_defense_1: "Heavy Tank Manufacturer" #NT!
+ heavy_tank_producer_defense_2: "Heavy Tank Manufacturer" #NT!
+ heavy_tank_producer_mass_0: "Heavy Tank Manufacturer" #NT!
+ heavy_tank_producer_mass_1: "Heavy Tank Manufacturer" #NT!
+ heavy_tank_producer_mass_2: "Heavy Tank Manufacturer" #NT!
+  
+ ### Air ### 
+ fighter_producer_offense_0: "Fighter Manufacturer" #NT!
+ fighter_producer_offense_1: "Fighter Manufacturer" #NT!
+ fighter_producer_offense_2: "Fighter Manufacturer" #NT!
+ fighter_producer_defense_0: "Fighter Manufacturer" #NT!
+ fighter_producer_defense_1: "Fighter Manufacturer" #NT!
+ fighter_producer_defense_2: "Fighter Manufacturer" #NT!
+ fighter_producer_mass_0: "Fighter Manufacturer" #NT!
+ fighter_producer_mass_1: "Fighter Manufacturer" #NT!
+ fighter_producer_mass_2: "Fighter Manufacturer" #NT!
+ bomber_producer_offense_0: "Heavy Bomber Manufacturer" #NT!
+ bomber_producer_offense_1: "Heavy Bomber Manufacturer" #NT!
+ bomber_producer_offense_2: "Heavy Bomber Manufacturer" #NT!
+ bomber_producer_defense_0: "Heavy Bomber Manufacturer" #NT!
+ bomber_producer_defense_1: "Heavy Bomber Manufacturer" #NT!
+ bomber_producer_defense_2: "Heavy Bomber Manufacturer" #NT!
+ bomber_producer_mass_0: "Heavy Bomber Manufacturer" #NT!
+ bomber_producer_mass_1: "Heavy Bomber Manufacturer" #NT!
+ bomber_producer_mass_2: "Heavy Bomber Manufacturer" #NT!
+ nav_cas_producer_offense_0: "Light Bomber Manufacturer" #NT!
+ nav_cas_producer_offense_1: "Light Bomber Manufacturer" #NT!
+ nav_cas_producer_offense_2: "Light Bomber Manufacturer" #NT!
+ nav_cas_producer_defense_0: "Light Bomber Manufacturer" #NT!
+ nav_cas_producer_defense_1: "Light Bomber Manufacturer" #NT!
+ nav_cas_producer_defense_2: "Light Bomber Manufacturer" #NT!
+ nav_cas_producer_mass_0: "Light Bomber Manufacturer" #NT!
+ nav_cas_producer_mass_1: "Light Bomber Manufacturer" #NT!
+ nav_cas_producer_mass_2: "Light Bomber Manufacturer" #NT!
+  
+ ### Arms ### 
+ motorised_equipment_producer_offense_0: "Mechanised Equipment Manufacturer" #NT!
+ motorised_equipment_producer_offense_1: "Mechanised Equipment Manufacturer" #NT!
+ motorised_equipment_producer_offense_2: "Mechanised Equipment Manufacturer" #NT!
+ motorised_equipment_producer_offense_3: "Mechanised Equipment Manufacturer" #NT!
+ motorised_equipment_producer_defense_0: "Mechanised Equipment Manufacturer" #NT!
+ motorised_equipment_producer_defense_1: "Mechanised Equipment Manufacturer" #NT!
+ motorised_equipment_producer_defense_2: "Mechanised Equipment Manufacturer" #NT!
+ motorised_equipment_producer_mass_0: "Mechanised Equipment Manufacturer" #NT!
+ motorised_equipment_producer_mass_1: "Mechanised Equipment Manufacturer" #NT!
+ motorised_equipment_producer_mass_2: "Mechanised Equipment Manufacturer" #NT!
+ infantry_equipment_producer_offense_0: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_offense_1: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_offense_2: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_defense_0: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_defense_1: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_defense_2: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_assault_0: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_assault_1: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_assault_2: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_allround_0: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_allround_1: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_allround_2: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_mass_0: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_mass_1: "Infantry Equipment Manufacturer" #NT!
+ infantry_equipment_producer_mass_2: "Infantry Equipment Manufacturer" #NT!
+ support_equipment_producer_mass_0: "Support Equipment Manufacturer" #NT!
+ support_equipment_producer_mass_1: "Support Equipment Manufacturer" #NT!
+ support_equipment_producer_mass_2: "Support Equipment Manufacturer" #NT!
+ artillery_producer_offense_0: "Artillery Manufacturer" #NT!
+ artillery_producer_offense_1: "Artillery Manufacturer" #NT!
+ artillery_producer_offense_2: "Artillery Manufacturer" #NT!
+ artillery_producer_defense_0: "Artillery Manufacturer" #NT!
+ artillery_producer_defense_1: "Artillery Manufacturer" #NT!
+ artillery_producer_defense_2: "Artillery Manufacturer" #NT!
+ artillery_producer_mass_0: "Artillery Manufacturer" #NT!
+ artillery_producer_mass_1: "Artillery Manufacturer" #NT!
+ artillery_producer_mass_2: "Artillery Manufacturer" #NT!
+  
+ ### Naval ### 
+ capital_ship_producer_offense_0: "Capital Ship Manufacturer" #NT!
+ capital_ship_producer_offense_1: "Capital Ship Manufacturer" #NT!
+ capital_ship_producer_offense_2: "Capital Ship Manufacturer" #NT!
+ capital_ship_producer_defense_0: "Capital Ship Manufacturer" #NT!
+ capital_ship_producer_defense_1: "Capital Ship Manufacturer" #NT!
+ capital_ship_producer_defense_2: "Capital Ship Manufacturer" #NT!
+ capital_ship_producer_mass_0: "Capital Ship Manufacturer" #NT!
+ capital_ship_producer_mass_1: "Capital Ship Manufacturer" #NT!
+ capital_ship_producer_mass_2: "Capital Ship Manufacturer" #NT!
+ cruiser_producer_offense_0: "Cruiser Manufacturer" #NT!
+ cruiser_producer_offense_1: "Cruiser Manufacturer" #NT!
+ cruiser_producer_offense_2: "Cruiser Manufacturer" #NT!
+ cruiser_producer_defense_0: "Cruiser Manufacturer" #NT!
+ cruiser_producer_defense_1: "Cruiser Manufacturer" #NT!
+ cruiser_producer_defense_2: "Cruiser Manufacturer" #NT!
+ cruiser_producer_mass_0: "Cruiser Manufacturer" #NT!
+ cruiser_producer_mass_1: "Cruiser Manufacturer" #NT!
+ cruiser_producer_mass_2: "Cruiser Manufacturer" #NT!
+ small_ship_producer_offense_0: "Small Ship Manufacturer" #NT!
+ small_ship_producer_offense_1: "Small Ship Manufacturer" #NT!
+ small_ship_producer_offense_2: "Small Ship Manufacturer" #NT!
+ small_ship_producer_defense_0: "Small Ship Manufacturer" #NT!
+ small_ship_producer_defense_1: "Small Ship Manufacturer" #NT!
+ small_ship_producer_defense_2: "Small Ship Manufacturer" #NT!
+ small_ship_producer_mass_0: "Small Ship Manufacturer" #NT!
+ small_ship_producer_mass_1: "Small Ship Manufacturer" #NT!
+ small_ship_producer_mass_2: "Small Ship Manufacturer" #NT!
+ convoy_producer_0: "Shipping Company" #NT!
+ convoy_producer_1: "Shipping Company" #NT!
+ convoy_producer_2: "Shipping Company" #NT!
+  
+ ### Operative Traits ### 
+ operative_bold: "Bold" #NT!
+ operative_bold_desc: "The operative is excellent at making quick decisions and calculating the best time to strike." #NT!
+ operative_cautious: "Cautious" #NT!
+ operative_cautious_desc: "Sometimes discretion is the better part of valour." #NT!
+ operative_reckless: "Reckless" #NT!
+ operative_reckless_desc: "Gets the job done, but appears less concerned for personal safety." #NT!
+ operative_military_background: "Military Background" #NT!
+ operative_military_background_desc: "The operative knows their way around the military, speaking the universal language of soldiers everywhere." #NT!
+ operative_political_connections: "Political Connections" #NT!
+ operative_political_connections_desc: "Knowing the right people in high places can be handy." #NT!
+ operative_highly_educated: "Highly Educated" #NT!
+ operative_highly_educated_desc: "Sometimes it helps to know the difference between an acid and a base." #NT!
+ operative_efficient: "Efficient" #NT!
+ operative_efficient_desc: "Does the job with as few tools as necessary." #NT!
+ operative_streetwise: "Streetwise" #NT!
+ operative_streetwise_desc: "Their background might be shady, but the operative has contacts where it counts." #NT!
+ operative_master_infiltrator: "Master Infiltrator" #NT!
+ operative_master_infiltrator_desc: "This operative is a master at adapting to any environment and blending in flawlessly." #NT!
+ operative_survivor: "Survivor" #NT!
+ operative_survivor_desc: "Somehow, this operative seems to always makes it out alive." #NT!
+ operative_master_commando: "Master Soldier" #NT!
+ operative_master_commando_desc: "This operative has among the best military training there is available." #NT!
+ operative_master_saboteur: "Master Saboteur" #NT!
+ operative_master_saboteur_desc: "If this operative can get near it, they can sabotage it." #NT!
+  
+ ### Chiefs of Army ### 
+ FX_army_chief_defensive_1: "Army Defence\n(Specialist)" #NT!
+ FX_army_chief_defensive_2: "Army Defence\n(Expert)" #NT!
+ FX_army_chief_defensive_3: "Army Defence\n(Genius)" #NT!
+ FX_army_chief_offensive_1: "Army Offence\n(Specialist)" #NT!
+ FX_army_chief_offensive_2: "Army Offence\n(Expert)" #NT!
+ FX_army_chief_offensive_3: "Army Offence\n(Genius)" #NT!
+ FX_army_chief_old_guard: "Old Guard" #NT!
+ FX_army_chief_planning_1: "Army Planning\n(Specialist)" #NT!
+ FX_army_chief_planning_2: "Army Planning\n(Expert)" #NT!
+ FX_army_chief_planning_3: "Army Planning\n(Genius)" #NT!
+ FX_army_chief_drill_1: "Army Drill\n(Specialist)" #NT!
+ FX_army_chief_drill_2: "Army Drill\n(Expert)" #NT!
+ FX_army_chief_drill_3: "Army Drill\n(Genius)" #NT!
+ FX_army_chief_reform_1: "Army Reformer\n(Specialist)" #NT!
+ FX_army_chief_reform_2: "Army Reformer\n(Expert)" #NT!
+ FX_army_chief_reform_3: "Army Reformer\n(Genius)" #NT!
+ FX_army_chief_organisational_1: "Army Organisation\n(Specialist)" #NT!
+ FX_army_chief_organisational_2: "Army Organisation\n(Expert)" #NT!
+ FX_army_chief_organisational_3: "Army Organisation\n(Genius)" #NT!
+ FX_army_chief_morale_1: "Army Morale\n(Specialist)" #NT!
+ FX_army_chief_morale_2: "Army Morale\n(Expert)" #NT!
+ FX_army_chief_morale_3: "Army Morale\n(Genius)" #NT!
+ FX_army_chief_manoeuvre_1: "Army Manoeuvre\n(Specialist)" #NT!
+ FX_army_chief_manoeuvre_2: "Army Manoeuvre\n(Expert)" #NT!
+ FX_army_chief_manoeuvre_3: "Army Manoeuvre\n(Genius)" #NT!
+ FX_army_chief_entrenchment_1: "Entrenchment\n(Specialist)" #NT!
+ FX_army_chief_entrenchment_2: "Entrenchment\n(Expert)" #NT!
+ FX_army_chief_entrenchment_3: "Entrenchment\n(Genius)" #NT!
+ FX_army_chief_imperial_commissioner: "Imperial Commisioner" #NT!
+ FX_army_chief_cp_allocate: "" #NT!
+  
+ ### Chiefs of Navy ### 
+ FX_navy_chief_naval_aviation_1: "Naval Aviation\n(Specialist)" #NT!
+ FX_navy_chief_naval_aviation_2: "Naval Aviation\n(Expert)" #NT!
+ FX_navy_chief_naval_aviation_3: "Naval Aviation\n(Genius)" #NT!
+ FX_navy_chief_decisive_battle_1: "Decisive Battle\n(Specialist)" #NT!
+ FX_navy_chief_decisive_battle_2: "Decisive Battle\n(Expert)" #NT!
+ FX_navy_chief_decisive_battle_3: "Decisive Battle\n(Genius)" #NT!
+ FX_navy_chief_commerce_raiding_1: "Commerce Raiding\n(Specialist)" #NT!
+ FX_navy_chief_commerce_raiding_2: "Commerce Raiding\n(Expert)" #NT!
+ FX_navy_chief_commerce_raiding_3: "Commerce Raiding\n(Genius)" #NT!
+ FX_navy_chief_old_guard: "Old Guard" #NT!
+ FX_navy_chief_reform_1: "Naval Reformer\n(Specialist)" #NT!
+ FX_navy_chief_reform_2: "Naval Reformer\n(Expert)" #NT!
+ FX_navy_chief_reform_3: "Naval Reformer\n(Genius)" #NT!
+ FX_navy_chief_manoeuvre_1: "Naval Manoeuvre\n(Specialist)" #NT!
+ FX_navy_chief_manoeuvre_2: "Naval Manoeuvre\n(Expert)" #NT!
+ FX_navy_chief_manoeuvre_3: "Naval Manoeuvre\n(Genius)" #NT!
+ FX_navy_chief_navy_council: "Naval Council" #NT!
+ FX_navy_chief_submarine_specialist: "Submarine Specialist" #NT!
+  
+  
+ ### Chiefs of Air Force ### 
+ FX_air_chief_reform_1: "Air Reformer\n(Specialist)" #NT!
+ FX_air_chief_reform_2: "Air Reformer\n(Expert)" #NT!
+ FX_air_chief_reform_3: "Air Reformer\n(Genius)" #NT!
+ FX_air_chief_safety_1: "Air Safety\n(Specialist)" #NT!
+ FX_air_chief_safety_2: "Air Safety\n(Expert)" #NT!
+ FX_air_chief_safety_3: "Air Safety\n(Genius)" #NT!
+ FX_air_chief_old_guard: "Old Guard" #NT!
+ FX_air_chief_night_operations_1: "Night Operations\n(Specialist)" #NT!
+ FX_air_chief_night_operations_2: "Night Operations\n(Expert)" #NT!
+ FX_air_chief_night_operations_3: "Night Operations\n(Genius)" #NT!
+ FX_air_chief_ground_support_1: "Ground Support\n(Specialist)" #NT!
+ FX_air_chief_ground_support_2: "Ground Support\n(Expert)" #NT!
+ FX_air_chief_ground_support_3: "Ground Support\n(Genius)" #NT!
+ FX_air_chief_all_weather_1: "All-Weather\n(Specialist)" #NT!
+ FX_air_chief_all_weather_2: "All-Weather\n(Expert)" #NT!
+ FX_air_chief_all_weather_3: "All-Weather\n(Genius)" #NT!
+ FX_air_chief_pursuit_doctrine_1: "Pursuit Doctrine\n(Specialist)" #NT!
+ FX_air_chief_pursuit_doctrine_2: "Pursuit Doctrine\n(Expert)" #NT!
+ FX_air_chief_pursuit_doctrine_3: "Pursuit Doctrine\n(Genius)" #NT!
+ FX_air_chief_air_council: "Air Council" #NT!
+ FX_air_chief_red_baron: "Red Baron" #NT!
+ FX_air_chief_naval_aviation_1: "Naval Aviation\n(Specialist)" #NT!
+ FX_air_chief_naval_aviation_2: "Naval Aviation\n(Expert)" #NT!
+ FX_air_chief_naval_aviation_3: "Naval Aviation\n(Genius)" #NT!
+  
+ ### Military High Command ### 
+  
+ ## Traits 
+ tst_commander: "TST Commander" #NT!
+ tst_commander_desc: "Hailing from the TST instead of the usual military schools, this commander is more enthusiastic than the usual officer - even if their skill is particularly lacking." #NT!
+ tst_better_commander: "Trained TST Commander" #NT!
+ tst_better_commander_desc: "Having received some level of military training, this commander will fight more capably than his untrained compatriots - although this has come at the cost of some enthusiasm." #NT!
+ old_socialist: "Old Socialist" #NT!
+ apo_lakay: "Apo Lakay" #NT!
+  

@@ -1,0 +1,133 @@
+﻿l_russian:
+  
+ ### Country Names 
+ SRA_vanguardist: "American Socialist Republic" #NT!
+ SRA_vanguardist_ADJ: "American" #NT!
+ SRA_vanguardist_DEF: "the Socialist Republic of America" #NT!
+ SRA_collectivist: "American Socialist Republic" #NT!
+ SRA_collectivist_ADJ: "American" #NT!
+ SRA_collectivist_DEF: "the Socialist Republic of America" #NT!
+ SRA_libertarian_socialist: "American Socialist Republic" #NT!
+ SRA_libertarian_socialist_ADJ: "American" #NT!
+ SRA_libertarian_socialist_DEF: "the Socialist Republic of America" #NT!
+ SRA_social_democrat: "American Socialist Republic" #NT!
+ SRA_social_democrat_ADJ: "American" #NT!
+ SRA_social_democrat_DEF: "the Socialist Republic of America" #NT!
+ SRA_social_liberal: "American Socialist Republic" #NT!
+ SRA_social_liberal_ADJ: "American" #NT!
+ SRA_social_liberal_DEF: "the Socialist Republic of America" #NT!
+ SRA_market_liberal: "American Socialist Republic" #NT!
+ SRA_market_liberal_ADJ: "American" #NT!
+ SRA_market_liberal_DEF: "the Socialist Republic of America" #NT!
+ SRA_social_conservative: "American Socialist Republic" #NT!
+ SRA_social_conservative_ADJ: "American" #NT!
+ SRA_social_conservative_DEF: "the Socialist Republic of America" #NT!
+ SRA_authoritarian_democrat: "American Socialist Republic" #NT!
+ SRA_authoritarian_democrat_ADJ: "American" #NT!
+ SRA_authoritarian_democrat_DEF: "the Socialist Republic of America" #NT!
+ SRA_paternal_autocrat: "American Socialist Republic" #NT!
+ SRA_paternal_autocrat_ADJ: "American" #NT!
+ SRA_paternal_autocrat_DEF: "the Socialist Republic of America" #NT!
+ SRA_national_populist: "American Socialist Republic" #NT!
+ SRA_national_populist_ADJ: "American" #NT!
+ SRA_national_populist_DEF: "the Socialist Republic of America" #NT!
+ SRA_valkist: "American Socialist Republic" #NT!
+ SRA_valkist_ADJ: "American" #NT!
+ SRA_valkist_DEF: "the Socialist Republic of America" #NT!
+  
+ ### Cosmetic 
+ SRA_revolt_vanguardist: "Socialist Revolt" #NT!
+ SRA_revolt_vanguardist_ADJ: "Socialist" #NT!
+ SRA_revolt_vanguardist_DEF: "the Socialist Revolt" #NT!
+ SRA_revolt_collectivist: "Socialist Revolt" #NT!
+ SRA_revolt_collectivist_ADJ: "Socialist" #NT!
+ SRA_revolt_collectivist_DEF: "the Socialist Revolt" #NT!
+ SRA_revolt_libertarian_socialist: "Socialist Revolt" #NT!
+ SRA_revolt_libertarian_socialist_ADJ: "Socialist" #NT!
+ SRA_revolt_libertarian_socialist_DEF: "the Socialist Revolt" #NT!
+ SRA_revolt_social_democrat: "Socialist Revolt" #NT!
+ SRA_revolt_social_democrat_ADJ: "Socialist" #NT!
+ SRA_revolt_social_democrat_DEF: "the Socialist Revolt" #NT!
+ SRA_revolt_social_liberal: "Socialist Revolt" #NT!
+ SRA_revolt_social_liberal_ADJ: "Socialist" #NT!
+ SRA_revolt_social_liberal_DEF: "the Socialist Revolt" #NT!
+ SRA_revolt_market_liberal: "Socialist Revolt" #NT!
+ SRA_revolt_market_liberal_ADJ: "Socialist" #NT!
+ SRA_revolt_market_liberal_DEF: "the Socialist Revolt" #NT!
+ SRA_revolt_social_conservative: "Socialist Revolt" #NT!
+ SRA_revolt_social_conservative_ADJ: "Socialist" #NT!
+ SRA_revolt_social_conservative_DEF: "the Socialist Revolt" #NT!
+ SRA_revolt_authoritarian_democrat: "Socialist Revolt" #NT!
+ SRA_revolt_authoritarian_democrat_ADJ: "Socialist" #NT!
+ SRA_revolt_authoritarian_democrat_DEF: "the Socialist Revolt" #NT!
+ SRA_revolt_paternal_autocrat: "Socialist Revolt" #NT!
+ SRA_revolt_paternal_autocrat_ADJ: "Socialist" #NT!
+ SRA_revolt_paternal_autocrat_DEF: "the Socialist Revolt" #NT!
+ SRA_revolt_national_populist: "Socialist Revolt" #NT!
+ SRA_revolt_national_populist_ADJ: "Socialist" #NT!
+ SRA_revolt_national_populist_DEF: "the Socialist Revolt" #NT!
+ SRA_revolt_valkist: "Socialist Revolt" #NT!
+ SRA_revolt_valkist_ADJ: "Socialist" #NT!
+ SRA_revolt_valkist_DEF: "the Socialist Revolt" #NT!
+  
+ ### Parties 
+ SRA_vanguardist_party: "CPUSA" #NT!
+ SRA_vanguardist_party_long: "Communist Party of the United States" #NT!
+ SRA_collectivist_party: "IWW" #NT!
+ SRA_collectivist_party_long: "International Workers of the World" #NT!
+ SRA_libertarian_socialist_party: "Socialists" #NT!
+ SRA_libertarian_socialist_party_long: "Socialist Party" #NT!
+ SRA_social_democrat_party: "Progressive Democrats" #NT!
+ SRA_social_democrat_party_long: "Democratic Party" #NT!
+ SRA_social_liberal_party: "Progressive Republicans" #NT!
+ SRA_social_liberal_party_long: "Republican Party" #NT!
+ SRA_market_liberal_party: "Mainstream Republicans" #NT!
+ SRA_market_liberal_party_long: "Republican Party" #NT!
+ SRA_social_conservative_party: "Mainstream Democrats" #NT!
+ SRA_social_conservative_party_long: "Democratic Party" #NT!
+ SRA_authoritarian_democrat_party: "Corporate" #NT!
+ SRA_authoritarian_democrat_party_long: "Corporate Administration" #NT!
+ SRA_paternal_autocrat_party: "Corporate" #NT!
+ SRA_paternal_autocrat_party_long: "Corporate Administration" #NT!
+ SRA_national_populist_party: "APP" #NT!
+ SRA_national_populist_party_long: "American Purity Party" #NT!
+ SRA_valkist_party: "FLD" #NT!
+ SRA_valkist_party_long: "Foundation for the Lord and Democracy" #NT!
+  
+ ### Ideas 
+ SRA_our_right_to_survive: "Our Right to Survive" #NT!
+ SRA_revolutionary_fervor: "Revolutionary Fervor" #NT!
+  
+ ### Decisions 
+ SRA_unification_of_america: "Unification of America" #NT!
+ SRA_unification_with_nee: "Unification with [NEE.GetName]" #NT!
+ SRA_war_federal: "War with the Southern Capitalists" #NT!
+ SRA_war_new_england: "War with [NEE.GetName]" #NT!
+ SRA_war_midwest: "War with the Christian Conservatives" #NT!
+ SRA_war_mexico: "War with the Reactionary Snakes" #NT!
+ SRA_war_england: "War with the Monarchists" #NT!
+  
+ ### Events 
+ sra.100.t: "Chicago Government Proposes Union" #NT!
+ sra.100.d: "Representatives from the recently established socialist government in Chicago have approached us proposing unification between them and our government. President [Root.GetLeader] have expressed interests on this proposal, and have consulted with his cabinet and some members of the legislature to make a decision. While there are those in the government who do not support this union, many within the government are in favour." #NT!
+ sra.100.a: "Together we will break the chains! §R(You will get annexed!)§!" #NT!
+ sra.100.b: "New England will forge its own path" #NT!
+ sra.101.t: "[From.GetName] Accepts Our Offer" #NT!
+ sra.101.d: "The [From.GetAdjective] Government have accepted our proposal for unification" #NT!
+ sra.101.a: "Break the chains!" #NT!
+ sra.102.t: "[From.GetName] Refuses Our Offer" #NT!
+ sra.102.d: "The [From.GetAdjective] Government have refused our proposal for unification." #NT!
+ sra.102.a: "Who needs them anyway?" #NT!
+ sra.102.b: "New York is still creeped by the capitalists..." #NT!
+ SRA_William_Haywood: "William Haywood" #NT!
+ SRA_James_W_Ford: "James W. Ford" #NT!
+ SRA_Bayard_Rustin: "Bayard Rustin" #NT!
+ SRA_Edward_Carter: "Edward Carter" #NT!
+ SRA_Oliver_Law: "Oliver Law" #NT!
+ SRA_Thomas_Page: "Thomas Page" #NT!
+ SRA_Hugh_Mulzac: "Hugh Mulzac" #NT!
+ SRA_Youngblood_Nance: "Youngblood Nance" #NT!
+ SRA_Benjamin_Oliver_Davis_Sr: "Benjamin Oliver Davis Sr." #NT!
+ SRA_Evans_Fordyce_Carlson: "Evans Fordyce Carlson" #NT!
+ SRA_Robert_Sharon_Allen: "Robert Sharon Allen" #NT!
+ SRA_Campbell_Carrington_Johnson: "Campbell Carrington Johnson" #NT!

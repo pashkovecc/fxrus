@@ -1,0 +1,734 @@
+﻿l_russian:
+ FACTION_LEADER: "Лидер альянса: §Y$COUNTRY$§!"
+ FACTION_MEMBER: "Участник альянса: §Y$COUNTRY$§!"
+ FACTION_CREATED_UNDER_MASTER_TITLE: "Вступление в альянс метрополии"
+ FACTION_CREATED_UNDER_MASTER_MESSAGE: "Мы вступили в альянс $FACTION|H$ вместе с нашей метрополией"
+  
+ FACTION_TITLE: "Альянс"
+ RULE_TYPE_ITEM_TOOLTIP: "Тип правила: $RULE_TYPE|H$"
+ RULE_MODIFIER_TOOLTIP: "Дает модификатор:\n$MODIFIER$"
+ FACTION_GOAL_ITEM_TOOLTIP: "Цель альянса: $FACTION_GOAL|H$"
+ FACTION_GOAL_PROGRESS_TOOLTIP: "Прогресс: $PROGRESS|%0$"
+ unlock_faction_goal_effect_tt: "Открывается цель альянса §Y«$GOALNAME$»§!"
+ FACTION_PROGRESS_SECTION_DESC: "$NAME|Y$\n§gКогда прогресс между§! $MIN|%Y$ §gи§! $MAX|%Y$§g:§!\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$"
+  
+ # SEA faction rule names 
+ joining_rules_applicability: "§gWhen active, only countries that fulfil the following conditions can join our Faction:§!" #NT!
+ joining_rule_same_continent_only: "Только страны на том же континенте"
+ joining_rule_africa_only: "Только страны Африки"
+ joining_rule_americas_only: "Только страны Америки"
+ joining_rule_same_ideology: "Same or Similar Ideology as Faction Leader Only" #NT!
+ joining_rule_china_only: "Только страны в пределах Китая"
+ joining_rule_puppets_only: "Только собственные субъекты"
+ joining_rule_neighbors_only: "Neighbour Countries Only" #NT!
+ joining_rule_has_no_war: "Мирные страны"
+ joining_rule_asia_only: "Страны Азии"
+ joining_rule_baltics_only: "Страны Балтии"
+  
+ war_declaration_rules_applicability: "§gWhen active, only countries that fulfil the following conditions are valid for war declarations:§!" #NT!
+ war_declaration_rule_independent_countries_only: "Объявляющая страна независима"
+ war_declaration_rule_faction_leader_only: "Объявляющая страна — лидер альянса"
+ war_declaration_rule_major_only: "Объявляющая страна считается крупной державой"
+  
+ call_to_war_rules_applicability: "§gWhen active, only countries that fulfil the following conditions can call other Faction Members to war:§!" #NT!
+ call_to_war_rule_faction_leader_only: "Только лидер альянса"
+ call_to_war_rule_major_only: "Только ведущие державы"
+ call_to_war_rule_independent_only: "Только независимые страны"
+  
+ government_in_exile_allowed: "Разрешены правительства в изгнании"
+ government_in_exile_not_allowed: "Запрещены правительства в изгнании"
+  
+ manpower_contribution_disabled: "Требование к отсутствию поддержки гарнизона"
+ manpower_contribution_small: "Требование к ограниченному гарнизону"
+ manpower_contribution_medium: "Требование к среднему гарнизону"
+ manpower_contribution_high: "Требование к большому гарнизону"
+  
+ dismissal_rules_applicability: "§gWhen active, only countries that fulfil one of the following conditions can be ejected from our Faction:§!" #NT!
+  
+ change_leader_rules_applicability: "§gWhen active, only countries that fulfil the following conditions will be eligible for Faction Leadership:§!" #NT!
+ change_leader_rule_never: "Лидер не может меняться"
+ change_leader_rule_manpower: "Кандидат опережает лидера в людских ресурсах"
+ change_leader_rule_industry: "Кандидат опережает лидера в промышленности"
+ change_leader_rule_influence: "Кандидат опережает лидера по влиянию в альянсе"
+  
+ # SEA faction effects 
+ ADD_FACTION_RULE_EFFECT: "Добавить правило «$RULE|H$» для альянса «$FACTION|H$»"
+ REMOVE_FACTION_RULE_EFFECT: "Удалить правило «$RULE|H$» для альянса «$FACTION|H$»"
+ SET_FACTION_RULE_EFFECT: "Установить правило «$RULE|H$» для альянса «$FACTION|H$»"
+ SET_FACTION_MEMBER_UPGRADE_MIN: "Установить улучшение «$UPGRADENAME$» на минимальный уровень $MIN|%H$ для альянса $FACTION|H$"
+ SET_FACTION_UPGRADE: "Установить улучшение «$UPGRADENAME$» для альянса $FACTION|H$"
+ SET_FACTION_UPGRADE_NO_FACTION: "Установить улучшение «$UPGRADENAME|H$» для альянса"
+ SET_FACTION_MEMBER_UPGRADE: "Установить улучшение «$UPGRADENAME$» для страны $COUNTRYNAME|H$"
+ SET_FACTION_MEMBER_UPGRADE_NO_FACTION: "Установить улучшение «$UPGRADENAME$» для страны $COUNTRYNAME|H$"
+ SET_FACTION_MANIFEST_EFFECT: "Изменить манифест альянса «$FACTION|H$» на «$GOAL|H$»"
+ ADD_FACTION_GOAL_EFFECT: "Добавить цель «$GOAL|H$» для альянса «$FACTION|H$»"
+ REMOVE_FACTION_GOAL_EFFECT: "Удалить манифест «$GOAL|H$» из альянса «$FACTION|H$»"
+ ADD_FACTION_INITIATIVE_EFFECT: "Добавить $AMOUNT|H0$ ед. инициативы альянсу «$FACTION|H$»"
+ ADD_FACTION_INITIATIVE_EFFECT_NO_FACTION: "Альянс получает $AMOUNT|H0$ оч. инициативы"
+ ADD_FACTION_INFLUENCE_EFFECT_NO_FACTION: "Добавить государству $COUNTRY|H$ $VAL$ ед. §Yвлияния в альянсе§!, если оно в альянсе"
+ ADD_FACTION_INFLUENCE_EFFECT: "Increases §YFaction Influence§! for $COUNTRY|H$ by $VAL$ in $FACTION|H$" #NT!
+ FACTION_INFLUENCE_VALUE: "$VAL|H$"
+ FACTION_INFLUENCE_RATIO: "$VAL|H%$"
+ FACTION_RATIO: "$VAL|H%$"
+ ADD_FACTION_POWER_PROJECTION_EFFECT: "Добавить $VAL|H0$ ед. демонстрации силы альянсу $FACTION|H$"
+ ADD_FACTION_POWER_PROJECTION_EFFECT_NO_FACTION: "Добавить $VAL|H0$ ед. демонстрации силы альянса"
+ FACTION_ADD_EXTRA_GOAL_SLOT: "Добавить альянсу «$FACTION|H$» $VAL|+0$ ячеек целей категории $CATEGORY|H$"
+ FACTION_ADD_EXTRA_GOAL_SLOT_NO_FACTION: "Добавить вашему альянсу $VAL|+0$ шт. ячеек целей категории «$CATEGORY|H$»"
+  
+  # SEA faction triggers 
+ TRIGGER_HAS_FACTION_TEMPLATE: "Государство $COUNTRY|H$ состоит в альянсе «$FACTION|H$»"
+ TRIGGER_HAS_NOT_FACTION_TEMPLATE: "Государство $COUNTRY|H$ не состоит в альянсе «$FACTION|H$»"
+ TRIGGER_HAS_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ опережает текущего лидера альянса и его субъектов в развернутых людских ресурсах. $MISSING_EXPL$"
+ TRIGGER_HAS_NOT_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ не опережает текущего лидера альянса и его субъектов в развернутых людских ресурсах. $MISSING_EXPL$"
+ TRIGGER_HAS_INFLUENCE_TO_BECOME_LEADER: "У государства $COUNTRY|H$ больше влияния в альянсе, чем у лидера альянса. $MISSING_EXPL$"
+ TRIGGER_HAS_NOT_INFLUENCE_TO_BECOME_LEADER: "У государства $COUNTRY|H$ не больше влияния в альянсе, чем у лидера альянса. $MISSING_EXPL$"
+ TRIGGER_HAS_INDUSTRY_TO_BECOME_LEADER: "$COUNTRY|H$ опережает лидера альянса по количеству фабрик. $MISSING_EXPL$"
+ TRIGGER_HAS_NOT_INDUSTRY_TO_BECOME_LEADER: "$COUNTRY|H$ не опережает лидера альянса по количеству фабрик. $MISSING_EXPL$"
+ TRIGGER_HAS_FACTION_TAB_UNLOCKED: "Имеет доступ к вкладке «$TAB|H$» в альянсе"
+ TRIGGER_HAS_NOT_FACTION_TAB_UNLOCKED: "Не имеет доступа к вкладке «$TAB|H$» в альянсе"
+ TRIGGER_MISSING_EXPL: "Сейчас: $CURRENT|H*$. Минимальное требуемое значение: $MIN_NEED|H*$"
+ TRIGGER_MISSING_EXPL_INVERSE: "Сейчас: $CURRENT|H*$. Допустимый предел: $MIN_NEED|H*$"
+ TRIGGER_HAS_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ имеет цель альянса «$GOAL|H$»"
+ TRIGGER_HAS_NOT_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ не имеет цели альянса «$GOAL|H$»"
+ TRIGGER_HAS_COMPLETED_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ — достигнута цель альянса «$GOAL|H$»"
+ TRIGGER_HAS_NOT_COMPLETED_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ — цель альянса «$GOAL|H$» не достигнута "
+ TRIGGER_HAS_POLITICAL_SUPPORT: "Государство $COUNTRY|H$ придерживается той же идеологии ($IDEOLOGY|H$), что и лидер."
+ TRIGGER_HAS_NOT_POLITICAL_SUPPORT: "Государство $COUNTRY|H$ не придерживается той же идеологии ($IDEOLOGY|H$), что и лидер."
+ FACTION_MANIFEST_FULFILLMENT_LESS_THAN: "Faction manifest fulfilment is less than $VALUE|%0H$" #NT!
+ FACTION_MANIFEST_FULFILLMENT_MORE_THAN: "Faction manifest fulfilment is greater than $VALUE|%0H$" #NT!
+ FACTION_UPGRADE_LESS_THAN: "Уровень улучшения в альянсе ниже «$UPGRADENAME|H$»"
+ FACTION_UPGRADE_MORE_THAN: "Уровень улучшения в альянсе выше «$UPGRADENAME|H$»"
+ FACTION_UPGRADE_EQUALS: "Обладает улучшением «$UPGRADENAME|H$» в альянсе"
+ FACTION_MEMBER_UPGRADE_LESS_THAN: "Уровень улучшения «$UPGRADENAME|H$» державы $COUNTRYNAME|H$ в альянсе ниже «$UPGRADENAME|H$"
+ FACTION_MEMBER_UPGRADE_MORE_THAN: "Уровень улучшения «$UPGRADENAME|H$» державы $COUNTRYNAME|H$ в альянсе выше «$UPGRADENAME|H$"
+ FACTION_MEMBER_UPGRADE_EQUALS: "Держава $COUNTRYNAME|H$ обладает улучшением «$UPGRADENAME|H$» в альянсе"
+ FACTION_GOAL_FULFILLMENT_IN_RANGE: "$GOAL|H$ fulfilment is between $MIN|%0H$ and $MAX|%0H$" #NT!
+ FACTION_GOAL_FULFILLMENT_NOT_IN_RANGE: "$GOAL|H$ fulfilment is less than $MIN|%0H$ or greater than $MAX|%0H$" #NT!
+ FACTION_GOAL_FULFILLMENT_LESS_THAN: "$GOAL|H$ fulfilment is less than $VALUE|%0H$" #NT!
+ FACTION_GOAL_FULFILLMENT_MORE_THAN: "$GOAL|H$ fulfilment is greater than $VALUE|%0H$" #NT!
+ FACTION_POWER_PROJECTION_LESS_THAN: "Демонстрация силы альянса составляет меньше, чем $VALUE|H$"
+ FACTION_POWER_PROJECTION_MORE_THAN: "Демонстрация силы альянса составляет больше, чем $VALUE|H$"
+ FACTION_INFLUENCE_LESS_THAN: "Влияние альянса уступает $VALUE|H$"
+ FACTION_INFLUENCE_MORE_THAN: "Влияние альянса превышает $VALUE|H$"
+ FACTION_INFLUENCE_RANK_LESS_THAN: "Ранг влияния альянса уступает $VALUE|H0$"
+ FACTION_INFLUENCE_RANK_MORE_THAN: "Ранг влияния альянса превышает $VALUE|H0$"
+  
+  # SEA faction rule groups 
+ rule_group_geographical: "География"
+ rule_group_ideology_allies: "Союзники"
+ rule_group_ideology: "Идеология"
+ rule_group_war: "Война и мир"
+ rule_group_war_declaration: "Объявление войны"
+ rule_group_war_declaration_declarer: "Объявляющая страна"
+ rule_group_war_declaration_target: "Страна-цель"
+ rule_group_war_declaration_situation: "Ситуация в мире"
+ rule_group_generate_wargoal_threat: "Оправдание"
+ rule_group_member_rules: "Правила для участников"
+ rule_group_manpower: "Людские ресурсы"
+ manpower_contribution_rule: "Передача людских ресурсов"
+ contribution_rule: "Какие ограничения по вкладу мы установим?"
+ contribution_rule_applicability: ""
+ rule_group_dismissal_ideology: "Идеология"
+ rule_group_dismissal_actions: "Действия"
+ rule_group_call_to_war: "Инициатор"
+ rule_group_guarantee: "Напряженность для гарантий"
+ rule_group_war_relation: "Военные отношения"
+ rule_group_peace_rules: "Мирные действия"
+ rule_group_leader_faction: "Требования альянса"
+ rule_group_leader_industry: "Требования к промышленности"
+ rule_group_leader_manpower: "Требования к людским ресурсам"
+ rule_group_gie_rules: "Правительство в изгнании"
+  
+ # SEA rule type names: " # Sea Rule Type Names" #NT!
+ war_declaration_rules: "Когда мы можем объявлять войну?"
+ member_rules: "Should we support occupied members?" #NT!
+ member_rules_applicability: ""
+ joining_rules: "Кто может вступать в альянс?"
+ call_to_war_rules: "Кто может призывать участников к войне?"
+ peace_conference_rules: "Как нам следует действовать на мирных конференциях?"
+ peace_conference_rules_applicability: ""
+ dismissal_rules: "Кого можно исключать из альянса?"
+ change_leader_rules: "Когда можно менять лидера?"
+  
+  # SEA faction goals 
+  ## Manifest Progress 
+ low_progress: "Слабый прогресс"
+ medium_progress: "Средний прогресс"
+ high_progress: "Сильный прогресс"
+ manifest_fulfilled: "Манифест выполнен"
+  
+ GLOBAL_RESOURCE_EXTRACTED_TOTAL_DESC: "Ресурсы, добытые по всему миру"
+ FACTION_RESOURCE_EXTRACTED_TOTAL_DESC: "Ресурсы, добытые фракцией"
+  
+  ## Short term Goals 
+ growing_the_faction: "Расширить альянс"
+ growing_the_faction_desc: "Чтобы наш альянс всерьез воспринимали на политической сцене, в него следует включить новые страны."
+ spy_master_goal_name: "Назначить руководителя разведсети"
+ spy_master_goal_desc: "We should specialise one of our members in the art of espionage and intelligence gathering, allowing them to oversee and direct our alliance's operations." #NT!
+ ensure_military_r_d_goal_name: "Построить военно-научные центры"
+ ensure_military_r_d_goal_desc: "Мы должны обеспечить соответствие нашего военного уровня современным стандартам, создав предприятия, специализирующиеся на исследованиях и разработке передовых прототипов и новых концепций."
+ military_infrastructure_goal_name: "Построить военную инфраструктуру"
+ military_infrastructure_goal_desc: "Развитая инфраструктура важна для того, чтобы обеспечить надлежащее снабжение защитников наших границ."
+ a_great_fortress_goal_name: "Построить более мощные укрепления"
+ a_great_fortress_goal_desc: "Нет ничего важнее подготовки. Укрепив пограничные регионы и важнейшие позиции по последнему слову фортификационной науки, мы станем непобедимы."
+ an_armored_fist_goal_name: "Expand Our Armoured Forces" #NT!
+ an_armored_fist_goal_desc: "Новые времена создают возможности для новой тактики. Будущее за танками. Необходимо, чтобы у нашего союза было достаточно танков, чтобы добиться господства на поле боя."
+ an_infantry_army_goal_name: "Расширить нашу пехоту"
+ an_infantry_army_goal_desc: "Пехота — хребет любой армии. Чтобы наши притязания имели вес и на дипломатическом фронте, и на театре военных действий, нам понадобится много пехоты."
+ develop_ploiesti_oil_fields_goal_name: "Разработать нефтяные месторождения в Плоешти"
+ develop_ploiesti_oil_fields_goal_desc: "Чтобы обеспечить альянс топливом, необходимым для продолжения войны, мы должны разрабатывать единственные месторождения нефти на территории Европы, находящиеся в Плоешти."
+ develop_baku_oil_fields_goal_name: "Разработать нефтяные месторождения в Баку"
+ develop_baku_oil_fields_goal_desc: "Разработка бакинских месторождений нефти даст нам доступ к обширным запасам углеводородов, без которых военные операции невозможны."
+ fortify_panama_canal_goal_name: "Укрепить Панамский канал"
+ fortify_gibraltar_goal_name: "Укрепить Гибралтар"
+ fortify_gibraltar_goal_desc: "Укрепив стратегическую базу в Гибралтарском проливе, мы сможем лучше контролировать перемещение судов между Средиземным морем и Атлантикой."
+ expand_maltese_bases_goal_name: "Расширить базы на Мальте"
+ expand_maltese_bases_goal_desc: "Развернув базы на Мальте, мы сможем лучше дестабилизировать снабжение противника и обеспечим военное присутствие во всём Центральном Средиземноморье."
+ fortify_bosporus_goal_name: "Укрепить Босфор"
+ fortify_bosporus_goal_desc: "Укрепив пролив Босфор, мы сможем контролировать все перемещения по воде между Черным и Средиземным морями."
+ fortify_bosporus_tooltip: "The victory points §Y[773.Controller.GetVictoryPointName_9833]§! and §Y[340.Controller.GetVictoryPointName_11829]§! have a level 1 §YCoastal Fort§!, a level 1 §YLand Fort§!, and are manned by one division." #NT!
+ fortify_dardanelles_goal_name: "Укрепить Дарданеллы"
+ fortify_dardanelles_goal_desc: "Укрепив Дарданеллы, мы получим контроль над перемещением военных кораблей и торговых судов из Черного моря."
+ fortify_dardanelles_tooltip: "Каждая провинция в §YЭдирне§! и §YБурсе§!, контролирующая §YДарданеллы§!, получает §Yбереговое укрепление§! 1-го уровня и §Yукрепление§! 1-го уровня, а также укомплектовывается одной дивизией."
+ fortify_suez_canal_goal_name: "Укрепить Суэцкий канал"
+ fortify_suez_canal_goal_desc: "Имея в своем распоряжении Суэцкий канал, мы получим полный контроль над основной судоходной трассой между Европой и Азией."
+ fortify_suez_tooltip: "Каждая провинция в §YСуэце§!, контролирующая §YСуэцкий§! канал, получает §Yбереговое укрепление§! 1-го уровня и §Yукрепление§! 1-го уровня, а также укомплектовывается одной дивизией."
+ expand_singapore_naval_base_goal_name: "Расширить морскую базу в Сингапуре"
+ expand_singapore_naval_base_goal_desc: "Мощная укрепленная военно-морская база Сингапур господствует над Малаккским проливом и регулирует движение между Индийским и Тихим океанами. Наше присутствие на ней должно быть усилено."
+  
+  # Mid term Goals 
+ a_large_faction_goal_name: "Пригласить больше государств в наш альянс"
+ a_large_faction_goal_desc: "Чем шире будет наш альянс, тем дальше будет простираться его влияние."
+ aggressive_defense_goal_name: "Нанести урон агрессорам"
+ aggressive_defense_goal_desc: "Мы не уступим врагу ни пяди нашей земли. Наши солдаты должны понять, что их священный долг — не погибнуть за наше отечество, а сделать так, чтобы враг погиб за свое."
+ a_military_base_goal_name: "Расширить военную промышленность"
+ a_military_base_goal_desc: "Священный поход против коммунизма невозможен без оружия, а массовое оружейное производство — без развитой военной промышленности."
+ a_military_base_tech_bonus: "Бонус цели «$a_military_base_goal_name$»"
+ industrial_expansion_goal_name: "Расширение промышленности"
+ industrial_expansion_goal_desc: "Сила любого альянса заключается в первую очередь в крепкой промышленной базе. Чтобы занять место среди великих держав, придется нарастить производственную мощь."
+ industrial_expansion_tech_bonus: "Бонус цели «$industrial_expansion_goal_name$»"
+ industrial_research_goal_name: "Исследовать: $construction4$"
+ industrial_research_goal_desc: "Чтобы стать весомым игроком, мы должны обеспечить всех участников альянса современными промышленными технологиями."
+  
+ marine_corps_goal_name: "Основать корпус морской пехоты"
+ marine_corps_goal_desc: "Развитие морских десантных войск сильно укрепит наш наступательный потенциал и позволит нам действовать на отдаленных территориях."
+ marine_corps_tech_bonus: "Бонус цели «$marine_corps_goal_name$»"
+ submarine_force_goal_name: "Расширение подводного флота"
+ submarine_force_goal_desc: "Чтобы перекрыть пути снабжения войск противника, нужен сильный подводный флот."
+ submarine_force_tech_bonus: "Бонус цели «$submarine_force_goal_name$»"
+ convoy_escort_force_goal_name: "Сопровождать конвои, пересекающие океаны"
+ convoy_escort_force_goal_desc: "Для защиты путей снабжения нам требуется достаточное количество кораблей сопровождения."
+ convoy_escort_force_tech_bonus: "Бонус цели «$convoy_escort_force_goal_name$»"
+ air_superiority_goal_name: "Сохранить превосходство в воздухе"
+ air_superiority_goal_desc: "Контроль над воздушным пространством определяет успех и на суше, и на море. Для завоевания господства в воздухе нам требуется достаточное количество истребителей."
+ air_superiority_tech_bonus: "Бонус цели «$air_superiority_goal_name$»"
+ control_ploiesti_oil_fields_goal_name: "Контролировать месторождения нефти в Плоешти"
+ control_ploiesti_oil_fields_goal_desc: "Контроль над нефтяными месторождениями Плоешти — единственными в Европе — жизненно важен, чтобы обеспечить альянс топливом для продолжения войны."
+ control_baku_oil_fields_goal_name: "Контролировать бакинские месторождения нефти"
+ control_baku_oil_fields_goal_desc: "Захват бакинских месторождений нефти даст нам доступ к обширным запасам углеводородов, без которых военные операции невозможны."
+ control_panama_canal_goal_name: "Контролировать Панамский канал"
+ control_panama_canal_goal_desc: "Контроль над Панамским каналом важен для быстрого перемещения флотов между Атлантическим и Тихим океанами и обеспечения стратегической гибкости."
+ control_gibraltar_goal_name: "Контролировать Гибралтар"
+ control_gibraltar_goal_desc: "Стратегическая база на Гибралтаре позволит нам контролировать перемещение судов между Средиземным морем и Атлантикой."
+ control_malta_goal_name: "Контролировать Мальту"
+ control_malta_goal_desc: "Контроль над Мальтой даст возможность дестабилизировать снабжение противника и обеспечит военное присутствие во всём Центральном Средиземноморье."
+ control_bosporus_goal_name: "Контролировать Босфор"
+ control_bosporus_goal_desc: "Захват пролива Босфор позволит нам контролировать все перемещения по воде между Черным и Средиземным морями."
+ control_dardanelles_goal_name: "Контролировать Дарданеллы"
+ control_dardanelles_goal_desc: "Удержание Дарданелл сделает возможным контроль над перемещением военных кораблей и торговых судов из Черного моря."
+ control_suez_canal_goal_name: "Контролировать Суэцкий канал"
+ control_suez_canal_goal_desc: "Обладание Суэцким каналом даст нам полный контроль над основной судоходной трассой между Европой и Азией и позволит быстро перебрасывать войска и ресурсы."
+ control_singapore_goal_name: "Контролировать Сингапур"
+ control_singapore_goal_desc: "Мощная укрепленная военно-морская база Сингапур господствует над Малаккским проливом и регулирует движение между Индийским и Тихим океанами. Она должна быть нашей."
+  
+  # Long term goals 
+ industrial_domination_goal_name: "Расширить гражданскую промышленность"
+ industrial_domination_goal_desc: "Современная война держится на производственных мощностях. Давайте сделаем так, чтобы с нашими мощностями не смог сравниться никто в мире."
+ rule_the_waves_goal_name: "Править морями"
+ rule_the_waves_goal_desc: "Чтобы покорить мировой океан, понадобится великая армада. Основой её станут крупные корабли."
+ rule_the_waves_tech_bonus: "Бонус цели «Править морями»"
+ strategic_bombing_campaign_goal_name: "Кампания стратегических бомбардировок"
+ strategic_bombing_campaign_goal_desc: "Крупномасштабная кампания стратегических бомбардировок позволит планомерно подорвать промышленный потенциал противника, чтобы истощить его силы."
+ liberate_territory_goal_name: "Освободить наши территории"
+ liberate_territory_goal_desc: "Враг оккупировал наши земли. Их освобождение должно стать для нас первоочередной целью."
+ great_offensive_goal_name: "Провести масштабное наступление"
+ great_offensive_goal_desc: "Масштабное наступление с захватом вражеской территории станет нашим первым шагом к окончательной победе в войне."
+  
+  # Goal Effect Tooltips 
+ FACTION_NAME: "§Y[ROOT.GetFactionName]§!"
+ ALL_FACTION_MEMBERS: "§YВсе участники альянса:§!"
+ THE_FACTION_LEADER: "§YЛидер альянса:§!"
+ THE_SPY_MASTER: "§YРуководитель разведсети:§!"
+ TARGET_STATE_CONTROLLERS: "§YВладельцы целей-регионов:§!"
+ FACTION_CONTROLLED_STATES: "§YРегионы под контролем альянса:§!"
+ INFLUENCE_TOP_THREE: "§Y3 участника альянса§! с наибольшим влиянием:"
+ INFLUENCE_TOP_TWO: "§Y2 участника альянса§! с наибольшим влиянием:"
+ INFLUENCE_ABOVE_30_PERCENT: "§YВсе участники альянса§!, имеющие хотя бы 30% влияния:"
+ AT_LEAST_70_OIL: "§YВсе участники альянса§!, имеющие хотя бы 70 ед. нефти:"
+ AT_LEAST_50_CIVS: "§YКаждый участник альянса§!, имеющий хотя бы §Y50 фабрик§!"
+ AT_LEAST_50_MILS: "§YКаждый участник альянса§!, имеющий хотя бы §Y50 военных заводов§!"
+ AT_LEAST_100_MILS_CIVS: "§YКаждый участник альянса§!, имеющий хотя бы §Y100 военных заводов§!"
+ AT_LEAST_500_FACTORIES: "§YКаждый участник альянса§!, суммарно контролирующий хотя бы §Y500 военных заводов, фабрик и верфей§!"
+  
+ GUERILLA_TOTAL_ABOVE_THRESHOLD: "Партизанские действия ведутся более чем в 4 регионах"
+ GUERILLA_ABOVE_THRESHOLD: "Каждый участник альянса, спровоцировавший хотя бы 2 атаки партизан:"
+ OWNS_LISTED_STATE: "Каждый участник альянса, владеющий одним из регионов:"
+ HAS_AT_LEAST_5K_INFANTRY_EQUIPMENT: "§YКаждый участник альянса§!, имеющий в запасе хотя бы 5000 ед. пехотного снаряжения"
+ HAS_DEPLOYED_AT_LEAST_5M_MANPOWER: "§YКаждый участник альянса§!, развернувший хотя бы 5 млн людских ресурсов"
+ ONE_PANZER_GENERAL: "§YOne General§! with either the §Y$panzer_leader$§! or the §Y$panzer_expert$§! trait:" #NT!
+ ONE_INFANTRY_GENERAL: "§YOne General§! with either the §Y$infantry_leader$§! or the §Y$infantry_expert$§! trait:" #NT!
+ ONE_ADMIRAL: "§YOne Admiral§!:" #NT!
+ ONE_GENERAL: "§YOne Generall§!:" #NT!
+ ALL_FACTION_MEMBERS_WITH_1_MARINE: "§YКаждый участник альянса§! использует хотя бы 1 дивизию §Yморской пехоты§!"
+ ALL_FACTION_MEMBERS_WITH_25_SUBMARINES: "§YКаждый участник альянса§! использует хотя бы 25 §Yподводных лодок§!"
+ ALL_FACTION_MEMBERS_WITH_25_SCREENING_SHIPS: "§YКаждый участник альянса§! использует хотя бы 25 §Yкораблей охранения§!"
+ ALL_FACTION_MEMBERS_WITH_250_FIGHTERS: "§YКаждый участник альянса§! использует хотя бы 250 §Yистребителей§!"
+ ALL_FACTION_MEMBERS_WITH_50_BOMBERS: "§YКаждый участник альянса§! использует хотя бы 50 §Yстратегических бомбардировщиков§!"
+ ENEMY_FACTION_STATES_BOMBED: "В последние 30 дней велась бомбардировка §Yвражеских национальных территорий§!"
+ FACTION_CORE_STATES_NOT_FULLY_CONTROLLED: "§YНациональные территории альянса§! не полностью под контролем §Yучастников альянса§!"
+ ENEMY_FACTION_CORE_STATES_CONTROLLED_BY_US: "§YНациональные территории вражеского альянса§! под контролем §Yучастников альянса§!"
+ PEACE_CONFERENCE_WINNERS: "Все страны-участницы мирной конференции на стороне победителя:"
+ SHORT_TERM: "Краткосрочный"
+ MEDIUM_TERM: "Среднесрочный"
+ LONG_TERM: "Долгосрочный"
+ ALL_FACTION_MEMBERS_INFLICTED_250K_CASUALTIES: "§YКаждый участник альянса§!, нанесший более 250 000 потерь врагу:"
+  
+ # SEA faction upgrades 
+ FACTION_UPGRADE_NAME_WITH_FACTION: "$FACTIONNAME|H$: $UPGRADENAME|$"
+ FACTION_UPGRADE_RESEARCH_NAME: "Обмен исследованиями $INDEX|H$"
+ FACTION_UPGRADE_RESEARCH_DESC: "Бонус к §Hисследованиям§!, если другой участник альянса уже исследовал ту же §Hтехнологию§!. Его можно получить, назначив §Hдополнительных ученых§! в §Hкомплексах§! §Hальянса§!."
+ FACTION_UPGRADE_FIRST_DESC: "Добавляется $NAME|H$, что дает: $VAL|.00H%$ $DESC$"
+ FACTION_UPGRADE_INCREASE: "Повысить"
+ FACTION_UPGRADE_DECREASE: "Понизить"
+ FACTION_UPGRADE_INCREASE_DESC_PERCENTILE: "Повышение бонуса с $OLDVAL|.00H%$ до $VAL|.00H%$"
+ FACTION_UPGRADE_DECREASE_DESC_PERCENTILE: "Понижение бонуса с $OLDVAL|.00H%$ до $VAL|.00H%$"
+ FACTION_UPGRADE_INCREASE_DESC: "Повышение бонуса с $OLDVAL|.1H$ до $VAL|.1H$"
+ FACTION_UPGRADE_DECREASE_DESC: "Понижение бонуса с $OLDVAL|.1H$ до $VAL|.1H$"
+ FACTION_UPGRADE_BONUS_PERCENTILE: "$VALUE|.00H%$"
+ FACTION_UPGRADE_BONUS: "$VALUE|.1H$"
+ FACTION_UPGRADE_NOT_ENOUGH_INITIATIVE: "£trigger_no£Недостаточно инициативы. Требуется: $VALUE|.0H$"
+ FACTION_UPGRADE_NO_FACTION: "Чтобы добавить улучшение альянса, необходимо состоять в нем"
+ FACTION_UPGRADE_BELOW_MINIMUM: "Не отвечает минимальным требованиям альянса"
+ FACTION_UPGRADE_NO_UPGRADE: "§RДостигнут предел§!"
+ FACTION_UPGRADE_INTELLIGENCE: "Обмен разведданными $INDEX|H$"
+ FACTION_UPGRADE_INTELLIGENCE_DESC: "Бонус к улучшению филиалов агентства, если другой член альянса уже исследовал это улучшение."
+ FACTION_UPGRADE_INTELLIGENCE_NAME_BONUS: "Обмен разведданными в альянсе: $BONUS|.0%$"
+  
+ FACTION_UPGRADE_INTELLIGENCE_BONUS_DESC: "Благодаря §Hобмену разведданными§! в альянсе вы можете §Hулучшать агентства§! на $BONUS|H.0%$ быстрее, если другой участник альянса уже открыл это §Hулучшение§!.\n\nВаш альянс может обмениваться большим объемом §Hразведданных§!, если §Hсотрудниками агентства§! являются представители вашего альянса."
+ FACTION_UPGRADE_DOCTRINE: "Обмен доктринами"
+ FACTION_DOCTRINE_SHARING_TITLE: "§HОбмен военной доктриной§!"
+ FACTION_DOCTRINE_SHARING_FOLDER_TITLE: "§HОбмен военной доктриной:§! $FOLDER_NAME$"
+ FACTION_DOCTRINE_SHARING_EXPLANATION: "Doctrine sharing gives a £doctrine_mastery §HMastery§! bonus to any subdoctrine for which another faction  member already has higher mastery." #NT!
+ FACTION_DOCTRINE_SHARING_TRACK_BONUSES_TITLE: "$TRACK_NAME|H$ — доступны бонусы:"
+ FACTION_DOCTRINE_SHARING_ACTIVE_BONUS: "$COUNTRY_FLAG$ $SUBDOCTRINE_NAME|H$ (до £doctrine_mastery $MASTERY|H0$)"
+ FACTION_UPGRADE_DOCTRINE_BONUS: "£doctrine_mastery $VALUE|0H$"
+ FACTION_UPGRADE_DOCTRINE_BONUS_EXPLANATION: "Бонус обмена доктриной, когда активен: £doctrine_mastery $VALUE|0H$ §Hочк. освоения§! в месяц."
+ FACTION_UNLOCK_DOCTRINE_SHARING: "§GЩелкните§!, чтобы открыть обмен доктриной «$FOLDER_NAME|H$»"
+ FACTION_UNLOCK_DOCTRINE_SHARING_CANNOT: "§RНевозможно§! открыть обмен доктриной «$FOLDER_NAME|H$»"
+ FACTION_UNLOCK_DOCTRINE_SHARING_NOT_UNLOCKED: "§RОбмен доктриной еще не открыт§!"
+ FACTION_DOCTRINE_SHARING_ACTIVE: "§GОбмен доктриной действует§!"
+ FACTION_DOCTRINE_SHARING_POPUP_DESC: "Are you sure you want to spend £faction_initiative_texticon $COST|H0$ on unlocking doctrine sharing for  $FOLDER_NAME|H$?" #NT!
+ FACTION_DOCTRINE_SHARING_BONUS_FROM_COMMANDERS: "- From $NUM_COMMANDERS|H$ theatre commanders: $VALUE|+=0$" #NT!
+ FACTION_DOCTRINE_SHARING_BONUS_INCREASE_PROMPT: "Theatre commanders can increase the bonus by £doctrine_mastery $BONUS_PER_COMMANDER|0H$ per commander. " #NT!
+ FACTION_TOTAL_SUBDOCTRINES: "Второстепенные доктрины альянса: $AMOUNT|H$"
+ FACTION_TOTAL_SUBDOCTRINES_EXPLANATION: "Участники альянса сейчас зарабатывают £doctrine_mastery §Hочки освоения§! в следующих уникальных доктринах ($AMOUNT|H$):"
+ FACTION_TOTAL_SUBDOCTRINES_IN_FOLDER: "$FOLDER_NAME$: второстепенных доктрин — $AMOUNT|H$"
+ FACTION_VIEW_OPEN_DOCTRINES: "§GЩелкните§! для перехода на экран доктрин"
+ INTELLIGENCE_ADDITIONAL_UPGRADE_BONUS: "Снижение времени улучшения за счет:"
+ INTELLIGENCE_OPPURTUNITIES: "Бонус к скорости улучшения агентства в следующих улучшениях:"
+ INTELLIGENCE_OPPURTUNITIES_ITEM: "$NAME|H$"
+ FACTION_RECRUIT_SPIES_BUTTON: "Завербовать шпионов"
+  
+ # SEA faction commander 
+ FACTION_COMMANDER_ALREADY_UNLOCKED_WARNING: "§RTheatre commander is already unlocked by: $COUNTRY|H$§!" #NT!
+ FACTION_COMMANDER_ALREADY_UNLOCKED_WARNING_PORTRAIT: "§RTheatre commander can only be set by: $COUNTRY|H$§!" #NT!
+ FACTION_COMMANDER_PORTRAIT: "Click to assign a Theatre Commander" #NT!
+ FACTION_THEATER_CREATE_BUTTON: "Add Theatre £faction_initiative_texticon£ $VALUE$" #NT!
+ FACTION_COMMANDER_EXT_DESC: "Only the country that unlocked the theatre can assign a Theatre Commander, eligible candidates include §HField Marshals§! and §HAdmirals§!." #NT!
+ FACTION_COMMANDER_DESC: "Theatre Commanders transfer a share of the £doctrine_mastery §HMastery§! earned by other faction members within the theatre to their own country, based on their §HAttack§! and §HDefense§! skills.\nThey also reduce §HSupply Consumption§! based on their §HLogistics§! and §HPlanning§! skills.\n\n" #NT!
+  
+ #SEA faction member upgrades 
+ FACTION_MANPOWER_CONTRIBUTION: "Передача людских ресурсов"
+ FACTION_MANPOWER_CONTRIBUTION_DESC: "Передайте часть вашего ежемесячного прироста людских ресурсов в резерв §Hгарнизона§! вашего альянса."
+ FACTION_MANPOWER_NO_CONTRIBUTION_DESC: "Передайте часть ваших ежемесячных людских ресурсов (£manpower_texticon $VALUE|H0%$) в резерв §Hгарнизона§! вашего альянса."
+ FACTION_MANPOWER_CONTRIBUTION_VALUE_DESC: "Передайте часть вашего ежемесячного прироста людских ресурсов (£manpower_texticon $VALUE|H0%$) в резерв §Hгарнизона§! вашего альянса."
+ REQUEST_FACTION_MANPOWER: "Попросить поддержку гарнизона"
+ REQUEST_FACTION_MANPOWER_BUTTON: "Запросить гарнизон"
+ REQUEST_FACTION_MANPOWER_DESC: "Manpower needed to maintain your occupation laws: $NEEDED|H*$ \nTotal manpower in the pool that is not from your country: $FREE|H*$\n\nContribution score: $COST|.0+=$" #NT!
+ REQUEST_FACTION_MANPOWER_VALUES: "$VAL|^1H$"
+ FACTION_MANPOWER_VALUE: "£manpower_texticon£ $VALUE$"
+ REQUEST_FACTION_MANPOWER_BUTTON_NO_MANPOWER: "There is no manpower to make use of!" #NT!
+ REQUEST_FACTION_MANPOWER_BUTTON_NO_GARRISON_NEEDED: "You aren't in need any garrison support currently." #NT!
+ REQUEST_FACTION_MANPOWER_BUTTON_DESC: "Здесь мы можем запросить людские ресурсы для заполнения любых пустующих гарнизонов на территории, которую мы в настоящее время оккупируем, чтобы не истощать людские ресурсы наших собственных армий."
+ FACTION_MANPOWER_DESC: "Общие людские ресурсы в резерве: $ALL|H*$ \nПереданные вами ресурсы: $YOUR|H*$\nДоступные для выведения ресурсы: $FREE|H*$\n"
+ FACTION_MEMBER_UPGRADE_BELOW_MIN: "§RНе отвечает минимальным требованиям альянса.§!"
+  
+ #SEA Strategic Region 
+ FACTION_THEATER_HEADER: "Faction Theatre" #NT!
+ FACTION_THEATER_DESC: "Faction Theatres are coordinated regions led by a §HTheatre Commander§!. The number of regions and participating countries depends on the commander's Skill Level. Commanders gain experience and their nations gain £doctrine_mastery §HDoctrine Mastery§! from allied combat within their Theatre." #NT!
+ FACTION_STRAT_REGION_INSTRUCTION: "Закрепить участников альянса за регионами"
+ FACTION_STRAT_REGION_ARMY: "Общее число дивизий"
+ FACTION_STRAT_REGION_NAVY: "Общее число оперативных соединений"
+ FACTION_STRAT_REGION_NOT_OWNER: "§RFaction Theatres can only be controlled by its owner§! ($COUNTRY|H$)" #NT!
+ FACTION_STRAT_REGION_DESC: "$THEATER_NAME|H$\n\nAppoint a §YTheatre Commander§! to oversee joint operations in the selected regions, enhancing coordination and efficiency of both army and naval forces.\n\n" #NT!
+ FACTION_STRAT_REGION_DESC_ENTRY: "- $REGION|H$"
+ DELETE_FACTION_THEATER: "§RDelete§! Faction Theatre" #NT!
+ ADD_FACTION_THEATER_TITLE: "§HCreate a new Faction Theatre§!" #NT!
+ CREATE_FACTION_THEATER: "Создать: $VALUE|H0$ £faction_initiative_texticon£"
+ FACTION_COUNTRY_ALREADY_IN_THEATER: "§RAlready assigned to a theatre§!" #NT!
+ FACTION_SUPREME_COMMANDER_MAX_NUM_COUNTRY_REACHED: "§RКомандующий не может возглавлять еще больше государств§!"
+ FACTION_THEATER_CLICK_TO_SELECT: "§GClick§! to select theatre" #NT!
+ FACTION_THEATER_MISSING_COMMANDER: "§YНазначьте командующего§!, чтобы выбрать\nстраны и регионы, на которых\nон должен сосредоточиться.\n\nДоступные участники альянса: $AVAILABLE|H$"
+ FACTION_THEATER_ADD_COUNTRY: "§GЩелкните§!, чтобы добавить государство $COUNTRY|H$"
+ FACTION_THEATER_REMOVE_COUNTRY: "§GЩелкните§!, чтобы убрать государство $COUNTRY|H$"
+ FACTION_THEATER_COUNTRY_ITEM_DESC: "Общее количество дивизий: $ARMY|H*$\nОбщее количество оперативных соединений: $NAVY|H*$"
+  
+ FACTION_THEATER_NOT_SELECTED_COUNTRIES: "Необходимо выбрать хотя бы одну страну."
+ FACTION_THEATER_NOT_SELECTED_REGION: "Необходимо выбрать хотя бы один регион на карте."
+  
+ #SEA Faction program 
+ FACTION_CANT_ASSIGN_SCIENTIST_SAME_COUNTRY: "Невозможно назначить еще одного ученого на собственный спецпроект"
+ FACTION_CANT_ASSIGN_SCIENTIST_MORE: "Дополнительно можно назначить только одного ученого"
+ FACTION_ASSIGN_SCIENTIST_COST: "£pol_power  $VALUE|0$"
+ FACTION_ASSIGN_SCIENTIST_COST_CANNOT_AFFORD: "£pol_power  §R$VALUE|0$§!"
+ FACTION_ASSIGN_SCIENTIST: "Щелкните, чтобы назначить в комплекс дополнительного ученого"
+ FACTION_UNASSIGN_SCIENTIST: "Отозвать дополнительного ученого"
+ FACTION_ASSIGN_FACILITY: "§HОткрыть доступ к комплексу§!"
+ FACTION_ASSIGN_FACILITY_DESC: "С доступом к комплексу по разработке специальных проектов другие участники альянса смогут назначить §Hдополнительных ученых§! ($NUMBER|H0$)"
+  
+ FACTION_UNASSIGN_PROJECT_POPUP_TITLE: "Закрыть доступ к комплексу"
+ FACTION_UNASSIGN_PROJECT_POPUP_DESC: "Закрыть доступ к комплексу в регионе $STATE_NAME|Y$?"
+  
+ #SEA Faction Intelligence Agency 
+ FACTION_NO_AGENCY: "Нет разведывательного агентства"
+ FACTION_AGENCY_ADD: "§GЩелкните, чтобы добавить $GROUP|H$§!"
+ FACTION_SPY_MASTER: "Руководитель разведки"
+ FACTION_HEAD_OF_CRYPTOLOGY: "Начальник криптологической службы"
+ FACTION_HEAD_OF_COUNTER_INTELLIGENCE: "Начальник контрразведки"
+ FACTION_HEAD_OF_OPERATIONS: "Начальник оперативного штаба"
+  
+ FACTION_UNLOCK_BUTTON: "Открыть £faction_initiative_texticon£ $VALUE$"
+ # SEA faction UI 
+ VIEW_EXISTING_FACTIONS: "Альянсы"
+ VIEW_FACTION: "Посмотреть альянсы"
+ CREATE_FACTION: "Создать альянс"
+ TYPE_FACTION_NAME: "Введите название альянса"
+ FACTION_SETUP_NAME_AND_ICON: "£trigger_no Вы должны выбрать §Hназвание альянса§! и §Hзнак различия§!"
+ FACTION_RULES_TITLE: "Правила альянса"
+ FACTION_GOALS_TITLE: "Цели альянса"
+ FACTION_GOALS_CANCEL_TRIGGER_HEADER: "§HЭта цель будет отменена, если:§!"
+ FACTION_GOALS_CANCEL_EFFECT_HEADER: "§HЭффекты отмены:§!"
+  
+ FACTION_CHANGE_RULE_ITEM_COST: " £faction_initiative_texticon£ $VALUE|.0$" #NT!
+ CREATE_FACTION_NO_DLC_DESC: "Заложите основу для создания военного альянса. Приглашайте в него другие государства. Участники альянса могут поддерживать друг друга в войне!"
+  
+ FOCUS_FILTER_POLITICAL_FACTION_GOAL_FILTER: "Политика альянса"
+ FOCUS_FILTER_INDUSTRY_FACTION_GOAL_FILTER: "Industrial Strength" #NT!
+ FOCUS_FILTER_INTERNAL_AFFAIRS_FACTION_GOAL_FILTER: "Внутригосударственные дела"
+ FOCUS_FILTER_RESEARCH_FACTION_GOAL_FILTER: "Исследования в рамках альянса"
+ FOCUS_FILTER_DIPLOMACY_FACTION_GOAL_FILTER: "International Diplomacy" #NT!
+ FOCUS_FILTER_ECONOMY_FACTION_GOAL_FILTER: "Economic Expansion" #NT!
+ FOCUS_FILTER_WAR_SUPPORT_FACTION_GOAL_FILTER: "Подготовка к войне"
+ FOCUS_FILTER_ANNEXATION_FACTION_GOAL_FILTER: "Завоевание"
+ FOCUS_FILTER_ARMY_XP_FACTION_GOAL_FILTER: "Расширения армии"
+ FOCUS_FILTER_NAVY_XP_FACTION_GOAL_FILTER: "Превосходство на море"
+ FOCUS_FILTER_AIR_XP_FACTION_GOAL_FILTER: "Господство в воздухе"
+ FOCUS_FILTER_POLITICAL_CHARACTER_FACTION_GOAL_FILTER: "Faction Organisation" #NT!
+ FOCUS_FILTER_CONSOLIDATION_FACTION_GOAL_FILTER: "Объединение"
+ resources_to_market_icon_FACTION_GOAL_FILTER: "Ресурсы"
+  
+ FACTION_FACILITY_NAME: "Центр совместных исследований"
+ FACTION_ACCESS_TO_RESEARCH_TAB: "Необходимо выполнить цель ($CATEGORY|H$): $NAME|H$"
+ FACTION_ACCESS_TO_MILITARY_TAB: "Необходимо выполнить цель ($CATEGORY|H$): $NAME|H$"
+  
+ faction_goal_unlock_research_name: "Развивать совместные исследования"
+ faction_goal_unlock_research_desc: "The development of superior advanced technology is not an idle pasttime, but a race against those who would use it to destroy us. Pooling our resources is the only way to ensure our advantage remains competitive." #NT!
+  
+ faction_goal_unlock_military_name: "Создать единую систему командования"
+ faction_goal_unlock_military_desc: "По мере укрепления наших связей мы должны быть готовы реагировать на изменчивую обстановку в мире. И для этого нам понадобятся хорошо подготовленные оперативные группы под единым командованием."
+  
+ FACTION_ACCESS_TAB_UNLOCK: "Открыть в вашем альянсе: $NAME|H$"
+ FACTION_ACCESS_TAB_LOCK: "Заблокировать в вашем альянсе: $NAME|H$"
+  
+ FACTION_ACCESS_TAB_REASEARCH: "Исследования в рамках альянса"
+ FACTION_ACCESS_TAB_MILITARY: "Военные операции альянса"
+  
+ FACTION_BUTTON_FACTION_NAME: "$NAME|H$"
+ FACTION_BUTTON_NAME: "§HАльянс§!"
+ FACTION_BUTTON_NO_FACTION: "§RНе в альянсе§!"
+ FACTION_BUTTON_JOIN_FACTION: "Чтобы разблокировать кнопку альянса, создайте его в политическом меню или присоединитесь к существующему альянсу."
+ FACTION_BUTTON_DESC: "Управлять альянсом, чтобы помочь союзникам и получить бонусы за вклад"
+ FACTION_BUTTON_COMPLETED_HEADER: "£trigger_yes Выполненные цели альянса:"
+ FACTION_BUTTON_CANCELED_HEADER: "£trigger_no Failed Faction Goals:" #NT!
+ FACTION_BUTTON_GOAL_NAME: "$GOALNAME|H$"
+ FACTION_BUTTON_GO_TO_GOALS_TAB: "Перейти на вкладку целей альянса, чтобы заменить цель"
+ FACTION_BUTTON_INITIATIVE: "Инициатива альянса: $VAL|H$"
+  
+ FACTION_INTEL_NO_ADVISOR: "Не назначен советник по разведке"
+ FACTION_INTEL_ADVISOR_NOT_ENOUGH_INITIATIVE: "§RНедостаточно инициативы§!"
+  
+ FACTION_INTEL_HEADER_SPYMASTER: "Руководитель разведки"
+ FACTION_INTEL_HEADER_CRYPTOLOGY: "Криптология"
+ FACTION_INTEL_HEADER_COUNTER: "Контрразведка"
+ FACTION_INTEL_HEADER_OPERATIONS: "Операции"
+  
+ FACTION_INTEL_OPEN_AGENCY_UPGRADES: "Открыть улучшения агентства"
+ FACTION_INTEL_NO_DEPARTMENT_CREATED: "§RНи одного департамента не создано§!"
+ FACTION_INTEL_NO_DEPARTMENT_CREATED_VISIBILITY: "Нельзя внести вклад, пока не будет создано §Hразведывательное агентство§!"
+ FACTION_INTEL_NOT_OWN_POSTION: "§RЭто не ваша должность§!"
+ FACTION_INTEL_ADVISOR: "Советник по разведке"
+ FACTION_INTEL_TAKE_OVER: "Захватить $VALUE$ £faction_initiative_texticon£"
+ FACTION_INTEL_SHARING_BONUS: "§HБонус обмена разведданными:§! $NUM|+=%.0$"
+ FACTION_INTEL_OWNER: "§HДля государства, занимающего эту должность:§!"
+ FACTION_INTEL_OTHERS: "§HДля других государств, если должность занята:§!"
+ FACTION_INTEL_HEAD_OF_SPYMASTER: "§HРуководитель разведки§!"
+ FACTION_INTEL_HEAD_OF_CRYPTOLOGY: "Начальник криптологической службы"
+ FACTION_INTEL_HEAD_OF_COUNTER: "Начальник контрразведки"
+ FACTION_INTEL_HEAD_OF_OPERATIONS: "Начальник оперативного штаба"
+  
+ DIPLOMACY_NOT_FACTION_LEADER_KICK: "Возглавляет альянс"
+  
+ FACTION_INTEL_OPEN_AGENCY_WINDOW: "Открыть разведывательное агентство"
+ FACTION_INTEL_UNLOCK_SPYMASTER: "Стать руководителем разведки: $VALUE$ £faction_initiative_texticon£"
+ FACTION_INTEL_CLICK: "§GЩелкните, чтобы перейти на панель альянса§!"
+ FACTION_INTEL_SPY_GAIN: "$HEADOF$ $NUM|+=$"
+  
+ FACTION_INTEL_SPYMASTER_BONUS: "You are able to control more Operatives where the amount depends on the size of your Faction." #NT!
+ FACTION_INTEL_HEAD_OF_BONUS: "Ячейки для агентов: $NUM|+=$"
+ FACTION_INTEL_FROM_ADIVSOR: "§HОт советника:§!"
+ CREATE_FACTION_INVITE_TITLE: "Пригласить страны"
+ RECRUITABILITY_SORT: "Возможность найма"
+ INFLUENCE_SORT: "Влияние"
+ FACTION_INVITE_BUTTON: "Отправить приглашение"
+ FACTION_MEMBER_LIST_TITLE: "Участники альянса"
+ FACTION_INVITE_SHOW_UNAVAILABLE: "Показать недоступные страны"
+ CREATE_FACTION_INVITE_ALL: "Пригласить все готовые согласиться страны"
+ CREATE_FACTION_INVITE_AMOUNT: "(стран: $VAL|$)"
+ CREATE_FACTION_FACTION_LEADER: "Лидер альянса: $LEADER|H$"
+ CREATE_FACTION_FACTION_INFLUENCE: "$VAL|H$ начального §Hвлияния альянса§! (приблизительно):\n"
+ CREATE_FACTION_FACTION_INFLUENCE_ENTRY: "$ENTRY|$ ($VAL|.0H%$)\n"
+ CREATE_FACTION_IDENTITY_TITLE: "Отличительные черты альянса"
+ CREATE_FACTION_TEMPLATE_TITLE: "Шаблон альянса: $TEMPLATE|H$"
+ FACTION_GOAL_MODIFIERS: "\n§HТекущие модификаторы:§!"
+ NO_MODIFIERS: "§HНет действующих модификаторов. Повысьте прогресс своего манифеста!§!"
+ CHANGE_RULE_WINDOW_SUBTITLE: "Заменить правило альянса?"
+ CHANGE_GOAL_WINDOW_SUBTITLE: "§HВыбрать новую цель§!"
+ FACTION_GOAL_COMPLETION: "§HУсловия выполнения:§!"
+ FACTION_SP_OPEN_RESEARCH_WINDOW: "§GЩелкните§!, чтобы открыть §Hисследования в рамках альянса§!"
+ FACTION_INITIATIVE_TOOLTIP: "§HFaction Initiative§!\n\nSpend §YFaction Initiative§! to reshape the faction by changing §Hgoals§!, setting §Hrules§!, creating §HFaction Theatres§!, and more." #NT!
+ FACTION_INITIATIVE_EXPLANATION: "§gОчки инициативы начисляются преимущественно за выполнение целей. Иногда их можно получить за завершение фокусов и участие в событиях и других происшествиях в мире.§!"
+ FACTION_INITIATIVE_PROGRESS_TOOLTIP: "Продвижение к следующему очку инициативы: $PROGRESS|.3H$"
+ FACTION_INITIATIVE_PASSIVE_GENERATION_TOOLTIP: "Ежедневно вы получаете $DAILYPROGRESS|.3H$\nСледующее очко инициативы вы получите через $DAYS|.0H$ дн."
+ FACTION_INITIATIVE_PASSIVE_GENERATION_DESC: "§gFaction initiative is also passivly generated based on your manifesto progress and will be spread amongst members based on influence§!" #NT!
+ FACTION_RESEARCH_BUTTON: "Открытые исследования"
+ FACTION_RESEARCH_OPPORTUNITIES_NO_BONUS: "§RАльянс сейчас не делится исследованиями§!"
+ FACTION_RESEARCH_OPPORTUNITIES: "(возможности: $VAL|H$)"
+ FACTION_MANPOWERPOOL_LABEL: "ЛРА:"
+ FACTION_POWER_PROJECTION: "Демонстрация силы альянса: $VAL|0H$"
+ FACTION_INFLUENCE: "Влияние: $VAL|H$"
+ LEAVE_FACTION_BUTTON: "Выйти из альянса"
+ DISMANTLE_FACTION_BUTTON: "Распустить альянс"
+ FACTION_PING_CONFIRM_BUTTON: "Подтвердить"
+ FACTION_INFLUENCE_TITLE: "Влияние альянса"
+ FACTION_LEADER_TITLE: "§HЛидер альянса§!"
+ FACTION_SUPREME_COMMANDER_TITLE: "Theatre Commander" #NT!
+ FACTION_SUPREME_COMMANDER_POPUP_TITLE: "Assing Theatre Commander" #NT!
+ FACTION_THEATER_LEADER_POPUP_DESC_LOWER_SKILL_LEADER: "$NAME|H$ может возглавлять не более $REGION_LIMIT|H$ регионов и $COUNTRY_LIMIT|H$ стран."
+ FACTION_THEATER_MORE_IN_UI: "Сейчас выбрано регионов — $REGION_CURRENT|H$, а стран — $COUNTRY_CURRENT|H$"
+ FACTION_THEATER_MORE_IN_THEATER: "Currently, there are $REGION_CURRENT|H$ regions and $COUNTRY_CURRENT|H$ countries in the theatre" #NT!
+ FACTION_THEATER_CONTINUE: "Выбранные регионы и страны будут удалены. Продолжить?"
+ FACTION_MEMBERS_LIST_BUTTON: "Участники"
+ FACTION_INVITE_COUNTRIES_BUTTON: "Пригласить страны"
+ FACTION_INITIATIVE_COST: "£faction_initiative_texticon£ $VALUE|0$"
+ FACTION_INITIATIVE_COST_CANT_AFFORD: "§RНе хватает средств: £faction_initiative_texticon£ $VALUE|0$§!"
+ FACTION_PP_COST: "£pol_power£ $VALUE|0$"
+ FACTION_RULE_CONFRIMATION: "Изменить правило"
+ FACTION_RULE_CONFRIMATION_REMOVE: "Удалить правило"
+ FACTION_RULE_ALREADY_SET: "§RПравило уже используется§!"
+ FACTION_RULE_CONFRIMATION_DESC: "Вы действительно хотите изменить правило альянса с «$OLDRULENAME|H$» на «$NEWRULENAME|H$»? Это будет стоить $COST|.0H$ £faction_initiative_texticon£.\n\n$NEWRULEDESC$\n\n$OLDRULEDESC$"
+ FACTION_RULE_CONFRIMATION_DESC_REMOVE: "Вы действительно хотите удалить правило альянса «$CURRENTRULENAME|H$»? Это будет стоить $COST|.0H$ £faction_initiative_texticon£.\n\n$CURRENTRULEDESC$"
+ FACTION_RULE_CONFRIMATION_DESC_ADD: "Вы действительно хотите добавить правило альянса «$NEWRULENAME|H$»? Это будет стоить $COST|.0H$ £faction_initiative_texticon£.\n\n$NEWRULEDESC$"
+ FACTION_RULE_EDIT_ALL: "Все правила"
+ FACTION_RULE_AVAILABLE: "Rule Availability:" #NT!
+ FACTION_RULE_CAN_REMOVE: "The Rule can be removed if:" #NT!
+ FACTION_RULE_CANNOT_REMOVE: "§RНевозможно удалить:§!"
+ FACTION_RULE_TYPE_GROUP_TITLE: "$TYPE|$ — $GROUP|H$"
+ FACTION_RULE_SHOW_COMPLETED: "Показать выполненные цели"
+ FACTION_RULE_SHOW_UNAVAILABLE: "Показать недоступные цели"
+ FACTION_GOAL_EDIT_ALL: "Все цели"
+ FACTION_SP_FACILITIES: "Комплексы особых проектов"
+ FACTION_SP_OPEN_FACILITY: "Открыть комплекс: $COST|H$"
+ FACTION_BECOME_LEADER_BUTTON: "Возглавить"
+ FACTION_LEADER_ALREADY: "§R$COUNTRY|$ уже во главе альянса§!"
+ FACTION_LEADER_INFLUENCE_RATIO_TOO_LOW: "Слишком низкий показатель влияния альянса"
+ FACTION_ICON: "Значок"
+ FACTION_COLOR: "Colour" #NT!
+ ADD_FACILITY_BUTTON: "Добавить комплекс"
+ ADD_FACILITY_DESCRIPTION: "Действительно потратить $COST|.0$ £faction_initiative_texticon и включить комплекс «$FACILITYNAME|H$» в регионе $STATE|H$ в альянс $FACTIONNAME|H$, чтобы другие могли помогать вам в исследованиях?"
+ INTELLIGENCE_POPUP_DESCRIPTION: "Вы действительно хотите назначить: $GROUP|H$? Это будет стоить $COST|H$ £faction_initiative_texticon"
+ ADD_GOAL_TITLE: "Добавить цель"
+ ADD_GOAL_CANNOT_AFFORD: "§RНевозможно добавить цель: она стоит $COST|.0$ £faction_initiative_texticon§!"
+ REPLACE_GOAL_TT_ALREADY_SELECTED: "§RЦель уже активна§!"
+ ADD_GOAL_TT_ALREADY_COMPLETED: "§RЦель уже выполнена§!"
+ ADD_GOAL_TT_ALREADY_ATTEMPTED: "§RЦель уже пытались выполнить§!"
+  
+ REPLACE_GOAL_LOCKED: "§RЦель «$GOALNAME|H$» нельзя заменить до тех пор, пока она не будет выполнена!§!"
+ ADD_GOAL_TT_LOCK_WARNING: "§YПосле добавления цели ее нельзя заменить до тех пор, пока она не будет выполнена!§!"
+ REPLACE_GOAL_TT: "§GЩелкните, чтобы заменить§! цель «$GOALNAME|H$»"
+ REPLACE_GOAL_TT_COST: "Замена будет стоить $COST|.0$ £faction_initiative_texticon"
+ REPLACE_GOAL_TT_COST_CANNOT_AFFORD: "§RВы не можете заменить цель, так как смена будет стоить $COST|.0$ £faction_initiative_texticon§!"
+ ADD_GOAL_DESCRIPTION: "Вы действительно хотите добавить цель «$GOALNAME|H$»? Если вы захотите сменить ее, это обойдется вам в $COST|.0$ £faction_initiative_texticon"
+ ADD_GOAL_DESCRIPTION_FREE: "Вы действительно хотите добавить цель «$GOALNAME|H$»?"
+ GOAL_CONFIRMATION_DESCRIPTION_LOCKED: "§RПока цель не будет выполнена, заменить ее нельзя§!"
+ ADD_GOAL: "§GЩелкните, чтобы добавить цель§!"
+ REPLACE_GOAL_DESCRIPTION: "Are you sure you want to replace $OLDGOALNAME|H$ with $GOALNAME|H$?" #NT!
+ REPLACE_GOAL_DESCRIPTION_COST: "Are you sure you want to replace $OLDGOALNAME|H$ with $GOALNAME|H$? It will cost £faction_initiative_texticon $COST|.0$" #NT!
+ FACTION_FACILITY_COUNT: "Ячейки комплексов: $COUNT|H$/$MAX|H$"
+ FACTION_RESEARCH_FACILITY_NOT_ENOUGH_INITIATIVE: "§RНедостаточно инициативы для открытия нового исследовательского комплекса§!"
+ FACTION_RESEARCH_FACILITY_MAX_REACHED: "§RДостигнут предел исследовательских комплексов§!"
+ FACTION_SCIENTIST_ALREADY_ASSIGNED_AS_SUPPORT: "£trigger_no Уже работает дополнительным ученым в комплексе в регионе $STATE|Y$"
+  
+ FACTION_SUPREME_COMMANDER_TYPE_SORT_ALL: "Отображаются фельдмаршалы и адмиралы"
+ FACTION_SUPREME_COMMANDER_TYPE_SORT_FM: "Отображаются только фельдмаршалы"
+ FACTION_SUPREME_COMMANDER_TYPE_SORT_AD: "Отображаются только адмиралы"
+ FACTION_UNIT_IS_SUPREME_COMMANDER: "§RIs being used as a theatre commander§!" #NT!
+ FACTION_THEATER_MARSHAL_ADMIRAL_FILTER: "Фильтр по §Hфельдмаршалам§! или §Hадмиралам§!"
+  
+ NEW_FACTION_WINDOW_TITLE: "Выбрать §Hшаблон фракции§!"
+ NEW_FACTION_WINDOW_SHOW_UNAVAILABLE_CHECKBOX: "Показать недоступные шаблоны"
+ FACTION_CONFIRM_BECOME_LEADER_DESC: "Стать лидером альянса $FACTION|H$.\nЗатраты составят £pol_power£ $COST|G$. Другие члены альянса не смогут получить лидерство в течение $COOLDOWN|Y$ дн."
+ FACTION_SETUP_WINDOW_TITLE: "Создать альянс"
+ FACTION_SETUP_CREATE_FACTION_BUTTON: "Создать альянс"
+ FACTION_SETUP_INVITE_COUNTRIES_BUTTON: "Пригласить страны"
+ FACTION_CHOOSE_ICON: "Выберите знак различия"
+ FACTION_CHOOSE_COLOR: "Choose Map Colour" #NT!
+ CANNOT_REMOVE_FACTION_RULE: "§RНевозможно удалить правило «$RULE|H$»§!"
+ NEW_FACTION_WINDOW_GOAL: "Цели: $VALUE|H$"
+ NEW_FACTION_WINDOW_RULES: "Правила: $VALUE|H$"
+ NEW_FACTION_WINDOW_MANIFEST: "Манифест:\n$NAME|H$"
+ NEW_FACTION_WINDOW_RULES_TOOLTIP: "§HНачальные правила:§!"
+ NEW_FACTION_WINDOW_RULES_TOOLTIP_ENTRY: "$TYPE|H$\n— $NAME|$"
+ NEW_FACTION_WINDOW_GOALS_TOOLTIP: "§HНачальные цели:§!"
+ NEW_FACTION_WINDOW_GOALS_TOOLTIP_ENTRY: "— $NAME|$"
+ SETUP_FACTION_WINDOW_MANIFEST: "Манифест: $NAME|H$"
+  
+ SEE_FACTIONS_BUTTON: "Просмотреть альянсы"
+ FACTION_NO_MANIFEST: "Нет манифеста§R!§!"
+ RULES_TAB_LABEL: "Правила"
+ RESEARCH_TAB_LABEL: "Исследования"
+ ARMY_TAB_LABEL: "Вооруженные силы"
+ INDUSTRY_TAB_LABEL: "Промышленность"
+ INTELLIGENCE_TAB_LABEL: "Разведка"
+ FACTION_ADD_GOAL: "Добавить цель категории «$CATEGORY|H$»"
+  
+ #SEA Power Projection 
+ POWER_PROJECTION_FROM_EFFECTS: "Демонстрация силы от эффектов и целей: $VAL|0H$"
+ INDUSTRIAL_POWER_PROJECTION: "Демонстрация силы от промышленности: $VAL|0H$"
+ ARMY_POWER_PROJECTION: "Демонстрация силы от армии: $VAL|0H$"
+ NAVAL_POWER_PROJECTION: "Демонстрация силы от флота: $VAL|0H$"
+ AIR_POWER_PROJECTION: "Демонстрация силы от авиации: $VAL|0H$"
+ POWER_PROJECTION_IN_FACTION_RATIO: "Доля в общем вкладе: $VAL|H%$"
+ TOTAL_POWER_PROJECTION: "Суммарная демонстрация силы: $VAL|0H$"
+  
+ #SEA Influence 
+ CONTRIBUTION_INFLUENCE: "Влияние вклада: $VAL|H$ $MOD$"
+ WAR_SCORE_INFLUENCE: "Влияние военного счета: $VAL|H$ $MOD$"
+ FROM_EFFECTS_INFLUENCE: "Влияние событий: $VAL|H$ $MOD$"
+ INDUSTRIAL_CAPACITY_INFLUENCE: "Влияние промышленного потенциала: $VAL|H$ $MOD$"
+ FACTION_LEADER_BONUS_INFLUENCE: "Влияние лидера альянса по умолчанию: $VAL|H$ $MOD$"
+ TOTAL_INFLUENCE: "Суммарное влияние: $VAL|H$"
+ FACTION_INFLUENCE_PERCENTAGE: "($VAL|.0%$)"
+ FACTION_INFLUENCE_TOOLTIP_HEADER: "$NAME$ §H($VAL|.2H%$)§!"
+  
+ #SEA Contribution 
+ CONTRIBUTION_INFLUENCE_EXPECTED_GAIN: "§HОжидаемый объем получаемого вклада:\n§!"
+ CONTRIBUTION_SUPPORTIVE_SCIENTIST_EXPECTED_GAIN: "Дополнительные ученые: $VAL|H$ §Hв день§!"
+ CONTRIBUTION_MANPOWER_EXPECTED_GAIN: "Передача людских ресурсов: $VAL|H$ §Hв месяц§!"
+ CONTRIBUTION_EXPIDITIONARY_FORCES_EXPECTED_GAIN: "Экспедиционные войска: $VAL|H$ §Hв день§!"
+ CONTRIBUTION_SUBJECT_SCALER_EXPECTED_GAIN: "§RПолучаемый вклад составит §!$VAL|H%$ §Rввиду статуса субъекта§!"
+  
+ # SEA Faction Diplomacy 
+ DR_FACTION_POWER_PROJECTION: "Демонстрация силы альянса: "
+  
+ FACTION_THEATER_DEFAULT_NAME: "Faction Theatre $NUM$" #NT!
+ FACTION_THEATER_SELECT_ALL: "Выбрать максимальное количество"
+ FACTION_THEATER_NEW_THEATER_BUTTON: "New Theatre" #NT!
+ FACTION_THEATER_REGION_COUNT: "£state  $NUM$"
+ FACTION_THEATER_EXECUTION_MODE_LABEL: "Режим выполнения:"
+ FACTION_THEATER_TOOLTIP: "$THEATER|H$\nВладелец: @$OWNER_TAG$ $OWNER_NAME|H$\n$COMMANDER$\n\nВыбранные регионы — $NUM_REGIONS$:\n$REGIONS$\n\nНазначенные страны — $NUM_COUNTRIES$:\n$COUNTRIES$"
+ FACTION_THEATER_TOOLTIP_COUNTRY: "@$TAG$ $NAME|H$"
+ FACTION_THEATER_TOOLTIP_REGION: "$NAME|H$"
+ FACTION_THEATER_TOOLTIP_COMMANDER: "Командующий: $TITLE$ $NAME|H$"
+ FACTION_THEATER_TOOLTIP_NO_COMMANDER: "§RНет командующего!§!"
+ FACTION_THEATER_TOOLTIP_NO_REGIONS: "§RНет выбранных регионов!§!"
+ FACTION_THEATER_TOOLTIP_NO_COUNTRIES: "§RНет назначенных стран!§!"
+ FACTION_THEATER_TOOLTIP_DELAYED: "§GClick§! to select faction theatre" #NT!
+ FACTION_MAX_NUMBER_OF_THEATERS: "§RYou cannot create more than $NUM$ theatres!§!" #NT!
+ FACTION_THEATER_AMOUNT: "Faction theatres: §H$UNLOCKED$/$MAX$§!" #NT!
+ FACTION_THEATER_MAP_MODE_NO_OWNER: "§RYou are not the owner of this faction theatre.§! Only the owner is allowed to add strategic regions." #NT!
+ FACTION_THEATER_MAP_MODE_ADD: "§GClick§! to add $NAME|H$ to the theatre" #NT!
+ FACTION_THEATER_MAP_MODE_REMOVE: "§GClick§! to remove $NAME|H$ from the theatre" #NT!
+ FACTION_THEATER_MAP_MODE_MAX_REACHED: "§RДостигнуто максимальное количество регионов§!"
+ FACTION_THEATER_MAP_MODE_ADJACENT: "§RРегионы должны соседствовать друг с другом§!"
+ FACTIONS_THEATER_MAP_MODE_IN_OTHER_THEATER: "$NAME|H$ §Ralready assigned to another theatre§!" #NT!
+ FACTION_THEATER_MAP_MODE_NO_COMMANDER: "§RNo theatre commander assigned§!" #NT!
+ FACTION_THEATER_MAP_MODE_CANNOT_REMOVE_CUTPOINT: "§RУдаление невозможно, так как регионы должны соседствовать друг с другом§!"
+ FACTION_THEATER_REGION_COUNT_TOOLTIP: "A maximum of $MAX|H$ regions can be added to the region based on the theatre §HCommander’s Skill Level§!. \nCurrently $ADDED|H$ regions are added to the theatre.\n\nA region can only be added to a single theatre." #NT!
+ FACTION_THEATER_COUNTRY_COUNT_TOOLTIP: "A maximum of $MAX|H$ countries can be added to the region based on the theatre §HCommander’s Skill Level§!. \nCurrently $ADDED|H$ countries are added to the theatre.\n\nA country can only be added to a single theatre." #NT!
+ FACTION_THEATER_SUPPLY_BONUS_TOOLTIP: "Selected countries in a theatre receive $VAL$ §HSupply Consumption§! based on the commander's $SKILL1|H$ ($SKILL1VAL|H$) and $SKILL2|H$ ($SKILL2VAL|H$) skills.\n\nAn §HAdmiral§! will convery a higher bonus to naval supply consumption, whereas a §HField Marshal§! will convey a better bonus to land supply consumption." #NT!
+ FACTION_THEATER_SUPPLY_BONUS_TOOLTIP_ENTRY: "- $COUNTRY|H$"
+  
+ FACTION_THEATER_MASTERY_GAIN_TOOLTIP: "The commander's country receives $VAL|.1G%$ of the £doctrine_mastery §HMastery§! earned by other faction members in the theatre, based on the commander's $SKILL1|H$ ($SKILL1VAL|H$) and $SKILL2|H$ ($SKILL2VAL|H$) skills." #NT!
+ THEATER_COMMANDER_MASTERY_SKILL: "$VAL|%0$"
+  
+ FACTION_THEATER_SWITCH_TO_FACTION_VIEW_TOOLTIP: "Show Faction Theatres" #NT!
+ FACTION_THEATER_SWITCH_TO_THEATER_VIEW_TOOLTIP: "Show Country Theatres" #NT!
+  
+  # Sort 
+ RULES_SORT_NAME: "§GЩелкните§!, чтобы отсортировать по названию"
+ dismissal_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Отставка»§!"
+ change_leader_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Смена лидера»§!"
+ member_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Членство»§!"
+ contribution_rule_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Передача людских ресурсов»§!"
+ joining_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Присоединение»§!"
+ peace_conference_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Мирная конференция»§!"
+ war_declaration_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Объявление войны»§!"
+ call_to_war_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Призыв вступить в войну»§!"
+  
+  #Tabs 
+ FACTION_GOALS_TAB_TT: "§HЦели альянса§!\nЗдесь можно просматривать и изменять текущие цели."
+ FACTION_RULES_TAB_TT: "§HПравила альянса§!\nЗдесь можно просматривать и изменять правила, которые соблюдает ваш альянс."
+ FACTION_RESEARCH_TAB_TT: "§HИсследования в рамках альянса§!\nЗдесь можно учреждать комплексы для обмена знаниями и совместных исследований."
+ FACTION_ARMY_TAB_TT: "§HFaction Military Operations§!\nRequest garrison manpower, manage theatre commanders and faction theatres, and set up doctrine sharing." #NT!
+ FACTION_INTELLIGENCE_TAB_TT: "§HРазведка альянса§!\nЗдесь можно организовать обмен разведданными и сменить руководителя разведсети альянса."
+ FACTION_INTELLIGENCE_TAB: "Разведданные альянса"
+  #Ranking 
+ FACTION_RANKING: "Глобальный ранг: $VAL|H$"
+ FACTION_POWER_RANKING_TOOLTIP: "§HРанг альянса§!\n\n§HДемонстрация силы альянса§! составляет $VAL|0H$. Ввиду этого ранг нашего альянса в мире — $RANK|H$."
+ RANK_TEXT_FACTION: "$VALUE|H$"
+ POWER_PROJECTION_BLURB: "\n§gОт демонстрации силы альянса зависит готовность стран принимать приглашения в альянс. Также этот показатель позволяет влиять на исходы мирных конференций, если те зашли в тупик.§!"
+ COUNTRY_FPP_ITEM: "$VALUE|0%H$"
+  
+ THEATER_ASSIGNED_COUNTRIES: "$NUM$/$MAX$"
+ THEATER_ASSIGNED_REGIONS: "$NUM$/$MAX$"
+ THEATER_SUPPLY_USAGE_MODIFIER: "$VAL|1%-$"
+ THEATER_COMMANDER_MODIFIER: "$NAME|H$ (альянс «$FACTION|H$» в театре военных действий «$THEATER|H$»): $VAL|0%-$"
+ THEATER_COMMANDER_SUPPLY_SKILL_DESC: "Благодаря навыкам планирования и логистики этот командующий снижает расход припасов на $VAL|H$"
+ FACTION_THEATER_POPUP_DESC: "Are you sure you want to spend £faction_initiative_texticon£ $COST|0H$ on creating a new faction theatre?" #NT!
+  
+ FACTION_THEATER_SHOW_PIN_TOOLTIP: "Toggle showing §HFaction Theatres§! in §HDefault§!, §HStrategic Navy§! and §HStrategic Air§! map modes." #NT!
+  
+ FACTION_EXECUTE_CAREFUL_DESC: "When the plan is carried out, units will not attack heavily fortified locations unless they are unmanned, and will avoid attacking provinces which will weaken the front line by making it longer.\n\n§gNote that this will only affect allied AI controlled units within the theatre, not any player controlled units.§!" #NT!
+ FACTION_EXECUTE_BALANCED_DESC: "The standard rules for carrying out battle plans are in effect. Units will attempt to advance in a manner that keeps the front line as short as possible and may attack fortified locations.\n\n§gNote that this will only affect allied AI controlled units within the theatre, not any player controlled units.§!" #NT!
+ FACTION_EXECUTE_RUSH_DESC: "Units will attack provinces if they are a part of the plan, even if it may mean that the front line becomes longer or may put units in exposed locations.\n\n§gNote that this will only affect allied AI controlled units within the theatre, not any player controlled units.§!" #NT!
+  
+ GARRISON_SUPPORT_SEND: "Запрашиваемые людские ресурсы поступят напрямую в гарнизоны на оккупированной нами территории."
+  
+ FOREIGN_MANIFEST_ENTRY: "§HМанифест§!: $MANIFEST$"
+ FOREIGN_GOAL_ITEM_ENTRY: "§HЦель§!: $NAME$"
+ SCALING_MODIFIER_SECTION_TITLE: "$faction_divider_dashes$\n\n§HКогда прогресс манифеста 100% (по шкале):§!"
+ SCALING_MODIFIER_SECTION_TITLE_REVERSED: "$faction_divider_dashes$\n\n§HКогда прогресс манифеста 0% (по шкале):§!"
+ faction_divider_dashes: "--------------"
+  
+ TRIGGER_HAS_ACTIVE_FACTION_RULE: "$COUNTRY_OR_FACTION|H$ с действующим правилом «$RULE|H$»"
+ TRIGGER_HAS_NOT_ACTIVE_FACTION_RULE: "$COUNTRY_OR_FACTION|H$ без действующего правила «$RULE|H$»"

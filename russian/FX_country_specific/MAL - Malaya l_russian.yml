@@ -1,0 +1,47 @@
+﻿l_russian:
+  
+ ### Country Names 
+ MAL_vanguardist: "Socialist Republic of Malaya" #NT!
+ MAL_vanguardist_DEF: "the Socialist Republic of Malaya" #NT!
+ MAL_vanguardist_ADJ: "Malayan" #NT!
+ MAL_collectivist: "Socialist Republic of Malaya" #NT!
+ MAL_collectivist_DEF: "the Socialist Republic of Malaya" #NT!
+ MAL_collectivist_ADJ: "Malayan" #NT!
+ MAL_libertarian_socialist: "Socialist Republic of Malaya" #NT!
+ MAL_libertarian_socialist_DEF: "the Socialist Republic of Malaya" #NT!
+ MAL_libertarian_socialist_ADJ: "Malayan" #NT!
+ MAL: "Malaya" #NT!
+ MAL_DEF: "the State of Malaya" #NT!
+ MAL_ADJ: "Malayan" #NT!
+  
+ MAL_vanguardist_party: "CPM" #NT!
+ MAL_vanguardist_party_long: "Communist Party of Malaysia (Parti Komunis Malaya)" #NT!
+ MAL_collectivist_party: "CPM" #NT!
+ MAL_collectivist_party_long: "Communist Party of Malaysia (Parti Komunis Malaya)" #NT!
+ MAL_libertarian_socialist_party: "Malay Nationalist Party" #NT!
+ MAL_libertarian_socialist_party_long: "Malay Nationalist Party of Malaya (Parti Kebangsaan Melayu Malaya)" #NT!
+ MAL_social_democrat_party: "Malay Congress-Socialists" #NT!
+ MAL_social_democrat_party_long: "Malay Congress-Socialists (Kongres Melayu)" #NT!
+ MAL_social_liberal_party: "Malay Congress-Liberals" #NT!
+ MAL_social_liberal_party_long: "Malay Congress-Liberals (Kongres Melayu)" #NT!
+ MAL_market_liberal_party: "Singapore Malay Union" #NT!
+ MAL_market_liberal_party_long: "Singapore Malay Union (Kesatuan Melayu Singapura)" #NT!
+ MAL_social_conservative_party: "Malay Congress-Conservatives" #NT!
+ MAL_social_conservative_party_long: "Malay Congress-Conservatives (Kongres Melayu)" #NT!
+ MAL_authoritarian_democrat_party: "Muslim People's Party of Malaya" #NT!
+ MAL_authoritarian_democrat_party_long: "Muslim People's Party of Malaya (Parti Hizbul Muslimin Malaya)" #NT!
+ MAL_paternal_autocrat_party: "All-Malaya Ulema Association" #NT!
+ MAL_paternal_autocrat_party_long: "All-Malaya Ulema Association (Persatuan Ulama Se-Malaya)" #NT!
+ MAL_national_populist_party: "Special Strength of the People" #NT!
+ MAL_national_populist_party_long: "Special Strength of the People (Kekuatan Rakyat Istimewa Semenanjung)" #NT!
+ MAL_valkist_party: "Special Strength of the People" #NT!
+ MAL_valkist_party_long: "Special Strength of the People (Kekuatan Rakyat Istimewa Semenanjung)" #NT!
+  
+ MAL_british_party: "British Administration" #NT!
+ MAL_british_party_long: "British Administration" #NT!
+  
+ MAL_Shenton_Thomas: "Shenton Thomas" #NT!
+  
+ MAL_UK: "British Malaya" #NT!
+ MAL_UK_ADJ: "British Malayan" #NT!
+ MAL_UK_DEF: "British Malaya" #NT!

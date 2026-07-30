@@ -1,0 +1,279 @@
+﻿l_russian:
+  
+ ### Country Names 
+ SER_vanguardist: "Serbia" #NT!
+ SER_vanguardist_ADJ: "Serbian" #NT!
+ SER_vanguardist_DEF: "the Socialist Federative Republic of Serbia" #NT!
+ SER_collectivist: "Serbia" #NT!
+ SER_collectivist_ADJ: "Serbia" #NT!
+ SER_collectivist_DEF: "the Socialist Federative Republic of Serbia" #NT!
+ SER_libertarian_socialist: "Serbia" #NT!
+ SER_libertarian_socialist_ADJ: "Serbian" #NT!
+ SER_libertarian_socialist_DEF: "the Socialist Federative Republic of Serbian" #NT!
+ SER_social_democrat: "Serbia" #NT!
+ SER_social_democrat_ADJ: "Serbian" #NT!
+ SER_social_democrat_DEF: "the Kingdom of Serbia" #NT!
+ SER_social_liberal: "Serbia" #NT!
+ SER_social_liberal_ADJ: "Serbian" #NT!
+ SER_social_liberal_DEF: "the Kingdom of Serbia" #NT!
+ SER_market_liberal: "Serbia" #NT!
+ SER_market_liberal_ADJ: "Serbian" #NT!
+ SER_market_liberal_DEF: "the Kingdom of Serbia" #NT!
+ SER_social_conservative: "Serbia" #NT!
+ SER_social_conservative_ADJ: "Serbian" #NT!
+ SER_social_conservative_DEF: "the Kingdom of Serbia" #NT!
+ SER_authoritarian_democrat: "Serbia" #NT!
+ SER_authoritarian_democrat_ADJ: "Serbian" #NT!
+ SER_authoritarian_democrat_DEF: "the Kingdom of Serbia" #NT!
+ SER_paternal_autocrat: "Serbia" #NT!
+ SER_paternal_autocrat_ADJ: "Serbian" #NT!
+ SER_paternal_autocrat_DEF: "the Kingdom of Serbia" #NT!
+ SER_national_populist: "Serbia" #NT!
+ SER_national_populist_ADJ: "Serbian" #NT!
+ SER_national_populist_DEF: "the Kingdom of Serbia" #NT!
+ SER_valkist: "Serbia" #NT!
+ SER_valkist_ADJ: "Serbian" #NT!
+ SER_valkist_DEF: "the State of Serbia" #NT!
+  
+ SER_republic_vanguardist: "Serbia" #NT!
+ SER_republic_vanguardist_ADJ: "Serbian" #NT!
+ SER_republic_vanguardist_DEF: "the Socialist Federative Republic of Serbia" #NT!
+ SER_republic_collectivist: "Serbia" #NT!
+ SER_republic_collectivist_ADJ: "Serbia" #NT!
+ SER_republic_collectivist_DEF: "the Socialist Federative Republic of Serbia" #NT!
+ SER_republic_libertarian_socialist: "Serbia" #NT!
+ SER_republic_libertarian_socialist_ADJ: "Serbian" #NT!
+ SER_republic_libertarian_socialist_DEF: "the Socialist Federative Republic of Serbian" #NT!
+ SER_republic_social_democrat: "Serbia" #NT!
+ SER_republic_social_democrat_ADJ: "Serbian" #NT!
+ SER_republic_social_democrat_DEF: "the Serbian Republic" #NT!
+ SER_republic_social_liberal: "Serbia" #NT!
+ SER_republic_social_liberal_ADJ: "Serbian" #NT!
+ SER_republic_social_liberal_DEF: "the Serbian Republic" #NT!
+ SER_republic_market_liberal: "Serbia" #NT!
+ SER_republic_market_liberal_ADJ: "Serbian" #NT!
+ SER_republic_market_liberal_DEF: "the Serbian Republic" #NT!
+ SER_republic_social_conservative: "Serbia" #NT!
+ SER_republic_social_conservative_ADJ: "Serbian" #NT!
+ SER_republic_social_conservative_DEF: "the Serbian Republic" #NT!
+ SER_republic_authoritarian_democrat: "Serbia" #NT!
+ SER_republic_authoritarian_democrat_ADJ: "Serbian" #NT!
+ SER_republic_authoritarian_democrat_DEF: "the Serbian Republic" #NT!
+ SER_republic_paternal_autocrat: "Serbia" #NT!
+ SER_republic_paternal_autocrat_ADJ: "Serbian" #NT!
+ SER_republic_paternal_autocrat_DEF: "the Serbian State" #NT!
+ SER_republic_national_populist: "Serbia" #NT!
+ SER_republic_national_populist_ADJ: "Serbian" #NT!
+ SER_republic_national_populist_DEF: "the Serbian State" #NT!
+ SER_republic_valkist: "Serbia" #NT!
+ SER_republic_valkist_ADJ: "Serbian" #NT!
+ SER_republic_valkist_DEF: "the State of Serbia" #NT!
+  
+ YUG_vanguardist: "Yugoslavia" #NT!
+ YUG_vanguardist_ADJ: "Yugoslav" #NT!
+ YUG_vanguardist_DEF: "the Socialist Federative Republic of Yugoslavia" #NT!
+ YUG_collectivist: "Yugoslavia" #NT!
+ YUG_collectivist_ADJ: "Yugoslav" #NT!
+ YUG_collectivist_DEF: "the Socialist Federative Republic of Yugoslavia" #NT!
+ YUG_libertarian_socialist: "Yugoslavia" #NT!
+ YUG_libertarian_socialist_ADJ: "Yugoslav" #NT!
+ YUG_libertarian_socialist_DEF: "the Socialist Federative Republic of Yugoslavia" #NT!
+ YUG_social_democrat: "Yugoslavia" #NT!
+ YUG_social_democrat_ADJ: "Yugoslav" #NT!
+ YUG_social_democrat_DEF: "the Kingdom of Yugoslavia" #NT!
+ YUG_social_liberal: "Yugoslavia" #NT!
+ YUG_social_liberal_ADJ: "Yugoslav" #NT!
+ YUG_social_liberal_DEF: "the Kingdom of Yugoslavia" #NT!
+ YUG_market_liberal: "Yugoslavia" #NT!
+ YUG_market_liberal_ADJ: "Yugoslav" #NT!
+ YUG_market_liberal_DEF: "the Kingdom of Yugoslavia" #NT!
+ YUG_social_conservative: "Yugoslavia" #NT!
+ YUG_social_conservative_ADJ: "Yugoslav" #NT!
+ YUG_social_conservative_DEF: "the Kingdom of Yugoslavia" #NT!
+ YUG_authoritarian_democrat: "Yugoslavia" #NT!
+ YUG_authoritarian_democrat_ADJ: "Yugoslav" #NT!
+ YUG_authoritarian_democrat_DEF: "the Kingdom of Yugoslavia" #NT!
+ YUG_paternal_autocrat: "Yugoslavia" #NT!
+ YUG_paternal_autocrat_ADJ: "Yugoslav" #NT!
+ YUG_paternal_autocrat_DEF: "the Kingdom of Yugoslavia" #NT!
+ YUG_national_populist: "Yugoslavia" #NT!
+ YUG_national_populist_ADJ: "Yugoslavia" #NT!
+ YUG_national_populist_DEF: "the Kingdom Of Yugoslavia" #NT!
+ YUG_valkist: "Yugoslavia" #NT!
+ YUG_valkist_ADJ: "Yugoslav" #NT!
+ YUG_valkist_DEF: "the Kingdom Of Yugoslavia" #NT!
+  
+ YUG_republic_vanguardist: "Yugoslavia" #NT!
+ YUG_republic_vanguardist_ADJ: "Yugoslav" #NT!
+ YUG_republic_vanguardist_DEF: "the Socialist Federative Republic of Yugoslavia" #NT!
+ YUG_republic_collectivist: "Yugoslavia" #NT!
+ YUG_republic_collectivist_ADJ: "Yugoslav" #NT!
+ YUG_republic_collectivist_DEF: "the Socialist Federative Republic of Yugoslavia" #NT!
+ YUG_republic_libertarian_socialist: "Yugoslavia" #NT!
+ YUG_republic_libertarian_socialist_ADJ: "Yugoslav" #NT!
+ YUG_republic_libertarian_socialist_DEF: "the Socialist Federative Republic of Yugoslavia" #NT!
+ YUG_republic_social_democrat: "Yugoslavia" #NT!
+ YUG_republic_social_democrat_ADJ: "Yugoslav" #NT!
+ YUG_republic_social_democrat_DEF: "the Republic of Serbs, Croats and Slovenes" #NT!
+ YUG_republic_social_liberal: "Yugoslavia" #NT!
+ YUG_republic_social_liberal_ADJ: "Yugoslav" #NT!
+ YUG_republic_social_liberal_DEF: "the Republic of Serbs, Croats and Slovenes" #NT!
+ YUG_republic_market_liberal: "Yugoslavia" #NT!
+ YUG_republic_market_liberal_ADJ: "Yugoslav" #NT!
+ YUG_republic_market_liberal_DEF: "the Republic of Serbs, Croats and Slovenes" #NT!
+ YUG_republic_social_conservative: "Yugoslavia" #NT!
+ YUG_republic_social_conservative_ADJ: "Yugoslav" #NT!
+ YUG_republic_social_conservative_DEF: "the Republic of Serbs, Croats and Slovenes" #NT!
+ YUG_republic_authoritarian_democrat: "Yugoslavia" #NT!
+ YUG_republic_authoritarian_democrat_ADJ: "Yugoslav" #NT!
+ YUG_republic_authoritarian_democrat_DEF: "the Republic of Serbs, Croats and Slovenes" #NT!
+ YUG_republic_paternal_autocrat: "Yugoslavia" #NT!
+ YUG_republic_paternal_autocrat_ADJ: "Yugoslav" #NT!
+ YUG_republic_paternal_autocrat_DEF: "the Republic of Serbs, Croats and Slovenes" #NT!
+ YUG_republic_national_populist: "Yugoslavia" #NT!
+ YUG_republic_national_populist_ADJ: "Yugoslavia" #NT!
+ YUG_republic_national_populist_DEF: "the Republic of Serbs, Croats and Slovenes" #NT!
+ YUG_republic_valkist: "Yugoslavia" #NT!
+ YUG_republic_valkist_ADJ: "Yugoslav" #NT!
+ YUG_republic_valkist_DEF: "the Republic of Serbs, Croats and Slovenes" #NT!
+  
+ ### Parties 
+ SER_vanguardist_party: "KPJ" #NT!
+ SER_vanguardist_party_long: "Komunistička partija Jugoslavije\n§gCommunist Party of Yugoslavia§!" #NT!
+ SER_collectivist_party: "KPJ" #NT!
+ SER_collectivist_party_long: "Komunistička partija Jugoslavije\n§gCommunist Party of Yugoslavia§!" #NT!
+ SER_libertarian_socialist_party: "KPJ" #NT!
+ SER_libertarian_socialist_party_long: "Komunistička partija Jugoslavije\n§gCommunist Party of Yugoslavia§!" #NT!
+ SER_social_democrat_party: "SPJ" #NT!
+ SER_social_democrat_party_long: "Socijalistička partija Jugoslavije\n§gSocialist Party of Yugoslavia§!" #NT!
+ SER_social_liberal_party: "UO - HRSS" #NT!
+ SER_social_liberal_party_long: "Ujedinjena opozicija - Hrvatske republikanske seljačke stranke\n§gUnited Opposition - Croatian Republican Peasant Party§!" #NT!
+ SER_market_liberal_party: "UO - JDS" #NT!
+ SER_market_liberal_party_long: "Ujedinjena opozicija - Jugoslovenska demokratska stranka\n§gUnited Opposition - Yugoslav Democratic Party§!" #NT!
+ SER_social_conservative_party: "UO - SLS" #NT!
+ SER_social_conservative_party_long: "Ujedinjena opozicija - Slovenska ljudska stranka\n§gUnited Opposition - Slovene People's Party§!" #NT!
+ SER_authoritarian_democrat_party: "UO - NRS" #NT!
+ SER_authoritarian_democrat_party_long: "Ujedinjena opozicija - Narodna radikalna stranka\n§gUnited Opposition - People's Radical Party§!" #NT!
+ SER_paternal_autocrat_party: "JRSD" #NT!
+ SER_paternal_autocrat_party_long: "Jugoslavenska radikalna seljačka demokratija\n§gYugoslav Radical Peasants' Democracy§!" #NT!
+ SER_national_populist_party: "ORJUNA-B" #NT!
+ SER_national_populist_party_long: "Organizacija Jugoslavenskih Nacionalista - Bristolci\n§gOrganization of Yugoslav Nationalists - Bristolians§!" #NT!
+ SER_valkist_party: "ORJUNA" #NT!
+ SER_valkist_party_long: "Organizacija Jugoslavenskih Nacionalista\n§gOrganization of Yugoslav Nationalists§!" #NT!
+  
+ SER_zbor_party: "ZBOR" #NT!
+ SER_zbor_party_long: "Združena borbena organizacija rada\n§gUnited Militant Labour Organization§!" #NT!
+  
+ SER_borbasi_party: "JNS" #NT!
+ SER_borbasi_party_long: "Jugoslovenska narodna stranka\n§gYugoslav People's Party§!" #NT!
+  
+ SER_jnf_party: "JNF" #NT!
+ SER_jnf_party_long: "Jugoslovenski narodni front\n§gYugoslav National Front§!" #NT!
+  
+ SER_splinter_vanguardist_party: "KPS" #NT!
+ SER_splinter_vanguardist_party_long: "Komunistička partija Srbije\n§gCommunist Party of Serbia§!" #NT!
+ SER_splinter_collectivist_party: "KPS" #NT!
+ SER_splinter_collectivist_party_long: "Komunistička partija Srbije\n§gCommunist Party of Serbia§!" #NT!
+ SER_splinter_libertarian_socialist_party: "KPS" #NT!
+ SER_splinter_libertarian_socialist_party_long: "Komunistička partija Srbije\n§gCommunist Party of Serbia§!" #NT!
+ SER_splinter_social_democrat_party: "SPS" #NT!
+ SER_splinter_social_democrat_party_long: "Socijalistička partija Srbije\n§gSocialist Party of Serbia§!" #NT!
+ SER_splinter_social_liberal_party: "DS" #NT!
+ SER_splinter_social_liberal_party_long: "Demokratska stranka\n§gDemocratic Party§!" #NT!
+ SER_splinter_market_liberal_party: "DS" #NT!
+ SER_splinter_market_liberal_party_long: "Demokratska stranka\n§gDemocratic Party§!" #NT!
+ SER_splinter_social_conservative_party: "NRS" #NT!
+ SER_splinter_social_conservative_party_long: "Narodna radikalna stranka\n§gPeople's Radical Party§!" #NT!
+ SER_splinter_authoritarian_democrat_party: "NRS" #NT!
+ SER_splinter_authoritarian_democrat_party_long: "Narodna radikalna stranka\n§gPeople's Radical Party§!" #NT!
+ SER_splinter_paternal_autocrat_party: "NRS" #NT!
+ SER_splinter_paternal_autocrat_party_long: "Narodna radikalna stranka\n§gPeople's Radical Party§!" #NT!
+ SER_splinter_national_populist_party: "ZBOR" #NT!
+ SER_splinter_national_populist_party_long: "Združena borbena organizacija rada\n§gUnited Militant Labour Organization§!" #NT!
+ SER_splinter_valkist_party: "ORJUNA" #NT!
+ SER_splinter_valkist_party_long: "Organizacija Jugoslavenskih Nacionalista\n§gOrganization of Yugoslav Nationalists§!" #NT!
+  
+ ### EVENTS ### 
+  
+ serbia.1.t: "The Serbian Kingdom" #NT!
+ serbia.1.d: "PLACEHOLDER" #NT!
+ serbia.1.a: "We are destined for greatness!" #NT!
+  
+ serbia.2.t: "Hungary invites us to their faction" #NT!
+ serbia.2.d: "In a surprising turn of events, we have recieved a letter from Budapest adressed to the King himself. It appears that the Hungarians are formally inviting us to a faction with them. They say that this alliance will allow for border exchanges and treaties to take place between us and that both nations will benifit greatly. We must choose wisely." #NT!
+ serbia.2.a: "We must put old rivalries aside." #NT!
+ serbia.2.b: "Serbia must forge her own path in history." #NT!
+  
+ serbia.3.t: "Hungary demands Bosnia!" #NT!
+ serbia.3.d: "The Hungarians, in their infinite persuit of power, have sent us a list of demands, including all of our Bosnian held territories! While we may be able to fend the Hungarians off by ourselves, it would surely ruin the nation and perhaps expose one of our weak points." #NT!
+ serbia.3.a: "Bosnia is a small concession for peace..." #NT!
+ serbia.3.b: "We will never back down to the Magyar!" #NT!
+  
+ serbia.4.t: "Bosnia for peace?" #NT!
+ serbia.4.d: "The Hungarians are far stronger than we had anticipated, and they may soon reach our capital. We can offer them Bosnia and Herzogovina in return for peace, but this will be seen as a shameful act in the eyes of both our government and our people. We can keep fighting, but if we lose then the Magyars will have free reign over our nation." #NT!
+ serbia.4.a: "We will give up Bosnia, for the good of the nation." #NT!
+ serbia.4.b: "The Magyars are weak, we need only a few months more..." #NT!
+  
+ serbia.5.t: "The Croatian Revolt spreads to Bosnia!" #NT!
+ serbia.5.d: "The Croatians have only just recently risen up in Hungary, hoping to earn their independance through blood and iron. Now we are recieving reports that Bosnia and Herzogovina have both declared their complete allegance to the Croatian State, and has officially secceded from our nation. We must reign in the Bosnian provinces if we are to remain a relavant regional power!" #NT!
+ serbia.5.a: "We will show the Croatians what it means to revolt against us." #NT!
+  
+ serbia.6.t: "Croatia wins their independance." #NT!
+ serbia.6.d: "The fighting has dragged on for many long months now, and we are unable to make a significant dent in our enemies defenses. A delegation has been sent by both of our allies, asking for peace, and we must now follow suit. We cannot defeat the Croatians together, let alone by ourselves. Croatia will have their state, until the next major war allows us to reclaim our rightful territories." #NT!
+ serbia.6.a: "This is a day which will live in infamy..." #NT!
+  
+ serbia.7.t: "Hungary demands West Banat!" #NT!
+ serbia.7.d: "The Hungarian government today has demanded that we return the region of West Banat to them, or face certain consiquences. The region is extremely defensible and valuable from a strategic standpoint. Giving up the land would be a foolish move that would upset the people greatly, but we also must consider that Hungary mau attempt to take it by force if we decline." #NT!
+ serbia.7.a: "West Banat is of little importance, they can have it." #NT!
+ serbia.7.b: "They'll have to pry it from our cold, dead hands." #NT!
+  
+ serbia.8.t: "A [SER.GetAdjective] Monarchy?" #NT!
+ serbia.8.d: "With the Serbian state now in our hands and [SER.GetNameDef] beckoning at our whims, we must now decide whether we shall allow the Karađorđević dynasty to return to the throne. With the government remaining ever friendly and the old King Alexander out of the picture, his young son Peter could prove useful as a puppet in rallying the many royalist sentiments in the newly established state. Of course, the Karađorđević dynasty has always been associated with pernicious nationalism  and they may not prove easy to use - so what shall we do?" #NT!
+ serbia.8.a: "The Karađorđević dynasty may return." #NT!
+ serbia.8.b: "A republic will be better for our interests." #NT!
+ serbia.8.a_tt: "§YWe will install Peter Karađorđević as Peter II§!" #NT!
+  
+ ### IDEAS ### 
+  
+ ser_danube_research: "Danube Research Bloc Member" #NT!
+ ser_danube_research_desc: "We are a member of the Danube Research Bloc, giving us and all other participating nationans a boost to our research abilities. We would be wise to maintain good relations with all other members of the Bloc." #NT!
+ ### 
+ ser_integrated_officers: "Integrated Officer Corps" #NT!
+ ser_integrated_officers_desc: "Attempts to draw our nations closer militarily have led to the formation of a transnational officer corps consisting of generals from all members of the faction. While the cultural and language divide is being progress difficult, with time this will prove to be one of our greatest strenghs." #NT!
+ ### 
+ ser_interlaced_economy: "Interlaced Economy" #NT!
+ ser_interlaced_economy_desc: "We have made extensive efforts to connect our economy with our fellow faction members. This has allowed us to better allocate resources towards construction and military production." #NT!
+  
+ ### MISC ### 
+ SER_hungary_nice: "Building rapport" #NT!
+ SER_join_stahlpakt: "Join Germany" #NT!
+ SER_join_stahlpakt_desc: "The Second Great War has started, and we shall join it. The Italians especially are our primary enemies, and their brutalisation of the Slavs under their yoke cannot be allowed to stand." #NT!
+  
+ SER_Petar_Stambolic: "Pétar Stambolić" #NT!
+ SER_Josip_Broz_Tito: "Josip Broz Tito" #NT!
+ SER_Zivorad_Jovanovic: "Zivorad Jovanovic" #NT!
+ SER_Zivko_Topalovic: "Živko Topalović" #NT!
+ SER_Milan_Grol: "Milan Grol" #NT!
+ SER_Ljubomir_Davidovic: "Ljubomir Davidović" #NT!
+ SER_Anton_Korosec: "Anton Korošec" #NT!
+ SER_Alexander_I: "Alexander I" #NT!
+ SER_Peter_Karadordevic: "Peter II" #NT!
+ SER_Prince_Paul: "Prince Paul" #NT!
+ SER_Milan_Stojadinovic: "Milan Stojadinović" #NT!
+ SER_Petar_Bojovic: "Petar Bojović" #NT!
+ SER_Danilo_Kalafatovic: "Danilo Kalafatović" #NT!
+ SER_Draza_Mihailovic: "Draža Mihailović" #NT!
+ SER_Dusan_Simovic: "Dušan Simović" #NT!
+ SER_Milorad_Petrovic: "Milorad Petrović" #NT!
+ SER_Dusan_Trifunovic: "Dušan Trifunović" #NT!
+ SER_Petar_Kosic: "Petar Kosić" #NT!
+ SER_Svetozar_Hadzic: "Svetozar Hadžić" #NT!
+ SER_Ljubo_Leontic: "Ljubo Leontić" #NT!
+ SER_Dimitrije_Ljotic: "Dimitrije Ljotić" #NT!
+ SER_Milan_Gorkic: "Milan Gorkić" #NT!
+  
+  
+  
+ SER_Ljubomir_Ilic: "Ljubomir Ilić" #NT!
+ SER_Pavle_Savic: "Pavle Savić" #NT!
+ SER_Svetozar_K_Popovic: "Svetozar K. Popović" #NT!

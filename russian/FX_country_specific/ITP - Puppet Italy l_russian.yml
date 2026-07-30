@@ -1,0 +1,35 @@
+﻿l_russian:
+  
+ ITP: "Italy" #NT!
+ ITP_ADJ: "Italian" #NT!
+ ITP_DEF: "the Republic of Italy" #NT!
+  
+ ### Parties 
+ ITP_vanguardist_party: "PCI(CN)" #NT!
+ ITP_vanguardist_party_long: "Partito Comunista Italiano (Collettivista Nazionale)\n§gCommunist Party of Italy - National Communist§!" #NT!
+ ITP_collectivist_party: "PCI" #NT!
+ ITP_collectivist_party_long: "Partito Comunista Italiano\n§gCommunist Party of Italy§!" #NT!
+ ITP_libertarian_socialist_party: "PSI" #NT!
+ ITP_libertarian_socialist_party_long: "Partito Socialista Italiana\n§gSocialist Party of Italy§!" #NT!
+ ITP_social_democrat_party: "PPI" #NT!
+ ITP_social_democrat_party_long: "Partito Popolare Italiano\n§gItalian People's Party§!" #NT!
+ ITP_social_liberal_party: "PDL" #NT!
+ ITP_social_liberal_party_long: "Partito Democratico del Lavoro\n§gLabour Democratic Party§!" #NT!
+ ITP_market_liberal_party: "PLI" #NT!
+ ITP_market_liberal_party_long: "Partito Liberale Italiano\n§gItalian Liberal Party§!" #NT!
+ ITP_social_conservative_party: "PDI" #NT!
+ ITP_social_conservative_party_long: "Partito Democratico Italiano\n§gItalian Democratic Party§!" #NT!
+ ITP_authoritarian_democrat_party: "PMI" #NT!
+ ITP_authoritarian_democrat_party_long: "Partito Monarchico Italiano\n§gItalian Monarchist Party§!" #NT!
+ ITP_paternal_autocrat_party: "PMI(SA)" #NT!
+ ITP_paternal_autocrat_party_long: "Partito Monarchico Italiano (Savoia Aosta)\n§gItalian Monarchist Party - Savoy Dynasty§!" #NT!
+ ITP_national_populist_party: "ANI" #NT!
+ ITP_national_populist_party_long: "Associazione Nazionalista Italiana\n§gItalian Nationalist Association§!" #NT!
+ ITP_valkist_party: "FISN" #NT!
+ ITP_valkist_party_long: "Fasci Italiani del Sindacalismo Nazionale\n§gItalian League of National Syndicalism§!" #NT!
+  
+ ITP_pope_party: "SE" #NT!
+ ITP_pope_party_long: "Stato Ecclesiastico" #NT!
+  
+ ITP_Ettore_Muti: "Ettore Muti" #NT!
+ ITP_Giuseppe_Bottai: "Giuseppe Bottai" #NT!

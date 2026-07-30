@@ -1,0 +1,35 @@
+﻿l_russian:
+  
+ ### Country Names 
+ TIB: "Тибет"
+ TIB_ADJ: "Тибетск"
+ TIB_DEF: "Тибет"
+  
+ ### Parties 
+ TIB_authoritarian_democrat_party: "Traditionalists" #NT!
+ TIB_authoritarian_democrat_party_long: "Traditionalists" #NT!
+ TIB_paternal_autocrat_party: "Traditionalists" #NT!
+ TIB_paternal_autocrat_party_long: "Traditionalists" #NT!
+  
+ ### Decisions 
+ TIB_war_decisions: "War decisions" #NT!
+ TIB_invade_sichuan: "Invade Sichuan Clique" #NT!
+ TIB_invade_ma: "Invade Ma Clique" #NT!
+ TIB_invade_bhutan: "Invade Bhutan" #NT!
+ TIB_invade_kashmir: "Invade Kashmir" #NT!
+ TIB_core_decisions: "Integration decisions" #NT!
+ TIB_bhutan_integration: "Integrate Bhutan" #NT!
+ TIB_north_integration: "Integrate Amdo" #NT!
+ TIB_east_integration: "Integrate Kham" #NT!
+  
+ ### Events 
+ tib.alliance.1.t: "Tibet proposes an alliance" #NT!
+ tib.alliance.1.d: "" #NT!
+ tib.alliance.1.a: "We shall fight together!" #NT!
+ tib.alliance.1.b: "We are not their lapdogs!" #NT!
+ tib.alliance.2.t: "Mongolia refuses our offer" #NT!
+ tib.alliance.2.d: "" #NT!
+ tib.alliance.2.a: "Then we will achieve victory alone!" #NT!
+  
+ TIB_Jamphel_Yeshe_Gyaltsen: "Jamphel Yeshe Gyaltsen" #NT!
+ TIB_Panchen_Lama: "Panchen Lama" #NT!

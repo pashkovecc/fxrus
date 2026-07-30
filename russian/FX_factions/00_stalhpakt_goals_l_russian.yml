@@ -1,0 +1,31 @@
+﻿l_russian:
+  
+ # Long Term Goals 
+ overturn_versailles_order_goal_name: "Overturn the Versailles Order" #NT!
+ overturn_versailles_order_goal_desc: "The liberal imperialist order imposed on us at Versailles has proven to be the most wretched and despicable system ever established in Europe. Soft on Bolshevism while harsh on genuine national aspirations, its destruction shall be the most glorious thing the world shall bear witness to this century." #NT!
+  
+ european_autarky_goal_name: "European Autarky" #NT!
+ european_autarky_goal_desc: "The rising power of the decadent and liberal United States puts European civilization and dignity at risk. Even while their pawns in Paris and London indulge themselves in debased arts and soulless consumerism, we must do everything we can to ensure that Europe is self-sufficient and able to survive without access to the colonies which the West are bound to keep for themselves." #NT!
+  
+ vanguard_anti_bolshevism_goal_name: "Vanguard Against Bolshevism" #NT!
+ vanguard_anti_bolshevism_goal_desc: "We must take a leading role in the fight against Bolshevism and its spread across Europe. By standing firm against this ideology, we can protect our way of life and ensure that our nations remain free from its influence." #NT!
+  
+ bridge_eurafrican_gap_goal_name: "Bridge the Eurafrican Gap" #NT!
+ bridge_eurafrican_gap_goal_desc: "Enlightened thinkers and planners have realized the folly of trying to make the African continent in any way akin to Europe. One cannot make a African like a European, so it is to our interest to instead bind the two continents together in an economic and transporation network. This would ensure that Africa continues to supply Europe with the needed resources to uphold Valkist civilization." #NT!
+  
+ spread_international_valkism_goal_name: "Spread International Valkism" #NT!
+ spread_international_valkism_goal_desc: "Valkism may be a European idea, but who says it had to remain there? The tools are now at our disposal to support international Valkism and to bring humanity as a whole towards a new, reawakened future. By hook or by crook, a Valkist international alliance ought to be formed!" #NT!
+  
+ new_germanic_order_goal_name: "New Germanic Order" #NT!
+ new_germanic_order_goal_desc: "The Nordic-German race has made a great comeback, but its struggle does not end here. As we continue to subjugate the East, we must also be ready to go forth and bring all Germanic peoples together. Only through this can we preserve all that is good and pure about humanity and embodied in the German race from the deathly grasp of decay at the hands of Judeo-Bolshevik liberalism and Asiatic barbarity." #NT!
+ new_germanic_order_tt: "New Germanic Order Countries:\n£white_dot [803.owner.GetName]\n£white_dot [3.owner.GetName]\n£white_dot [6.owner.GetName]\n£white_dot [7.owner.GetName]\n£white_dot [8.owner.GetName]\n£white_dot [9.owner.GetName]\n£white_dot [126.owner.GetName]\n£white_dot [37.owner.GetName]\n£white_dot [141.owner.GetName]\n£white_dot [110.owner.GetName]\n£white_dot [96.owner.GetName]\n£white_dot [757.owner.GetName]\n£white_dot [13.owner.GetName]\n£white_dot [10.owner.GetName]\n£white_dot [202.owner.GetName]\n£white_dot [206.owner.GetName]\n" #NT!
+  
+ uphold_european_hegemony_goal_name_africa: "Uphold European Hegemony: Africa" #NT!
+ uphold_european_hegemony_goal_name_asia: "Uphold European Hegemony: Asia" #NT!
+ uphold_european_hegemony_goal_desc: "Europe is the most enlightened and civilized of all continents, and during the last century it engaged in a mission that can only be described as its natural right. Let us break free of crypto-Bolshevik \"anti-imperialism\" and put our support behind the continued maintenance of civilized European dominance." #NT!
+ uphold_european_hegemony_goal_name_africa_tt: "§PMust own all states in §GAfrica§! that were controlled by §CEuropean powers§!.§!" #NT!
+ uphold_european_hegemony_goal_name_asia_tt: "§PMust own all states in §GAsia§! that were controlled by §CEuropean powers§!, including §Ytreaty ports§! and §Yislands§! of the §BPacific§! and §BIndian oceans§!.§!" #NT!
+  
+ confront_civilizational_enemies_goal_name: "Confront Civilizational Enemies" #NT!
+ confront_civilizational_enemies_goal_desc: "In both the East and the West, the Americans and Japan are the new rising powers that threaten to destroy all our work. We cannot let them even dare to consider spreading their ruinous and degenerate ways to our continent, and so we shall let it be known that we are dominant in the western half of the Old World." #NT!
+  

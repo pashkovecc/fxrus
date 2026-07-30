@@ -1,0 +1,16 @@
+﻿l_russian:
+  
+ ISC: "International Straits Commission" #NT!
+ ISC_DEF: "the International Straits Commission" #NT!
+ ISC_ADJ: "Straits-Commissionary" #NT!
+  
+ ISC_authoritarian_democrat_party: "Inter-Allied Commission" #NT!
+ ISC_authoritarian_democrat_party_long: "The Inter-Allied Commission" #NT!
+  
+ # Leader name, for now generic :> 
+ POLITICS_ISC_DESC: "[ISC.GetName]" #NT!
+ #Ideas names 
+ ISC_the_patriarchate: "The Patriarchate" #NT!
+ ISC_free_zone: "Free Zone" #NT!
+ ISC_free_zone_desc: "The aftermath of Great War has brought the Turkish Straits into Inter-Allied control, retified by the 1920 Treaty of Sèvres, which made the straits demilitarized and internationalized. As the straits now being directly managed by the Inter-Allied Commission, comprised of representatives of the former Entente Cordiale alliance, guarantees unrestricted civilian and military traffic in and out of the Black Sea."ISC_International_Straits_Commission: "The aftermath of Great War has brought the Turkish Straits into Inter-Allied control, retified by the 1920 Treaty of Sèvres, which made the straits demilitarized and internationalized. As the straits now being directly managed by the Inter-Allied Commission, comprised of representatives of the former Entente Cordiale alliance, guarantees unrestricted civilian and military traffic in and out of the Black Sea."ISC_International_Straits_Commission: "International Straits Commision" #NT!
+ ISC_Nikolaos_Politis: "Nikólaos Polítis" #NT!

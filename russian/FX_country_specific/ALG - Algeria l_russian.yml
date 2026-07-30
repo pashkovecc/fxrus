@@ -1,0 +1,44 @@
+﻿l_russian:
+  
+ ### Country Names 
+ ALG_vanguardist: "Алжирское народное государство"
+ ALG_vanguardist_ADJ: "Алжирск"
+ ALG_vanguardist_DEF: "Народное государство Алжир"
+ ALG_collectivist: "Алжирский союз рабочих"
+ ALG_collectivist_ADJ: "Алжирск"
+ ALG_collectivist_DEF: "Союз рабочих Алжира"
+ ALG_libertarian_socialist: "Алжирская Социалистическая Республика"
+ ALG_libertarian_socialist_ADJ: "Алжирск"
+ ALG_libertarian_socialist_DEF: "Социалистическая Республика Алжир"
+ ALG_social_democrat: "Республика Алжир"
+ ALG_social_democrat_ADJ: "Алжирск"
+ ALG_social_democrat_DEF: "Республика Алжир"
+ ALG_social_liberal: "Республика Алжир"
+ ALG_social_liberal_ADJ: "Алжирск"
+ ALG_social_liberal_DEF: "Республика Алжир"
+ ALG_market_liberal: "Республика Алжир"
+ ALG_market_liberal_ADJ: "Алжирск"
+ ALG_market_liberal_DEF: "Республика Алжир"
+ ALG_social_conservative: "Республика Алжир"
+ ALG_social_conservative_ADJ: "Алжирск"
+ ALG_social_conservative_DEF: "Республика Алжир"
+ ALG_authoritarian_democrat: "Республика Алжир"
+ ALG_authoritarian_democrat_ADJ: "Алжирск"
+ ALG_authoritarian_democrat_DEF: "Республика Алжир"
+ ALG_paternal_autocrat: "Алжирское государство"
+ ALG_paternal_autocrat_ADJ: "Алжирск"
+ ALG_paternal_autocrat_DEF: "Алжирское государство"
+ ALG_national_populist: "Алжирское государство"
+ ALG_national_populist_ADJ: "Алжирск"
+ ALG_national_populist_DEF: "Алжирское государство"
+ ALG_valkist: "Алжирское государство"
+ ALG_valkist_ADJ: "Алжирск"
+ ALG_valkist_DEF: "Алжирское государство"
+  
+ ### Cosmetic 
+ ALG_ENG_subject: "British North Africa" #NT!
+ ALG_ENG_subject_DEF: "British North-African" #NT!
+ ALG_ENG_subject_ADJ: "British North Africa" #NT!
+ ALG_Mohammed_Saleh_Bendjelloul: "Mohammed Saleh Bendjelloul" #NT!
+ ALG_Abdelhamid_Ben_Badis: "Abdelhamid Ben Badis" #NT!
+ ALG_Ferhat_Abbas: "Ferhat Abbas" #NT!

@@ -1,0 +1,84 @@
+﻿l_russian:
+  
+ FRP_vanguardist: "Commune of France" #NT!
+ FRP_vanguardist_ADJ: "Communard" #NT!
+ FRP_vanguardist_DEF: "the Commune of France" #NT!
+ FRP_collectivist: "Commune of France" #NT!
+ FRP_collectivist_ADJ: "Communard" #NT!
+ FRP_collectivist_DEF: "the Commune of France" #NT!
+ FRP_libertarian_socialist: "France" #NT!
+ FRP_libertarian_socialist_ADJ: "Communard" #NT!
+ FRP_libertarian_socialist_DEF: "the Commune of France" #NT!
+ FRP_social_democrat: "France" #NT!
+ FRP_social_democrat_ADJ: "French" #NT!
+ FRP_social_democrat_DEF: "the French Republic" #NT!
+ FRP_social_liberal: "France" #NT!
+ FRP_social_liberal_ADJ: "French" #NT!
+ FRP_social_liberal_DEF: "the French Republic" #NT!
+ FRP_market_liberal: "France" #NT!
+ FRP_market_liberal_ADJ: "French" #NT!
+ FRP_market_liberal_DEF: "the French Republic" #NT!
+ FRP_social_conservative: "France" #NT!
+ FRP_social_conservative_ADJ: "French" #NT!
+ FRP_social_conservative_DEF: "the French Republic" #NT!
+ FRP_authoritarian_democrat: "France" #NT!
+ FRP_authoritarian_democrat_ADJ: "French" #NT!
+ FRP_authoritarian_democrat_DEF: "the French Republic" #NT!
+ FRP_paternal_autocrat: "France" #NT!
+ FRP_paternal_autocrat_ADJ: "French" #NT!
+ FRP_paternal_autocrat_DEF: "the French State" #NT!
+ FRP_national_populist: "France" #NT!
+ FRP_national_populist_ADJ: "French" #NT!
+ FRP_national_populist_DEF: "the French State" #NT!
+ FRP_valkist: "France" #NT!
+ FRP_valkist_ADJ: "French" #NT!
+ FRP_valkist_DEF: "the French State" #NT!
+  
+ ### Cosmetic 
+ GER_FRA_rk: "Französischer Freistaat" #NT!
+ GER_FRA_rk_ADJ: "Französischer" #NT!
+ GER_FRA_rk_DEF: "Les État français" #NT!
+  
+ FRA_kingdom: "Kingdom of France" #NT!
+ FRA_kingdom_ADJ: "French" #NT!
+ FRA_kingdom_DEF: "the Kingdom of France" #NT!
+  
+ FRA_commune: "Commune of France" #NT!
+ FRA_commune_ADJ: "Communard" #NT!
+ FRA_commune_DEF: "the Commune of France" #NT!
+  
+ ### Parties 
+ FRP_vanguardist_party: "Vanguardistes" #NT!
+ FRP_vanguardist_party_long: "Vanguardistes" #NT!
+ FRP_collectivist_party: "Communistes" #NT!
+ FRP_collectivist_party_long: "Communistes" #NT!
+ FRP_libertarian_socialist_party: "Anarchistes" #NT!
+ FRP_libertarian_socialist_party_long: "Anarchistes" #NT!
+ FRP_social_democrat_party: "Socialistes" #NT!
+ FRP_social_democrat_party_long: "Socialistes" #NT!
+ FRP_social_liberal_party: "Radicaux" #NT!
+ FRP_social_liberal_party_long: "Radicaux" #NT!
+ FRP_market_liberal_party: "Libéraux" #NT!
+ FRP_market_liberal_party_long: "Libéraux" #NT!
+ FRP_social_conservative_party: "Républicains" #NT!
+ FRP_social_conservative_party_long: "Républicains" #NT!
+ FRP_authoritarian_democrat_party: "Constitutionnalistes" #NT!
+ FRP_authoritarian_democrat_party_long: "Constitutionnalistes" #NT!
+ FRP_paternal_autocrat_party: "Royalistes" #NT!
+ FRP_paternal_autocrat_party_long: "Royalistes" #NT!
+ FRP_national_populist_party: "Populistes" #NT!
+ FRP_national_populist_party_long: "Populistes" #NT!
+ FRP_valkist_party: "Collaborateurs" #NT!
+ FRP_valkist_party_long: "Collaborateurs" #NT!
+  
+ FRP_armistice_pataut_party: "CN" #NT!
+ FRP_armistice_pataut_party_long: "Conseil National\n§gNational Council§!" #NT!
+  
+ FRP_Francois_Coty: "Francois Coty" #NT!
+ FRP_Jean_Louis_Tixier_Vignancour: "Jean Louis Tixier Vignancour" #NT!
+ FRP_Jacques_Doriot: "Jacques Doriot" #NT!
+  
+  
+ FRP_Adrien_Marquet: "Adrien Marquet" #NT!
+ FRP_Rene_Bouffet: "René Bouffet" #NT!
+ FRP_Bertrand_de_Jouvenel: "Bertrand de Jouvenel" #NT!

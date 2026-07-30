@@ -1,0 +1,67 @@
+﻿l_russian:
+  
+ ### Country Names 
+ LAT_vanguardist: "Latvia" #NT!
+ LAT_vanguardist_ADJ: "Latvian" #NT!
+ LAT_vanguardist_DEF: "the Soviet Republic of Latvia" #NT!
+ LAT_collectivist: "Latvia" #NT!
+ LAT_collectivist_ADJ: "Latvian" #NT!
+ LAT_collectivist_DEF: "the Soviet Republic of Latvia" #NT!
+ LAT_libertarian_socialist: "Latvia" #NT!
+ LAT_libertarian_socialist_ADJ: "Latvian" #NT!
+ LAT_libertarian_socialist_DEF: "the Socialist Republic of Latvia" #NT!
+ LAT_social_democrat: "Latvia" #NT!
+ LAT_social_democrat_ADJ: "Latvian" #NT!
+ LAT_social_democrat_DEF: "the Latvian Republic" #NT!
+ LAT_social_liberal: "Latvia" #NT!
+ LAT_social_liberal_ADJ: "Latvian" #NT!
+ LAT_social_liberal_DEF: "the Latvian Republic" #NT!
+ LAT_market_liberal: "Latvia" #NT!
+ LAT_market_liberal_ADJ: "Latvian" #NT!
+ LAT_market_liberal_DEF: "the Latvian Republic" #NT!
+ LAT_social_conservative: "Latvia" #NT!
+ LAT_social_conservative_ADJ: "Latvian" #NT!
+ LAT_social_conservative_DEF: "the Latvian Republic" #NT!
+ LAT_authoritarian_democrat: "Latvia" #NT!
+ LAT_authoritarian_democrat_ADJ: "Latvian" #NT!
+ LAT_authoritarian_democrat_DEF: "the Latvian Republic" #NT!
+ LAT_paternal_autocrat: "Latvia" #NT!
+ LAT_paternal_autocrat_ADJ: "Latvian" #NT!
+ LAT_paternal_autocrat_DEF: "the Latvian Republic" #NT!
+ LAT_national_populist: "Latvia" #NT!
+ LAT_national_populist_ADJ: "Latvian" #NT!
+ LAT_national_populist_DEF: "the Latvian Republic" #NT!
+ LAT_valkist: "Latvia" #NT!
+ LAT_valkist_ADJ: "Latvian" #NT!
+ LAT_valkist_DEF: "the Latvian Republic" #NT!
+  
+ ### Parties 
+ LAT_vanguardist_party: "LKP" #NT!
+ LAT_vanguardist_party_long: "Latvijas Komunistiskā partija\n§gCommunist Party of Latvia§!" #NT!
+ LAT_collectivist_party: "LKP" #NT!
+ LAT_collectivist_party_long: "Latvijas Komunistiskā partija\n§gCommunist Party of Latvia§!" #NT!
+ LAT_libertarian_socialist_party: "LKP" #NT!
+ LAT_libertarian_socialist_party_long: "Latvijas Komunistiskā partija\n§gCommunist Party of Latvia§!" #NT!
+ LAT_social_democrat_party: "LSDSP" #NT!
+ LAT_social_democrat_party_long: "Latvijas Sociāldemokrātiskā Strādnieku Partija\n§gLatvian Social Democratic Workers' Party§!" #NT!
+ LAT_social_liberal_party: "DC" #NT!
+ LAT_social_liberal_party_long: "Demokrātiskais Centrs\n§gDemocratic Centre§!" #NT!
+ LAT_market_liberal_party: "LZS" #NT!
+ LAT_market_liberal_party_long: "Latvijas Zemnieku savienība\n§gLatvian Farmers' Union§!" #NT!
+ LAT_social_conservative_party: "LKZKP" #NT!
+ LAT_social_conservative_party_long: "Latgales kristīgo zemnieku un katoļu partija\n§gLatgalian Christian Peasant and Catholic Party§!" #NT!
+ LAT_authoritarian_democrat_party: "ADP" #NT!
+ LAT_authoritarian_democrat_party_long: "Ausschuß der Deutschbaltischen Parteien\n§gCommittee of the German Baltic Parties§!" #NT!
+ LAT_paternal_autocrat_party: "MH" #NT!
+ LAT_paternal_autocrat_party_long: "Militārā Hunta\n§gMilitary Junta§!" #NT!
+ LAT_national_populist_party: "NA" #NT!
+ LAT_national_populist_party_long: "Nacionālā apvienība\n§gNational Union§!" #NT!
+ LAT_valkist_party: "NA" #NT!
+ LAT_valkist_party_long: "Nacionālā apvienība\n§gNational Union§!" #NT!
+  
+ LAT_Pauls_Kalnins: "Pauls Kalnins" #NT!
+ LAT_Gustavs_Celmins: "Gustavs Celmins" #NT!
+  
+  
+  
+ LAT_Karlis_Irbitis: "Kārlis Irbītis" #NT!

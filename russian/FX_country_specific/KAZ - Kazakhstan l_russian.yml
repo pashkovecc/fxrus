@@ -1,0 +1,69 @@
+﻿l_russian:
+  
+ KAZ_FUHRERREICH_DESC: "Ever since the fall of the Mongol Empire, the lands of Kazakhstan have long been occupied by warring states, all competing for dominance in the area. when the Russians invaded in the 19th century, the lands were integrated in the the Tsardom, and remained a frontier against Afghanistan and the British Raj. \n\nWhen the Russian Revolution overthrew the Tsardom and replaced it with a Soviet republic, the Kazakh lands were used for vast farmlands to feed the population. With the success of the Kronstadt rebellion, the Kazakh SSR was given a large degree of autonomy from Moscow, and has been looking to expand into Transcaspia." #NT!
+  
+ ### Country Names 
+ KAZ_vanguardist: "Kazakh Peoples Republic" #NT!
+ KAZ_vanguardist_ADJ: "Kazakh" #NT!
+ KAZ_vanguardist_DEF: "the Peoples Republic of Kazakhstan" #NT!
+ KAZ_collectivist: "Kazakh Socialist Republic" #NT!
+ KAZ_collectivist_ADJ: "Kazakh" #NT!
+ KAZ_collectivist_DEF: "the Peoples Republic of Kazakhstan" #NT!
+ KAZ_libertarian_socialist: "Kazakh Socialist Republic" #NT!
+ KAZ_libertarian_socialist_ADJ: "Kazakh" #NT!
+ KAZ_libertarian_socialist_DEF: "the Socialist Republic of Kazakhstan" #NT!
+ KAZ_social_democrat: "Kazakhstan" #NT!
+ KAZ_social_democrat_ADJ: "Kazakh" #NT!
+ KAZ_social_democrat_DEF: "the Republic of Kazakhstan" #NT!
+ KAZ_social_liberal: "Kazakhstan" #NT!
+ KAZ_social_liberal_ADJ: "Kazakh" #NT!
+ KAZ_social_liberal_DEF: "the Republic of Kazakhstan" #NT!
+ KAZ_market_liberal: "Kazakhstan" #NT!
+ KAZ_market_liberal_ADJ: "Kazakh" #NT!
+ KAZ_market_liberal_DEF: "the Republic of Kazakhstan" #NT!
+ KAZ_social_conservative: "Kazakhstan" #NT!
+ KAZ_social_conservative_ADJ: "Kazakh" #NT!
+ KAZ_social_conservative_DEF: "the Republic of Kazakhstan" #NT!
+ KAZ_authoritarian_democrat: "Kazakhstan" #NT!
+ KAZ_authoritarian_democrat_ADJ: "Kazakh" #NT!
+ KAZ_authoritarian_democrat_DEF: "the Republic of Kazakhstan" #NT!
+ KAZ_paternal_autocrat: "Kazakhstan" #NT!
+ KAZ_paternal_autocrat_ADJ: "Kazakh" #NT!
+ KAZ_paternal_autocrat_DEF: "the Great State of Kazakhstan" #NT!
+ KAZ_national_populist: "Kazakhstan" #NT!
+ KAZ_national_populist_ADJ: "Kazakh" #NT!
+ KAZ_national_populist_DEF: "the Great Nation of Kazakhstan" #NT!
+ KAZ_valkist: "Kazakhstan" #NT!
+ KAZ_valkist_ADJ: "Kazakh" #NT!
+ KAZ_valkist_DEF: "the State of Kazakhstan" #NT!
+  
+ KAZ_SOV_subject: "Kazakh Soviet Republic" #NT!
+ KAZ_SOV_subject_DEF: "the Kazakh Soviet Socialist Republic" #NT!
+ KAZ_SOV_subject_ADJ: "Kazakh" #NT!
+  
+ ############# 
+ ### FOCUS ### 
+ ############# 
+  
+ ############## 
+ ### EVENTS ### 
+ ############## 
+  
+ ### INTRO EVENT ### 
+ Kazakh.1.t: "The Kazakh SSR" #NT!
+ kazakh.1.d: "Ever since the fall of the Mongol Empire, the lands of Kazakhstan have long been occupied by warring states, all competing for dominance in the area. when the Russians invaded in the 19th century, the lands were integrated in the the Tsardom, and remained a frontier against Afghanistan and the British Raj. \n\nWhen the Russian Revolution overthrew the Tsardom and replaced it with a Soviet republic, the Kazakh lands were used for vast farmlands to feed the population. With the success of the Kronstadt rebellion, the Kazakh SSR was given a large degree of autonomy from Moscow, and has been looking to expand into Transcaspia." #NT!
+ kazakh.1.a: "Kazakhs forever!" #NT!
+  
+ ### SOVIETS EXPAND KAZAKH CLAIMS ### 
+ kazakh.2.t: "Soviets expand our claims" #NT!
+ kazakh.2.d: "The Russian government has decided to expand our claims into Transcaspia, and we must prepare our military for immenant war against our southern neighbors." #NT!
+ kazakh.2.a: "Prepare for war!" #NT!
+  
+ ############### 
+ ### SPIRITS ### 
+ ############### 
+  
+  
+ ############# 
+ ### MISC. ### 
+ ############# 

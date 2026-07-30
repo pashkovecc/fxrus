@@ -1,0 +1,97 @@
+﻿l_russian:
+ ### Country Names 
+ YUN_vanguardist: "Yunnan Clique" #NT!
+ YUN_vanguardist_ADJ: "Yunnanese" #NT!
+ YUN_vanguardist_DEF: "the Yunnan Clique" #NT!
+ YUN_collectivist: "Yunnan Clique" #NT!
+ YUN_collectivist_ADJ: "Yunnanese" #NT!
+ YUN_collectivist_DEF: "the Yunnan Clique" #NT!
+ YUN_libertarian_socialist: "Yunnan Clique" #NT!
+ YUN_libertarian_socialist_ADJ: "Yunnanese" #NT!
+ YUN_libertarian_socialist_DEF: "the Yunnan Clique" #NT!
+ YUN_social_democrat: "Yunnan Clique" #NT!
+ YUN_social_democrat_ADJ: "Yunnanese" #NT!
+ YUN_social_democrat_DEF: "the Yunnan Clique" #NT!
+ YUN_social_liberal: "Yunnan Clique" #NT!
+ YUN_social_liberal_ADJ: "Yunnanese" #NT!
+ YUN_social_liberal_DEF: "the Yunnan Clique" #NT!
+ YUN_market_liberal: "Yunnan Clique" #NT!
+ YUN_market_liberal_ADJ: "Yunnanese" #NT!
+ YUN_market_liberal_DEF: "the Yunnan Clique" #NT!
+ YUN_social_conservative: "Yunnan Clique" #NT!
+ YUN_social_conservative_ADJ: "Yunnanese" #NT!
+ YUN_social_conservative_DEF: "the Yunnan Clique" #NT!
+ YUN_authoritarian_democrat: "Yunnan Clique" #NT!
+ YUN_authoritarian_democrat_ADJ: "Yunnanese" #NT!
+ YUN_authoritarian_democrat_DEF: "the Yunnan Clique" #NT!
+ YUN_paternal_autocrat: "Yunnan Clique" #NT!
+ YUN_paternal_autocrat_ADJ: "Yunnanese" #NT!
+ YUN_paternal_autocrat_DEF: "the Yunnan Clique" #NT!
+ YUN_national_populist: "Yunnan Clique" #NT!
+ YUN_national_populist_ADJ: "Yunnanese" #NT!
+ YUN_national_populist_DEF: "the Yunnan Clique" #NT!
+ YUN_valkist: "Yunnan Clique" #NT!
+ YUN_valkist_ADJ: "Yunnanese" #NT!
+ YUN_valkist_DEF: "the Yunnan Clique" #NT!
+  
+ YUN_free_vanguardist: "Federative Republic of China" #NT!
+ YUN_free_vanguardist_ADJ: "Chinese" #NT!
+ YUN_free_vanguardist_DEF: "Federative Republic of China" #NT!
+ YUN_free_collectivist: "Federative Republic of China" #NT!
+ YUN_free_collectivist_ADJ: "Chinese" #NT!
+ YUN_free_collectivist_DEF: "Federative Republic of China" #NT!
+ YUN_free_libertarian_socialist: "Federative Republic of China" #NT!
+ YUN_free_libertarian_socialist_ADJ: "Chinese" #NT!
+ YUN_free_libertarian_socialist_DEF: "Federative Republic of China" #NT!
+ YUN_free_social_democrat: "Federative Republic of China" #NT!
+ YUN_free_social_democrat_ADJ: "Chinese" #NT!
+ YUN_free_social_democrat_DEF: "Federative Republic of China" #NT!
+ YUN_free_social_liberal: "Federative Republic of China" #NT!
+ YUN_free_social_liberal_ADJ: "Chinese" #NT!
+ YUN_free_social_liberal_DEF: "Federative Republic of China" #NT!
+ YUN_free_market_liberal: "Federative Republic of China" #NT!
+ YUN_free_market_liberal_ADJ: "Chinese" #NT!
+ YUN_free_market_liberal_DEF: "Federative Republic of China" #NT!
+ YUN_free_social_conservative: "Federative Republic of China" #NT!
+ YUN_free_social_conservative_ADJ: "Chinese" #NT!
+ YUN_free_social_conservative_DEF: "Federative Republic of China" #NT!
+ YUN_free_authoritarian_democrat: "Federative Republic of China" #NT!
+ YUN_free_authoritarian_democrat_ADJ: "Chinese" #NT!
+ YUN_free_authoritarian_democrat_DEF: "Federative Republic of China" #NT!
+ YUN_free_paternal_autocrat: "Federative Republic of China" #NT!
+ YUN_free_paternal_autocrat_ADJ: "Chinese" #NT!
+ YUN_free_paternal_autocrat_DEF: "Federative Republic of China" #NT!
+ YUN_free_national_populist: "Federative Republic of China" #NT!
+ YUN_free_national_populist_ADJ: "Chinese" #NT!
+ YUN_free_national_populist_DEF: "Federative Republic of China" #NT!
+ YUN_free_valkist: "Federative Republic of China" #NT!
+ YUN_free_valkist_ADJ: "Chinese" #NT!
+ YUN_free_valkist_DEF: "Federative Republic of China" #NT!
+  
+ ### Parties 
+ YUN_paternal_autocrat_party: "Long Yun's Clique" #NT!
+ YUN_paternal_autocrat_party_long: "Jing Guo Dian Jun\n§gArmy of National Pacification§!\n§gLong Yun emerged as the only man capable of quelling the falling out between the various factions of the Army of National Pacification. Even if it meant having to turn on his own brother, he undertook the necessary measures to entrench his administration in Kunming and hold the city. Now that the dust has settled after this period of brief civil war, it remains to be seen if this young, ambitious Yi General has what it takes to rebuild Yunnan. Long Yun had often dreamed of one day surpassing Tang Jiyao, and now he finally has a chance to do just so.§!" #NT!
+ YUN_national_populist_party: "Minority Nationalists" #NT!
+ YUN_national_populist_party_long: "Minority Nationalists\n§gYunnan Province is home to dozens of ethnic groups and religious beliefs, its frontiers have long been an untamed, rebellious backwater that the Kunming administration has struggled to suppress. The various tribes, chieftains and religious sects have long felt that their ways of life were under attack from China's Han and Manchu elites. With the legacy of great wars like the Panthay Rebellion still looming over the province, it would not take much to provoke the tribes to take action, especially if they sense a moment of weakness from Kunming.§!" #NT!
+  
+ ### EVENTS ### 
+ yun.1.d: "As if out of nowhere, China has fallen into complete chaos once again! With the elections ever since the success of the Northern Expedition, the Republic had managed to stay united under the banner of Sun Yat-Sen. However his death 3 months ago resulted in the complete collapse of the Kuomintang. With it now split between the National and Social Kuomintang, it is time to stake our claim on the rest of China! With our forces we have been preparing ready, it is time for Chen Jiongming'ss Federative Republic of China to rise!" #NT!
+ ### DECISIONS ### 
+ YUN_war_decisions: "War decisions" #NT!
+ YUN_invade_tibet: "Invade Tibet" #NT!
+ YUN_invade_mongolia: "Invade Great Mongolian State" #NT!
+ YUN_invade_sichuan: "Invade Sichuan Clique" #NT!
+ YUN_invade_ma: "Invade Ma Clique" #NT!
+ YUN_invade_xinjiang: "Invade Xinjiang Clique" #NT!
+ YUN_invade_shanxi: "Invade Shanxi Clique" #NT!
+ YUN_invade_kuomintang: "Invade Kuomintang Government" #NT!
+ YUN_invade_zhili: "Invade Zhili Clique" #NT!
+ YUN_invade_fengtian: "Invade Fengtian Governancy" #NT!
+ YUN_invade_guominjun: "Invade Guominjun" #NT!
+ YUN_invade_guanxi: "Invade Guanxi Clique" #NT!
+ YUN_invade_guandong: "Invade Guandong Clique" #NT!
+ YUN_invade_national_revoliutionary_army: "Invade National Revoliutionary Army" #NT!
+ YUN_chinese_unification_decisions: "Chinese Unification Decisions" #NT!
+ YUN_claim_to_be_Beijing_government: "Proclaim the new Beijing Government" #NT!
+ YUN_unite_china: "Unite China" #NT!
+ YUN_Long_Yun: "Long Yun" #NT!

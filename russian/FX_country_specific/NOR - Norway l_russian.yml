@@ -1,0 +1,1664 @@
+﻿l_russian:
+  
+ ### Country Names 
+ NOR_vanguardist: "Commune of Norway" #NT!
+ NOR_vanguardist_ADJ: "Norwegian" #NT!
+ NOR_vanguardist_DEF: "the Commune of Norway" #NT!
+ NOR_collectivist: "Republic of Norway" #NT!
+ NOR_collectivist_ADJ: "Norwegian" #NT!
+ NOR_collectivist_DEF: "the Republic of Norway" #NT!
+ NOR_libertarian_socialist: "Republic of Norway" #NT!
+ NOR_libertarian_socialist_ADJ: "Norwegian" #NT!
+ NOR_libertarian_socialist_DEF: "the Republic of Norway" #NT!
+ NOR_social_democrat: "Republic of Norway" #NT!
+ NOR_social_democrat_ADJ: "Norwegian" #NT!
+ NOR_social_democrat_DEF: "the Republic of Norway" #NT!
+ NOR_social_liberal: "Republic of Norway" #NT!
+ NOR_social_liberal_ADJ: "Norwegian" #NT!
+ NOR_social_liberal_DEF: "the Republic of Norway" #NT!
+ NOR_market_liberal: "Republic of Norway" #NT!
+ NOR_market_liberal_ADJ: "Norwegian" #NT!
+ NOR_market_liberal_DEF: "the Republic of Norway" #NT!
+ NOR_social_conservative: "Republic of Norway" #NT!
+ NOR_social_conservative_ADJ: "Norwegian" #NT!
+ NOR_social_conservative_DEF: "the Republic of Norway" #NT!
+ NOR_authoritarian_democrat: "Republic of Norway" #NT!
+ NOR_authoritarian_democrat_ADJ: "Norwegian" #NT!
+ NOR_authoritarian_democrat_DEF: "the Republic of Norway" #NT!
+ NOR_paternal_autocrat: "National State of Norway" #NT!
+ NOR_paternal_autocrat_ADJ: "Norwegian" #NT!
+ NOR_paternal_autocrat_DEF: "the National State of Norway" #NT!
+ NOR_national_populist: "National State of Norway" #NT!
+ NOR_national_populist_ADJ: "Norwegian" #NT!
+ NOR_national_populist_DEF: "the National State of Norway" #NT!
+ NOR_valkist: "Norwegian People's Realm" #NT!
+ NOR_valkist_ADJ: "Norwegian" #NT!
+ NOR_valkist_DEF: "the Norwegian People's Realm" #NT!
+  
+ NOR_KING_vanguardist: "Commune of Norway" #NT!
+ NOR_KING_vanguardist_ADJ: "Norwegian" #NT!
+ NOR_KING_vanguardist_DEF: "the Vanguardist Commune of Norway" #NT!
+ NOR_KING_collectivist: "Republic of Norway" #NT!
+ NOR_KING_collectivist_ADJ: "Norwegian" #NT!
+ NOR_KING_collectivist_DEF: "the Republic of Norway" #NT!
+ NOR_KING_libertarian_socialist: "Kingdom of Norway" #NT!
+ NOR_KING_libertarian_socialist_ADJ: "Norwegian" #NT!
+ NOR_KING_libertarian_socialist_DEF: "the Kingdom of Norway" #NT!
+ NOR_KING_social_democrat: "Kingdom of Norway" #NT!
+ NOR_KING_social_democrat_ADJ: "Norwegian" #NT!
+ NOR_KING_social_democrat_DEF: "the Kingdom of Norway" #NT!
+ NOR_KING_social_liberal: "Kingdom of Norway" #NT!
+ NOR_KING_social_liberal_ADJ: "Norwegian" #NT!
+ NOR_KING_social_liberal_DEF: "the Kingdom of Norway" #NT!
+ NOR_KING_market_liberal: "Kingdom of Norway" #NT!
+ NOR_KING_market_liberal_ADJ: "Norwegian" #NT!
+ NOR_KING_market_liberal_DEF: "the Kingdom of Norway" #NT!
+ NOR_KING_social_conservative: "Kingdom of Norway" #NT!
+ NOR_KING_social_conservative_ADJ: "Norwegian" #NT!
+ NOR_KING_social_conservative_DEF: "the Kingdom of Norway" #NT!
+ NOR_KING_authoritarian_democrat: "Kingdom of Norway" #NT!
+ NOR_KING_authoritarian_democrat_ADJ: "Norwegian" #NT!
+ NOR_KING_authoritarian_democrat_DEF: "the Kingdom of Norway" #NT!
+ NOR_KING_paternal_autocrat: "Kingdom of Norway" #NT!
+ NOR_KING_paternal_autocrat_ADJ: "Norwegian" #NT!
+ NOR_KING_paternal_autocrat_DEF: "the Kingdom of Norway" #NT!
+ NOR_KING_national_populist: "Kingdom of Norway" #NT!
+ NOR_KING_national_populist_ADJ: "Norwegian" #NT!
+ NOR_KING_national_populist_DEF: "the Kingdom of Norway" #NT!
+ NOR_KING_valkist: "State of Norway" #NT!
+ NOR_KING_valkist_ADJ: "Norwegian" #NT!
+ NOR_KING_valkist_DEF: "the State of Norway" #NT!
+  
+ NOR_socialist_vanguardist: "Norwegian Socialist Republic" #NT!
+ NOR_socialist_vanguardist_ADJ: "Norwegian" #NT!
+ NOR_socialist_vanguardist_DEF: "the Norwegian Socialist Republic" #NT!
+ NOR_socialist_collectivist: "Norwegian Socialist Republic" #NT!
+ NOR_socialist_collectivist_ADJ: "Norwegian" #NT!
+ NOR_socialist_collectivist_DEF: "the Norwegian Socialist Republic" #NT!
+ NOR_socialist_libertarian_socialist: "Norwegian Socialist Republic" #NT!
+ NOR_socialist_libertarian_socialist_ADJ: "Norwegian" #NT!
+ NOR_socialist_libertarian_socialist_DEF: "the Norwegian Socialist Republic" #NT!
+ NOR_socialist_social_democrat: "Norwegian Socialist Republic" #NT!
+ NOR_socialist_social_democrat_ADJ: "Norwegian" #NT!
+ NOR_socialist_social_democrat_DEF: "the Norwegian Socialist Republic" #NT!
+ NOR_socialist_social_liberal: "Norwegian Socialist Republic" #NT!
+ NOR_socialist_social_liberal_ADJ: "Norwegian" #NT!
+ NOR_socialist_social_liberal_DEF: "the Norwegian Socialist Republic" #NT!
+  
+ NOR_SCA_Socialist_vanguardist: "Scandinavian Socialist Republics" #NT!
+ NOR_SCA_Socialist_vanguardist_ADJ: "Scandinavian" #NT!
+ NOR_SCA_Socialist_vanguardist_DEF: "the Union of Scandinavian Socialist Republics" #NT!
+ NOR_SCA_Socialist_collectivist: "Scandinavian Socialist Republics" #NT!
+ NOR_SCA_Socialist_collectivist_ADJ: "Scandinavian" #NT!
+ NOR_SCA_Socialist_collectivist_DEF: "the Union of Scandinavian Socialist Republics" #NT!
+ NOR_SCA_Socialist_libertarian_socialist: "Scandinavian Socialist Republics" #NT!
+ NOR_SCA_Socialist_libertarian_socialist_ADJ: "Scandinavian" #NT!
+ NOR_SCA_Socialist_libertarian_socialist_DEF: "the Union of Scandinavian Socialist Republics" #NT!
+ NOR_SCA_Socialist_social_democrat: "Scandinavian Socialist Republics" #NT!
+ NOR_SCA_Socialist_social_democrat_ADJ: "Scandinavian" #NT!
+ NOR_SCA_Socialist_social_democrat_DEF: "the Union of Scandinavian Socialist Republics" #NT!
+ NOR_SCA_Socialist_social_liberal: "Scandinavian Socialist Republic" #NT!
+ NOR_SCA_Socialist_social_liberal_ADJ: "Scandinavian" #NT!
+ NOR_SCA_Socialist_social_liberal_DEF: "the Union of Scandinavian Socialist Republics" #NT!
+  
+ #### Political Parties #### 
+ NOR_vanguardist_party: "NNKP" #NT!
+ NOR_vanguardist_party_long: "Norges Nasjonal-Kommunistiske Parti\n§gNorwegian National Communist Party§!" #NT!
+ NOR_AP_vanguardist_party: "Arbeiderpartiet" #NT!
+ NOR_AP_vanguardist_party_long: "Det Norske Arbeiderparti (Radicals)\n§gThe Norwegian Labour Party§!" #NT!
+ NOR_collectivist_party: "Arbeiderpartiet" #NT!
+ NOR_collectivist_party_long: "Det Norske Arbeiderparti (Radicals)\n§gThe Norwegian Labour Party§!" #NT!
+ NOR_not_ap_collectivist_party: "Nye Venstre" #NT!
+ NOR_not_ap_collectivist_party_long: "Det Nye Venstreparti\n§gThe New Left Party§!" #NT!
+ NOR_libertarian_socialist_party: "Arbeiderpartiet" #NT!
+ NOR_libertarian_socialist_party_long: "Det Norske Arbeiderparti (Moderates)\n§gThe Norwegian Labour Party§!" #NT!
+ NOR_not_ap_libertarian_socialist_party: "Arbeiderpartiet" #NT!
+ NOR_not_ap_libertarian_socialist_party_long: "Arbeiderpartiet\n§gWorkers' Party§!" #NT!
+ NOR_social_democrat_party: "NSA" #NT!
+ NOR_social_democrat_party_long: "Norges Socialdemokratiske Arbeiderparti\n§gSocial Democratic Labour Party of Norway§!" #NT!
+ NOR_AP_social_democrat_party: "Arbeiderpartiet" #NT!
+ NOR_AP_social_democrat_party_long: "Det Norske Arbeiderparti (Moderates)\n§gThe Norwegian Labour Party§!" #NT!
+ NOR_social_liberal_party: "Venstre" #NT!
+ NOR_social_liberal_party_long: "Venstre\n§gLiberal Party§!" #NT!
+ NOR_market_liberal_party: "Høyre" #NT!
+ NOR_market_liberal_party_long: "Høyre\n§gConservative Party§!" #NT!
+ NOR_social_conservative_party: "Bondepartiet" #NT!
+ NOR_social_conservative_party_long: "Bondepartiet\n§gFarmers' Party§!" #NT!
+ NOR_BP_KRF_social_conservative_party: "Bp/KrF" #NT!
+ NOR_BP_KRF_social_conservative_party_long: "Bondepartiet/Kristelig Folkeparti\n§gFarmers' Party/Christian People's Party§!" #NT!
+ NOR_authoritarian_democrat_party: "Fedrelandslaget" #NT!
+ NOR_authoritarian_democrat_party_long: "Fedrelandslaget\n§gFatherland League§!" #NT!
+ NOR_paternal_autocrat_party: "Alt for Kongen" #NT!
+ NOR_paternal_autocrat_party_long: "Alt for Kongen\n§gEverything for the King§!" #NT!
+ NOR_national_populist_party: "NS" #NT!
+ NOR_national_populist_party_long: "Nasjonal Samling (Conservatives)\n§gNational Gathering§!" #NT!
+ NOR_ns_national_populist_party: "NS" #NT!
+ NOR_ns_national_populist_party_long: "Nasjonal Samling\n§gNational Gathering§!" #NT!
+ NOR_not_ns_national_populist_party: "NU" #NT!
+ NOR_not_ns_national_populist_party_long: "Nasjonale Unionsparti\n§gNational Union Party§!" #NT!
+ NOR_valkist_party: "NS" #NT!
+ NOR_valkist_party_long: "Nasjonal Samling (Radicals)\n§gNational Gathering§!" #NT!
+ NOR_ns_valkist_party: "NS" #NT!
+ NOR_ns_valkist_party_long: "Nasjonal Samling\n§gNational Gathering§!" #NT!
+ NOR_not_ns_valkist_party: "NVF" #NT!
+ NOR_not_ns_valkist_party_long: "Norges Valkistiske Folkefront\n§gValkist People's Front of Norway§!" #NT!
+  
+ NOR_soccon_king_party: "Kongepartiet" #NT!
+ NOR_soccon_king_party_long: "Kongepartiet (Democrats)\n§gKing's Party§!" #NT!
+ NOR_autdem_king_party: "Kongepartiet" #NT!
+ NOR_autdem_king_party_long: "Kongepartiet (Lehmkuhlites)\n§gKing's Party§!" #NT!
+ NOR_pataut_king_party: "Kongepartiet" #NT!
+ NOR_pataut_king_party_long: "Kongepartiet (Loyalists)\n§gKing's Party§!" #NT!
+  
+ NOR_autdem_afk_party: "Alt for Kongen" #NT!
+ NOR_autdem_afk_party_long: "Alt for Kongen (Moderates)\n§gEverything for the King§!" #NT!
+ NOR_pataut_afk_party: "Alt for Kongen" #NT!
+ NOR_pataut_afk_party_long: "Alt for Kongen (Loyalists)\n§gEverything for the King§!" #NT!
+  
+ NOR_LO_collectivist_party: "AFL" #NT!
+ NOR_LO_collectivist_party_long: "Arbeidernes Faglige Landsorganisasjon (Communists)\n§gWorkers' National Trade Union§!" #NT!
+ NOR_LO_libertarian_socialist_party: "AFL" #NT!
+ NOR_LO_libertarian_socialist_party_long: "Arbeidernes Faglige Landsorganisasjon (Syndicalists)\n§gWorkers' National Trade Union§!" #NT!
+ NOR_LO_social_democrat_party: "AFL" #NT!
+ NOR_LO_social_democrat_party_long: "Arbeidernes Faglige Landsorganisasjon (Moderates)\n§gWorkers' National Trade Union§!" #NT!
+  
+ #### Ideas #### 
+  
+ NOR_socialism_surrounded_idea: "Socialism Surrounded" #NT!
+ NOR_socialism_surrounded_idea_desc: "We, the Republic of Norway are ruled by a socialist government, surrounded by conservative and nationalist regimes. To the west, the British Empire rules our seas. In the south, the Danes are waiting to attack and give the throne to the former king. In the east, the Swedes see a chance to reassemble the union, but with them leading it all. And in the north, the White Finns are rebelling against the Soviet Union. We need to preach unity and defence in a time where we truly are surrounded by countries wanting us dead." #NT!
+ NOR_monarchist_right_idea: "The Monarchist Right" #NT!
+ NOR_monarchist_right_idea_desc: "Since the abolition of the monarchy in 1926, the liberals and conservatives have been the main supporters for pro-monarchist choices. This was shown when president Hambro allowed the marriage between the crown prince, Olav, and the Swedish princess, Märtha, to take place in the capital of Oslo. While the bourgeois parties have played by the 1926 constitutional reform, they are not scared of showing their monarchist positions. Many leaders in AP want pro-monarchist actions outlawed and be sentenced to prison, to crush this move!" #NT!
+ NOR_monarchist_right_idea1: "The Monarchist Right" #NT!
+ NOR_war_on_samfundsvernet_idea: "War on Samfundsvernet" #NT!
+ NOR_war_on_samfundsvernet_idea_desc: "Samfundsvernet was created by the bourgeoisie as a weapon against the working class in 1923. This hasn’t changed since then. They were outlawed on New Year's eve of 1931, but they have gone underground. Lead by NS officers, they are a great danger to the country and have many times tried to start a civil war in the country in the last five years. They are still a threat to the people and the state, and should be dealt with to prevent a civil war or a coup!" #NT!
+ NOR_war_on_samfundsvernet_idea1: "War on Samfundsvernet" #NT!
+ NOR_samfundsvernets_rule_idea: "Samfundsvernet is Ruling Norway" #NT!
+ NOR_military_deserters_idea: "Military Deserters" #NT!
+ NOR_military_deserters_idea_desc: "Many soldiers have deserted the military in opposition to the undemocratic choice the government made." #NT!
+ NOR_naval_deserters_idea: "Naval Deserters" #NT!
+ NOR_effect_london_crash_idea: "Effects of the London Crash" #NT!
+ NOR_effect_london_crash_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+  
+ NOR_lower_corporate_tax_idea: "The Private Sector of the Economy" #NT!
+ NOR_lower_corporate_tax_idea1: "The Private Sector of the Economy" #NT!
+ NOR_lower_corporate_tax_idea2: "The Private Sector of the Economy" #NT!
+ NOR_strenghten_nationalized_sector_idea: "The National Sector of the Economy" #NT!
+ NOR_strenghten_nationalized_sector_idea1: "The National Sector of the Economy" #NT!
+ NOR_strenghten_nationalized_sector_idea2: "The National Sector of the Economy" #NT!
+ NOR_new_farmer_quotas_idea: "Agrarian Stimulation" #NT!
+ NOR_establish_labour_welfare_administration_idea: "Labour and Welfare Administration" #NT!
+ NOR_corn_import_tariffs_idea: "Agrarian Stimulation" #NT!
+ NOR_cut_development_aid_idea: "Development Aid Cuts" #NT!
+ NOR_increase_taxes_idea: "Taxes Increased" #NT!
+ NOR_temporary_rations_idea: "Temporary Rations" #NT!
+ NOR_naval_agreement_idea: "Naval Agreement with Britain" #NT!
+ NOR_specialized_army_idea: "Specialized Army" #NT!
+ NOR_anti_milita_act_idea: "Specialized Army" #NT!
+ NOR_strong_in_numbers_idea: "Strong in Numbers" #NT!
+ NOR_start_state_milita_idea: "Strong in Numbers" #NT!
+ NOR_experienced_general_staff_idea: "Strong in Numbers" #NT!
+ NOR_provide_new_equipment_manuals_idea: "Strengthen Weapon Production" #NT!
+ NOR_new_production_quotas_idea: "Strengthen Weapon Production" #NT!
+ NOR_small_ship_efficency_idea: "Small Ship Efficiency" #NT!
+ NOR_protect_our_coast_idea: "Small Ship Efficiency" #NT!
+ NOR_focus_new_flagships_idea: "Focus on New Flagships" #NT!
+ NOR_new_manuals_for_big_ships_idea: "Focus on New Flagships" #NT!
+ NOR_protect_our_waters_idea: "Focus on New Flagships" #NT!
+  
+ NOR_internal_control_idea: "Internal Control" #NT!
+ NOR_internal_control_idea1: "Internal Control" #NT!
+ NOR_internal_control_idea2: "Internal Control" #NT!
+  
+ NOR_grow_welfare_state_idea: "Socialist Welfare System" #NT!
+ NOR_improve_workers_rights_idea: "Socialist Welfare System" #NT!
+ NOR_for_old_and_unemployeed_idea: "Socialist Welfare System" #NT!
+ NOR_for_old_and_unemployeed1_idea: "Socialist Welfare System" #NT!
+ NOR_agrarian_subsidies1_idea: "Socialist Welfare System" #NT!
+ NOR_norwegian_utopia_idea: "Socialist Welfare System" #NT!
+  
+ NOR_socialist_secret_police_idea: "Socialist Secret Police" #NT!
+ NOR_liberal_welfare_plan_idea: "Liberal Welfare System" #NT!
+ NOR_adopt_keynes_idea: "Liberal Welfare System" #NT!
+ NOR_liberal_welfare_plan1_idea: "Liberal Welfare System" #NT!
+ NOR_liberal_welfare_plan2_idea: "Liberal Welfare System" #NT!
+ NOR_liberalism_and_neutrality_idea: "Liberalism and Neutrality" #NT!
+ NOR_oppose_protectionist_policies_idea: "Liberalism and Neutrality" #NT!
+ NOR_promote_liberal_feminism_idea: "Liberalism and Neutrality" #NT!
+ NOR_promote_liberal_feminism1_idea: "Liberalism and Neutrality" #NT!
+ NOR_strengthen_low_church_idea: "Liberalism and Neutrality" #NT!
+ NOR_strengthen_low_church1_idea: "Liberalism and Neutrality" #NT!
+ NOR_strengthen_low_church2_idea: "Liberalism and Neutrality" #NT!
+ NOR_strengthen_low_church3_idea: "Liberalism and Neutrality" #NT!
+  
+ NOR_samfundsvernet_peaceful_idea: "Samfundsvernet is more peaceful" #NT!
+ NOR_samfundsvernet_peaceful_idea_desc: "While there are still militias in the streets, demonstrating against every turn towards the left our government does, the majority of Norsk Samfundsvern have decleared a 'peace' after we removed the ban on conservative and nationalist generals." #NT!
+  
+ NOR_hambro_leadership_idea: "Hambro's Leadership" #NT!
+ NOR_hambro_leadership1_idea: "Hambro's Leadership" #NT!
+ NOR_hambro_leadership2_idea: "Hambro's Leadership" #NT!
+ NOR_hambro_leadership3_idea: "Hambro's Leadership" #NT!
+  
+ NOR_andresen_leadership_idea: "Andresen's Leadership" #NT!
+ NOR_andresen_leadership1_idea: "Andresen's Leadership" #NT!
+ NOR_andresen_leadership2_idea: "Andresen's Leadership" #NT!
+ NOR_andresen_leadership3_idea: "Andresen's Leadership" #NT!
+  
+ NOR_lift_socialist_red_tape_idea: "Post-Regulation Boom" #NT!
+ NOR_balance_the_books_idea: "Post-Regulation Boom" #NT!
+  
+ NOR_balance_the_books1_idea: "Balancing the Books" #NT!
+  
+ NOR_lower_taxes_rich_idea: "Lower Taxes on the Rich" #NT!
+ NOR_found_christian_trade_union_idea: "Paternalist Welfare Plan" #NT!
+ NOR_conservative_welfare_plan_idea: "Paternalist Welfare Plan" #NT!
+ NOR_found_christian_trade_union_idea1: "Paternalist Welfare Plan" #NT!
+  
+ NOR_socialist_opposition_idea: "Socialist Opposition" #NT!
+ NOR_principles_of_democracy_idea: "Principles of Democracy" #NT!
+  
+ NOR_socialist_resistance_idea: "Socialist Resistance" #NT!
+ NOR_socialist_resistance1_idea: "Socialist Resistance" #NT!
+  
+ NOR_peoples_king_idea: "People's King" #NT!
+ NOR_towards_center_idea: "People's King" #NT!
+ NOR_towards_center1_idea: "People's King" #NT!
+ NOR_beyond_partisanship_idea: "People's King" #NT!
+ NOR_facade_of_democracy_idea: "People's King" #NT!
+ NOR_facade_of_democracy1_idea: "People's King" #NT!
+ NOR_absolute_rule_idea: "King by God's Grace" #NT!
+ NOR_enlighten_absolutism_idea: "King by God's Grace" #NT!
+ NOR_enlighten_absolutism1_idea: "King by God's Grace" #NT!
+ NOR_quisling_in_cabinet_idea: "King by God's Grace" #NT!
+ NOR_utilize_ns_structures_idea: "King by God's Grace" #NT!
+ NOR_utilize_ns_structures1_idea: "King by God's Grace" #NT!
+ NOR_subjugate_samfundsvernet_idea: "For the King!" #NT!
+ NOR_royal_privleges_idea: "For the King!" #NT!
+ NOR_christian_moral_society_idea: "For the King!" #NT!
+ NOR_long_live_king_idea: "For the King!" #NT!
+ NOR_benevolent_monarch_idea: "Royal Welfare State" #NT!
+ NOR_empower_fagopposisjonen_idea: "Norske Riket's Fagorganisasjon" #NT!
+ NOR_voluntary_work_service_idea: "Norske Riket's Fagorganisasjon" #NT!
+  
+ NOR_enforce_jodeparagrafen_idea: "Jødeparagrafen" #NT!
+ NOR_loyal_police_idea: "Loyal Police" #NT!
+ NOR_integrate_samfundsvernet_idea: "A National Society" #NT!
+ NOR_heim_ett_fedreland_idea: "A National Society" #NT!
+ NOR_norges_faggruppeorganisasjon_idea: "Norges Faggruppeorganisasjon" #NT!
+ NOR_introduce_arbeidsteneste_idea: "Norges Faggruppeorganisasjon" #NT!
+ NOR_work_camps_for_commies_idea: "NS Arbeidstjeneste" #NT!
+ NOR_militarize_society_idea: "Militarization" #NT!
+ NOR_reforged_christian_church1_idea: "Kirkekampen" #NT!
+ NOR_end_white_christs_influence1_idea: "Kirkekampen" #NT!
+ NOR_reforged_christian_church_idea: "National Christian Church" #NT!
+ NOR_loyalty_to_foreren_idea: "Førerprinsippet" #NT!
+ NOR_with_spirit_st_olav_idea: "St. Olav's Spirit" #NT!
+ NOR_end_white_christs_influence_idea: "Kirkefallet" #NT!
+ NOR_meritocratic_order_idea: "Supremacy of Meritocracy" #NT!
+ NOR_spirit_germanic_volk_idea: "Spirit of the Germanic Volk" #NT!
+ NOR_integrate_capitalist_class_idea: "Corporatist Economics" #NT!
+ NOR_integrate_capitalist_class1_idea: "Corporatist Economics" #NT!
+ NOR_paetelist_principles_idea: "National Socialistic Economics" #NT!
+ NOR_paetelist_principles1_idea: "National Socialistic Economics" #NT!
+ NOR_no_king_of_communist_idea: "No King of Communists" #NT!
+ NOR_st_olavs_spirit_idea: "St. Olav's Spirit" #NT!
+ NOR_promote_christian_valkism_idea: "St. Olav's Spirit" #NT!
+ NOR_loyal_priestes_idea: "St. Olav's Spirit" #NT!
+ NOR_northern_crusaders_idea: "St. Olav's Spirit" #NT!
+ NOR_long_live_nation_natpop_idea: "St. Olav's Spirit" #NT!
+ NOR_odins_spirit_idea: "Odin's Spirit" #NT!
+ NOR_odins_spirit_idea_desc: "You can clearly see that the picture is of 'Fenrisulven'" #NT!
+ NOR_sea_raids_idea: "Odin's Spirit" #NT!
+ NOR_sea_raids_idea_desc: "You can clearly see that the picture is of 'Fenrisulven'" #NT!
+ NOR_purify_society_idea: "Odin's Spirit" #NT!
+ NOR_purify_society_idea_desc: "You can clearly see that the picture is of 'Fenrisulven'" #NT!
+ NOR_long_live_nation_valkist_idea: "Odin's Spirit" #NT!
+ NOR_long_live_nation_valkist_idea_desc: "You can clearly see that the picture is of 'Fenrisulven'" #NT!
+ NOR_greater_norway_idea: "The Spirit of Greater Norway" #NT!
+  
+ NOR_labour_conferrence_1_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_11_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_111_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_112_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_113_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_12_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_121_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_122_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_123_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_13_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_131_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_132_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_133_idea: "Result of the Labour Conference" #NT!
+  
+ NOR_labour_conferrence_2_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_21_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_211_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_212_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_213_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_22_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_221_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_222_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_223_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_23_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_231_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_232_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_233_idea: "Result of the Labour Conference" #NT!
+  
+ NOR_labour_conferrence_3_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_31_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_311_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_312_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_313_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_32_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_321_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_322_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_323_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_33_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_331_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_332_idea: "Result of the Labour Conference" #NT!
+ NOR_labour_conferrence_333_idea: "Result of the Labour Conference" #NT!
+  
+ ## New Ideas ## 
+  
+ NOR_government_president_struggle_idea: "Struggle Between the Government and the President" #NT!
+ NOR_government_president_struggle_idea_desc: "The government and the president is from conflicting political parties, with one representing the political left and the other representing the political right. While the two bodies act as checks on each other, it makes it hard to govern the nation in our direction." #NT!
+ NOR_anti_socialist_protests_idea: "Anti-Socialist Protests" #NT!
+ NOR_anti_socialist_protests_idea1: "Anti-Socialist Protests" #NT!
+ NOR_anti_socialist_protests_idea2: "Anti-Socialist Protests" #NT!
+ NOR_revolution_before_liberty_idea: "Revolution Before Liberty" #NT!
+ NOR_break_chains_of_religion_idea: "Revolution Before Liberty" #NT!
+ NOR_repress_church_activities_idea: "Revolution Before Liberty" #NT!
+ NOR_break_chains_of_religion1_idea: "Breaking the Religious Chains" #NT!
+ NOR_revolutionary_women_idea: "Revolution Before Liberty" #NT!
+ NOR_revolution_before_liberty1_idea: "Revolution Before Liberty" #NT!
+  
+ NOR_fulfill_trondhjemsresolusjonen_idea: "Norwegian Syndicalism" #NT!
+ NOR_revolutionary_women1_idea: "Norwegian Syndicalism" #NT!
+ NOR_power_in_unions_idea: "Norwegian Syndicalism" #NT!
+ NOR_revolutionary_women2_idea: "Norwegian Syndicalism" #NT!
+ NOR_secularization_idea: "Norwegian Syndicalism" #NT!
+ NOR_revolutionary_women3_idea: "Norwegian Syndicalism" #NT!
+ NOR_secularization1_idea: "Norwegian Syndicalism" #NT!
+ NOR_revolutionary_women4_idea: "Norwegian Syndicalism" #NT!
+ NOR_break_chains_of_religion2_idea: "Secularization" #NT!
+  
+ NOR_nationalize_private_businesses_idea: "Communist Economics" #NT!
+ NOR_collectivized_agriculture_idea: "Communist Economics" #NT!
+ NOR_collectivize_farmland1_idea: "Towards Collectivization" #NT!
+  
+ NOR_agrarian_subsidies_idea: "Socialist Welfare System" #NT!
+ NOR_challenge_traditional_roles_idea: "Challenge Traditionalism" #NT!
+ NOR_a_social_democracy_idea: "Principles of Socialist Democracy" #NT!
+ NOR_socialism_and_liberal_feminism_idea: "Principles of Socialist Democracy" #NT!
+ NOR_socialism_and_liberal_feminism1_idea: "Principles of Socialist Democracy" #NT!
+ NOR_secularization_socdem_idea: "Secular Society" #NT!
+  
+ NOR_assure_loyalty_police_idea: "Police Loyalty" #NT!
+ NOR_gain_support_lower_christianity_idea: "Low Church Support" #NT!
+ NOR_strengthen_royal_patriotism_idea: "Royal Patriotism" #NT!
+  
+ ## Newer Ideas ## 
+  
+ NOR_cut_military_spending_idea: "Military Budget Cuts" #NT!
+ NOR_alleviate_indebted_farmers_idea: "Rescuing Indebted Farmers" #NT!
+ NOR_cut_subsidies_idea: "Subsidies Cuts" #NT!
+ NOR_crisis_farm_subsidies_idea: "Crisis Subsidies" #NT!
+ NOR_our_trade_partners_idea: "Renewed Norwegian Trade" #NT!
+  
+ NOR_specialized_experienced_general_staff_idea: "Specialized Army" #NT!
+ NOR_specialized_establish_home_guard_idea: "Specialized Army" #NT!
+ NOR_specialized_army_complete_idea: "Specialized Army" #NT!
+ NOR_numbers_experienced_general_staff_idea: "Strong in Numbers" #NT!
+ NOR_numbers_establish_home_guard_idea: "Strong in Numbers" #NT!
+ NOR_numbers_army_complete_idea: "Strong in Numbers" #NT!
+  
+ ## New Foreign Ideas ## 
+  
+ NOR_spreading_revolution_idea: "Spreading the Revolution" #NT!
+ NOR_socialist_scandinavianism_idea: "Socialist Scandinavianism" #NT!
+ NOR_support_finns_idea: "Aid From Norway" #NT!
+ NOR_entente_advisors_idea: "Entente Advisors" #NT!
+ NOR_prepare_for_german_confrontation_idea: "Ready For Confrontation" #NT!
+ NOR_securing_nordic_front_idea: "Ready Against the Swedes" #NT!
+ NOR_nordic_neutrality_idea: "Nordic Neutrality" #NT!
+ NOR_military_cooperation_weak_idea: "Nordic Neutrality" #NT!
+ NOR_military_cooperation_mid_idea: "Nordic Neutrality" #NT!
+ NOR_military_cooperation_strong_idea: "Nordic Neutrality" #NT!
+ NOR_military_cooperation_idea: "Pan-Nordic Cooperation" #NT!
+  
+ #### Companies #### 
+  
+ NOR_norsk_hydro: "«Норск Хидро»"
+ NOR_christiania_spigerverk: "Christiania Spigerverk" #NT!
+ NOR_norsk_jernverk: "Norsk Jernverk" #NT!
+ NOR_tandbergs_radiofabrikk: "«Тандбергс Радиофабрикк»"
+ NOR_ostlandske_petroleum: "Østlandske Petroleumscompagni" #NT!
+ NOR_vestlandske_petroleum: "Vestlandske Petroleumskompani" #NT!
+  
+ NOR_raufoss: "Raufoss Ammunisjonsfabrikker" #NT!
+ NOR_kongsberg_vapen1: "Kongsberg Våpenfabrikk" #NT!
+  
+ NOR_kongsberg_vapen2: "Kongsberg Våpenfabrikk" #NT!
+ NOR_norsk_automobil: "Norsk Automobilfabrikk" #NT!
+ NOR_thunes_mek: "Thunes Mekaniske Verksted" #NT!
+ NOR_norges_statsbaner: "Norges Statsbaner" #NT!
+  
+ NOR_kjeller_flyfabrikk: "Kjeller Flyfabrikk" #NT!
+ NOR_marinens_flyvebaat: "Marinens Flyvebaatfabrikk" #NT!
+  
+ ### Norway ### 
+ norsk_hydro: "Norsk Hydro" #NT!
+ christiania_spigerverk: "Christiania Spigerverk" #NT!
+ norsk_jernverk: "Norsk Jernverk" #NT!
+ tandbergs_radiofabrikk: "Tandbergs Radiofabrikk" #NT!
+ borregaard: "Borregaard" #NT!
+ ostlandske_petroleum: "Østlandske Petroleumscompagni" #NT!
+ raufoss: "Raufoss Ammunisjonsfabrikker" #NT!
+ kr_kongsberg: "Kongsberg Våpenfabrikk" #NT!
+ norsk_sprengstoff: "Norsk Sprængstofindustri" #NT!
+ norsk_automobil: "Den Norske Automobilfabrikk" #NT!
+ thunes_mek: "Thunes Mekaniske Verksted" #NT!
+ norges_statsbaner: "Norges Statsbaner" #NT!
+ kjeller_flyfabrikk: "«Кьеллер Флайфабрикк»"
+ marinens_flyvebaat: "Marinens Flyvebaatfabrikk" #NT!
+ det_norske_luftfartselskap: "Det Norske Luftfartselskap" #NT!
+ norway_sas_company: "Scandinavian Airlines" #NT!
+ marinens_hovedverft: "Marinens Hovedverft" #NT!
+ nylands_verksted: "Nylands Verksted" #NT!
+  
+ #### Events #### 
+  
+ nor.0.t: "The Republic of Norway" #NT!
+ nor.0.d: "Norway became independent from Sweden in 1905, exiting the union that was established between these nations. One of the first questions the people of Norway had before themselves was if we should become a constitutional monarchy or a republic. The people then, all of the men 25 years old and older, voted for the monarchy. Prince Carl of Denmark came to Norway as King Haakon VII.\n\nBut not everyone was okay with the monarchy. When the Great War waged on, the class differences helped the worker movement to grow in our country and, after the war, the working class had become poorer and the upper class richer. With the ideas of Karl Marx, it was all laid down for revolution. Many can say it started with Denmark's turn into a dictatorship under their king. The fact that this king was King Haakon's brother was reason enough to get the workers up into a strike. The Oslo Strike was a protest against capitalism and monarchy. It was for the most part peaceful, but where it got violent was proof for many politicians in Arbeiderpartiet that the state and police were after them.\n\nThis was also the time when Martin Tranmæl emerged in Norwegian politics. He was the front-runner for the abolishment of the monarchy in 1926 and was a natural candidate for president. He represented the main opposition towards president Hambro. In 1930, Martin Tranmæl, for Arbeiderpartiet, won the presidential election while his comrades formed government.\n\nSince then, Arbeiderpartiet has yielded huge power. But their power is not eternal. There are potential enemies all around the nation, Sweden, Denmark and the emerging power in Germany. At the same time has monarchism and nationalism risen in the country. There is an increasing danger of militant groups taking power. With all the changes in the world, the upcoming election can be a new turning point in Norwegian history." #NT!
+ nor.0.a: "Evig og Tro til Dovre Faller!" #NT!
+ nor.1.t: "17th of May - Constitution Day" #NT!
+ nor.1.d: "It is the 17th of May, constitution day. This day is marked every year by both children and adults marching in the towns, waving their flags. All this is for celebrating the day when our constitution was signed into law, 17th of May 1814. Since then, the constitution has been changed. But the core material has mostly survived, making it one of the oldest constitutions in the world." #NT!
+ nor.1.a: "Hurra! Hurra! Hurra!" #NT!
+ nor.2.t: "17th of May - Constitution Day" #NT!
+ nor.2.d: "It is the 17th of May, constitution day. This day is marked every year by both children and adults marching in the towns, waving their flags. All this is for celebrating the day when our constitution was signed into law, 17th of May 1814. Since then, the constitution has been changed. But the core material has mostly survived, making it one of the oldest constitutions in the world." #NT!
+ nor.2.a: "Hurra! Hurra! Hurra!" #NT!
+ nor.3.t: "London Crash Affects us too!" #NT!
+ nor.3.d: "Some days ago, the stock market in London crashed. Some of the members of the government and many in society said that we would not be affected. But we did. After members of the Continental Entente, today stopped all investment and all trade with us, we are not completely ready to deal with this problem. Already has unemployment risen and the state-owned companies are demanding more money and resources. The enemies of the government have already begun to blame us. We must just wait what the news will be filled with tomorrow." #NT!
+ nor.3.a: "Tranmæl Holds a Speech Promising Growth and no ties with Capitalists!" #NT!
+ nor.3.b: "Christensen Holds a Speech Warning Against Government Interference!" #NT!
+ nor.3.c: "Quisling Holds a Speech Blaming the Socialists to have ruined Norway!" #NT!
+ nor.4.t: "Crisis in the Economy" #NT!
+ nor.4.d: "It seems that the unemployment rate has stopped going up and that we have been lucky in contrast to the situation in Britain. But it is not perfect here either. The worst is that the election is up in just a few days, and many say that this incident will sway the voters away from Martin Tranmæl and Arbeiderpartiet." #NT!
+ nor.4.a: "It can't get worse at least!" #NT!
+ nor.5.t: "Landslaget for Norske Jordbruksklubber" #NT!
+ nor.5.d: "Since the 1920s there has always been an idea to get the youth interested in agriculture. The idea itself comes from the American organization 4-H. The rural clubs that have grown have now got together to organize. While some radicals see this as agrarian propaganda, president Tranmæl has shown his support for this." #NT!
+ nor.5.a: "Clear Head, warm Heart, good Hands and good Health!" #NT!
+ nor.6.t: "Rockfall in Loenvatnet" #NT!
+ nor.6.d: "Bad news has arrived from the towns of Sogn og Fjordane Amt. Not so many hours ago, a huge bit of the mountain Ramnefjellet slid down into the lake, creating a 70-meter high flood wave that destroyed many nearby farms and killed 74 peoples. Many peoples are now waiting for the president to give a speech, showing his concern for the affected families and friends." #NT!
+ nor.6.a: "Rest in Peace!" #NT!
+ nor.7.t: "Alt for Kongen's Peoples March" #NT!
+ nor.7.d: "When news from England came, giving the news of the birth of Prince Harald, son of Crown Prince Olav, the monarchists were not late to organize protest against the Republic. Lead by Rudolf Ræder, once leading member of Frisinnende Venstre before the party merged into Høyre, and now self-proclaimed leader of the monarchist movement, the monarchists marched in the capital of Oslo, mocking both the republic and the Oslo strike. What are we going to do about this?" #NT!
+ nor.7.a: "They will be tired soon." #NT!
+ nor.7.b: "Arrest so many you can!" #NT!
+  
+ nor.10.t: "Election Campaign Begins" #NT!
+ nor.10.d: "When Norway became a republic, the president got the job to declare when an election campaign should begin before the election. Today, president Tanmæl has proclaimed that the election campaigns for the 1936 election can begin. Speeches will be held and posters will be hung up.\n\nArbeiderpartiet will this year focus on healing the divisions on the left, but wings of the party have a different program, that may make the party break apart. Venstre will campaign for the reprivatization of 'stolen' businesses and their own welfare plan. They hope to get both liberals and social democrats to support them. Høyre will campaign for the privatizing of important businesses and the monarchy. They wish to get conservative liberals and nationalists to support them on this. There are minor parties, but these are the most important." #NT!
+ nor.10.a: "Interesting Every Time." #NT!
+ nor.11.t: "Nasjonal Samling Involved in the Election" #NT!
+ nor.11.d: "The political party Nasjonal Samling has for the last elections played a minor role, sometimes not getting involved in them at all. But today Vidkun Quisling, the party's leader, held a speech in front of Stortinget, our national assembly. He was joined by some of his party comrades and attracted around 200 passersbys. Quisling declared that he will be more involved in the election, and if he and his party are not allowed to participate, it would show the government's undemocratic nature. The police are ready to arrest Quisling after his speech." #NT!
+ nor.11.a: "Arrest Him!" #NT!
+ nor.11.b: "Let us Not Prove Our Undemocratic Nature to Him!" #NT!
+ nor.12.t: "Radical Socialists are Protesting" #NT!
+ nor.12.d: "Because of our acceptance over Quisling's speech that was held some days ago, many radical socialists, labour unionists and communists are protesting this in front of Stortinget. Many of them want to see the right-wing parties banned, with their posters saying: 'No Quisling, No Ræder, No Mogens!'" #NT!
+ nor.12.a: "Maybe a Ban could Work." #NT!
+ nor.13.t: "Samfundsvernet Protest Quisling's Arrestation" #NT!
+ nor.13.d: "Because of the recent arrest of Nasjonal Samling leader Vidkun Quisling, many of those who have been suspected to be members of the right-winged militant group called Samfundsvernet, have protested in the streets of our capital city and surrounding towns. They are also spreading 'lies' about our government. That we arrest nationalists and try to arrest or assassinate conservative voices in parliament. Police have already been sent in." #NT!
+ nor.13.a: "Maybe we should Strengthen this Fight!" #NT!
+ nor.14.t: "Election Day" #NT!
+ nor.14.d: "The time for campaigning is over. The election date is here finally. Today, we will see the will of the people play out. Some has said that this could become another victory for Arbeiderpartiet. Martin Tranmæl is still an inspiring figure in Norwegian politics. He is certain to win a third term as president, or give his position to a new, hopefully as uniting, figure. Others have faith that a new government will be formed. Both Venstre and Høyre has good chances this year, and many have blamed the Madsen government for the economic instability. Some would like to see Mowinckel or Christensen as the new president in Norway.\n\nThe president also has the power to cancel the election if he sees the situation to hold one to dangerous. But this choice would be very unpopular, and many believe it would only help the right-wing in our country gaining support. Let us see what's happens." #NT!
+ nor.14.a: "While Losing some Support, Arbeiderpartiet still Wins." #NT!
+ nor.14.b: "Stealing votes from AP and Høyre has made Venstre victorious." #NT!
+ nor.14.c: "Høyre managed to win both the centre and the right." #NT!
+ nor.14.e: "Stop this election! It weakens National Security!" #NT!
+ nor.15.t: "Arbeiderpartiet's New Government" #NT!
+ nor.15.d: "Arbeiderpartiet has won the election and it is now time to choose who shall lead the government. There are two possible option, Peder Furubotn, who wants closer ties with the internationalist vanguardists and to spread socialism in Scandinavia, or Aksel Zachariassen, who wants to heal the bond between the party and the social democrats, and wants to protect democratic values." #NT!
+ nor.15.a: "The Radical Furubotn!" #NT!
+ nor.15.b: "The Moderate Zachariassen!" #NT!
+  
+ nor.16.t: "Mass Protests Against the Canceled Election!" #NT!
+ nor.16.d: "Canceling the election seems to have been a pretty bad idea. People all over the country are in protest, and places in the conservative Western Norway are in open revolts. There are also revolts beginning to grow in other regions. Many are now turning to the radical right to make them 'save' Norwegian democracy. Nearly everything is set for a coup or civil war." #NT!
+ nor.16.a: "May God Help Us!" #NT!
+  
+ nor.17.t: "Military Deserters" #NT!
+ nor.17.d: "Many more of our soldiers have now declared that they do not want to protect the government and their actions. Many conservative, liberal and nationalist soldiers have now deserted, some joining Norsk Samfundsvern." #NT!
+ nor.17.a: "Can we Even Punish Them?!" #NT!
+ nor.18.t: "Naval Deserters" #NT!
+ nor.18.d: "Not only has military soldiers from the army begun to desert. Now even naval marines and low ranking officers have deserted. There is even a coastal patrol that has sailed to Denmark and sworn loyalty to the former king." #NT!
+ nor.18.a: "What's Next? The Air Force?!" #NT!
+ nor.19.t: "Party Divides!" #NT!
+ nor.19.d: "Peder Furubotn has recently declared that he will lead the communist and radical parts of our party out and form a new party. He believes that Arbeiderpartiet is a sinking boat. Many of our most radical politicians and supporters have now left us!" #NT!
+ nor.19.a: "Bastards!" #NT!
+ nor.20.t: "Christmas Uprising" #NT!
+ nor.20.d: "It seemed that the Christmas time would become a peaceful event. But we were wrong. Cities in West and South has started an uprising. Thousands of people march in the street against the government and president Tranmæl." #NT!
+ nor.20.a: "I'm Glad we Don't have Opinion Polls" #NT!
+ nor.21.t: "Uprising in Oslo" #NT!
+ nor.21.d: "Protests has been going on the last months, but now, the whole city of Oslo was consumed by the fire of revolts. Samfundsvernet has been mobilized, and with the support of many angry men and women, they have started a major revolt. Many of our army units have either deserted to these enemies, or not responding to orders at all.\n\nAt the castle, the guards have either joined the protest or been murdered by rebels. Stones are already been thrown at the windows and into the presidential residence. Then did..." #NT!
+ nor.21.a: "...Samfundsvernet break through the front door and arrest Tranmæl!" #NT!
+ nor.22.t: "New Government in Norway" #NT!
+ nor.22.d: "Norsk Samfundsvern has couped Norway and its time to find out what kind of government we are going to adopt. Some of our members want to give power to the conservatives, but there is also many that want us to invite back the king and let him rule. Lastly, there is the faction that wants to let Nasjonal Samling take power and control the country. We have to see what will be voted on." #NT!
+ nor.22.a: "Democracy!" #NT!
+ nor.22.b: "Monarchy!" #NT!
+ nor.22.c: "Nationalism!" #NT!
+  
+ nor.23.t: "Understanding Towards the Cancellation" #NT!
+ nor.23.d: "While many is angry that we canceled the election, understanding towards the action has begun to rise in the population. People begin to understand that Norsk Samfundsvern is not something better than the government." #NT!
+ nor.23.a: "We Promise Election in 1940" #NT!
+ nor.24.t: "Peaceful Christmas" #NT!
+ nor.24.d: "We were afraid for protests and rebellions around Christmas time, but it has been relatively very peaceful. People do not want to rebel in the holiday season, and most of them have taken the choice to stay at home and be with their families." #NT!
+ nor.24.a: "Good Choice!" #NT!
+ nor.25.t: "Coup Prevented" #NT!
+ nor.25.d: "This new years day, the militant group Norsk Samfundsvern mobilized and marched on the capital. While many military units have deserted, the ones in Oslo stayed loyal and managed to stop the paramilitary group from reaching the parliament or the castle. They are also losing the support of the population, and the people of Oslo has given information about where these traitors are hiding. The president has..." #NT!
+ nor.25.a: "...ordered to rout out the Militants in Oslo!" #NT!
+ nor.26.t: "Agreements with Deserters" #NT!
+ nor.26.d: "Many of those that have deserted from our armed forces want to talk with us about an agreement. Some of the party's members don't want us to make an agreement with deserters, but president Tranmæl is open to set an agreement. He and many moderates see it as something essential to stabilize the country and bring on peace and prosperity." #NT!
+ nor.26.a: "We Need to Heal our Country and Nation!" #NT!
+  
+ nor.30.t: "Strengthen Campaigns Against Internal Enemies" #NT!
+ nor.30.d: "The president has ordered a strengthen campaign against the actions of internal enemies such as the monarchists and Norsk Samfundsvern. Our leadership believes this will finally start an era of inner peace and prosperity." #NT!
+ nor.30.a: "Let's Begin!" #NT!
+ nor.31.t: "A New Monarchy Referendum" #NT!
+ nor.31.d: "It is over a decade ago we abolished the monarchy. While some believe that was a good option, some of us are not so sure anymore that this was the right choice. Our government will have a new referendum on this topic." #NT!
+ nor.31.a: "Majority for the Monarchy" #NT!
+ nor.31.b: "Majority for the Republic" #NT!
+ nor.32.t: "Establishment of Independent Radios" #NT!
+ nor.32.d: "The monopoly on the radio is now officially abolished. From now on, you can send radio signals from inside the country without being arrested for it. Another thing is that the people are allowed to listen in on foreign radio, while this was seen as treason under president Tranmæl." #NT!
+ nor.32.a: "Let the People Speak!" #NT!
+ nor.33.t: "Long Live King Olav V" #NT!
+ nor.33.d: "We were lucky when the former crown prince accepted to come back to the nation. It was similar to when king Haakon first came to our nation. Members of Norsk Samfundsvern and Alt for Kongen met him on the dockyard, welcoming him, just like prime minister Michelsen welcomed king Haakon in 1905. The new king's coronation is not so long away!" #NT!
+ nor.33.a: "God Bless king Olav V!" #NT!
+ nor.34.t: "Long Live King Haakon VII" #NT!
+ nor.34.d: "Our glorious king, our monarch, has accepted to come back to Norway from Denmark. When he came, he was met by members of Norsk Samfundsvern, Alt for Kongen and Nasjonal Samling. Even Vidkun Quisling and Ragnvald Hvoslef were there to honour King Haakon’s arrival, the latter of which was to safely transport king Haakon to the palace. A new coronation will soon be held." #NT!
+ nor.34.a: "God Bless King Haakon VII" #NT!
+ nor.35.t: "The King Meets with Quisling" #NT!
+ nor.35.d: "Our king has recently arranged a meeting with Vidkun Quisling. The subject of the meeting was to arrange an agreement between the king and Nasjonal Samling to have the political party to help the king governing the country. It is truly both a dangerous and an inspiring agreement." #NT!
+ nor.35.a: "For the King and the Nation" #NT!
+ nor.36.t: "Nasjonal Samling and Valkist Factionalism" #NT!
+ nor.36.d: "Since Vidkun Quisling and his Nasjonal Samling came to power, rifts have begun to be sown between different factions inside the party, with the growth of Valkist-inspired opposition groups who doesn't think that Quisling is doing enough. They are also critical towards a leadership that favors bourgeoisie capitalists over workers, venerate Quisling without good reason, and kowtow to a Christian Church that has showned their illoyalty towards Nasjonal Samling time and time again.\n\nIt is finally time to do away with the opposition. Quisling has called an assembly for the party. One with the goal to rid the country of his most ardent critics. With the result of this assembly tallied, we can see that..." #NT!
+ nor.36.a: "...Quisling Manages to Purge the Party" #NT!
+ nor.36.b: "...the Opposition Overthrows Quisling" #NT!
+ nor.37.t: "Election to the King's Council" #NT!
+ nor.37.d: "Our new king, Olav V, has set into system, a new kind of democracy in our realm. He will continue to bear much of the powers of ruling in Norway, but his Council will be no longer picked by him, but the people. He and his loyalists are, after all, fighting for the people of Norway! We will now see who will be the hand of the king.\n\nC. J. Hambro is one candidate accepted to run for hand of the King. By some regarded as the monarchist president after he allowed, then crown prince Olav's marriage to take place in Oslo after the Republic was declared. Being a member of a major party will also work for him.\n\nJoakim Lehmkuhl is another candidate that has been accepted to run. Leading the right-wing Fedrelandslaget, he is backed by many allies of the monarchy and the king, along with a big section of Norwegian nationalists.\n\nRudolf Ræder, the current hand, is the favorite candidate by the establishment of Alt for Kongen. His role in establishing the Kingdom of Norway might also help him in winning the election." #NT!
+ nor.37.a: "C. J. Hambro is Elected Hand!" #NT!
+ nor.37.b: "Joachim Lehmkuhl is Elected Hand!" #NT!
+ nor.37.c: "Rudolf Ræder will Continue as Hand!" #NT!
+  
+ nor.40.t: "Our North Atlantic Brothers" #NT!
+ nor.40.d: "We will finally send an ultimatum to those occupying our lands in the North Atlantic. We shall show them that we will not accept that we have brothers living under foreign occupation!" #NT!
+ nor.40.a: "Send the Ultimatum" #NT!
+ nor.40.b: "Let us wait.." #NT!
+ nor.41.t: "Norway Demands the North Atlantic" #NT!
+ nor.41.d: "The Norwegians have come with a demand, to hand over our North Atlantic territories or face war. Many of our commanders want us to say no to this demand, but there are some who believe that it would be better for the country to accept the proposal." #NT!
+ nor.41.a: "No land before blood has been shed!" #NT!
+ nor.41.b: "Okay, we accept their demand!" #NT!
+ nor.42.t: "The [FROM.GetAdjective] Accept the Demand" #NT!
+ nor.42.d: "They accepted the demand we have given them. Maybe we can be friends after all. This has been a great diplomatic victory for our nation and for our brothers in the North Atlantic." #NT!
+ nor.42.a: "Good Choice!" #NT!
+ nor.43.t: "The [FROM.GetAdjective] Rejected the Demand" #NT!
+ nor.43.d: "They rejected our honourable demand! We will show them what happens in the case of rejection! We can either declare war or back down. It comes down to this." #NT!
+ nor.43.a: "We started it! We finish it! War!" #NT!
+ nor.43.b: "Let's back down. We are not ready for war." #NT!
+ nor.44.t: "Norway Back Down" #NT!
+ nor.44.d: "Norway has given up its claims in the North Atlantic. But we guess this will not be the end." #NT!
+ nor.44.a: "Victory for us At Least!" #NT!
+ nor.45.t: "Norway Demands the North Atlantic" #NT!
+ nor.45.d: "The Norwegians have come with a demand, to leave the territories of Greenland, Iceland and the Faroe Islands or face war. Many of our commanders want us to say no to this demand, but there are some who believe that it would be better for the country to accept the proposal." #NT!
+ nor.45.a: "No land before blood has been shed!" #NT!
+ nor.45.b: "Okay, we accept their demand!" #NT!
+ nor.46.t: "The British Accept the Demand" #NT!
+ nor.46.d: "They have accepted the demand we gave them. Maybe we can be friends after all. This has been a great diplomatic victory for our nation and for our brothers in the North Atlantic." #NT!
+ nor.46.a: "Good Choice!" #NT!
+ nor.47.t: "The British Rejected the Demand" #NT!
+ nor.47.d: "They rejected our honourable demand! We will show them what happens in the case of rejection! We can either declare war or back down. It comes down to this." #NT!
+ nor.47.a: "We started it! We finish it! War!" #NT!
+ nor.47.b: "Let's Back Down. We are not Ready for war." #NT!
+ nor.48.t: "Norway Back Down" #NT!
+ nor.48.d: "Norway has backed down from their claims in the North Atlantic. But we guess this will not be the end." #NT!
+ nor.48.a: "Victory for us At Least!" #NT!
+ nor.49.t: "Peace in the North Atlantic?" #NT!
+ nor.49.d: "We are now winning, and both us and our enemy are now willing to sue for peace." #NT!
+ nor.49.a: "Let's Make Peace." #NT!
+ nor.49.b: "Never!" #NT!
+ nor.50.t: "Norway wants Peace!" #NT!
+ nor.50.d: "Peace talks" #NT!
+ nor.50.a: "Okay" #NT!
+ nor.50.b: "Niet" #NT!
+ nor.51.t: "Britain Accepts Peace" #NT!
+ nor.51.d: "The British have accepted our demand of ceding the North Atlantic territories over to us." #NT!
+ nor.51.a: "Victory!" #NT!
+  
+ nor.52.t: "Our Brothers in the East" #NT!
+ nor.52.d: "We will finally send an ultimatum to those occupying Jemtland and Alvheim from us. We shall show them that we will not accept that we have brothers living under foreign occupation!" #NT!
+ nor.52.a: "Send the Ultimatum" #NT!
+ nor.52.b: "Let us wait.." #NT!
+ nor.53.t: "Norway Demands Bohuslen and Jamtland" #NT!
+ nor.53.d: "The Norwegians have come with a demand, to hand over the territories of Bohuslen and Jamtland or face war. Many of our commanders want us to say no to this demand, but there are some who believe that it would be better for the country to accept the proposal." #NT!
+ nor.53.a: "No land before blood has been shed!" #NT!
+ nor.53.b: "Okay, we accept their demand!" #NT!
+ nor.54.t: "The Swedes Accept the Demand" #NT!
+ nor.54.d: "They accepted the demand we have given them. Maybe we can be friends after all. This has been a great diplomatic victory for our nation and for our brothers in Bohuslen and Jamtland." #NT!
+ nor.54.a: "Good Choice!" #NT!
+ nor.55.t: "The Swedes Rejected the Demand" #NT!
+ nor.55.d: "They rejected our honourable demand! We will show them what happens in the case of rejection! We can either declare war or back down. It comes down to this." #NT!
+ nor.55.a: "We started it! We finish it! War!" #NT!
+ nor.55.b: "Let's back down. We are not ready for war." #NT!
+ nor.56.t: "Norway Backs Down" #NT!
+ nor.56.d: "Norway has given up its claims on Bohuslen and Jamtland. But we guess this will not be the end." #NT!
+ nor.56.a: "Victory for us At Least!" #NT!
+  
+ nor.61.t: "For the Kings of Scandinavia" #NT!
+ nor.61.d: "As our families have such strong ties to each other, our king wants to sign a 'Non-Aggression and Protection' pact with Denmark and its king, Christian X, and with Sweden and its king, Gustaf V. Hopefully will the Danish and Swedish governments agree to this, to upheld peace and prosperity!" #NT!
+ nor.61.a: "Send the Letters!" #NT!
+ nor.61.b: "Nevermind.." #NT!
+ nor.62.t: "Norway Wants Non-Aggression and Protection Pact" #NT!
+ nor.62.d: "The Norwegian king recently sent us a letter, containing a request for a Non-Aggression and Protection pact between us, them and Denmark. Shall we approve this request?" #NT!
+ nor.62.a: "We would prosper from this!" #NT!
+ nor.62.b: "We can't trust them!" #NT!
+ nor.63.t: "Sweden Accepts" #NT!
+ nor.63.d: "The Swedish have accepted our proposal, and have agreed on Non-Aggression and Protection. They see that peace is more important than war." #NT!
+ nor.63.a: "Excellent!" #NT!
+ nor.64.t: "Sweden Rejects" #NT!
+ nor.64.d: "The Swedish has rejected our proposal of peace and harmony. They may have some plans against us as an independent nation!" #NT!
+ nor.64.a: "They may be a Warmongerer!" #NT!
+ nor.65.t: "Norway Wants Non-Aggression and Protection Pact" #NT!
+ nor.65.d: "The Norwegian king recently sent us a letter, containing a request for a Non-Aggression and Protection pact between us, them and Sweden. Shall we approve this request?" #NT!
+ nor.65.a: "We would prosper from this!" #NT!
+ nor.65.b: "We can't trust them!" #NT!
+ nor.66.t: "Denmark Accepts" #NT!
+ nor.66.d: "The Danish have accepted our proposal, and have agreed on Non-Aggression and Protection. They see that peace is more important than war." #NT!
+ nor.66.a: "Excellent!" #NT!
+ nor.67.t: "Denmark Rejects" #NT!
+ nor.67.d: "The Danish has rejected our proposal of peace and harmony. They may have some plans against us as an independent nation!" #NT!
+ nor.67.a: "They may be a Warmongerer!" #NT!
+ nor.68.t: "Both Sweden and Denmark Agreed!" #NT!
+ nor.68.d: "Both of the Kingdoms of Sweden and Denmark have agreed to sign the 'Non-Aggression and Protection' pact. No-one will now be able to attack any of us without interference!" #NT!
+ nor.68.a: "Long Live, Kings of Scandinavia!" #NT!
+  
+ nor.70.t: "Norway Wants to Join the Stahlpakt!" #NT!
+ nor.70.d: "A diplomatic convoy from Norway has just arrived in our capital. The Norwegians came to ask if they can join the Stahlpakt. This could be helpful for us in securing the Skagerrak from French or British ships." #NT!
+ nor.70.a: "Welcome to the Pakt!" #NT!
+ nor.70.b: "We do not need you!" #NT!
+ nor.71.t: "Germany Welcomes Us!" #NT!
+ nor.71.d: "The Germans have been willing to let us in their alliance. This will surely be the start of a long friendship." #NT!
+ nor.71.a: "Long Live Norway and Germany!" #NT!
+ nor.72.t: "The Germans Reject" #NT!
+ nor.72.d: "The Germans had the nerve to reject our humble request. This will not be forgotten by our leadership in the future." #NT!
+ nor.72.a: "Norway Doesn't Need Germany!" #NT!
+ nor.73.t: "Norway Wants to Join the Third International!" #NT!
+ nor.73.d: "A diplomatic convoy from Norway has just arrived our capital. The Norwegians came to ask if they can join the Tretiy Internazional. This could be helpful for us in securing the Norwegian sea from British ships." #NT!
+ nor.73.a: "Welcome to the International!" #NT!
+ nor.73.b: "We do not need you!" #NT!
+ nor.74.t: "Soviet Russia Welcomes us!" #NT!
+ nor.74.d: "The Soviets have been willing to let us in their alliance. This will surely be the start of a long friendship." #NT!
+ nor.74.a: "Long Live Norway and the Soviet Union!" #NT!
+ nor.75.t: "The Soviets Rejects" #NT!
+ nor.75.d: "The Soviets had the nerve to reject our humble request. This will not be forgotten by our leadership in the future." #NT!
+ nor.75.a: "Norway Doesn't Need the Soviet Union!" #NT!
+  
+ nor.76.t: "The Norwegians Want a Naval Agreement With Us" #NT!
+ nor.76.d: "Norway has approached us with the proposal of a naval agreement between our two nations. They believe that this cooperation would be beneficial for both of us in the long run." #NT!
+ nor.76.a: "Okay!" #NT!
+ nor.76.b: "We Do Not Want to be Involved" #NT!
+ nor.77.t: "The British Accept the Agreement" #NT!
+ nor.77.d: "The British has accepted the naval agreement between us and them. We are thrilled to hear that they want to sign under on this." #NT!
+ nor.77.a: "For Norway and the British Empire!" #NT!
+ nor.78.t: "The British Reject the Agreement" #NT!
+ nor.78.d: "The British has rejected the naval agreement between us and them. We are a little disappointed, but what the future might give us is still unknown." #NT!
+ nor.78.a: "What a Pity.." #NT!
+  
+ nor.80.t: "Mowinckel's Legacy" #NT!
+ nor.80.d: "Johan Ludwig Mowinckel have been an ever-present figure in Norwegian politics since the end of the Great War. Already with his entrence into Norwegian national politics in 1919, he caused change in society. For him to be able, as a Free-spirited man outside the Church, to enter government, the constitutional amendment known as 'Lex Mowinckel' was passed. Since then, he have rissen to become a leading figure in Venstre and the heir to Gunnar Knudsen. However, despite the reforms passed under his governance, the 1920s were also an age marked by a fall of the popularity of Venstre in favor of the rising labour movement. The end came with the rise of the revolutionary Martin Tranmæl to the presidency and his Labour Party to government, placing Venstre onto the opposition bench.\n\nThe economic crisis has given Venstre and Mowinckel a chance to rectify the country away from revolutionaries and building a better liberal legacy. However, too many blame the economic liberalism that Mowinckel champions for the crisis and has lost faith in capitalism. They forget that we weren't in charge when the crisis hit, Labour was. We need to show them that liberalism is the solution to the hardship Norway faces, not the cause." #NT!
+ nor.80.a: "Our Work Begins Now!" #NT!
+  
+ nor.81.t: "Høyre's Leadership" #NT!
+ nor.81.d: "The Conservative Party was fairly united under the leadership of Ivar Lykke. Lykke even managed to keep most of the financial backers of the party when crisis saw it possible for them to break off and support the Free-Minded Liberals. However, Lykke stepped away from leadership years ago, and in his place the party is led by Carl Joachim Hambro. While Hambro has great oratory talents and is a strong principle defender of civilized democracy against the encroachment of totalitarian ideologies, he has also his dissidents. Many see Hambro as not focused enough on economic policies, while being a too improvized and self-willed leader. In some cases Hambro, the opponent of totalitarianism, is himself an authoritarian. The opposition to Hambro has united behind the industralist Johan H. Andresen. In many ways, Andresen is the opposite to Hambro. A structured, innovative business man who wants the party to focus more on economic issues and present itself as a clearer opposition to the socialism of the Labour Party. In addition, Andresen is more sympathetic to the Fatherland League and other right-wing organizations.\n\nDespite these differences, they are both invested in the issue of military preparedness and to unite the political right against the Labour Party. However, only one of them can lead the party into the future." #NT!
+ nor.81.a: "Hambro Continues as Leader" #NT!
+ nor.81.b: "We Need Andresen's Ideas" #NT!
+  
+ nor.82.t: "End of the Storting" #NT!
+ nor.82.d: "The initial declaration of a socialist republic was mostly just for show. A change in the flag there and a new name for our republic there. Today starts the real change to a socialist republic. Members of the Storting from the opposition parties was today awaken in their homes by members of the Red Guard and loyal police units. They have been arrested on charges of conspiracy against the Republic, collaboration with reactionary terrorism, and general treason. On every step that the Labour movement have taken, these obstructionists have stood in the way of progress. We can't have 'democratic' systems that are built to prolong the oppression of the working class. That is why these treasonous politicians have been arrested.\n\nWe shall assure that they get the punishment they deserve!" #NT!
+ nor.82.a: "Long Live the Revolution!" #NT!
+  
+ nor.83.t: "A Socialist Society" #NT!
+ nor.83.d: "The final vestiges of the old Republic and the arcaic Kingdom are now torn up. In its place, we are building a new society, a free society, a socialist society. By following in the footsteps of Marx and Lenin, Norway will be a country where the working masses will breathe true freedom from the chains of capitalism. By following these steps, we set the course for, not only Norway, but for all workers of the world. From now on, we march together with our brothers in Moscow to free the workers of Germany, France, Britain from the chains they still endure." #NT!
+ nor.83.a: "Workers of the World, Unite!" #NT!
+  
+ nor.84.t: "Syndicalism in Norway" #NT!
+ nor.84.d: "Our dream represented by the 1911 Trondhjemsresolusjonen are now in reach. Since those days, many movements have come to form the Labour movement, from the Bolshevik revolution in Russia to the development of Social Democracy. However, we seem to trend back to the old dream of a Syndicalist form of government. Norway will show the world a future not built on Lenin's revolutionary ideas or the reformist ideas that seek to compromice with the forces of capital, but a future made by the hands of unionized workers." #NT!
+ nor.84.a: "Our Revolution Begins!" #NT!
+  
+ nor.85.t: "Rise of Class Cooperation" #NT!
+ nor.85.d: "Already, there have been attempts of cooperation between representatives of the Workers' National Trade Union, the Norwegian Employers' Confederation and the government to figure out the rules and regulation of employment in Norway. This is a path worth going down. While some believe this is not revolutionary enough, many achknowledge this cooperation as a good way for organized Labour to make their mind known. Many are also seeing the destructive side of revolution, favoring instead reform. Despite what those revolutionary ideologues would say, we will create a democratic Norway where class conflict will be resolved with peaceful means." #NT!
+ nor.85.a: "Let's Shake On It" #NT!
+  
+ nor.90.t: "Longer Electoral Periods" #NT!
+ nor.90.d: "Our parliament has recently decided to extend the electoral period from 3 years to 4 years. Some may see this as an attempt to take power from the people and give it to the politicians, but many see that this would help in giving these same politicians more time to execute their election promises." #NT!
+ nor.90.a: "We Need to Listen to our Parliament!" #NT!
+ nor.91.t: "The Rise of Christian Democracy" #NT!
+ nor.91.d: "Many of our citizens believe that the major political parties are for secularism. Even Høyre, with their proposal for a reorganization of the trade unions into a Christian union, has been seen as too secular for many Christian voters. Therefore, the minor political party of Kristelig Folkeparti gained increased popularity, gaining both socialist, liberals and conservative voters. While most of their stands are very conservative, they do claim to not be on one side of the political spectrum. There are no signs that the party will dominate, however, but it will be a factor in upcoming elections." #NT!
+ nor.91.a: "Christian Democracy Sounds Interesting." #NT!
+ nor.92.t: "Ingolf Elster Christensen Resigns from Politics" #NT!
+ nor.92.d: "Høyre's leader, Ingolf Elster Christensen, has chosen to resign from politics completely. He believes that he is beginning to become too weak and old to be able to bear the responsibility of being the leader of his party, and wants to retreat back to his family's farm in Førde. Carl Joachim Hambro will become new leader of Høyre from now on." #NT!
+ nor.92.a: "Christensen has served his party well." #NT!
+  
+ nor.94.t: "1940 Arbeiderpartiet Conference" #NT!
+ nor.94.d: "The last election showed the world that the future of Norway belongs to the workers and unionists. Our leader, Martin Tranmæl has now recently opened the 1940 party conference. This has happened every time before an election, but this time, the whole country will be set to watch the direction of the major party.\n\nThe first matter to be resolved is what kind of Foreign Politics shall be practiced." #NT!
+ nor.94.a: "We must support Worker Revolutions in Scandinavia!" #NT!
+ nor.94.b: "We will be unaligning ourselves from Capitalist countries!" #NT!
+ nor.94.c: "We should preserve our neutrality!" #NT!
+ nor.95.t: "The Issue of the Military" #NT!
+ nor.95.d: "We have to find out where we find ourselves on military spending. While the Vanguardists want to have a military used for bringing the Revolution to other countries, our right wing wants to make our country more peaceful. Where do we go?" #NT!
+ nor.95.a: "We need to protect and spread the Revolution!" #NT!
+ nor.95.b: "We shall spend to protect what we already have!" #NT!
+ nor.95.c: "Militarism is not the way of Socialism!" #NT!
+ nor.96.t: "The Issue of Economy" #NT!
+ nor.96.d: "We need to find out where our economic stance is. Many in our party want to nationalize everything, while some want us to be more accepting of private upstarts. We need to find out, where the party stands on this?" #NT!
+ nor.96.a: "Nationalize all Industries and Farms for an equal society!" #NT!
+ nor.96.b: "Farmers are not Industry Magnates. They have a right to their land!" #NT!
+ nor.96.c: "Private Operators should be allowed if they follow our rules!" #NT!
+  
+ nor.99.t: "Election Day" #NT!
+ nor.99.d: "It is, once more, time to elect who is going to sit in our Parliament, and from there, form a government. The victory of Arbeiderpartiet have managed to make them a dominant force on the political scene in Norway. The party's governing have proven that socialism can work fine in a democratic country. But with Norway being a democracy, there will be the presence of opposition. In this election, that opposition, represented by Venstre and Høyre have come together into their own coalition, trying to dethrone the ruling Arbeiderpartiet. We will now see who will be victorious!" #NT!
+ nor.99.a: "Arbeiderpartiet Wins Again!" #NT!
+ nor.99.b: "The 'Borgerlige' Coalition Wins!" #NT!
+  
+ nor.100.t: "Election to the Norwegian Supreme Soviet" #NT!
+ nor.100.d: "With Norway transitioning into a Socialist Republic, it is time to hold the first free election in this socialist system. With the dominance of Arbeiderpartiet secured, securing the rights of the workers and people of Norway, the people are able to make a truly free choice. While the Radicals can gain a new victory, there is also a possibility for the Moderates, or even the Social Democrats, to become victorious. We will now see who will be victorious!" #NT!
+ nor.100.a: "The Radicals Wins!" #NT!
+ nor.100.b: "The Moderates Wins!" #NT!
+ nor.100.c: "The Right-wing Wins!" #NT!
+ nor.101.t: "Election Day" #NT!
+ nor.101.d: "It is, once more, time to elect who is going to sit in our Parliament, and from there, form a government. The victory of Venstre in last election has given a good ground for both the liberals and conservatives to campaign. Arbeiderpartiet has returned to politics, and hope to 'save' the country from capitalism. We will now see who will be victorious!" #NT!
+ nor.101.a: "Moderates from Arbeiderpartiet form the government!" #NT!
+ nor.101.b: "Another victory for Venstre!" #NT!
+ nor.101.c: "Høyre managed to become victorious!" #NT!
+ nor.102.t: "Election Day" #NT!
+ nor.102.d: "It is, once more, time to elect who is going to sit in our Parliament, and out from there, form a government. The victory of Høyre in last election has given a rise to conservatism, while socialism is becoming weaker and weaker. Arbeiderpartiet was given the blame for the economic problems from 1936, and are not able to be likely to win this time. But a new victory for Høyre may not be a reality. Venstre will have a chance of victory with support from both socialists and liberals. We will now see who will be victorious!" #NT!
+ nor.102.a: "Venstre won!" #NT!
+ nor.102.b: "Another victory for Høyre!" #NT!
+  
+ nor.104.t: "Election Day" #NT!
+ nor.104.d: "It is once more, time to elect who is going to sit in our Parliament, and from there, form a government. While losing in 1936, Arbeiderpartiet has managed to regain power and believe they can lead a socialist coalition after the election. Venstre and Høyre have teamed up this time to counter the socialist coalition in their Borgerlige coalition. Nearly all socialist parties have agreed to democracy in achieving reforms, and the right has found agreements in each other programs. We will now see who will be victorious!" #NT!
+ nor.104.a: "The Socialist Coalition Wins!" #NT!
+ nor.104.b: "The 'Borgerlige' Coalition Wins!" #NT!
+ nor.105.t: "Election Day" #NT!
+ nor.105.d: "It is once more, time to elect who is going to sit in our Parliament, and from there, form a government. While the political parties of Venstre and Høyre have solidified their position in Norwegian politics, there will still be those that will vote for Arbeiderpartiet and other socialist movements. To counter this, the two parties have agreed on a coalition government if they together would have a majority. Arbeiderpartiet have, in return, formed a coalition between themselves and other socialist parties. We will now see who will be victorious!" #NT!
+  
+ nor.109.t: "Declaration of the Socialist Republic!" #NT!
+ nor.109.d: "Prime Minister Peder Furubotn have today announced a new direction for Norway. No longer shall the people of Norway being dragged down by the bourgeoisie structures of parliamentary democracy. Today, the people will see themselves free in a Socialist Republic!" #NT!
+ nor.109.a: "Long Live the Revolution!" #NT!
+  
+ nor.110.t: "The 1936 Presidential Election" #NT!
+ nor.110.d: "With the parliamentary election bringing a new win for Arbeiderpartiet, there is a high possibility for the party to gain the Presidency as well. With the new Parliament assembled, it is time for these representatives of the people to vote on who is going to become the next president of Norway. With first round of voting being concluded, two candidates emerges in the second round.\n\nIncumbent president Martin Tranmæl is seeking a new term as President. Even if the economic crisis have affected these last weeks of his first term, he assures that the President and the Government will be able to bring Norway out from the last grasp of capitalism.\n\nTranmæl's opponent is Ingolf Elster Christensen from Høyre. Christensen hopes to unite the political right-wing in an anti-socialist block, hoping to get Liberals and Social Democrats to vote for him. Even if he should win, however, his power and influence would be limited by the socialist government." #NT!
+ nor.110.a: "Tranmæl Wins Easily a Second Term" #NT!
+ nor.110.b: "Christensen Manage to Win the Presidency" #NT!
+  
+ nor.111.d: "With the parliamentary election bringing a victory for Venstre, there is a possibility for the party to win the presidency as well. It is not assured, however, with the presence of incumbent president Martin Tranmæl. With the new Parliament assembled, it is time for these representatives of the people to vote on who is going to become the next president of Norway. With first round of voting being concluded, two candidates emerges in the second round.\n\nThe incumbent, Martin Tranmæl, might be able to win a second term, even if his party lost the parliamentary election. If he manages to gain the support of the Social Democrats, he will have a slight majority.\n\nWith Venstre overtaking Høyre in the parliamentary election, this have, in return, made Johan Ludwig Mowinckel the candidate to face Tranmæl in the second round. Mowinckel might be able to unite a broad coalition against Tranmæl, securing the hold of his party." #NT!
+ nor.111.a: "A Slight Left-wing Majority Gives Tranmæl a Second Term" #NT!
+ nor.111.b: "A Broad Coalition Makes Mowinckel President" #NT!
+  
+ nor.112.d: "With the parliamentary election bringing a victory for Høyre, there is a possibility for the party to win the presidency as well. While Tranmæl still has a chance, the right-wing has a hope to 'dethrone' the socialist president. With the new Parliament assembled, it is time for these represenatives of the people to vote on who is going to become the next president of Norway. With first round of voting being concluded, two candidates emerges in the second round.\n\nThe incumbent, Martin Tranmæl, might be able to win a second term, even if his party lost the parliamentary election. If he manages to gain the support of the Social Democrats, and maybe even a few Liberals, he will have a slight majority.\n\nTranmæl's opponent is Ingolf Elster Christensen from Høyre. Christensen hopes to unite the political right-wing in an anti-socialist block, hoping to get Liberals, and perhaps also Social Democrats, to vote for him. His victory would also secure the hold of his party." #NT!
+ nor.112.b: "Christensen Wins With a United Coalition" #NT!
+  
+ nor.113.t: "The 1940 Presidential Election" #NT!
+ nor.113.d: "With the parliamentary election now over, it is time to vote on who is going to become the next President of Norway. Since Arbeiderpartiet basically has a dominant role in Norwegian politics, the election will just span one round. The question is who from our party is going to become President, since Martin Tranmæl is not seeking a term this time.\n\nEinar Gerhardsen is seen as a close associate to Martin Tranmæl, being a member of his circle back in the 1920s and 30s. Gerhardsen represents the moderate faction in Arbeiderpartiet, wanting to continue the line of Martin Tranmæl.\n\nHaavard Langseth represnts the radical wing of Arbeiderpartiet, and are one of the closest to the Soviet Union among the Presidential candidates. His presidency will alienate some of our most moderate members, so it might not be the best choice.\n\nJohan Nygaardsvold does in reality represent Norges Socialdemokratiske Arbeiderparti, a party that broke off Arbeiderpartiet back in the 1920s. His presidency can result in a party merge, but can also alienate the radical wing of the party." #NT!
+ nor.113.a: "Einar Gerhardsen" #NT!
+ nor.113.b: "Haavard Langseth" #NT!
+ nor.113.c: "Johan Nygaardsvold" #NT!
+  
+ nor.114.t: "Our Candidate for the Presidency" #NT!
+ nor.114.d: "With the parliamentary election now over, the election for the Presidency is up in the air. With Martin Tranmæl expressing no wish to be elected into a new term, a couple of candidates have come up for Arbeiderpartiet.\n\nEinar Gerhardsen is the candidate being supported by Tranmæl, and represents the moderates in the party. Gerhardsen has a background in the circle around Tranmæl, and are sharing many of his socialist ideas.\n\nHaavard Langseth represents the radical wing of Arbeiderpartiet, and are a supporter of the Soviet Union, while being sceptical to parliamentary democracy. His candidacy can risk alienate some moderates, with slim chances of gaining Social Democrats to support him.\n\nJohan Nygaardsvold is also being put forward as a candidate. While he is a member of Norges Socialdemokratiske Arbeiderparti, his candidacy might be able to gain the support of Liberals and politicians in the center. But this might alienate radical members of Arbeiderpartiet, even if it would be a secured win." #NT!
+ nor.114.a: "Gerhardsen, Tranmæl's Heir" #NT!
+ nor.114.b: "Langseth, the True Socialist" #NT!
+ nor.114.c: "Nygaardsvold, the Outsider" #NT!
+  
+ nor.115.t: "The 1940 Presidential Election" #NT!
+ nor.115.d: "With the parliamentary election now over, it is time to vote on who is going to become the next President of Norway. With the Parliament assembled, it is time for these representatives of the people to vote on who is going to become the next president of Norway. With the first round of voting finishing up, it looks like two candidates are going to run in the second round.\n\nEinar Gerhardsen is the candidate supported by Arbeiderpartiet and other socialists in the Parliament. He is seen as a close associate to Martin Tranmæl, leading member of Arbeiderpartiet, and seems to continue in the footsteps of President Tranmæl. All in all, a safe candidate if Arbeiderpartiet wants to win the presidential election too.\n\nArthur Nordlie is the candidate supported by the political right, being a member of Høyre. He hope to gain the support of all anti-socialist forces in Norway in order to win this election. But with the victory of Arbeiderpartiet in the parliamentary election, it is a little unikely he will win." #NT!
+ nor.115.a: "Einar Gerhardsen is Victorious!" #NT!
+ nor.115.b: "Arthur Nordlie Gains a Surprising Win!" #NT!
+  
+ nor.116.d: "With the parliamentary election now over, it is time to vote on who is going to become the next President of Norway. With the Parliament assembled, it is time for these represenatives of the people to vote on who is going to become the next president of Norway. With the first round of voting coming to an end, it looks like two candidates are going to run in the second round.\n\nHaavard Langseth is the candidate with the support of Arbeiderpartiet and other socialists in the Parliament. While having the support of the governing party, his victory is still not secured. Viewed as a radical, he might make some moderates in Arbeiderpartiet abstain from voting, or vote on the opposing candidate, instead.\n\nArthur Nordlie is the candidate supported by the political right, being a member of Høyre. He hope to gain the support of all anti-socialist forces in Norway in order to win this election. But with the victory of Arbeiderpartiet in the parliamentary election, it is a little unlikely he will win." #NT!
+ nor.116.a: "Haavard Langseth is the Winner!" #NT!
+  
+ nor.117.d: "With the parliamentary election now over, it is time to vote on who is going to become the next President of Norway. With the Parliament assembled, it is time for these represenatives of the people to vote on who is going to become the next president of Norway. With the first round of voting wraping up, it looks like two candidates are going to run in the second round.\n\nJohan Nygaardsvold is the candidate with the support of both the governing Arbeiderpartiet and his own party, Norges Socialdemokratiske Arbeiderparti. While not having a big appeal for radicals in Arbeiderpartiet, with a danger of making many of them abstain from voting, he might manage to appeal to many in the political center.\n\nArthur Nordlie is the candidate supported by the political right, being a member of Høyre. He hope to gain the support of all anti-socialist forces in Norway in order to win this election. But with the victory of Arbeiderpartiet in the parliamentary election, it is a little unikely he will win." #NT!
+ nor.117.a: "Johan Nygaardsvold Carries the Win!" #NT!
+  
+ nor.118.t: "Our Candidate for the Presidency" #NT!
+ nor.118.d: "With the parliamentary election now over, the new government party of Høyre is set in position to select who is going to become their candidate for President of Norway. While there are some arguing to have previous election's candidate stand this round too, there are some voices that wants new blood.\n\nArthur Nordlie is a new favorite candidate in the party. His candidacy might not mean much in Høyre's case, outside from getting some new blood in the Presidency. Ingolf Elster Christensen is also a candidate, being the candidate for Høyre back in 1936. Both candidates would mean that Høyre would control the Presidency if they win.\n\nThe last candidate being valued are Nils Trædal from Bondepartiet. Trædal could work as a more appealing candidate for both politicians from Venstre and NSA. But this strategy might alienate some members in Høyre, who believes we should support a candidate from our party." #NT!
+ nor.118.a: "Nordlie, the 'New' Candidate" #NT!
+ nor.118.b: "Christensen, the 'Old' Candidate" #NT!
+ nor.118.c: "Trædal, the Outsider" #NT!
+  
+ nor.119.d: "With the parliamentary election now over, it is time to vote on who is going to become the next President of Norway. With the Parliament assembled, it is time for these represenatives of the people to vote on who is going to become the next president of Norway. With the first round of voting finishing up, it looks like two candidates are going to run in the second round.\n\nArthur Nordlie...\n\nEinar Gerhardsen..." #NT!
+ nor.119.a: "Arthur Nordlie is Victorious!" #NT!
+ nor.119.b: "Einar Gerhardsen Gains a Surprising Win!" #NT!
+  
+ nor.120.d: "With the parliamentary election now over, it is time to vote on who is going to become the next President of Norway. With the Parliament assembled, it is time for these representatives of the people to vote on who is going to become the next president of Norway. With the first round of voting coming to an end, it looks like two candidates are going to run in the second round.\n\nIngolf Elster Christensen...\n\nEinar Gerhardsen..." #NT!
+ nor.120.a: "Ingolf Elster Christensen Wins!" #NT!
+  
+ nor.121.d: "With the parliamentary election now over, it is time to vote on who is going to become the next President of Norway. With the Parliament assembled, it is time for these represenatives of the people to vote on who is going to become the next president of Norway. With the first round of voting wraping up, it looks like two candidates are going to run in the second round.\n\nNils Trædal...\n\nEinar Gerhardsen..." #NT!
+ nor.121.a: "Nils Trædal Carries the Win!" #NT!
+  
+ nor.122.t: "Our Candidate for the Presidency" #NT!
+ nor.122.d: "With the parliamentary election now over, the governing party of Venstre is set in position to select who is going to become their candidate for President of Norway. While there are some voices for the previous election's candidate, some are also voicing for a new candidate.\n\nArne Sunde is a potential candidate, remarking himself as a lawyer and a politician close to Johan Ludwig Mowinckel. His education and work would fit well for someone going to become the President of Norway.\n\nJohan Ludwig Mowinckel is also a reliable candidate, with his history as foreign, trade and prime minister over the years, and his contribution for Lex Mowinckel. Even if he has ran before, he might be a good candidate.\n\nAnother candidate being valued are Nils Trædal from Bondepartiet. Trædal could work as a more appealing candidate for both politicians from Høyre and NSA. But this strategy might alienate some members in Venstre, who believes we should support a candidate from our party." #NT!
+ nor.122.a: "Sunde, the Lawyer" #NT!
+ nor.122.b: "Mowinckel, the Veteran Politician" #NT!
+ nor.122.c: "Trædal, the Outsider" #NT!
+  
+ nor.123.d: "With the parliamentary election now over, it is time to vote on who is going to become the next President of Norway. With the Parliament assembled, it is time for these represenatives of the people to vote on who is going to become the next president of Norway. With the first round of voting wraping up, it looks like two candidates are going to run in the second round.\n\nArne Sunde...\n\nEinar Gerhardsen..." #NT!
+ nor.123.a: "Arne Sunde is the New President!" #NT!
+  
+ nor.124.d: "With the parliamentary election now over, it is time to vote on who is going to become the next President of Norway. With the Parliament assembled, it is time for these representatives of the people to vote on who is going to become the next president of Norway. With the first round of voting wraping up, it looks like two candidates are going to run in the second round.\n\nJohan Ludwig Mowinckel...\n\nEinar Gerhardsen..." #NT!
+ nor.124.a: "Johan Ludwig Mowinckel is Victorious!" #NT!
+  
+ nor.130.t: "The [GetYear] Election to the King's Council" #NT!
+ nor.130.d: "New elections to the council of king Olav V have been called. While it seems like the same candidates will attempt to win the title of hand of the King in this election season, there are some changes.\n\nC. J. Hambro returns in this election to try to become the hand of King Olav. Coming from Høyre, one of the biggest parties in Norway, he is able to gain the support of many establishment politicians. Along with some regarding him as a monarchist president, he might be able to gain support from monarchists too.\n\nNils Lavik is a new candidate accepted to run for the title as hand of the King. A leading figure in the Christian Inner Mission movement, he have managed to gain popularity among the more conservative and christian parts of Norway, in the South and in the West.\n\nJoakim Lehmkuhl has once more been accepted to run as a candidate for the title as hand of the King. Leading the right-wing Fedrelandslaget, he is backed by many allies of the monarchy and the king, along with a big section of Norwegian nationalists.\n\nRudolf Ræder is the favorite candidate by the establishment of Alt for Kongen. His role in establishing the Kingdom of Norway might also help him in winning the election." #NT!
+ nor.130.a: "C. J. Hambro" #NT!
+ nor.130.b: "Nils Lavik" #NT!
+ nor.130.c: "Joakim Lehmkuhl" #NT!
+ nor.130.e: "Rudolf Ræder" #NT!
+  
+ nor.135.t: "Rising Norwegian Influence" #NT!
+ nor.135.d: "The socialist regime in Norway has begun to fund our left-wing. I don't know what they are going for, but it ain't good." #NT!
+ nor.135.a: "Damn Those Norwegians" #NT!
+  
+ nor.136.t: "Our Socialist Brethrens Request Our Submission" #NT!
+ nor.136.d: "Since we are a revolutionary socialist country ourselves, the Norwegians have been kind enough to request our submission to them. They argue that together, we can form a stronger, prosperous Socialist Scandinavia." #NT!
+ nor.136.a: "Okay, For the Revolution!" #NT!
+ nor.136.b: "No, Denmark is Free" #NT!
+  
+ nor.137.t: "The Danes Agreed" #NT!
+ nor.137.d: "The Danish Socialists saw reason and agreed to unite their nation with ours. Soon, Scandinavia will be fully unified." #NT!
+ nor.137.a: "Long Live the Revolution!" #NT!
+ nor.138.t: "The Danes Said No" #NT!
+ nor.138.d: "The Danish, despite being run by fellow socialists, still didn't give in. There is only one way to fulfill the revolution now: War." #NT!
+ nor.138.a: "You Should Have Said Yes!" #NT!
+  
+ nor.139.t: "Norway Fraternizes With Swedish Socialists" #NT!
+ nor.139.d: "The socialist regime in Norway has begun to influence our politics, fraternizing with Swedish revolutionaries who seek to overthrow our government. That's not cool." #NT!
+ nor.139.a: "Damn Those Norwegians" #NT!
+  
+ nor.140.b: "No, Sweden is Free" #NT!
+  
+ nor.141.t: "The Swedes Agreed" #NT!
+ nor.141.d: "The Swedish Socialists saw reason and agreed to unite their nation with ours. Soon, Scandinavia will be fully unified." #NT!
+ nor.142.t: "The Swedes Said No" #NT!
+ nor.142.d: "The Swedes, despite being run by fellow socialists, still didn't give in. There is only one way to fulfill the revolution now: War." #NT!
+  
+ nor.143.t: "Norway Collaborate With the Reds" #NT!
+ nor.143.d: "The socialist regime in Norway has begun to work together with the socialists in our country, becoming closer to the underground Red Guard. We have to be on guard." #NT!
+ nor.143.a: "Damn Those Norwegians" #NT!
+  
+ nor.144.t: "No, Finland is Free" #NT!
+  
+ nor.145.t: "The Finns Agreed" #NT!
+ nor.145.d: "The Finnish Socialists saw reason and agreed to unite their nation with ours. Soon, Scandinavia will be fully unified." #NT!
+ nor.146.t: "The Finns Said No" #NT!
+ nor.146.d: "The Finns, despite being run by fellow socialists, still didn't give in. There is only one way to fulfill the revolution now: War." #NT!
+  
+ nor.147.t: "The Union of Scandinavian Socialist Republics" #NT!
+ nor.147.d: "For many in the Socialist movement, unity between the working class people of Scandinavia has been a far-seeing ambition. Today, this ambition is fulfilled. Together with our brethrens in Sweden, Denmark and Finland, we have created a new Socialist power in the world." #NT!
+ nor.147.a: "Pan-Scandinavianism Isn't Dead" #NT!
+ nor.149.t: "Capital of the Scandinavian State" #NT!
+ nor.149.d: "With the unification of the Scandinavian people under one flag, a question quickly arise: 'What should be the capital of this new union?'. While many points to Oslo, since the unification have been led by Norwegians. Some argue another capital city like Stockholm or Køpenhavn to better integrate our brethrens. Others for a non-capital city, like Göteborg, to avoid favoritism towards one nation over the others. Where should it be?" #NT!
+ nor.149.a: "Oslo - Norway Led the Unification" #NT!
+ nor.149.b: "Göteborg - A Non-Capital Will Better Serve All" #NT!
+ nor.149.c: "Stockholm - To Appeal to the Swedes" #NT!
+ nor.149.e: "Køpenhavn - To Appeal to the Danes" #NT!
+  
+ nor.148.t: "Norway Sends Aid" #NT!
+ nor.148.d: "The Norwegian government have issued us military aid, as well as helping us with volunteers in our fight against the Soviet Union. Hopefully, this will be more than enough to secure a victory over the Russian bear." #NT!
+ nor.148.a: "Thank You, Norway" #NT!
+  
+ nor.150.t: "Norvego-Swedish Cooperation" #NT!
+ nor.150.d: "Norway have reached out to us, seeking to further diplomatic and military cooperation between the two nations. Both Norway and Sweden have a common goal in securing peace and tranquility in Scandinavia, in a world that are more and more fraught with conflict and war." #NT!
+ nor.150.a: "Sounds Good, Count Us In" #NT!
+ nor.150.b: "We Don't Need This.." #NT!
+  
+ nor.151.t: "Norvego-Danish Cooperation" #NT!
+ nor.151.d: "Norway have reached out to us, seeking to further diplomatic and military cooperation between the two nations. Both Norway and Denmark have a common goal in securing peace and tranquility in Scandinavia, in a world that are more and more fraught with conflict and war." #NT!
+  
+ nor.152.t: "Norvego-Finnish Cooperation" #NT!
+ nor.152.d: "Norway have reached out to us, seeking to further diplomatic and military cooperation between the two nations. Both Norway and Finland have a common goal in securing peace and tranquility in Scandinavia, in a world that are more and more fraught with conflict and war." #NT!
+  
+ nor.153.t: "All of Them Agreed" #NT!
+ nor.153.d: "All our Scandinavian neighbors; Sweden, Denmark and Finland, have agreed to strengthen military and diplomatic cooperation between the nations. Facing the rising threats of the Germans and the Soviets, we are able to show that Scandinavia will face the rising tentions together." #NT!
+ nor.153.a: "Great" #NT!
+ nor.154.t: "Sweden and Denmark Agreed" #NT!
+ nor.154.d: "Two of our Scandinavian neighbors; Sweden and Denmark, have agreed to strengthen military and diplomatic cooperation between the nations. While the non-participation of Finland will weaken this cooperation, we are still a strong power block." #NT!
+ nor.155.t: "Denmark and Finland Agreed" #NT!
+ nor.155.d: "Two of our Scandinavian neighbors; Denmark and Finland, have agreed to strengthen military and diplomatic cooperation between the nations. While the non-participation of Sweden will weaken this cooperation, we are still a strong power block." #NT!
+ nor.156.t: "Sweden and Finland Agreed" #NT!
+ nor.156.d: "Two of our Scandinavian neighbors; Sweden and Finland, have agreed to strengthen military and diplomatic cooperation between the nations. While the non-participation of Denmark will weaken this cooperation, we are still a strong power block." #NT!
+ nor.157.t: "Only Sweden Agreed" #NT!
+ nor.157.d: "Only Sweden have agreed to strengthen military and diplomatic cooperation between the nations. While this will create a block powerful enough to defend itself, it is still very disappointing that Denmark and Finland isn't cooperating." #NT!
+ nor.157.a: "Bummer" #NT!
+ nor.158.t: "Only Denmark Agreed" #NT!
+ nor.158.d: "Only Denmark have agreed to strengthen military and diplomatic cooperation between the nations. While this will create a block powerful enough to defend itself, it is still very disappointing that Sweden and Finland isn't cooperating." #NT!
+ nor.159.t: "Only Finland Agreed" #NT!
+ nor.159.d: "Only Finland have agreed to strengthen military and diplomatic cooperation between the nations. While this will create a block powerful enough to defend itself, it is still very disappointing that Sweden and Denmark isn't cooperating." #NT!
+  
+ nor.160.t: "Norway Wants to Join the Entente" #NT!
+ nor.160.d: "A diplomatic convoy from Norway has just arrived in our capital. The Norwegians came to ask if they can join the Entente. This could be helpful for us in securing the Skagerrak from German ships and avoid that the Swedish steel trade comes under German or Soviet control." #NT!
+ nor.160.a: "Welcome to the Entente!" #NT!
+ nor.160.b: "We do not need you!" #NT!
+ nor.161.t: "France Welcomes Us!" #NT!
+ nor.161.d: "The French have been willing to let us in their alliance. This will surely be the start of a long friendship." #NT!
+ nor.161.a: "Long Live Norway and France" #NT!
+ nor.162.t: "The French Rejects" #NT!
+ nor.162.d: "The French had the nerve to reject our humble request. This will not be forgotten by our leadership in the future." #NT!
+ nor.162.a: "Norway Doesn't Need France!" #NT!
+  
+ nor.163.t: "Norway Wants to Join the Imperial Protection Alliance" #NT!
+ nor.163.d: "A diplomatic convoy from Norway has just arrived in our capital. The Norwegians came to ask if they can join the Imperial Protection Alliance. This could be helpful for us in securing the Skagerrak from German ships and avoid that the Swedish steel trade comes under German or Soviet control." #NT!
+ nor.163.a: "Welcome to the IPA!" #NT!
+ nor.163.b: "We do not need you!" #NT!
+ nor.164.t: "Britain Welcomes Us!" #NT!
+ nor.164.d: "The British have been willing to let us in their alliance. This will surely be the start of a long friendship." #NT!
+ nor.164.a: "Long Live Norway and Britain" #NT!
+ nor.165.t: "The British Rejects" #NT!
+ nor.165.d: "The British had the nerve to reject our humble request. This will not be forgotten by our leadership in the future." #NT!
+ nor.165.a: "Norway Doesn't Need Britain!" #NT!
+  
+ nor.200.t: "Redistribution Begins" #NT!
+ nor.200.d: "The orders of land redistribution from rich landowners into the hands of industrial workers and the lower classes has begun." #NT!
+ nor.200.a: "Let this begin!" #NT!
+  
+ #### Country Flags #### 
+  
+ NOR_london_crash_flag: "The London Crash has occurred" #NT!
+ NOR_angry_samfundsvern: "Angry Samfundsvern" #NT!
+ NOR_rebellious_samfundsvern: "Rebellious Samfundsvern" #NT!
+ NOR_angry_radicals: "Angry Radicals" #NT!
+  
+ NOR_democracy_survives_flag: "Democracy Survives" #NT!
+ NOR_ap_victory_flag: "§YArbeiderpartiet§! Won the Election" #NT!
+ NOR_president_tranmael_1936: "§YTranmæl§! Won the 1936 Presidential Election" #NT!
+ NOR_radical_1940_victory_flag: "§RRadical Labour§! Won the 1940 Election" #NT!
+ NOR_moderates_1940_victory_flag: "§RModerate Labour§! Won the 1940 Election" #NT!
+ NOR_rightwings_1940_victory_flag: "§RRight-wing Labour§! Won the 1940 Election" #NT!
+ NOR_ap_1940_victory_flag: "§YArbeiderpartiet§! Won the 1940 Election" #NT!
+  
+ NOR_venstre_victory_flag: "§YVenstre§! Won the Election" #NT!
+ NOR_president_mowinckel_1936: "§YMowinckel§! Won the 1936 Presidential Election" #NT!
+ NOR_venstre_1940_victory_flag: "§YVenstre§! Won the 1940 Election" #NT!
+ NOR_hoyre_victory_flag: "§YHøyre§! Won the Election" #NT!
+ NOR_hoyre_1940_victory_flag: "§YHøyre§! Won the 1940 Election" #NT!
+  
+ NOR_consevative_1940_victory_flag: "The Conservative Coalition Won the 1940 Election" #NT!
+ NOR_1936_election_cancelled_flag: "The Election is Canceled" #NT!
+ NOR_mass_protest_far_right_flag: "Mass Protests by Far Right" #NT!
+ NOR_samfundsvernet_couped_norway_flag: "Samfundsvernet Couped Norway" #NT!
+ NOR_victory_against_samfundsvernet_flag: "Victory Against Samfundsvernet" #NT!
+ NOR_monarchist_victory_flag: "The §YMonarchists§! are in Power" #NT!
+ NOR_monarchy_restored: "Monarchy Restored" #NT!
+ NOR_ns_victory_flag: "The §YNasjonal Samling§! are in Power" #NT!
+ NOR_st_olavs_spirit_flag: "§YQuisling Loyalists§! Secures Control" #NT!
+ NOR_odins_spirit_flag: "The §YValkist Opposition§! Secures Control" #NT!
+  
+ #### Focus Tree #### 
+  
+ NOR_space_for_economic_projects: "Space for Economic Projects" #NT!
+ NOR_space_for_economic_projects_desc: "While Norway isn't a country filled with a lot of land for industry, there is areas where we can get there by a bit of work. To sustain the future development of Norwegian industry and production of new consumer goods, we need to clear out space for new expantions." #NT!
+ NOR_utilize_merchant_fleet: "Utilize the Merchant Fleet" #NT!
+ NOR_utilize_merchant_fleet_desc: "There are hundreds of merchant vessels that sails under the Norwegian flag. We should establish an administration to administrate this fleet. Both to utilize them for economic and military goals, as well as having some sense of how many ships we have available. Let's call this administration 'Nortraship'." #NT!
+ NOR_support_fishing_industry: "Support the Fishing Industry" #NT!
+ NOR_support_fishing_industry_desc: "The Norwegian coastline is itself filled with potential for industry. Already, there are many fishers who cruise the ocean to fish salmon and cod for a living. With the rise in domestic and international demands, we should support our fishers and the construction of fish 'farms' along the coast." #NT!
+ NOR_hydro_power_expantion: "Hydro Power Expantion" #NT!
+ NOR_hydro_power_expantion_desc: "Since the turn of the century, we have developed many new industries. However, these industries are in urgent need of cheap, reliable power. Luckily, Norway is blessed with a nature perfect to build hydro power plants. These will provide both industry and our people with the electricity they need." #NT!
+ NOR_western_power_plants: "Western Power Plants" #NT!
+ NOR_western_power_plants_desc: "The best places for hydro power expantion, is undeniably found in western Norway. Already, we have built hydro power plants here to provide cities like Ålesund and Molde with electricity. However, there are more cities and towns here to provide power to, as well as an even bigger industrial potential." #NT!
+ NOR_norwegian_aluminium: "Norwegian Aliminium" #NT!
+ NOR_norwegian_aluminium_desc: "Norway has many natural resources. One of them is aluminium. We have gotten words about potential aluminium reserves in the mountainous parts of our country. With the recent constructions of hydro power plants, we have the electricity needed to exploit this potential." #NT!
+ NOR_our_trade_partners: "Our Trade Partners" #NT!
+ NOR_our_trade_partners_desc: "" #NT!
+ NOR_norwegian_fish_n_chips: "Norwegian Fish n' Chips" #NT!
+ NOR_norwegian_fish_n_chips_desc: "While trade relations connected to the British created the crash, now when better times have come, the British seems to be stronger than ever. Therefore, should we reformalize trade with the empire." #NT!
+ NOR_pomor_trade_reborn: "The Pomor Trade Reborn" #NT!
+ NOR_pomor_trade_reborn_desc: "The Soviet Union has developed themselves away from capitalism. Some of us believe that it was the dark side of capitalism that affected us. Therefore, we should try to cease trade with capitalist countries, and focus on trade with the Soviets." #NT!
+ NOR_provide_resources_germany: "Provide Resources to Germany" #NT!
+ NOR_provide_resources_germany_desc: "The Germans have developed themselves into a new economy system. One we should take a part in. Germany is a land with ambitions that need many natural resources. As a land with many natural resources, we can trade them with the Germans." #NT!
+ NOR_expand_railway_infrastructure: "Expand Railway Infrastructure" #NT!
+ NOR_expand_railway_infrastructure_desc: "The railway system of western Norway is poor, and many places have not seen the wonder of modern transportation. We shall build tunnels and bridges, and bind this region closer to the country." #NT!
+ NOR_rural_electrification: "Rural Electrification" #NT!
+ NOR_rural_electrification_desc: "Over 600 000 people in Norway doesn't have access to electricity. Nowadays, when electricity becomes more and more important in everyday lives and on the workplaces, this can not stand. We need to ensure that as many as possible are connected with electric power and with the fortunes of the modern age." #NT!
+ NOR_expand_steel_industries: "Expand Norsk Jernverk" #NT!
+ NOR_expand_steel_industries_desc: "Iron and Steel is also a resource we have the potential of finding in our country. In our northern counties, we have also found potential the for new iron mines. This can help our country to become less dependent on steel imports." #NT!
+ NOR_expand_university_oslo: "Expand the University of Oslo" #NT!
+ NOR_expand_university_oslo_desc: "The University of Oslo is the oldest and the highest ranked university in Norway. We should promote the development of new innovations and research, and what better way is there to do this than to expand our dearest university." #NT!
+ NOR_new_consumer_industries: "New Consumer Industries" #NT!
+ NOR_new_consumer_industries_desc: "" #NT!
+ NOR_reaction_to_london_crash: "Reaction to the London Crash" #NT!
+ NOR_reaction_to_london_crash_desc: "While we have managed to remove British influence from Norway, the global economic consequences of the crash will affect us negatively, as both we and those in London have many common trade partners." #NT!
+ NOR_public_works_program: "Public Works Program" #NT!
+ NOR_public_works_program_desc: "" #NT!
+ NOR_complete_northern_railway: "Complete Nordlandsbanen" #NT!
+ NOR_complete_northern_railway_desc: "Our northern railway, 'Nordlandsbanen', is far from finished. While people and goods, as it stands now, can be transported to the Grong municipality, we should work on having a railway go all the way from Trondheim to Bodø, and even further beyond..." #NT!
+ NOR_alleviate_indebted_farmers: "Alleviate Indebted Farmers" #NT!
+ NOR_alleviate_indebted_farmers_desc: "The Norwegian economy is one reliant on our ability to export products. A sizeable part of this export economy, are our farmers. With the economic crisis, exports has halted and the demand for meat and milk has dried up. We need to support our farmers so they doesn't go bankrupt in this crisis." #NT!
+ NOR_crisis_farm_subsidies: "Crisis Farm Subsidies" #NT!
+ NOR_crisis_farm_subsidies_desc: "We should enact more subsidies to help out our farmers. If they fall, we risk an important section of our society, making our people more likely to starve if we aren't able to import products." #NT!
+ NOR_cut_subsidies: "Cut Subsidies" #NT!
+ NOR_cut_subsidies_desc: "With the support our farmers have gotten, they will manage to get through their hardship. Instead of increasing their subisidies, we should temporarily cut them back. This way, we will avoid inflation killing our economy." #NT!
+ NOR_regulate_forclosures: "Regulate Forclosures" #NT!
+ NOR_regulate_forclosures_desc: "An effect of the crisis that has befallen our farmers, is that they aren't able to make repayment on their debt. We need to properly regulate forclosure in the farming sector to avoid the banks using the crisis to throw our farmers into poverty and homelessness." #NT!
+ NOR_cut_military_spending: "Cut Military Spending" #NT!
+ NOR_cut_military_spending_desc: "Norway hasn’t seen any warfare since the Napoleonic era. While we can't be sure what the future will hold, we will try to cut our military budget to fund our relief programs. Hopefully, we will manage to restore it before any war hits our shores." #NT!
+ NOR_crisis_rationing: "Crisis Rationing" #NT!
+ NOR_crisis_rationing_desc: "We need to cut back on how much we are consuming. We don't need the situation to get worse, now when it is improving. These rations may also teach the people to not crave too much." #NT!
+ NOR_towards_recovery: "Towards Recovery" #NT!
+ NOR_towards_recovery_desc: "" #NT!
+ NOR_urban_housing_projects: "Urban Housing Projects" #NT!
+ NOR_urban_housing_projects_desc: "" #NT!
+ NOR_restore_military_funding: "Restore Military Funding" #NT!
+ NOR_restore_military_funding_desc: "" #NT!
+ NOR_experience_with_synthetic_rubber: "Experience With Synthetic Rubber" #NT!
+ NOR_experience_with_synthetic_rubber_desc: "" #NT!
+ NOR_kongsberg_expantion: "Kongsberg Expantion" #NT!
+ NOR_kongsberg_expantion_desc: "We need to expand our capacity for producing weapons. With a new expansion to Kongsberg Våpenfabrikk, we will have a much stronger military industry." #NT!
+  
+ NOR_reform_norwegian_army: "Reform the Norwegian Army" #NT!
+ NOR_reform_norwegian_army_desc: "We need to find a new plan regarding our army and its strategies. We can focus on a specialized army, or one that is strong in numbers." #NT!
+ NOR_restore_royal_guards: "Restore the Royal Guards" #NT!
+ NOR_restore_royal_guards_desc: "When the monarchy was disbanded, His Majesty the King's Guard was also disbanded and integrated into the Presidential Guard. With the restoration of the Monarchy, we can restore the Guard and give them a chance to fight for Norway. Our enemies will learn to know and fear the 'Black Devils'." #NT!
+ NOR_specialized_army: "A Specialized Army" #NT!
+ NOR_specialized_army_desc: "Norway's population is small, and it would be incredibly stupid to draft most of them into the Armed Forces. Instead, we should overcome these shortcomings by focusing on professional, specialized soldiers and the opportunities granted to us through the use of good equipment." #NT!
+ NOR_establish_special_forces: "Establish Special Forces" #NT!
+ NOR_establish_special_forces_desc: "While many in our army are going through the ordinary training regime, we should look after those who can be trained into specialized positions. Not only those who can be good mountaineers and paratroopers, but also elite soldiers." #NT!
+ NOR_strength_in_numbers: "Strength in Numbers" #NT!
+ NOR_strength_in_numbers_desc: "Norway's population may be relatively small, but her land is vast and diverse. If we shall be able to protect it, we need to have more men and women serving in the military. We should extend the service time for future soldiers, as well as drafting more of our population to the Armed Forces." #NT!
+ NOR_modernize_kongsberg_rifles: "Modernize Kongsberg Rifles" #NT!
+ NOR_modernize_kongsberg_rifles_desc: "The Norwegian army has used the Kongsberg-produced Krag-Jørgensen since the 1890s. While it is a good rifle, it still needs to be improved and modernized to better fit with the ammonitions used today, while also to overcome the shortcomings of earlier versions of K-J." #NT!
+ NOR_expand_national_service: "Expand National Service" #NT!
+ NOR_expand_national_service_desc: "While some generals say this decision will cause less organization, we need everyone that we can get to defend our homeland. Expanding our national service, getting more people into the army, means we can mobilize a bigger force when we need to protect our homes." #NT!
+ NOR_winter_mountaineers: "Winter Mountaineers" #NT!
+ NOR_winter_mountaineers_desc: "There are two things Norway are known for that we can use against our enemies. Our mountains and our skis. We need to train and improve elite regiments of ski-going mountaineers. Already, our population have some of the best skiers in the world. It would be a shame to not utilize them." #NT!
+ NOR_glomma_line: "The Glomma Line" #NT!
+ NOR_glomma_line_desc: "Even if we doubt that war will be waged with our Swedish brothers, we shouldn't be naïve to believe it can't happen again. Luckily for us, we have forests and rivers that acts as natural defences against Swedish attacks. One of these are the Glomma river. We should establish fortifications along the river as a prevenative measure against potential attacks." #NT!
+ NOR_utilize_artillary: "Utilize Artillary" #NT!
+ NOR_utilize_artillary_desc: "We must move to improve our cannons and mortars that have stood since after the great war. We need artillery that can show force, and be a huge danger to our enemies." #NT!
+ NOR_panservern_canon: "Panservernkanon" #NT!
+ NOR_panservern_canon_desc: "" #NT!
+ NOR_motorized_supply_lines: "Motorized Supply Lines" #NT!
+ NOR_motorized_supply_lines_desc: "Foot soldiers struggle to cross vast distances in reasonable amounts of time compared to our industrialized neighbors. To make up for this, we should focus our efforts on motorizing our army and supply lines." #NT!
+ NOR_experienced_general_staff: "An Experienced General Staff" #NT!
+ NOR_experienced_general_staff_desc: "We need a real general staff. Not what we have now with these untested officers. We need to train these officers to come up with better plans." #NT!
+ NOR_establish_home_guard: "Establish the Home Guard" #NT!
+ NOR_establish_home_guard_desc: "Right now, we have no organized system of trained civilians ready for military service at a moment notice. Some of our generals and captains have proposed 'Heimevernet'. This force will be made up of civilians who are finished with normal army service, who stores their military equipment at home. A force that can be called upon if needed." #NT!
+ NOR_study_armoured_designs: "Study Armoured Designs" #NT!
+ NOR_study_armoured_designs_desc: "" #NT!
+  
+ NOR_norwegian_navy: "The Norwegian Navy" #NT!
+ NOR_norwegian_navy_desc: "Our navy is not in the best shape. We should begin to plan for what direction we are going to take with our navy. We can focus on smaller, coastal ships and submarines, or bigger ships and control over our sea." #NT!
+ NOR_expand_norwegian_harbours: "Expand Norwegian Harbours" #NT!
+ NOR_expand_norwegian_harbours_desc: "" #NT!
+ NOR_arctic_bases: "Arctic Bases" #NT!
+ NOR_arctic_bases_desc: "" #NT!
+ NOR_small_and_nimble: "Small and Nimble" #NT!
+ NOR_small_and_nimble_desc: "" #NT!
+ NOR_fortify_coastlines: "Fortify the Coastlines" #NT!
+ NOR_fortify_coastlines_desc: "" #NT!
+ NOR_new_flagship: "A New Flagship" #NT!
+ NOR_new_flagship_desc: "" #NT!
+ NOR_ubaat_efforts: "Ubåt Efforts" #NT!
+ NOR_ubaat_efforts_desc: "" #NT!
+ NOR_new_torpedo_boats: "New Torpedo Boats" #NT!
+ NOR_new_torpedo_boats_desc: "" #NT!
+ NOR_protect_our_coast: "Protect Our Coast" #NT!
+ NOR_protect_our_coast_desc: "" #NT!
+ NOR_manuals_for_big_ships: "Manuals for Big Ships" #NT!
+ NOR_manuals_for_big_ships_desc: "" #NT!
+ NOR_modernize_panserskip: "Modernize the Panserskip" #NT!
+ NOR_modernize_panserskip_desc: "" #NT!
+ NOR_protect_our_waters: "Protect Our Waters" #NT!
+ NOR_protect_our_waters_desc: "" #NT!
+ NOR_convert_merchant_fleet: "Convert the Merchant Fleet" #NT!
+ NOR_convert_merchant_fleet_desc: "" #NT!
+  
+ NOR_update_army_air_force: "Update the Army Air Force" #NT!
+ NOR_update_army_air_force_desc: "" #NT!
+ NOR_update_navy_air_force: "Update the Navy Air Force" #NT!
+ NOR_update_navy_air_force_desc: "" #NT!
+ NOR_combine_air_forces: "Combine the Air Forces" #NT!
+ NOR_combine_air_forces_desc: "" #NT!
+ NOR_fighter_primacy: "Fighter Primacy" #NT!
+ NOR_fighter_primacy_desc: "" #NT!
+ NOR_heavy_fighter_efforts: "Heavy Fighter Efforts" #NT!
+ NOR_heavy_fighter_efforts_desc: "" #NT!
+ NOR_bomber_primacy: "Bomber Primacy" #NT!
+ NOR_bomber_primacy_desc: "" #NT!
+ NOR_air_support_coordination: "Air Support Coordination" #NT!
+ NOR_air_support_coordination_desc: "" #NT!
+ NOR_naval_bomber_efforts: "Naval Bomber Efforts" #NT!
+ NOR_naval_bomber_efforts_desc: "" #NT!
+ NOR_establish_new_air_bases: "Establish New Air Bases" #NT!
+ NOR_establish_new_air_bases_desc: "" #NT!
+ NOR_integrate_luftvernartilleriet: "Integrate Luftvernartilleriet" #NT!
+ NOR_integrate_luftvernartilleriet_desc: "" #NT!
+  
+ NOR_1936_election: "The 1936 Election" #NT!
+ NOR_1936_election_desc: "It is time for the 1936 election. Many have speculated, in our country and abroad, that this election will be a turning point in Norway, its politics and history. The nationalist militant group that has called themselves 'Samfundsvernet' has tried to seize power. But our democracy still stands!" #NT!
+  
+ NOR_ap_victory: "AP Victory" #NT!
+ NOR_ap_victory_desc: "The Norwegian Labour Party have, despite the economic crisis, beaten the odds and been elected for another term. It seems that the Norwegian people understands that the economic crisis weren't the fault of a socialist government, but the remaining influence of a capitalist system. We have now a mandate to overcome these hurdles and set Norway on the path to utopia." #NT!
+  
+ NOR_continue_norwegian_revolution: "Continue the Norwegian Revolution" #NT!
+ NOR_continue_norwegian_revolution_desc: "The moderates in Labour have hindred us from fulfilling the revolution, our mandate given in 1930. They have continued to dream that socialism and working class freedom can be achieved within the confines of bourgeois democracy. With the recent economic crisis, many in the party finally sees that real change is needed - a truly Socialist Revolution." #NT!
+ NOR_supply_militant_workers: "Supply Militant Workers" #NT!
+ NOR_supply_militant_workers_desc: "Our workers are still under the threat of reactionary militias and police loyal to the whims of capitalists. Beside us, they only have themselves to rely on. Therefore, it is fair to supply them with weapons so they can defend themselves against the reactionaries and easier overthrow their oppressors in the Revolution to come." #NT!
+ NOR_request_soviet_support: "Request Soviet Support" #NT!
+ NOR_request_soviet_support_desc: "The Soviet Union are the only other major socialist country in the world. They have taken the mantle of leading the world revolution, and we should reach out to them to help us securing the revolution here in Norway. Hopefully, we can join them in furthering the revolution instead of selfishly keeping to ourselves." #NT!
+ NOR_our_international_commitment: "Our International Commitment" #NT!
+ NOR_our_international_commitment_desc: "It is time to meet our international commitment. For too long has the moderates in our party kept us away from joining forces with our working class brethren in the Soviet Union. Socialism has never been about workers of one nation, but about the workers of all nations.\n§R'The Internationale unites the Human Race!'§!" #NT!
+ NOR_strengthen_anti_insurgency_laws: "Strengthen Anti-Insurgency Laws" #NT!
+ NOR_strengthen_anti_insurgency_laws_desc: "The people of Norway lives in fear of the reactionary violence from the so-called Norsk Samfundsvern and the hidden plotting of AfK-affiliated politicians and businessmen. These forces seek to undermine the will of the people, and turn Norway into a capitalist dictatorship. It's our duty to stop them once and for all." #NT!
+ NOR_overthrow_bourgeoisie_democracy: "Overthrow Bourgeois Democracy" #NT!
+ NOR_overthrow_bourgeoisie_democracy_desc: "It is time to break the chains of bourgeois democracy that enslaves the working class under a false conciousness that their voices really matters. In our country, this is symbolized by reactionary institutions like the Storting, the police or the military. These institutions need to be upended to serve the Revolution!" #NT!
+ NOR_nationalize_private_businesses: "Nationalize Private Businesses" #NT!
+ NOR_nationalize_private_businesses_desc: "For too long, the means of production have been kept in the hands of the capitalist class. For too long, this country and land have not been owned by the Norwegian people. Today, we rectify this and take back control over the means of production to the working class." #NT!
+ NOR_democratic_centralism: "Democratic Centralism" #NT!
+ NOR_democratic_centralism_desc: "We need to follow Vladimir Lenin's teaching when it comes to forming the new socialist state, the dictatorship of the proletariat. A key principle of his, is Democratic Centralism. Here, political decisions reached by the voting process will be binding upon all members of the political party and of the national politic." #NT!
+ NOR_collectivize_farmland: "Collectivize the Farmland" #NT!
+ NOR_collectivize_farmland_desc: "In Norway, some farmers own a lot of land while others are 'husmenn' who works on lands that are owned by other farmers and landowners. We need to upend this system and bring all of the little farmland that we have under collective management, so it can be to the benefit for all our farmers, not just some of them." #NT!
+ NOR_dictatorship_of_proletariat: "Dictatorship of the Proletariat" #NT!
+ NOR_dictatorship_of_proletariat_desc: "No longer is the power of the state being controlled by the forces of reaction and the capitalist. What Marx calls the dictatorship of the bourgeoisie has been defeated. Finally, with our recent reforms, we see the Proletariat, the working class, achieving control over the government with the establishment of a Marxist-Leninist state." #NT!
+ NOR_break_chains_of_religion: "Break the Chains of Religion" #NT!
+ NOR_break_chains_of_religion_desc: "Marx calls religion 'opium for the people'. Religion has either served as a means for the ruling class to protect their exploitation of the working class and to create a false sense of conciousness for the workers, or as a way for the working class to process their own alienation. With the victory of the Revolution, religion will become obsolete in our society and should be overturned." #NT!
+ NOR_shield_of_revolution: "Shield of the Revolution" #NT!
+ NOR_shield_of_revolution_desc: "While our society is becoming one free from the shackles of the bourgeois reactionaries, it isn't secure that our socialist society wouldn't come under reactionary attacks in the future. We need to form a State Security Police which will be tasked with protecting the Norwegian working class from the enemies of the Revolution." #NT!
+ NOR_anti_monarchist_operations: "Anti-Monarchist Operations" #NT!
+ NOR_anti_monarchist_operations_desc: "Since the declaration of the Republic in 1926, monarchist sentiments has continued to grow in Norway under the banner of AfK. These have constituted of influential opposition politicians and businessmen, as well as foreign monarchs and royals sympathetic to the cause of restoration. This movement need to be stumped out before it endangers our Republic." #NT!
+ NOR_crush_samfundsvernet: "Crush Samfundsvernet" #NT!
+ NOR_crush_samfundsvernet_desc: "While Norsk Samfundsvern has remained an illegal organization since our first ascendancy in 1930, they have continued to operate underground. With the radicalizing effect of the economic crisis causing more and more young men to join these reactionaries, we need to crack down on them more heavy-handed than before." #NT!
+  
+ NOR_continue_moderate_course: "Continue the Moderate Course" #NT!
+ NOR_continue_moderate_course_desc: "The Norwegian Labour Party have managed to steer a course for an independent and moderate Norwegian flair of socialism, and we will continue to follow it. While some in the party urge us to take a more radical course, we know this course is the best one for our nation. This way, we will uphold Norwegian democracy while overturning the reactionary, capitalist system." #NT!
+ NOR_limit_labour_militancy: "Limit Labour Militancy" #NT!
+ NOR_limit_labour_militancy_desc: "In response to reactionary violence, organized Labour have began to protect the workers with violence. While it is usually not their fault, this violence is still contra-productive. If we want to have a society where the rule of law applies, we can't allow ourselves to deal with punishment on our own." #NT!
+ NOR_social_democratic_allies: "Social Democratic Allies" #NT!
+ NOR_social_democratic_allies_desc: "The Social Democratic Labour Party have moved closer to us since we first came into government in 1930. With our party continuing the course of Democratic Socialism, the Social Democrats have been willing to help us in government. With many of the reasons why they split off from us eventually resolved, we hope to unite the Labour movement in the near future." #NT!
+ NOR_socialist_reformism: "Socialist Reformism" #NT!
+ NOR_socialist_reformism_desc: "While we are gradually moving away from Revolution, that doesn't mean we are moving away from Reform. Many believe that a Socialist government will be able to wrestle with the forces of capitalism inside the democratic framework, and create substantial change for the working class. This is something similar to what the Social Democrats in Denmark have worked towards and what Swedish Social Democrats also seek to achieve. Why wouldn't it work in Norway?" #NT!
+ NOR_tranmaelite_cult: "Tranmælite Cult" #NT!
+ NOR_tranmaelite_cult_desc: "Martin Tranmæl is one of the greatest leaders in recent Norwegian history. Through his leadership, the Labour movement have ousted a monarch and created a government for the working class. Many see these achievements impossible to reproduce without Tranmæl and the role he has played in the movement. Even if Tranmæl is on his last years as President, his legacy will live on with his protégés holding central positions in the movement." #NT!
+ NOR_fulfill_trondhjemsresolusjonen: "Fulfill Trondhjemsresolusjonen" #NT!
+ NOR_fulfill_trondhjemsresolusjonen_desc: "A part of the Labour Party's history was Fagopposisjonen 1911 and Trondhjemsresolusjonen, that sought a more revolutionary line for the party. While some principles of the resolution have been implemented, others are still left unfulfilled. Fulfilling it would place the foundation for Syndicalism in Norway, a third way separate from both Democratic Socialism and Communism, where the Workers' National Trade Union will become a central part of governance." #NT!
+ NOR_revolutionary_women: "Revolutionary Women" #NT!
+ NOR_revolutionary_women_desc: "Like the bourgeois capitalist oppresses the workers, so oppresses the patriarchy women. Many of the same capitalist structures that are used against the workers, are ones that justify the oppression of the female sex. In overthrowing capitalism, we also overthrow patriarchy. We have to ensure to break the chains that binds our female comrades, not uphold them." #NT!
+ NOR_power_in_unions: "Power in Unions" #NT!
+ NOR_power_in_unions_desc: "Political power needs to be vested in the hands of the unions, the best representatives of the working class, not in the hands of parties and bourgeois institutions. With this, we shall ensure that unions are united in advancing the interests of the working class as a whole, not the interests of one profession." #NT!
+ NOR_empower_unionized_militias: "Empower Unionized Militias" #NT!
+ NOR_empower_unionized_militias_desc: "The military and the police should be subserviant to the union. Too often these institutions have been a tool for capitalist reactionaries to undermine the rights of the working class. It is time to raise militias to defend the unions, which its loyalty always will be with the working class." #NT!
+ NOR_decentralized_communities: "Decentralized Communities" #NT!
+ NOR_decentralized_communities_desc: "The Syndicalist state should be one where the decision making powers are decentralized down into local union chapters and communities. These communities will be made up of the local workers, farmers and people of the area, not by the interests of capitalist reactionaries. It would be a purer form of governance that reflects well with how Norway has been built." #NT!
+ NOR_compromise_with_agrarians: "Compromise With Agrarians" #NT!
+ NOR_compromise_with_agrarians_desc: "Many see an agreement with the Farmers' Party unlikely. They have been one of the most anti-socialist parties in Norway, with some of their members even collaborating with Norsk Samfundsvern. However, they are more alike Labour than we think. We are both class parties representing lower classes. Often, their interests are aligned with us against the interests of the capitalist class. We can show them that City and Countryside can work together, Hand in Hand." #NT!
+ NOR_improve_workers_rights: "Improve Workers Rights" #NT!
+ NOR_improve_workers_rights_desc: "One of the most important achievement for the Labour movement, is the introduction of the 40-hour work week. However, there is always reforms that can be enacted to better the conditions of the workers. We need to ensure that the working class have the right to unionize, collectivly bargain and strike for better conditions." #NT!
+ NOR_for_old_and_unemployeed: "For the Old and Unemployed" #NT!
+ NOR_for_old_and_unemployeed_desc: "A central campaign promise of Labour, is the expantion of universal social security programs. The biggest steps towards this goal is the establishment of programs to help the unemployed and programs that support pensioners. While we hope that these can be enacted as universal programs, we might still have to include needs testing to get them approved." #NT!
+ NOR_protect_norwegian_farmers: "Protect Norwegian Farmers" #NT!
+ NOR_protect_norwegian_farmers_desc: "A promise from us to the Farmers' Party, was increasing support to and protection for the Norwegian farmers. This will include expanding the agricultural subsidies, helping our farmers to survive on their meager income and modernize their equipment, as well as enacting toll on foreign agricultural products. Measures that will also support our national self-sufficiency and independence." #NT!
+ NOR_trepartssamarbeidet: "Trepartssamarbeidet" #NT!
+ NOR_trepartssamarbeidet_desc: "The idea of cooperation between the worker and the boss for better conditions are nothing new. Already, this have been used to a limited degree with good sucsess. It is time to make this the standard for the employer-employee relationship across Norway. Instead of having a potential conflict where people get harmed every time the worker seeks justice, we can get together and come to an agreement." #NT!
+ NOR_secularization: "Secularization" #NT!
+ NOR_secularization_desc: "The fathers of the Norwegian constitution created a Norway that was to its core a Christian nation. However, we are long passed 1814, and we need to achknowledge that we can't have religious dogmas running our country. While the religious people can have their God and their churches, they have to agree that the influence of their God doesn't extend into schools or other official sectors." #NT!
+ NOR_socialism_and_liberal_feminism: "Socialism and Liberal Feminism" #NT!
+ NOR_socialism_and_liberal_feminism_desc: "We have to come to terms with the fact that feminism of revolutionary socialism isn't so much interested in uplifting women as it is to use feminism to tear down capitalism. In this regards, we have to hear the experience coming from the liberal feminist tradition. While liberal feminism isn't perfect, it should be the foundation to build feminism further on." #NT!
+ NOR_norwegian_utopia: "A Norwegian Utopia" #NT!
+ NOR_norwegian_utopia_desc: "As we move forward, we can begun to see the outlines for a Norwegian Socialist Utopia. For many Socialists, a society not so dissimilar to the revelation of a new Earth and a new Heaven given to John the Evangelist on Patmos. While our nation isn't reaching the standard of Revelation, it has come far in tendering to the inequality between the rich and the poor, and making sure everyone has a chance to a fair, happy life." #NT!
+  
+ NOR_venstre_victory: "Venstre Victory" #NT!
+ NOR_venstre_victory_desc: "While many are surprised that Venstre won, the experts see why. They had support from more people than Høyre, and had made friends with both social democrats and liberal-conservatives, with their supportive stand for welfare and private initiatives." #NT!
+ NOR_mowinckels_legacy: "Mowinckel's Legacy" #NT!
+ NOR_mowinckels_legacy_desc: "Johan Ludwig Mowinckel has been the leader of Venstre since the retirement of Gunnar Knudsen in 1927. Even before that, he has been an influential Norwegian politician. To some degree, he played a role in the rise of the Labour Party in 1930 with his inhability to gather and preserve an anti-socialist coalition. Instead negotiating across the spectrum. Now, the economic crisis has given his party a new chance to lead. Hopefully, it will leave a better legacy." #NT!
+ NOR_our_castbergian_roots: "Our Castbergian Roots" #NT!
+ NOR_our_castbergian_roots_desc: "Johan Castberg is considered the father of a string of laws that recognized the right of inheiritance to illegitimate children, and economic aid to mothers and children. Laws that lays the foundation for a growing welfare state. Mowinckel did stand close to Castberg back then, and we should look towards reforms to strengthen the foundation that Castberg laid." #NT!
+ NOR_liberal_pension_system: "A Liberal Pension System" #NT!
+ NOR_liberal_pension_system_desc: "Many of Norway's elderly are looking forward to retirement, but they are often too likely to face retirement in bankrupcy. While the previous Labour government have done some reforms to secure pensions for our retirees, we in Venstre will finish it in a reasonable way." #NT!
+ NOR_work_with_moderate_unions: "Work With Moderate Unions" #NT!
+ NOR_work_with_moderate_unions_desc: "The Workers' National Trade Union has since its founding represented a troublesome bunch of revolutionaries. However, there are many members and organizations under their umbrella that are willing to work for reforms instead of revolution. Many have an earnest interest to better the working conditions of their members, and opposes the revolutionary ambitions of some union crooks." #NT!
+ NOR_liberalism_and_neutrality: "Liberalism and Neutrality" #NT!
+ NOR_liberalism_and_neutrality_desc: "Mowinckel's vision can be summed up in two words: 'Liberalism' and 'Neutrality'. He seek to create a liberal Norwegian state, with freedom to trade our products onto the free market, in addition to a strong adherance to civil freedoms. He also seek this state to be neutral in the face of upcoming conflicts." #NT!
+ NOR_promote_nordic_ties: "Promote Nordic Ties" #NT!
+ NOR_promote_nordic_ties_desc: "Our closest ties is those we have with our Nordic neighbors. These are ties that will be useful both in securing markets for Norwegian products, as well as brothers who can back each other up when faced with conflict." #NT!
+ NOR_strengthen_low_church: "Strengthen the Low Church" #NT!
+ NOR_strengthen_low_church_desc: "Venstre has always been a friend to underdogs against elites. While Mowinckel is no Christian and Venstre has become a more secular party, we still support the low church. These churches are institutions that rejects state control over their teachings and operations. We should move away from the monopoly of the Church of Norway, strengthening the churches outside its control." #NT!
+ NOR_oppose_protectionist_policies: "Oppose Protectionist Policies" #NT!
+ NOR_oppose_protectionist_policies_desc: "Mowinckel and Venstre are strong supporters of economic liberalism. However, not many seek to follw this natural direction. Especially the Farmers' Party seek to drag Norway into protectionism, not understanding that free trade will be beneficial to the farmers. Even if they would move against us, we will not bow down to protectionism." #NT!
+ NOR_promote_liberal_feminism: "Promote Liberal Feminism" #NT!
+ NOR_promote_liberal_feminism_desc: "The same year Venstre was formed, the Norwegian Association for Women's Rights was formed. Since then, we have both worked towards the same goal. Equality and democracy for both sexes based on a liberal foundation. In recent years, socialist 'feminists' have tried to overshadow these fighters of justice and equality. We need to defend the liberal feminist tradition that have granted Norwegian women this equality." #NT!
+ NOR_reduce_bureaucracy: "Reduce Bureaucracy" #NT!
+ NOR_reduce_bureaucracy_desc: "Government need to be as efficient as possible. However, with the rise of modernity, it has seen a rise of an alienating bureaucracy that cages the people in paperwork and rutines. We should reduce this hurdle upon our people, ensuring that Norwegian bureaucracy shines as an example of efficiency and humanity." #NT!
+ NOR_ban_political_militias: "Ban Political Militias" #NT!
+ NOR_ban_political_militias_desc: "Norsk Samfundsvern and other militia groups challenge our democracy with their threats against opposing forces. We need to crack down on this, ensuring that everyone, be they socialist or conservative, can partake in our democratic institutions without threats by armed mobs of criminals." #NT!
+  
+ NOR_borgerlig_samarbeid: "Borgerlig Samarbeid" #NT!
+ NOR_borgerlig_samarbeid_desc: "The non-socialist parties have a common political opponent in the socialist Labour Party. It is therefore natural for us to band together in a coalition against them. While there will be compromises, at least it is better than risking a socialist government." #NT!
+ NOR_status_radio_monopoly: "Status of the Radio Monopoly" #NT!
+ NOR_status_radio_monopoly_desc: "While many on the political right see the need for a Norwegian Broadcasting Corporation (NRK) to lead the way in radio news communication, some have problems with the radio monopoly that the socialist government enacted. Afraid that such a monopoly would make NRK a tool for ideological indoctrination, some right-wingers propose abandoning the monopoly and subsidize independent local radio stations across the country." #NT!
+ NOR_encourage_new_businesses: "Encourage New Businesses" #NT!
+ NOR_encourage_new_businesses_desc: "The reign of socialist governance was a reign marked by anti-business activities and laws. As a result, our industralists and business men was pressured out, leaving our country worse off. We need a new wave of businesses and entrepreneurship to enter Norway to rectify socialist mistakes." #NT!
+ NOR_rebuild_farming_sector: "Rebuild the Farming Sector" #NT!
+ NOR_rebuild_farming_sector_desc: "The Norwegian farmer was probably hit the hardest by the economic crisis. With recovery going smothly, we need to ensure that our farmers are able to rebuild their farms and produce products. This will include higher subsidies and protectionist policies despite the opposition to such measures in our coalition." #NT!
+ NOR_promote_conservative_officers: "Promote Conservative Officers" #NT!
+ NOR_promote_conservative_officers_desc: "The socialists in the Labour Party used to discriminate in promotions, often promoting officers that was either sympathetic to the Labour Party or officers who didn't voice any opinion on the government. This left many talented, conservative officers in the ditch. We need to set things right and recognize the efforts of these Norwegian patriots." #NT!
+ NOR_resolve_monarchy_question: "Resolve the Monarchy Question" #NT!
+ NOR_resolve_monarchy_question_desc: "The socialists used the people's lack of knowledge and a populist appeal to vote away the monarchy. As a result, the issue was never completely resolved. We need to give a proper, fair and well-informed choice to the Norwegian people so that we can lay this to rest once and for all." #NT!
+  
+ NOR_hoyre_victory: "Høyre Victory" #NT!
+ NOR_hoyre_victory_desc: "The left, for the most part, hates Høyre, but they have good reasons for their victory. They have been able to attract both liberals and conservatives, and have had many on the far right reluctantly supporting them." #NT!
+ NOR_integrate_samfundsvern_moderates: "Integrate Samfundsvern Moderates" #NT!
+ NOR_integrate_samfundsvern_moderates_desc: "Norsk Samfundsvern and other militias do challenge Norwegian democracy. At the same time, their members are everyday people worried about the excesses of socialist government and the power of the Labour Party. By adopting some of their messaging, we can win some of them back to parliamentary democracy and gain a loyal cohort against Labour." #NT!
+ NOR_leadership_question: "The Leadership Question" #NT!
+ NOR_leadership_question_desc: "Since Ivar Lykke stepped away from leading Høyre, the position has been filled by Carl Joachim Hambro. Hambro is a leader with strong oratory skills and a strong focus on re-armament. However, some in the party oppose him due to his improvized and sometimes authoritarian leadership. This opposition has rallied behind Johan Henrik Andresen, a structured business man who could bring re-newed focus towards Høyre's economic agenda." #NT!
+ NOR_limit_anti_parliamentarian_ideas: "Limit Anti-Parliamentarian Ideas" #NT!
+ NOR_limit_anti_parliamentarian_ideas_desc: "The rise of socialists through our democratic systems and the economic crisis we have endured have soured many people's opinion on parliamentary democracy. Høyre has also had it's history with scepticism towards this system. However, we know today the benefits that this system gives. We should work to limit the anti-parliamentarian sentiments in Norway, bringing people back to democracy." #NT!
+ NOR_arm_our_neutrality: "Arm Our Neutrality" #NT!
+ NOR_arm_our_neutrality_desc: "A central theme of Høyre's campaign, was re-armament. Under socialist rule, our military has been left abandoned. Even under the liberals, there have been little focus on preparedness. If Norway is to continue to be a neutral country in Europe, we should be ready to defend our neutrality and our democracy. Remember the words in our anthem:\n\n'even we, when it is demanded, for its peace will encamp'" #NT!
+ NOR_lift_socialist_red_tape: "Lift Socialist Red Tape" #NT!
+ NOR_lift_socialist_red_tape_desc: "Since the socialists in Labour took power in 1930 have they tried everything to undermine our economy in an attempt to fulfill their dogmatic ideology. We should cut back on their regulations and taxes to let business breathe again. This way, our economy will be booming once more." #NT!
+ NOR_church_and_values: "Church and Values" #NT!
+ NOR_church_and_values_desc: "The Church of Norway has played a central role in fostering a moral society, one the socialists has tried to undermine through their over-zealous anti-Christian agenda. In cases of education and social policies, a balance will always need to be upheld between kowtowing to religious dogma and upholding critical thinking. We will find it by cooperation with the Church, not by crusading against it." #NT!
+ NOR_moral_case_against_marxism: "The Moral Case Against Marxism" #NT!
+ NOR_moral_case_against_marxism_desc: "There should be a serious discussion over the moral implication of Marxism. It have influenced people across the world with ideas, which on paper sounds lovely, but has resulted in authoritarianism. We need to learn the Norwegian people the real consequences of abandoning democracy for a proletarian revolution, and to find other solutions to handle material inequality." #NT!
+ NOR_balance_the_books: "Balance the Books" #NT!
+ NOR_balance_the_books_desc: "The socialists in Labour have ran a government on spending more than we have. This has resulted with our country knee-deep in debt. Fiscal discipline is necessary to bring our spending under control and achieve balance. While some would oppose the spending cuts we will propose, we will eventually have more money for spending after the cuts." #NT!
+ NOR_paternalist_programs: "Paternalist Programs" #NT!
+ NOR_paternalist_programs_desc: "A reason why the socialists managed to lull the working class into their grasp, is through the use of welfare programs. While our ambitions can never match theirs, we should try to counter these socialist bribes with our own ideas on welfare. Based upon paternalist principles, we will create a harmonious state for both worker and boss." #NT!
+ NOR_empower_non_socialist_unions: "Empower Non-Socialist Unions" #NT!
+ NOR_empower_non_socialist_unions_desc: "The Workers' National Trade Union are a gang of socialist troublemakers who serve the interest of revolution and the Labour Party over the interest of the working class. We need to empower independent unions outside their reach. Unions who base themselves upon a Protestant work ethic and Paternalist principles." #NT!
+  
+ NOR_samfundsvernets_coup: "Samfundsvernet's Coup" #NT!
+ NOR_samfundsvernets_coup_desc: "Our men are now marching in the streets of the cities of Norway. We have finally saved the country from socialist dystopia! We will find out what to do with the socialist traitors, but for now, Norway can celebrate this victory!" #NT!
+  
+ NOR_monarchist_victory: "Monarchist Victory" #NT!
+ NOR_monarchist_victory_desc: "While commander Ragnvald Hvoslef wants to make Vidkun Quisling the minister-president, the majority of the members of Norsk Samfundsvern has voted in favour of reinstating the monarchy." #NT!
+ NOR_crown_prince: "The Crown Prince" #NT!
+ NOR_crown_prince_desc: "We are afraid that king Haakon could be too indoctrinated into the absolutist ideology, that he would not listen to the people, and instead rule with a hard hand. His son, however, crown prince Olav, could be a wise choice since he believes more in the idea that he is the king for the people." #NT!
+ NOR_listen_to_people: "Listen to the People" #NT!
+ NOR_listen_to_people_desc: "The new king understands that his powers don't come from his wealth and influence, but from the will of the people. The king will loosen up on the rules that have targeted free speech, and wants his opposition to speak with him so he can listen and rule more wisely. This will also strengthen the king's approval by the public." #NT!
+ NOR_reach_out_borgerlige_parties: "Reach Out to 'Borgerlige' Parties" #NT!
+ NOR_reach_out_borgerlige_parties_desc: "The king needs to have the support of most of the political parties. These organizations and those who voted for them need to be respected. So long they are loyal to the king, they will be able to come with requests to the king." #NT!
+ NOR_reestablish_parliament: "Reestablish the Parliament" #NT!
+ NOR_reestablish_parliament_desc: "When the country was saved from the claws of socialism, the parliament was unluckily dissolved. Now when everything has stabilized, it is time to reestablish the parliament of Norway, Stortinget." #NT!
+ NOR_kings_party_for_all: "A King's Party for All" #NT!
+ NOR_kings_party_for_all_desc: "While the King will always serve as an impartial figure, we need a King's Party that can make the voice of the people heard to the king. While staying loyal to our monarch, it is always important that we do not become autocrats and despots. The people shall have their voice and their representation through the King's Party!" #NT!
+ NOR_beyond_partisanship: "Beyond Partisanship" #NT!
+ NOR_beyond_partisanship_desc: "Our movement is one beyond the destructive and polarizing nature of political parties. George Washington, a man who helped ushering a democratic republic, understood this fact better than anyone else about political parties:\n'...they are likely in the course of time and things, to become potent engines, by which cunning, ambitious, and unprincipled men will be enabled to subvert the power of the people and to usurp for themselves the reins of government, destroying afterwards the very engines which have lifted them to unjust dominion.'" #NT!
+ NOR_towards_center: "Towards the Center" #NT!
+ NOR_towards_center_desc: "The King's Party are not a right-wing nor a left-wing party. It is entirely the People's and the King's Party. It shall always be placed in the center of Norwegian politics. Not on the side of one section of the people, which is the fate of right-wing and left-wing parties, but on the side of all the people - and His Majesty of course." #NT!
+ NOR_facade_of_democracy: "A Façade of Democracy" #NT!
+ NOR_facade_of_democracy_desc: "In the modern world, the people will always seek a way to influence the policies of the nation. It will be our responsibility to provide them with a 'democratic' voice. However, with political parties no longer legal and the election system entirely under our control, our people will have a façade of a democratic choice." #NT!
+ NOR_loyalist_propaganda: "Loyalist Propaganda" #NT!
+ NOR_loyalist_propaganda_desc: "Even if His Majesty's Kingdom shall respect the freedom of the press, we need to ensure that the press they read, see and hear is our press. Through propaganda, our people will know our truth about the greatness of His Majesty and his everyday service to his people." #NT!
+ NOR_king: "The King" #NT!
+ NOR_king_desc: "It is treason to say we should pick the former crown prince as king when the real king is still alive. King Haakon is known for sliding into a more authoritarian view on governing, but he is, after all, our true and honourable monarch." #NT!
+ NOR_royal_guard_police_forces: "A Royal Guard Police Force" #NT!
+ NOR_royal_guard_police_forces_desc: "The Royal Guards have great experience as guardsmen and could use this experience to further strengthen our police forces. In addition, this would be a way for loyal guardsmen to secure control over the Norwegian police, ensuring its loyalty to the King." #NT!
+ NOR_subjugate_samfundsvernet: "Subjugate Samfundsvernet" #NT!
+ NOR_subjugate_samfundsvernet_desc: "Samfundsvernet have been loyal in restoring the King to the throne. However, their loyalty aren't to our monarch, but to men like Ragnvald Hvoslef and visions that could place our Kingdom in danger. We need to pacify them, ensuring that they doesn't pose a threat. Hopefully some of them are willing to join us." #NT!
+ NOR_modern_royal_titles: "Modern Royal Titles" #NT!
+ NOR_modern_royal_titles_desc: "In some societies today, the Royals are treated like unimportant people. But the reality is that such belief is treason in itself. The Royals are chosen by God to rule and should be given their rightful privileges." #NT!
+ NOR_christian_moral_society: "A Christian, Moral Society" #NT!
+ NOR_christian_moral_society_desc: "His Majesty see many among the people who have fallen from the Church and who celebrates immorality. This can't stand. It is in his will that all are educated in the values of our Christian faith and that the values of our Church are enforced throughout our society. Everyone will know the name of God!" #NT!
+ NOR_punish_socialists: "Punish the Socialists" #NT!
+ NOR_punish_socialists_desc: "High Treason, Corruption, Seizure of Power, Insurrection.\nAll crimes that the Norwegian socialists in the Labour Party are guilty of. While these are crimes that would easily lead to execution, the King want to show his mercy towards these citizens that have wronged him and only give them light sentences - like life imprisonment - instead." #NT!
+ NOR_empower_fagopposisjonen: "Empower Fagopposisjonen" #NT!
+ NOR_empower_fagopposisjonen_desc: "The Workers' National Trade Union are known for their corruption and socialism. However, an opposition group inside it has rose up in support of our King and of decency. While the old organization need to be torn down, this group of loyal workers' representatives will form the basis for the Professional Organization of the Norwegian Realm." #NT!
+ NOR_paternalist_economics: "Paternalist Economics" #NT!
+ NOR_paternalist_economics_desc: "The conditions that allowed capitalists to exploit their workers, which also helped fuel the dangerous sickness known as socialism, shall never happen again. It is the responsibility of the capitalist to take care of his workers welfare, and if not, he will lose his business." #NT!
+ NOR_benevolent_monarch: "A Benevolent Monarch" #NT!
+ NOR_benevolent_monarch_desc: "His Majesty see many among the people who struggle day to day in his country. This can't stand. It is in his will that the state provide services such as unemployment, pensioner and maternity benefits. Services that help our stuggling citizens the most. No one will go to bed hungry!" #NT!
+ NOR_voluntary_work_service: "Voluntary Work Service" #NT!
+ NOR_voluntary_work_service_desc: "His Majesty see many among the people without employment in his country. This can't stand. It is in his will that we organize a voluntary work service where young men can serve their King and their nation, and in return be helped on the path of steady employment. No one will be slave to poverty!" #NT!
+ NOR_work_with_ns: "Work With NS" #NT!
+ NOR_work_with_ns_desc: "Many of the people in the council would see this move as dangerous. To allow Nasjonal Samling into the council could be troublesome for some people, because of their political stands. But the king believes this will help in stabilizing the kingdom." #NT!
+ NOR_entrench_strict_loyalty: "Entrench Strict Loyalty" #NT!
+ NOR_entrench_strict_loyalty_desc: "We need to secure the loyalty of the people to the King. Through the powers of propaganda, we will present the King as a Paternal figure that the people naturally should respect and love. We should also secure that no slander and ill speak is done against the King and his person." #NT!
+ NOR_absolute_rule: "Absolute Rule" #NT!
+ NOR_absolute_rule_desc: "While it will be hard for a people of a modern time to understand, the King does have the right to rule from God. Instead of favoring one section of the people to rule on behalf of His Majesty, governing should be done under an Absolute monarch. That way, all his people have an equal opportunity to reach out to him." #NT!
+ NOR_enlighten_absolutism: "Enlightened Absolutism" #NT!
+ NOR_enlighten_absolutism_desc: "The Age of Enlightenment brought a lot of good philosophy, ideas and technology to the world. Unfortunately, it also gave fuel to movements who displaced their monarchs from power. Out from this era however, figures like Catherine II of Russia, Charles III of Spain and Frederick the Great rose to champion an Enlightened form of Absolutism. A form that balanced the King's right to rule with improvement of society for its citizens. A form Norway should learn from." #NT!
+ NOR_quisling_in_cabinet: "Quisling in Cabinet" #NT!
+ NOR_quisling_in_cabinet_desc: "While King Haakon isn't the biggest fan of Vidkun Quisling, he achknowledge that Quisling can be a valuable ally if Republican forces rises again. Bringing Quisling and his supporters into His Majesty's government could help in ensuring that Nasjonal Samling doesn't create any trouble." #NT!
+ NOR_utilize_ns_structures: "Utilize NS Structures" #NT!
+ NOR_utilize_ns_structures_desc: "Nasjonal Samling have many intraparty structures, with organizations for men and women of all ages. These structures could be used in the service of his majesty. Of course, anti-monarchist elements need to be rooted out. Besides that, many NS members are willing to serve their King." #NT!
+ NOR_heir_of_st_olav: "The Heir of St. Olav" #NT!
+ NOR_heir_of_st_olav_desc: "All Norwegian kings gain their legitimacy through God. However, this legitimacy isn't given directly to each king. It is granted to them as the legitimate heir of Saint Olav, the King who brought the Christian faith to Norway. King Haakon VII isn't legitimate only because of the people's vote in 1905. He is legitimate because he is the heir of Norway's Eternal King!" #NT!
+ NOR_long_live_the_king: "Long Live the King" #NT!
+ NOR_long_live_the_king_desc: "The Norwegian King are the embodiment of the Norwegian nation. He are set to rule the people as an anointed servant of Christ. The King's rule is not like the master's rule over his slaves. Instead, our King is an enthroned servant of the Norwegian people.\n§YLong may he live, Long Live the King!§!" #NT!
+  
+ NOR_NS_victory: "NS Victory" #NT!
+ NOR_NS_victory_desc: "While there are many members that want either democracy or monarchy, the majority, with commander Ragnvald Hvoslef at the front, have voted for Nasjonal Samling to take control in Norway. Vidkun Quisling will become the new minister-president of Norway." #NT!
+ NOR_promote_loyal_policemen: "Promote Loyal Policemen" #NT!
+ NOR_promote_loyal_policemen_desc: "Since the socialists came to power, they have attempted to take control over the police and purging it of nationally-minded officers. Luckily, they did not succeed. There are many within the police sympathetic to our party. We can assure the loyalty of the police by promoting these officers into leadership positions." #NT!
+ NOR_remove_socialist_cancer: "Remove the Socialist Cancer" #NT!
+ NOR_remove_socialist_cancer_desc: "Resistance from the socialists are still rampant in Norway. This Moscowite influence causes good Norwegian men and women to take up arms against our nation. We need to purge out this socialist cancer, both from society and from the minds of the Norwegian workers." #NT!
+ NOR_subdue_monarchists: "Subdue the Monarchists" #NT!
+ NOR_subdue_monarchists_desc: "The monarchists have been a good ally to achieve our goal, but they are more loyal towards an exciled Dane than towards the nation. While monarchy could be useful to unite and temper the conservative forces in Norway, it is an archaic institution which likely would fight against our leaders for dominance." #NT!
+ NOR_enforce_jodeparagrafen: "Enforce Jødeparagrafen" #NT!
+ NOR_enforce_jodeparagrafen_desc: "In 1814, the founding fathers of our constitution understood the threat in allowing Catholics and Jews to gain too much power and influence in Norway. While we still forbid Catholic Jesuits from entering the realm, we sadly allowed Jews and their influence to come in. Through reamending the constitution and enforcing the paragraph, we can finally 'help' our Jewish neighbors to move. Either back to Eastern Europe, to Palestine or another place." #NT!
+ NOR_norges_faggruppeorganisasjon: "Norges Faggruppeorganisasjon" #NT!
+ NOR_norges_faggruppeorganisasjon_desc: "Unlike the liberal capitalists, we understand the need for the Norwegian workers to be represented and heared. While the Workers' National Trade Union is poisoned by socialism, a minority still exist that seek to decouple the fight for Norwegian workers from international marxist socialism. They will form the foundation for a Norwegian Organization of Professional Workers." #NT!
+ NOR_establish_arbeidstjenesten: "Establish Arbeidstjenesten" #NT!
+ NOR_establish_arbeidstjenesten_desc: "Faced by unemployment and inactivity, many see the need to organize a work service for young Norwegian men. Here, they can come to work and contribute to society, while the work service can be a good way for further employment in either the military or in related work fields." #NT!
+ NOR_agrarian_revitalization: "Agrarian Revitalization" #NT!
+ NOR_agrarian_revitalization_desc: "The agrarian sector has been stagnant since the economic depression. Many farmers struggled to pay off debt and survive while the rich city-folk continued to exploit them. We need serious investments into the Norwegian farmers, helping them to rebuild their lives and to modernize their farms." #NT!
+ NOR_integrate_samfundsvernet: "Integrate Samfundsvernet" #NT!
+ NOR_integrate_samfundsvernet_desc: "Samfundsvernet have been a great help in overthrowing the socialist regime. However, they operate too much as an organization on the sideline of our government. We can't have military organizations that are not completely loyal to Nasjonal Samling. However, many in their ranks support us and they can easily swap out their Samfundsvern uniforms with uniforms from Hirden." #NT!
+ NOR_militarize_hirden: "Militarize Hirden" #NT!
+ NOR_militarize_hirden_desc: "Hirden is a paramilitary organization loyal to the will and goals of Nasjonal Samling. Until now, they have acted like guards and extra police units. We need to militarize them while making them a natural part of the Norwegian forces and society. In all levels of our armed forces, the influence of our Hirdmenn will be felt." #NT!
+ NOR_heim_ett_fedreland: "Heim, Ætt, Fedreland" #NT!
+ NOR_heim_ett_fedreland_desc: "Home, Family and Fatherland. These words underline the values that our regime seeks to preserve. We want Norway to be a homeland for a healthy and proper Norwegian people. The strongest defenders of national values, both in the past and in modernity, has been the Norwegian woman. While some have seen childrearing responsibilities as a way to oppress women, we know and appreciate the empowering position this gives the women of Norway." #NT!
+ NOR_festning_norge: "Festning Norge" #NT!
+ NOR_festning_norge_desc: "Our country is not surrounded by friends. We need to protect our coast and seas from the imperial ambitions enbodied by the French and the British. We need to make our nation into a fortification!" #NT!
+ NOR_work_camp_for_socialists: "Work Camps for Socialists" #NT!
+ NOR_work_camp_for_socialists_desc: "It is too costly to let the socialist and Marxist traitors rot in prison. Instead, we should force them to do hard work in the communities and in the factories, of course, overseen by loyal members of NS." #NT!
+ NOR_approach_valkist_factionalism: "Approach Valkist Factionalism" #NT!
+ NOR_approach_valkist_factionalism_desc: "While the Socialists are ousted, the power of our fører isn't yet secure. For every day that passes, we see increasing division between those loyal to the leadership of Vidkun Quisling and those who seek to move Norway more towards a Valkist-inspired direction. Led by Hans S. Jacobsen, they seek a more radical direction for our country." #NT!
+ NOR_entrench_ns_rule: "Entrench Quisling's Rule" #NT!
+ NOR_entrench_ns_rule_desc: "The many challenges against Quisling's rule tried to rise up against our leader. Luckily, they have been dealt with as the opponents are either sidelined or kicked out as 'envoys' to Germany. No longer will these internal socialists challenge the stability of Norwegian society and the prosperous future we seek under the leadership of Vidkun Quisling." #NT!
+ NOR_reforged_christian_church: "A Reforged Christian Church" #NT!
+ NOR_reforged_christian_church_desc: "When we took power, there were still many in the Norwegian Church who opposed it. However, we have since then worked to mend the institutions of the Church into our image. Quisling also has a few ideas of his own, what he call 'Universism', which we could seek to implement in this reforged Church." #NT!
+ NOR_integrate_capitalist_class: "Integrate the Capitalist Class" #NT!
+ NOR_integrate_capitalist_class_desc: "Many capitalists have been sceptical towards the Quisling regime due to the socialist tendencies from some of our members. However, Quisling and his closest circle are far from socialists. Instead, they seek an economy where the different sections of society work together for the betterment of the nation." #NT!
+ NOR_loyalty_to_foreren: "Loyalty to Føreren" #NT!
+ NOR_loyalty_to_foreren_desc: "Loyalty to Vidkun Quisling, føreren, is an important tenant of our nation. Quisling has saved Norway from destruction by the forces of socialism, and he will lead the country into a prosperous future. Only under him will Norway ever be great again." #NT!
+ NOR_depose_quisling: "Depose Quisling" #NT!
+ NOR_depose_quisling_desc: "Vidkun Quisling has fallen. While he fought valiantly against the corrosive forces of socialism and liberal democracy in Norway, he was ultimately a weak ruler who believed himself to have the strength to lead our nation. Now, we can finally steer Norway into a better future for all it's people." #NT!
+ NOR_paetelist_principles: "Paetelist Principles" #NT!
+ NOR_paetelist_principles_desc: "We are inspired by Karl Otto Paetel's ideas of socialism under the basis of nationalism instead of marxist internationalism. Instead of compromising with the fickle capitalist class, like Quisling would do, we need to have the economy under national control. An economy which would work for workers and farmers, not for the capitalists." #NT!
+ NOR_end_white_christs_influence: "End White Christ's Influence" #NT!
+ NOR_end_white_christs_influence_desc: "Jesus Christ, also known as White Christ, and his followers have often proven themselves to hold Norway back. It isn't surprising since he came as a way to force Norway under Papist boots, and it hasn't changed even if he took on a Protestant form. To continue our national revolution, we need to end the influence that Christ and his Church has over Norway." #NT!
+ NOR_meritocratic_order: "A Meritocratic Order" #NT!
+ NOR_meritocratic_order_desc: "While we aren't totally against the principle of having a leader, a 'fører', we don't support giving leadership to a bozo like Quisling. We seek to build a meritocratic system from the buttom-up that awards military and intellectual prowess. A system where Norway's best fighters have a greater chance to lead the nation than the degenerate elites of yesteryears." #NT!
+ NOR_rikstinget: "Rikstinget" #NT!
+ NOR_rikstinget_desc: "We need to overturn the broken systems of old. The establishment of Rikstinget will not be one of continuing the faults of the past. Instead, the different sections of our people; workers, farmers, city-folk, etc. will be united to work for our vision for Norway." #NT!
+ NOR_with_spirit_st_olav: "The Spirit of St. Olav" #NT!
+ NOR_with_spirit_st_olav_desc: "An important symbol for the party is the Sun Cross. Often, it is mentioned as the Olav Cross. It is indeed the steps of Saint Olav we follow. He united Norway into a Christian realm, and we will follow in uniting the Norwegian people into a national community. It is the spirit of Saint Olav that flows in our Norwegian blood." #NT!
+ NOR_spirit_germanic_volk: "The Spirit of A Germanic Volk" #NT!
+ NOR_spirit_germanic_volk_desc: "The Norwegian people isn't an entity separate from the world around them. They are all a part of a Germanic community, a community of the peoples of the Nordics and of the German lands. The struggles of the German people aren't foreign to us, we share them as part of a Volk. This spirit is alive in us, as it is in the Germans." #NT!
+  
+ NOR_looking_outwards: "Looking Outwards" #NT!
+ NOR_looking_outwards_desc: "The world is growing more and more unrestful ever since the Great War. While Norway has managed to survive in peace with its neutrality, some see the rising tension as a sign that we need to re-evaluate this stance." #NT!
+ NOR_spreading_revolution: "Spreading the Revolution" #NT!
+ NOR_spreading_revolution_desc: "The Socialist revolution can not be contained in one country or to one people. The challenges of the working class is shared by the workers of every country, and we need to do our job to liberate the workers of neighboring nations. Some in our movement see the Pan-Scandinavian movement as an inspiration to bring freedom to the workers of all the Nordics." #NT!
+ NOR_support_danish_left: "Support the Danish Left" #NT!
+ NOR_support_danish_left_desc: "The Danish Republicans and Communists are in support of our socialism and will likely be sympathetic to a union between Norway and Denmark. Sending them support and recruiting some of them would be a obvious move before we overthrow the Danish bourgeoisie and establish socialist unity." #NT!
+ NOR_secure_denmark: "Захватить Данию"
+ NOR_secure_denmark_desc: "It is time to take over Denmark. If they are fellow socialists, they will likely see reason and join us without a fight. If they are reactionaries, we have to crush them and free the Danish working class. For the Revolution!" #NT!
+ NOR_harbour_swedish_revolutionaries: "Harbour Swedish Revolutionaries" #NT!
+ NOR_harbour_swedish_revolutionaries_desc: "There are many Swedish socialists, members of the Socialist and Communist parties, that can be willing to work with us in achieving liberation for the Swedish people. The working class of Sweden isn't our enemy, we have a common enemy in the reactionary regime that oppresses them." #NT!
+ NOR_a_swedish_revolution: "A Swedish Revolution" #NT!
+ NOR_a_swedish_revolution_desc: "It is time to bring the revolution east, into Sweden, and bring unity between the Norwegian and Swedish working class. If they are fellow socialists, they will likely listen to our reason. If they are reactionaries, we have to crush them and free the Swedish working class. For the Revolution!" #NT!
+ NOR_work_with_finnish_reds: "Work With the Finnish Reds" #NT!
+ NOR_work_with_finnish_reds_desc: "In its fight for independence, the Finnish Reds attempted to free the working class. While they were fought back by the bourgeois reactionaries, they can still be a great ally in liberating Finland. Both the workers of Norway and the workers of Finland has a common enemy in the bourgeoisie who keeps us separated." #NT!
+ NOR_march_into_finland: "March Into Finland" #NT!
+ NOR_march_into_finland_desc: "It is time to march into Finland, to liberate their workers from their chains, and unite into one socialist country. If they are fellow socialists, they will likely join us. If they are reactionaries, we will crush them with the hammer of the worker. For the Revolution!" #NT!
+ NOR_scandinavian_socialist_republics: "The Scandinavian Socialist Republics" #NT!
+ NOR_scandinavian_socialist_republics_desc: "With the fall of the last reactionary regime in Scandinavia, red banners fly now over Northern Europe. But we have to show that we are liberators, not conquerors. Workers from all the Nordic countries; Norway, Sweden, Denmark and Finland participated to liberate this land. So we should form a union of socialist republics between these brethren peoples." #NT!
+ NOR_reconstruction_and_integration: "Reconstruction and Integration" #NT!
+ NOR_reconstruction_and_integration_desc: "The conflicts that have led to this unification has left these Scandinavian lands in ruin. Both as a sign of our commitment to this union and as a way to integrate our new lands, we should fund the reconstruction of industries and infrastructure. Through this effort, we will be able to bind our nations together." #NT!
+ NOR_socialist_scandinavianism: "Socialist Scandinavianism" #NT!
+ NOR_socialist_scandinavianism_desc: "The Pan-Scandinavian project of the 19th century may have been led primarily by bourgeoisie liberals, but some of their ideas are still valuable. Even if our socialist ideology prioritizes internationalism, we can use Scandinavian Pan-Nationalism to strengthen the international cooperation between the different nations of Scandinavia." #NT!
+ NOR_nordic_neutrality: "Nordic Neutrality" #NT!
+ NOR_nordic_neutrality_desc: "" #NT!
+ NOR_military_cooperation: "Military Cooperation" #NT!
+ NOR_military_cooperation_desc: "" #NT!
+ NOR_seek_western_allies: "Seek Western Allies" #NT!
+ NOR_seek_western_allies_desc: "" #NT!
+ NOR_entente_advisors: "Entente Advisors" #NT!
+ NOR_entente_advisors_desc: "" #NT!
+ NOR_securing_nordic_front: "Securing the Nordic Front" #NT!
+ NOR_securing_nordic_front_desc: "" #NT!
+ NOR_prepare_for_german_confrontation: "Prepare for German Confrontation" #NT!
+ NOR_prepare_for_german_confrontation_desc: "" #NT!
+ NOR_support_finns: "Support the Finns" #NT!
+ NOR_support_finns_desc: "" #NT!
+ NOR_german_alignment: "German Alignment" #NT!
+ NOR_german_alignment_desc: "" #NT!
+ NOR_revive_greenland_case: "Revive the Greenland Case" #NT!
+ NOR_revive_greenland_case_desc: "In 1814, the great powers divided our nation in two, the 'Danish' part and the 'Swedish' part. While our brothers in the North Atlantic did not fight for independence like we did, they are still brothers. When we got independence in 1905, the Danish did not give over their territories. It is time to take back these territories and unite the Norwegians!" #NT!
+ NOR_integrate_western_islands: "Integrate the Western Islands" #NT!
+ NOR_integrate_western_islands_desc: "" #NT!
+ NOR_explore_greenland: "Explore Greenland" #NT!
+ NOR_explore_greenland_desc: "While there is mostly just white ice and snow in Greenland, we have the potential to start industry along the southern coast." #NT!
+ NOR_icelandic_industries: "Icelandic Industries" #NT!
+ NOR_icelandic_industries_desc: "The industry of Iceland is tiny. There is almost nothing there. Just some naval ports and old houses. We need to improve this territory and get people to immigrate here." #NT!
+ NOR_claims_in_east: "Claims in the East" #NT!
+ NOR_claims_in_east_desc: "The Swedes have in many years occupied Alvheim and öystræ rikinu, Jemtland. These were unlawfully seized and the Danes believed they could represent us. We claim these lands as parts of Norway." #NT!
+ NOR_integrate_eastern_lands: "Integrate Eastern Lands" #NT!
+ NOR_integrate_eastern_lands_desc: "" #NT!
+ NOR_develop_east: "Develop the East" #NT!
+ NOR_develop_east_desc: "" #NT!
+ NOR_greater_norwegian_dream: "The Greater Norwegian Dream" #NT!
+ NOR_greater_norwegian_dream_desc: "We have finally fully united the Norwegian nation. It is a great achievement, one we need to show our pride for. A new age has arrived in the world. The age of Greater Norway!" #NT!
+  
+ #### Decisions #### 
+  
+ NOR_economical_decision_group: "Norway's Economical Decisions" #NT!
+ NOR_economical_decision_group_desc: "Norway has for a long time been a rural and non-industrial state. We got a beginning after independence in 1905, but we need to continue our industrial rise." #NT!
+  
+ NOR_land_distribution: "Land Distribution" #NT!
+ NOR_land_distribution_desc: "No Longer shall there be people in our country with 'unearned' riches and wealth!" #NT!
+ NOR_expand_steel_mines: "Expand the Steel Mines" #NT!
+ NOR_expand_steel_mines_desc: "There is potential to mine out a lot of iron and steel in Norway." #NT!
+  
+ NOR_war_with_decistions: "Foreign Policy" #NT!
+  
+ NOR_white_peace_sweden: "White Peace with Sweden" #NT!
+ NOR_white_peace_sweden_desc: "The war between us, Norway, and Sweden has not come to an end. There is, however, no clear winner in this either, so we must try to sign a white peace." #NT!
+  
+ NOR_join_third_international: "Joining the Third Internationale" #NT!
+ NOR_join_stahlpakt: "Joining the Stahlpakt" #NT!
+ NOR_join_entente: "Joining the Entente" #NT!
+ NOR_join_ipa: "Joining the Imperial Protection Alliance" #NT!
+  
+ #### Others #### 
+  
+ NOR_FUHRERREICH_DESC: "Since independence in 1905, Norway stayed neutral in the Great War. But with class differences growing under the war, and a more and more unpopular monarchy, marxism was seen as a solution to the people. The Republic was established in 1926, and in 1930, a socialist coalition government took the lead. It is just to see if Norway will continue the path of socialism, or go back to the monarchy." #NT!
+  
+ POLITICS_MARTIN_TRANMAEL_DESC: "§YLeader Description\nBorn:§! §gJune 27th, 1879, in Melhus, Sør-Trøndelag§!\n§YPolitical Career:§! §gMartin Tranmæl came from a middle-sized farm in Melhus, and rose to become the leader, of not just the Norwegian labour movement, but also the Republic. Not many can say that they have removed a country's monarchy, but Tranmæl can. He is one of the greatest speakers that the labour movement have, some even say that his speeches holds his party together and prevented it from dividing itself up. But Tranmæl is also leading a republic that has for years struggled with monarchist and anti-socialist riots, and he is afraid to imagine how the Norwegian Republic will fare without him leading it.§!\n\n§RModerate Socialist§!" #NT!
+ POLITICS_JOHAN_LUDWIG_MOWINCKEL_DESC: "§YLeader Description\nBorn:§! §gOctober 22nd, 1870, in Bergen, Hordaland§!\n§YPolitical Career:§! §gJohan Ludwig Mowinckel is a shipping magnate, statesman and philanthropist, a former Prime Minister, and the reigning President of Norway. Born into an old merchant family in Bergen, it was natural for him to grow up to become a foreign minister and an advocate of free trade. A Liberal, Mowinckel is opposed to both the Valkism of Germany and the socialism of both the Soviet Union and the Labour Party. With his background in the foreign field, there are hopes that his presidency will see increased cooperation with our neighbors and the democratic powers of the world.§!\n\n§OLiberal§!" #NT!
+ POLITICS_INGOLF_ELSTER_CHRISTENSEN_DESC: "§YLeader Description\nBorn:§! §gMarch 28th, 1872, in Førde, Sogn og Fjordane§!\n§YPolitical Career:§! §gIngolf Elster Christensen has a history as a jurist, military officer and county governor. Coming from the rural county of Sogn og Fjordane, he has risen to the highest position in the country. Born in 1872 to a captain, Christensen studied in the Bergen Cathedral School and went to the Military Academy before serving as county governor, first for Sogn og Fjordane, than of Oslo and Akershus, until he stepped down to persue the presidency. A Conservative with a background in justice and defence, preserving law and order will be an important task for the President.§!\n\n§CConservative§!" #NT!
+ POLITICS_EINAR_GERHARDSEN_DESC: "§YLeader Description\nBorn:§! §gMay 10th, 1897, in Asker, Akershus§!\n§YPolitical Career:§! §gEinar Henry Gerhardsen, born as Einar Henry Olsen. From a background as a road worker and an activist in the labour movement, he now sits as the President of Norway. Born in Asker to a modest working class family, Gerhardsen found it natural to become a member of the labour movement. This also led him to become a member of Martin Tranmæl's inner circle in the early 1920s, serving almost loyally to Mr. Tranmæl. While starting of as an radical, Gerhardsen have moved towards a more moderate position in the Labour Party. Many see him as a continuation of Tranmæl's legacy, but could also found a legacy of his own.§!\n\n§RModerate Socialist§!" #NT!
+ POLITICS_HAAVARD_LANGSETH_DESC: "§YLeader Description\nBorn:§! §gJuly 7th, 1888§!\n§YPolitical Career:§! §gHaavard Langseth is a civil engineer, organizer, editor and one of the radical socialists that finds home in the Labour Party. A communist at heart, Langseth is a supporter of Soviet-style socialism, and was one of the main founders of the Friends of the Soviet Union movement. This have also made his opponents, and even moderates inside the party, afraid that he is no more than a Soviet puppet. With his rise to the presidency, Langseth can either prove them right by furthering Norway's relation to the Soviet Union, or build a more independent socialist society.§!\n\n§RRadical Socialist§!" #NT!
+ POLITICS_JOHAN_NYGAARDSVOLD_DESC: "§YLeader Description\nBorn:§! §gSeptember 6th, 1879, in Hommelvik, Sør-Trøndelag§!\n§YPolitical Career:§! §gJohan Nygaardsvold is yet another working class Labour leader, with a background as a lumber mill worker. After a brief career in America, were he also acted as an agitator for the IWW, he returned to Norway in 1907. Nygaardsvold became a member of the Labour Party, then the Social Democrats, before the two parties reunited. While Nygaardsvold have been reluctant to hold public office, he has accepted the nomination to be the party's presidential candidate. With his moderate views, bordering to social democracy, he have gathered opposition from the radical faction of the party. However, he is a welcoming face for the opposition.§!\n\n§RSocial Democrat§!" #NT!
+ POLITICS_ARTHUR_NORDLIE_DESC: "§YLeader Description\nBorn:§! §gFebruary 2nd, 1883, in Kristiania (Oslo)§!\n§YPolitical Career:§! §gArtur Nordlie is a contractor and sport manager that have served many years as a representative in the Storting for the Conservative Party. Born in the capital of Oslo, then Kristiania, Nordlie came into politics through service in artisan organizations. Nordlie has also been active in local politics and as an important figure in establishing football and sports federations, both nationally and locally. With Ingolf Elster Christensen aging, Nordlie have become the obvious candidate to represent the Conservative Party in the presidency.§!\n\n§CConservative§!" #NT!
+ POLITICS_NILS_TRAEDAL_DESC: "§YLeader Description\nBorn:§! §gNovember 29th, 1879, in Sunndal, Møre og Romsdal§!\n§YPolitical Career:§! §gNils Trædal is a priest and one of the founding members of the Farmers' Party. Born in Sunndal in Møre og Romsdal, Trædal is a farmers' son, who became first a chaplain, then a parish priest. Politically, Trædal started as a member of the Liberal Party before becoming a member of the Farmers' Party at its founding in 1920. Trædal have served as a representative, member of government and parliamentary leader, before now being elected to the Presidency of Norway. Popularily seen as a compromice candidate, it is to see if he can be a unifying figure.§!\n\n§GAgrarian§!" #NT!
+ POLITICS_KING_HAAKON_VII_DESC: "§YLeader Description\nBorn:§! §gAugust 3rd, 1872, in Charlottenlund Castle, Denmark§!\n§YPolitical Career:§! §gKing Haakon VII is the story of a king elected by the people, who was also overthrown by the people. Born as Prince Carl of Denmark, the son of the Danish king, Carl was given the throne of the newly independent Norway in 1905, only losing it 20 years later, being forced into exile. While first being a unifying figure with respect for the constitutional monarchy, the people failed to show the same respect for the institution like he did. This influenced King Haakon to gradually lose respect for the principles of modern constitutional monarchy. In recent years, King Haakon has adopted the idea of Royal Paternalism, seeing the missteped republican Norway as a project that can only be saved by a Paternal Monarch, Himself.§!\n\n§WRoyal Paternalist§!" #NT!
+ POLITICS_KING_OLAV_V_DESC: "§YLeader Description\nBorn:§! §gJuly 2nd, 1903, in Appletown House, the United Kingdoms§!\n§YPolitical Career:§! §gKing Olav V was just a child when his father, Prince Carl, became King Haakon VII of Norway. Growing up in Norway, the crown prince was nearly heartbroken when he had to leave the newly formed republic in 1926. While he was allowed to see Norway for his marriage in 1929, since then, he has been uninvited by the socialist governments of the early 1930s. While the republic gave Olav a disstain for the consitutional monarchy at first, after some years of exile, Olav began to recover from the loss of his homeland in Norway. He has lived many years in England, with visits to the Americas in between. Returning to Norway, Olav hopes that he can be a king for the people and prevent another 1926.§!\n\n§WConstitutionalist§!" #NT!
+ POLITICS_RAGNVALD_HVOSLEF_DESC: "§YLeader Description\nBorn:§! §gSeptember 19th, 1872, in Kristiania (Oslo)§!\n§YPolitical Career:§! §gRagnvald Hvoslef is a military officer and politician, and a central figure to steer the direction of Norway, even if he himself only rules for a few days. Born in Christiania, what is today Oslo, Hvoslef has served as a major, military attache and even chief for the Royal Guards. This before he left the Armed Forces in 1926. The leader of the paramilitary white guard Samfundsvernet, he was essential in the New Year Coup against the Republican government of the socialist Labour Party. It is now mostly up to him who is going to continue to lead Norway. However, it is not going to be a socialist ever again.§!\n\n§gNationalist§!" #NT!
+ POLITICS_VIDKUN_QUISLING_DESC: "§YLeader Description\nBorn:§! §gJuly 18th, 1887, in Fyresdal, Telemark§!\n§YPolitical Career:§! §gVidkun Quisling is a military officer, former humanitarian relief worker and a strong opponent of socialism. Born in Telemark, Quisling was the son of a Church of Norway pastor. Quisling proved himself talented in the humanities and natural sciences, and eventually took an education in the military where he achieved the best result at the college. Through his life, Quisling have married twice, both to Russian women, partaken in humanitarian work with national hero Fridtjof Nansen, and was one of the most avid opponents to the Republic and to socialism. Now, life has placed him as the head of a new Norwegian state, anointed the savour of not only Norway, but all the Nordics.§!\n\n§gNationalist§!" #NT!
+ POLITICS_STEIN_BARTH_HEYERDAHL_DESC: "§YLeader Description\nBorn:§! §gJuly 12th, 1909, in Stamnes, Nordland§!\n§YPolitical Career:§! §gStein Barth-Heyerdahl has a background as an art painter and editor. Born in Nordland, the young Barth-Heyerdahl became a local scout leader and eventually joined the Fatherland Leauge. While set to study law, Barth-Heyerdahl spent more time pursuing politics, and during his years in Oslo, he left the Church of Norway and became a neo-pagan. Barth-Heyerdahl was invited at the founding of Nasjonal Samling and became a figure of the radical wing of the party that first surrounded the Völkish-inspired Eugen Nielsen. With neo-pagan and Pan-German views, criticism towards the Quislingite wings conservative and bourgeois tendencies, along with belief in racialism, Barth-Heyerdahl naturally became inspired by the German Valkism of Adam Dressler.§!\n\n§GValkist§!" #NT!
+ POLITICS_HANS_SOLGAARD_JACOBSEN_DESC: "§YLeader Description\nBorn:§! §gFebruary 10th, 1901, in Flekkefjord, Vest-Agder§!\n§YPolitical Career:§! §gHans Solgaard Jacobsen is a journalist and former ship broker, who would come to lead the circle of NS members who would manage to take down Vidkun Quisling. After his upbringing in Moss, where his father ran a shipping company, Jacobsen would travel to Germany for his social economics education. Staying most of the 1920s in Germany, here he was influenced by Pan-German, National-Socialistic ideas and got emotionally attached to the struggles of post-war Germany, especially through the litterature of a war veteran named Adam Dressler. A quick stint in a Ford factory in Detroit also helped in shaping his anti-capitalist views.\n\nBack in Norway, Jacobsen became affiliated with the radical Völkish-inspired wing of NS, led by Eugen Nielsen. After taking over from Nielsen, Jacobsen would mend it into a Pan-German, anti-capitalist and anti-Christian opposition group to Quisling. In addition, he has taken more and more inspiration by that Dressler guy, with the sucsess of Valkism in Germany.§!\n\n§GValkist§!" #NT!
+  
+ NOR_bohuslen_jemtland_not_existing: "The States of Bohuslen and Jemtland do not exist. Therefore, you will get a claim on Vaster Gotland." #NT!
+  
+ NOR_convert_merchant_fleet_mtg: "Converted Merchant Ships" #NT!
+ NOR_convert_merchant_fleet_legacy: "Converted Merchant Ships" #NT!
+  
+ NOR_our_international_commitment_tooltip: "§YNorway§! Can Join the §RThird International§!" #NT!
+ NOR_german_alignment_tooltip: "§YNorway§! Can Join the §gStahlpakt§!" #NT!
+ NOR_seek_western_allies_tooltip: "§YNorway§! Can Join the §2Continental Entente§! or the §tImperial Protection Alliance§!" #NT!
+  
+ NOR_nordic_neutrality_tooltip: "§YNordic Neutrality§! Can Be §GStrenghtened§! Through the §YMilitary Cooperation§! Focus" #NT!
+ NOR_FIN_accepted_tooltip: "§GAccepting Will Give Us a Bonus. The Bonus Will be Better if Other Nordic Countries Also Accept§!" #NT!
+  
+ NOR_true_socialist_republic_flag: "A §RSocialist Republic§! Has Been Declared" #NT!
+ NOR_anti_socialist_protests_tooltip: "Decreases §RAnti-Socialist Protests§!" #NT!
+ NOR_sheflo_in_government_tooltip: "The Final Vestiges of Bourgeois Democracy are §ROverthrown§!\n\nThe §YNational Communists§! Joins the Revolution!" #NT!
+ NOR_collectivize_farmland_tooltip: "§gSelecting this will cause a weekly cost of§! §YStability§! §gand§! §RManpower§! §guntil the focus is completed.§!\n\n" #NT!
+  
+ NOR_tranmaelite_cult_trait: "Father of Norwegian Socialism" #NT!
+  
+ NOR_nygaardsvold_in_government_tooltip: "The §YSocial Democrats§! Joins the Government" #NT!
+ NOR_compromise_with_agrarians_tooltip: "§GBondepartiet§! will support us" #NT!
+  
+ NOR_oppose_protectionist_policies_tooltip: "§GBondepartiet§! will leave the coalition and reject future coalitions." #NT!
+ NOR_right_wing_cooperation_tooltip: "§BHøyre§! and §YVenstre§!, along with §GBondepartiet§! will join the coalition. If §RNSA§! is in the coalition, they will leave it." #NT!
+ NOR_right_wing_cooperation1_tooltip: "Has a §YBorgerlig Coalition§! government." #NT!
+ NOR_promote_conservative_officers_tooltip: "Some §YConservative Generals§! will be available" #NT!
+ NOR_principles_of_democracy_tooltip: "Add §YPrinciples of Democracy§!, which grants:\nDaily Far-Left Ideologies support: §G-0.01§!\nDaily Far-Right Ideologies support: §G-0.01§!\nfor a §Rsmall§! Political Power cost" #NT!
+ NOR_leadership_question_tooltip: "Gets event '§YHøyre's Leadership§!',\nwhich will either add §YHambro's Leadership§! or §YAndresen's Leadership§!" #NT!
+ NOR_balance_the_books_tooltip: "§gSelecting this will cause a weekly loss of§! §YStability§! §guntil the focus is completed.§!\n\n" #NT!
+  
+ NOR_reforged_christian_church_tooltip: "§gSelecting this will cause a weekly loss of§! §YStability§! §gand a rise in§! §2Social Conservative§! §gpopularity until the focus is completed.§!\n\n" #NT!
+  
+ NOR_allow_nationalist_generals_tooltip: "$OSome generals from Norsk Samfundsvern will be Available$!" #NT!
+ NOR_cancel_election_tooltip: "$RWill destabilize the country and May let our enemies take control$!" #NT!
+  
+ NOR_soviet_trade_strenghten: "Strengthen Norvego-Soviet Trade Routes" #NT!
+ NOR_german_trade_strenghten: "Strengthen Norvego-German Trade Routes" #NT!
+ NOR_established_relations: "Strengthen Trade Routes" #NT!
+  
+ NOR_restore_royal_guards_tt: "Receive §Y1 [Root.GetAdjective] King Guard§! division and §Y1 [Root.GetAdjective] King Guard§! mounted regiment in or near §YOslo§!" #NT!
+ NOR_empower_unionized_militias_tt: "Receive §Y2 [Root.GetAdjective] Red Guard§! divisions in or near §YOslo§!" #NT!
+ NOR_support_danish_left_tt: "Receive §R2 Danish Voluntary§! divisions in or near §YOslo§!" #NT!
+ NOR_harbour_swedish_revolutionaries_tt: "Receive §R2 Swedish Voluntary§! divisions in or near §YOslo§!" #NT!
+ NOR_work_with_finnish_reds_tt: "Receive §R2 Finnish Voluntary§! divisions in or near §YOslo§!" #NT!
+ NOR_militarize_hirden_tt: "Receive §Y2 Hirdmenn§! divisions in or near §YOslo§!" #NT!
+  
+ NOR_scandinavian_socialist_republics_tt: "\nIncreases §3Compliance§! and Decreases §RResistance§! in the Newly Conquered §YScandinavian§! Territories" #NT!
+ NOR_scandinavian_socialist_republics_swe_tt: "Increases §3Compliance§! and Decreases §RResistance§! in the Newly Conquered §YSwedish§! Territories" #NT!
+ NOR_scandinavian_socialist_republics_den_tt: "Increases §3Compliance§! and Decreases §RResistance§! in the Newly Conquered §YDanish§! Territories" #NT!
+ NOR_reconstruction_and_integration_tt: "\nIntegrates All §YScandinavian§! Territories" #NT!
+ NOR_integrate_western_islands_tt: "\nIncreases §3Compliance§! and Decreases §RResistance§! in the Newly Conquered §YWestern§! Territories" #NT!
+ NOR_explore_greenland_tt: "\nIncreases §3Compliance§! and Decreases §RResistance§! in the Newly Conquered §YGreenlandic§! Territories" #NT!
+ NOR_icelandic_industries_tt: "\nIncreases §3Compliance§! and Decreases §RResistance§! in the Newly Conquered §YIcelandic§! and §YFaroese§! Territories" #NT!
+ NOR_integrate_eastern_lands_tt: "\nIncreases §3Compliance§! and Decreases §RResistance§! in the Newly Conquered §YEastern§! Territories" #NT!
+  
+ NOR_support_finns_tt: "([FIN.GetFlag]§YRepublic of Finland§!):\n   Gets event '§YNorway Sends Aid§!',\n   which will add §YAid From Norway§!, which grants:\n   Weekly Manpower: §G+1000§!\n   Daily Army Experience Gain: §G+0.15§!\n   Division Recovery Rate: §G+5.0%§!" #NT!
+  
+ NOR_dictatorship_of_proletariat_tooltip: "\nA §RCommunist State§! Will be Established" #NT!
+ NOR_fulfill_trondhjemsresolusjonen_tooltip: "\nA §RSyndicalist State§! Will be Established" #NT!
+ NOR_trepartssamarbeidet_tooltip: "\nA §RDemocratic Socialist State§! Will be Established" #NT!
+  
+ NOR_kings_party_for_all_tooltip: "\n§gAlt for Kongen§!, §BFedrelandslaget§! and other political parties and organizations will form a broad and diverse §YKing's Party§!" #NT!
+ NOR_purge_republicans_tooltip: "\n§YAlt for Kongen§! will integrate other monarchists into the party" #NT!
+ NOR_prime_minister_quisling_tooltip: "\n§YVidkun Quisling§! becomes a Government Minister" #NT!
+ NOR_absolute_rule_tooltip: "\n§YKing Haakon VII§! will establish a loyal government" #NT!
+  
+ NOR_Olav_Scheflo: "Olav Scheflo" #NT!
+ NOR_Martin_Tranmael: "Martin Tranmæl" #NT!
+ NOR_Johan_Nygaardsvold: "Johan Nygaardsvold" #NT!
+ NOR_Johan_Ludwig_Mowinckel: "Johan Ludwig Mowinckel" #NT!
+ NOR_Ingolf_Elster_Christensen: "Ingolf Elster Christensen" #NT!
+ NOR_Jens_Hundseid: "Jens Hundseid" #NT!
+ NOR_Victor_Mogens: "Victor Mogens" #NT!
+ NOR_Haakon_VII: "Haakon VII" #NT!
+ NOR_Vidkun_Quisling: "Vidkun Quisling" #NT!
+ NOR_Stein_Barth_Heyerdahl: "Stein Barth-Heyerdahl" #NT!
+ NOR_Hans_Solgaard_Jacobsen: "Hans Solgaard Jacobsen" #NT!
+ NOR_Kristian_Laake: "Kristian Laake" #NT!
+ NOR_Carl_Gustav_Fleischer: "Carl Gustav Fleischer" #NT!
+ NOR_Otto_Ruge: "Otto Ruge" #NT!
+ NOR_William_Steffens: "William Steffens" #NT!
+ NOR_Wilhelm_von_Tangen_Hansteen: "Wilhelm von Tangen Hansteen" #NT!
+ NOR_Hans_Reidar_Holtermann: "Hans Reidar Holtermann" #NT!
+ NOR_Elias_Corneliussen: "Elias Corneliussen" #NT!
+ NOR_Edvard_Christian_Danielsen: "Edvard Christian Danielsen" #NT!
+ NOR_Henry_Diesen: "Henry Diesen" #NT!
+ NOR_Carsten_Tank_Nielsen: "Carsten Tank-Nielsen" #NT!
+ NOR_Odd_Isaachsen_Willoch: "Odd Isaachsen Willoch" #NT!
+ NOR_Hakon_Meyer: "Håkon Meyer" #NT!
+ NOR_Halvard_Olsen: "Halvard Olsen" #NT!
+ NOR_Haakon_Lie: "Haakon Lie" #NT!
+ NOR_Konrad_Nordahl: "Konrad Nordahl" #NT!
+ NOR_Sverre_Stostad: "Sverre Støstad" #NT!
+ NOR_Magnus_Nilssen: "Magnus Nilssen" #NT!
+ NOR_Hakon_Five: "Håkon Five" #NT!
+ NOR_Carl_Joachim_Hambro: "Carl Joachim Hambro" #NT!
+ NOR_Johan_Henrik_Andresen: "Johan Henrik Andresen" #NT!
+ NOR_Einar_Borch: "Einar Borch" #NT!
+ NOR_Carl_Gulbranson: "Carl Gulbranson" #NT!
+ NOR_Johan_Bernhard_Hjort: "Johan Bernhard Hjort" #NT!
+ NOR_Gulbrand_Lunde: "Gulbrand Lunde" #NT!
+ NOR_Jonas_Lie: "Jonas Lie" #NT!
+ NOR_Karl_Marthinsen: "Karl Marthinsen" #NT!
+ NOR_Albin_Eines: "Albin Eines" #NT!
+ NOR_Elias_Volan: "Elias Volan" #NT!
+ NOR_Arnulf_Overland: "Arnulf Øverland" #NT!
+ NOR_Arvid_Gilbert_Hansen: "Arvid Gilbert Hansen" #NT!
+ NOR_Nordahl_Grieg: "Nordahl Grieg" #NT!
+ NOR_Wilhelm_Morgenstierne: "Wilhelm Morgenstierne" #NT!
+ NOR_Halvdan_Koht: "Halvdan Koht" #NT!
+ NOR_Trygve_Lie: "Trygve Lie" #NT!
+ NOR_Erik_Colban: "Erik Colban" #NT!
+ NOR_Jacob_Worm_Muller: "Jacob Worm-Müller" #NT!
+ NOR_Arne_Scheel: "Arne Scheel" #NT!
+ NOR_Ivar_Lykke: "Ivar Lykke" #NT!
+ NOR_Birger_Braadland: "Birger Braadland" #NT!
+ NOR_Jon_Leirfall: "Jon Leirfall" #NT!
+ NOR_Adolf_Hoel: "Adolf Hoel" #NT!
+ NOR_Albert_Viljam_Hagelin: "Albert Viljam Hagelin" #NT!
+ NOR_Finn_Storen: "Finn Støren" #NT!
+ NOR_Axel_Stang: "Axel Stang" #NT!
+ NOR_Johan_Lippestad: "Johan Lippestad" #NT!
+ NOR_Haavard_Langseth: "Haavard Langseth" #NT!
+ NOR_Johan_Strand_Johansen: "Johan Strand Johansen" #NT!
+ NOR_Fredrik_Monsen: "Fredrik Monsen" #NT!
+ NOR_Ole_Colbjornsen: "Ole Colbjørnsen" #NT!
+ NOR_Adolf_Indrebo: "Adolf Indrebø" #NT!
+ NOR_Ragnar_Frisch: "Ragnar Frisch" #NT!
+ NOR_Kornelius_Bergsvik: "Kornelius Bergsvik" #NT!
+ NOR_Oscar_Torp: "Oscar Torp" #NT!
+ NOR_Jens_Isak_Kobro: "Jens Isak Kobro" #NT!
+ NOR_Per_Berg_Lund: "Per Berg Lund" #NT!
+ NOR_Ole_Baeroe: "Ole Bærøe" #NT!
+ NOR_Sven_Nielsen: "Sven Nielsen" #NT!
+ NOR_Jon_Sundby: "Jon Sundby" #NT!
+ NOR_Nicolai_Rygg: "Nicolai Rygg" #NT!
+ NOR_Alf_Larsen_Whist: "Alf Larsen Whist" #NT!
+ NOR_Axel_Aubert: "Axel Aubert" #NT!
+ NOR_Eivind_Blehr: "Eivind Blehr" #NT!
+ NOR_Frederik_Prytz: "Frederik Prytz" #NT!
+ NOR_Carl_Frolich_Hanssen: "Carl Frølich Hanssen" #NT!
+ NOR_Tormod_Hustad: "Tormod Hustad" #NT!
+ NOR_Henry_Wilhelm_Kristiansen: "Henry Wilhelm Kristiansen" #NT!
+ NOR_Sverre_Krogh: "Sverre Krogh" #NT!
+ NOR_Emil_Stang: "Emil Stang" #NT!
+ NOR_Olav_Hindahl: "Olav Hindahl" #NT!
+ NOR_Alfred_Madsen: "Alfred Madsen" #NT!
+ NOR_Jakob_Friis: "Jakob Friis" #NT!
+ NOR_Paul_Hartmann: "Paul Hartmann" #NT!
+ NOR_Terje_Wold: "Terje Wold" #NT!
+ NOR_Arne_Sunde: "Arne Sunde" #NT!
+ NOR_Haakon_Sund: "Haakon Sund" #NT!
+ NOR_Harald_Gram: "Harald Gram" #NT!
+ NOR_Odd_Klingenberg: "Odd Klingenberg" #NT!
+ NOR_Ivar_Kirkeby_Garstad: "Ivar Kirkeby-Garstad" #NT!
+ NOR_Nils_Traedal: "Nils Trædal" #NT!
+ NOR_Herman_Harris_Aall: "Herman Harris Aall" #NT!
+ NOR_Ragnar_Skancke: "Ragnar Skancke" #NT!
+ NOR_Per_von_Hirsch: "Per von Hirsch" #NT!
+ NOR_Rolf_Jorgen_Fuglesang: "Rolf Jørgen Fuglesang" #NT!
+ NOR_Arnvid_Vasbotten: "Arnvid Vasbotten" #NT!
+ NOR_Sverre_Riisnaes: "Sverre Riisnæs" #NT!
+ NOR_Andreas_Wettre: "Andreas Wettre" #NT!
+ NOR_Carl_Johan_Erichsen: "Carl Johan Erichsen" #NT!
+ NOR_Arne_Gausla: "Arne Gauslå" #NT!
+ NOR_Oliver_Moystad: "Oliver Møystad" #NT!
+ NOR_Olaf_Kullmann: "Olaf Kullmann" #NT!
+ NOR_Kjeld_Stub_Irgens: "Kjeld Stub Irgens" #NT!
+ NOR_Georg_Jacob_Falck_Bull: "Georg Jacob Falck Bull" #NT!
+ NOR_Bjarne_Oen: "Bjarne Øen" #NT!
+ NOR_Ole_Reistad: "Ole Reistad" #NT!
+ NOR_Birger_Fredrik_Motzfeldt: "Birger Fredrik Motzfeldt" #NT!
+ NOR_Hjalmar_Riiser_Larsen: "Hjalmar Riiser-Larsen" #NT!
+ NOR_Tryggve_Gran: "Tryggve Gran" #NT!
+ NOR_Konrad_Sundlo: "Konrad Sundlo" #NT!
+ NOR_Henrik_Rogstad: "Henrik Rogstad" #NT!
+ NOR_Birger_Eriksen: "Birger Eriksen" #NT!
+ NOR_Birger_Ljungberg: "Birger Ljungberg" #NT!
+ NOR_Peder_Furubotn: "Peder Furubotn" #NT!
+ NOR_Ole_Hallesby: "Ole Hallesby" #NT!
+ NOR_Rudolf_Raeder: "Rudolf F. Ræder" #NT!
+ NOR_Joakim_Lehmkuhl: "Joakim Lehmkuhl" #NT!
+ NOR_Johan_Throne_Holst: "Johan Throne Holst" #NT!
+ NOR_Herman_Schultz: "Herman Schultz" #NT!
+ NOR_Anders_Lange: "Anders Lange" #NT!

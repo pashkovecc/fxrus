@@ -1,0 +1,14 @@
+﻿l_russian:
+ tech_motorbike_0: "Bicycles" #NT!
+ tech_motorbike_0_short: "Bicycles" #NT!
+  
+ tech_motorbike_1: "Motorcycles" #NT!
+ tech_motorbike_1_short: "Motorcycles" #NT!
+  
+ motorbike_recon: "Bike Recon Company" #NT!
+ motorbike_recon_desc: "Reconnaissance company equipped with two-wheeled transport vehicles." #NT!
+ motorized_military_police: "Bike Military Police" #NT!
+ motorized_military_police_desc: "Military Police equipped with two-wheeled transport vehicles." #NT!
+  
+ bicycle_battalion: "Bike Infantry" #NT!
+ bicycle_battalion_desc: "Infantry equipped with two-wheeled transport vehicles." #NT!

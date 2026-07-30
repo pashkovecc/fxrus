@@ -1,0 +1,66 @@
+﻿l_russian:
+  
+ ### Country Names 
+ BPS_vanguardist: "Brazilian People's State" #NT!
+ BPS_vanguardist_ADJ: "Direitista" #NT!
+ BPS_vanguardist_DEF: "the Brazilian People's State" #NT!
+ BPS_collectivist: "Brazilian People's State" #NT!
+ BPS_collectivist_ADJ: "Direitista" #NT!
+ BPS_collectivist_DEF: "the Brazilian People's State" #NT!
+ BPS_libertarian_socialist: "Brazilian People's State" #NT!
+ BPS_libertarian_socialist_ADJ: "Direitista" #NT!
+ BPS_libertarian_socialist_DEF: "the Brazilian People's State" #NT!
+ BPS_social_democrat: "Brazilian People's State" #NT!
+ BPS_social_democrat_ADJ: "Direitista" #NT!
+ BPS_social_democrat_DEF: "the The Brazilian People's State" #NT!
+ BPS_social_liberal: "Brazilian People's State" #NT!
+ BPS_social_liberal_ADJ: "Direitista" #NT!
+ BPS_social_liberal_DEF: "the The Brazilian People's State" #NT!
+ BPS_market_liberal: "Brazilian People's State" #NT!
+ BPS_market_liberal_ADJ: "Direitista" #NT!
+ BPS_market_liberal_DEF: "the The Brazilian People's State" #NT!
+ BPS_social_conservative: "Brazilian People's State" #NT!
+ BPS_social_conservative_ADJ: "Direitista" #NT!
+ BPS_social_conservative_DEF: "the The Brazilian People's State" #NT!
+ BPS_authoritarian_democrat: "Brazilian People's State" #NT!
+ BPS_authoritarian_democrat_ADJ: "Direitista" #NT!
+ BPS_authoritarian_democrat_DEF: "the The Brazilian People's State" #NT!
+ BPS_paternal_autocrat: "Brazilian People's State" #NT!
+ BPS_paternal_autocrat_ADJ: "Direitista" #NT!
+ BPS_paternal_autocrat_DEF: "the Brazilian People's State" #NT!
+ BPS_national_populist: "Brazilian People's State" #NT!
+ BPS_national_populist_ADJ: "Direitista" #NT!
+ BPS_national_populist_DEF: "the Brazilian People's State" #NT!
+ BPS_valkist: "Brazilian People's State" #NT!
+ BPS_valkist_ADJ: "Direitista" #NT!
+ BPS_valkist_DEF: "the Brazilian People's State" #NT!
+  
+ ### Parties 
+ BPS_vanguardist_party: "PCB" #NT!
+ BPS_vanguardist_party_long: "Partido Comunista Brasileiro\n§gCommunist Party of Brazil§!" #NT!
+ BPS_collectivist_party: "PCB" #NT!
+ BPS_collectivist_party_long: "Partido Comunista Brasileiro\n§gCommunist Party of Brazil§!" #NT!
+ BPS_libertarian_socialist_party: "COB" #NT!
+ BPS_libertarian_socialist_party_long: "Confederação Operária Brasileira\n§gBrazilian Workers' Confederation§!" #NT!
+ BPS_social_democrat_party: "PSD" #NT!
+ BPS_social_democrat_party_long: "Partido Social Democrata\n§gSocial Democratic Party§!" #NT!
+ BPS_social_liberal_party: "PL" #NT!
+ BPS_social_liberal_party_long: "Partido Libertador\n§gLiberator Party§!" #NT!
+ BPS_market_liberal_party: "PD" #NT!
+ BPS_market_liberal_party_long: "Partido Democrático\n§gDemocratic Party§!" #NT!
+ BPS_social_conservative_party: "PR" #NT!
+ BPS_social_conservative_party_long: "Partido Republicano\n§gRepublican Party§!" #NT!
+ BPS_authoritarian_democrat_party: "Junta Militar" #NT!
+ BPS_authoritarian_democrat_party_long: "Junta Militar do Governo\n§gMilitary Government§!" #NT!
+ BPS_paternal_autocrat_party: "LEC" #NT!
+ BPS_paternal_autocrat_party_long: "Liga Eleitoral Catolica\n§gCatholic Electoral League§!" #NT!
+ BPS_national_populist_party: "AVA" #NT!
+ BPS_national_populist_party_long: "Ação Verde-Amarela\n§gGreen-Yellow Action§!" #NT!
+ BPS_valkist_party: "UVB" #NT!
+ BPS_valkist_party_long: "União Valquista Brasileira\n§gBrazilian Valkist Union§!" #NT!
+  
+ BPS_Plinio_Correa: "Plinio Correa" #NT!
+ BPS_Pedro_Aurelio_de_Gois_Monteiro: "Pedro Aurélio de Góis Monteiro" #NT!
+ BPS_Plinio_Tourinho: "Plínio Tourinho" #NT!
+ BPS_Augusto_Rademaker: "Augusto Rademaker" #NT!
+ BPS_Joao_Candido: "João Cândido" #NT!

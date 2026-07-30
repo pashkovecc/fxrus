@@ -1,0 +1,135 @@
+﻿l_russian:
+  
+ ### Country Names 
+ HYD: "Хайдарабад"
+ HYD_ADJ: "Хайдарабадск"
+ HYD_DEF: "Хайдарабад"
+  
+ ### Tooltips 
+ raj_intervention_full_tt: "§OWhile full intervention will give us greater control over military actions in India, we may one day pay for committing our full forces to the colony§!..." #NT!
+ raj_intervention_light_tt: "§OWe will be unable to directly intervene in the war, but we will still be able to send material support if we choose to do so§!..." #NT!
+ raj_kicked_from_ipa_explain_tt: "§YThe British Raj will be removed from the Imperial Protection Alliance for the duration of the war to allow for the sending of volunteers, and will be re-added to the faction upon the conclusion of the war.§!" #NT!
+  
+ HYD_princely_relations: "Princely Relations" #NT!
+ HYD_forming_princely_pact: "Forming a Defensive Pact" #NT!
+  
+ ### Factions 
+ HYD_princely_pact: "The Princely Pact" #NT!
+  
+ ### Parties 
+ HYD_vanguardist_party: "CPI" #NT!
+ HYD_vanguardist_party_long: "Communist Party of India" #NT!
+ HYD_collectivist_party: "RSP" #NT!
+ HYD_collectivist_party_long: "Revolutionary Socialist Party" #NT!
+ HYD_libertarian_socialist_party: "Radical Democratic Party" #NT!
+ HYD_libertarian_socialist_party_long: "Radical Democratic Party" #NT!
+ HYD_social_democrat_party: "Congress Party" #NT!
+ HYD_social_democrat_party_long: "Indian National Congress" #NT!
+ HYD_social_liberal_party: "Indian Liberal Party" #NT!
+ HYD_social_liberal_party_long: "Indian Liberal Party" #NT!
+ HYD_market_liberal_party: "Swatantra Party" #NT!
+ HYD_market_liberal_party_long: "Swatantra Party" #NT!
+ HYD_social_conservative_party: "CNP" #NT!
+ HYD_social_conservative_party_long: "Congress Nationalist Party" #NT!
+ HYD_authoritarian_democrat_party: "Provisional Government" #NT!
+ HYD_authoritarian_democrat_party_long: "Indian Provisional Assembly" #NT!
+ HYD_paternal_autocrat_party: "Princely Dominion" #NT!
+ HYD_paternal_autocrat_party_long: "Princely Dominion" #NT!
+ HYD_national_populist_party: "RSS" #NT!
+ HYD_national_populist_party_long: "Rashtriya Swayamsevak Sangh\n§gNational Volunteer Corps§!" #NT!
+ HYD_valkist_party: "Hindu Mahasabha" #NT!
+ HYD_valkist_party_long: "Akhil Bharatiya Hindu Mahasabha\n§gAll-India Hindu Grand Assembly§!" #NT!
+  
+ ### Events 
+ hyd.1.t: "The Dawn of an Old Nation" #NT!
+ hyd.1.d: "The Princely State of Hyderabad first came into being in 1724, and its history has been long and not unmarked by mistakes. It was the first Princely State to enter into a dominion under the British, setting into motion the events that created the British Raj. Yet today, Hyderabad once again stands independent. \n\nHyderabad was once, and quite possibly still remains, the wealthiest Princely State in all of India. We have tremendous amounts of resources at our disposal, and our economy alone could carry us into the future. Of course, things are not always as simple as who has the most money. We are surrounded by threats on all sides. The Communists seek to conquer all of India, and the British may always return to attempt their own reconquest. Our wealth can help us find new friends and allies, though there are other proposals that some in our government offer that we may be wise to heed. The new India is fractured, yes, but if we play our cards right, we could be the state that pieces it back together." #NT!
+ hyd.1.a: "Long live Hyderabad!" #NT!
+  
+ hyd.20.t: "Princely Relations" #NT!
+ hyd.20.d: "The Prince of Hyderabad has sent envoys to severl nations, including our own. While we are no longer members of the same nation, they are offering us diplomatic friendship and reconciliation. Perhaps this is how they intend to survive in the post-Raj world - by building friendships and alliances to keep them afloat. Some in our government argue that we have no need of Hyderabad's friendship, but a much more vocal majority advocate for accepting the envoys and sending several of our own in return. After all, we are all still brothers of the subcontinent, and infighting will get us nowhere but under the thumb of another imperial power." #NT!
+ hyd.20.a: "They are our brothers; we stand with them." #NT!
+ hyd.20.b: "Tell them we're not looking for another overlord." #NT!
+  
+ hyd.21.t: "Creation of a Defensive Pact" #NT!
+ hyd.21.d: "Envoys from our new friends in Hyderabad have once again arrived at our doorstep. This time, however, their proposal is radically different. They are suggesting the creation of a defensive pact of Princely States; a pact that would aid each other in warfare. Such a pact would undoubtedly be helpful against forces like the Indian People's State and their attempted reconquest, or the potential return of the British or another European power. But some in our government worry that this is only the first step on a long and slippery slope - one which could lead to us giving away our newfound autonomy as a nation. As those in support are quick to point out, however, we may lose that autonomy through force if we try to stand on our own..." #NT!
+ hyd.21.a: "Yes, we could use the help." #NT!
+ hyd.21.b: "We can take care of ourselves." #NT!
+  
+ hyd.22.t: "Another Invite to the Princely Pact" #NT!
+ hyd.22.d: "Hyderabad has extended yet another invitation to us to join their defensive 'Princely Pact.' We have already told them no once, and we would be well within our rights to do so again. But some members of our government remain adament that we reconsider the offer, especially with the new global developments." #NT!
+ hyd.22.a: "We've changed our mind; we'll join." #NT!
+ hyd.22.b: "We've already told them no!" #NT!
+  
+ hyd.122.t: "Adoption of a Common Currency" #NT!
+ hyd.122.d: "Hyderabad's envoys have come to us with a rather bizarre proposal. They are suggesting that the member states of the Princely Pact band together to create a common Indian currency. It would certainly streamline trade, and provide a buffer for our struggling economy. But doing so would effectively cede a major part of our autonomy as a nationstate. A majority of our advisers are arguing that we accept the offer, especially considering the boost it would give to our economy. But a sizable minority are against the proposal, arguing that by switching to a common currency we are effectively placing our financial future in the hands of a number of foreign nations that are just as new to the world as we are." #NT!
+ hyd.122.a: "This will save us a lot of trouble." #NT!
+ hyd.122.b: "We will be fine without this." #NT!
+  
+ hyd.23.t: "Formation of a Common Market" #NT!
+ hyd.23.d: "It appears that a common currency was not enough for the government of Hyderabad. They, joined with a few other governments of the Princely Pact, have suggested that we join together in a common market. This sort of thing has not really been seen in the world yet, but would involve ending all tariffs against each other's imports and exports and essentially acting as a unified bloc in global trade. Being on a common currency, as we are, would make a transition to this system much easier, but many in our government are saying that this is a step too far for the Pact. They argue that we joined this Pact purely for national defense purposes, and that forming a common economic market would only cede the very national sovereignty we fought for to Hyderabad and its allies. Those in support argue that we are one of those allies, and that by forming a common market we are only taking another step towards a common goal of a united and free Indian union." #NT!
+ hyd.23.a: "Let us unite our economies." #NT!
+ hyd.23.b: "This is unnecessary." #NT!
+  
+ hyd.24.t: "Formation of a Federation" #NT!
+ hyd.24.d: "A mixture of euphoria and outrage greeted the arrival of Hyderabad's latest proposal. The leader of the Princely Pact has suggested that the defensive alliance take a step towards political unification. The exact proposal would have all of the members of the Pact joining together in what is in essence an Indian Federation. A legislature made up of representatives from every member state would pass laws pertaining to the common market and defense, though individual nations would be left to their own devices on matters of domestic importance. A number of our ministers - though they are in the minority - are arguing that joining this Federation is the wisest move we could take to draw one step closer to the ultimate goal of a united and free Indian state. But a majority of others are adament that by agreeing to this proposal, we would ensure that our sovereignty as a state would be moot, and that we would be ceding all of our power to a number of bureaucrats in Hyderabad." #NT!
+ hyd.24.a: "The Pact will stand ever stronger!" #NT!
+ hyd.24.b: "We will not sacrifice our independence." #NT!
+  
+ hyd.25.t: "Centralization of the Pact" #NT!
+ hyd.25.d: "The united legislature of the Indian Federation has passed a proposal for ratification by all of its member states. This proposal would effectively centralize the Federation's powers, putting matters once left to the individual states in the hands of the legislature in Hyderabad. Those that support this motion in our government are few in number, but they vocally argue that agreeing to this proposal is the only way to create a single state strong enough to withstand European incursions in the future. A much larger majority of advisers are saying that voting yes on this centralization would destroy our country, and strip away what autonomy we haven't already given up. If this measure is ratified, and the Princely Pact becomes nothing short of a fully-fledged 'United States of India,' everything we have fought for as a fledgling new nation would be put at risk." #NT!
+ hyd.25.a: "We support this proposal." #NT!
+ hyd.25.b: "We shall not cede our autonomy!" #NT!
+  
+ hyd.26.t: "The Reunification" #NT!
+ hyd.26.d: "The legislature of the Indian Federation has just passed a proposal that would unify every member state of the Princely Pact into a single, cohesive nation. There are many in our government who lament this decision, and who curse us for ceding so much of our power to the Federation to begin with, but they understand as well as anyone else that, short of full-blown rebellion, we are powerless to stop the integration. There are some in our government, though, who are ecstatic. This, they say, is the culmination of years of planning and resistance. A single, unified, and free Indian Federation that will rule South Asia for all time to come. Let the Empires of Europe, or the communists or nationalists break upon our united shores. This is the India that many millions have dreamed of, and it is finally time to make those dreams into a reality." #NT!
+ hyd.26.a: "India Shall Rise Again!" #NT!
+ hyd.26.b: "We've come too far to stop this now." #NT!
+  
+ hyd.100.t: "The Indian Federation" #NT!
+ hyd.100.d: "A state of shock has fallen over Hyderabad. Members of our government can't seem to believe that we have actually pulled off a true reunification of India. Yet there is cheering throughout the new Federation, and we have a new nation to lead. \n\nThe last few states of the Princely Pact ratified the Federation Parliament's most recent move, meaning that a significant part of India has been reunited once more. But things are different now. No longer are we ruled by the whims of a single monarch, or exploited by a faraway Empire. Now we rule ourselves, as a Federation of states. This was how India was always meant to be ruled. There will be challenges in the future, no doubt. There will be infighting and squabbling among the states of this new nation. But we will always be victorious in the end. Because when true trouble rears its head - when the Communists attempt to come after us, or the British decide the time for reconquest has come, we will be ready. And we will be united." #NT!
+ hyd.100.a: "Long live India!" #NT!
+  
+  
+ ### Decisions 
+ HYD_princely_pact_cat: "The Princely Pact" #NT!
+ HYD_princely_pact_cat_desc: "The Princely Pact is an alliance between the independent Princely States of India who share a common goal of federalization. Motions here will steadily centralize the Pact, but must be approved by a majority of its members. \n\nThe current members of the Princely Pact are:\n[HYD_prince1]\n[HYD_prince2]\n[HYD_prince3]\n[HYD_prince4]\n[HYD_prince5]\n[HYD_prince6]\n[HYD_prince7]\n[HYD_prince8]\n[HYD_prince9]\n[HYD_prince10]\n[HYD_prince11]\n\nThe current reform on the floor is: [HYD_current_reform]\n\nStates Supporting Reform: §G[?global.princes_yes_votes]§!\n§RStates Opposing Reform: §R[?global.princes_no_votes]§!" #NT!
+ HYD_vote_yes: "Vote Yes on the Reform" #NT!
+ HYD_vote_no: "Vote No on the Reform" #NT!
+ HYD_vote_timer: "Time until Vote Ends" #NT!
+ HYD_invite_princes: "Re-invite Princes to the Pact" #NT!
+ HYD_reform_vote: "Vote on the Current Reform" #NT!
+  
+ pact_vote_ongoing: "Vote Ongoing" #NT!
+ princely_pact_vote: "Has Voting Rights" #NT!
+ HYD_already_voted: "Already Voted" #NT!
+ HYD_no_reform: "§GNo reform is currently on the floor" #NT!
+  
+ ### Scripted Loc 
+ HYD_prince1_name: "§Y[?HYD_princes^0.GetNameWithFlag]§! " #NT!
+ HYD_prince2_name: "§Y[?global.HYD_princes^1.GetNameWithFlag]§! " #NT!
+ HYD_prince3_name: "§Y[?global.HYD_princes^2.GetNameWithFlag]§! " #NT!
+ HYD_prince4_name: "§Y[?global.HYD_princes^3.GetNameWithFlag]§! " #NT!
+ HYD_prince5_name: "§Y[?global.HYD_princes^4.GetNameWithFlag]§! " #NT!
+ HYD_prince6_name: "§Y[?global.HYD_princes^5.GetNameWithFlag]§! " #NT!
+ HYD_prince7_name: "§Y[?global.HYD_princes^6.GetNameWithFlag]§! " #NT!
+ HYD_prince8_name: "§Y[?global.HYD_princes^7.GetNameWithFlag]§! " #NT!
+ HYD_prince9_name: "§Y[?global.HYD_princes^8.GetNameWithFlag]§! " #NT!
+ HYD_prince10_name: "§Y[?global.HYD_princes^9.GetNameWithFlag]§! " #NT!
+ HYD_prince11_name: "§Y[?global.HYD_princes^10.GetNameWithFlag]§! " #NT!
+ HYD_prince1_last: "§Y[?HYD_princes^0.GetNameWithFlag]§!" #NT!
+ HYD_prince2_last: "§Y[?global.HYD_princes^1.GetNameWithFlag]§!" #NT!
+ HYD_prince3_last: "§Y[?global.HYD_princes^2.GetNameWithFlag]§!" #NT!
+ HYD_prince4_last: "§Y[?global.HYD_princes^3.GetNameWithFlag]§!" #NT!
+ HYD_prince5_last: "§Y[?global.HYD_princes^4.GetNameWithFlag]§!" #NT!
+ HYD_prince6_last: "§Y[?global.HYD_princes^5.GetNameWithFlag]§!" #NT!
+ HYD_prince7_last: "§Y[?global.HYD_princes^6.GetNameWithFlag]§!" #NT!
+ HYD_prince8_last: "§Y[?global.HYD_princes^7.GetNameWithFlag]§!" #NT!
+ HYD_prince9_last: "§Y[?global.HYD_princes^8.GetNameWithFlag]§!" #NT!
+ HYD_prince10_last: "§Y[?global.HYD_princes^9.GetNameWithFlag]§!" #NT!
+ HYD_prince11_last: "§Y[?global.HYD_princes^10.GetNameWithFlag]§!" #NT!
+ HYD_prince_none: "" #NT!
+ HYD_common_currency: "§GAdopt a Common Currency" #NT!
+ HYD_common_market: "§GForm a Common Market" #NT!
+ HYD_federation: "§GForm a Princely Federation" #NT!
+ HYD_centralization: "§GCentralize the Princely Federation" #NT!
+ HYD_unify: "§GUnify the Federation" #NT!

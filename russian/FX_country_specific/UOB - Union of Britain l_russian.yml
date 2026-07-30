@@ -1,0 +1,137 @@
+﻿l_russian:
+  
+ ### Country Names 
+ UOB_vanguardist: "Union of Britain" #NT!
+ UOB_vanguardist_ADJ: "British" #NT!
+ UOB_vanguardist_DEF: "Union of Britain" #NT!
+ UOB_collectivist: "Union of Britain" #NT!
+ UOB_collectivist_ADJ: "British" #NT!
+ UOB_collectivist_DEF: "Union of Britain" #NT!
+ UOB_libertarian_socialist: "Union of Britain" #NT!
+ UOB_libertarian_socialist_ADJ: "British" #NT!
+ UOB_libertarian_socialist_DEF: "Union of Britain" #NT!
+ UOB: "British Republic" #NT!
+ UOB_ADJ: "British" #NT!
+ UOB_DEF: "the Great British Republic" #NT!
+  
+ #### Political Parties #### 
+ UOB_internationalist_party: "WIL" #NT!
+ UOB_internationalist_party_long: "Worker's International League" #NT!
+ UOB_collectivist_party: "BSP" #NT!
+ UOB_collectivist_party_long: "British Socialist Party" #NT!
+ UOB_libertarian_socialist_party: "ILP" #NT!
+ UOB_libertarian_socialist_party_long: "Independent Labour Party" #NT!
+ UOB_social_democrat_party: "Labour" #NT!
+ UOB_social_democrat_party_long: "Labour Party" #NT!
+ UOB_social_liberal_party: "Liberals" #NT!
+ UOB_social_liberal_party_long: "Liberal Party" #NT!
+ UOB_market_liberal_party: "Liberal Nationals" #NT!
+ UOB_market_liberal_party_long: "Liberal Nationals Party" #NT!
+ UOB_social_conservative_party: "Tories" #NT!
+ UOB_social_conservative_party_long: "Conservative Party" #NT!
+ UOB_authoritarian_democrat_party: "Military Junta" #NT!
+ UOB_authoritarian_democrat_party_long: "Military Junta" #NT!
+ UOB_paternal_autocrat_party: "Windsor" #NT!
+ UOB_paternal_autocrat_party_long: "House of Windsor" #NT!
+ UOB_national_populist_party: "IFL" #NT!
+ UOB_national_populist_party_long: "Imperial Federation League" #NT!
+ UOB_valkist_party: "PSPB" #NT!
+ UOB_valkist_party_long: "People's Socialist Party of Britannia" #NT!
+  
+ #####Ideas##### 
+ UOB_revo_recov: "Recovering from Revolution" #NT!
+ UOB_eco_rev: "Economic Revival" #NT!
+ UOB_eco_rev2: "Economic Revival" #NT!
+ UOB_eco_rev3: "Economic Revival" #NT!
+ UOB_mob_unions: "Mobilised the Unions" #NT!
+ UOB_soc_freedom: "Socialist Freedom" #NT!
+ UOB_enforced_atheism: "Enforced Atheism" #NT!
+ UOB_re_britain: "Rebuilding Britain" #NT!
+ UOB_exert_cont: "Exerting Control" #NT!
+ UOB_eco_sr: "Economic Self-Reliance" #NT!
+ UOB_bnu: "British National Union" #NT!
+ UOB_mob_work: "Mobilised the Workers" #NT!
+ UOB_soc_wpol: "Socialist Work Policies" #NT!
+ UOB_sprevo: "The Red Torch" #NT!
+  
+ #####Tooltips##### 
+  
+ #####Focus##### 
+  
+ ## - Politics 
+  
+ # - ILP 
+ UOB_moderate_app: "A Moderate Approach" #NT!
+ UOB_eco_revival: "Economic Revival" #NT!
+ UOB_eng_lives: "England Lives!" #NT!
+ UOB_marches_on: "And Marches On!" #NT!
+ UOB_diss_aristo: "Dissolve the Aristocracy" #NT!
+ UOB_mob_union: "Mobilise the Unions" #NT!
+ UOB_socialist_freedom: "Socialist Freedom" #NT!
+ UOB_liberty_britons: "Liberty of Britons" #NT!
+  
+ # - BSP 
+ UOB_socialist_nation: "Socialism in One Nation" #NT!
+ UOB_no_gods: "No Gods..." #NT!
+ UOB_no_masters: "...No Masters" #NT!
+ UOB_rebuild_britain: "Rebuilding Britain" #NT!
+ UOB_control_eco: "Exerting Control" #NT!
+ UOB_self_reliance: "Economic Self-Reliance" #NT!
+ UOB_emergency_measures: "Emergency Measures" #NT!
+ UOB_new_britain: "A New Britain" #NT!
+  
+ # - CPGB 
+ UOB_fires_revo: "The Fires of Revolution" #NT!
+ UOB_establish_bnu: "Establish the BNU" #NT!
+ UOB_mob_workers: "Mobilise the Workers" #NT!
+ UOB_build_britain: "Build for Britain" #NT!
+ UOB_defend_revo: "Defend the Revolution" #NT!
+ UOB_work_policies: "Socialist Work Policies" #NT!
+ UOB_export_revo: "Export the Revolution" #NT!
+ UOB_war_prep: "War Preparations" #NT!
+ UOB_perpetual_revo: "Perpetual Revolution" #NT!
+  
+ ## - Foreign 
+ UOB_spread_revo: "Spread the Revolution" #NT!
+ UOB_join_three: "Join the Third International" #NT!
+ UOB_reclaim_ireland: "Reclaiming Ireland" #NT!
+ UOB_bring_france: "Bring the Revolution to France" #NT!
+ UOB_strike_beneleux: "Strike the Low Countries" #NT!
+ UOB_socialist_ireland: "Socialism in Ireland" #NT!
+ UOB_seize_nat: "Seize the North Atlantic" #NT!
+ UOB_crush_valkism: "Crush the Valkists!" #NT!
+ UOB_secure_nsea: "Securing the North Sea" #NT!
+  
+ ## - Military 
+ UOB_begin_purge: "Begin the Purge" #NT!
+  
+ # - Army 
+ UOB_union_army: "Union Army" #NT!
+ UOB_shells_soldiers: "Shells, not Soldiers" #NT!
+ UOB_modern_army: "A Modern Army" #NT!
+ UOB_strat_plan: "Strategic Planning" #NT!
+ UOB_revo_guard: "The Revolutionary Guard" #NT!
+ UOB_defence_britain: "In Defence of Britain" #NT!
+ UOB_fist_union: "Fist of the Union" #NT!
+  
+ # - Air Force 
+ UOB_union_air: "Union Air Force" #NT!
+ UOB_inter_force: "An Interception Force" #NT!
+ UOB_bomb_defence: "Bomber Defence" #NT!
+ UOB_air_strat: "Air Force Strategies" #NT!
+ UOB_modern_weap: "Modern Weaponry" #NT!
+ UOB_brit_bomb: "British Bombers" #NT!
+ UOB_indust_target: "Industrial Targets" #NT!
+  
+ # - Navy 
+ UOB_union_navy: "Union Navy" #NT!
+ UOB_our_shield: "Our Shield" #NT!
+ UOB_defend_coast: "Defending our Coast" #NT!
+ UOB_mod_doctrines: "Modern Doctrines" #NT!
+ UOB_land_force: "Landing Force" #NT!
+ UOB_nav_trad: "Encourage Naval Tradition" #NT!
+ UOB_our_sword: "Our Sword" #NT!
+ UOB_asw_effort: "Anti-Submarine Effort" #NT!
+ UOB_Arthur_Horner: "Arthur Horner" #NT!
+ UOB_Clement_Atlee: "Clement Atlee" #NT!
+ UOB_Barbara_Castle: "Barbara Castle" #NT!

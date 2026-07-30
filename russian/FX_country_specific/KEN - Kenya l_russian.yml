@@ -1,0 +1,17 @@
+﻿l_russian:
+  
+ ### Country Names 
+ KEN: "Кения"
+ KEN_ADJ: "Кенийск"
+ KEN_DEF: "The Republic of Kenya" #NT!
+  
+ KEN_colonial_subject: "$OVERLORDADJ$ East Africa" #NT!
+ KEN_colonial_subject_ADJ: "$OVERLORDADJ$ East-African" #NT!
+ KEN_colonial_subject_DEF: "the $OVERLORDADJ$ East African Colony" #NT!
+  
+ KEN_authoritarian_democrat_party: "British Administration" #NT!
+ KEN_paternal_autocrat_party: "British Administration" #NT!
+  
+ KEN_colonial_party: "$OVERLORDADJ$ Administration" #NT!
+  
+ KEN_Robert_Brooke_Popham: "Robert Brooke Popham" #NT!

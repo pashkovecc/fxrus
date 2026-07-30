@@ -1,0 +1,34 @@
+﻿l_russian:
+  
+ ### Country Names 
+ VEN: "Венесуэла"
+ VEN_ADJ: "Венесуэльск"
+ VEN_DEF: "the Bolivarian Republic of Venezuela" #NT!
+  
+ ### Parties 
+ VEN_vanguardist_party: "PSV-I" #NT!
+ VEN_vanguardist_party_long: "Partido Socialista de Venezuela\n§gIntransigentes§!\n§gSocialist Party of Venezuela - Intransigents§!" #NT!
+ VEN_collectivist_party: "PSV-M" #NT!
+ VEN_collectivist_party_long: "Partido Socialista de Venezuela\n§gModerados§!\n§gSocialist Party of Venezuela - Moderates§!" #NT!
+ VEN_libertarian_socialist_party: "ARdI" #NT!
+ VEN_libertarian_socialist_party_long: "Agrupación Revolucionaria de Izquierda\n§gRevolutionary Group of the Left§!" #NT!
+ VEN_social_democrat_party: "AD" #NT!
+ VEN_social_democrat_party_long: "Acción Democrática\n§gDemocratic Action§!" #NT!
+ VEN_social_liberal_party: "URD" #NT!
+ VEN_social_liberal_party_long: "Unión Republicana Democrática\n§gDemocratic Republican Union§!" #NT!
+ VEN_market_liberal_party: "PS" #NT!
+ VEN_market_liberal_party_long: "Partido Socialcristiano\n§gChristian Social Party§!" #NT!
+ VEN_social_conservative_party: "COPEI" #NT!
+ VEN_social_conservative_party_long: "Comité de Organización Política Electoral Independiente\n§gIndependent Political Electoral Organization Committee§!" #NT!
+ VEN_authoritarian_democrat_party: "GP" #NT!
+ VEN_authoritarian_democrat_party_long: "Gobierno Provisorio\n§gProvisional Government§!" #NT!
+ VEN_paternal_autocrat_party: "JNV" #NT!
+ VEN_paternal_autocrat_party_long: "Junta Nacional Venezuelana\n§gVenezuelan National Junta§!" #NT!
+ VEN_national_populist_party: "MLN" #NT!
+ VEN_national_populist_party_long: "Movimento Libertador Nacional\n§gNational Liberation Movement§!" #NT!
+ VEN_valkist_party: "MLN" #NT!
+ VEN_valkist_party_long: "Movimento Libertador Nacional\n§gNational Liberation Movement§!" #NT!
+  
+ VEN_Santos_Dominici: "Santos Dominici" #NT!
+ VEN_Eleazar_Lopez_Contreras: "Eleazar López Contreras" #NT!
+ VEN_Juan_Bautista_Fuenmayor: "Juan Bautista Fuenmayor" #NT!

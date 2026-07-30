@@ -1,0 +1,1952 @@
+﻿l_russian:
+ FX_is_an_ally: "is an ally or subject" #NT!
+ FX_is_an_ally_NOT: "is an §RNOT§! ally or subject" #NT!
+ FX_owned_by_ROOT_or_subject: "is owned by §Y[Root.GetNameDef]§! or our subject" #NT!
+ FX_owned_by_ROOT_or_subject_NOT: "is §Rnot§! owned by §Y[Root.GetNameDef]§! or our subject" #NT!
+ FX_controlled_by_ROOT_or_subject: "is controlled by §Y[Root.GetNameDef]§! or our subject" #NT!
+ FX_controlled_by_ROOT_or_subject_NOT: "is §Rnot§! controlled by §Y[Root.GetNameDef]§! or our subject" #NT!
+ FX_owned_and_controlled_by_ROOT_or_subject: "is owned and controlled by §Y[Root.GetNameDef]§! or our subject" #NT!
+ FX_owned_and_controlled_by_ROOT_or_subject_NOT: "is §Rnot§! owned and controlled by §Y[Root.GetNameDef]§! or our subject" #NT!
+ FX_owned_by_ROOT_or_ally: "is owned by §Y[Root.GetNameDef]§! or an ally" #NT!
+ FX_owned_by_ROOT_or_ally_NOT: "is §Rnot§! owned by §Y[Root.GetNameDef]§! or an ally" #NT!
+ FX_controlled_by_ROOT_or_ally: "is controlled by §Y[Root.GetNameDef]§! or an ally" #NT!
+ FX_controlled_by_ROOT_or_ally_NOT: "is §Rnot§! controlled by §Y[Root.GetNameDef]§! or an ally" #NT!
+ FX_owned_and_controlled_by_ROOT_or_ally: "is owned and controlled by §Y[Root.GetNameDef]§! or an ally" #NT!
+ FX_owned_and_controlled_by_ROOT_or_ally_NOT: "is §Rnot§! owned and controlled by §Y[Root.GetNameDef]§! or an ally" #NT!
+ new_annexation_decisions_tt: "§YDecisions will appear to decide the fate of the individual regions§!" #NT!
+  
+ annexation_generic.t: "The Fate of [THIS.GetName]" #NT!
+ annexation_generic.d: "The region of [THIS.GetName] is now under our control; thus we must decide what to do with it." #NT!
+ annexation_generic.a: "They shall have their independence" #NT!
+ annexation_generic.b: "Release [?tag_for_generic_event_option.GetName] under a friendly government!" #NT!
+ annexation_generic.c: "Create a loyal [?tag_for_generic_event_option.GetAdjective] state" #NT!
+ annexation_generic.e: "Liberate a puppet [?tag_for_generic_event_option.GetNameDef]" #NT!
+ annexation_generic.f: "Release [?tag_for_generic_event_option.GetNameDef] as a puppet" #NT!
+ annexation_generic.g: "Liberate a [?tag_for_generic_event_option.GetNameDef] state" #NT!
+  
+ annexation_decisions: "Annexation Decisions" #NT!
+ annexation_decisions_desc: "Having gained control of new swaths of land we must now work out what to do with it. Occupation can be expensive and destabilising but it would give us direct access to the riches of this new land. On the other hand, creating a puppet nation would certainly be cheaper, though our new subjects may not be as reliable as we might think. Either way, the fate of nations rests in our hands." #NT!
+  
+ annex.occupation: "Military occupation is the only answer." #NT!
+ annex.cancel: "We will decide what to do another time." #NT!
+ annex.integrate: "Assimilate to [Root.GetAdjective] territory" #NT!
+ annex.integration: "Integrate it!" #NT!
+ annex.give_to_ally: "Give it to our [?target.GetAdjective] allies." #NT!
+ annex.give_to_neutral: "Grant it to [?target.GetNameDef] - we don't need it." #NT!
+ annex.give_to_ally_state: "Give it to our [annex_ally.GetAdjective] allies " #NT!
+ annex.give_to_neutral_state: "Grant it to our [annex_neutral.GetNameDef] - we don't need it." #NT!
+ annex.liberate: "We must liberate them." #NT!
+ annex.split: "Split it!" #NT!
+  
+ annex.generic_give_to_sb: "[THIS.GetGrantTerritoryEventOption]" #NT!
+  
+ annex.give_to_tag_1: "[tag_1.GetGrantTerritoryEventOption]" #NT!
+ annex.give_to_tag_2: "[tag_2.GetGrantTerritoryEventOption]" #NT!
+ annex.give_to_tag_3: "[tag_3.GetGrantTerritoryEventOption]" #NT!
+ annex.give_to_tag_4: "[tag_4.GetGrantTerritoryEventOption]" #NT!
+ annex.give_to_tag_5: "[tag_5.GetGrantTerritoryEventOption]" #NT!
+  
+ annex.give_to_france: "[france.GetGrantTerritoryEventOption]" #NT!
+ annex.give_to_italy: "[italy.GetGrantTerritoryEventOption]" #NT!
+ annex.give_to_britain: "[britain.GetGrantTerritoryEventOption]" #NT!
+ annex.give_to_rheinland: "[rheinland.GetGrantTerritoryEventOption]" #NT!
+ annex.give_to_germany: "[germany.GetGrantTerritoryEventOption]" #NT!
+ annex.give_to_soviets: "[soviets.GetGrantTerritoryEventOption]" #NT!
+  
+ annex.give_to_owner_of_piedmont: "[piedmont.GetGrantTerritoryEventOption]" #NT!
+ annex.give_to_owner_of_alpes: "[alpes.GetGrantTerritoryEventOption]" #NT!
+  
+ annex.europe.give_to_netherlands: "[netherlands.GetGrantTerritoryEventOption]" #NT!
+ annex.europe.give_to_belgium: "[belgium.GetGrantTerritoryEventOption]" #NT!
+ annex.europe.give_to_german_rhineland: "[german_rhineland.GetGrantTerritoryEventOption]" #NT!
+ annex.europe.give_to_ireland: "[ireland.GetGrantTerritoryEventOption]" #NT!
+ annex.europe.give_to_czechia: "[czechia.GetGrantTerritoryEventOption]" #NT!
+ annex.europe.give_to_romania: "[romania.GetGrantTerritoryEventOption]" #NT!
+ annex.europe.give_to_transylvania: "[transylvania.GetGrantTerritoryEventOption]" #NT!
+ annex.europe.give_to_alfold_owner: "[alfold.GetGrantTerritoryEventOption]" #NT!
+ annex.europe.give_to_poland: "[poland.GetGrantTerritoryEventOption]" #NT!
+ annex.europe.give_to_prussia: "[prussia.GetGrantTerritoryEventOption]" #NT!
+ annex.europe.give_to_hungary: "[hungary.GetGrantTerritoryEventOption]" #NT!
+ annex.europe.give_to_slovakia: "[slovakia.GetGrantTerritoryEventOption]" #NT!
+  
+  
+ ###### CUSTOM OPTION TEXTS 
+  
+ # Netherlands (12) 
+ annexations.112.a: "Liberate the Batavian Republic!" #NT!
+ annexations.112.b: "Restore the Kingdom of the Netherlands" #NT!
+ annexations.112.c: "Transfer the territories to the Dutch Exiles." #NT!
+  
+ # United Kingdom (13) 
+ annexations.113.a: "Release the United Kingdom!" #NT!
+ annexations.113.b: "Split it into England, Scotland and Wales!" #NT!
+ annexations.113.c: "Release the United Kingdom -- but separate Scotland" #NT!
+  
+  
+ # Voralberg (23) 
+ annexations.123.a: "Give it to the [SWI.GetAdjective]" #NT!
+  
+ # Bohemia (26) 
+ annexations.126.c: "Liberate a united Czechoslovakia" #NT!
+  
+ # Senegal (208) 
+ annexations.308.a: "Create a North African colony!" #NT!
+  
+ annexations.301.a: "Give it to [NFA.GetName]!" #NT!
+  
+ annexations.283.a: "Create a Central African colony!" #NT!
+  
+ annexations.286.a: "Give it to [NFQ.GetName]!" #NT!
+  
+ annexations.give_to_KEN_colony: "Give it to [KEN.GetName]!" #NT!
+  
+ annexations.297.a: "Create an Eastern African colony!" #NT!
+  
+ annex.2.t: "[granted_land.GetName] Regained!" #NT!
+ annex.2.d: "The [From.GetAdjective] government has elected to return [granted_land.GetName] to us, no strings attached." #NT!
+ annex.2.a: "Hurrah!" #NT!
+  
+ annex.104.a: "[south_swi.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_ALG_CONQ: "The Fate of Algeria" #NT!
+ annexation_ALG_CONQ_DESC: "We finally freed Algeria from the French tyrants in Algiers. Should we give the Algerians freedom?" #NT!
+ annex.2036.a: "Liberate a loyal Algeria." #NT!
+  
+ annexation_AFG_CONQ: "The Fate of Afghanistan" #NT!
+ annexation_AFG_CONQ_DESC: "After a long fight with the Afghans, we have launched a full offensive and forced the Afghan Army to surrender and flee to the mountains. Kabul and the major roads are now in our hands, but the countryside is rallying against us and we may have a large fight on our hands should we attempt to occupy the so-called 'Graveyard of Empires.'" #NT!
+ annex.3515.a: "Afghanistan must not be our graveyard, we will give them autonomy." #NT!
+  
+ annexation_ALAND_CONQ: "The Fate of Aland" #NT!
+ annexation_ALAND_CONQ_DESC: "With the Baltic island of Åland now under our control, we must decide what to do with it." #NT!
+ annexations.199.a: "Give it to Sweden" #NT!
+ annexations.199.b: "Give it to Finland" #NT!
+  
+ annexation_ALASKA_CONQ: "The Fate of Alaska" #NT!
+ annexation_ALASKA_CONQ_DESC: "The disputed territory of Alaska is now under our control; thus we must decide what to do with it." #NT!
+ annex.1001.a: "Give it to Canada" #NT!
+ annex.1001.b: "Give it to USA" #NT!
+  
+ annexation_ALB_CONQ: "The Fate of Albania" #NT!
+ annexation_ALB_CONQ_DESC: "After a campaign across the Albanian countryside, our enemies in Tirana have finally capitulated, leaving us with the control of their country. Our position in the Adriatic has been cemented, but we must now decide what to do with Albania." #NT!
+ annexations.154.a: "Restore an autonomous Albania!" #NT!
+  
+ annexation_ALSACE_CONQ: "The Fate of Alsace-Lorraine" #NT!
+ annexation_ALSACE_CONQ_DESC: "Our armies have taken control of Alsace-Lorraine after our last campaigns, a region disputed between France and Germany for the last 70 years. We must now decide what's to do with this land." #NT!
+ annex.180.a: "Give it to [baden.GetGrantTerritoryEventOption]" #NT!
+ annex.180.b: "Give it to [moselland.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_AMMAN_CONQ: "The Fate of Amman" #NT!
+ annexation_AMMAN_CONQ_DESC: "The disputed territory of Amman is now under our control; thus we must decide what to do with it." #NT!
+ annex.3013.a: "Give it to the Arabs" #NT!
+ annex.3013.b: "Give it to Syria" #NT!
+ annex.3013.c: "Give it to the Iraqis" #NT!
+ annex.3013.d: "Give it to the Arabs" #NT!
+  
+ annexation_ANG_CONQ: "The Fate of Angola" #NT!
+ annexation_ANG_CONQ_DESC: "Our annexation of the former Portuguese colony of Angola left us to manage those millions of Africans far by the seas. Surely installing a local government will be easier for us to manage it, but should we trust the locals with that?" #NT!
+ annex.2000.a: "Form the state of Angola!" #NT!
+  
+ annexation_ARB_CONQ: "The Fate of Arabia" #NT!
+ annexation_ARB_CONQ_DESC: "After a long fight with the Arabs, we have launched a full offensive and forced the Arabian Army to surrender. The fate of the arabs in this land is now in our hands!" #NT!
+ annex.3004.a: "Liberate a loyal Arabia." #NT!
+  
+ annexation_ARG_CONQ: "The Fate of Argentina" #NT!
+ annexation_ARG_CONQ_DESC: "After the conquest of the vast nation of Argentina we have to organise competent administrations to keep the territory under control. Now we will need to decide on the fate of the region." #NT!
+ annex.1023.a: "Liberate Argentina as our puppet!" #NT!
+  
+ annexation_ARICA_CONQ: "The Fate of Arica" #NT!
+ annexation_ARICA_CONQ_DESC: "The disputed territory of Arica is now under our control; thus we must decide what to do with it." #NT!
+ annex.1022.a: "Give it to Chile" #NT!
+ annex.1022.b: "Give it to Peru" #NT!
+  
+ annexation_ARM_CONQ: "The Fate of Armenia" #NT!
+ annexation_ARM_CONQ_DESC: "After fierce fighting in the Caucasus, we have conquered and annexed Armenia. The Armenian army has surrendered, and the territory is under our control, but the people are still resistant but soon they will submit." #NT!
+ annex.3010.a: "Liberate Armenia!" #NT!
+ annex.3010.b: "Transfer the lands to our Caucasian subject state" #NT!
+  
+ annexation_AST_CONQ: "The Fate of Australia" #NT!
+ annexation_AST_CONQ_DESC: "Australia has been forced to capitulate and our troops are patrolling the streets of Sydney to prevent a rebellion or anything that could cause further instability. However, some have proposed that creating a local Australian government would be more helpful." #NT!
+ annex.5001.a: "Liberate Australia!" #NT!
+  
+ annexation_AUS_CONQ: "The Fate of Austria" #NT!
+ annexation_AUS_CONQ_DESC: "Austria has been forced to capitulate and our troops are patrolling the streets of Vienna to prevent a rebellion or anything that could cause further instability. However, some have proposed that creating a local Austrian government would be more helpful." #NT!
+ annex.102.a: "We must liberate them." #NT!
+ annex.102.b: "Integrate it to Germany" #NT!
+  
+ annexation_AZR_CONQ: "The Fate of Azerbaijan" #NT!
+ annexation_AZR_CONQ_DESC: "After fierce fighting in the Caucasus, we have conquered and annexed Azerbaijan. The Azeri army has surrendered, and their territory is under our control, but the people are still resistant. What should we do with our newly conquered lands?" #NT!
+ annex.3012.a: "We must liberate them." #NT!
+ annex.3012.b: "Transfer the lands to our Caucasian subject state" #NT!
+  
+ annexation_BAL_CONQ: "The Fate of Baluchistan" #NT!
+ annexation_BAL_CONQ_DESC: "The entirety of Baluchistan has been brought under our control. Currently our armed forces are facing some opposition from the local populations. We could leave it up to local governments in the region to take care of any dissent." #NT!
+ annex.3506.a: "Create a collaborationist government" #NT!
+  
+ annexation_BAY_CONQ: "The Fate of South Germany" #NT!
+ annexation_BAY_CONQ_DESC: "The entire South German region has been brought under our control. Currently, our armed forces are facing some opposition from the local populations. We could leave it up to local governments in the region to take care of any dissent." #NT!
+ # annex.104.a: "Release a loyal South German state" #NT!
+ annex.104.b: "[german_hesse.GetGrantTerritoryEventOption]" #NT!
+ annex.104.c: "[german_thuringia.GetGrantTerritoryEventOption]" #NT!
+ annex.give_to_grp: "Give to our German Puppet!" #NT!
+  
+ annexation_BEL_CONQ: "The Fate of Belgium" #NT!
+ annexation_BEL_CONQ_DESC: "After a short campaign across the fields of Belgium we now control the region and we must decide what to do with it. Belgium is a very divided country and splitting it along cultural lines might make for less trouble afterwards." #NT!
+ annex.105.a: "Liberate a loyal Belgium" #NT!
+ annex.105.b: "We'll decide what to do with each region" #NT!
+ annex.105.c: "Let the Dutch take it." #NT!
+  
+ annexation_BHU_CONQ: "The Fate of Bhutan" #NT!
+ annexation_BHU_CONQ_DESC: "After our successful campaign in the Himalayas we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice..." #NT!
+ annex.3516.a: "Create a puppet Bhutan." #NT!
+  
+ annexation_BIH_CONQ: "The Fate of Bihar" #NT!
+ annexation_BIH_CONQ_DESC: "The entirety of Bihar has been brought under our control. Currently our armed forces are facing some opposition from the local populations. We could leave it up to local governments in the region to take care of any dissent." #NT!
+ annex.3510.a: "Create a collaborationist government" #NT!
+  
+ annexation_BLR_CONQ: "The Fate of Belarus" #NT!
+ annexation_BLR_CONQ_DESC: "After a short campaign across Belarus, we have managed to shatter the defences of Minsk. Belarus is now in our hands! We must now decide on the future of it." #NT!
+ annexations.187.a: "Liberate Belarus under a friendly government!" #NT!
+  
+ annexation_BLZ_CONQ: "The Fate of Belize" #NT!
+ annexation_BLZ_CONQ_DESC: "The former British territory of Belize is now under our control; thus we must decide what to do with it." #NT!
+ annex.1007.a: "Create a state of Belize" #NT!
+  
+ annexation_BNG_CONQ: "The Fate of Bengal" #NT!
+ annexation_BNG_CONQ_DESC: "The territories of Bengal and nearby regions are now under our control; thus we must decide what to do with it." #NT!
+ annex.3514.a: "Create a collaborationist government in Bengal!" #NT!
+  
+ annexation_BOL_CONQ: "The Fate of Bolivia" #NT!
+ annexation_BOL_CONQ_DESC: "After a campaign through the jungles and deserts of Bolivia, we have finally managed to reach the gates to the Andes. La Paz is now in our hands! We must now decide on the future of Bolivia." #NT!
+ annex.1024.a: "Liberate Bolivia under a friendly government!" #NT!
+  
+ annexation_BOM_CONQ: "The Fate of the Bombay Region" #NT!
+ annexation_BOM_CONQ_DESC: "The Bombay region has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annex.3508.a: "Release Bombay as a puppet" #NT!
+  
+ annexation_BRA_CONQ: "The Fate of Brazil" #NT!
+ annexation_BRA_CONQ_DESC: "After the conquest of the vast nation of Brazil we have to organise competent administrations to keep the territory under control. Even if the magnificent city of Rio is under the boots of our soldiers we can't keep an hold on it forever." #NT!
+ annex.1025.a: "Liberate a loyal Brazilian government" #NT!
+  
+ annex.4000.a: "Liberate and puppet Burma." #NT!
+  
+ annexation_BRANDENBURG_CONQ: "The Fate of Brandenburg" #NT!
+ annexation_BRANDENBURG_CONQ_DESC: "Much of Brandenburg has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annex.172.a: "Release a loyal Prussian state" #NT!
+ annex.172.b: "[PRE.GetGrantTerritoryEventOption]" #NT!
+ annex.172.c: "[german_hanover.GetGrantTerritoryEventOption]" #NT!
+ annex.172.d: "[german_holstein.GetGrantTerritoryEventOption]" #NT!
+ annex.172.e: "[german_holstein.GetGrantTerritoryEventOption]" #NT!
+  
+  
+ annexation_BUL_CONQ: "The Fate of Bulgaria" #NT!
+ annexation_BUL_CONQ_DESC: "After a long fight with the Bulgarians, we have launched a full offensive and forced the Bulgarian Army to surrender. Sofia is now in our hands! What should we do with their lands?" #NT!
+ annexations.164.a: "We must liberate them." #NT!
+  
+ annexation_BURGENLAND_CONQ: "The Fate of Burgenland" #NT!
+ annexation_BURGENLAND_CONQ_DESC: "The disputed territories of Burgenland is now under our control; thus we must decide what to do with it." #NT!
+ annex.153.a: "Give it to Austria" #NT!
+ annex.153.b: "Give it to Hungary" #NT!
+  
+ annexation_CAM_CONQ: "The Fate of Cambodia" #NT!
+ annexation_CAM_CONQ_DESC: "" #NT!
+ annex.4001.a: "Set up a puppet Cambodian state." #NT!
+  
+ annexation_CAN_CONQ: "The Fate of Canada" #NT!
+ annexation_CAN_CONQ_DESC: "After a long fight with the Canadaians, we have launched a full offensive and forced the Canadian Army to surrender. Sofia is now in our hands! What should we do with their lands?" #NT!
+ annex.1002.a: "Liberate a puppet Canada!" #NT!
+ annex.1002.b: "Seperate Quebec from Canada" #NT!
+  
+ annexation_CENTRAL_MACEDONIA_CONQ: "The Fate of Central Macedonia" #NT!
+ annexation_CENTRAL_MACEDONIA_CONQ_DESC: "The disputed region of Central Macedonia is now under our control; with our troops still patrolling the area, we must decide what to do next." #NT!
+ annex.168.a: "[greece.GetGrantTerritoryEventOption]" #NT!
+ annex.168.b: "[bulgaria.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_KMT_CONQ: "The Fate of China" #NT!
+ annexation_KMT_CONQ_DESC: "After a long and hard-fought campaign in the vast expanses of China we've finally achieved a historic victory. Now that we've won the war, we must decide how to best secure the peace. How should we go about managing the Chinese lands we've conquered?" #NT!
+ annex.4022.a: "Install the Collaboration Government!" #NT!
+ annex.4022.b: "Annex them!" #NT!
+  
+ annexation_CHL_CONQ: "The Fate of Chile" #NT!
+ annexation_CHL_CONQ_DESC: "After a long campaign across the hostile Chilean Andes, we have finally managed to shatter the Chilean defences. Santiago is now in our hands! We must now decide on the future of Chile." #NT!
+ annex.1027.a: "Liberate Chile under a friendly government!" #NT!
+  
+ annexation_CHACO_BOREAL_CONQ: "The Fate of Chaco Boreal" #NT!
+ annexation_CHACO_BOREAL_CONQ_DESC: "The disputed territory of Chaco Boreal is now under our control; thus we must decide what to do with it." #NT!
+ annex.1026.a: "Give it to Paraguay" #NT!
+ annex.1026.b: "Give it to Bolivia" #NT!
+  
+ annexation_CLB_CONQ: "The Fate of the Midwest" #NT!
+ annexation_CLB_CONQ_DESC: "The midwestern region of the former United States is now in our hands, now we must decide what to do with it." #NT!
+ annex.1003.a: "Puppet a Midwestern Government" #NT!
+  
+ annexation_COG_CONQ: "The Fate of the Congo" #NT!
+ annexation_COG_CONQ_DESC: "After a long and hard-fought campaign in the vast expanses of the Congo we've finally achieved a historic victory. Now that we've won the war, we must decide how to best secure the peace. How should we go about managing the lands we've conquered?" #NT!
+ annex.2006.a: "Release Congo as a puppet!" #NT!
+  
+ annexation_COL_CONQ: "The Fate of Colombia" #NT!
+ annexation_COL_CONQ_DESC: "After a campaign across Colombia, we have finally managed to shatter the Colombian defences. Bogotá is now in our hands! We must now decide on the future of Colombia." #NT!
+ annex.1028.a: "Liberate Colombia under a friendly government!" #NT!
+  
+ annexation_COLOMBIAN_AMAZON_CONQ: "The Fate of Colombian Amazon" #NT!
+ annexation_COLOMBIAN_AMAZON_CONQ_DESC: "The disputed territory of Colombian is now under our control; thus we must decide what to do with it." #NT!
+ annex.1037.a: "Give it to Colombia" #NT!
+ annex.1037.b: "Give it to Peru" #NT!
+  
+ annexation_COS_CONQ: "The Fate of Costa Rica" #NT!
+ annexation_COS_CONQ_DESC: "Our glorious army corps marched through the land and now occupy the capital of the former Costa Rican government. We, however, can't have this situation last so long, what should we do with the land?" #NT!
+ annex.1008.a: "Restore a loyal Costa Rican state." #NT!
+  
+ annexation_CRC_CONQ: "The Fate of Curacao" #NT!
+ annexation_CRC_CONQ_DESC: "After a campaign across Curacao, we have finally managed to shatter the Curacao defences. Bogotá is now in our hands! We must now decide on the future of Curacao." #NT!
+ annex.33.a: "Setup a puppet government in Curacao" #NT!
+  
+ annexation_CRU_CONQ: "The Fate of Cruzoob" #NT!
+ annexation_CRU_CONQ_DESC: "After our successful campaign in the Yucatan we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice..." #NT!
+ annex.1009.a: "Setup a puppet Yucatan Government" #NT!
+  
+ annexation_CUB_CONQ: "The Fate of Cuba" #NT!
+ annexation_CUB_CONQ_DESC: "After a short campaign across the island of Cuba, we have finally managed to shatter the Cuban defences. Havana is now in our hands! We must now decide on the future of Cuba." #NT!
+ annex.1010.a: "Liberate a loyal Cuban state!" #NT!
+  
+ annexation_CYP_CONQ: "The Fate of Cyprus" #NT!
+ annexation_CYP_CONQ_DESC: "Our armies have managed to take control of Cyprus, and the island itself is now occupied by us. We have a few options in front of us, now. We can either puppet the island or take it for ourselves, seeing as it possesses a key position in the Mediterranean and is crucial to retaining control of that area. What shall we do?" #NT!
+ annex.37.a: "Liberate Cyprus" #NT!
+  
+ annexation_DARDANELLIA_CONQ: "The Fate of Dardanellia" #NT!
+ annexation_DARDANELLIA_CONQ_DESC: "The disputed region of Dardanella is now under our control; " #NT!
+ annexations.168.a: "Give it to Greece" #NT!
+ annexations.168.b: "Give it to the Turkish" #NT!
+  
+ annexation_DEN_CONQ: "The Fate of Denmark" #NT!
+ annexation_DEN_CONQ_DESC: "After a short campaign across the numerous islands of Denmark and the capture of its capital, we have managed to take down the country. Copenhagen is now in our hands! The status of the Atlantic islands of Denmark is a particularly interesting case to deal with but we'll anyway have to decide on the future of Denmark." #NT!
+ annexations.194.a: "Liberate Denmark as a puppet state!" #NT!
+  
+ annexation_DOM_CONQ: "The Fate of Dominican Republic" #NT!
+ annexation_DOM_CONQ_DESC: "After a short campaign on the island of Hispaniola, we have finally managed to shatter the Dominican defences. Santo Domingo is now in our hands! We must now decide on the future of the Dominican Republic." #NT!
+ annex.1011.a: "Liberate the Dominican Republic under a friendly government!" #NT!
+  
+ annexation_EAST_PRUSSIA_CONQ: "The Fate of [5.GetName]" #NT!
+ annexation_EAST_PRUSSIA_CONQ_DESC: "The state of [5.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annex.120.a: "Release an East Prussian state" #NT!
+ annex.120.b: "[63.owner.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_EAST_THRACE_CONQ: "The Fate of Eastern Thrace" #NT!
+ annexation_EAST_THRACE_CONQ_DESC: "The disputed region of Eastern Thrace is now under our control; " #NT!
+ annexations.159.a: "Give it to Greece" #NT!
+ annexations.159.b: "Give it to Bulgaria" #NT!
+ annexations.159.c: "Give it to the Turks" #NT!
+  
+ annexation_EASTERN_MACEDONIA_CONQ: "The Fate of Eastern Macedonia" #NT!
+ annexation_EASTERN_MACEDONIA_CONQ_DESC: "The disputed region of Eastern Macedonia is now under our control; and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexations.158.a: "[greece.GetGrantTerritoryEventOption]" #NT!
+ annexations.158.b: "[bulgaria.GetGrantTerritoryEventOption]" #NT!
+ annexations.158.c: "[turkey.GetGrantTerritoryEventOption]" #NT!
+ annexations.158.d: "Split it between [greece.GetNameDef] and [bulgaria.GetNameDef]" #NT!
+ annexations.158.e: "Split it between [greece.GetNameDef] and [turkey.GetNameDef]" #NT!
+ annexations.158.f: "Split it between [greece.GetNameDef], [bulgaria.GetNameDef] and [turkey.GetNameDef]" #NT!
+  
+ annexation_SUDTIROL_CONQ: "The Fate of Southern Tyrol" #NT!
+ annexation_SUDTIROL_CONQ_DESC: "The disputed region of Southern Tyrol is now under our control; and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexations.170.a: "Give it to Austria" #NT!
+ annexations.170.b: "Give it to Italy" #NT!
+  
+ annexation_ECU_CONQ: "The Fate of Ecuador" #NT!
+ annexation_ECU_CONQ_DESC: "After a campaign across Ecuador, we have finally managed to shatter the Ecuadorian defences. Quito is now in our hands! We must now decide on the future of Ecuador." #NT!
+ annex.1029.a: "Liberate Ecuador under a friendly government!" #NT!
+  
+ annexation_EGY_CONQ: "The Fate of Egypt" #NT!
+ annexation_EGY_CONQ_DESC: "After a long fight with the Egyptians, we have launched a full offensive and forced the Egyptian Army to surrender. Cairo is now in our hands!" #NT!
+ annex.2008.a: "Liberate Egypt with Sudan!" #NT!
+  
+ annexation_ELS_CONQ: "The Fate of El Salvador" #NT!
+ annexation_ELS_CONQ_DESC: "El Salvador has been annexed by our proud armies and our troops are parading in San Salvador. How should the administration be set up?" #NT!
+ annex.1012.a: "Liberate a loyal El Salvador!" #NT!
+  
+ # annexations.113.a: "Create a Republican United Kingdom!" #NT!
+ # annexations.113.b: "Restore a Monarchist United Kingdom!" #NT!
+ # annexations.113.c: "Revive the United Kingdom!" #NT!
+  
+ annexation_GBR_CONQ: "The Fate of Britian" #NT!
+ annexation_GBR_CONQ_DESC: "Our armies have managed to take control of the Britain, and the island itself is now occupied by us. We have a few options in front of us, now. We can either puppet the island or take it for ourselves, seeing as it possesses a key position in the Atlantic and is crucial to retaining control of that area. What shall we do?" #NT!
+ annex.117.a: "Restore a new King in London!" #NT!
+ annex.117.b: "Create a Republican Britain" #NT!
+ annex.117.c: "We'll deal with them separately" #NT!
+  
+ annexation_EST_CONQ: "The Fate of Estonia" #NT!
+ annexation_EST_CONQ_DESC: "Much of Estonia has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexations.186.a: "Liberate Estonia!" #NT!
+ annexations.186.b: "Transfer the territory to our Baltic puppet" #NT!
+  
+ annexation_EQG_CONQ: "The Fate of Equitorial Guinea" #NT!
+ annexation_EQG_CONQ_DESC: "After our successful campaign in the center of Africa we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice..." #NT!
+ annex.2043.a: "Liberate Equitorial Guinea!" #NT!
+  
+ annexation_ETH_CONQ: "The Fate of Ethiopia" #NT!
+ annexation_ETH_CONQ_DESC: "After our successful campaign in Ethiopia we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice..." #NT!
+ annex.2010.a: "Liberate a puppet state of Ethiopia!" #NT!
+  
+ annexation_FIN_CONQ: "The Fate of Finland" #NT!
+ annexation_FIN_CONQ_DESC: "The Finnish soldiers have been defeated and our army is marching through Helsinki. Now we must deal with the question of how best to administer the Finns." #NT!
+ annexations.197.a: "We must liberate them." #NT!
+  
+ annexation_FIJ_CONQ: "The Fate of Fiji" #NT!
+ annexation_FIJ_CONQ_DESC: "We have taken control of the island territories of Fiji, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.5000.a: "Create a puppet state in Fiji" #NT!
+  
+ annexation_FLA_CONQ: "The Fate of Flanders" #NT!
+ annexation_FLA_CONQ_DESC: "After a short campaign across the fields of Flanders we now control the region and we must decide what to do with it." #NT!
+ annexations.107.a: "Liberate a united Belgium" #NT!
+ annexations.107.b: "Liberate Flanders" #NT!
+ annexations.107.c: "[wallonia.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_FRA_CONQ: "The Fate of France" #NT!
+ annexation_FRA_CONQ_DESC: "The French state has been forced to capitulate, and our troops are parading in their capital in Paris. What should we do with the remnants of their state?" #NT!
+ annexations.102.a: "Liberate a loyal French Government!" #NT!
+ annexations.102.b: "Create a divided France" #NT!
+  
+ annexation_GEO_CONQ: "The Fate of Georgia" #NT!
+ annexation_GEO_CONQ_DESC: "Our armed forces have defeated the Georgian regime and is now triumphantly marching through the streets of Tbilisi. Now the only thing that remains to do is to determine status of the Georgian territory..." #NT!
+ annex.3011.a: "Create a puppet state in Georgia!" #NT!
+ annex.3011.b: "Transfer the lands to our Caucasian subject state" #NT!
+  
+ annexation_GER_CONQ: "The Fate of Germany" #NT!
+ annexation_GER_CONQ_DESC: "The German state has been forced to capitulate, and our troops are parading in their capital in Berlin. What should we do with the remnants of their state?" #NT!
+ annexations.118.ar: "Set up a German republic!" #NT!
+ annexations.118.as: "Liberate the German workers!" #NT!
+ annexations.118.aa: "Create a German state." #NT!
+ annexations.118.s: "Unfortunately, we are now Germany..." #NT!
+ annexations.118.b: "Germany must be divided!" #NT!
+ annexations.118.c: "[GRR.GetGrantTerritoryEventOption]" #NT!
+ annexations.118.e: "Our German comrades ought to have it!" #NT!
+  
+ annexation_GOR_CONQ: "The Fate of the Mountain Republic" #NT!
+ annexation_GOR_CONQ_DESC: "Our armed forces have defeated the Mountain Republic and is now triumphantly marching through the streets in their capital. Now the only thing that remains to do is to determine status of the conquered territory..." #NT!
+ annexations.211.a: "We must liberate them" #NT!
+ annexations.211.b: "Transfer the lands to our Caucasian subject state" #NT!
+  
+ annexation_GRE_CONQ: "The Fate of Greece" #NT!
+ annexation_GRE_CONQ_DESC: "The Greek Peninsula has been secured and the entire Greek army has capitulated. The fate of the entire Greek nation lies in our hands..." #NT!
+ annexations.157.a: "Liberate a Republican Greece!" #NT!
+  
+ annexation_GREENLAND_CONQ: "The Fate of Greenland" #NT!
+ annexation_GREENLAND_CONQ_DESC: "A campaign in the Northern Atlantic has paid off: Greenland has fallen in our hands and the question now is what we should do with this barren island in the northern Atlantic?" #NT!
+ annexations.201.a: "Give it to Denmark" #NT!
+ annexations.201.b: "Give it to Norway" #NT!
+ annexations.201.c: "Give it to Iceland" #NT!
+  
+ annexation_GUA_CONQ: "The Fate of Guatemala" #NT!
+ annexation_GUA_CONQ_DESC: "The Guatemalan state has been forced to capitulate, and our troops are parading in the capital of Guatemala. What should we do with the remnants of their state?" #NT!
+ annex.1013.a: "Liberate a loyal Guatemala." #NT!
+  
+ annexation_GYA_CONQ: "The Fate of Guyana" #NT!
+ annexation_GYA_CONQ_DESC: "The territory of Guyana is now under our control; thus we must decide what to do with it." #NT!
+ annex.1030.a: "Puppet a state of Guyana" #NT!
+  
+ annexation_HAI_CONQ: "The Fate of Haiti" #NT!
+ annexation_HAI_CONQ_DESC: "After a short campaign on the island of Hispaniola, we have finally managed to shatter the Haitian defences. Port-au-Prince is now in our hands! We must now decide on the future of Haiti." #NT!
+ annex.1014.a: "Liberate Haiti under a friendly government!" #NT!
+  
+ annexation_HOLSTEIN_CONQ: "The Fate of Holstein" #NT!
+ annexation_HOLSTEIN_CONQ_DESC: "The state of Holstein is now under our control; thus we must decide what to do with it." #NT!
+ annex.121.a: "[german_mecklenberg.GetGrantTerritoryEventOption]" #NT!
+ annex.121.b: "[german_hannover.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_HUN_CONQ: "The Fate of Hungary" #NT!
+ annexation_HUN_CONQ_DESC: "The Hungarian nation has been completely defeated. Our forces are policing the streets of Budapest and partisans are being detained all across the countryside, but should this state of affairs remain permanent? What should we do with the Hungarian lands?" #NT!
+ annexations.30.a: "Create a puppet [HUN.GetAdjective] state!" #NT!
+ annexations.30.b: "Transfer the lands to our Carpathian puppet!" #NT!
+  
+ annexation_HYD_CONQ: "The Fate of Hyderabad" #NT!
+ annexation_HYD_CONQ_DESC: "We have taken control of the territories of Hyderabad, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.3502.a: "Liberate Hyderabad!" #NT!
+  
+ annexation_ICE_CONQ: "The Fate of Iceland" #NT!
+ annexation_ICE_CONQ_DESC: "A campaign in the Northern Atlantic has paid off: Iceland has fallen in our hands and the question now is what we should do with this barren island in the northern Atlantic?" #NT!
+ annexations.200.a: "Release a puppet Iceland" #NT!
+ annexations.200.b: "Give it to Denmark" #NT!
+ annexations.200.c: "Give it to Norway" #NT!
+  
+ annexation_IND_CONQ: "The Fate of India" #NT!
+ annexation_IND_CONQ_DESC: "The great nation of India has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annex.3513.a: "Restore the British Raj" #NT!
+ annex.3513.b: "Release a united Indian state a puppet" #NT!
+ annex.3513.c: "Puppet a state in Delhi, and we'll deal with the rest." #NT!
+ annex.3513.d: "Transfer the territories to the Raj" #NT!
+ annex.3514.e: "Reintegrate the territories" #NT!
+  
+ annexation_ICR_CONQ: "The Fate of Indochina" #NT!
+ annexation_ICR_CONQ_DESC: "We are now in control of the wild regions of Indochina and we have to decide what to do with all of these different peoples." #NT!
+ annex.4003.a: "Create a loyal Indochinese state!" #NT!
+ annex.4003.b: "We'll decide what to do with each region" #NT!
+  
+ annexation_INS_CONQ: "The Fate of Insulindia" #NT!
+ annexation_INS_CONQ_DESC: "Our armies have managed to take control of Insulindia, and the islands themselves are now occupied by us. We have a few options now. We can either puppet the island or take it for ourselves, seeing as it possesses a key position in South East Asia and has many strategically valuable resources. What shall we do?" #NT!
+ annex.4004.a: "Create a puppet Insulindia" #NT!
+ annex.4004.b: "Restore the British East Indies!" #NT!
+ annex.4004.c: "Restore the Dutch East Indies!" #NT!
+  
+ annexation_IRE_CONQ: "The Fate of Ireland" #NT!
+ annexation_IRE_CONQ_DESC: "We have secured the island of Ireland. The fate of the Irish nation lies in our hands now." #NT!
+ annexations.114.a: "They shall have their independence." #NT!
+  
+ annexation_IRQ_CONQ: "The Fate of Iraq" #NT!
+ annexation_IRQ_CONQ_DESC: "We have conquered the fertile lands of Iraq including the grand and ancient city of Baghdad. What are we to do with these old Ottoman provinces?" #NT!
+ annex.3001.a: "Create the state of Iraq" #NT!
+ annex.3001.b: "Create a new Mesopotamian state under Iraqi leadership" #NT!
+  
+ annexation_ISR_CONQ: "The Fate of Israel" #NT!
+ annexation_ISR_CONQ_DESC: "We have conquered the fertile lands of Israel including the grand and ancient city of Jerusalem. What are we to do with these old Ottoman provinces?" #NT!
+ annex.3000.a: "Create a loyal Israeli state!" #NT!
+  
+ annexation_ITA_CONQ: "The Fate of Italy" #NT!
+ annexation_ITA_CONQ_DESC: "With the majority of the Italian peninsula under our control, it is up to us to decide what will become of the region. Will it be released as a single entity under our control, powerful but perhaps difficult to control? Or should we decide what to do with each part of it separately?" #NT!
+ annexations.169.a: "Release Italy as a republic" #NT!
+ annexations.169.b: "Restore the Kingdom of Italy" #NT!
+ annexations.169.c: "We'll decide on what to do with each region." #NT!
+  
+ annexation_JAM_CONQ: "The Fate of Jamaica" #NT!
+ annexation_JAM_CONQ_DESC: "The former British territory of Jamaica is now under our control; thus we must decide what to do with it." #NT!
+ annex.1016.a: "Create a puppet government in Jamaica" #NT!
+  
+ annexation_JAP_CONQ: "The Fate of Japan" #NT!
+ annexation_JAP_CONQ_DESC: "After our successful campaign on the Japanese islands we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice.." #NT!
+ annex.4006.a: "Create a [JAP.GetAdjective] puppet" #NT!
+  
+ annexation_KAS_CONQ: "The Fate of Kashmir" #NT!
+ annexation_KAS_CONQ_DESC: "We have taken control of the territories of Kashmir, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.3505.a: "Create a puppet government" #NT!
+  
+ annexation_KEN_CONQ: "The Fate of Kenya" #NT!
+ annexation_KEN_CONQ_DESC: "The steppes of Kenya are now in our graceful control, what should we do with them? Will we control it directly or will we liberate them?" #NT!
+ annex.2018.a: "Create a Kenyan state" #NT!
+  
+ annexation_KOR_CONQ: "The Fate of Korea" #NT!
+ annexation_KOR_CONQ_DESC: "After the final liberation of the proud nation of Korea we were left with the responsibility of organising the administration of the newly conquered territories, what shall we do?" #NT!
+ annex.4007.a: "Create a loyal Korean state!" #NT!
+  
+ annexation_KUR_CONQ: "The Fate of Kurdistan" #NT!
+ annexation_KUR_CONQ_DESC: "Our armies have taken control of the northern part of the Levant, and the local Kurdish population is clamouring for self-government. We should decide what's to be done with the region." #NT!
+ annex.3009.a: "Release a Kurdish state" #NT!
+  
+ annexation_LAO_CONQ: "The Fate of Laos" #NT!
+ annexation_LAO_CONQ_DESC: "" #NT!
+ annex.4008.a: "Set up a puppet Laotian state." #NT!
+  
+ annexation_LAT_CONQ: "The Fate of Latvia" #NT!
+ annexation_LAT_CONQ_DESC: "Much of Latvia has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexations.184.a: "Liberate Latvia!" #NT!
+  
+ annexation_LEB_CONQ: "The Fate of Lebanon" #NT!
+ annexation_LEB_CONQ_DESC: "The former French territory of Lebanon is now under our control; thus we must decide what to do with it." #NT!
+ annex.3003.a: "Create a puppet state in Lebanon!" #NT!
+  
+ annexation_LBA_CONQ: "The Fate of Libya" #NT!
+ annexation_LBA_CONQ_DESC: "We have taken control of the territories of Libya, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.2038.a: "Create a puppet state in Libya!" #NT!
+ annex.2038.b: "Transfer to [Root.GetAdjective] North Africa" #NT!
+  
+ annexation_LIB_CONQ: "The Fate of Liberia" #NT!
+ annexation_LIB_CONQ_DESC: "The state of Liberia, founded by an American company under the wish of bringing American blacks back to Africa has always been a peculiar state. Under the loose control of the Americans for years the country has now fallen before our might. The Liberian identity is strong and trying to annex them directly might prove itself inefficient, officials in our country are calling for the establishment of a loyal Liberian state instead, should we do that?" #NT!
+ annex.2034.a: "Create a loyal state of Liberia" #NT!
+ annex.2034.b: "Transfer the territory to West Africa" #NT!
+  
+ annexation_LIMBURG_CONQ: "The Fate of Limburg" #NT!
+ annexation_LIMBURG_CONQ_DESC: "The former Belgian provinces of Limburg is now under our control; thus we must decide what to do with it." #NT!
+ annex.159.a: "Give it to Belgium" #NT!
+ annex.159.b: "Give it to the Dutch" #NT!
+ annex.159.c: "Give it to the Dutch" #NT!
+  
+ annexation_LIT_CONQ: "The Fate of Lithuania" #NT!
+ annexation_LIT_CONQ_DESC: "Lithuania has been brought under our leadership and our troops occupy the area. We must now decide what to do with it." #NT!
+ annexations.182.a: "Release a loyal Lithuania" #NT!
+  
+ annexation_LOM_CONQ: "The Fate of Lombardy" #NT!
+ annexation_LOM_CONQ_DESC: "Our armies have taken control of Lombardy, and the locals are clamouring for self-government. We should decide what's to be done with the region, as it would be difficult and expensive to hold otherwise." #NT!
+ annex.128.a: "Release Duchy of Lombardia as a puppet" #NT!
+ annex.128.b: "Integrate the territories" #NT!
+ annex.128.c: "Transfer the territories to Italy" #NT!
+  
+ annexation_LUX_CONQ: "The Fate of Luxembourg" #NT!
+ annexation_LUX_CONQ_DESC: "We have taken control of the territories of Luxembourg, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.129.a: "Liberate Luxembourg" #NT!
+ annex.129.b: "Assimilate to [Root.GetAdjective] Territory" #NT!
+  
+ annexation_MLD_CONQ: "The Fate of Maldivies" #NT!
+ annexation_MLD_CONQ_DESC: "The territories of Maldivies is now under our control; thus we must decide what to do with it." #NT!
+ annex.3512.a: "Create a puppet state in Maldivies!" #NT!
+  
+ annexation_FNG_CONQ: "The Fate of Manchuria" #NT!
+ annexation_FNG_CONQ_DESC: "After our successful campaign in Manchuria we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice." #NT!
+ annex.4010.a: "Create an independent Manchuria!" #NT!
+ annex.4010.b: "Integrate the territories" #NT!
+  
+ annexation_MAD_CONQ: "The Fate of Madagascar" #NT!
+ annexation_MAD_CONQ_DESC: "Our powerful armies have taken control of the former French colony of Madagascar. The huge island is currently under military administration but we may want to install a real administration there, should it be local or should we annex the island directly to our empire?" #NT!
+ annex.2037.a: "Form the state of Madagascar." #NT!
+  
+ annexation_MDR_CONQ: "The Fate of Madras" #NT!
+ annexation_MDR_CONQ_DESC: "We have taken control of the territories of Madras, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.3501.a: "Create a puppet state of Madras" #NT!
+  
+ annexation_MEX_CONQ: "The Fate of Mexico" #NT!
+ annexation_MEX_CONQ_DESC: "After a long campaign across Mexico, we have finally managed to shatter the Mexican defences. Mexico City is now in our hands! We must now decide on the future of Mexico." #NT!
+ annex.1017.a: "Liberate Mexico under a friendly government." #NT!
+  
+ annexation_MON_CONQ: "The Fate of Mongolia" #NT!
+ annexation_MON_CONQ_DESC: "After our successful campaign in the steppes of Mongolia, we now have the task to establish new local administrative authority in order to restore peace. However, there are several options for our choice." #NT!
+ annex.4011.a: "Liberate a loyal Mongolia." #NT!
+  
+ annexation_MOR_CONQ: "The Fate of Morocco" #NT!
+ annexation_MOR_CONQ_DESC: "We have freed Morocco from the French and our forces are now having difficulties occupying the mountainous and semi-arid regions of the country. Though the urban centres are in our control, it would maybe be wise to hand out further control to locals." #NT!
+ annex.2020.a: "We must liberate them" #NT!
+ annex.2020.b: "Transfer to [Root.GetAdjective] North Africa" #NT!
+  
+ annexation_MYS_CONQ: "The Fate of Mysore" #NT!
+ annexation_MYS_CONQ_DESC: "We have taken control of the territories of Mysore, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.3509.a: "Liberate Mysore under a friendly government!" #NT!
+  
+ annexation_NAP_CONQ: "The Fate of Naples" #NT!
+ annexation_NAP_CONQ_DESC: "We have taken control of the territories of Naples, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.130.a: "Create a puppet state in Naples" #NT!
+ annex.130.b: "Integrate the territories" #NT!
+ annex.130.c: "Transfer the territories to Italy" #NT!
+  
+ annexation_NAR_CONQ: "The Fate of the Rust Belt" #NT!
+ annexation_NAR_CONQ_DESC: "The states in the Rust Belt region of the former United States is now in our hands, now we must decide what to do with it." #NT!
+ annex.1005.a: "Create a puppet state in the Rust Belt" #NT!
+  
+ annexation_EASTERN_RHINELAND_CONQ: "The Fate of Eastern Rhineland" #NT!
+ annexation_EASTERN_RHINELAND_CONQ_DESC: "The east bank of Rhineland has been brought under our control. Currently. our armed forces are facing some opposition from the local populations. We could leave it up to local governments in the region to take care of any dissent." #NT!
+ annex.188.a: "[german_hesse.GetGrantTerritoryEventOption]" #NT!
+ annex.188.b: "[german_rhineland.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_NGF_CONQ: "The Fate of North Germany" #NT!
+ annexation_NGF_CONQ_DESC: "The entire North German region has been brought under our control. Currently, our armed forces are facing some opposition from the local populations. We could leave it up to local governments in the region to take care of any dissent." #NT!
+ annex.103.a: "Release a loyal North German state" #NT!
+ annex.103.b: "[german_magdeburg.GetGrantTerritoryEventOption]" #NT!
+ annex.103.c: "[german_franconia.GetGrantTerritoryEventOption]" #NT!
+ annex.103.d: "[german_rhineland.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_NEE_CONQ: "The Fate of New England" #NT!
+ annexation_NEE_CONQ_DESC: "The New English region of the former United States in now in our hands, now we must decide what to do with it." #NT!
+ annex.1004.a: "Create a puppet state in New England" #NT!
+  
+ annexation_NEP_CONQ: "The Fate of Nepal" #NT!
+ annexation_NEP_CONQ_DESC: "After our successful campaign in the Himalayas we now have the task to establish new local administrative authority in order to restore peace in Kathmandu. What shall we do?" #NT!
+ annex.3517.a: "Release a [NEP.GetAdjective] puppet state" #NT!
+  
+ annexation_NIC_CONQ: "The Fate of Nicaragua" #NT!
+ annexation_NIC_CONQ_DESC: "With Managua in our hands, we now control Nicaragua and are able to decide what do with these lands." #NT!
+ annex.1018.a: "Restore a loyal Nicaraguan state." #NT!
+  
+ annexation_NOR_CONQ: "The Fate of Norway" #NT!
+ annexation_NOR_CONQ_DESC: "The Norwegian Army has surrendered, and we have completely capitulated the Norwegian government. Our flag waves over the former capitol building in Oslo as our military campaign comes to an end. Now we must begin a campaign to destroy the Norwegian partisans, but perhaps enlisting Norwegian sympathizers to form a government would aid us?" #NT!
+ annexations.196.a: "Create a loyal Norwegian state!" #NT!
+  
+ annexation_NORTH_EPIRUS_CONQ: "The Fate of North Epirus" #NT!
+ annexation_NORTH_EPIRUS_CONQ_DESC: "The disputed region of North Epirus is now under our control; thus we must decide what to do with it." #NT!
+ annexations.156.a: "Give it to Greece" #NT!
+ annexations.156.b: "Give it to Albania" #NT!
+  
+ annexation_NZL_CONQ: "The Fate of New Zealand" #NT!
+ annexation_NZL_CONQ_DESC: "The islands of New Zealand have been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annex.5002.a: "Restore the Dominion!" #NT!
+ annex.5002.b: "Create a Republican New Zealand!" #NT!
+  
+ annexation_OMA_CONQ: "The Fate of Oman" #NT!
+ annexation_OMA_CONQ_DESC: "After a long fight with the Omani, we have launched a full offensive and forced the Omani Army to surrender. Muscat is now in our hands, as is the fate of the Emirate." #NT!
+ annex.3007.a: "Liberate Oman!" #NT!
+  
+ annexation_ORI_CONQ: "The Fate of Orissa" #NT!
+ annexation_ORI_CONQ_DESC: "We have taken control of the territories of Orissa, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.3503.a: "Liberate Orissa under a friendly government!" #NT!
+  
+ annexation_PAN_CONQ: "The Fate of Panama" #NT!
+ annexation_PAN_CONQ_DESC: "After a rapid campaign around the Panamá Canal, we have finally managed to shatter the Panamanian defences. Panamá City is now in our hands! We must now decide on the future of Panamá." #NT!
+ annex.1019.a: "Puppet a Panamanian Government" #NT!
+  
+ annexation_PAR_CONQ: "The Fate of Paraguay" #NT!
+ annexation_PAR_CONQ_DESC: "Our armies have finally taken control of the Paraguayan capital and occupy the territory of the former state of Paraguay. We should now decide how to set up a competent administration in the area." #NT!
+ annex.1031.a: "Puppet the Paraguayan Government" #NT!
+  
+ annexation_PASTARA_CONQ: "The Fate of Pastara" #NT!
+ annexation_PASTARA_CONQ_DESC: "The disputed region of Pastara is now under our control; thus we must decide what to do with it." #NT!
+ annex.1032.a: "Give it to Ecuador" #NT!
+ annex.1032.b: "Give it to Peru" #NT!
+  
+ annexation_PESHAWAR_CONQ: "The Fate of Peshawar" #NT!
+ annexation_PESHAWAR_CONQ_DESC: "The disputed region of Peshawar is now under our control; thus we must decide what to do with it." #NT!
+ annex.3518.a: "Give it to Afghanistan" #NT!
+ annex.3518.b: "Give it to India" #NT!
+ annex.3518.c: "Give it to the British Raj" #NT!
+  
+ annexation_PER_CONQ: "The Fate of Persia" #NT!
+ annexation_PER_CONQ_DESC: "After a long fight with the Persians, we have launched a full offensive and forced the Persian Army to surrender. [266.GetName] is now in our hands!" #NT!
+ annex.3008.a: "Liberate Persia!" #NT!
+  
+ annexation_PHI_CONQ: "The Fate of the Philippines" #NT!
+ annexation_PHI_CONQ_DESC: "Our armies have managed to take control of the Philippines, and the archipelago is now occupied by us. Should we organise a puppet government?" #NT!
+ annex.4012.a: "Liberate a loyal Filipino government." #NT!
+  
+ annexation_PHN_CONQ: "The Fate of Phoenicia" #NT!
+ annexation_PHN_CONQ_DESC: "Our armies have taken control of the Phoenician region, and the locals are clamouring for self-government. We should decide what's to be done with the region, as it would be difficult and expensive to hold otherwise." #NT!
+  
+ annexation_PIE_CONQ: "The Fate of Piedmont" #NT!
+ annexation_PIE_CONQ_DESC: "Our armies have taken control of the Piedmont region, and the locals are clamouring for self-government. We should decide what's to be done with the region, as it would be difficult and expensive to hold otherwise." #NT!
+ annex.132.a: "Release Piedmont" #NT!
+ annex.132.b: "Integrate the territories" #NT!
+ annex.132.c: "Transfer the territories to Italy" #NT!
+  
+ annexation_PNG_CONQ: "The Fate of Papua New Guinea" #NT!
+ annexation_PNG_CONQ_DESC: "Papua New Guinea has been brought under our leadership and our troops occupy the island. We must now decide what to do with it." #NT!
+ annex.5003.a: "Release Papua New Guinea as a puppet" #NT!
+ annex.5003.b: "Give it to [AST.GetName]" #NT!
+  
+ annexation_POL_CONQ: "The Fate of Poland" #NT!
+ annexation_POL_CONQ_DESC: "Our soldiers are marching through the streets of Warsaw after the Polish army surrendered early yesterday afternoon. Now we must decide what to do with their lands" #NT!
+ annexations.176.a: "Release a loyal Polish state" #NT!
+  
+ annexation_POR_CONQ: "The Fate of Portugal" #NT!
+  
+ annexations.100.a: "Restore the Portuguese Republic" #NT!
+ annexations.100.b: "Liberate the Kingdom of Portugal" #NT!
+  
+ annexation_PRU_CONQ: "The Fate of Peru" #NT!
+ annexation_PRU_CONQ_DESC: "After a campaign across the hostile Peruvian Andes, we have finally managed to shatter the Peruvian defences. Lima is now in our hands! We must now decide on the future of Peru." #NT!
+ annex.1033.a: "Liberate Peru under a friendly government!" #NT!
+  
+ annexation_PSA_CONQ: "The Fate of the West Coast" #NT!
+ annexation_PSA_CONQ_DESC: "The states in the west coast region of the former United States is now under our control; thus we must decide what to do with it." #NT!
+ annex.1006.a: "Create a puppet state in the West Coast" #NT!
+  
+ annexation_PUE_CONQ: "The Fate of Puerto Rico" #NT!
+ annexation_PUE_CONQ_DESC: "Following a brief campaign, San Juan has is under our control and with it all of Puerto Rico. What should be done with the Island?" #NT!
+ annex.1020.a: "Release an independent Puerto Rico" #NT!
+ annex.1020.b: "Integrate the island" #NT!
+  
+ annexation_PUN_CONQ: "The Fate of Punjab" #NT!
+ annexation_PUN_CONQ_DESC: "We have taken control of the territories of Punjab, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.3504.a: "Create a puppet state in Punjab" #NT!
+  
+ annexation_QUETTA_CONQ: "The Fate of Quetta" #NT!
+ annexation_QUETTA_CONQ_DESC: "The disputed region of Quetta is now under our control; thus we must decide what to do with it." #NT!
+ annex.3519.a: "Give it to Afghanistan" #NT!
+ annex.3519.b: "Give it to India" #NT!
+ annex.3519.c: "Give it to the British Raj" #NT!
+  
+ annexation_RHI_CONQ: "The Fate of the Rhineland" #NT!
+ annexation_RHI_CONQ_DESC: "The entire Rhenish region has been brought under our control. Currently our armed forces are facing some opposition from the local populations. We could leave it up to local governments in the region to take care of any dissent." #NT!
+ annexations.116.a: "Release a loyal Rhenish state" #NT!
+ annexations.116.b: "Integrate the territories" #NT!
+ annexations.116.c: "Transfer the territories to Germany" #NT!
+  
+ annexation_RJH_CONQ: "The Fate of Rajahstan" #NT!
+ annexation_RJH_CONQ_DESC: "We have taken control of the territories of Rajahstan, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.3507.a: "Create a puppet state in Rajahstan" #NT!
+  
+ annexation_ROM_CONQ: "The Fate of Romania" #NT!
+ annexation_ROM_CONQ_DESC: "The Romanian forces have finally capitulated to our superior might. The time as come to decide what to do with their lands." #NT!
+ annexations.38.a: "Liberate a [ROM.GetAdjective] state!" #NT!
+  
+ annexation_RUS_CONQ: "The Fate of Russian Far East" #NT!
+ annexation_RUS_CONQ_DESC: "After a long fight with the Russian state, we have launched a full offensive and forced the Russian armed forces to surrender. Vladivostok is now in our hands and the fate of the Russian Far East with it!" #NT!
+ annexations.209.a: "Create a Russian puppet state!" #NT!
+ annexations.209.b: "Give it to our [SOV.GetName] allies!" #NT!
+  
+ annexation_SABAH_CONQ: "The Fate of Sabah" #NT!
+ annexation_SABAH_CONQ_DESC: "The disputed territories of Sabah is now under our control; thus we must decide what to do with it." #NT!
+ annex.4013.a: "Give it to the Philippines" #NT!
+ annex.4013.b: "Give it to Insulindia" #NT!
+ annex.4013.c: "Give it to the British East Indies" #NT!
+  
+ annexation_SAF_CONQ: "The Fate of South Africa" #NT!
+ annexation_SAF_CONQ_DESC: "After a long fight with the South African state, we have launched a full offensive and forced the South African armed forces to surrender." #NT!
+ annex.2026.a: "Liberate South Africa!" #NT!
+  
+ annexation_SAR_CONQ: "The Fate of Sardinia" #NT!
+ annexation_SAR_CONQ_DESC: "We have taken control of the territories of Sardinia, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.157.a: "Release Sardinia as a puppet" #NT!
+  
+ annexation_SAU_CONQ: "The Fate of Saudi Arabia" #NT!
+ annexation_SAU_CONQ_DESC: "After a long fight with the Arabs, we have launched a full offensive and forced the Arabian Army to surrender. The fate of the Arabs in this land is now in our hands!" #NT!
+ annex.3005.a: "Puppet Arabia using the Sauds" #NT!
+  
+ annexation_SAXONY_CONQ: "The Fate of Saxony" #NT!
+ annexation_SAXONY_CONQ_DESC: "We have taken control of the territories of Saxony, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.139.a: "[german_hanover.GetGrantTerritoryEventOption]" #NT!
+ annex.139.b: "[german_brandenburg.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_SCH_CONQ: "The Fate of Sichuan" #NT!
+ annexation_SCH_CONQ_DESC: "We have taken control of the territories of Sichuan, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.4014.a: "Give to the Chinese government" #NT!
+ annex.4014.b: "Integrate the territories" #NT!
+  
+ annexation_SCO_CONQ: "The Fate of Scotland" #NT!
+ annexation_SCO_CONQ_DESC: "Scotland has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annex.140.a: "Release an independent Scotland loyal to us!" #NT!
+ annex.140.b: "Integrate the territories" #NT!
+ annex.140.c: "Transfer the territories to the British" #NT!
+  
+ annexation_SER_CONQ: "The Fate of Serbia" #NT!
+ annexation_SER_CONQ_DESC: "The Serbian State has been effectively eliminated and their army has completely capitulated to our forces. With our troops now parading in Belgrade, the time has come to decide what we must do with these lands." #NT!
+ annexations.139.a: "Form a unified Yugoslavian state!" #NT!
+ annexations.139.b: "Liberate a minimal Serbian state and we'll deal with the rest..." #NT!
+  
+ annexation_SHKODER_CONQ: "The Fate of Shkoder" #NT!
+ annexation_SHKODER_CONQ_DESC: "The disputed region of Shoker is now under our control; thus we must decide what to do with it." #NT!
+ annexations.141.a: "Give it to Serbia" #NT!
+ annexations.141.b: "Give it to Albania" #NT!
+  
+ annexation_SHO_CONQ: "The Fate of Schleswig-Holstein" #NT!
+ annexation_SHO_CONQ_DESC: "We have taken control of the territories of Schleswig-Holstein, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexations.117.a: "Release Schleswig-Holstein" #NT!
+ annexations.117.b: "Integrate the territories" #NT!
+ annexations.117.c: "Transfer the territories to Germany" #NT!
+  
+ annexation_SHX_CONQ: "The Fate of Shanxi" #NT!
+ annexation_SHX_CONQ_DESC: "We have taken control of the territories of Shanxi, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.4015.a: "Give it to the Chinese government" #NT!
+ annex.4015.b: "Integrate the territories" #NT!
+  
+ annexation_SIA_CONQ: "The Fate of Siam" #NT!
+ annexation_SIA_CONQ_DESC: "" #NT!
+ annex.4016.a: "Liberate a loyal [SIA.GetAdjective] Government" #NT!
+  
+ annexation_SIC_CONQ: "The Fate of Sicily" #NT!
+ annexation_SIC_CONQ_DESC: "Our armies have taken control of Silicy, and the locals are clamouring for self-government. We should decide what's to be done with the region, as it would be difficult and expensive to hold otherwise." #NT!
+ annex.143.a: "Create a loyal Silician state!" #NT!
+ annex.143.b: "Integrate the territories" #NT!
+ annex.143.c: "Transfer the territories to Italy" #NT!
+  
+ annexation_SIK_CONQ: "The Fate of Xinjiang" #NT!
+ annexation_SIK_CONQ_DESC: "After our successful campaign in Xinjiang we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice." #NT!
+ annex.4017.a: "Create an independent Xinjiang" #NT!
+ annex.4017.b: "Integrate the territories" #NT!
+  
+ annexation_SILESIA_CONQ: "The Fate of Silesia" #NT!
+ annexation_SILESIA_CONQ_DESC: "We have taken control of the territories of Silesia, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.144.a: "Release a loyal Prussian state" #NT!
+ annex.144.b: "[german_brandenburg.GetGrantTerritoryEventOption]" #NT!
+ annex.144.c: "[german_pomerania.GetGrantTerritoryEventOption]" #NT!
+ annex.144.e: "[POL.GetGrantTerritoryEventOption]" #NT!
+  
+ annex.145.a: "Liberate Slovakia under a friendly government!" #NT!
+ annex.145.b: "Transfer the lands to our Carpathian puppet!" #NT!
+ annex.145.c: "[HUN.GetGrantTerritoryEventOption]" #NT!
+ annex.145.e: "[CZE.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_SOV_CONQ: "The Fate of Russia" #NT!
+ annexation_SOV_CONQ_DESC: "After a long fight with the Russians, we have launched a full offensive and forced the Russian Army to surrender. Moscow is now in our hands and fate of the Russian nation with it!" #NT!
+ annexations.202.a: "Release a Russian puppet!" #NT!
+ annexations.202.b: "Give the territory to Russian Exiles" #NT!
+  
+ annexation_SMYRNA_CONQ: "The Fate of Smyrna" #NT!
+ annexation_SMYRNA_CONQ_DESC: "The disputed region of Smyrna is now under our control; " #NT!
+ annexations.161.a: "Give it to Greece" #NT!
+ annexations.161.b: "Give it to the Turkish" #NT!
+  
+ annexation_SPA_CONQ: "The Fate of Spain" #NT!
+ annexation_SPA_CONQ_DESC: "In the aftermath of the recent conflicts, we ended up controlling a number of territories that once belonged to the Spanish state. What should we do about them now?" #NT!
+ annex.147.b: "Restore the Kingdom of Spain" #NT!
+ annex.147.a: "Create a loyal Spanish puppet!" #NT!
+  
+ annexation_SRL_CONQ: "The Fate of Sri Lanka" #NT!
+ annexation_SRL_CONQ_DESC: "We have managed to drive the British from the island of Ceylon and secured the capital of Colombo thoroughly. Now, however, we need to figure out what to do with the damned rock." #NT!
+ annex.3511.a: "Create a puppet state in Ceylon!" #NT!
+  
+ annexation_SRV_CONQ: "The Fate of Venice" #NT!
+ annexation_SRV_CONQ_DESC: "Our armies have taken control of Venice, and the locals are clamouring for self-government. We should decide what's to be done with the region, as it would be difficult and expensive to hold otherwise." #NT!
+ annex.150.a: "Release Venice as a puppet" #NT!
+  
+ annexation_SWE_CONQ: "The Fate of Sweden" #NT!
+ annexation_SWE_CONQ_DESC: "Today, the Swedish Chief of Army has announced the surrender of the Army. Supplies and equipment were captured after the surrender and have been shipped back to our country. Total victory has been achieved, but what we should do with Sweden is an open question." #NT!
+ annexations.195.a: "Liberate a loyal Sweden!" #NT!
+  
+ annexation_SWI_CONQ: "The Fate of Switzerland" #NT!
+ annexation_SWI_CONQ_DESC: "After fierce fighting in the Alpine Mountains, we have finally conquered Switzerland. The Swiss army has surrendered, and their territory is under our control. What should we do with the land we now control?" #NT!
+ annex.155.a: "We must liberate Swiss lands!" #NT!
+  
+ annexation_SYR_CONQ: "The Fate of Syria" #NT!
+ annexation_SYR_CONQ_DESC: "We have conquered the wealthy lands of the Levant including the grand and ancient city of Damascus. What are we to do with these old Mesopotamian provinces?" #NT!
+ annex.3014.a: "Create an automous state of Syria!" #NT!
+  
+ annexation_TAO_KLARJETI_CONQ: "The Fate of Tao Klarjeti" #NT!
+ annexation_TAO_KLARJETI_CONQ_DESC: "The disputed region of Tao Klarjeti is now under our control; thus we must decide what to do with it." #NT!
+ annex.3015.a: "Give it to Georgia" #NT!
+ annex.3015.b: "Give it to Armenia" #NT!
+ annex.3015.c: "Give it to the Turks" #NT!
+  
+ annexation_TIB_CONQ: "The Fate of Tibet" #NT!
+ annexation_TIB_CONQ_DESC: "After our successful campaign in the Tibetan Plateau we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice." #NT!
+ annex.4018.a: "Restore independent Tibet." #NT!
+ annex.4018.b: "Integrate the territories" #NT!
+  
+ annexation_TIRHUT_CONQ: "The Fate of Tirhut" #NT!
+ annexation_TIRHUT_CONQ_DESC: "The disputed region of Tirhut is now under our control; thus we must decide what to do with it." #NT!
+ annex.3520.a: "Give it to Nepal" #NT!
+ annex.3520.b: "Give it to India" #NT!
+  
+ annexation_TRU_CONQ: "The Fate of the Trucial States" #NT!
+ annexation_TRU_CONQ_DESC: "The coastal Arabian emirates collectively known as the Trucial States are now under our control, we must decide what to do with this land." #NT!
+ annex.3017.a: "Create a friendly government in Abu Dhabi!" #NT!
+  
+ annexation_UPC_CONQ: "The Fate of Central Italy" #NT!
+ annexation_UPC_CONQ_DESC: "The territories in central Italy is now under our control; thus we must decide what to do with it." #NT!
+ annex.156.a: "Create a loyal state in the region" #NT!
+  
+ annexation_TRANSJORDAN_CONQ: "The Fate of Transjordan" #NT!
+ annexation_TRANSJORDAN_CONQ_DESC: "The disputed region of Transjordan is now under our control; thus we must decide what to do with it." #NT!
+ annex.3002.a: "Give it to Israel" #NT!
+ annex.3002.b: "Give it to Syria" #NT!
+  
+ annexation_TRANSYLVANIA_CONQ: "The Fate of Transylvania" #NT!
+ annexation_TRANSYLVANIA_CONQ_DESC: "The disputed region of Transylvania is now under our control; thus we must decide what to do with it." #NT!
+ annexations.33.a: "Give it to Hungary." #NT!
+ annexations.33.b: "Give it to Romania." #NT!
+ annexations.33.c: "Create an independent Transylvania!" #NT!
+  
+ annexation_ALFOLD_CONQ: "The Fate of Alfold" #NT!
+ annexation_ALFOLD_CONQ_DESC: "The disputed region of Alfold is now under our control; thus we must decide what to do with it." #NT!
+ annexations.31.a: "Give it to Hungary" #NT!
+ annexations.31.b: "Give it to Romania" #NT!
+  
+ annexation_TRK_CONQ: "The Fate of Turkestan" #NT!
+ annexation_TRK_CONQ_DESC: "Turkestan has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annex.4019.a: "Liberate the Turkestan Republic" #NT!
+ annex.4019.b: "Integrate the territories" #NT!
+  
+ annexation_TRV_CONQ: "The Fate of Travancore" #NT!
+ annexation_TRV_CONQ_DESC: "We have taken control of the territories of Travancore, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.3500.a: "Create a puppet state in Travancore!" #NT!
+  
+ annexation_TUN_CONQ: "The Fate of Tunisia" #NT!
+ annexation_TUN_CONQ_DESC: "After overwhelming the Tunisian defences, we have launched a full offensive and Tunis is now in our hands, along with the rest of Tunisia. The Bey and several nationalists are clamouring for self-governance, and some suggest they should be granted it. Alternatively, we could continue to occupy Tunisia. What should we do?" #NT!
+ annex.2035.a: "Liberate Tunisia!" #NT!
+ annex.2035.b: "Transfer to [Root.GetAdjective] North Africa" #NT!
+  
+ annexation_TUR_CONQ: "The Fate of Anatolia" #NT!
+ annexation_TUR_CONQ_DESC: "We have destroyed the last remnants of the Turkish state and finally put the 'sick man of Europe' in his grave. Our troops now patrol the streets of Ankara, yet we cannot remain as occupiers forever. A decision will have to be made in regards to the future government of the Turkish people." #NT!
+ annexations.166.a: "Create a puppet state in Anatolia!" #NT!
+  
+ annexation_UKR_CONQ: "The Fate of Ukraine" #NT!
+ annexation_UKR_CONQ_DESC: "After a long fight with the Breadbasket of Europe, we have launched a full offensive and forced the Ukrainian Army to surrender. Kiev is now in our hands!" #NT!
+ annexations.189.a: "Liberate a friendly Ukraine!" #NT!
+  
+ annexation_URG_CONQ: "The Fate of Uruguay" #NT!
+ annexation_URG_CONQ_DESC: "After a long campaign in Uruguay, we have finally managed to shatter their defences. We must now decide on the future of Uruguay." #NT!
+ annex.1035.a: "Liberate Uruguay under a friendly government!" #NT!
+  
+ annexation_USA_CONQ: "The Fate of America" #NT!
+ annexation_USA_CONQ_DESC: "Now that the war is over, we must decide what to do with our occupied land in America." #NT!
+ annex.1000.a: "Create an [USA.GetAdjective] puppet!" #NT!
+ annex.1000.b: "Disunite the Union" #NT!
+  
+ annexation_VAN_CONQ: "The Fate of Van" #NT!
+ annexation_VAN_CONQ_DESC: "The disputed region of Van is now under our control; thus we must decide what to do with it." #NT!
+ annex.3016.a: "Give it to the Turks" #NT!
+ annex.3016.b: "Give it to the Armenians" #NT!
+  
+ annexation_VIN_CONQ: "The Fate of Vietnam" #NT!
+ annexation_VIN_CONQ_DESC: "" #NT!
+ annex.4020.a: "Set up a puppet Vietnamese state." #NT!
+ annex.4020.b: "Integrate the territories" #NT!
+  
+ annexation_VEN_CONQ: "The Fate of Venezuela" #NT!
+ annexation_VEN_CONQ_DESC: "After a campaign across Venezuela, we have finally managed to shatter the Venezuelan defences. Caracas is now in our hands! We must now decide on the future of Venezuela." #NT!
+ annex.1036.a: "Liberate a loyal Venezuelan state." #NT!
+  
+ annexation_VRS_CONQ: "The Fate of European Russia" #NT!
+ annexation_VRS_CONQ_DESC: "After a campaign across the Soviet mainland, we have finally managed to make the Soviets retreat to the Urals. Moscow is now in our hands! We must now decide on the future of the Russian lands in Europe." #NT!
+ annex.185.a: "Create a puppet Russian Government in Moscow!" #NT!
+ annex.185.b: "Turn it over to [RUS.GetNameDef]" #NT!
+  
+ annexation_VLORE_CONQ: "The Fate of Vlore" #NT!
+ annexation_VLORE_CONQ_DESC: "The disputed region of Vlore is now under our control; thus we must decide what to do with it." #NT!
+ annexations.155.a: "Give it to the Italians" #NT!
+ annexations.155.b: "Give it to the Albanians" #NT!
+ annexations.155.c: "Give it to the Greeks" #NT!
+  
+ annexation_WES_CONQ: "The Fate of Western Sahara" #NT!
+ annexation_WES_CONQ_DESC: "The region of Western Sahara is now under our control; thus we must decide what to do with it." #NT!
+ annex.2039.a: "Form the state of Western Sahara!" #NT!
+ annex.2039.b: "Transfer the territory to Morocco!" #NT!
+ annex.2039.c: "Transfer the territory to [Root.GetAdjective] North Africa" #NT!
+  
+ annexation_WLL_CONQ: "The Fate of Wallonia" #NT!
+ annexation_WLL_CONQ_DESC: "We now control the French-speaking province of Wallonia, that once belonged to Belgium and Flanders-Wallonia. We must choose what to do with our new piece of Belgium." #NT!
+ annexations.108.a: "Liberate Wallonia" #NT!
+ annexations.108.b: "[flanders.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_WLS_CONQ: "The Fate of Wales" #NT!
+ annexation_WLS_CONQ_DESC: "Wales has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annex.151.a: "Release an independent Wales loyal to us!" #NT!
+ annex.151.b: "Integrate the territories" #NT!
+ annex.151.c: "Transfer the territories to the British" #NT!
+  
+ annexation_BANAT_CONQ: "The Fate of Banat" #NT!
+ annexation_BANAT_CONQ_DESC: "The disputed territory of Banat is now under our control; thus we must decide what to do with it." #NT!
+ annexations.34.a: "Give it to Hungary" #NT!
+ annexations.34.b: "Give it to Romania" #NT!
+ annexations.34.c: "Give it to Transylvania" #NT!
+  
+ annexation_CRISANA_CONQ: "The Fate of Crisana" #NT!
+ annexation_CRISANA_CONQ_DESC: "The disputed territory of Crisana is now under our control; thus we must decide what to do with it." #NT!
+ annex.183.a: "[alfold_owner.GetGrantTerritoryEventOption]" #NT!
+ annex.183.b: "[transylvania_owner.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_ORADEA_CONQ: "The Fate of Oradea" #NT!
+ annexation_ORADEA_CONQ_DESC: "The disputed territory of Oradea is now under our control; thus we must decide what to do with it." #NT!
+ annexations.32.a: "[alfold_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.32.b: "[transylvania_owner.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_WEST_PRUSSIA_CONQ: "The Fate of [85.GetName]" #NT!
+ annexation_WEST_PRUSSIA_CONQ_DESC: "The state of [85.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annex.107.a: "[poland.GetGrantTerritoryEventOption]" #NT!
+ annex.107.b: "[german_pomerania.GetGrantTerritoryEventOption]" #NT!
+ annex.107.c: "[german_masuria.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_POSEN_CONQ: "The Fate of [86.GetName]" #NT!
+ annexation_POSEN_CONQ_DESC: "The state of [86.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexations.177.a: "[poland.GetGrantTerritoryEventOption]" #NT!
+ annexations.177.b: "[german_silesia.GetGrantTerritoryEventOption]" #NT!
+ annexations.177.c: "[german_neumark.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_MASURIA_CONQ: "The Fate of [752.GetName]" #NT!
+ annexation_MASURIA_CONQ_DESC: "The state of [752.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexations.179.a: "[poland.GetGrantTerritoryEventOption]" #NT!
+ annexations.179.b: "[germany.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_WEST_BANAT_CONQ: "The Fate of West Banat" #NT!
+ annexation_WEST_BANAT_CONQ_DESC: "The disputed territory of West Banat is now under our control; thus we must decide what to do with it." #NT!
+ annexations.152.a: "[banat_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.152.b: "[vojvodina_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.152.c: "[serbia_owner.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_WEST_THRACE_CONQ: "The Fate of Western Thrace" #NT!
+ annexation_WEST_THRACE_CONQ_DESC: "The disputed region of Western Thrace is now under our control; " #NT!
+ annexations.160.a: "Give it to Greece" #NT!
+ annexations.160.b: "Give it to Bulgaria" #NT!
+  
+ annexation_XSM_CONQ: "The Fate of the Ma Clique" #NT!
+ annexation_XSM_CONQ_DESC: "We have taken control of the territories of the Ma Clique, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.4025.a: "Give to the Chinese government!" #NT!
+ annex.4025.b: "Integrate the territories" #NT!
+  
+ annexation_YEM_CONQ: "The Fate of Yemen" #NT!
+ annexation_YEM_CONQ_DESC: "After a long fight with the Yemenites, we have launched a full offensive and forced the Yemenite Army to surrender. Sana'a is now in our hands!" #NT!
+ annex.3006.a: "Liberate Yemen!" #NT!
+  
+ annexation_YUN_CONQ: "The Fate of Yunnan" #NT!
+ annexation_YUN_CONQ_DESC: "We have taken control of the territories of Yunan, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annex.4021.a: "Give to the Chinese government!" #NT!
+ annex.4021.b: "Integrate the territories" #NT!
+  
+ annexation_MAL_CONQ: "The Fate of Malaya" #NT!
+ annexation_MAL_CONQ_DESC: "" #NT!
+ annex.4009.a: "Liberate Malaya" #NT!
+  
+ annexation_HON_CONQ: "The Fate of Honduras" #NT!
+ annexation_HON_CONQ_DESC: "Our armies have put down the Honduran government and are patrolling the capital in Tegucigalpa. Which sort of government should be put in place instead?" #NT!
+ annex.1015.a: "Restore a loyal Honduran state." #NT!
+ annex.1015.b: "Annex the territories" #NT!
+  
+ annexation_BOT_CONQ: "The Fate of Botswana" #NT!
+ annexation_BOT_CONQ_DESC: "The protectorate of Botswana, switched from British to South African leadership has seen many changes and is now prime for independence. Should we create a Botswanan satellite?" #NT!
+ annex.2001.a: "Create a collaborationist government in Botswana!" #NT!
+  
+ annexation_BRD_CONQ: "The Fate of Burundi" #NT!
+ annexation_BRD_CONQ_DESC: "The region of Burundi has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annex.2002.a: "Form the state of Burundi" #NT!
+  
+ annexation_CAR_CONQ: "The Fate of Central Africa" #NT!
+ annexation_CAR_CONQ_DESC: "The region of Central Africa has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annex.2003.a: "Form the state of Central Africa." #NT!
+ annex.2003.b: "Establish a colony in the former Equitorial African Territories" #NT!
+  
+ annexation_CHA_CONQ: "The Fate of Chad" #NT!
+ annexation_CHA_CONQ_DESC: "Finally, our annexation of the region of Chad is complete, the former French colony is now in need of a competent administration to manage it. Given the difficulties it gave to France, between tribal and passive revolts, should we consider giving them autonomy to alleviate this burden?" #NT!
+ annex.2042.a: "Form the state of Chad." #NT!
+  
+ annexation_CMR_CONQ: "The Fate of Cameroon" #NT!
+ annexation_CMR_CONQ_DESC: "With our recent annexation of the colony of Cameroon, the former administration has fallen and this territory needs a new capable administration. The question is should it be ours or should it be a local one under our commands?" #NT!
+ annex.2005.a: "Form the state of Cameroon." #NT!
+ annex.2005.b: "Transfer the territories to Equitorial Africa" #NT!
+  
+ annexation_DJI_CONQ: "The Fate of Djibouti" #NT!
+ annexation_DJI_CONQ_DESC: "The region of Djibouti has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annex.2007.a: "Form the state of Djibouti" #NT!
+  
+ annexation_ERI_CONQ: "The Fate of Eritrea" #NT!
+ annexation_ERI_CONQ_DESC: "After our successful campaign in Eritrea we now have the task to establish new local administrative authority in order to restore peace, however, there are several options for our choice..." #NT!
+ annex.2009.a: "Release Eritrea under a friendly government!" #NT!
+  
+ annexation_GAB_CONQ: "The Fate of Gabon" #NT!
+ annexation_GAB_CONQ_DESC: "We now control the former French colony of Gabon and with it masses of Africans yearning to breathe free, should we give them this freedom under our close surveillance or is this dream vain?" #NT!
+ annex.2011.a: "Form the state of Gabon." #NT!
+  
+ annexation_GAM_CONQ: "The Fate of Gambia" #NT!
+ annexation_GAM_CONQ_DESC: "The region of Gambia has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annex.2012.a: "Form the state of Gambia." #NT!
+  
+ annexation_GDL_CONQ: "The Fate of Guadaloupe" #NT!
+ annexation_GDL_CONQ_DESC: "The region of Guadaloupe has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annex.2013.a: "Form the state of Guadaloupe." #NT!
+  
+ annexation_GHA_CONQ: "The Fate of Ghana" #NT!
+ annexation_GHA_CONQ_DESC: "The region of Ghana has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annex.2014.a: "Form the state of Ghana." #NT!
+  
+ annexation_GNA_CONQ: "The Fate of Guinea" #NT!
+ annexation_GNA_CONQ_DESC: "The former French colony of Guinea, divided between a traditional mountainous north and a colonial south has been annexed into our growing empire. We're now left with the complex task of organising this new territory, should we incorporate it directly into our structure of power or should we create a separate puppet state there?" #NT!
+ annex.2015.a: "Form the state of Guinea." #NT!
+  
+ annexation_GNB_CONQ: "The Fate of Guinea Bissau" #NT!
+ annexation_GNB_CONQ_DESC: "The region of Guinea Bissau has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annex.2016.a: "Liberate Guinea Bissau!" #NT!
+ annex.2016.b: "Transfer the territories to West Africa!" #NT!
+  
+ annexation_IVO_CONQ: "The Fate of Ivory Coast" #NT!
+ annexation_IVO_CONQ_DESC: "The Ivory Coast, once a French colony under Mittelafrika just got annexed into our glorious empire. Its inhabitants now demand a competent administration to take care of taxes or conscription, should we try to govern them from our capital or would a local limited government be a better solution?" #NT!
+ annex.2017.a: "Form the state of Ivory Coast." #NT!
+  
+ annexation_MLI_CONQ: "The Fate of Mali" #NT!
+ annexation_MLI_CONQ_DESC: "The valley of the Niger river, once known as French Sudan or Mali is now directly integrated into our territories. This colony though needs a better administration that we will have difficulties to provide, nevertheless, the local people and the remnants of the French administration can administer it for us to an extent, should we let them form a loyal puppet state?" #NT!
+ annex.2019.a: "Form the state of Mali." #NT!
+  
+ annexation_MRT_CONQ: "The Fate of Mauritania" #NT!
+ annexation_MRT_CONQ_DESC: "The desert region of Mauritania has come under the control of our armies. The former French colony, not even pacified 15 years ago, is now in need of a government to rule it efficiently to avoid the territory falling into anarchy once again. Should we consider creating a Mauritanian puppet state?" #NT!
+ annex.2021.a: "Form the state of Mauritania." #NT!
+  
+ annexation_NGA_CONQ: "The Fate of Nigeria" #NT!
+ annexation_NGA_CONQ_DESC: "The vast and rich colony of Nigeria is now under our control and with it comes the burden of having to administer it, could we delegate this task to an extent to a local puppet state?" #NT!
+ annex.2022.a: "Form the state of Nigeria." #NT!
+ annex.2022.b: "Transfer the lands to [NFA.GetName]" #NT!
+  
+ annexation_NGR_CONQ: "The Fate of Niger" #NT!
+ annexation_NGR_CONQ_DESC: "The region of Niger has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annex.2023.a: "Form the state if Niger!" #NT!
+  
+ annexation_NMB_CONQ: "The Fate of Namibia" #NT!
+ annexation_NMB_CONQ_DESC: "We annexed the former territories of South Africa, most commonly known as Namibia but we're now left to manage thousands of Africans in a territory we don't know about, should we institute a degree of self-determination or should we rule this place as a new colony?" #NT!
+ annex.2024.a: "Form the state of Namibia!" #NT!
+  
+ annexation_RWA_CONQ: "The Fate of Rwanda" #NT!
+ annexation_RWA_CONQ_DESC: "After the liberation of Rwanda from the Belgian colonial grip we're left with the choice to let the Rwandans govern themselves to an extent or not, should we do it?" #NT!
+ annex.2025.a: "Form the state of Rwanda." #NT!
+  
+ annexation_SEN_CONQ: "The Fate of Senegal" #NT!
+ annexation_SEN_CONQ_DESC: "The region of Senegal has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annex.2027.a: "Form the state of Senegal" #NT!
+ annex.2027.b: "Establish [Root.GetAdjective] West Africa!" #NT!
+  
+ annexation_SOM_CONQ: "The Fate of Somalia" #NT!
+ annexation_SOM_CONQ_DESC: "We now control the territories of the former Dervish state of Somalia and this inhospitable area populated by Somalis will prove itself to be hard to maintain through occupation, maybe we should let the Somalis organise themselves to an extent?" #NT!
+ annex.2028.a: "Create a loyal Somalia" #NT!
+  
+ annexation_TOG_CONQ: "The Fate of Togo" #NT!
+ annexation_TOG_CONQ_DESC: "The region of Togo has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annex.2029.a: "Form the state of Togo." #NT!
+  
+ annexation_TZN_CONQ: "The Fate of Tanzania" #NT!
+ annexation_TZN_CONQ_DESC: "The region of Tanzania has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annex.2030.a: "Form the state of Tanzania" #NT!
+  
+ annexation_UGA_CONQ: "The Fate of Uganda" #NT!
+ annexation_UGA_CONQ_DESC: "We now occupy the former British colony of Uganda and this region, populated and close from the Great Lakes is far from anything we could control, should we make it easier by giving them a level of self-autonomy or should we continue the occupation?" #NT!
+ annex.2031.a: "Form the state of Uganda." #NT!
+  
+ annexation_VOL_CONQ: "The Fate of Volta" #NT!
+ annexation_VOL_CONQ_DESC: "The ancient land of the Mossi around the region of the Volta have come to our control and are now a part of our country. Often divided and badly regarded by the colonial authorities, their people are now asking us for a chance to form their own state. Should we let them organise themselves to an extent?" #NT!
+ annex.2032.a: "Form the state of Upper Volta." #NT!
+  
+ annexation_ZIM_CONQ: "The Fate of Zimbabwe" #NT!
+ annexation_ZIM_CONQ_DESC: "The protectorate of Zimbabwe has seen many movements for independence during its time as a colony but none succeeded until now, with our annexation of the country, there is now hope that the Zimbabwean nation will be created, should we do it?" #NT!
+ annex.2033.a: "Form the state of Zimbabwe." #NT!
+  
+ annexation_TRI_CONQ: "The Fate of Trinidad" #NT!
+ annexation_TRI_CONQ_DESC: "The former colony of Trinidad is now under our control; thus we must decide what to do with it." #NT!
+ annex.1021.a: "Liberate a loyal state in Trinidad" #NT!
+  
+ annexation_SUR_CONQ: "The Fate of Suriname" #NT!
+ annexation_SUR_CONQ_DESC: "The former Dutch territory of Suriname is now under our control; thus we must decide what to do with it." #NT!
+ annex.1034.a: "Create a loyal state in Suriname" #NT!
+  
+ annexation_MZB_CONQ: "The Fate of Mozambique" #NT!
+ annexation_MZB_CONQ_DESC: "Our annexation of the former Portuguese colony of Mozambique left us to manage those millions of Africans far by the seas. Surely installing a local government will be easier for us to manage it, but should we trust the locals with that?" #NT!
+ annex.2040.a: "Form the state of Mozambique!" #NT!
+  
+ annexation_SIE_CONQ: "The Fate of Sierra Leone" #NT!
+ annexation_SIE_CONQ_DESC: "The former British colony of Sierra Leone, once a haven for former loyal British slaves, has been captured by our advancing armies and has been incorporated into our empire. But despite our best efforts its administration is revealing itself to be a difficulty for our untrained administrators, some have argued to give the territory a greater degree of autonomy, should we allow it?" #NT!
+ annex.2041.a: "They shall have their independence." #NT!
+  
+ annexation_SAARLAND_CONQ: "The Fate of Saarland" #NT!
+ annexation_SAARLAND_CONQ_DESC: "Our armies have taken control of Saarland after our last campaigns, a region disputed between France and Germany for the last 70 years. We must now decide what's to do with this land." #NT!
+ annex.181.a: "Give it to [16.owner.GetNameDef]" #NT!
+ annex.181.b: "Give it to [64.owner.GetNameDef]" #NT!
+  
+ annexation_HAW_CONQ: "The Fate of Hawaii" #NT!
+ annexation_HAW_CONQ_DESC: "The islands of Hawaii have been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annex.5004.a: "Restore the Kingdom of Hawaii!" #NT!
+ annex.5004.b: "Give it to our [385.owner.GetNameDef] allies" #NT!
+ annex.5004.c: "Integrate it into the Union" #NT!
+  
+ annexation_SULAWESI_CONQ: "The Fate of Sulawesi" #NT!
+ annexation_SULAWESI_CONQ_DESC: "The resource rich lands of Sulawesi have been brought under our control as our troops occupy the region. We must not decide what to do with it." #NT!
+ annex.4023.a: "Give it to Insulindia" #NT!
+ annex.4023.b: "Transfer to the British East Indies" #NT!
+ annex.4023.c: "Integrate the territories" #NT!
+  
+ annexation_MOLUCCAS_CONQ: "The Fate of the Moluccas" #NT!
+ annexation_MOLUCCAS_CONQ_DESC: "The resource rich lands of the Moluccas have been brought under our control as our troops occupy the region. We must not decide what to do with it." #NT!
+ annex.4024.a: "Give it to Insulindia" #NT!
+ annex.4024.b: "Transfer to the British East Indies" #NT!
+ annex.4024.c: "Integrate the territories" #NT!
+  
+ annexation_SARNY_CONQ: "The Fate of Sarny" #NT!
+ annexation_SARNY_CONQ_DESC: "Our armies have taken control of Sarny after our last campaigns, a region disputed between Belarus and Ukraine for the last centuries. We must now decide what's to do with this land." #NT!
+ annexations.193.a: "Give it to [UKR.GetName]" #NT!
+ annexations.193.b: "Give it to [BLR.GetName]" #NT!
+  
+ annexation_LUHANSK_CONQ: "The Fate of Donetsk and Luhansk" #NT!
+ annexation_LUHANSK_CONQ_DESC: "Our armies have taken control of Donetsk and Luhansk after our last campaigns, a region disputed between Ukraine and the Soviet Union for the last centuries. We must now decide what's to do with this land." #NT!
+ annexations.190.a: "Give it to [UKR.GetName]" #NT!
+ annexations.190.b: "Give it to [SOV.GetName]" #NT!
+  
+ annexation_CRO_CONQ: "The Fate of Croatia" #NT!
+ annexation_CRO_CONQ_DESC: "We have taken control of the Croatian territories, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexations.149.a: "Create a Croatian state!" #NT!
+ annexations.149.b: "[SER.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_MNT_CONQ: "The Fate of Montenegro" #NT!
+ annexation_MNT_CONQ_DESC: "Montenegro is now firmly held in our hands after our occupation of the area, yet we can't stay in inhospitable Montenegro forever. We must decide what to do with it." #NT!
+ annexations.140.a: "Create the State of Montenegro!" #NT!
+ annexations.140.b: "[SER.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_SLV_CONQ: "The Fate of Slovenia" #NT!
+ annexation_SLV_CONQ_DESC: "Our troops have occupied the small region of Slovenia, and we must decide what to do with it." #NT!
+ annexations.150.a: "Create a Slovene state!" #NT!
+ annexations.150.b: "[slovenia_north.GetGrantTerritoryEventOption]" #NT!
+ annexations.150.c: "[slovenia_south.GetGrantTerritoryEventOption]" #NT!
+ annexations.150.d: "Integrate it!" #NT!
+  
+ annexation_PIROT_CONQ: "The Fate of Pirot" #NT!
+ annexation_PIROT_CONQ_DESC: "We have taken control of the disputed territory of Pirot. We must decide what to do with it." #NT!
+ annexations.145.a: "[macedonia_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.145.b: "[sofiya_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.145.c: "[morava_owner.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_GORSKI_KOTAR_CONQ: "The Fate of Gorski Kotar" #NT!
+ annexation_GORSKI_KOTAR_CONQ_DESC: "We have taken control of the disputed territory of Gorski Kotar. We must decide what to do with it." #NT!
+ annex.194.a: "[italian_istria.GetGrantTerritoryEventOption]" #NT!
+ annex.194.b: "[slavic_slavonija.GetGrantTerritoryEventOption]" #NT!
+ annex.194.c: "[slavic_hercegovina.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_FIUME_CONQ: "The Fate of Fiume" #NT!
+ annexation_FIUME_CONQ_DESC: "We have taken control of the former Italian city of Fiume. We must decide what to do with it." #NT!
+ annexations.174.a: "[italian_istria.GetGrantTerritoryEventOption]" #NT!
+ annexations.174.b: "[slavic_gorski_kotar.GetGrantTerritoryEventOption]" #NT!
+ annexations.174.c: "[slavic_ljubljana.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_BOS_CONQ: "The Fate of Bosnia" #NT!
+ annexation_BOS_CONQ_DESC: "The divided state of Bosnia is now under our occupation after our invasion of its territory. Our troops are parading in Sarajevo and we must decide what to do with it." #NT!
+ annexations.146.a: "Create a Bosnian state!" #NT!
+ annexations.146.b: "Split it between Croatia and Serbia." #NT!
+ annexations.146.c: "[CRO.GetGrantTerritoryEventOption]" #NT!
+ annexations.146.e: "[SER.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_ZARA_CONQ: "The Fate of Zara" #NT!
+ annexation_ZARA_CONQ_DESC: "We have taken control of the former Italian city of Zara. We must decide what to do with it." #NT!
+ annexations.175.a: "[italian_istria.GetGrantTerritoryEventOption]" #NT!
+ annexations.175.b: "[slavic_gorski_kotar.GetGrantTerritoryEventOption]" #NT!
+ annexations.175.c: "[slavic_hercegovina.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_SPLIT_CONQ: "The Fate of Split" #NT!
+ annexation_SPLIT_CONQ_DESC: "We have taken control of a section of the Dalmatian coast that contains the city of Split. We must decide what to do with it." #NT!
+ annexations.147.a: "[zara_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.147.b: "[hercegovina_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.147.c: "[CRO.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_SJEVERNI_CONQ: "The Fate of Sjeverni" #NT!
+ annexation_SJEVERNI_CONQ_DESC: "We have taken control of northern Montenegro, also known as Sjeverni. We must decide what to do with it." #NT!
+ annex.199.a: "[crna_gora_owner.GetGrantTerritoryEventOption]" #NT!
+ annex.199.b: "[morava_owner.GetGrantTerritoryEventOption]" #NT!
+ annex.199.c: "[SER.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_DUBROVNIK_CONQ: "The Fate of Dubrovnik" #NT!
+ annexation_DUBROVNIK_CONQ_DESC: "We have taken control of a section of the Dalmatian coast that contains the city of Dubrovnik. We must decide what to do with it." #NT!
+ annexations.148.a: "[zara_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.148.b: "[west_hercegovina_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.148.c: "[CRO.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_VOJVODINA_CONQ: "The Fate of Vojvodina" #NT!
+ annexation_VOJVODINA_CONQ_DESC: "The small region of Vojvodina is now under our control, we must decide what to do with it." #NT!
+ annexations.153.a: "Create a new government in Vojvodina!" #NT!
+ annexations.153.b: "[pecs_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.153.c: "[ruma_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.153.e: "We must ensure that this area is bound to the Reich!" #NT!
+ annexations.153.serbia: "[SER.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_MCD_CONQ: "The Fate of Macedonia" #NT!
+ annexation_MCD_CONQ_DESC: "The small state of Macedonia is now under our control, we must decide what to do with it." #NT!
+ annexations.143.a: "Create a Macedonian government!" #NT!
+ annexations.143.b: "[morava_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.143.c: "[sofiya_owner.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_KOS_CONQ: "The Fate of Kosovo" #NT!
+ annexation_KOS_CONQ_DESC: "The small state of Kosovo is now under our control, we must decide what to do with it." #NT!
+ annexations.142.a: "[morava_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.142.b: "[shkoder_owner.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_BITOLA_CONQ: "The Fate of Bitola" #NT!
+ annexation_BITOLA_CONQ_DESC: "The small territory of Bitola is now under our control, we must decide what to do with it." #NT!
+ annexations.144.a: "[central_macedonia_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.144.b: "[smolyan_owner.GetGrantTerritoryEventOption]" #NT!
+ annexations.144.c: "[north_macedonia_owner.GetGrantTerritoryEventOption]" #NT!
+  
+ annexation_ISTRIA_CONQ: "The Fate of Istria" #NT!
+ annexation_ISTRIA_CONQ_DESC: "The small territory of Istria is now under our control, we must decide what to do with it." #NT!
+ annexations.173.a: "[italian_state.GetGrantTerritoryEventOption]" #NT!
+ annexations.173.b: "[yugoslav_state.GetGrantTerritoryEventOption]" #NT!
+ annexations.173.c: "[austrian_state.GetGrantTerritoryEventOption]" #NT!
+  
+  
+  
+ annexation_generic_conq: "The Fate of [GetAnnexationDecisionName]" #NT!
+ annexation_generic_conq_desc: "[GetAnnexationDecisionDesc]" #NT!
+ annexation_decision_tt: "Gets event '§Y$annexation_generic_conq$§!'." #NT!
+  
+  
+ annexation_generic_conq_event: "The Fate of [GetAnnexationEventName]" #NT!
+ annexation_generic_conq_event_desc: "[GetAnnexationEventDesc]" #NT!
+  
+ annexation_resistance_target: "Under Military Occupation" #NT!
+  
+ annexation_POR_CONQ_DESC: "" #NT!
+  
+ ### REGIONS FOR NEW SYSTEM!! 
+  
+ #! @REGIONMAKER REGIONS LOC START 
+ annexation_region_0: "Portugal" #NT!
+ annexation_region_0_desc: "The government in Lisbon has finally been forced into the sea, but we are left with the fate of the Portuguese people to decide. Do we release them as their own nation following our rightly guided principles?" #NT!
+ annexation_region_1: "Spain" #NT!
+ annexation_region_1_desc: "In the aftermath of the recent conflicts, we ended up controlling a number of territories that once belonged to the Spanish state. What should we do about them now?" #NT!
+ annexation_region_2: "France" #NT!
+ annexation_region_2_desc: "The French state has been forced to capitulate, and our troops are parading in their capital in Paris. What should we do with the remnants of their state?" #NT!
+ annexation_region_3: "Alsace-Lorraine" #NT!
+ annexation_region_3_desc: "Our armies have taken control of Alsace-Lorraine after our last campaigns, a region disputed between France and Germany for the last 70 years. We must now decide what's to do with this land." #NT!
+ annexation_region_4: "Savoy" #NT!
+ annexation_region_4_desc: "Our armies have taken control of Savoy, which although not hotly contested still remains a region disputed between Italy and France. What should we do?" #NT!
+ annexation_region_5: "Nice" #NT!
+ annexation_region_5_desc: "Our armies have taken control of Nice, which although not hotly contested still remains a region disputed between Italy and France. What should we do?" #NT!
+ annexation_region_6: "Luxembourg" #NT!
+ annexation_region_6_desc: "We have taken control of the territories of Luxembourg, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_7: "Flanders" #NT!
+ annexation_region_7_desc: "After a short campaign across the fields of Flanders we now control the region and we must decide what to do with it." #NT!
+ annexation_region_8: "Wallonia" #NT!
+ annexation_region_8_desc: "We now control the French-speaking province of Wallonia, that once belonged to Belgium and Flanders-Wallonia. We must choose what to do with our new piece of Belgium." #NT!
+ annexation_region_9: "Eupen-Malmedy" #NT!
+ annexation_region_9_desc: "Our armies have taken control of Eupen-Malmedy, a small region with a particularly strong German presence. What should we do with it?" #NT!
+ annexation_region_10: "Limburg" #NT!
+ annexation_region_10_desc: "The former Belgian provinces of Limburg is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_11: "Zeuss-Flanders" #NT!
+ annexation_region_11_desc: "The former Belgian provinces of Zeuss-Vlaanderen is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_12: "Netherlands" #NT!
+ annexation_region_12_desc: "After a short campaign across the marshes and the urban centres of the Netherlands, we have managed to take down the proud nation. The Netherlands are now in our hands! We must now decide on its future." #NT!
+ annexation_region_13: "Britain" #NT!
+ annexation_region_13_desc: "Our armies have managed to take control of the Britain, and the island itself is now occupied by us. We have a few options in front of us, now. We can either puppet the island or take it for ourselves, seeing as it possesses a key position in the Atlantic and is crucial to retaining control of that area. What shall we do?" #NT!
+ annexation_region_14: "Northern Ireland" #NT!
+ annexation_region_14_desc: "We have taken control of Northern Ireland, a region of Ireland where Unionists are particularly dominant. What shall we do with it?" #NT!
+ annexation_region_15: "Ireland" #NT!
+ annexation_region_15_desc: "We have secured the island of Ireland. The fate of the Irish nation lies in our hands now." #NT!
+ annexation_region_16: "Rhineland" #NT!
+ annexation_region_16_desc: "The entire Rhenish region has been brought under our control. Currently our armed forces are facing some opposition from the local populations. We could leave it up to local governments in the region to take care of any dissent." #NT!
+ annexation_region_17: "Kiel" #NT!
+ annexation_region_17_desc: "We have taken control of the territories of Schleswig-Holstein, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_18: "Germany" #NT!
+ annexation_region_18_desc: "The German state has been forced to capitulate, and our troops are parading in their capital in Berlin. What should we do with the remnants of their state?" #NT!
+ annexation_region_19: "West Prussia" #NT!
+ annexation_region_19_desc: "The state of [85.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_20: "Danzig" #NT!
+ annexation_region_20_desc: "The city of Danzig and its majority-German population has been brought under our control, what shall we do with it?" #NT!
+ annexation_region_21: "Austria" #NT!
+ annexation_region_21_desc: "Austria has been forced to capitulate and our troops are patrolling the streets of Vienna to prevent a rebellion or anything that could cause further instability. However, some have proposed that creating a local Austrian government would be more helpful." #NT!
+ annexation_region_22: "Burgenland" #NT!
+ annexation_region_22_desc: "The disputed territories of Burgenland is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_23: "Voralberg" #NT!
+ annexation_region_23_desc: "The disputed territories of Switzerland is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_24: "Switzerland" #NT!
+ annexation_region_24_desc: "After fierce fighting in the Alpine Mountains, we have finally conquered Switzerland. The Swiss army has surrendered, and their territory is under our control. What should we do with the land we now control?" #NT!
+ annexation_region_25: "Sudetenland" #NT!
+ annexation_region_25_desc: "The Sudetenland, a newly-popular name for the land of the German Bohemians has now fallen under control. What are we to do with it?" #NT!
+ annexation_region_26: "Bohemia" #NT!
+ annexation_region_26_desc: "The ancient heartland of the Czechs have been conquered by our victorious forces. The venerable gem of the Moldau, Prague, is occupied by our troops who parade smartly across the Wenceslas Square. Should we prop up a Czech government loyal to the designs of our own state or maintain this splendid military occupation?" #NT!
+ annexation_region_27: "Slovakia" #NT!
+ annexation_region_27_desc: "After a short campaign across the mountains of Slovakia, we have managed to shatter the defences of the country. Slovakia is now in our hands! We must now decide on the future of it." #NT!
+ annexation_region_28: "South Slovakia" #NT!
+ annexation_region_28_desc: "The disputed region of South Slovakia has fallen into our hands, what shall we do with it?" #NT!
+ annexation_region_29: "Carpathian Ruthenia" #NT!
+ annexation_region_29_desc: "The disputed region of Carpathian Ruthenia has fallen into our hands, what shall we do with it?" #NT!
+ annexation_region_30: "Hungary" #NT!
+ annexation_region_30_desc: "The Hungarian nation has been completely defeated. Our forces are policing the streets of Budapest and partisans are being detained all across the countryside, but should this state of affairs remain permanent? What should we do with the Hungarian lands?" #NT!
+ annexation_region_31: "Alfold" #NT!
+ annexation_region_31_desc: "The disputed region of Alfold is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_32: "Crisana" #NT!
+ annexation_region_32_desc: "The disputed region of Crisana is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_33: "Transylvania" #NT!
+ annexation_region_33_desc: "The disputed region of Transylvania is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_34: "Banat" #NT!
+ annexation_region_34_desc: "The disputed territory of Banat is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_35: "Bucovina" #NT!
+ annexation_region_35_desc: "The disputed territory of Bucovina is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_36: "Bessarabia" #NT!
+ annexation_region_36_desc: "The disputed territory of Bessarabia is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_37: "South Dobruja" #NT!
+ annexation_region_37_desc: "The disputed territory of South Dobruja is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_38: "Romania" #NT!
+ annexation_region_38_desc: "The Romanian forces have finally capitulated to our superior might. The time as come to decide what to do with their lands." #NT!
+ annexation_region_39: "Serbia" #NT!
+ annexation_region_39_desc: "The Serbian State has been effectively eliminated and their army has completely capitulated to our forces. With our troops now parading in Belgrade, the time has come to decide what we must do with these lands." #NT!
+ annexation_region_40: "Montenegro" #NT!
+ annexation_region_40_desc: "Montenegro is now firmly held in our hands after our occupation of the area, yet we can't stay in inhospitable Montenegro forever. We must decide what to do with it." #NT!
+ annexation_region_41: "Shkoder" #NT!
+ annexation_region_41_desc: "The disputed region of Shkoder is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_42: "Kosovo" #NT!
+ annexation_region_42_desc: "The small state of Kosovo is now under our control, we must decide what to do with it." #NT!
+ annexation_region_43: "Skopje" #NT!
+ annexation_region_43_desc: "The small region of Vardar Macedonia is now under our control, we must decide what to do with it." #NT!
+ annexation_region_44: "Bitola" #NT!
+ annexation_region_44_desc: "The small territory of Bitola is now under our control, we must decide what to do with it." #NT!
+ annexation_region_45: "Pirot" #NT!
+ annexation_region_45_desc: "We have taken control of the disputed territory of Pirot. We must decide what to do with it." #NT!
+ annexation_region_46: "Bosnia" #NT!
+ annexation_region_46_desc: "The divided state of Bosnia is now under our occupation after our invasion of its territory. Our troops are parading in Sarajevo and we must decide what to do with it." #NT!
+ annexation_region_47: "Split" #NT!
+ annexation_region_47_desc: "We have taken control of a section of the Dalmatian coast that contains the city of Split. We must decide what to do with it." #NT!
+ annexation_region_48: "Dubrovnik" #NT!
+ annexation_region_48_desc: "We have taken control of a section of the Dalmatian coast that contains the city of Dubrovnik. We must decide what to do with it." #NT!
+ annexation_region_49: "Croatia" #NT!
+ annexation_region_49_desc: "We have taken control of the Croatian territories, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_50: "Slovenia" #NT!
+ annexation_region_50_desc: "Our troops have occupied the small region of Slovenia, and we must decide what to do with it." #NT!
+ annexation_region_51: "Ruma" #NT!
+ annexation_region_51_desc: "Our troops have occupied the small region of Ruma, and we must decide what to do with it." #NT!
+ annexation_region_52: "Western Banat" #NT!
+ annexation_region_52_desc: "The disputed territory of West Banat is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_53: "Vojvodina" #NT!
+ annexation_region_53_desc: "The small region of Vojvodina is now under our control, we must decide what to do with it." #NT!
+ annexation_region_54: "Albania" #NT!
+ annexation_region_54_desc: "After a campaign across the Albanian countryside, our enemies in Tirana have finally capitulated, leaving us with the control of their country. Our position in the Adriatic has been cemented, but we must now decide what to do with Albania." #NT!
+ annexation_region_55: "Vlore" #NT!
+ annexation_region_55_desc: "The disputed region of Vlore is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_56: "North Epirus" #NT!
+ annexation_region_56_desc: "The disputed region of North Epirus is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_57: "Greece" #NT!
+ annexation_region_57_desc: "The Greek Peninsula has been secured and the entire Greek army has capitulated. The fate of the entire Greek nation lies in our hands..." #NT!
+ annexation_region_58: "Eastern Macedonia" #NT!
+ annexation_region_58_desc: "The disputed region of Eastern Macedonia is now under our control; and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_59: "Western Thrace" #NT!
+ annexation_region_59_desc: "The disputed region of Western Thrace is now under our control; and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_60: "Eastern Thrace" #NT!
+ annexation_region_60_desc: "The disputed region of Eastern Thrace is now under our control; and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_61: "Aegean Coast" #NT!
+ annexation_region_61_desc: "The disputed region of Smyrna is now under our control; and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_62: "Constantinople" #NT!
+ annexation_region_62_desc: "The disputed city and former jewel of the East - Constantinople - is now under our control; we must decide what to do with this city." #NT!
+ annexation_region_63: "the Straits" #NT!
+ annexation_region_63_desc: "The disputed region of the Bosphorus Straits is now under our control; and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_64: "Bulgaria" #NT!
+ annexation_region_64_desc: "After a long fight with the Bulgarians, we have launched a full offensive and forced the Bulgarian Army to surrender. Sofia is now in our hands! What should we do with their lands?" #NT!
+ annexation_region_65: "South Anatolia" #NT!
+ annexation_region_65_desc: "The region of South Anatolia is now under our control; and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_66: "Turkey" #NT!
+ annexation_region_66_desc: "We have destroyed the last remnants of the Turkish state and finally put the 'sick man of Europe' in his grave. Our troops now patrol the streets of Ankara, yet we cannot remain as occupiers forever. A decision will have to be made in regards to the future government of the Turkish people." #NT!
+ annexation_region_67: "Cyprus" #NT!
+ annexation_region_67_desc: "Our armies have managed to take control of Cyprus, and the island itself is now occupied by us. We have a few options in front of us, now. We can either puppet the island or take it for ourselves, seeing as it possesses a key position in the Mediterranean and is crucial to retaining control of that area. What shall we do?" #NT!
+ annexation_region_68: "Ellispontos" #NT!
+ annexation_region_68_desc: "The disputed region of Dardanella is now under our control; " #NT!
+ annexation_region_69: "Italy" #NT!
+ annexation_region_69_desc: "With the majority of the Italian peninsula under our control, it is up to us to decide what will become of the region. Will it be released as a single entity under our control, powerful but perhaps difficult to control? Or should we decide what to do with each part of it separately?" #NT!
+ annexation_region_70: "South Tyrol" #NT!
+ annexation_region_70_desc: "The disputed region of Southern Tyrol is now under our control; and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_71: "Trentino" #NT!
+ annexation_region_71_desc: "The disputed region of Trentino is now under our control; and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_72: "Trieste" #NT!
+ annexation_region_72_desc: "The formerly free city of Trieste is now under our control, we must decide what to do with it." #NT!
+ annexation_region_73: "Istria" #NT!
+ annexation_region_73_desc: "The small territory of Istria is now under our control, we must decide what to do with it." #NT!
+ annexation_region_74: "Fiume" #NT!
+ annexation_region_74_desc: "We have taken control of the former Italian city of Fiume. We must decide what to do with it." #NT!
+ annexation_region_75: "Dalmatia" #NT!
+ annexation_region_75_desc: "We have taken control of the former Italian city of Zara. We must decide what to do with it." #NT!
+ annexation_region_76: "Poland" #NT!
+ annexation_region_76_desc: "Our soldiers are marching through the streets of Warsaw after the Polish army surrendered early yesterday afternoon. Now we must decide what to do with their lands" #NT!
+ annexation_region_77: "Poznan" #NT!
+ annexation_region_77_desc: "The state of [86.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_78: "Katowice" #NT!
+ annexation_region_78_desc: "The state of [67.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_79: "Mazury" #NT!
+ annexation_region_79_desc: "The state of [752.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_80: "Bialystok" #NT!
+ annexation_region_80_desc: "The state of [889.GetName] has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_81: "Galicia" #NT!
+ annexation_region_81_desc: "The region of Galicia has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_82: "Lithuania" #NT!
+ annexation_region_82_desc: "Lithuania has been brought under our leadership and our troops occupy the area. We must now decide what to do with it." #NT!
+ annexation_region_83: "Memel" #NT!
+ annexation_region_83_desc: "The region of Memel has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_84: "Latvia" #NT!
+ annexation_region_84_desc: "Much of Latvia has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_85: "Dvinsk" #NT!
+ annexation_region_85_desc: "The region of Dvinsk has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_86: "Estonia" #NT!
+ annexation_region_86_desc: "Much of Estonia has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_87: "Belarus" #NT!
+ annexation_region_87_desc: "After a short campaign across Belarus, we have managed to shatter the defences of Minsk. Belarus is now in our hands! We must now decide on the future of it." #NT!
+ annexation_region_88: "Mozyr" #NT!
+ annexation_region_88_desc: "The region of Mozyr has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_89: "Ukraine" #NT!
+ annexation_region_89_desc: "After a long fight with the Breadbasket of Europe, we have launched a full offensive and forced the Ukrainian Army to surrender. Kiev is now in our hands!" #NT!
+ annexation_region_90: "Donetsk And Luhansk" #NT!
+ annexation_region_90_desc: "Our armies have taken control of Donetsk and Luhansk after our last campaigns, a region disputed between Ukraine and the Soviet Union for the last centuries. We must now decide what's to do with this land." #NT!
+ annexation_region_91: "Crimea" #NT!
+ annexation_region_91_desc: "The region of Crimea has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_92: "Volhynia And Polesie" #NT!
+ annexation_region_92_desc: "Both Volhynia and Polesie have been brought under our control. We must now decide what to do with it." #NT!
+ annexation_region_93: "South Pinsk" #NT!
+ annexation_region_93_desc: "The region of South Pinsk have been brought under our control. We must now decide what to do with it." #NT!
+ annexation_region_94: "Denmark" #NT!
+ annexation_region_94_desc: "After a short campaign across the numerous islands of Denmark and the capture of its capital, we have managed to take down the country. Copenhagen is now in our hands! The status of the Atlantic islands of Denmark is a particularly interesting case to deal with but we'll anyway have to decide on the future of Denmark." #NT!
+ annexation_region_95: "Sweden" #NT!
+ annexation_region_95_desc: "Today, the Swedish Chief of Army has announced the surrender of the Army. Supplies and equipment were captured after the surrender and have been shipped back to our country. Total victory has been achieved, but what we should do with Sweden is an open question." #NT!
+ annexation_region_96: "Norway" #NT!
+ annexation_region_96_desc: "The Norwegian Army has surrendered, and we have completely capitulated the Norwegian government. Our flag waves over the former capitol building in Oslo as our military campaign comes to an end. Now we must begin a campaign to destroy the Norwegian partisans, but perhaps enlisting Norwegian sympathizers to form a government would aid us?" #NT!
+ annexation_region_97: "Finland" #NT!
+ annexation_region_97_desc: "The Finnish soldiers have been defeated and our army is marching through Helsinki. Now we must deal with the question of how best to administer the Finns." #NT!
+ annexation_region_98: "Karelia" #NT!
+ annexation_region_98_desc: "The region of Karelia have been brought under our control. We must now decide what to do with it." #NT!
+ annexation_region_99: "Aland" #NT!
+ annexation_region_99_desc: "With the Baltic island of Åland now under our control, we must decide what to do with it." #NT!
+ annexation_region_100: "Iceland" #NT!
+ annexation_region_100_desc: "A campaign in the Northern Atlantic has paid off: Iceland has fallen in our hands and the question now is what we should do with this barren island in the northern Atlantic?" #NT!
+ annexation_region_101: "Greenland" #NT!
+ annexation_region_101_desc: "A campaign in the Northern Atlantic has paid off: Greenland has fallen in our hands and the question now is what we should do with this barren island in the northern Atlantic?" #NT!
+ annexation_region_102: "Soviet Union" #NT!
+ annexation_region_102_desc: "After a long fight with the Soviet government, we have launched a full offensive and forced the Red Army to surrender. Moscow is now in our hands and fate of the Russian nation with it!" #NT!
+ annexation_region_103: "Kurdistan" #NT!
+ annexation_region_103_desc: "Our armies have taken control of the northern part of the Levant, and the local Kurdish population is clamouring for self-government. We should decide what's to be done with the region." #NT!
+ annexation_region_104: "Armenia" #NT!
+ annexation_region_104_desc: "After fierce fighting in the Caucasus, we have conquered and annexed Armenia. The Armenian army has surrendered, and the territory is under our control, but the people are still resistant but soon they will submit." #NT!
+ annexation_region_105: "Eastern Anatolia" #NT!
+ annexation_region_105_desc: "The region of Eastern Anatolia have been brought under our control. We must now decide what to do with it." #NT!
+ annexation_region_106: "Azerbaijan" #NT!
+ annexation_region_106_desc: "After fierce fighting in the Caucasus, we have conquered and annexed Azerbaijan. The Azeri army has surrendered, and their territory is under our control, but the people are still resistant. What should we do with our newly conquered lands?" #NT!
+ annexation_region_107: "Tao-Klarjeti" #NT!
+ annexation_region_107_desc: "The disputed region of Tao Klarjeti is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_108: "Lori" #NT!
+ annexation_region_108_desc: "The disputed region of Lori is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_109: "Russia" #NT!
+ annexation_region_109_desc: "After a long fight with the white-Russian state, we have launched a full offensive and forced the White Army to surrender. Vladivostok is now in our hands and the fate of the Russian Far East with it!" #NT!
+ annexation_region_110: "Georgia" #NT!
+ annexation_region_110_desc: "Our armed forces have defeated the Georgian regime and is now triumphantly marching through the streets of Tbilisi. Now the only thing that remains to do is to determine status of the Georgian territory..." #NT!
+ annexation_region_111: "Mountain Republic" #NT!
+ annexation_region_111_desc: "Our armed forces have defeated the Mountain Republic and is now triumphantly marching through the streets in their capital. Now the only thing that remains to do is to determine status of the conquered territory..." #NT!
+ annexation_region_112: "Iraq" #NT!
+ annexation_region_112_desc: "We have conquered the fertile lands of Iraq including the grand and ancient city of Baghdad. What are we to do with these old Ottoman provinces?" #NT!
+ annexation_region_113: "Iran" #NT!
+ annexation_region_113_desc: "After a long fight with the Persians, we have launched a full offensive and forced the Persian Army to surrender. [266.GetName] is now in our hands!" #NT!
+ annexation_region_114: "Khuzestan" #NT!
+ annexation_region_114_desc: "The disputed region of Khuzestan is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_115: "Burma" #NT!
+ annexation_region_115_desc: "Our forces have taken control of Burma, home to a vast array of different ethnic groups and numerous resources to boot. As a strategic gateway both into India and Southeast Asia, it would be vital to ensure its compliance. This begs the question, what shall we do with these lands?" #NT!
+ annexation_region_116: "Vietnam" #NT!
+ annexation_region_116_desc: "Our armies have taken control of Vietnam, and the local population are clamouring for self-government, risking our control should we not heed their desires. We should decide then what is to be done with the region." #NT!
+ annexation_region_117: "Cambodia" #NT!
+ annexation_region_117_desc: "Our armies have taken control of Phnom Penh, and the local Cambodians are clamouring for self-government. We should decide what is to be done with the region." #NT!
+ annexation_region_118: "Laos" #NT!
+ annexation_region_118_desc: "Our armies have taken control of Laos, and the locals are clamouring for self-government. We should decide what is to be done with the region." #NT!
+ annexation_region_119: "Thailand" #NT!
+ annexation_region_119_desc: "We have taken control over the Thai state and secured our dominance on the upper part of the Malay Peninsula. With continental Southeast Asia opened for the taking, the pressing issue for our government now is to figure out what we should do with the newly 'liberated' Thai provinces." #NT!
+ annexation_region_120: "Malaya" #NT!
+ annexation_region_120_desc: "Our armies have managed to take control of Malaya, and with it the invaluable rubber and tin that it can provide for our country. It is thus vital to decide now how best to secure such resources - what shall we do?" #NT!
+ annexation_region_121: "Sarawak" #NT!
+ annexation_region_121_desc: "Our armies have managed to take control of Sarawak, and with it the invaluable rubber and tin that it can provide for our country. It is thus vital to decide now how best to secure such resources - what shall we do?" #NT!
+ annexation_region_122: "Sabah" #NT!
+ annexation_region_122_desc: "The disputed territory of Sabah is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_123: "Indonesia" #NT!
+ annexation_region_123_desc: "Our armies have managed to take control of Indonesia, and the islands themselves are now occupied by us. We have a few options now. We can either puppet the island or take it for ourselves, seeing as it possesses a key position in South East Asia and has many strategically valuable resources. What shall we do?" #NT!
+ annexation_region_124: "Japanese Indonesia" #NT!
+ annexation_region_124_desc: "The disputed territories of former-Japanese Indonesia - the Moluccas and Sulawesi - is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_125: "Timor" #NT!
+ annexation_region_125_desc: "The disputed territory of Timor is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_126: "Papua New Guinea" #NT!
+ annexation_region_126_desc: "Papua New Guinea has been brought under our leadership and our troops occupy the island. We must now decide what to do with it." #NT!
+ annexation_region_127: "Philippines" #NT!
+ annexation_region_127_desc: "Our armies have managed to take control of the Philippines, and the archipelago is now occupied by us. Should we organise a puppet government?" #NT!
+ annexation_region_128: "Australia" #NT!
+ annexation_region_128_desc: "Australia has been forced to capitulate and our troops are patrolling the streets of Sydney to prevent a rebellion or anything that could cause further instability. However, some have proposed that creating a local Australian government would be more helpful." #NT!
+ annexation_region_129: "New Zealand" #NT!
+ annexation_region_129_desc: "The islands of New Zealand have been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_130: "Taiwan" #NT!
+ annexation_region_130_desc: "The island of Formosa, also known as Taiwan is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_131: "Yunnan" #NT!
+ annexation_region_131_desc: "We have taken control of the territories of Yunan, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_132: "Sichuan" #NT!
+ annexation_region_132_desc: "We have taken control of the territories of Sichuan, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_133: "Xinjiang" #NT!
+ annexation_region_133_desc: "After our successful campaign in Xinjiang we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice." #NT!
+ annexation_region_134: "Tibet" #NT!
+ annexation_region_134_desc: "After our successful campaign in the Tibetan Plateau we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice." #NT!
+ annexation_region_135: "Shanxi" #NT!
+ annexation_region_135_desc: "We have taken control of the territories of Shanxi, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_136: "Manchuria" #NT!
+ annexation_region_136_desc: "After our successful campaign in Manchuria we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice." #NT!
+ annexation_region_137: "Mongolia" #NT!
+ annexation_region_137_desc: "After our successful campaign in the steppes of Mongolia, we now have the task to establish new local administrative authority in order to restore peace. However, there are several options for our choice." #NT!
+ annexation_region_138: "Korea" #NT!
+ annexation_region_138_desc: "After the final liberation of the proud nation of Korea we were left with the responsibility of organising the administration of the newly conquered territories, what shall we do?" #NT!
+ annexation_region_139: "Singapore" #NT!
+ annexation_region_139_desc: "The former bastion of British rule in Southeast Asia, Singapore, is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_140: "Japan" #NT!
+ annexation_region_140_desc: "After our successful campaign on the Japanese islands we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice.." #NT!
+ annexation_region_141: "Tuva" #NT!
+ annexation_region_141_desc: "Our armies have taken hold of Tuva, and must now decide what shall be done with it." #NT!
+ annexation_region_142: "Afghanistan" #NT!
+ annexation_region_142_desc: "After a long fight with the Afghans, we have launched a full offensive and forced the Afghan Army to surrender and flee to the mountains. Kabul and the major roads are now in our hands, but the countryside is rallying against us and we may have a large fight on our hands should we attempt to occupy the so-called 'Graveyard of Empires.'" #NT!
+ annexation_region_143: "Punjab" #NT!
+ annexation_region_143_desc: "We have taken control of the territories of Punjab, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_144: "Nepal" #NT!
+ annexation_region_144_desc: "After our successful campaign in the Himalayas we now have the task to establish new local administrative authority in order to restore peace in Kathmandu. What shall we do?" #NT!
+ annexation_region_145: "India" #NT!
+ annexation_region_145_desc: "The great nation of India has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_146: "Bhutan" #NT!
+ annexation_region_146_desc: "After our successful campaign in the Himalayas we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice..." #NT!
+ annexation_region_147: "Kashmir" #NT!
+ annexation_region_147_desc: "We have taken control of the territories of Kashmir, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_148: "Aksai Chin" #NT!
+ annexation_region_148_desc: "The passes of Aksai Chin have fallen under our control, and now we must decide what to do with them." #NT!
+ annexation_region_149: "Uttarakhand" #NT!
+ annexation_region_149_desc: "The region of Uttarakhand has fallen under our control, and now we must decide what to do with them." #NT!
+ annexation_region_150: "Hyderabad" #NT!
+ annexation_region_150_desc: "We have taken control of the territories of Hyderabad, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_151: "Madras" #NT!
+ annexation_region_151_desc: "We have taken control of the territories of Madras, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_152: "Travancore" #NT!
+ annexation_region_152_desc: "We have taken control of the territories of Travancore, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_153: "Mysore" #NT!
+ annexation_region_153_desc: "We have taken control of the territories of Mysore, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_154: "Bengal" #NT!
+ annexation_region_154_desc: "The territories of Bengal and nearby regions are now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_155: "Sikkim" #NT!
+ annexation_region_155_desc: "The Himalayan kingdom of Sikkim has fallen under our control, and now we must decide what to do with them." #NT!
+ annexation_region_156: "Arunachal Pradesh" #NT!
+ annexation_region_156_desc: "The Himalayan region of Arunachal Pradesh has fallen under our control, and now we must decide what to do with it." #NT!
+ annexation_region_157: "Ceylon" #NT!
+ annexation_region_157_desc: "We have managed to drive the British from the island of Ceylon and secured the capital of Colombo thoroughly. Now, however, we need to figure out what to do with the damned rock." #NT!
+ annexation_region_158: "Andaman Islands" #NT!
+ annexation_region_158_desc: "The Andaman Islands have fallen under our control, and now we must decide what to do with it." #NT!
+ annexation_region_159: "Xibei" #NT!
+ annexation_region_159_desc: "We have taken control of the territories of the Ma Clique, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_160: "Turkestan" #NT!
+ annexation_region_160_desc: "Turkestan has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_161: "Khiva" #NT!
+ annexation_region_161_desc: "Khiva has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_162: "Transcaspia" #NT!
+ annexation_region_162_desc: "Transcaspia has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_163: "Bukhara" #NT!
+ annexation_region_163_desc: "Bukhara has been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_164: "Hawaii" #NT!
+ annexation_region_164_desc: "The islands of Hawaii have been brought under our control as our troops occupy the region. We must now decide what to do with it." #NT!
+ annexation_region_165: "Fiji" #NT!
+ annexation_region_165_desc: "We have taken control of the island territories of Fiji, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_166: "Central China" #NT!
+ annexation_region_166_desc: "After a long and hard-fought campaign in the Central Plains, we have finally achieved a historic victory. Now that we have won the war, we must decide how to best secure the peace. How should we go about managing the territory we have conquered?" #NT!
+ annexation_region_167: "Guangzhouwan" #NT!
+ annexation_region_167_desc: "The French concession of Guangzhouwan has fallen under our control, and now we must decide what to do with it." #NT!
+ annexation_region_168: "Hong Kong" #NT!
+ annexation_region_168_desc: "The British concession of Hong Kong has fallen under our control, and now we must decide what to do with it." #NT!
+ annexation_region_169: "Macau" #NT!
+ annexation_region_169_desc: "The Portuguese concession of Macau has fallen under our control, and now we must decide what to do with it." #NT!
+ annexation_region_170: "Qingdao" #NT!
+ annexation_region_170_desc: "The German and then Japanese concession of Qingdao has fallen under our control, and now we must decide what to do with it." #NT!
+ annexation_region_171: "Belize" #NT!
+ annexation_region_171_desc: "The former British territory of Belize is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_172: "Japanese Pacific" #NT!
+ annexation_region_172_desc: "The former Pacific territories of Japan has fallen under our control, now we must decide what to do with it." #NT!
+ annexation_region_173: "Guam" #NT!
+ annexation_region_173_desc: "The former American territory of Guam has fallen under our control, now we must decide what to do with it." #NT!
+ annexation_region_174: "British Pacific" #NT!
+ annexation_region_174_desc: "The former Pacific territories of Britain has fallen under our control, now we must decide what to do with it." #NT!
+ annexation_region_175: "French Polynesia" #NT!
+ annexation_region_175_desc: "The former Polynesian territories of France has fallen under our control, now we must decide what to do with it." #NT!
+ annexation_region_176: "American Samoa" #NT!
+ annexation_region_176_desc: "The former American territory of American Samoa has fallen under our control, now we must decide what to do with it." #NT!
+ annexation_region_177: "Moulmein" #NT!
+ annexation_region_177_desc: "The disputed territory of Moulmein has fallen under our control, now we must decide what to do with it." #NT!
+ annexation_region_178: "Tenasserim" #NT!
+ annexation_region_178_desc: "The disputed territory of Tenasserim has fallen under our control, now we must decide what to do with it." #NT!
+ annexation_region_179: "Inner Mongolia" #NT!
+ annexation_region_179_desc: "The disputed territory of Inner Mongolia has fallen under our control, now we must decide what to do with it." #NT!
+ annexation_region_180: "Angola" #NT!
+ annexation_region_180_desc: "Our annexation of the former Portuguese colony of Angola left us to manage those millions of Africans far by the seas. Surely installing a local government will be easier for us to manage it, but should we trust the locals with that?" #NT!
+ annexation_region_181: "Botsawana" #NT!
+ annexation_region_181_desc: "The protectorate of Botswana, switched from British to South African leadership has seen many changes and is now prime for independence. Should we create a Botswanan satellite?" #NT!
+ annexation_region_182: "Burundi" #NT!
+ annexation_region_182_desc: "The region of Burundi has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annexation_region_183: "Ubangi-Shari" #NT!
+ annexation_region_183_desc: "The region of Central Africa has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annexation_region_184: "French Guadeloupe" #NT!
+ annexation_region_184_desc: "The region of Guadaloupe has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annexation_region_185: "Cameroon" #NT!
+ annexation_region_185_desc: "With our recent annexation of the colony of Cameroon, the former administration has fallen and this territory needs a new capable administration. The question is should it be ours or should it be a local one under our commands?" #NT!
+ annexation_region_186: "Congo" #NT!
+ annexation_region_186_desc: "After a long and hard-fought campaign in the vast expanses of the Congo we've finally achieved a historic victory. Now that we've won the war, we must decide how to best secure the peace. How should we go about managing the lands we've conquered?" #NT!
+ annexation_region_187: "Djibouti" #NT!
+ annexation_region_187_desc: "The region of Djibouti has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annexation_region_188: "Egypt" #NT!
+ annexation_region_188_desc: "After a long fight with the Egyptians, we have launched a full offensive and forced the Egyptian Army to surrender. Cairo is now in our hands!" #NT!
+ annexation_region_189: "Eritrea" #NT!
+ annexation_region_189_desc: "After our successful campaign in Eritrea we now have the task to establish new local administrative authority in order to restore peace, however, there are several options for our choice..." #NT!
+ annexation_region_190: "Ethiopia" #NT!
+ annexation_region_190_desc: "After our successful campaign in Ethiopia we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice..." #NT!
+ annexation_region_191: "Gabon" #NT!
+ annexation_region_191_desc: "We now control the former French colony of Gabon and with it masses of Africans yearning to breathe free, should we give them this freedom under our close surveillance or is this dream vain?" #NT!
+ annexation_region_192: "Gambia" #NT!
+ annexation_region_192_desc: "The region of Gambia has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annexation_region_193: "Suez" #NT!
+ annexation_region_193_desc: "The Suez Canal has now been brought under our control. With a vital piece of the international trade system now under our control, should we continue this occupation or should we hand it back to local control?" #NT!
+ annexation_region_194: "Ghana" #NT!
+ annexation_region_194_desc: "The region of Ghana has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annexation_region_195: "Guinea" #NT!
+ annexation_region_195_desc: "The former French colony of Guinea, divided between a traditional mountainous north and a colonial south has been annexed into our growing empire. We're now left with the complex task of organising this new territory, should we incorporate it directly into our structure of power or should we create a separate puppet state there?" #NT!
+ annexation_region_196: "Ivory Coast" #NT!
+ annexation_region_196_desc: "The Ivory Coast, once a French colony under Mittelafrika just got annexed into our glorious empire. Its inhabitants now demand a competent administration to take care of taxes or conscription, should we try to govern them from our capital or would a local limited government be a better solution?" #NT!
+ annexation_region_197: "Kenya" #NT!
+ annexation_region_197_desc: "The steppes of Kenya are now in our graceful control, what should we do with them? Will we control it directly or will we liberate them?" #NT!
+ annexation_region_198: "Mali" #NT!
+ annexation_region_198_desc: "The valley of the Niger river, once known as French Sudan or Mali is now directly integrated into our territories. This colony though needs a better administration that we will have difficulties to provide, nevertheless, the local people and the remnants of the French administration can administer it for us to an extent, should we let them form a loyal puppet state?" #NT!
+ annexation_region_199: "Morocco" #NT!
+ annexation_region_199_desc: "We have freed Morocco from the French and our forces are now having difficulties occupying the mountainous and semi-arid regions of the country. Though the urban centres are in our control, it would maybe be wise to hand out further control to locals." #NT!
+ annexation_region_200: "Mauritania" #NT!
+ annexation_region_200_desc: "The desert region of Mauritania has come under the control of our armies. The former French colony, not even pacified 15 years ago, is now in need of a government to rule it efficiently to avoid the territory falling into anarchy once again. Should we consider creating a Mauritanian puppet state?" #NT!
+ annexation_region_201: "Nigeria" #NT!
+ annexation_region_201_desc: "The vast and rich colony of Nigeria is now under our control and with it comes the burden of having to administer it, could we delegate this task to an extent to a local puppet state?" #NT!
+ annexation_region_202: "Niger" #NT!
+ annexation_region_202_desc: "The region of Niger has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annexation_region_203: "Namibia" #NT!
+ annexation_region_203_desc: "We annexed the former territories of South Africa, most commonly known as Namibia but we're now left to manage thousands of Africans in a territory we don't know about, should we institute a degree of self-determination or should we rule this place as a new colony?" #NT!
+ annexation_region_204: "Rwanda" #NT!
+ annexation_region_204_desc: "After the liberation of Rwanda from the Belgian colonial grip we're left with the choice to let the Rwandans govern themselves to an extent or not, should we do it?" #NT!
+ annexation_region_205: "South Africa" #NT!
+ annexation_region_205_desc: "After a long fight with the South African state, we have launched a full offensive and forced the South African armed forces to surrender." #NT!
+ annexation_region_206: "The Rif" #NT!
+ annexation_region_206_desc: "The Rif mountain range has now been brought under our control. Should we continue this occupation or should we return it to other parties?" #NT!
+ annexation_region_207: "Guinea-Bissau" #NT!
+ annexation_region_207_desc: "The region of Guinea Bissau has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annexation_region_208: "Senegal" #NT!
+ annexation_region_208_desc: "The region of Senegal has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annexation_region_209: "Somalia" #NT!
+ annexation_region_209_desc: "We now control the territories of the former Dervish state of Somalia and this inhospitable area populated by Somalis will prove itself to be hard to maintain through occupation, maybe we should let the Somalis organise themselves to an extent?" #NT!
+ annexation_region_210: "Tanzania" #NT!
+ annexation_region_210_desc: "The region of Tanzania has now been brought under our control. The former colonial administration fled the colony early and left us with an ungoverned territory occupied. Should we continue this occupation or should we form a new government?" #NT!
+ annexation_region_211: "Uganda" #NT!
+ annexation_region_211_desc: "We now occupy the former British colony of Uganda and this region, populated and close from the Great Lakes is far from anything we could control, should we make it easier by giving them a level of self-autonomy or should we continue the occupation?" #NT!
+ annexation_region_212: "Upper Volta" #NT!
+ annexation_region_212_desc: "The ancient land of the Mossi around the region of the Volta have come to our control and are now a part of our country. Often divided and badly regarded by the colonial authorities, their people are now asking us for a chance to form their own state. Should we let them organise themselves to an extent?" #NT!
+ annexation_region_213: "Liberia" #NT!
+ annexation_region_213_desc: "The state of Liberia, founded by an American company under the wish of bringing American blacks back to Africa has always been a peculiar state. Under the loose control of the Americans for years the country has now fallen before our might. The Liberian identity is strong and trying to annex them directly might prove itself inefficient, officials in our country are calling for the establishment of a loyal Liberian state instead, should we do that?" #NT!
+ annexation_region_214: "Tunisia" #NT!
+ annexation_region_214_desc: "After overwhelming the Tunisian defences, we have launched a full offensive and Tunis is now in our hands, along with the rest of Tunisia. The Bey and several nationalists are clamouring for self-governance, and some suggest they should be granted it. Alternatively, we could continue to occupy Tunisia. What should we do?" #NT!
+ annexation_region_215: "Algeria" #NT!
+ annexation_region_215_desc: "We finally freed Algeria from the French tyrants in Algiers. Should we give the Algerians freedom?" #NT!
+ annexation_region_216: "Madagascar" #NT!
+ annexation_region_216_desc: "Our powerful armies have taken control of the former French colony of Madagascar. The huge island is currently under military administration but we may want to install a real administration there, should it be local or should we annex the island directly to our empire?" #NT!
+ annexation_region_217: "Libya" #NT!
+ annexation_region_217_desc: "We have taken control of the territories of Libya, and there is some degree of resistance among the locals. We must decide what to do with their lands." #NT!
+ annexation_region_218: "Kufra" #NT!
+ annexation_region_218_desc: "The Saharan territory of Kufra has fallen under our control, and we must thus now decide what to do with this land." #NT!
+ annexation_region_219: "Western Sahara" #NT!
+ annexation_region_219_desc: "The region of Western Sahara is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_220: "Mozambique" #NT!
+ annexation_region_220_desc: "Our annexation of the former Portuguese colony of Mozambique left us to manage those millions of Africans far by the seas. Surely installing a local government will be easier for us to manage it, but should we trust the locals with that?" #NT!
+ annexation_region_221: "Sierra Leone" #NT!
+ annexation_region_221_desc: "The former British colony of Sierra Leone, once a haven for former loyal British slaves, has been captured by our advancing armies and has been incorporated into our empire. But despite our best efforts its administration is revealing itself to be a difficulty for our untrained administrators, some have argued to give the territory a greater degree of autonomy, should we allow it?" #NT!
+ annexation_region_222: "Chad" #NT!
+ annexation_region_222_desc: "Finally, our annexation of the region of Chad is complete, the former French colony is now in need of a competent administration to manage it. Given the difficulties it gave to France, between tribal and passive revolts, should we consider giving them autonomy to alleviate this burden?" #NT!
+ annexation_region_223: "Equatorial Guinea" #NT!
+ annexation_region_223_desc: "After our successful campaign in the center of Africa we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice..." #NT!
+ annexation_region_224: "Canada" #NT!
+ annexation_region_224_desc: "After a long fight with the Canadaians, we have launched a full offensive and forced the Canadian Army to surrender. Sofia is now in our hands! What should we do with their lands?" #NT!
+ annexation_region_225: "Quebec" #NT!
+ annexation_region_225_desc: "The region of Quebec is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_226: "Newfoundland" #NT!
+ annexation_region_226_desc: "The region of Newfoundland is now under our control; thus we must decide what to do with it."" #NT!
+ annexation_region_227: "United States Of America" #NT!
+ annexation_region_227_desc: "With the behemoth that was the United States of America now slain, we must now decide what to do with the once-great titan of the North American continent." #NT!
+ annexation_region_228: "Mexico" #NT!
+ annexation_region_228_desc: "After a long campaign across Mexico, we have finally managed to shatter the Mexican defences. Mexico City is now in our hands! We must now decide on the future of Mexico." #NT!
+ annexation_region_229: "Puerto Rico" #NT!
+ annexation_region_229_desc: "Following a brief campaign, San Juan has is under our control and with it all of Puerto Rico. What should be done with the Island?" #NT!
+ annexation_region_230: "Baja California" #NT!
+ annexation_region_230_desc: "The region of Baja California is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_231: "Yucatan" #NT!
+ annexation_region_231_desc: "After our successful campaign in the Yucatan we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice..." #NT!
+ annexation_region_232: "Cuba" #NT!
+ annexation_region_232_desc: "After a short campaign across the island of Cuba, we have finally managed to shatter the Cuban defences. Havana is now in our hands! We must now decide on the future of Cuba." #NT!
+ annexation_region_233: "Bahamas" #NT!
+ annexation_region_233_desc: "After a short campaign across the Bahamas, we have finally managed to shatter the Cuban defences. Havana is now in our hands! We must now decide on the future of Cuba." #NT!
+ annexation_region_234: "Jamaica" #NT!
+ annexation_region_234_desc: "The former British territory of Jamaica is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_235: "Haiti" #NT!
+ annexation_region_235_desc: "After a short campaign on the island of Hispaniola, we have finally managed to shatter the Haitian defences. Port-au-Prince is now in our hands! We must now decide on the future of Haiti." #NT!
+ annexation_region_236: "Dominican Republic" #NT!
+ annexation_region_236_desc: "After a short campaign on the island of Hispaniola, we have finally managed to shatter the Dominican defences. Santo Domingo is now in our hands! We must now decide on the future of the Dominican Republic." #NT!
+ annexation_region_237: "British Antilles" #NT!
+ annexation_region_237_desc: "The former British Antilles is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_238: "Trinidad And Tobago" #NT!
+ annexation_region_238_desc: "The former colony of Trinidad is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_239: "Curaçao" #NT!
+ annexation_region_239_desc: "The former Dutch colony of Curaçao is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_240: "Panama Canal" #NT!
+ annexation_region_240_desc: "The vital link between the Caribbean and the Pacific Ocean is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_241: "Panama" #NT!
+ annexation_region_241_desc: "After a rapid campaign around the Panamá Canal, we have finally managed to shatter the Panamanian defences. Panamá City is now in our hands! We must now decide on the future of Panamá." #NT!
+ annexation_region_242: "Costa Rica" #NT!
+ annexation_region_242_desc: "Our glorious army corps marched through the land and now occupy the capital of the former Costa Rican government. We, however, can't have this situation last so long, what should we do with the land?" #NT!
+ annexation_region_243: "Nicaragua" #NT!
+ annexation_region_243_desc: "With Managua in our hands, we now control Nicaragua and are able to decide what do with these lands." #NT!
+ annexation_region_244: "El Salvador" #NT!
+ annexation_region_244_desc: "El Salvador has been annexed by our proud armies and our troops are parading in San Salvador. How should the administration be set up?" #NT!
+ annexation_region_245: "Honduras" #NT!
+ annexation_region_245_desc: "Our armies have put down the Honduran government and are patrolling the capital in Tegucigalpa. Which sort of government should be put in place instead?" #NT!
+ annexation_region_246: "Guatemala" #NT!
+ annexation_region_246_desc: "The Guatemalan state has been forced to capitulate, and our troops are parading in the capital of Guatemala. What should we do with the remnants of their state?" #NT!
+ annexation_region_247: "Colombia" #NT!
+ annexation_region_247_desc: "After a campaign across Colombia, we have finally managed to shatter the Colombian defences. Bogotá is now in our hands! We must now decide on the future of Colombia. 
+ annexation_region_248: "Ecuador" #NT!
+ annexation_region_248_desc: "After a campaign across Ecuador, we have finally managed to shatter the Ecuadorian defences. Quito is now in our hands! We must now decide on the future of Ecuador." #NT!
+ annexation_region_249: "Venezuela" #NT!
+ annexation_region_249_desc: "After a campaign across Venezuela, we have finally managed to shatter the Venezuelan defences. Caracas is now in our hands! We must now decide on the future of Venezuela." #NT!
+ annexation_region_250: "Peru" #NT!
+ annexation_region_250_desc: " After a campaign across the hostile Peruvian Andes, we have finally managed to shatter the Peruvian defences. Lima is now in our hands! We must now decide on the future of Peru." #NT!
+ annexation_region_251: "Colombian Amazon" #NT!
+ annexation_region_251_desc: "The former Colombian section of the Amazon is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_252: "Bolivia" #NT!
+ annexation_region_252_desc: "After a campaign through the jungles and deserts of Bolivia, we have finally managed to reach the gates to the Andes. La Paz is now in our hands! We must now decide on the future of Bolivia." #NT!
+ annexation_region_253: "Arica" #NT!
+ annexation_region_253_desc: "The disputed territory of Arica is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_254: "Chile" #NT!
+ annexation_region_254_desc: "After a long campaign across the hostile Chilean Andes, we have finally managed to shatter the Chilean defences. Santiago is now in our hands! We must now decide on the future of Chile." #NT!
+ annexation_region_255: "Argentina" #NT!
+ annexation_region_255_desc: "After the conquest of the vast nation of Argentina we have to organise competent administrations to keep the territory under control. Now we will need to decide on the fate of the region." #NT!
+ annexation_region_256: "Uruguay" #NT!
+ annexation_region_256_desc: "After a long campaign in Uruguay, we have finally managed to shatter their defences. We must now decide on the future of Uruguay." #NT!
+ annexation_region_257: "Paraguay" #NT!
+ annexation_region_257_desc: "Our armies have finally taken control of the Paraguayan capital and occupy the territory of the former state of Paraguay. We should now decide how to set up a competent administration in the area." #NT!
+ annexation_region_258: "Chaco Boreal" #NT!
+ annexation_region_258_desc: "The disputed territory of Chaco Boreal is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_259: "Brazil" #NT!
+ annexation_region_259_desc: "After the conquest of the vast nation of Brazil we have to organise competent administrations to keep the territory under control. Even if the magnificent city of Rio is under the boots of our soldiers we can't keep an hold on it forever." #NT!
+ annexation_region_260: "Suriname" #NT!
+ annexation_region_260_desc: "The former Dutch territory of Suriname is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_261: "West Guyana" #NT!
+ annexation_region_261_desc: "The former territory of Guyana is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_262: "Lebanon" #NT!
+ annexation_region_262_desc: "The former French territory of Lebanon is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_263: "North China" #NT!
+ annexation_region_263_desc: "After a long and hard-fought campaign across the North China Plain, we have finally achieved a historic victory. Now that we have won the war, we must decide how to best secure the peace. How should we go about managing the territory we have conquered?" #NT!
+ annexation_region_264: "South China" #NT!
+ annexation_region_264_desc: "After a long and hard-fought campaign over and beyond the Yangtze, we have finally achieved a historic victory. Now that we have won the war, we must decide how to best secure the peace. How should we go about managing the territory we have conquered?" #NT!
+ annexation_region_265: "Syria" #NT!
+ annexation_region_265_desc: "The former French colony of Syria is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_266: "Hatay" #NT!
+ annexation_region_266_desc: "The disputed territory of Hantay is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_267: "Palestine" #NT!
+ annexation_region_267_desc: "We have conquered the fertile lands of Palestine including the grand and ancient city of Jerusalem. What are we to do with the old Ottoman provinces?" #NT!
+ annexation_region_268: "Transjordan" #NT!
+ annexation_region_268_desc: "The disputed region of Transjordan is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_269: "Amman" #NT!
+ annexation_region_269_desc: "The disputed territory of Amman is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_270: "Arabia" #NT!
+ annexation_region_270_desc: "After a long fight with the Arabs, we have launched a full offensive and forced the Arabian Army to surrender. The fate of the arabs in this land is now in our hands!" #NT!
+ annexation_region_271: "Trucial States" #NT!
+ annexation_region_271_desc: "The coastal Arabian emirates collectively known as the Trucial States are now under our control, we must decide what to do with this land." #NT!
+ annexation_region_272: "Oman" #NT!
+ annexation_region_272_desc: "After a long fight with the Omani, we have launched a full offensive and forced the Omani Army to surrender. Muscat is now in our hands, as is the fate of the Emirate." #NT!
+ annexation_region_273: "Yemen" #NT!
+ annexation_region_273_desc: "After a long fight with the Yemenites, we have launched a full offensive and forced the Yemenite Army to surrender. Sana'a is now in our hands!" #NT!
+ annexation_region_274: "Aden" #NT!
+ annexation_region_274_desc: "The disputed territory of Amman is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_275: "North-West Frontier Province" #NT!
+ annexation_region_275_desc: "The disputed North-West Frontier Province is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_276: "Balochistan" #NT!
+ annexation_region_276_desc: "The disputed region of Balochistan is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_277: "Quetta" #NT!
+ annexation_region_277_desc: "The disputed region of Quetta is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_278: "Dutch New Guinea" #NT!
+ annexation_region_278_desc: "The disputed territory of Dutch New Guinea is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_279: "Lindi" #NT!
+ annexation_region_279_desc: "The disputed territory of Lindi is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_280: "Bamenda" #NT!
+ annexation_region_280_desc: "The disputed territory of Bamenda is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_281: "Gibraltar" #NT!
+ annexation_region_281_desc: "The 'Rock', Gibraltar, is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_282: "Malta" #NT!
+ annexation_region_282_desc: "The island of Malta is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_283: "Falklands" #NT!
+ annexation_region_283_desc: "The disputed territory of Falklands is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_284: "Goa" #NT!
+ annexation_region_284_desc: "The bastion of Portuguese India - Goa - is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_285: "Pondicherry" #NT!
+ annexation_region_285_desc: "The bastion of French India , Pondicherry, is now under our control; thus we must decide what to do with it." #NT!
+ annexation_region_286: "North Rhodesia" #NT!
+ annexation_region_286_desc: "The region of North Rhodesia, consisting of Zambia and Malawi has fallen under our control, forcing us to decide what to do with it." #NT!
+ annexation_region_287: "Kuwait" #NT!
+ annexation_region_287_desc: "The region of Kuwait that links the Persian Gulf and the rivers of Mesopotamia has fallen under our control, forcing us to decide what to do with it." #NT!
+ annexation_region_288: "French Guyana" #NT!
+ annexation_region_288_desc: "The region of French Guyana has fallen under our control, forcing us to decide what to do with it." #NT!
+ annexation_region_289: "Dahomey" #NT!
+ annexation_region_289_desc: "The region of Dahomey has fallen under our control, forcing us to decide what to do with it." #NT!
+ annexation_region_290: "Togoland" #NT!
+ annexation_region_290_desc: "The region of Togoland has fallen under our control, forcing us to decide what to do with it." #NT!
+ annexation_region_291: "The British Indian Ocean Territory" #NT!
+ annexation_region_291_desc: "The former British territories in the Indian Ocean are now under our control; thus we must decide what to do with them." #NT!
+ annexation_region_292: "Kardzhali" #NT!
+ annexation_region_292_desc: "" #NT!
+ annexation_region_china: "China" #NT!
+ annexation_region_china_desc: "After a long and hard-fought campaign in the vast expanses of China, we have finally achieved a historic victory. Now that we have won the war, we must decide how to best secure the peace. How should we go about managing the territory we have conquered?" #NT!
+ #! @REGIONMAKER REGIONS LOC END 
+  
+  
+ annexations.223.a: "Liberate an Indonesian state." #NT!
+ annexations.226.a: "Form a native Papuan government." #NT!
+ annexations.227.a: "Liberate a loyal Filipino government." #NT!
+ annexations.228.a: "Liberate Australia!" #NT!
+ annexations.229.a: "Liberate New Zealand!" #NT!
+ annex.chinese_puppet: "Create a friendly Chinese government." #NT!
+ annexations.233.a: "Form a local government." #NT!
+ annexations.234.a: "Liberate Tibet!" #NT!
+ annexations.236.a: "Create an independent Manchurian state!" #NT!
+ annexations.237.a: "Create an independent Mongolian state!" #NT!
+ annexations.238.a: "Liberate Korea!" #NT!
+ annexations.240.a: "Liberate Japan!" #NT!
+ annexations.242.a: "Release this graveyard of empires!" #NT!
+ annexations.indian_puppet: "Create a friendly Indian government." #NT!
+ annexations.243.a: "Form a Lahore government!" #NT!
+ annexations.244.a: "Liberate Nepal!" #NT!
+ annexations.245.a: "Liberate India!" #NT!
+ annexations.246.a: "Liberate Bhutan!" #NT!
+ annexations.245.b: "We will partition the continent." #NT!
+ annexations.247.a: "Liberate Kashmir." #NT!
+ annexations.250.a: "Liberate Hyderabad." #NT!
+ annexations.251.a: "Liberate Madras." #NT!
+ annexations.252.a: "Liberate Travancore." #NT!
+ annexations.253.a: "Liberate Mysore." #NT!
+ annexations.254.a: "Liberate Bengal." #NT!
+ annexations.257.a: "Liberate Sri Lanka." #NT!
+ annexations.260.a: "Liberate Turkestan!" #NT!
+ annexations.261.a: "Liberate Khiva!" #NT!
+ annexations.262.a: "Liberate Transcaspia!" #NT!
+ annexations.263.a: "Liberate Bukhara!" #NT!
+ annexations.264.a: "Liberate Hawaii!" #NT!
+ annexations.265.a: "Liberate Fiji!" #NT!
+ annexations.376.a: "Liberate Balochistan." #NT!

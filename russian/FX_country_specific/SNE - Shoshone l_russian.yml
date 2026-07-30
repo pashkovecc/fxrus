@@ -1,0 +1,48 @@
+﻿l_russian:
+  
+ ### Country Names 
+ SNE_vanguardist: "Shoshone Commune" #NT!
+ SNE_vanguardist_ADJ: "Shoshoni" #NT!
+ SNE_vanguardist_DEF: "the Commune of Shoshone" #NT!
+ SNE_collectivist: "Shoshone Commune" #NT!
+ SNE_collectivist_ADJ: "Shoshone Commune" #NT!
+ SNE_collectivist_DEF: "the Commune of Shoshone" #NT!
+ SNE_libertarian_socialist: "Shoshone Commune" #NT!
+ SNE_libertarian_socialist_ADJ: "Shoshoni" #NT!
+ SNE_libertarian_socialist_DEF: "the Commune of Shoshone" #NT!
+ SNE_social_democrat: "Shoshone Conferedation" #NT!
+ SNE_social_democrat_ADJ: "Shoshoni" #NT!
+ SNE_social_democrat_DEF: "the Conferedation of Shoshone" #NT!
+ SNE_social_liberal: "Shoshone Conferedation" #NT!
+ SNE_social_liberal_ADJ: "Shoshoni" #NT!
+ SNE_social_liberal_DEF: "the Conferedation of Shoshone" #NT!
+ SNE_market_liberal: "The Conferedation of Shoshone" #NT!
+ SNE_market_liberal_ADJ: "Shoshoni" #NT!
+ SNE_market_liberal_DEF: "the Conferedation of Shoshone" #NT!
+ SNE_social_conservative: "Shoshone Conferedation" #NT!
+ SNE_social_conservative_ADJ: "Shoshoni" #NT!
+ SNE_social_conservative_DEF: "the Conferedation of Shoshone" #NT!
+ SNE_authoritarian_democrat: "Shoshone Conferedation" #NT!
+ SNE_authoritarian_democrat_ADJ: "Shoshoni" #NT!
+ SNE_authoritarian_democrat_DEF: "the Conferedation of Shoshone" #NT!
+ SNE_paternal_autocrat: "Shoshone Conferedation" #NT!
+ SNE_paternal_autocrat_ADJ: "Shoshoni" #NT!
+ SNE_paternal_autocrat_DEF: "the Conferedation of Shoshone" #NT!
+ SNE_national_populist: "Shoshone Conferedation" #NT!
+ SNE_national_populist_ADJ: "Shoshoni" #NT!
+ SNE_national_populist_DEF: "the Conferedation of Shoshone" #NT!
+ SNE_valkist: "Shoshone Conferedation" #NT!
+ SNE_valkist_ADJ: "Shoshoni" #NT!
+ SNE_valkist_DEF: "the Conferedation of Shoshone" #NT!
+  
+ ### Events 
+ shoshone.1.t: "Shoshone Tribe Declares Independence!" #NT!
+ shoshone.1.d: "The Shoshone tribe that resides in the state of Idaho, have declared their independence and effectively seceeding from our government immediately. The troops are now being mobilized and many of our generals are preparing to a conflict." #NT!
+ shoshone.1.a: "They should be ready for their punishment" #NT!
+ shoshone.1.b: "This is our chance! (Play as Shoshone)" #NT!
+  
+ SNE_Archie_Phinney: "Archie Phinney" #NT!
+ SNE_Zitkala_Sa: "Zitkala-Sa" #NT!
+ SNE_Charles_Washakie: "Charles Washakie" #NT!
+ SNE_Council_of_Elders: "Council of Elders" #NT!
+ SNE_Elwood_Towner: "Elwood Towner" #NT!

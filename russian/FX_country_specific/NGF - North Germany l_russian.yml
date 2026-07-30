@@ -1,0 +1,39 @@
+﻿l_russian:
+  
+ ### Country Names 
+ NGF: "North German Confederation" #NT!
+ NGF_DEF: "the North German Confederation" #NT!
+ NGF_ADJ: "North German" #NT!
+  
+ NGF_vanguardist_party: "KPD" #NT!
+ NGF_vanguardist_party_long: "Kommunistische Partei Deutschlands - Norddeutsche\n§gCommunist Party of Germany - North German§!" #NT!
+ NGF_collectivist_party: "KPD" #NT!
+ NGF_collectivist_party_long: "Kommunistische Partei Deutschlands - Norddeutsche\n§gCommunist Party of Germany - North German§!" #NT!
+ NGF_libertarian_socialist_party: "KPD" #NT!
+ NGF_libertarian_socialist_party_long: "Kommunistische Partei Deutschlands - Norddeutsche\n§gCommunist Party of Germany - North German§!" #NT!
+ NGF_social_democrat_party: "SPD" #NT!
+ NGF_social_democrat_party_long: "Sozialdemokratische Partei Deutschlands - Norddeutsche\n§gSocial Democratic Party of Germany - North German§!" #NT!
+ NGF_social_liberal_party: "PFD" #NT!
+ NGF_social_liberal_party_long: "Partei Freier Demokraten\n§gParty of Free Democrats§!" #NT!
+ NGF_market_liberal_party: "PFD" #NT!
+ NGF_market_liberal_party_long: "Partei Freier Demokraten\n§gParty of Free Democrats§!" #NT!
+ NGF_social_conservative_party: "DP-NLP" #NT!
+ NGF_social_conservative_party_long: "Deutsche Partei - Niedersächsische Landespartei\n§gGerman Party - Lower Saxony State Party§!" #NT!
+ NGF_authoritarian_democrat_party: "DP-NR" #NT!
+ NGF_authoritarian_democrat_party_long: "Deutsche Partei - Nationale Rechte\n§gGerman Party - National Right§!" #NT!
+ NGF_paternal_autocrat_party: "NDP" #NT!
+ NGF_paternal_autocrat_party_long: "National-Demokratische Partei Deutschlands\n§gNational Democratic Party of Germany§!" #NT!
+ NGF_national_populist_party: "NDP" #NT!
+ NGF_national_populist_party_long: "National-Demokratische Partei Deutschlands\n§gNational Democratic Party of Germany§!" #NT!
+ NGF_valkist_party: "VDF" #NT!
+ NGF_valkist_party_long: "Valkistischer Deutscher Frontkämpferblock\n§gValkist German Fighter's Front Bloc§!" #NT!
+  
+  
+  
+  
+ ### Characters 
+ NGF_Gustav_Dahrendorf: "Gustav Dahrendorf" #NT!
+ NGF_Willi_Agatz: "Wilhelm Agatz" #NT!
+ NGF_Hermann_Hopker_Aschoff: "Hermann Höpker-Aschoff" #NT!
+ NGF_Heinrich_Hellwege: "Heinrich Hellwege" #NT!
+ NGF_Heinrich_Leuchtgens: "Heinrich Leuchtgens" #NT!

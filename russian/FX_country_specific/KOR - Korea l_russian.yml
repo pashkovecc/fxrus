@@ -1,0 +1,47 @@
+﻿l_russian:
+ ### Country Names 
+ KOR: "Корея"
+ KOR_DEF: "the Republic of Korea" #NT!
+ KOR_ADJ: "Корейск"
+  
+ ### POLITICAL PARTIES ### 
+ # 조선공산당 
+ KOR_vanguardist_party: "CPK" #NT!
+ KOR_vanguardist_party_long: "Joseon gongsandang\n§gCommunist Party of Korea§!" #NT!
+ KOR_collectivist_party: "CPK" #NT!
+ KOR_collectivist_party_long: "Joseon gongsandang\n§gCommunist Party of Korea§!" #NT!
+ KOR_libertarian_socialist_party: "CPK" #NT!
+ KOR_libertarian_socialist_party_long: "Joseon gongsandang\n§gCommunist Party of Korea§!" #NT!
+ # 조선인민당 
+ KOR_social_democrat_party: "KPP" #NT!
+ KOR_social_democrat_party_long: "Joseon inmindang\n§gKorean People's Party§!" #NT!
+ # 조선민주당 
+ KOR_social_liberal_party: "DPK (Left)" #NT!
+ KOR_social_liberal_party_long: "Joseon minjudang\n§gDemocratic Party of Korea§!" #NT!
+ KOR_market_liberal_party: "DPK (Left)" #NT!
+ KOR_market_liberal_party_long: "Joseon minjudang\n§gDemocratic Party of Korea§!" #NT!
+ # 자유당 
+ KOR_social_conservative_party: "LP" #NT!
+ KOR_social_conservative_party_long: "Jayudang\n§gLiberal Party§!" #NT!
+ # 조선국민당 
+ KOR_authoritarian_democrat_party: "KNP" #NT!
+ KOR_authoritarian_democrat_party_long: "Joseon gugmindang\n§gKorean National Party§!" #NT!
+ KOR_paternal_autocrat_party: "KNP" #NT!
+ KOR_paternal_autocrat_party_long: "Joseon gugmindang\n§gKorean National Party§!y" #NT!
+ KOR_national_populist_party: "KNP" #NT!
+ KOR_national_populist_party_long: "Joseon gugmindang\n§gKorean National Party§!" #NT!
+ KOR_valkist_party: "KNP" #NT!
+ KOR_valkist_party_long: "Joseon gugmindang\n§gKorean National Party§!" #NT!
+  
+ ### Ideas 
+ KOR_revolution: "Korean Revolution" #NT!
+  
+ KOR_Kim_Il_sung: "Kim Il-sung" #NT!
+ KOR_Kim_Won_bong: "Kim Won-bong" #NT!
+ KOR_Sin_Chaeho: "Sin Chaeho" #NT!
+ KOR_Kim_Koo: "Kim Koo" #NT!
+ KOR_Yi_Un: "Yi Un" #NT!
+ KOR_Yi_Kang: "Yi Kang" #NT!
+ KOR_Kim_Hong_il: "Kim Hong-il" #NT!
+ KOR_Lee_Beom_seok: "Lee Beom-seok" #NT!
+ KOR_Ji_Cheong_cheon: "Ji Cheong-cheon" #NT!

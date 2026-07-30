@@ -1,0 +1,178 @@
+﻿l_russian:
+  
+ ### Britanny 
+ BRI_vanguardist: "Republic of Brittany" #NT!
+ BRI_vanguardist_ADJ: "Brittanian" #NT!
+ BRI_vanguardist_DEF: "The Republic of Brittany" #NT!
+ BRI_collectivist: "Republic of Brittany" #NT!
+ BRI_collectivist_ADJ: "Brittanian" #NT!
+ BRI_collectivist_DEF: "The Republic of Brittany" #NT!
+ BRI_libertarian_socialist: "Republic of Brittany" #NT!
+ BRI_libertarian_socialist_ADJ: "Brittanian" #NT!
+ BRI_libertarian_socialist_DEF: "The Republic of Brittany" #NT!
+ BRI_social_democrat: "Republic of Brittany" #NT!
+ BRI_social_democrat_ADJ: "Brittanian" #NT!
+ BRI_social_democrat_DEF: "The Republic of Brittany" #NT!
+ BRI_social_liberal: "Republic of Brittany" #NT!
+ BRI_social_liberal_ADJ: "Brittanian" #NT!
+ BRI_social_liberal_DEF: "The Republic of Brittany" #NT!
+ BRI_market_liberal: "Republic of Brittany" #NT!
+ BRI_market_liberal_ADJ: "Brittanian" #NT!
+ BRI_market_liberal_DEF: "The Republic of Brittany" #NT!
+ BRI_social_conservative: "Republic of Brittany" #NT!
+ BRI_social_conservative_ADJ: "Brittanian" #NT!
+ BRI_social_conservative_DEF: "The Republic of Brittany" #NT!
+ BRI_authoritarian_democrat: "Republic of Brittany" #NT!
+ BRI_authoritarian_democrat_ADJ: "Brittanian" #NT!
+ BRI_authoritarian_democrat_DEF: "The Republic of Brittany" #NT!
+ BRI_paternal_autocrat: "Republic of Brittany" #NT!
+ BRI_paternal_autocrat_ADJ: "Brittanian" #NT!
+ BRI_paternal_autocrat_DEF: "The Republic of Brittany" #NT!
+ BRI_national_populist: "Republic of Brittany" #NT!
+ BRI_national_populist_ADJ: "Brittanian" #NT!
+ BRI_national_populist_DEF: "The Republic of Brittany" #NT!
+ BRI_valkist: "Republic of Brittany" #NT!
+ BRI_valkist_ADJ: "Brittanian" #NT!
+ BRI_valkist_DEF: "The Republic of Brittany" #NT!
+  
+ BRI_Olier_Mordrel: "Olier Mordrel" #NT!
+  
+ ### Occitania 
+ OCC_vanguardist: "Republic of Occitania" #NT!
+ OCC_vanguardist_ADJ: "Occitanian" #NT!
+ OCC_vanguardist_DEF: "The Republic of Occitania" #NT!
+ OCC_collectivist: "Republic of Occitania" #NT!
+ OCC_collectivist_ADJ: "Occitanian" #NT!
+ OCC_collectivist_DEF: "The Republic of Occitania" #NT!
+ OCC_libertarian_socialist: "Republic of Occitania" #NT!
+ OCC_libertarian_socialist_ADJ: "Occitanian" #NT!
+ OCC_libertarian_socialist_DEF: "The Republic of Occitania" #NT!
+ OCC_social_democrat: "Republic of Occitania" #NT!
+ OCC_social_democrat_ADJ: "Occitanian" #NT!
+ OCC_social_democrat_DEF: "The Republic of Occitania" #NT!
+ OCC_social_liberal: "Republic of Occitania" #NT!
+ OCC_social_liberal_ADJ: "Occitanian" #NT!
+ OCC_social_liberal_DEF: "The Republic of Occitania" #NT!
+ OCC_market_liberal: "Republic of Occitania" #NT!
+ OCC_market_liberal_ADJ: "Occitanian" #NT!
+ OCC_market_liberal_DEF: "The Republic of Occitania" #NT!
+ OCC_social_conservative: "Republic of Occitania" #NT!
+ OCC_social_conservative_ADJ: "Occitanian" #NT!
+ OCC_social_conservative_DEF: "The Republic of Occitania" #NT!
+ OCC_authoritarian_democrat: "Republic of Occitania" #NT!
+ OCC_authoritarian_democrat_ADJ: "Occitanian" #NT!
+ OCC_authoritarian_democrat_DEF: "The Republic of Occitania" #NT!
+ OCC_paternal_autocrat: "Republic of Occitania" #NT!
+ OCC_paternal_autocrat_ADJ: "Occitanian" #NT!
+ OCC_paternal_autocrat_DEF: "The Republic of Occitania" #NT!
+ OCC_national_populist: "Republic of Occitania" #NT!
+ OCC_national_populist_ADJ: "Occitanian" #NT!
+ OCC_national_populist_DEF: "The Republic of Occitania" #NT!
+ OCC_valkist: "Republic of Occitania" #NT!
+ OCC_valkist_ADJ: "Occitanian" #NT!
+ OCC_valkist_DEF: "The Republic of Occitania" #NT!
+  
+ ### Normandy 
+ NRM_vanguardist: "Republic of Normandy" #NT!
+ NRM_vanguardist_ADJ: "Normandian" #NT!
+ NRM_vanguardist_DEF: "The Republic of Normandy" #NT!
+ NRM_collectivist: "Republic of Normandy" #NT!
+ NRM_collectivist_ADJ: "Normandian" #NT!
+ NRM_collectivist_DEF: "The Republic of Normandy" #NT!
+ NRM_libertarian_socialist: "Republic of Normandy" #NT!
+ NRM_libertarian_socialist_ADJ: "Normandian" #NT!
+ NRM_libertarian_socialist_DEF: "The Republic of Normandy" #NT!
+ NRM_social_democrat: "Republic of Normandy" #NT!
+ NRM_social_democrat_ADJ: "Normandian" #NT!
+ NRM_social_democrat_DEF: "The Republic of Normandy" #NT!
+ NRM_social_liberal: "Republic of Normandy" #NT!
+ NRM_social_liberal_ADJ: "Normandian" #NT!
+ NRM_social_liberal_DEF: "The Republic of Normandy" #NT!
+ NRM_market_liberal: "Republic of Normandy" #NT!
+ NRM_market_liberal_ADJ: "Normandian" #NT!
+ NRM_market_liberal_DEF: "The Republic of Normandy" #NT!
+ NRM_social_conservative: "Republic of Normandy" #NT!
+ NRM_social_conservative_ADJ: "Normandian" #NT!
+ NRM_social_conservative_DEF: "The Republic of Normandy" #NT!
+ NRM_authoritarian_democrat: "Republic of Normandy" #NT!
+ NRM_authoritarian_democrat_ADJ: "Normandian" #NT!
+ NRM_authoritarian_democrat_DEF: "The Republic of Normandy" #NT!
+ NRM_paternal_autocrat: "Republic of Normandy" #NT!
+ NRM_paternal_autocrat_ADJ: "Normandian" #NT!
+ NRM_paternal_autocrat_DEF: "The Republic of Normandy" #NT!
+ NRM_national_populist: "Republic of Normandy" #NT!
+ NRM_national_populist_ADJ: "Normandian" #NT!
+ NRM_national_populist_DEF: "The Republic of Normandy" #NT!
+ NRM_valkist: "Republic of Normandy" #NT!
+ NRM_valkist_ADJ: "Normandian" #NT!
+ NRM_valkist_DEF: "The Republic of Normandy" #NT!
+  
+ ### Alsace-Lorraine 
+ ALR_vanguardist: "Republic of Alsace-Lorraine" #NT!
+ ALR_vanguardist_ADJ: "Alsace-Lorrainian" #NT!
+ ALR_vanguardist_DEF: "The Republic of Alsace-Lorraine" #NT!
+ ALR_collectivist: "Republic of Alsace-Lorraine" #NT!
+ ALR_collectivist_ADJ: "Alsace-Lorrainian" #NT!
+ ALR_collectivist_DEF: "The Republic of Alsace-Lorraine" #NT!
+ ALR_libertarian_socialist: "Republic of Alsace-Lorraine" #NT!
+ ALR_libertarian_socialist_ADJ: "Alsace-Lorrainian" #NT!
+ ALR_libertarian_socialist_DEF: "The Republic of Alsace-Lorraine" #NT!
+ ALR_social_democrat: "Republic of Alsace-Lorraine" #NT!
+ ALR_social_democrat_ADJ: "Alsace-Lorrainian" #NT!
+ ALR_social_democrat_DEF: "The Republic of Alsace-Lorraine" #NT!
+ ALR_social_liberal: "Republic of Alsace-Lorraine" #NT!
+ ALR_social_liberal_ADJ: "Alsace-Lorrainian" #NT!
+ ALR_social_liberal_DEF: "The Republic of Alsace-Lorraine" #NT!
+ ALR_market_liberal: "Republic of Alsace-Lorraine" #NT!
+ ALR_market_liberal_ADJ: "Alsace-Lorrainian" #NT!
+ ALR_market_liberal_DEF: "The Republic of Alsace-Lorraine" #NT!
+ ALR_social_conservative: "Republic of Alsace-Lorraine" #NT!
+ ALR_social_conservative_ADJ: "Alsace-Lorrainian" #NT!
+ ALR_social_conservative_DEF: "The Republic of Alsace-Lorraine" #NT!
+ ALR_authoritarian_democrat: "Republic of Alsace-Lorraine" #NT!
+ ALR_authoritarian_democrat_ADJ: "Alsace-Lorrainian" #NT!
+ ALR_authoritarian_democrat_DEF: "The Republic of Alsace-Lorraine" #NT!
+ ALR_paternal_autocrat: "Republic of Alsace-Lorraine" #NT!
+ ALR_paternal_autocrat_ADJ: "Alsace-Lorrainian" #NT!
+ ALR_paternal_autocrat_DEF: "The Republic of Alsace-Lorraine" #NT!
+ ALR_national_populist: "Republic of Alsace-Lorraine" #NT!
+ ALR_national_populist_ADJ: "Alsace-Lorrainian" #NT!
+ ALR_national_populist_DEF: "The Republic of Alsace-Lorraine" #NT!
+ ALR_valkist: "Republic of Alsace-Lorraine" #NT!
+ ALR_valkist_ADJ: "Alsace-Lorrainian" #NT!
+ ALR_valkist_DEF: "The Republic of Alsace-Lorraine" #NT!
+  
+ ### Others 
+ ORL_vanguardist: "French Revolutionary State" #NT!
+ ORL_vanguardist_ADJ: "French" #NT!
+ ORL_vanguardist_DEF: "The French Revolutionary State" #NT!
+ ORL_collectivist: "French Revolutionary State" #NT!
+ ORL_collectivist_ADJ: "French" #NT!
+ ORL_collectivist_DEF: "The French Revolutionary State" #NT!
+ ORL_libertarian_socialist: "French Revolutionary State" #NT!
+ ORL_libertarian_socialist_ADJ: "French" #NT!
+ ORL_libertarian_socialist_DEF: "The French Revolutionary State" #NT!
+ ORL_social_democrat: "French Republic" #NT!
+ ORL_social_democrat_ADJ: "French" #NT!
+ ORL_social_democrat_DEF: "The French Republic" #NT!
+ ORL_social_liberal: "French Republic" #NT!
+ ORL_social_liberal_ADJ: "French" #NT!
+ ORL_social_liberal_DEF: "The French Republic" #NT!
+ ORL_market_liberal: "French Republic" #NT!
+ ORL_market_liberal_ADJ: "French" #NT!
+ ORL_market_liberal_DEF: "The French Republic" #NT!
+ ORL_social_conservative: "French Republic" #NT!
+ ORL_social_conservative_ADJ: "French" #NT!
+ ORL_social_conservative_DEF: "The French Republic" #NT!
+ ORL_authoritarian_democrat: "État Français" #NT!
+ ORL_authoritarian_democrat_ADJ: "Français" #NT!
+ ORL_authoritarian_democrat_DEF: "L'État Français" #NT!
+ ORL_paternal_autocrat: "État Français" #NT!
+ ORL_paternal_autocrat_ADJ: "Français" #NT!
+ ORL_paternal_autocrat_DEF: "L'État Français" #NT!
+ ORL_national_populist: "État Français" #NT!
+ ORL_national_populist_ADJ: "Français" #NT!
+ ORL_national_populist_DEF: "L'État Français" #NT!
+ ORL_valkist: "État Français" #NT!
+ ORL_valkist_ADJ: "Français" #NT!
+ ORL_valkist_DEF: "L'État Français" #NT!

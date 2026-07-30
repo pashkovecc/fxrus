@@ -1,0 +1,314 @@
+﻿l_russian:
+  
+ # This is the overwrite file for vanilla localisation, anything here will replace the vanilla localisation of the same string 
+ # It is broken up into two parts 
+ # Part one is significantly changed from vanilla (like has a totally new meaning) and thus should be translated 
+ # Part two just has spelling and grammar fixes and so doesn't need to be translated 
+  
+ ##################################################### 
+ ### Part One - Significantly Changed From Vanilla ### 
+ ##################################################### 
+  
+ ### core_l_english 
+ MENU_BAR_GAME_WIKI: "Reddit Фюреррейха"
+ MENU_DISCORD: "Discord Фюреррейха"
+ MENU_TWITTER: "Twitter Фюреррейха"
+ MENU_WIKIA: "Вики Фюреррейха"
+  
+ ### Loading Messages 
+ LOADING_GUI: "Реформируем империю"
+ LOADING_HISTORY: "Выполняем пятилетний план"
+ LOADING_SAVEGAME: "Операция «$NAME$»"
+ LOADING_SAVEGAME_NO_NAME: "Захватываем Гибралтар"
+ LOADING_DATABASES: "Пропагандируем Красную угрозу"
+ LOADING_MAP_SPRITES: "Подавляем либералов"
+ LOAD_GFX_PDXMAP_SHADERS: "Шпионим в Шанхае"
+ LOAD_GFX_PDXMAP_TERRAIN: "Финансируем сепаратистов"
+ LOAD_GFX_PDXMAP_BORDERS: "Продвигаем статус-кво"
+ LOAD_GFX_PDXMAP_TEXTURES: "Убиваем султана"
+ LOAD_GFX_PDXMAP_TREES: "Впадаем в революцию"
+ LOAD_GFX_PDXMAP_RIVERS: "Строим социальное государство"
+ LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Свергаем республику"
+ LOAD_EVENTS: "Укрепляем Гибралтар"
+ LOAD_GFX: "Маршируем в Маниле"
+ LOADING_MAIN_MENU: "Топим крейсер Худ"
+ PRECALC_NAVAL_DIST: "Саботируем немецкие заводы"
+ EXITING_TO_FRONTEND: "Обходим Мажино"
+ LOAD_INIT: "Развертываем гарнизоны в Техасе"
+ LOAD_FLAGS: "Захватываем Панамский канал"
+ PROC_FLAGS: "Бомбим советские города"
+ INIT_MAP_LOGIC: "Выбиваем дверь"
+ INIT_GAMESTATE: "Бежим из Дюнкерка"
+ EXECUTE_HISTORY: "Замышляем заговор против Дресслера"
+ CREATING_CHKSUM: "Разгоняем протесты"
+ GENERATING_GRADIENT_BORDERS: "Поддерживаем красную Южную Америку"
+  
+ OLD_SAVEGAME: "§RФайл сохранения сделан в другой версии игры и не может быть загружен.§!\n$rollback_tt$"
+ OLD_SAVEGAME_POPUP: "Файл сохранения сделан в другой версии игры и не может быть загружен.\n$rollback_tt$"
+ OLD_SAVEGAME_ALLOWED: "§RФайл сохранения сделан в другой версии игры и может вести себя непредсказуемым образом при загрузке.§!\n$rollback_tt$"
+ rollback_tt: "Предыдущие версии Фюреррейха:\n§4github.com/Fuhrerredux/fx-public§!"
+  
+ FE_SELECT_COUNTRY: "Выберите вашу страну"
+  
+ FLEET_NAME: "$NUMBER$ флот"
+ FLEET_NAME_USA: "$NUMBER$ флот ВМС США"
+ FLEET_NAME_GER: "$NUMBER$ Кригсмарине"
+ FLEET_NAME_SOV: "$NUMBER$ Советский флот"
+ RESERVE_FLEET_NAME: "$NUMBER$ резервный флот"
+ TASK_FORCE_NAME: "Оперативное соединение $NUMBER$"
+  
+ COMMAND_GROUP_NAME_GENERIC: "$N$-я армия"
+ ARMY_GROUP_NAME_GENERIC: "$N$-я группа армий"
+  
+ COMMAND_GROUP_NAME_GER: "$N$-я армия"
+ ARMY_GROUP_NAME_GER: "$N$-я группа армий"
+  
+ # Missing from vanilla 
+ diff_normal_player: "Обычная сложность"
+ interwar_antitank: "Межвоенное орудие ПТО"
+  
+ ### deployment_l_english 
+ DIVISION_EQUIPMENT: "Техника дивизии"
+  
+ ### diplomacy_l_english 
+ DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC: "Запросить у государства-марионетки контроль над рядом дивизий."
+ SEND_VOLUNTEERS_INFO: "\nОтправленные дивизии будут удалены с карты на время переброски и появятся на ней в указанной стране по завершении переброски. Дивизии вернутся автоматически, если вы закончите войну или указанное государство заключит мир."
+ DR_US_DEMOCRATIC: "§Y$US|U$§! — либералы: "
+ DR_US_NEUTRAL: "§Y$US|U$§! — консерваторы: "
+ DR_US_COMMUNIST: "§Y$US|U$§! — социалисты: "
+ DR_US_FASCIST: "§Y$US|U$§! — реакционеры: "
+  
+ ### game_rules_l_english 
+ RULE_ALLOW_GUARANTEES_FREE_DESC: "Можно гарантировать независимость любого государства в любой момент."
+ RULE_ALLOW_GUARANTEES_LIMITED_DESC: "Предоставление гарантий независимости ограничено до начала Второй Великой войны и идеологией."
+ RULE_ALLOW_LEAVE_FACTION_ALLOWED_DESC: "Полностью суверенные государства могут выходить из альянсов в мирное время.\n\n§RПримечание: Эта функция поддерживается неполностью. Обычные проверки корректности и другие механизмы предотвращения ошибок будут отключены, поэтому игра с этим параметром может привести к различным проблемам. Пожалуйста, не сообщайте нам о них. Предупрежден — значит вооружен.§!"
+ RULE_ALLOW_KICK_FACTION_ALLOWED_DESC: "Лидер альянса может исключить из него любое государство.\n\n§RПримечание: Эта функция поддерживается неполностью. Обычные проверки корректности и другие механизмы предотвращения ошибок будут отключены, поэтому игра с этим параметром может привести к различным проблемам. Пожалуйста, не сообщайте нам о них. Предупрежден — значит вооружен.§!"
+ RULE_ALLOW_WARGOALS_LIMITED_DESC: "Фабрикация целей войны ограничена до начала Второй Великой войны."
+  
+ ### peace_l_english 
+ PEACE_CONFERENCE_WHITE_PEACE: "@$ACTOR_TAG$$ACTOR_COUNTRY|Y$ и $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\nподписывают §Yмирный договор§!"
+  
+ ### rules_l_english 
+ CAN_JOIN_FACTIONS: "Не может вступать в альянсы"
+ CAN_USE_KAMIKAZE_PILOTS: "Может использовать пилотов-смертников"
+  
+ ### state_l_english 
+ twelve: "Промышленное сердце страны"
+ eleven: "Крупный промышленный центр"
+ ten: "Малый промышленный центр"
+ nine: "Местный промышленный центр"
+ eight: "Развивающийся промышленный регион"
+ seven: "Высокоурбанизированный регион"
+ six: "Урбанизированный регион"
+ five: "Урбанизирующийся регион"
+ four: "Развитый сельский регион"
+ three: "Развивающийся сельский регион"
+ two: "Слаборазвитый сельский регион"
+ one: "Периферийный регион"
+ wasteland: "Пустошь"
+ major_port: "Большой порт"
+ port: "Порт"
+ minor_port: "Малый порт"
+ small_island: "Заморская территория"
+ tiny_island: "Удаленный остров(а)"
+ enclave: "Анклав"
+  
+ GARRISON_HARDNESS_TOOLTIP: "§HСложность§!\nСложность шаблона до 70% снизит потери при действиях Сопротивления."
+  
+ ### politics_l_english 
+ RELEASE_NATION_TITLE: "ВНИМАНИЕ"
+ RELEASE_NATION_DESC: "Вы уверены, что хотите освободить государство $COUNTRY|H$ в регионах: $LIST|H$?\n\n§RНе поддерживается в Фюреррейхе и, скорее всего, вызовет баги. Действуйте на свой страх и риск!§!"
+  
+ ######################################################### 
+ ### Part Two - Only Minor Changes Compared to Vanilla ### 
+ ######################################################### 
+  
+ ALERT_ENEMY_GENERATE_WARGOAL: "$COUNTRY|Y$ готовится к войне против §Yнас§!."
+  
+  
+ ### army_l_english 
+ SWITCH_STRATEGIC_REDEPLOYMENT_MODE_DETAILED: "Стратегическая передислокация использует вашу §Yинфраструктуру§! для быстрого перемещения войск.\nВ этом режиме они получат штраф к организации в $ORG|R%$.\nСкорость дивизии ограничена $BASE|1Y$ км/ч, но может быть увеличена на $INFR|=1G$ км/ч, в зависимости от уровня §Yинфраструктуры§! региона."
+  
+ ### buildings_l_english 
+ rail_way_plural: "Железные дороги"
+  
+ ### combat_l_english 
+ PIERCING_COMBAT_DESC: "Если бронезащита противника превышает бронебойность этой дивизии, ее атака уменьшается вдвое."
+ BM_HATES_COUNTRY_DESC: "Наши войска сражаются лучше или хуже в зависимости от нашего вклада в войну."
+ TACTICS_LOCKED_BY_NOT_HANDLED: "§RЗакрыто. Чтобы получить доступ, игрок должен выполнить ряд условий.§!"
+
+
+  
+ ### core_l_english 
+ UNLOCK_COMPLETE_EFFECT: "$WHO|H$ выполняет фокус $LIST|H$\n"
+ FE_IRONMAN: "Режим Ironman - §RМожет сломать игру§!"
+ FE_IRONMAN_TOOLTIP: "В режиме Ironman недоступна командная строка с читами, а прохождение игры сохраняется в один и тот же файл. В этом режиме отступать некуда.\n\n§RВНИМАНИЕ\nЭтот режим делает невозможной загрузку старого сохранения в случае возникновения критической ошибки и может навсегда уничтожить ваше прохождение.§!"
+ FE_HISTORICAL: "Исторический ИИ - §RНе поддерживается§!"
+ FE_HISTORICAL_TOOLTIP: "§RЭта функция не используется в Фюреррейхе. Ее включение может вызвать проблемы с ИИ. Всегда оставляйте ее отключенной во время игры в Фюреррейх.§!"
+ CHARACTER_ADVISOR_ON_REMOVE_TOOLTIP: "\nПри увольнении:"
+ CHARACTER_ADVISOR_CANT_BE_FIRED_ONCE_HIRED: "§HНанятого советника нельзя уволить§!"
+ CHARACTER_ADVISOR_CANT_BE_FIRED: "§RСоветника нельзя уволить§!"
+  
+  
+ ### diplomacy_l_english 
+ puppet_opinion: "Государство-марионетка"
+
+  
+ ### effects_l_english 
+ EFFECT_CONTEXT_LEADER: "$LEADER|H$"
+ EFFECT_SET_LEADER_NATIONALITY: "присоединится к государству $COUNTRYDEF|Y$"
+ EFFECT_UNLOCK_DECISION: "Будет открыто решение: £decision_icon_small $NAME|H$$EFFECT$"
+ EFFECT_UNLOCK_DECISION_CATEGORY: "Будут открыты решения: £decision_icon_small $NAME|H$."
+ EFFECT_SET_STATE_CATEGORY: "Категория региона изменится на: $CATEGORY|Y$."
+ EFFECT_ACTIVATE_TARGETED_DECISION: "Будет активировано: £decision_icon_small $NAME|H$"
+ EFFECT_REMOVE_TARGETED_DECISION: "Будет убрано: £decision_icon_small $NAME|H$"
+  
+ EFFECT_ADD_CLAIM_BY: "@$TAG$$COUNTRY|H$ получит претензии на регион."
+ EFFECT_REMOVE_CLAIM_BY: "@$TAG$$COUNTRY|H$ потеряет претензии на регион."
+  
+ CHANGE_DIV_TEMPLATE_EFFECT: "Дивизия меняет шаблон на $TEMPLATE|H$"
+  
+ EFFECT_RETIRE_CHARACTER: "$NAME|H$: уволить с поста"
+  
+ EFFECT_CREATE_UNIT: "Создать §H$OWNER|H$ую§! боевую единицу.\n"
+ EFFECT_CREATE_UNIT_LOCATION: "Создать §H$OWNER|H$ую§! боевую единицу в регионе $STATE|H$.\n"
+ EFFECT_CREATE_UNIT_WITH_COUNT: "Создать $COUNT|H$ §H$OWNER|H$их§! боевых единиц.\n"
+ EFFECT_CREATE_UNIT_LOCATION_WITH_COUNT: "Создать $COUNT|H$ §H$OWNER|H$их§! боевых единиц в регионе $STATE|H$.\n"
+  
+ EFFECT_ADD_VP: "Добавить $VALUE|H$ £victory_points£ в регион $PROVINCE|H$.\n"
+ EFFECT_SUBTRACT_VP: "Изъять $VALUE|H$£victory_points£ из региона $PROVINCE|H$\n"
+ EFFECT_SET_VP: "Установить победные очки региона $PROVINCE|H$ на $VALUE|H$£victory_points£\n"
+ EFFECT_ADD_DYMAMIC_MODIFIER: "Добавляется $NAME|H$, что дает:\n$DESC$\n"
+ EFFECT_ADD_DYMAMIC_MODIFIER_WITH_DAYS: "Добавляется $NAME|H$ ($NUM|H$ д.) что дает:\n$DESC$\n"
+ EFFECT_REMOVE_DYMAMIC_MODIFIER: "Убирается $NAME|H$, что дает:\n$DESC$\n"
+ EFFECT_SET_COLLABORATION: "Поддержать коллаборационистов в государстве $TARGET|H$: $VALUE|+%0$\n"
+ EFFECT_ADD_COLLABORATION: "Увеличить влияние коллаборационистов в государстве $TARGET|H$: $VALUE|+%0$\n"
+ EFFECT_REMOVE_COLLABORATION: "Уменьшить влияние коллаборационистов в государстве $TARGET|H$: $VALUE|-%0$\n"
+  
+  
+ ### government_in_exile_l_english 
+ COUNTRYVIEW_GIE_INFO: "Принявшее нас государство ($HOSTNAMEDEF|H$) пользуется преимуществами высокой §Hлегитимности§!\n§HЛегитимность§! определяет, сколько §Hлюдских ресурсов ветеранов в изгнании§! получает принявшая сторона и сколько людских ресурсов получаем мы.\n\n§HДивизии ветеранов в изгнании§! получают бонусы в сражении со следующим противником: $OCCUPIERLIST$\n     - Атака: $ATK_VS_OCCUPIER|%0+$\n     - Защита: $DEF_VS_OCCUPIER|%+0$\nДополнительные бонусы во время сражения на наших национальных территориях:\n     - Атака: $ATK_ON_CORE|%+0$\n     - Защита: $DEF_ON_CORE|%+0$"
+ EXILES_VIEW_OCCUPIER_FLAG_TOOLTIP: "Государство $OCCUPIERNAMEDEF|HU$ оккупирует национальную территорию, которой владеет $EXILENAMEDEF|H$.\n$EXILEADJ|H$ие §Hкадровые дивизии в изгнании§! получат боевые бонусы в сражении с ними.\n     – Атака: $ATK_VS_OCCUPIER|%0+$\n     – Оборона: $DEF_VS_OCCUPIER|%+0$"
+  
+ ### modifiers_l_english
+ MODIFIER_PARADROP_ORGANIZATION_FACTOR: "Организация ВДВ"
+
+ #missing in vanilla 
+  
+ modifier_state_repair_speed_infrastructure_factor: "$modifier_repair_speed_infrastructure_factor$"
+ modifier_state_repair_speed_industrial_complex_factor: "$modifier_repair_speed_industrial_complex_factor$"
+ modifier_state_repair_speed_arms_factory_factor: "$modifier_repair_speed_arms_factory_factor$"
+ modifier_state_repair_speed_rail_way_factor: "$modifier_repair_speed_rail_way_factor$"
+  
+ ### musicplayer_l_english 
+ sabaton_TITLE: "§RSabaton - отключите «В случ. порядке с весом»!§!"
+  
+  
+ ### plane_designer_l_english 
+ small_plane_cas_airframe_5: "Корпус сверхзвукового штурмовика"
+ small_plane_cas_airframe_5_desc: "$small_plane_airframe_5_desc$"
+ small_plane_naval_bomber_airframe_5: "Корпус сверхзвукового морского бомбардировщика"
+ small_plane_naval_bomber_airframe_5_desc: "$small_plane_airframe_5_desc$"
+ small_plane_suicide_airframe_5: "Корпус сверхзвукового самолета-камикадзе"
+ small_plane_suicide_airframe_5_desc: "$small_plane_airframe_5_desc$"
+  
+ ### politics_l_english 
+ POLITICS_LEADER: "§TЛидер государства: $LEADER|H$§!"
+ POLITICS_NEXT_ELECTION: "Следующие выборы: $DATE|H$"
+ POLITICS_IDEA_CANCEL_DESC: "Будет отменена, если:"
+  
+ ### province_names_l_english 
+ neighbour: "Сосед"
+ ### research_l_english
+ RESEARCH_BONUS_AHEAD_DESC: "$NAME$: §Y$COUNT$×§! $VALUE|G%0$ к опережению времени"
+ #here!
+ RESEARCH_BONUS_SPEED_AHEAD_DESC: "$NAME$: §Y$COUNT$×§! $VALUE1|G%0$ к темпу исследования и $VALUE2|G%0$ к опережению времени"
+ RESEARCH_BONUS_SPEED_NO_COUNT_DESC: "Темп исследования будет понижен на $VALUE|G%0$"
+ RESEARCH_BONUS_AHEAD_NO_COUNT_DESC: "Штраф за опережение времени будет снижен на $VALUE|G0%$ года/лет"
+ RESEARCH_YEAR_AHEAD_PENALTY_RED: "§RОпережение времени в годах: $YEARS|2$ (+$VALUE|%0$). Штраф за это снижен (+$RED|%0$) благодаря национальным фокусам и постепенно будет уменьшаться.§!"
+ tech_signal_company_desc: "Для установления и поддержания связи на поле боя всегда требовались особые навыки. С возникновением новых средств связи и обнаружения в ходе Вельткрига открылись новые практические возможности"
+ tech_maintenance_company4_desc: "Опыт создания техники с нагруженным резервом, накопленный в Вельткриге, можно применить, чтобы упростить процедуру ремонта более современной техники."
+ artillery1_desc: "Используя более современные материалы и механизмы, мы можем переделать гаубицы и полевую артиллерию, оставшуюся после Вельткрига, для ведения боевых действий в современных условиях."
+ antitank1_desc: "Важность эффективных противотанковых орудий была доказана еще во время Вельткрига. C появлением новых моделей танков необходимо разработать следующее поколение средств ПТО."
+ mountain_gun_desc: "Горный рельеф Северной Индии помог разработать артиллерийское орудие, которое можно разобрать и перевезти верхом на мулах в нужную точку."
+
+ human_infantry_offensive: "Волновой штурм"
+  
+ ### missing in vanilla, delete if added 
+ armored_car1_desc: "Если предыдущие бронемашины представляли собой обычные коммерческие машины с тонкой стальной броней, то эта модель была изначально разработана как полноценная боевая машина с броней и легким вооружением."
+ armored_car2_desc: "Улучшенная внутренняя компоновка и увеличенный боезапас делают эту бронемашину значительно эффективнее."
+ armored_car3_desc: "Изменения на поле боя требуют гораздо более мощного вооружения и усиленной брони, чтобы успешно бороться с легкой техникой противника и возвращаться с задания."
+ armored_car_at_upgrade: "Противотанковая бронемашина"
+ armored_car_at_upgrade_desc: "Рано или поздно наши легкие механизированные части столкнутся с танковыми силами противника. Разработка специализированной противотанковой бронемашины даст им шанс выстоять в таком бою."
+  
+ ### stats_l_english
+ STAT_COMMON_ACCLIMATIZATION_HOT_GAIN: "Фактор прироста акклиматизации к жаре"
+ STAT_COMMON_ACCLIMATIZATION_COLD_GAIN: "Фактор прироста акклиматизации к холоду"
+ 
+ STAT_COMMON_BUILD_COST_IC_MOD_DIFF: " $VALUE|=-2%$ "
+ STAT_CARRIER_SIZE_MOD_DIFF: " $VALUE|=+0$§G0§!"
+  
+ ### tank_modules_l_english 
+ amphibious_tank_chassis: "Шасси плавающего танка"
+ amphibious_tank_chassis_1: "Шасси плавающего танка"
+
+ ### Vanilla GER equipment loc is defined in common file, had to override it here (Suffering) 
+ GER_light_tank_equipment_0: "«Штурмпанцерваген» II"
+ GER_medium_tank_equipment_0: "«Штурмпанцеркампфваген» II"
+ GER_heavy_tank_equipment_0: "«Хеерпанцерваген» II"
+ GER_light_tank_flame_equipment_1: "«Фламмпанцер» I"
+ GER_light_tank_flame_equipment_2: "«Фламмпанцер» II"
+ GER_light_tank_flame_equipment_3: "«Фламмпанцер» III"
+  
+ GER_light_tank_amphibious_equipment_1: "«Швиммпанцер» I"
+ GER_light_tank_amphibious_equipment_2: "«Швиммпанцер» II"
+ GER_light_tank_amphibious_equipment_3: "«Швиммпанцер» III"
+  
+ GER_medium_tank_flame_equipment_0: "«Фламмпанцер» II"
+ GER_medium_tank_flame_equipment_1: "«Фламмпанцер» III"
+ GER_medium_tank_flame_equipment_2: "«Фламмпанцер» IV"
+ GER_medium_tank_flame_equipment_3: "«Фламмпанцер» VI"
+  
+ GER_medium_tank_amphibious_equipment_0: "«Швиммпанцер» II"
+ GER_medium_tank_amphibious_equipment_1: "«Швиммпанцер» III"
+ GER_medium_tank_amphibious_equipment_2: "«Швиммпанцер» IV"
+ GER_medium_tank_amphibious_equipment_3: "«Швиммпанцер» VI"
+  
+ GER_heavy_tank_flame_equipment_0: "«Фламмпанцер» II"
+ GER_heavy_tank_flame_equipment_1: "«Фламмпанцер» III"
+ GER_heavy_tank_flame_equipment_2: "«Фламмпанцер» V"
+ GER_heavy_tank_flame_equipment_3: "«Фламмпанцер» VII"
+ GER_heavy_tank_amphibious_equipment_0: "«Швиммпанцер» II"
+ GER_heavy_tank_amphibious_equipment_1: "«Швиммпанцер» III"
+ GER_heavy_tank_amphibious_equipment_2: "«Швиммпанцер» V"
+ GER_heavy_tank_amphibious_equipment_3: "«Швиммпанцер» VII"
+  
+  ### Missing chassis loc 
+ gwtank_chassis_short: "Шасси танка времен Великой войны"
+ super_heavy_tank_chassis_short: "Шасси сверхтяжелого танка"
+ main_battle_tank_chassis_short: "Шасси современного танка"
+ amphibious_tank_chassis_short: "Шасси танка-амфибии"
+  
+ ### triggers_l_english 
+  
+ #Missing spaces after colon 
+ TRIGGER_STATE_FLAG_NOT_SET: "Не: "
+ TRIGGER_COUNTRY_FLAG_NOT_SET: "Не: "
+ TRIGGER_GLOBAL_FLAG_NOT_SET: "Не: "
+ TRIGGER_UNIT_LEADER_FLAG_NOT_SET: "Не: "
+  
+ #Lacking line breaks 
+ TRIGGER_HAS_DESIGN_BASED_ON: "Есть готов. к постройке $ARCHETYPE|H$\n"
+ TRIGGER_HAS_DYMAMIC_MODIFIER: "Обладает модификатором: $NAME|H$\n"
+ TRIGGER_HAS_NOT_DYMAMIC_MODIFIER: "Не обладает модификатором: $NAME|H$\n"
+ TRIGGER_HAS_RAILWAY_CONNECTION: "Есть железнодорожное сообщение «$START|H$ — $GOAL|H$»\n"
+ TRIGGER_IS_FRIEND: "Союзник государства @$TAG$$OTHER|H$\n"
+ TRIGGER_IS_NOT_FRIEND: "Не союзник государства @$TAG$$OTHER|H$\n"
+ TRIGGER_HAS_RESOURCES_RIGHT: "$COUNTRY|H$ обладает всеми правами на ресурс «$RESOURCES|H$»\n"
+ TRIGGER_HAS_NOT_RESOURCES_RIGHT: "$COUNTRY|H$ не обладает всеми правами на ресурс «$RESOURCES|H$»\n"
+  
+ ### units_l_english 
+
+ GOOD_ARMOR_DEFENSE_DESC: "Если атакующая вражеская дивизия не может пробить нашу броню, мы получим на $ORG|%0G$ меньше организации и на $STR|%0G$ меньше урона боеспособности.\n"
+ GOOD_ARMOR_ATTACK_DESC_STR: "Если мы атакуем вражескую дивизию, которая не может пробить нашу броню, мы наносим на $VAL|%0G$ больше урона.\n"
+ GOOD_ARMOR_ATTACK_DESC_ORG: "Если мы атакуем вражескую дивизию, которая не может пробить нашу броню, их организация снизится на $VAL|%G0$.\n"

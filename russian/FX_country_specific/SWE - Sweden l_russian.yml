@@ -1,0 +1,1623 @@
+﻿l_russian:
+  
+ ### Country Names 
+ SWE_vanguardist: "Sweden" #NT!
+ SWE_vanguardist_ADJ: "Swedish" #NT!
+ SWE_vanguardist_DEF: "the Swedish People's Republic" #NT!
+ SWE_collectivist: "Sweden" #NT!
+ SWE_collectivist_ADJ: "Swedish" #NT!
+ SWE_collectivist_DEF: "the Swedish People's Republic" #NT!
+ SWE_libertarian_socialist: "Sweden" #NT!
+ SWE_libertarian_socialist_ADJ: "Swedish" #NT!
+ SWE_libertarian_socialist_DEF: "the Swedish People's Republic" #NT!
+ SWE_social_democrat: "Sweden" #NT!
+ SWE_social_democrat_ADJ: "Swedish" #NT!
+ SWE_social_democrat_DEF: "the Kingdom of Sweden" #NT!
+ SWE_social_liberal: "Sweden" #NT!
+ SWE_social_liberal_ADJ: "Swedish" #NT!
+ SWE_social_liberal_DEF: "the Kingdom of Sweden" #NT!
+ SWE_market_liberal: "Sweden" #NT!
+ SWE_market_liberal_ADJ: "Swedish" #NT!
+ SWE_market_liberal_DEF: "the Kingdom of Sweden" #NT!
+ SWE_social_conservative: "Sweden" #NT!
+ SWE_social_conservative_ADJ: "Swedish" #NT!
+ SWE_social_conservative_DEF: "the Kingdom of Sweden" #NT!
+ SWE_authoritarian_democrat: "Sweden" #NT!
+ SWE_authoritarian_democrat_ADJ: "Swedish" #NT!
+ SWE_authoritarian_democrat_DEF: "the Kingdom of Sweden" #NT!
+ SWE_paternal_autocrat: "Sweden" #NT!
+ SWE_paternal_autocrat_ADJ: "Swedish" #NT!
+ SWE_paternal_autocrat_DEF: "the Kingdom of Sweden" #NT!
+ SWE_national_populist: "Sweden" #NT!
+ SWE_national_populist_ADJ: "Swedish" #NT!
+ SWE_national_populist_DEF: "the Kingdom of Sweden" #NT!
+ SWE_valkist: "Sweden" #NT!
+ SWE_valkist_ADJ: "Swedish" #NT!
+ SWE_valkist_DEF: "the Kingdom of Sweden" #NT!
+  
+ SWE_REPUBLIC_vanguardist: "Sweden" #NT!
+ SWE_REPUBLIC_vanguardist_ADJ: "Swedish" #NT!
+ SWE_REPUBLIC_vanguardist_DEF: "the Swedish Proletarian Union" #NT!
+ SWE_REPUBLIC_collectivist: "Sweden" #NT!
+ SWE_REPUBLIC_collectivist_ADJ: "Swedish" #NT!
+ SWE_REPUBLIC_collectivist_DEF: "the Swedish Socialist Republic" #NT!
+ SWE_REPUBLIC_libertarian_socialist: "Sweden" #NT!
+ SWE_REPUBLIC_libertarian_socialist_ADJ: "Swedish" #NT!
+ SWE_REPUBLIC_libertarian_socialist_DEF: "the Swedish Socialist Republic" #NT!
+ SWE_REPUBLIC: "Republic of Sweden" #NT!
+ SWE_REPUBLIC_ADJ: "Swedish" #NT!
+ SWE_REPUBLIC_DEF: "the Republic of Sweden" #NT!
+ SWE_REPUBLIC_national_populist: "Swedish State" #NT!
+ SWE_REPUBLIC_national_populist_ADJ: "Swedish" #NT!
+ SWE_REPUBLIC_national_populist_DEF: "the Swedish National State" #NT!
+  
+ SWE_SCA_vanguardist: "Scandinavia" #NT!
+ SWE_SCA_vanguardist_ADJ: "Scandinavian" #NT!
+ SWE_SCA_vanguardist_DEF: "the Scandinavian Union of Soviets" #NT!
+ SWE_SCA_collectivist: "Scandinavia" #NT!
+ SWE_SCA_collectivist_ADJ: "Scandinavian" #NT!
+ SWE_SCA_collectivist_DEF: "the Scandinavian Union of Soviets" #NT!
+ SWE_SCA_libertarian_socialist: "Scandinavia" #NT!
+ SWE_SCA_libertarian_socialist_ADJ: "Scandinavian" #NT!
+ SWE_SCA_libertarian_socialist_DEF: "the Scandinavian Union of Soviets" #NT!
+ SWE_SCA_social_democrat: "Scandinavia" #NT!
+ SWE_SCA_social_democrat_ADJ: "Scandinavian" #NT!
+ SWE_SCA_social_democrat_DEF: "the State of Scandinavia" #NT!
+ SWE_SCA_social_liberal: "Scandinavia" #NT!
+ SWE_SCA_social_liberal_ADJ: "Scandinavian" #NT!
+ SWE_SCA_social_liberal_DEF: "the State of Scandinavia" #NT!
+ SWE_SCA_market_liberal: "Scandinavia" #NT!
+ SWE_SCA_market_liberal_ADJ: "Scandinavian" #NT!
+ SWE_SCA_market_liberal_DEF: "the State of Scandinavia" #NT!
+ SWE_SCA_social_conservative: "Scandinavia" #NT!
+ SWE_SCA_social_conservative_ADJ: "Scandinavian" #NT!
+ SWE_SCA_social_conservative_DEF: "the State of Scandinavia" #NT!
+ SWE_SCA_authoritarian_democrat: "Scandinavia" #NT!
+ SWE_SCA_authoritarian_democrat_ADJ: "Scandinavian" #NT!
+ SWE_SCA_authoritarian_democrat_DEF: "the State of Scandinavia" #NT!
+ SWE_SCA_paternal_autocrat: "Scandinavia" #NT!
+ SWE_SCA_paternal_autocrat_ADJ: "Scandinavian" #NT!
+ SWE_SCA_paternal_autocrat_DEF: "the State of Scandinavia" #NT!
+ SWE_SCA_national_populist: "Scandinavia" #NT!
+ SWE_SCA_national_populist_ADJ: "Scandinavian" #NT!
+ SWE_SCA_national_populist_DEF: "the State of Scandinavia" #NT!
+ SWE_SCA_valkist: "Scandinavia" #NT!
+ SWE_SCA_valkist_ADJ: "Scandinavian" #NT!
+ SWE_SCA_valkist_DEF: "the State of Scandinavia" #NT!
+  
+ #### Political Parties ##### 
+  
+ SWE_vanguardist_party: "SKP" #NT!
+ SWE_vanguardist_party_long: "Sveriges Kommunistiska Parti (Sillénarna)\n§gSwedish Communist Party§!\n§LThe Bolshevik revolution in Russia divided the Swedish working class between those supporting the revolution and the Moscow line and those seeking an independent course for socialism. The Communist Party represent the former line. Since the revolution, the party have experienced its own splinters, but remaining are many of the most loyal members of the Communist International and the vision of Leninist Socialism. The most pro-Comintern wing is led by Hugo Sillén. This wing wants the party to be a strong vanguard in opposition to the social valkists that dear call themselves socialist.§!" #NT!
+ SWE_collectivist_party: "SKP" #NT!
+ SWE_collectivist_party_long: "Sveriges Kommunistiska Parti\n§gSwedish Communist Party§!\n§LThe Bolshevik revolution in Russia divided the Swedish working class between those supporting the revolution and the Moscow line and those seeking an independent course for socialism. The Communist Party represent the former line. Since the revolution, the party have experienced its own splinters, but remaining are many of the most loyal members of the Communist International and the vision of Leninist Socialism. Most communists support a revolution, but want the dictatorship of the proletariat to represent the democratic will of the workers, not the will of a small party vanguard.§!" #NT!
+ SWE_libertarian_socialist_party: "VsP" #NT!
+ SWE_libertarian_socialist_party_long: "Vänstersocialistiska Partiet\n§gLeft Socialist Party§!\n§LThe Left Socialists represents both members of the Communist Party unwilling to follow the Moscow line and Social Democrats dissatisfied with the party's moderation. This movement have come under the leadership of Göteborg politician Albin Ström, who have been in both camps, with figures like Karl Kilbom and Nils Flyg also being strong figures. The Left Socialists are inspired by the course set by the socialists in Norway, seeking to create a similar independent-minded course for Swedish socialism.§!" #NT!
+ SWE_social_democrat_party: "SAP" #NT!
+ SWE_social_democrat_party_long: "Sveriges Socialdemokratiska Arbetareparti\n§gSwedish Social Democratic Workers' Party§!\n§LThe Social Democratic Workers' Party was founded in 1889 as a socialist party seeking to advance the rights of the working class. During the first couple of decades of the 20th century, it has experienced both left-wing splinters forming more radical parties and to be on the forefront in the fight for female suffrage. However, with the stain of socialism attached to the party, it has been difficult for it to achieve power. This, despite the effort of leaders like Hjalmar Branting and Per Albin Hansson to moderate the party away from marxism and towards an ideology seeking to establish 'folkhemmet' in Sweden - a society of equality and social welfare.§!" #NT!
+ SWE_socdem_republican_party: "SAP - Republikanerna" #NT!
+ SWE_socdem_republican_party_long: "Sveriges Socialdemokratiska Arbetareparti - Republikanerna\n§gSwedish Social Democratic Workers' Party - Republicans§!" #NT!
+ SWE_social_liberal_party: "B" #NT!
+ SWE_social_liberal_party_long: "Bondeförbundet\n§gFarmers' League§!\n§LThe Farmers' League was formed in 1913 and are on the forefront in representing the Nordic Agrarian movement in Sweden. The party seek to speak up for the people living in the countryside, especially the interests of the farmers. With its primary focus being representing the Swedish farmers and the countryside, the party can be hard to pin down. With some members leaning more conservative, while others seek to strengthen the party's bonds to the party of the workers - the Social Democrats. Under the leadership of Axel Pehrsson, the party have moved towards the latter position.§!" #NT!
+ SWE_soclib_socialist_party: "BAF" #NT!
+ SWE_soclib_socialist_party_long: "Bonde- och Arbetarförbundet\n§gFarmers' and Workers' League§!\n§LThe Farmers' and Workers' League represent an agrarianism without the reactionary stains of its previous incarnation. The rights of the farmers and the countryside workers are still important, but they understand that agrarian socialism are the best way to support these people.§!" #NT!
+ SWE_market_liberal_party: "FP" #NT!
+ SWE_market_liberal_party_long: "Folkpartiet\n§gPeople's Party§!\n§LThe People's Party are a fairly new party, but one with roots going back to the start of the century. While the first liberal party was formed in 1902, it divided itself over the issue of prohibition during the 1920s, before reconciling and forming the People's Party in 1934. While historically a party for members of the Free-Churches, it has grown in popularity among urban liberals. In regards to the Hammarskjöld government, the party remain splitted. More conservative liberals are more supportive of Hammarskjöld, while more social liberals seek to ally with the Social Democrats against authoritarianism.§!" #NT!
+ SWE_marlib_socialist_party: "DF" #NT!
+ SWE_marlib_socialist_party_long: "Demokratiska Folkförbundet\n§gDemocratic People's League§!\n§LThe Democratic People's League represent a liberalism that has been freed from the clenches of liberal capitalism. It seeks to strengthen the democratic side of our revolutionary democracy, while subscribing to a liberal socialism.§!" #NT!
+ SWE_social_conservative_party: "AV" #NT!
+ SWE_social_conservative_party_long: "Allmänna Valmansförbundet\n§gGeneral Electoral League§!\n§LThe General Electoral League are the latest incarnation of the conservative movement in Sweden. This movement was formed during the start of the 20th century as a reaction to the growing influence of the Social Democrats and the Liberals. At first the movement supported a nationalistic conservatism in favor of protectionism. However, during the leadership of the Admiral - Arvid Lindman - the party moderated itself and became more pragmatic. This swing has been mostly reversed with the rise in political polarization and the prime ministership of Carl Gustaf Hammarskjöld. Even so, there are still conservatives that seek pragmatic reforms and freer trade.§!" #NT!
+ SWE_soccon_hogern_party: "HR" #NT!
+ SWE_soccon_hogern_party_long: "Högerns Riksorganisation\n§gThe National Organization of the Right§!\n§LLike its previous incarnations, the General Electoral League have been reorganized into a new organization with a new name. The National Organization of the Right, often just called the Right, tries both to distance itself from the authoritarian leanings of its previous incarnation, as well as portraying itself as a conservative party. With a new generation of Swedish conservatives, headed by Gösta Bagge and Fritiof Domö, the party seek to present a fresher face to conservatism.§!" #NT!
+ SWE_soccon_socialist_party: "KS" #NT!
+ SWE_soccon_socialist_party_long: "Kristent Samhället\n§gChristian Society§!\n§LThe Christian Society represent a conservatism purged of the influences of reactionaries and capitalists. It seeks to further the interests of the Christian workers in Sweden, while not working to undermine our revolutionary democracy.§!" #NT!
+ SWE_authoritarian_democrat_party: "AV" #NT!
+ SWE_authoritarian_democrat_party_long: "Allmänna Valmansförbundet\n§gGeneral Electoral League§!\n§LThe General Electoral League are the latest incarnation of the conservative movement in Sweden. This movement was formed during the start of the 20th century as a reaction to the growing influence of the Social Democrats and the Liberals. At first the movement supported a nationalistic conservatism in favor of protectionism. However, during the leadership of the Admiral - Arvid Lindman - the party moderated itself and became more pragmatic. This swing has been mostly reversed with the rise in political polarization and the prime ministership of Carl Gustaf Hammarskjöld. This wing of the party seek to balance a veneer of democratic legitimacy with a goal to bring back Protestantism and Monarchism to Sweden.§!" #NT!
+ SWE_autdem_national_league: "SNF" #NT!
+ SWE_autdem_national_league_long: "Sveriges Nationella Förbund\n§gNational League of Sweden§!\n§LThe National League was previously the conservative youth league, but left the party when the conservatives moderated away from reactionary nationalism. The National League seeks to continue the authoritarian legacy of Hammarskjöld, while also seeking to become the new leading faction on the nationalist far-right.§!" #NT!
+ SWE_paternal_autocrat_party: "KFP" #NT!
+ SWE_paternal_autocrat_party_long: "Kyrkliga Folkpartiet\n§gClerical People's Party§!\n§LThe Clerical People's Party are a small Christian party in Sweden. The party are strong supporters of the power of the King, as well as supportive of rearmament and in opposition to parliamentarianism. Ideally, it would like to restore morality to a Sweden living in sodomy.§!" #NT!
+ SWE_pataut_hammarskjold: "AV - HK" #NT!
+ SWE_pataut_hammarskjold_long: "Allmänna Valmansförbundet - Hammarskjöld-klicken\n§gGeneral Electoral League - the Hammarskjöld Clique§!\n§LThe General Electoral League are the latest incarnation of the conservative movement in Sweden. This movement was formed during the start of the 20th century as a reaction to the growing influence of the Social Democrats and the Liberals. At first the movement supported a nationalistic conservatism in favor of protectionism. However, during the leadership of the Admiral - Arvid Lindman - the party moderated itself and became more pragmatic. This swing has been mostly reversed with the rise in political polarization and the prime ministership of Carl Gustaf Hammarskjöld. The most loyal members to the prime minister seek to create a military dictatorship to protect the people.§!" #NT!
+ SWE_pataut_national_league: "SNF" #NT!
+ SWE_pataut_national_league_long: "Sveriges Nationella Förbund\n§gNational League of Sweden§!\n§LThe National League was formed by prime minister Elmo Lindholm to replace party politics entirely. It is an anti-democratic, corporatist and nationalist organization that seeks to unite all Swedish society in loyal service to King, Fatherland and God. While growing out of the conservatives, the National League have begun to adopt some of the policies of the New Swedish Movement, mending 'nysvenskhet' to fit their neo-Caroleanist ideas.§!" #NT!
+ SWE_pataut_army: "Armékoalitionen" #NT!
+ SWE_pataut_army_long: "Nationella Återhämtningskoalitionen\n§gNational Recovery Coalition§!\n§LWith the sudden death of Carl Gustaf Hammarskjöld, leading military figure have couped the government and formed the National Recovery Coalition. However, this coalition is left weakened and the regime is likely to fall apart.§!" #NT!
+ SWE_national_populist_party: "NR" #NT!
+ SWE_national_populist_party_long: "Nysvenska Rörelsen\n§gNew Swedish Movement§!\n§LThe New Swedish Movement started as a student organization in 1930. Over the few years since then, it has managed to grow into one of the biggest political parties in Sweden, uniting both far-right students and intellectuals together with ultra-nationalist military thugs. The movement subscribes to an ideology called 'nysvenskhet'. An ideology that emphazize Swedish nationalism, corporatism, anti-communism and a disdain for democracy. Another key feature, are the movement's cult of personality around its leader - Per Engdahl.§!" #NT!
+ SWE_natpop_socialist_party: "SNA" #NT!
+ SWE_natpop_socialist_party_long: "Svenska Nationella Arbetarparti\n§gSwedish National Labour Party§!\n§LThe Swedish National Labour Party represent a nationalism that has fully embraced socialism. While still a harbringer of nationalist xenophobia, it is committed to the interests of the Swedish working class and will not undermine our revolutionary democracy.§!" #NT!
+ SWE_valkist_party: "VAP" #NT!
+ SWE_valkist_party_long: "Valkistiska Arbetarepartiet\n§gValkist Workers' Party§!\n§LThe Valkist Workers' Party is a party formed and led by Sven Olov Lindholm, with heavy inspiration from the Valkist movement in Germany. It supports nationalistic socialist economics and venerates a small cult around its leader. However, it remains fairly small in comparison to the New Swedish Movement.§!" #NT!
+  
+ #### IDEAS #### 
+  
+ SWE_unbroken_neutrality_idea: "Unbroken Neutrality" #NT!
+ SWE_unbroken_neutrality_idea_desc: "Sweden has, since 1814, been a country at peace. No wars since then has touched the Kingdom, and has continued to stay neutral even when the world around it burned." #NT!
+  
+ SWE_sluggish_economy_idea: "Sluggish Economy" #NT!
+ SWE_sluggish_economy_idea_desc: "The Valkist overthrow of the German Republic, our biggest economic partner since the Great War, had a sour impact on the Swedish economy. Due to our general pro-German leanings, we have not been able to harvest the fruits shared by the economic partners of the victors of the war. However, our government has finally begun to look outwards, to London and Paris, to integrate Sweden as a trade partner and to finally overcome these economic hardships." #NT!
+ SWE_sluggish_economy1_idea: "Sluggish Economy" #NT!
+ SWE_sluggish_economy1_idea_desc: "The Valkist overthrow of the German Republic, our biggest economic partner since the Great War, had a sour impact on the Swedish economy. Due to our general pro-German leanings, we have not been able to harvest the fruits shared by the economic partners of the victors of the war. However, our government has finally begun to look outwards, to London and Paris, to integrate Sweden as a trade partner and to finally overcome these economic hardships." #NT!
+  
+ SWE_revolution_and_reaction_idea: "Revolution and Reaction" #NT!
+ SWE_revolution_and_reaction_idea_desc: "Swedish politics are broken. Due to the economic crises that we have endured, political polarization has been ripe. Unwillingness for the established parties to cooperate with the Social Democrats, fearing it would slide into revolution, have only helped to fuel more radical movements since little positive change is being made. The prime ministership of Carl Gustaf Hammarskjöld was meant to stabilize Sweden. However, there are few signs that he has been able to fulfill this mission. If Sweden isn’t able to bring itself out of crises and polarization, it is doomed to fall to revolutionary or reactionary forces." #NT!
+ SWE_revolution_and_reaction1_idea: "Revolution and Reaction" #NT!
+ SWE_revolution_and_reaction1_idea_desc: "Swedish politics are broken. Due to the economic crises that we have endured, political polarization has been ripe. Unwillingness for the established parties to cooperate with the Social Democrats, fearing it would slide into revolution, have only helped to fuel more radical movements since little positive change is being made. The prime ministership of Carl Gustaf Hammarskjöld was meant to stabilize Sweden. However, there are few signs that he has been able to fulfill this mission. If Sweden isn’t able to bring itself out of crises and polarization, it is doomed to fall to revolutionary or reactionary forces." #NT!
+  
+ SWE_conservative_military_idea: "An Outdated Military" #NT!
+ SWE_conservative_military_idea_desc: "The last time Sweden went to war, it was to secure our control over Norway after the Treaty of Kiel in 1814. Since then, our military has only had our neutrality to guard. In this situation, the Swedish government has avoided necessary reforms to the military, making it increasingly outdated in comparison to other militaries on the continent. Our conservative general staff is more interested in getting themselves involved in the governing of Sweden than assuring that our military is able to defend Sweden. This is something that has to change." #NT!
+ SWE_armen_idea: "An Outdated Military" #NT!
+ SWE_armen_idea_desc: "The last time Sweden went to war, it was to secure our control over Norway after the Treaty of Kiel in 1814. Since then, our military has only had our neutrality to guard. In this situation, the Swedish government has avoided necessary reforms to the military, making it increasingly outdated in comparison to other militaries on the continent. Our conservative general staff is more interested in getting themselves involved in the governing of Sweden than assuring that our military is able to defend Sweden. This is something that has to change." #NT!
+  
+ SWE_new_swedish_generation_idea: "A New Swedish Generation" #NT!
+ SWE_new_swedish_generation_idea_desc: "A shift has happened in Swedish universities. While these institutions have often challenged the conservative consensus of Sweden, a new challenge has risen with the New Swedish movement. Per Engdahl and his generation of far-right figures represent a new kind of nationalism. Instead of being working class men of a military background, they are university students and intellectuals who bring an ideological foundation to their movement. One that has proven attractive for many young Swedes that seek hope and change in these troublesome times." #NT!
+  
+ SWE_ban_radical_parties_idea: "Recovering Political Wounds" #NT!
+  
+ SWE_effect_london_crash_idea: "Effects of the London Crash" #NT!
+ SWE_effect_london_crash_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+  
+ SWE_towards_austerity_idea: "Effects of the London Crash" #NT!
+ SWE_towards_austerity_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_close_unprofitable_businesses_idea: "Effects of the London Crash" #NT!
+ SWE_close_unprofitable_businesses_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_cut_social_spending_idea: "Effects of the London Crash" #NT!
+ SWE_cut_social_spending_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_restore_trade_relations_idea: "Effects of the London Crash" #NT!
+ SWE_restore_trade_relations_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+  
+ SWE_renounce_foreign_debt_idea: "Effects of the London Crash" #NT!
+ SWE_renounce_foreign_debt_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_nationalize_key_industries_idea: "Effects of the London Crash" #NT!
+ SWE_nationalize_key_industries_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_support_farmers_idea: "Effects of the London Crash" #NT!
+ SWE_support_farmers_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_arbetsformedlingen_idea: "Effects of the London Crash" #NT!
+ SWE_arbetsformedlingen_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+  
+ SWE_interventionist_recovery_idea: "Effects of the London Crash" #NT!
+ SWE_interventionist_recovery_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_nationalize_big_industries_idea: "Effects of the London Crash" #NT!
+ SWE_nationalize_big_industries_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_army_funding_cuts_idea: "Effects of the London Crash" #NT!
+ SWE_army_funding_cuts_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_public_works_idea: "Effects of the London Crash" #NT!
+ SWE_public_works_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+  
+ SWE_end_capital_oppression_idea: "Effects of the London Crash" #NT!
+ SWE_end_capital_oppression_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_disregard_capitalist_loans_idea: "Effects of the London Crash" #NT!
+ SWE_disregard_capitalist_loans_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_public_work_programs_idea: "Effects of the London Crash" #NT!
+ SWE_public_work_programs_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_open_colectivization_idea: "Effects of the London Crash" #NT!
+ SWE_open_colectivization_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+  
+ SWE_maternity_leave_child_welfare_idea: "Family Welfare" #NT!
+ SWE_treasure_sold_idea: "Treasure Sold" #NT!
+ SWE_crisis_rations_idea: "Crisis Rationing" #NT!
+ SWE_raise_taxes_idea: "Taxes Raised" #NT!
+ SWE_restrict_union_activities_idea: "Unions Restricted" #NT!
+ SWE_german_steel_export_idea: "German Steel Trade" #NT!
+  
+ SWE_modern_caroleans_idea: "Modern Caroleans" #NT!
+ SWE_modern_caroleans_shock_idea: "Modern Caroleans" #NT!
+ SWE_modern_caroleans_general_staff_idea: "Modern Caroleans" #NT!
+ SWE_modern_caroleans_complete_idea: "Modern Caroleans" #NT!
+ SWE_spirit_of_carolus_rex_idea: "Spirit of Carolus Rex" #NT!
+ SWE_combined_arms_legacy_idea: "Legacy of Combined Arms" #NT!
+ SWE_combined_arms_legacy_shock_idea: "Legacy of Combined Arms" #NT!
+ SWE_combined_arms_legacy_general_staff_idea: "Legacy of Combined Arms" #NT!
+ SWE_combined_arms_legacy_complete_idea: "Legacy of Combined Arms" #NT!
+ SWE_spirit_of_gustavus_adolphus_idea: "Spirit of Gustavus Adolphus" #NT!
+  
+ SWE_swedish_peoples_army_idea: "The People's Army" #NT!
+ SWE_decentralized_command_idea: "The People's Army" #NT!
+ SWE_peoples_charge_idea: "The People's Army" #NT!
+ SWE_spirit_of_swedish_proletariat1_idea: "The People's Army" #NT!
+  
+ SWE_future_of_red_army_idea: "An Army For the Future" #NT!
+ SWE_motor_centric_army_idea: "An Army For the Future" #NT!
+ SWE_integrate_artillery_support_idea: "An Army For the Future" #NT!
+ SWE_spirit_of_swedish_proletariat2_idea: "An Army For the Future" #NT!
+  
+ SWE_solitify_control_baltic_sea_idea: "Control over the Baltic Sea" #NT!
+ SWE_solitify_control_under_baltic_sea_idea: "Control under the Baltic Sea" #NT!
+ SWE_introduce_rations_idea: "Trouble-time Rations" #NT!
+ SWE_expand_lottorna_idea: "Lottorna Expanded" #NT!
+ SWE_establish_homeguard_idea: "Hemvärnet" #NT!
+ SWE_in_defence_of_sweden_idea: "In Defense of Sweden" #NT!
+  
+ SWE_end_foreclosures_idea: "Ban on Foreclosures" #NT!
+ SWE_wealth_taxation_idea: "Ban on Foreclosures" #NT!
+ SWE_welfare_administration_idea: "Emerging Welfare State" #NT!
+ SWE_social_corporatism_idea: "Emerging Welfare State" #NT!
+ SWE_universial_healthcare_idea: "Swedish Welfare State" #NT!
+ SWE_social_school_idea: "Swedish Welfare State" #NT!
+ SWE_women_in_workforce_idea: "Women in the Workforce" #NT!
+  
+ SWE_import_ukrainian_corn_idea: "Ukrainian Corn Import" #NT!
+  
+ SWE_passport_idea: "Member of Scandinavian Passport Union" #NT!
+  
+ SWE_compromise_liberals_idea: "Liberal Compromises" #NT!
+ SWE_attack_liberal_capitalists_idea: "Attack on Liberal Capitalism" #NT!
+ SWE_denounce_foreign_influence_idea: "Anti-Treason Laws" #NT!
+ SWE_strike_illegal_protests_idea: "Anti-Treason Laws" #NT!
+ SWE_second_age_of_liberty_idea: "Liberalized Anti-Treason Laws" #NT!
+ SWE_destroy_enemies_of_swedishness_idea: "Reeinforced Anti-Treason Laws" #NT!
+ SWE_appeal_to_patriotism_idea: "Swedish Patriotism" #NT!
+ SWE_faith_and_duty_idea: "Swedish Patriotism" #NT!
+ SWE_royalist_virtues_idea: "Swedish Patriotism" #NT!
+ SWE_paternalist_welfare_idea: "A Conservative Folkhem" #NT!
+ SWE_codify_huvudavtalet_idea: "A Conservative Folkhem" #NT!
+ SWE_christian_unionization_idea: "A Conservative Folkhem" #NT!
+ SWE_swedish_catholicism_idea: "A Conservative Folkhem" #NT!
+ SWE_cement_hammarskjold_regime_idea: "Hammarskjöld's Regime" #NT!
+ SWE_ensure_army_loyalty_idea: "Hammarskjöld's Regime" #NT!
+ SWE_cult_of_general_idea: "Hammarskjöld's Regime" #NT!
+ SWE_caroleanism_idea: "Hammarskjöld's Regime" #NT!
+ SWE_hammarskjolds_regime_idea: "Hammarskjöld's Regime" #NT!
+ SWE_second_age_of_liberty1_idea: "Post-Hammarskjöld Democracy" #NT!
+ SWE_unite_national_right_idea: "Post-Hammarskjöld Autocracy" #NT!
+ SWE_beyond_class_and_party_idea: "Post-Hammarskjöld Autocracy" #NT!
+ SWE_caroleanism_trait: "Heir of Carolus Rex" #NT!
+  
+ SWE_army_indoctrination_idea: "Militia Support" #NT!
+ SWE_rally_national_youth_league_idea: "New Swedish Army" #NT!
+ SWE_swedish_christianity_idea: "New Swedish Army" #NT!
+ SWE_rise_of_swedish_legionaries_idea: "New Swedish Army" #NT!
+ SWE_integrate_tst_training_idea: "New Swedish Army" #NT!
+ SWE_new_form_of_governance_army_idea: "New Swedish Army" #NT!
+ SWE_establish_loyal_unions_idea: "Sveriges Fackliga Riksorganisation" #NT!
+ SWE_corporatize_economy_idea: "Sveriges Fackliga Riksorganisation" #NT!
+ SWE_restore_countryside_idea: "Sveriges Fackliga Riksorganisation" #NT!
+ SWE_corporate_form_of_governance_idea: "Sveriges Fackliga Riksorganisation" #NT!
+ SWE_rise_new_sweden_idea: "A New Sweden" #NT!
+ SWE_new_swedish_families_idea: "A New Sweden" #NT!
+ SWE_canonize_engdahl_thought_idea: "A New Sweden" #NT!
+ SWE_new_imperialism_idea: "A New Sweden" #NT!
+ SWE_radicalize_svekoman_movement_idea: "A New Sweden" #NT!
+ SWE_new_form_of_governance_gov_idea: "A New Sweden" #NT!
+  
+ SWE_establish_labour_administration_idea: "Foundation of a Folkhem" #NT!
+ SWE_rescue_farmers_idea: "Foundation of a Folkhem" #NT!
+ SWE_rescue_farmers_labour_idea: "Foundation of a Folkhem" #NT!
+ SWE_establish_import_tariffs_idea: "Foundation of a Folkhem" #NT!
+ SWE_rescue_farmers_labour_import_idea: "Foundation of a Folkhem" #NT!
+ SWE_support_unemployed_idea: "Folkhemmet" #NT!
+ SWE_encourage_unions_idea: "Folkhemmet" #NT!
+ SWE_improve_workers_rights_idea: "Folkhemmet" #NT!
+ SWE_support_swedish_family_idea: "Folkhemmet" #NT!
+ SWE_folkhemmet_idea: "Folkhemmet" #NT!
+ SWE_pursuing_universal_health_care_idea: "Folkhemmet" #NT!
+ SWE_focus_family_welfare_idea: "Folkhemmet" #NT!
+ SWE_enshrine_individual_freedoms_idea: "Swedish Liberalism" #NT!
+ SWE_victory_of_democracy_idea: "Swedish Liberalism" #NT!
+ SWE_secularization_idea: "Swedish Liberalism" #NT!
+ SWE_modern_swedish_woman_idea: "Swedish Liberalism" #NT!
+ SWE_restrict_religious_schools_idea: "Swedish Liberalism" #NT!
+ SWE_uphold_values_in_school_idea: "Swedish Liberalism" #NT!
+ SWE_secularization1_idea: "Secularization" #NT!
+ SWE_break_conservative_hold_idea: "Anti-Conservative Military Reforms" #NT!
+ SWE_pursuing_universal_health_care1_idea: "Opposition to Universal Health Care" #NT!
+ SWE_restrict_religious_schools1_idea: "Protest For Religious Schools" #NT!
+ SWE_expand_state_industries1_idea: "Opposition to State Control in the Economy" #NT!
+ SWE_focus_family_welfare1_idea: "Opposition to Traditionalist Welfarism" #NT!
+ SWE_uphold_values_in_school1_idea: "Protest For Secular Schooling" #NT!
+ SWE_increase_farmer_subsidies1_idea: "Urban Protest Against Farmer Subsidies" #NT!
+  
+ SWE_faith_and_fatherland_idea: "Faith and Fatherland" #NT!
+ SWE_codify_religious_education_idea: "Faith and Fatherland" #NT!
+ SWE_protect_our_agriculture_idea: "Agricultural Protections" #NT!
+ SWE_huvudavtalet_idea: "Huvudavtalet" #NT!
+ SWE_expand_army_funding_idea: "Expanded Army Budget" #NT!
+  
+ SWE_support_for_new_generation_idea: "Family Subsidise Scheme" #NT!
+ SWE_question_of_corporatism_idea: "Corporatist Reform Act" #NT!
+ SWE_new_swedish_question_idea: "Swedish Medical Improvement Reform" #NT!
+  
+ SWE_crush_sovietist_unions_idea: "Sovietist Union Ban" #NT!
+ SWE_allied_industrialists_idea: "Corporatist Economics" #NT!
+ SWE_establish_corporate_guilds_idea: "Corporatist Economics" #NT!
+  
+ SWE_support_swedish_families_idea: "New Swedish Society" #NT!
+ SWE_new_swedish_church_idea: "New Swedish Society" #NT!
+ SWE_strive_for_autarky_idea: "New Swedish Economy" #NT!
+  
+ SWE_support_christian_education_idea: "Christian Education" #NT!
+ SWE_cut_oversea_aid_idea: "Austerity Recovery" #NT!
+ SWE_higher_taxes_idea: "Austerity Recovery" #NT!
+ SWE_reopen_international_trade_idea: "Effects of the London Crash" #NT!
+ SWE_reopen_international_trade_idea_desc: "The London Crash is affecting our economy and industrial output." #NT!
+ SWE_radical_angry_idea: "Angry Radicals!" #NT!
+ SWE_swedish_democracy_idea: "The Swedish Democracy" #NT!
+  
+ SWE_ensure_corporate_support_idea: "Corporate Propaganda" #NT!
+ SWE_establish_arbeidsplikt_idea: "Arbeidsplikt" #NT!
+ SWE_force_socialists_to_work_idea: "Arbeidsplikt" #NT!
+ SWE_agreements_with_corperations_idea: "Agreements with Corperations" #NT!
+ SWE_make_welfare_cuts_idea: "Welfare Cuts" #NT!
+ SWE_cut_oversea_imports_idea: "Welfare and Import Cuts" #NT!
+  
+ SWE_strenghten_monarchs_power_idea: "Strenghten Monarchal Power" #NT!
+ SWE_indoctrinate_love_for_king_idea: "Love for the King" #NT!
+ SWE_indoctrinate_love_for_nation_idea: "Swedish Nationalism" #NT!
+ SWE_lit_swedish_nationalism_idea: "Swedish Nationalism" #NT!
+  
+ SWE_national_plan_idea: "The National Plan" #NT!
+ SWE_support_swedish_farmers_idea: "Support to the Swedish Farmers" #NT!
+ SWE_we_can_feed_ourself_idea: "We Can Feed Ourself!" #NT!
+ SWE_sweden_prosperous_again_idea: "Sweden Prosperous Again!" #NT!
+  
+ SWE_mothers_of_our_nation_idea: "Mothers of Our Nation" #NT!
+ SWE_bear_sons_of_war_idea: "Mothers and Sons of Our Nation" #NT!
+ SWE_preach_of_our_promiced_land_idea: "Idea of a Promiced Land" #NT!
+ SWE_love_your_nation_as_yourself_idea: "Love Your Nation" #NT!
+ SWE_sweden_strong_again_idea: "Sweden Strong Again!" #NT!
+  
+ SWE_rekindled_imperialism_idea: "Rekindled Imperialism" #NT!
+  
+ SWE_civil_war_idea: "Civil War Situation in Sweden" #NT!
+  
+ SWE_crush_nationalists_idea: "Anti-Reactionary Purges" #NT!
+  
+ SWE_worker_controlled_industries_idea: "Empowered Unions" #NT!
+ SWE_continued_worker_control_idea: "Empowered Unions" #NT!
+ SWE_trade_agreements_with_soviet_idea: "Soviet Trade Agreements" #NT!
+ SWE_decentralize_parliamentary_power_idea: "Decentralization" #NT!
+ SWE_democracy_of_proletariat_idea: "Democracy of the Proletariat" #NT!
+ SWE_expand_farmers_aid_idea: "Democracy of the Proletariat" #NT!
+  
+ SWE_socialist_welfare_state_idea: "A Socialist Folkhem" #NT!
+ SWE_teaching_socialist_children_idea: "A Socialist Folkhem" #NT!
+ SWE_million_homes_for_workers_idea: "A Socialist Folkhem" #NT!
+ SWE_socialist_welfare_state1_idea: "A Socialist Folkhem" #NT!
+ SWE_socialist_progressivism_idea: "A Socialist Folkhem" #NT!
+ SWE_real_folkhem_idea: "A Socialist Folkhem" #NT!
+ SWE_socialist_security_police_idea: "Socialist Secret Police" #NT!
+ SWE_purge_social_valkists_idea: "Socialist Secret Police" #NT!
+ SWE_cult_of_revolutionary_leader_idea: "Revolutionary State" #NT!
+ SWE_purge_social_valkists1_idea: "The Great Purge" #NT!
+ SWE_swedish_truth_idea: "True Swedish Socialism" #NT!
+ SWE_establish_swedish_soviets_idea: "True Swedish Socialism" #NT!
+ SWE_empower_lowly_farmers_idea: "True Swedish Socialism" #NT!
+  
+ SWE_enforce_socialist_doctrine_idea: "A New Society" #NT!
+ SWE_freedom_from_religion_idea: "A New Society" #NT!
+ SWE_socialistification_of_church_idea: "A New Society" #NT!
+  
+ SWE_improved_worker_conditions_idea: "Better Working Conditions" #NT!
+ SWE_war_on_unemployment_idea: "A New Society" #NT!
+ SWE_swedish_red_army_idea: "Sveriges Röda Armé" #NT!
+ SWE_for_new_sweden_idea: "A New Sweden!" #NT!
+  
+ SWE_state_for_people_idea: "The People's State" #NT!
+ SWE_dictatorial_revolution_idea: "The Dictatorship of the Revolution" #NT!
+  
+ SWE_scandinavian_revolution_idea: "A Scandinavian Revolution" #NT!
+ SWE_swedo_french_cooperation_idea: "Swedo-French Cooperation" #NT!
+ SWE_swedo_anglo_cooperation_idea: "Swedo-British Cooperation" #NT!
+ SWE_defending_our_neutrality_idea: "Defensive Neutrality" #NT!
+ SWE_defending_our_neutrality1_idea: "Defensive Neutrality" #NT!
+ SWE_ready_against_germans_and_soviets_idea: "Swedish Preparedness" #NT!
+ SWE_to_finlands_defence_idea: "Aid From Sweden" #NT!
+ SWE_embrace_pan_nordicism_idea: "Pan-Nordicism" #NT!
+ SWE_brothers_united_idea: "Pan-Nordicism" #NT!
+ SWE_restoring_the_empire_idea: "Pan-Nordic Imperialism" #NT!
+  
+ # Companies # 
+ lkab: "LKAB" #NT!
+ ericsson: "Ericsson" #NT!
+ aga: "AGA" #NT!
+ carl_gustavs_stad: "Carl Gustafs Stads Gevärsfaktori" #NT!
+ husqvarna_vapenfabriks: "Husqvarna Vapenfabriks Aktiebolag" #NT!
+ swe_bofors: "Bofors" #NT!
+ swe_scania_vabis: "Scania-Vabis" #NT!
+ volvo: "Volvo" #NT!
+ asea: "ASEA" #NT!
+ swe_landsverk: "Landsverk" #NT!
+ tidaholms_bruk: "Tidaholms Bruk" #NT!
+ hagglunds: "Hägglund & Söner" #NT!
+ svenska_aeroplan: "Svenska Aeroplan AB" #NT!
+ thulinverken: "AB Thulinverken" #NT!
+ sweden_sas_company: "Scandinavian Airlines" #NT!
+ gotaverken: "Götaverken" #NT!
+ kockums: "«Кокумс»"
+ lindholmen: "Lindholmen" #NT!
+  
+ #### EVENTS #### 
+ sweden.0.t: "The Status of Sweden" #NT!
+ sweden.0.d: "From the ending days of the Napoleonic wars, Sweden has reserved itself from involvement in foreign conflicts. Even when Norway left the union between the two countries in 1905 and a war dipped Europe in blood, Sweden managed to remain neutral.\n\nEven with this neutrality, it was clear that Sweden was internationally leaning in favour of the Central Powers and Germany. While Sweden never joined the fighting, they had no problem in supplying Germany with Swedish steel and other materials. Likewise, the Entente had no problem to use this fact to extend the North Sea Blockade to include Sweden as well.\n\n1917 became one of the most troublesome years in recent Swedish history. With the blockade causing a crisis, with austerity and rationing being implemented, revolutions was soon in the air. As Russia fell to revolution, Sweden would soon see itself nearing one as well. The Swedish Revolution of 1917 failed as soon as it started. But the aftermath of it would grip the country through political polarization and resentment between the right and the left.\n\nThe end of the Great War would mean the end of the North Sea Blockade. Sweden came out of this era acquiring the Åland islands and a modest resentment against the Entente powers. Through the 1920s and early 1930s, Sweden would continue with a pro-German line on foreign and trade policy, with little trading with France or the United Kingdom. This economical dependency on Germany would smite Sweden as the Valkist takeover in Germany severed economical ties between the countries, leading to a new economic crisis.\n\nAs the situation worsened, King Gustaf V appointed general Carl Gustaf Hammarskjöld as prime minister in an attempt to stabilize the nation. While this was the intention, the result would be far different, with a rise of political tensions and a more defiant left-wing. The political tensions would manifest itself in the May Day incident of 1935, where the government reacted brutally against a May Day protest. While Sweden still is tored by crisis, many believes the Hammarskjöld government's days are numbered." #NT!
+ sweden.0.a: "För Sverige - i tiden!" #NT!
+ sweden.1.t: "6th of June" #NT!
+ sweden.1.d: "While Sweden has no official national holiday, 6th of June is often viewed as an unofficial day of celebration. This day marks the day when Sweden, under the regin of Gustav Vasa, became independent from the Kalmar Union in 1523. The date also marks the day when a new Swedish constitution was passed in 1809, which granted more power to Ståndsriksdagen." #NT!
+ sweden.1.a: "Maybe we need a National Holiday?" #NT!
+ sweden.2.t: "6th of June" #NT!
+ sweden.2.d: "While Sweden has no official national holiday, 6th of June is often seen as an unofficial day of celebration. This day marks the day when Sweden, under the regin of Gustav Vasa, became independent from the Kalmar Union in 1523. The date also marks the day when a new Swedish constitution was passed in 1809, which granted more power to Ståndsriksdagen." #NT!
+ sweden.2.a: "Maybe we need a National Holiday?" #NT!
+ sweden.3.t: "Kurt Haijby Claims to be the King's Lover." #NT!
+ sweden.3.d: "A Stockholm native named Kurt Haijby has come out with some wild claims against his royal majesty, King Gustav V. Haijby claims to be the King's secret lover, and that this affair has been going on since the King, according to Haijby, seduced him in 1933. The rumors have already begun to spread with those closest to Haijby. We must act fast to avoid this developing into a scandal that could embarrass the royal house." #NT!
+ sweden.3.a: "Let him speak" #NT!
+ sweden.3.b: "Bribe him to shut up" #NT!
+ sweden.3.c: "Find a way to silence him..." #NT!
+ sweden.4.t: "The Opening of Stockholm Bromma Airport" #NT!
+ sweden.4.d: "The need for Stockholm to get a proper airport have become more urgent in the recent years. First proposed in 1918 by Enoch Thulin, the idea of an airport close to the capital have become more and more prominent. In 1933, construction of the new airport began at the town of Riksby. After three years, the new airport are finally ready to be opened for public use.\n\nToday, Stockholm Bromma Airport have been officially opened by the King himself. The new airport contain four intersecting runways measuring lengths from over two thousand to under one thousand meters. Another details with Bromma that have gained attention even outside of Sweden, is that it is the first airport in Europe to feature paved runway from its opening. A detail that many Swedes are very proud of." #NT!
+ sweden.4.a: "Titta vi flyger!" #NT!
+ sweden.5.t: "Salaligan have Struck Again!" #NT!
+ sweden.5.d: "The criminal gang known as Salaligan, or the Sala gang, have yet again terrorized the people of Västmanland. Since their inception, they have ruthlessly murdered four people and committed several burglaries. Today, Elon Pettersson succumbed to his wounds after being shot three times by the gang, making him their fifth victim. The police have started an investigation and have requested any tips that could lead them to the gang." #NT!
+ sweden.5.a: "We will get them now" #NT!
+ sweden.6.t: "Members of Salaligan Arrested" #NT!
+ sweden.6.d: "After the police received a tip, it has lead them to arrest the members of the Sala gang. During the night, gang member Erik Hedström was arrested, with gang leader Sigvard Thurneman caught this morning. Already, the police have found the links between many committed crimes that have occured in Västmanland to the gang. With their capture, there will finally be some peace in Sala." #NT!
+ sweden.6.a: "Excellent!" #NT!
+  
+ sweden.7.t: "The London Crash hits Sweden" #NT!
+ sweden.7.d: "Some days ago, the stock market in London suddenly went into a tailspin. The news of this economic crash have been followed by its effects. As a trading partner exporting different minerals and materials to Britain, we have begun to feel the consequences of a fall in international trade. We just have to embrace ourelves and hope that Sweden will recover." #NT!
+ sweden.7.a: "Oh no. No." #NT!
+ sweden.8.t: "Per Engdahl Against the Establishment" #NT!
+ sweden.8.d: "Per Engdahl, the far-right politican and leader of the New Swedish Movement have organized a rally at the steps of the Riksdag. Speaking to his followers and the national media that had showed up, Engdahl claimed that the Swedish political establishment are responsible in causing the economic crisis. Engdahl urged the on-lookers to vote for the New Swedish Movement, claiming they are the only movement that would place 'Sweden First'.\n\nDespite his attacks against the current government, it is expected that Engdahl will cooperate with prime minister Hammarskjöld after the election. It is yet to see how his anti-establishment rethoric will work out in a coalition with the establishment." #NT!
+ sweden.8.a: "Populist Rambling" #NT!
+ sweden.9.t: "Sven Linderot's Appeal to the Voters" #NT!
+ sweden.9.d: "Seemingly provoced by Per Engdahl's rallies, the socialist far-left have begun to organize rallies in the industrial working class sectors of Stockholm. Communist leader Sven Linderot rallied local workers and spoke against both the forces of capitalism and the forces of reaction. Linderot claimed that Engdahl and the New Swedish Movement isn't an alternative to the establishment, pointing to an increasing cooperation between Engdahl and the government.\n\nLinderot's appeals to the working class haven't dempered conservative worries of a proletarian revolution. Instead, it has strengthened their willingness to work with the far-right and to enact more authoritarian measures to control the working class." #NT!
+ sweden.9.a: "Marxist Scum" #NT!
+  
+ sweden.10.t: "The [GetYear] Swedish general election" #NT!
+ sweden.10.d: "With the London Crash still fresh in people's mind, they have gone to vote. Many experts says that this might be Sweden's most important election in it's history, with individuals and groups both on the left and the right nearly fighting for power. Since the start of this year, the campaign have evolved into a two-horse raise between: \n\nA centre-left coalition led by the social democratic party, Sveriges Socialdemokratiska Parti. During their campaign, they have tried to reach out across the spectrum from the socialists to the liberals. Even from some conservatives that are alienated by prime minister Hammarskjöld's increasingly authoritarian leadership. \n\nThe second campaign is a coalition led by the conservative party, Allmänna Valmansförbundet, and prime minister Hammarskjöld. While seeking to hold on to liberal support, Hammarskjöld have reached out to the rising New Swedish Movement to stem the rise of socialism. However, many liberals do also look with worry upon the rising authoritarianism in Hammarskjöld's coalition.\n\nWith the votes counted, it is clear that..." #NT!
+ sweden.10.a: "...the Social Democratic-led Coalition Has Won!" #NT!
+  
+ sweden.11.t: "Socialdemokraterna forms government" #NT!
+ sweden.11.d: "The Social Democrats are now ready to from the next government. With the blessing of the king, this would hopefully usher in an era of peace and stability. An opportunity to finally turn the page on the disastrous Hammarskjöld cabinet and build a Sweden that works for all it's people." #NT!
+ sweden.11.a: "A New Government is Ready!" #NT!
+  
+ sweden.12.t: "The Conservatives forms government" #NT!
+ sweden.12.d: "The Conservatives are now ready to form the next government. With the blessing of the king, this would hopefully usher in an era of peace and stability. While few foresaw the survival of Hammarskjöld's cabinet possible after last year's events, he has proven to be more resiliant than what anyone though. The next challenge, however, will be to govern with the New Swedish Movement." #NT!
+ sweden.12.a: "Hopefully, we can work with them..." #NT!
+  
+ sweden.13.t: "The New Swedish Movement Protest the Election Result" #NT!
+ sweden.13.d: "The New Swedish Movement has taken to the streets to protest against the result. While the election seems to be fair, there are many Swedes on this end of the political spectrum that are not willing to accept this. Some worry that this could develop into an insurrection." #NT!
+ sweden.13.a: "We Want no Insurrection!" #NT!
+ sweden.14.t: "The Far-Left Political Parties Protest the Election Result" #NT!
+ sweden.14.d: "The Communist Party and other far-left socialist movements has taken to the streets to protest against the result. While the election seems to be fair, there are many Swedes on this end of the political spectrum that object to that. Instead, they see a system that discriminates against the working class, with revolution as the only alternative." #NT!
+ sweden.14.a: "We Want no Revolution!" #NT!
+  
+ sweden.15.t: "Far-Left Protests Escalates!" #NT!
+ sweden.15.d: "The first May-day demonstration in Sweden was held in 1890. While it is not a recognized holiday, the socialist left have always sought to change that. A move they claim would show Sweden's commitment to social justice for the working class.\n\nWhile these demonstration has usually been peaceful and calm, this year's demonstration was an full on attack on the newly elected government. Communists. Socialists. Even Per-Albin Hansson and his so-called Social Democrats. All of them has used this day to fuel the working class in an rebellious fury against our government.\n\nThe police was sent out to many places to break up these demonstrations. However, this have resulted in many of them turning violent and causing more unrest." #NT!
+ sweden.15.a: "Why Does we not Take them Down?!" #NT!
+ sweden.16.t: "Swedish Revolutionaries Ask for Support" #NT!
+ sweden.16.d: "The Swedish revolutionary Hugo Sillén have arrived in Leningrad with an request. He is sent by the leaders of the SKP in Sweden with the message of help in supplying them with equipment and volunteers to start a communist revolution in Sweden. \n\nWhile this can be a one in a time chance to let the marxist revolution be planted in Scandinavia, some of our leaders do not want to use valuable ressourses into it, if it is doomed to fail." #NT!
+ sweden.16.a: "Let's Support This!" #NT!
+ sweden.16.b: "No. Let's Not do it." #NT!
+ sweden.17.t: "Far-Left Protests Deescalate!" #NT!
+ sweden.17.d: "Good news have arrived regarding the May-Day protests. While there where some worried that this would lead to a socialist revolution, it looks like the fire of socialist revolution have burned out.\n\nThis have, however, showed us that our rule is uncertain, and that we should not stay idle facing the looming threat of socialist insurrection." #NT!
+ sweden.17.a: "Was Afraid for a Socialist Coup There." #NT!
+ sweden.18.t: "Stockholm Riots" #NT!
+ sweden.18.d: "The capital city of Stockholm has bursted out in riots. Socialists, communists, social democrats even. All of them are now marching out, taking control. The interesting thing is that the rioters seems to be equipped with foreign weapons, making the riots look more like a Soviet operation. We need to show that Sweden do not want to be a Soviet puppet, but how should we operate facing these terrorists?!" #NT!
+ sweden.18.a: "We Might Need to Retreat" #NT!
+ sweden.18.b: "Do Not Give Them A Inch!" #NT!
+ sweden.19.t: "Stockholm City Falls in Socialist Hands" #NT!
+ sweden.19.d: "Stockholm has fallen. Today, the King and the government had to flee the capital from the working class insurrection. The Riksdag have been overrun, glas have been broken and a few buildings are set aflame. While the government continues the fight from Göteborg, there are rumours that the workers of the city will follow Stockholm into revolution." #NT!
+ sweden.19.a: "We Will Fight On!" #NT!
+ sweden.20.t: "The King Leaves for Denmark" #NT!
+ sweden.20.d: "With our battles against the Socialists going against us, we are not in the perfect situation to lose any morale. Even then, in the middle of this demoralizing civil conflict, King Gustaf V have taken the choice to hop onto a ship and sail for Denmark. With this, our fight against the Red terror might be a losing one. At least, the world shall know that King Gustaf was truly a coward king." #NT!
+ sweden.44.d: "With our battles against the New Swedish Movement going against us, we are not in the perfect situation to lose any morale. Even then, in the middle of this demoralizing civil conflict, King Gustaf V have taken the choice to hop onto a ship and sail for Denmark. With this, our fight against the New Sweden might be a losing one. At least, the world shall know that King Gustaf was truly a coward king." #NT!
+ sweden.20.a: "What a Fool!" #NT!
+ sweden.21.t: "Socialist Militias Seizes Göteborg" #NT!
+ sweden.21.d: "Since the fall of Stockholm, socialist militias have marched on Göteborg and surrounded the city. With the workers inside the city rising up, we have completely lost control. The last remnants of our government are now boarding a cruiser and heading to London. Göteborg has fallen. With some time, we fear the rest of Sweden will as well." #NT!
+ sweden.21.a: "We Have to Surrender!" #NT!
+  
+ sweden.22.t: "Former Prime Minister Arvid Lindman Dies in Accident" #NT!
+ sweden.22.d: "The former prime minister, Arvid Lindman, was recently visiting the United Kingdom. On his way back home, the plane he was in crashed near the air port, killing many of the passengers, including Lindman himself. On the day, it seemed that the air port was shrouded in fog, and all aircraft were operating under so-called "QBI" conditions. His body is transporting home right now. \n\nLindman was truly a great man. One that has lead the conservatives both in the Riksdag and the parliament. An effective peace-broker and a conservative who did not lose his principles." #NT!
+ sweden.22.a: "Rest In Peace, Mr. Lindman." #NT!
+  
+ sweden.23.t: "Swedish Communists Fight and Dies in Spain" #NT!
+ sweden.23.d: "Reports of Swedish citizens fighting and dying in Spain has arrived the table of the Swedish government. Many of them are Swedish communists fighting on the side of Spanish revolutionaries. Some government members find it fitting that these revolutionaries bleed in Spain. Hopefully, it will be their grave. We don't need for them to come back and cause unrest at home." #NT!
+ sweden.23.a: "Troublemakers" #NT!
+  
+ sweden.24.t: "Salaligan is Sentenced to Forced Labour Service" #NT!
+ sweden.24.d: "Last year, the gang known as Salaligan had many of their key members arrested. With all their crimes revealed, it is finally time for justice to be delivered. Today, the judge sentenced the members of Salaligan to forced labour service after a trial that have been highly covered by the press. The lone exception is the gang leader himself. Sigvard Thurneman is considered mentally sick and is receiving psychiatric care. Instead of forced labour, he will be locked up seemingly until he drops dead." #NT!
+ sweden.24.a: "Justice At Last" #NT!
+  
+ sweden.25.t: "Riksdagen on Maternity Leave" #NT!
+ sweden.25.d: "A proposal from the population commission has reached the Riksdag. Their proposal, in order to help families that are struck by the economic crash and to smooth out the economic conditions between childless and child-raising families, is to introduce matenity leave, maternity help and open child welfare centers. The Social Democrats have announced their support for these measures, but can't get enought support from the left for the Riksdag to pass it. They are hoping to gain support from the right. That some of these conservatives would support the betterment of Swedish mothers and their children." #NT!
+ sweden.25.a: "Members From the New Swedish Movement Votes For!" #NT!
+ sweden.25.b: "The Proposal is Killed!" #NT!
+  
+ sweden.26.t: "A Huge Silver Treasure is Found in Stockholm" #NT!
+ sweden.26.d: "It begun as a normal day in a local store in The Old Town of Stockholm. During some digging done by two workers in connection to renovation work, a treasure from the 1700s was unearthed. It wasn't a few scraps either. From the site they found a lot of plates, candlesticks and cups in pure silver, along with 18 000 silver coins. With this discovery, it has caused a debate over what the future of what will be the future of this treasure. Many seek to have it shown at a museum due to its historic importance. Others do, however, propose selling some of the coins and use the money to support a Swedish population still stuggling from economic and political woes." #NT!
+ sweden.26.a: "Maybe We can use it for the Betterment of Sweden?" #NT!
+ sweden.26.b: "The Treasure must be Shown to the Public" #NT!
+  
+ sweden.27.t: "Future of the Hammarskjöld Cabinet" #NT!
+ sweden.27.d: "The last year have not been one pleasant for the government of Carl Gustaf Hammarskjöld. His policies in face of the economic crisis that arose after the Valkist takeover in Germany, among with his cruel reaction on the May Day protests, have utterly destroyed his reputation. Despite the opposition against him, many on the political right-wing would not risk the instability that would come by removing him from power. The King agrees and has denied any demands from the Social Democrats to pick a new prime minister.\n\nHowever, with the growth of the Social Democrats and the New Swedish Movement, the old plan - relying on timid support from the centre-right - will come up short. For the Liberals and the Agrarians, a partnership with the Social Democrats isn't as ridiculous as it seems. They share many similar socially progressive positions, while worried about the authoritarian leanings of Hammarskjöld and the New Swedish Movement. And while the New Swedish Movement have often rallied against the excesses and failures of the Hammarskjöld cabinet, they are in agreement with the Conservatives over the threat of socialism." #NT!
+ sweden.27.a: "We Need to Save the Fatherland From Bolshevism!" #NT!
+ sweden.27.b: "We Need to Save the Fatherland From Dictatorship!" #NT!
+  
+ sweden.28.t: "Victory Against the Movement" #NT!
+ sweden.28.d: "The attempt from the New Swedish Movement and their militant followers to undermind Swedish democracy have failed. With our victory over both the regressive Conservatives, who sought to purchase stability with democracy, and the reactionary New Swedish Movement, who despises the values of a democratic Sweden, democracy will never be challenged again." #NT!
+ sweden.28.a: "Long Live Democracy, Death to Traitors!" #NT!
+  
+ sweden.29.t: "The Final Verse of Despotism" #NT!
+ sweden.29.d: "With both the Conservatives of Carl Gustaf Hammarskjöld and the New Swedish Movement of Per Engdahl without any power to harm the government, we see democratic rule has succeeded. With the economic recovery well under way and with support across the political spectrum, we will be able to turn to our political reforms. Much need to be done to heal the division that Hammarskjöld and previous conservative governments planted and to finally bring just government to the Swedish working class.\n\nLuckily for us, a growing faction of new Conservative politicians are growing up, seeking to preserve democracy. With their increasing success in taking over the Conservatives, the party will no longer be a threat to the democratic will of working class Swedes." #NT!
+ sweden.29.a: "We Will Make Sweden Lagom" #NT!
+  
+ sweden.30.t: "Hammarskjöld's Successors" #NT!
+ sweden.30.d: "While the Conservatives under the leadership of people like Gösta Bagge and Fritiof Domö are set to transform the party into a true democratic party, there is still forces that seeks to uphold the authoritarianism inheirit in Carl Gustaf Hammarskjöld's government. The National Youth League of Sweden under the leadership of Elmo Lindholm represents a radical voice in this party. Lindholm and his followers opposes the work we have done to dismember the power of Hammarskjöld Conservatives and the New Swedish Movement.\n\nWith the recent arrest of Per Engdahl and other far-right figures for insurrection conspiracies, Lindholm quickly emerges as a new figure for the Swedish far-right. While he share many of the views from the New Swedish Movement, he seek to present himself as more moderate and a successor to the legacy of Hammarskjöld." #NT!
+ sweden.30.a: "Best to Watch Out.." #NT!
+ sweden.31.t: "The Founding of the National League" #NT!
+ sweden.31.d: "Elmo Lindholm, the leader of the National Youth League of Sweden, has today proclaimed that the youth organization will break all ties to the conservatives and to Allmänna Valmansförbundet. This due to the Conservatives' move away from the authoritarian legacy of Carl Gustaf Hammarskjöld. Instead the outbreakers seeks to create a new right-wing party, Sveriges Nationella Förbund. The new party seek to create a corporatist, anti-democratic and traditionalist Swedish state. It has clear influences by Maurrasian ideas in regards to its monarchist and integralist sentiments, while also taking some pages from the New Swedish movement and the Valkists in Germany." #NT!
+ sweden.31.a: "Despots Have Always Admirers" #NT!
+  
+ sweden.32.t: "The [GetYear] Swedish general election" #NT!
+ sweden.32.a: "...the Deadlock Remains!" #NT!
+  
+ sweden.33.t: "The [GetYear] Swedish general election" #NT!
+ sweden.33.d: "With the London Crash still fresh in people's mind, they have gone to vote. Many experts says that this might be Sweden's most important election in it's history, with individuals and groups both on the left and the right nearly fighting for power. Since the start of this year, the campaign have evolved into a two-horse raise between: \n\nA centre-left coalition led by the social democratic party, Sveriges Socialdemokratiska Parti. During their campaign, they have tried to reach out across the spectrum from the socialists to the liberals. Even from some conservatives that are alienated by prime minister Hammarskjöld's increasingly authoritarian leadership. \n\nThe second campaign is a coalition led by the conservative party, Allmänna Valmansförbundet, and prime minister Hammarskjöld. While seeking to hold on to liberal support, Hammarskjöld have reached out to the rising New Swedish Movement to stem the rise of socialism. However, many liberals do also look with worry upon the rising authoritarianism in Hammarskjöld's coalition.\n\nWith the votes counted, it is clear that..." #NT!
+ sweden.33.a: "...the Conservative-led Coalition Have Won!" #NT!
+  
+ sweden.34.t: "Prime Minister Per Engdahl" #NT!
+ sweden.34.d: "Today, Per Engdahl, the leader of the New Swedish movement, has been appointed head of a new government. The day is historic, as Engdahl is the youngest prime minister ever in Swedish history. Similarly, is it the first time someone outside the political establishment have achieved this position. Through shaking hands with smaller parties on the far-right, as well as with radical conservatives, the new government have gathered enough support." #NT!
+ sweden.34.a: "For A New Sweden!" #NT!
+  
+ sweden.35.t: "Unrest Against the Halted Elections" #NT!
+ sweden.35.d: "With the elections being halted, many Swedes have come out into protest against this decision. For many, this is the foreseeable end of the Hammarskjöld government; a more authoritarian and tyrannical regime in Sweden. Nevertheless, Carl Gustaf Hammarskjöld have managed to secure support to halt the election and granting him emergency power. It will be time if this last chance for this government might work." #NT!
+ sweden.35.a: "It Was the Only Option" #NT!
+  
+ sweden.36.t: "Trade Deals With the Brits" #NT!
+ sweden.36.d: "Sweden has for long been a country economically dependant on German trade. What this gave us, however, was a crisis when these ties were broken. However. Over the last couple of years have the trade routes between Sweden and the United Kingdom grown stronger. With new business from both the British and the French, the hope for a renewed foreign policy have been lit. One more focused on the Anglo-French world." #NT!
+ sweden.36.a: "Pleasure Doing Business" #NT!
+  
+ sweden.37.t: "The Death of the Prime Minister" #NT!
+ sweden.37.d: "Terrible news have recently come out from the prime minister's office. Prime Minister Carl Gustaf Hammarskjöld is dead. While there where signs that the aging general would not be with us forever, the fact that he died in the middle of his prime ministership will destabilize the country further. The result is already felt, with a sudden power vacuum now in place. In the meantime, Axel Rappe, the Chief of the Defense Staff, have been tasked with governing Sweden." #NT!
+ sweden.37.a: "This Should Not Have Happened!" #NT!
+ sweden.38.t: "State of Emergency" #NT!
+ sweden.38.d: "The new prime minister, Axel Rappe, have declared a state of emergency in Sweden, following the death of the former prime minister. With the state becoming more and more antagonstic towards opposition figures, many sees this as a death to Swedish democracy. With the army taking more and more power, there are some rumors of planned insurrections against the state. For now, it is not easy to know what will happen." #NT!
+ sweden.38.a: "Please Do Not Resist!" #NT!
+ sweden.39.t: "Red Guards Are Organizing" #NT!
+ sweden.39.d: "The sudden death of the head of government have been a shaken experience for the nation. With the military taking a bigger role, there have been a rise in opposition. Right now, reports of the formation of Red Guards across the country, is pouring in. At the same time, many considers the seizure of power by the Army as a coup, willing to oppose it." #NT!
+ sweden.39.a: "It's Treason Then!" #NT!
+ sweden.40.t: "New Sweden Reemerges" #NT!
+ sweden.40.d: "Supporters of the New Swedish movement have began to organize into several White Guard units in opposition to both the new government and to the emerging Red Guard units. Many conservatives, nationalists and other right-wingers have already defected to the movement. With rising tensions, it is difficult to see ourselves coming out of this still in power." #NT!
+ sweden.40.a: "Treason, I Say!" #NT!
+  
+ sweden.41.t: "The Battle For Sweden" #NT!
+ sweden.41.d: "The power and influence of the government have fallen. With the rise of opposing socialist Red Guards and nationalist White Guards, the country have fallen to anarchy. In this moment, battles are being waged on the streets of Stockholm, Göteborg and other cities. The price being control over Sweden. As the dust begins to settle, it is likely that one faction will seize power. That being..." #NT!
+ sweden.41.a: "...the New Swedish Movement" #NT!
+ sweden.41.b: "...the Socialists" #NT!
+  
+ sweden.42.t: "The End of the Riots" #NT!
+ sweden.42.d: "The strategy to not retreat from the Socialist riots, while being controversial, have also been a success. While both we and the rioters have taken massive casualties, painting the gates of Stockholm red, the opposition to our rule is now defeated." #NT!
+ sweden.42.a: "Finally This Bloodbath is Over" #NT!
+  
+ sweden.43.t: "Stockholm Seized by the New Sweden" #NT!
+ sweden.43.d: "The New Swedish Movement have suddenly taken control of the city of Stockholm. While we was not able to repell their seizure, we hope to continue the fighting and, hopefully, winning in the rest of the country. There are rumors that they were able to pull this of because of foreign supporters and loyalties in local police and military forces." #NT!
+ sweden.43.a: "So Our Own Men Are Deserting as Well?" #NT!
+ sweden.45.t: "New Swedish Movement Secures Göteborg" #NT!
+ sweden.45.d: "The city of Göteborg has fallen, symbolizing the end of the old government's opposition to the New Swedish Movement. With the movement now in control in a one-party state, it is time to carve a new state out of the old one. Today, the traitorous old guard have been pushed aside. Now, a New Generation of Swedes takes the lead." #NT!
+ sweden.45.a: "Long Live the New Sweden!" #NT!
+  
+ sweden.46.t: "New Swedish Protests" #NT!
+ sweden.46.d: "With the government seemingly passing more conservative-friendly reforms and rejecting many proposals from the New Swedish movement, protests have begun to be waged against the government. These protests have been met by the New Swedish movement with understanding, with many nationalists joining in against the government, even from New Swedish members of government. It is to see if this will mean the end of the coalition between the conservatives and the nationalists." #NT!
+ sweden.46.a: "But, How Can We Allow Their Policies?" #NT!
+ sweden.47.t: "Conservative Protests" #NT!
+ sweden.47.d: "With the government seemingly passing more nationalist-friendly reforms and rejecting many conservative advice, many conservatives have begun to act against the government. Already, it looks like the conservatives might try to take back control of government, ousting the New Swedish movement. It is to see if this will mean the end of the coalition between the conservatives and the nationalists." #NT!
+ sweden.47.a: "You Are Supposed to Support Us" #NT!
+  
+ sweden.48.t: "Sweden Wants to Join our Entente" #NT!
+ sweden.48.d: "A messenger from Sweden have today arrived Paris with an interesting request. With the world seemingly heading towards a new Great War, Sweden have taken the choice to leave their neutrality. They have requested us their entrance into the Continental Entente. This can give us an ally against the rising German Reich and better control over Swedish steel, but some worries that the Swedes are more of a burden than a help." #NT!
+ sweden.48.a: "We Welcomes Them!" #NT!
+ sweden.48.b: "No, Thanks!" #NT!
+ sweden.49.t: "France Welcomes Us!" #NT!
+ sweden.49.d: "Our messenger have come back with good news. The French have accepted our request to join the Continental Entente. With this alliance secured, we hope that our road ahead is much more safer, with many more ambitions available." #NT!
+ sweden.49.a: "This is the Start of a Great Friendship!" #NT!
+ sweden.50.t: "France Reject Us!" #NT!
+ sweden.50.d: "Our messenger have come back, sadly, with bad news. The French did not accept our request to join the Continental Entente, leaving us outside their alliance. While this is a bummer, it can also be the turn towards other foreign options." #NT!
+ sweden.50.a: "We Shall Show Them!" #NT!
+  
+ sweden.51.t: "The Monarchy Question" #NT!
+ sweden.51.d: "The Monarchy has been an institution in place in Sweden since the Viking Age. While it has been useful in giving stability and maintaining our national identity, many Social Democrats believes that the monarchy is an outdated system, one that holds up autocratic structures. This decision is one that could anger either the socialists or the centrists, with these standing against and for the monarchy respectively." #NT!
+ sweden.51.a: "Constitutional Monarchy - Like in Italy or the United Kingdom" #NT!
+ sweden.51.b: "Republic - Like in France or the United States" #NT!
+ sweden.52.t: "Liberals and Conservatives Oppose Republicanism" #NT!
+ sweden.52.d: "The news that the government are seeking to go forward with Republicanism have been met poorly by the opposition. The Conservatives have, as expected, come out as the loudest voice in favor of the monarchy. However, both liberal and agrarian politicians are critical towards our goal. This decision seems to be one that will alienate us to further collaboration with the non-socialist parties. On the other hand, socialist and communist leaders have officially supported our stance." #NT!
+ sweden.52.a: "Let's Have a Referendum!" #NT!
+ sweden.53.t: "Referendum: For or Against the Monarchy" #NT!
+ sweden.53.d: "Today, we will finally hear what the people want. Do they really want the constitutional monarchy of today, or are they more interested in the liberal ideas of a republic. The votes are already coming in. It's close, but..." #NT!
+ sweden.53.a: "...the Majority Want a Republic!" #NT!
+ sweden.53.b: "...the Majority Want a Monarchy!" #NT!
+ sweden.54.t: "Socialists Oppose Our Stance" #NT!
+ sweden.54.d: "The news that the government are seeking to uphold the institution of the Monarchy have been met poorly by the socialist left. The Communists have claimed, with this decision, that the Social Democrats have officially abandoned the people in favor of the King and the upper class. Our cooperation with the socialist parties in the Riksdag have been hampered as a result of this decision. On the other hand, those to the right of us support our decision to keep the King." #NT!
+ sweden.54.a: "It Would Cause Too Much Instability" #NT!
+ sweden.55.t: "The First Swedish President" #NT!
+ sweden.55.d: "A majority of the Swedish electorate have rejected the old institution of the monarchy. With this result, Riksdagen have been granted the responsibility to elect a President of the Swedish Republic. There are a few options for the position.\n\nThe Social Democrats have proposed prime minister Per Albin Hansson, with the prime minister himself willing to retire to become president. This would be a natural option for a governing party who also have a strong position in the Riksdag. Even members of the socialist parties are supportive, viewing Hansson as a better candidate than any candidate put forth by the bourgeoisie parties. However, the centrist parties are worried. They see it as a continuation of a system where the head of state is linked to one of the political parties. King Gustaf V with the Conservatives, and Hansson with the Social Democrats.\n\nThere are some among our Agrarian and Liberal allies who suggests conservative leader Gösta Bagge. This to show goodwill towards the opposition and to avoid too much power consentrated into one party. Even so, it could also be viewed as a way for the government to neutralize an opposition figure. By electing him as President, he would likely have to step back as party leader.\n\nLastly, some across the spectrum has proposed King Gustaf's nephew; Folke Bernadotte. This has been met with huge protests from the socialist parties in Riksdagen, who views it as a way to continue the monarchy. However, the proposal stresses Bernadotte's continued impartiality and his role in the Boy Scout movement. Bernadotte have even shown interest in working for the Swedish Red Cross. His philanthropic interests could be given extra attention with him as president." #NT!
+ sweden.55.a: "Hansson is the Natural Option" #NT!
+ sweden.55.b: "Bagge, to Appeace the Opposition" #NT!
+ sweden.55.c: "Bernadotte Shows Great Potential" #NT!
+  
+ sweden.57.t: "Hammarskjöld Denounce Foreign Influences" #NT!
+ sweden.57.d: "Prime minister Carl Gustaf Hammarskjöld have today presented a denouncement of foreign influence, calling out Soviet and Valkist influences for the destabilizing effects on Swedish politics, while blaming British influences in Sweden for causing the economic crisis to arrive in our country. While these denouncments and blamings are in many ways without cause, it paints opposition to the government as a treasonous act." #NT!
+ sweden.57.a: "We Will Tear Them Down!" #NT!
+  
+ sweden.58.t: "Steps Towards Martial Law" #NT!
+ sweden.58.d: "With the military loyal to the Hammarskjöld government and our coalition partner weakened, it is finally time to seize control over Sweden. Blaming on the on-going crises that the country find itself in, the prime minister seek to declare Martial Law. With some elbow grease, he and his supporters will be able to get the Riksdag to vote for this seizure of power." #NT!
+ sweden.58.a: "For a Safe and Secure Sweden!" #NT!
+ sweden.59.t: "Martial Law Invoked" #NT!
+ sweden.59.d: "With all the machinations of the Swedish state under the control of prime minister Carl Gustaf Hammarskjöld and his clique of conservative politicians and military officers, only one structure stood between them and the ability to heal the Swedish nation from all it's crises - democracy. It had to be set aside for the country to properly heal.\n\nWhile the Social Democrats still oppose these measures, most of the other parties in the Riksdag achknowledge that the situation would either end with this controversial move, or with revolution. Fearing what the Communists and Socialists, these Soviet bootlickers, would try to do if the country continues into dispair, Hammarskjöld managed to gather the support of the Liberals, the Conservatives, the Agrarians and the Nationalists in the Riksdag to support Martial Law.\n\nWith the blessing of the King, Sweden is now one step closer to stability. Under Hammarskjöld and his followers, Sweden will grow to unimaginable glories." #NT!
+ sweden.59.a: "So This is How Liberty Dies..." #NT!
+  
+ sweden.60.t: "The Resignation of the Prime Minister" #NT!
+ sweden.60.d: "With Sweden recovering from both political, as well as economical, crises, it is time for prime minister Carl Gustaf Hammarskjöld to step down. With his age already beginning to take a hit on him, it will also be good for the old general to retire while he can. The last decision the prime minister can do now, is recommending to the King who he should choose as the next prime minister. Most likely will it be either Gösta Bagge or Elmo Lindholm.\n\nBagge is currently the leader of the Second Chamber in the Riksdag and was a big help in steering parliamentary support for Hammarskjöld's Martial Law declaration. Despite this, he is more moderate and willing to restore democratic rule. Lindholm has lead the conservative youth league since 1932, and due to his youth and nationalist leanings managed to help in forming a coalition with the New Swedish Movement. He has no interest in restoring democracy, favouring instead a monarchy built on Maurrasian though." #NT!
+ sweden.60.a: "A Moderate Conservative, Like Prof. Bagge" #NT!
+ sweden.60.b: "A Nationalist Conservative, Like Mr. Lindholm" #NT!
+  
+ sweden.61.t: "Reorganization of the Right" #NT!
+ sweden.61.d: "In continuing to distance themselves from previous right-wing authoritarian governments, the conservative Allmänna Valmansförbundet have announced their intention to rebrand into Högerns Riksorganisation, the National Organization of the Right. This seems also to be a way for the party to better reflect their right-wing conservative views into their name considering that their previous name were less clear on this. Since the youth league went to form their own party, a new youth party for the party has been formed; Ungsvenskarna, the Young Swedes. With these changes, it does look like the conservative right have turned away from authoritarianism." #NT!
+ sweden.61.a: "The Start of a New Era!" #NT!
+  
+ sweden.62.t: "Freedom and Prosperity" #NT!
+ sweden.62.d: "Sweden should shape itself into a much more freer society. While upholding traditional values, it is important that tradition does not trump the rights and dignity of every Swedish citizen. Therefore, it is important for the Swedish people to reject authoritarianism, both socialism and nationalism, that seeks to consolidate power at the hands of a political class." #NT!
+ sweden.62.a: "You Don't Deserve Freedom if You Trade it for Security" #NT!
+ sweden.63.t: "The Democratic Consensus" #NT!
+ sweden.63.d: "For the country to properly heal, it is important that we are willing to meet with the opposition. While these meetings have shown what we disagree on, we have also been able to show each other that we are all in consensus over a set of key positions. Among these, are the principles of democracy, freedom and constitutionalism. The Social Democrats are also giving signs that they will respect constitutional monarchy if we promise to not give the King any additional power." #NT!
+ sweden.63.a: "Some Consensus is Important" #NT!
+ sweden.64.t: "Worker Meet Boss" #NT!
+ sweden.64.d: "The history of class relations have been one of conflict. Both in Sweden and abroad, the forces of labour and the forces of capital have often fought out their differences. Despite this history, there are some who seek peaceful means to advance the interests of either the working or the capitalist class. It is here were 'Hovudavtalet' comes in. The idea of 'Huvudavtalet', is that it is an agreement between the unions of the employee and the unions of the employer to set the rules on the working space. While many socialists are worried that this is an attempt to secure capitalist exploitation, we assure them that these agreements will be favorable to both sides. Beside, if the labor unions are angry of the agreement, they can issue the threat of a strike." #NT!
+ sweden.64.a: "For a Better Workplace" #NT!
+  
+ sweden.65.t: "Authority of the King" #NT!
+ sweden.65.d: "Many Republicans, Socialists and even Liberals see the monarchy as an archaic system. But while Republics elect Presidents set to oppress the minority on the behalf of the majority, the King is elected by God to rule for all the people of Sweden. Through the King, the Swedish state are granted it's God-given mandate over this land and its people.\n\nIt is important for us to secure the constitutional rights that King Gustaf V have, as king of Sweden. The king are the most important player in defending the dignity and freedom of our nation, and are God's representative to the Swedish nation. We can not allow his God-given authority to be challenged." #NT!
+ sweden.65.a: "Long Live the King!" #NT!
+  
+ sweden.66.t: "Formation of the National League" #NT!
+ sweden.66.d: "The government of Carl Gustaf Hammarskjöld have managed to balance its authoritarianism with the legitimacy granted by the democratic system. However, under Elmo Lindholm we achknowledge the folly of democracy and parliamentarian rule as mere tools by socialists and liberals to undermine the Swedish nation.\n\nWith the government's control over the nation assured, Lindholm have begun to use this opportunity to further entrench his regime. Today, Lindholm declared Sweden a post-party state, making all political parties illegal entities. Forming and operating political parties are now illegal, being seen as attempts to undermine and divide the nation. Instead, a National League has been formed by Lindholm and his allies as an anti-party entity that will be the head of the Swedish political body." #NT!
+ sweden.66.a: "Onwards!" #NT!
+  
+ sweden.67.t: "Rise of the Movement" #NT!
+ sweden.67.d: "When prime minister Hammarskjöld first approached the New Swedish Movement to form a coalition against the forces of socialism and revolution, the movement had only limited power over Swedish society. Now, the tables have turned. With the loyalty of the far-right militias garanteed and a growing workers movement under our control, the pieces are finally set to overthrow this failing bourgeoisie system and create a New Swedish state." #NT!
+ sweden.67.a: "Hammarskjöld is on His Way Out" #NT!
+  
+ sweden.68.t: "Fate of the Monarchy" #NT!
+ sweden.68.d: "While the monarchy is an old and true institution in Swedish society, there are some voices inside our movement that want to replace the King with a powerful leader, akin to the German Führer. This would, however, be a very controversial move, and signs are showing that many inside the movement are still strong monarchists. It is to see what we do." #NT!
+ sweden.68.a: "The King and Fatherland is One!" #NT!
+ sweden.68.b: "We Only Need the Ledare!" #NT!
+  
+ sweden.69.t: "The Unshackling of Proletarian Democracy" #NT!
+ sweden.69.d: "Since it's introduction, democracy have been used as a tool for the ruling class to temper the forces of the working class. However, there are often few available options that can better raise the voice of the working class. Looking to bridge the Communists and Social Democrats, a proletarian type of democracy has been established.\n\nA part of this democracy is to remove the influences of capital from the election process. As a result, we have uprooted the establishment non-socialist parties and demanded an adherence to the welfare of the working class. With this enforcement now underway, we see new parties pop up in the space formerly filled by capitalist parties." #NT!
+ sweden.69.a: "We Have to See How This Goes..." #NT!
+  
+ sweden.70.t: "Return to Faith" #NT!
+ sweden.70.d: "The unrelenting march of modernity have left the state of Swedish Protestantism in a sorry state. For many years, Sweden was in the forefront to protect Lutheran Protestantism in the crusades against the heretical Catholic and Orthodox christians. However, with the rise of modernity, faith has fallen behind. Even so, the need for a protector of the Protestant faith is more urgent than ever. The rise of the Bolsheviks in Russia have kicked out the Orthodox christians for a worse and more anti-Christian regime, and while we can tolerate the Valkists, we achknowledge their creed as one different from ours.\n\nThe Swedish government have begun a zealous campaign to see the return of Protestant values and the Protestant faith to Sweden. It is a necessary part to build a strong Swedish national identity and to recharge the Swedish people of that old fervor. A fervor that sought to eliminate the heathens and ensure God's will on earth. From the first day at school to his charge on the battlefield as a soldier of Christ, the Swede will chant their prayer.\n\n'Fader Vår, som är i himmelen...'" #NT!
+ sweden.70.a: "'Helgat varde ditt namn'" #NT!
+  
+ sweden.81.t: "The Passing of New Voting Laws" #NT!
+ sweden.81.d: "New voting laws have been put in place, pushing the minimum age of voting down to 21. Along with strengthening the voting rights for women and eliminating arbitary hinders for people to vote, we can move into a better and more democratic society." #NT!
+ sweden.81.a: "Every Vote Matters!" #NT!
+  
+ sweden.86.t: "Sweden Wants to Join our Pakt" #NT!
+ sweden.86.d: "A messenger from Sweden have today arrived Berlin with an interesting request. With the world seemingly heading towards a new Great War, Sweden have taken the choice to leave their neutrality. They have requested us their entrance into the Stahlpakt. This can give us an ally against the Soviet Union and better control over Swedish steel, but some worries that the Swedes are more of a burden than a help." #NT!
+ sweden.86.a: "We Welcomes Them!" #NT!
+ sweden.86.b: "No, Thanks!" #NT!
+ sweden.87.t: "Germany Welcomes Us!" #NT!
+ sweden.87.d: "Our messenger have come back with good news. The Germans have accepted our request to join the Stahlpakt. With this alliance secured, we hope that our road ahead is much more safer, with many more ambitions available." #NT!
+ sweden.87.a: "This is the Start of a Great Friendship!" #NT!
+ sweden.88.t: "Germany Reject Us!" #NT!
+ sweden.88.d: "Our messenger have come back, sadly, with bad news. The Germans did not accept our request to join the Stahlpakt, leaving us outside their alliance. While this is a bummer, it can also be the turn towards other foreign options." #NT!
+ sweden.88.a: "We Shall Show Them!" #NT!
+ sweden.89.t: "Sweden Wants to Join our Alliance" #NT!
+ sweden.89.d: "A messenger from Sweden have today arrived London with an interesting request. With the world seemingly heading towards a new Great War, Sweden have taken the choice to leave their neutrality. They have requested us their entrance into the Imperial Protection Alliance. This can give us an ally against the rising German Reich and better control over Swedish steel, but some worries that the Swedes are more of a burden than a help." #NT!
+ sweden.89.a: "We Welcomes Them!" #NT!
+ sweden.89.b: "No, Thanks!" #NT!
+ sweden.90.t: "Britain Welcomes Us!" #NT!
+ sweden.90.d: "Our messenger have come back with good news. The British have accepted our request to join the Imperial Protection Alliance. With this alliance secured, we hope that our road ahead is much more safer, with many more ambitions available." #NT!
+ sweden.90.a: "This is the Start of a Great Friendship!" #NT!
+ sweden.91.t: "Britain Reject Us!" #NT!
+ sweden.91.d: "Our messenger have come back, sadly, with bad news. The British did not accept our request to join the Imperial Protection Alliance, leaving us outside their alliance. While this is a bummer, it can also be the turn towards other foreign options." #NT!
+ sweden.91.a: "We Shall Show Them!" #NT!
+  
+ sweden.92.t: "King Strengthen our Bond to the British Monarchy" #NT!
+ sweden.92.d: "WIP" #NT!
+ sweden.92.a: "Hurray!" #NT!
+ sweden.93.t: "Royal Visit to Germany" #NT!
+ sweden.93.d: "WIP" #NT!
+ sweden.93.a: "It was an Honour!" #NT!
+  
+ sweden.94.t: "A Scandinavian Passport Union" #NT!
+ sweden.94.d: "Easier Moving In between Countries?" #NT!
+ sweden.94.a: "Let's Propose It" #NT!
+ sweden.94.b: "Nah, Never mind" #NT!
+  
+ sweden.100.t: "Sweden Wants Trade Agreements" #NT!
+ sweden.100.d: "WIP" #NT!
+ sweden.100.a: "Okay then." #NT!
+ sweden.100.b: "Nah." #NT!
+ sweden.101.t: "The Soviets Accepted our Trade Agreements" #NT!
+ sweden.101.d: "WIP" #NT!
+ sweden.101.a: "This is a Great Start for Swedish-Soviet Relations!" #NT!
+ sweden.102.t: "The Soviets Reject our Trade Agreements" #NT!
+ sweden.102.d: "WIP" #NT!
+ sweden.102.a: "Then we have to Endure the Crisis Alone." #NT!
+  
+ sweden.105.t: "The Swedish Proletariat Election" #NT!
+ sweden.105.d: "With the power of the Swedish proletariat secured and our way to recovery clear, we can finally work to build a proletarian democracy in Sweden. Holding elections among the workers and farmers, there are primarily two parties that has a chance to secure victory.\n\nThe Left Socialists are made up of former Social Democrats who seek to build a democratic and revolutionary socialist society. They seek to decentralize power away from Stockholm and to ensure that Sweden remains as neutral as possible internationally.\n\nThe Communists are inspired by the Bolsheviks in Russia. They seek to reform our proletarian democracy into a socialist single-party state, with the party standing unopposed in the progress towards a Communist society. Among the Communists, there are some that are more radical and oriented towards building a revolutionary Vanguard." #NT!
+ sweden.105.a: "Vänstersocialistiska Partiet Takes Control" #NT!
+ sweden.105.b: "Sveriges Kommunistiska Parti Remains in Control" #NT!
+ sweden.105.c: "The Revolutionary Vanguard of SKP Takes Control" #NT!
+  
+ sweden.106.t: "Sweden Wants to Join our International" #NT!
+ sweden.106.d: "A messenger from Sweden have today arrived Moscow with an interesting request. With the world seemingly heading towards a new Great War, Sweden have taken the choice to leave their neutrality. They have requested us their entrance into our alliance. Many within our government sees this as a good way to strengthen the socialist revolution in Scandinavia, but others also think it could take resources that could be used in other theaters." #NT!
+ sweden.106.a: "We Welcomes Them!" #NT!
+ sweden.106.b: "No, Thanks!" #NT!
+ sweden.107.t: "The Soviets Welcomes Us!" #NT!
+ sweden.107.d: "Our messenger have come back with good news. The Soviet Union have accepted our request to join the Third International. With this alliance secured, we hope that our road ahead is much more safer, with many more ambitions available." #NT!
+ sweden.107.a: "This is the Start of a Great Friendship!" #NT!
+ sweden.108.t: "The Soviets Reject Us!" #NT!
+ sweden.108.d: "Our messenger have come back, sadly, with bad news. The Soviet Union did not accept our request to join the Third International, leaving us outside their alliance. It is unfortunate that they doesn't see the need for our international movement to stick together against the reactionary forces of this world." #NT!
+ sweden.108.a: "We Shall Show Them!" #NT!
+  
+ sweden.109.t: "Sweden Wants a Socialist Union" #NT!
+ sweden.109.d: "The Swedish workers have thrown off the shackles of reactionary capitalism and have sent an envoy to Oslo. They propose that we should combine our forces and unite into a Scandinavian Socialist Union." #NT!
+ sweden.109.a: "Yeah! Let's do it!" #NT!
+ sweden.109.b: "No, we Are Independent!" #NT!
+ sweden.110.t: "Norway Accept Unification" #NT!
+ sweden.110.d: "Our Norwegian brethrens have accepted our request for unification. Together, we will break the borders that have divided us and forge a Pan-Scandinavian socialist society." #NT!
+ sweden.110.a: "Perfect!" #NT!
+ sweden.111.t: "Norway Reject Unification" #NT!
+ sweden.111.d: "Our Norwegian brethrens have sadly rejected our request for unification. It is evident that the Norwegian socialist government are still captives of the reactionary ideas of nationalism. With these news, many inside our government are now urging us to unify with them by force." #NT!
+ sweden.111.a: "Then We Need to Use Might" #NT!
+ sweden.111.b: "Accept Their Choice" #NT!
+  
+ sweden.112.t: "Sweden Wants a Socialist Union" #NT!
+ sweden.112.d: "The Swedish workers have thrown off the shackles of reactionary capitalism and have sent an envoy to Helsinki. They propose that we should combine our forces and unite into a Scandinavian Socialist Union." #NT!
+ sweden.112.a: "Yeah! Let's do it!" #NT!
+ sweden.112.b: "No, we Are Independent!" #NT!
+ sweden.113.t: "Finland Accept Unification" #NT!
+ sweden.113.d: "Our Finnish brethrens have accepted our request for unification. Together, we will break the borders that have divided us and forge a Pan-Scandinavian socialist society." #NT!
+ sweden.113.a: "Perfect!" #NT!
+ sweden.114.t: "Finland Reject Unification" #NT!
+ sweden.114.d: "Our Finnish brethrens have sadly rejected our request for unification. It is evident that the Finnish socialist government are still captives of the reactionary ideas of nationalism. With these news, many inside our government are now urging us to unify with them by force." #NT!
+ sweden.114.a: "Then We Need to Use Might" #NT!
+ sweden.114.b: "Accept Their Choice" #NT!
+  
+ sweden.115.t: "Sweden Wants a Socialist Union" #NT!
+ sweden.115.d: "The Swedish workers have thrown off the shackles of reactionary capitalism and have sent an envoy to Copenhagen. They propose that we should combine our forces and unite into a Scandinavian Socialist Union." #NT!
+ sweden.115.a: "Yeah! Let's do it!" #NT!
+ sweden.115.b: "No, we Are Independent!" #NT!
+ sweden.116.t: "Denmark Accept Unification" #NT!
+ sweden.116.d: "Our Danish brethrens have accepted our request for unification. Together, we will break the borders that have divided us and forge a Pan-Scandinavian socialist society." #NT!
+ sweden.116.a: "Perfect!" #NT!
+ sweden.117.t: "Denmark Reject Unification" #NT!
+ sweden.117.d: "Our Danish brethrens have sadly rejected our request for unification. It is evident that the Danish socialist government are still captives of the reactionary ideas of nationalism. With these news, many inside our government are now urging us to unify with them by force." #NT!
+ sweden.117.a: "Then We Need to Use Might" #NT!
+ sweden.117.b: "Accept Their Choice" #NT!
+  
+ sweden.120.t: "A Union of Scandinavian Soviets?" #NT!
+ sweden.120.d: "With the Nordic countries under one banner, we can finally unite the brethren people of Sweden, Norway, Denmark and Finland into one Scandinavian Socialist state. Today, a new day rises for the working class of these fair lands." #NT!
+ sweden.120.a: "Long Live the Scandinavian Worker!" #NT!
+  
+ sweden.121.t: "Rising Swedish Influence" #NT!
+ sweden.121.d: "The socialist regime in Sweden has given refuge to the radicals in the Labour Party. We are worried that they will attempt to incite revolutionary activies in Norway." #NT!
+ sweden.121.a: "Damn Those Swedes" #NT!
+  
+ sweden.122.t: "Sweden Sends Aid" #NT!
+ sweden.122.d: "The Swedish government have issued us military aid, as well as helping us with volunteers in our fight against the Soviet Union. Hopefully, this will be more than enough to secure a victory over the Russian bear." #NT!
+ sweden.122.a: "Thank You, Sweden" #NT!
+  
+ sweden.123.t: "Sweden Request Access" #NT!
+ sweden.123.d: "Our Swedish neighbors have reached out and requested that we give them military access through our nation. For the Swedes, this access will make it easier for them to move their forces down into the European continent in anticipation of a war against Germany. However, it could also make Denmark a target for the enemies of Sweden." #NT!
+ sweden.123.a: "Let Them Enter" #NT!
+ sweden.123.b: "We Have to Deny Them" #NT!
+ sweden.124.t: "Denmark Accepted" #NT!
+ sweden.124.d: "The Danish government have accepted our request, allowing our forces to travel through Danish lands. As a part of this deal, we have ourselves given them access to our land." #NT!
+ sweden.124.a: "Knew the Danes Are Somewhat Reasonable" #NT!
+ sweden.125.t: "Denmark Rejected" #NT!
+ sweden.125.d: "The Danish government have rejected our request. This was not an unlikely outcome, but it still is regretable. Maybe we shouldn't have hoped much from the Danes after all." #NT!
+ sweden.125.a: "Stubborn Flatlanders" #NT!
+  
+ sweden.126.t: "Sweden Seeks a Referendum on Åland" #NT!
+ sweden.126.d: "Swedish diplomats have contacted us, asking us if we would be interested in an referendum on Åland. The Swedes are willing to give the decision to the people of Åland, seemingly growing a consciousness since their occupation of the islands. In Finland, there are mixed feelings about this. Some Finnish nationalists support it, since it can be an opportunity to reclaim the islands, while others reject it, since it can end up with legitimicing the Swedish occupation. It is up to us what we are going to do." #NT!
+ sweden.126.a: "Referendum! We Will Win it Easily!" #NT!
+ sweden.126.b: "We Can't Give Them the Chance" #NT!
+ sweden.127.t: "Finland Accepts the Referendum" #NT!
+ sweden.127.d: "Good news have arrived from our Finnish neighbors. They are on-board that we hold a referendum on the Åland islands. While the Finns might see this as an opportunity to gain control over the islands, it will be our opportunity to make our reconquest of the islands legitimate. Already, some polls do show a pro-Sweden leaning. Hopefully, the referendum will be easy to win, but we should be aware that Finland will try to steer it in their favor." #NT!
+ sweden.127.a: "Now, the Work Begins" #NT!
+ sweden.128.t: "Finland Doesn't Want a Referendum" #NT!
+ sweden.128.d: "Surprisingly, the Finns have rejected our offer of holding a referendum on the Åland islands. This is probably because they fear such a referendum will only help legitimicing our control over the islands. In our eyes, however, this answer is proof that Åland isn't so important for Finland and that it is best for it to be governed by us. We gave them a chance..." #NT!
+ sweden.128.a: "...and They Blew It" #NT!
+  
+ sweden.129.t: "The [GetYear] Election" #NT!
+ sweden.129.d: "New parliamentary elections have come to Sweden. With the last four years being dominated by the authoritarian prime ministership of Carl Gustaf Hammarskjöld, the parliament have been put on the sideline in favor of a government that got more of its power from the King and the military. In this environment, democratic ideals have rotted away.\n\nWith Hammarskjöld retiring from politics and the appoinment of a moderate conservative to lead the government, many look with hope towards this election. Even if liberalization of the regime hasn't occured yet, there are faith in the new government that democracy will again flourish in Sweden.\n\nAnd the result is:\n\n§BConservatives§!: 124 Seats\n§SSocial Democrats§!: 42 Seats\n§GFarmers' League§!: 33 Seats\n§3People's Party§!: 21 Seats\n§0National Bloc§!: 10 Seats" #NT!
+ sweden.129.a: "Victory for Democracy!" #NT!
+  
+ sweden.130.d: "New parliamentary elections have come to Sweden. With the last four years being dominated by the authoritarian prime ministership of Carl Gustaf Hammarskjöld, the parliament have been put on the sideline in favor of a government that got more of its power from the King and the military. In this environment, democratic ideals have rotted away.\n\nEven if Hammarskjöld is gone from Swedish politics, his authoritarian conservatism still lives on. For many, this election will only be a formality to strengthen the legitimacy of the regime. Even if there are still a few parties left, the regime will likely use its foreseeable victory to end party politics in Sweden.\n\nAnd the result is:\n\n§BConservatives§!: 176 Seats\n§0National Bloc§!: 25 Seats\n§GFarmers' League§!: 23 Seats\n§PIndependent Lists§!: 6 Seats" #NT!
+  
+ sweden.131.d: "New parliamentary elections have come to Sweden. After the victory of the Social Democratic-led coalition, the years of authoritarianism that was marked by the Hammarskjöld government has faded into the background and the New Swedish Movement does no longer pose a threat. Instead of radicalism, this years' election have many moderate voices with differing views on how Sweden ought to be governed.\n\nWith the election, the coalition between the Social Democrats and the liberals are beginning to fracture. Prime minister Hansson seek to further his vision of Folkhemmet, even proposing universal health care. The liberals have begun to voice alarm over these programs and will likely ally with the moderate conservatives.\n\nIt will be up to the Swedish people to vote." #NT!
+ sweden.131.a: "The People Seem to Want More Social Democracy" #NT!
+ sweden.131.b: "The People Seem to Want a Change in Government" #NT!
+  
+ sweden.132.t: "Social Democratic Victory!" #NT!
+ sweden.132.d: "The people voted and they gave their answer - a new term for the Social Democrats of Per Albin Hansson. As the votes are counted, it creates a clear picture that people trust the Social Democrats not only to give them social security but also defend Sweden.\n\nAnd the result is:\n\n§SSocial Democrats§!: 133 Seats\n§BConservatives§!: 40 Seats\n§GFarmers' League§!: 26 Seats\n§3People's Party§!: 20 Seats\n§0National Bloc§!: 8 Seats\n§rCommunist Party§!: 3 Seats" #NT!
+  
+ sweden.133.t: "Borgerliga Blokket Victory!" #NT!
+ sweden.133.d: "The people voted and they gave their answer - that they were tired of the Social Democrats and Per Albin Hansson. As the votes are counted, it creates a clear picture that people have given the Conservatives, Liberals and Agrarians a mandate to temper and moderate the Folkhemmet that the Social Democrats have given them.\n\nAnd the result is:\n\n§SSocial Democrats§!: 100 Seats\n§BConservatives§!: 64 Seats\n§GFarmers' League§!: 37 Seats\n§3People's Party§!: 23 Seats\n§0National Bloc§!: 3 Seats\n§rCommunist Party§!: 3 Seats" #NT!
+  
+ sweden.420.d: "In 1814, directly following the wake of the Napoleonic wars, Sweden gained control of the kingdom of Norway and the two entered a personal union which would last until 1905. Sweden-Norway remained neutral in nearly all conflicts of the later 19th century but during this time it cemented itself as one of the richest nations in Europe with one of the continents highest standard of living. This blissful isolation has been chalenged several times though. Sweden-Norway refused to support Denmark in their war against Prussia in 1864 which would permanently damaged support for a united Scandinavia. After nearly a century together Sweden and Norway dissolved the union in 1905 on good terms. \n\nRelations between the Nordic nations have remained good until the socialist party "Arbeiderpartiet" took power in Norway and ousted the Royal Family in a controversial referendum. Coming out of the ashes of the failed revolution in Sweden, Swedish conservatives rallied together against this new ideological enemy. For the last decade tensions in northern Europe have been high and in the wake of the London Stock Crash have finally reached a boiling point. The war between out nations was brutal but the Swedes have come out victorious over the revolutionaries and for the first time since 1905 our nations are one. In this ever changing world we must be strong to survive. A united Scadinavia will be too powerful for any nation to overcome! Shall we reform the union between our glorious states?" #NT!
+  
+ #### NEWS EVENTS #### 
+ swenews.1.d: "[This.GetNewspaperHeader]During the Great War, Norway found themselves in a precarious position to say the least. The War ended up opening a rift between the classes of Norway, notably the Upper-class and Lower-class. Many resorted to the teachings of Karl Marx, and following a major Strike gone violent in Olso, the Arbeiderpartiet (Labour Party) pulled a large majority in the following elections. A referendum on the abolition of the monarchy was soon held, and a 52.1% saw it through… Much to the dissatisfaction of their neighbors. \n\nJust recently after the Victory of the Nationalist/Loyalist Coalition in Sweden; it has become apparent that Sweden has looked to break their policy of neutrality. Campaigning against Socialism in Scandinavia, Gustaf V is eager to demonstrate that Sweden is willing to meet Socialists with force." #NT!
+  
+ #### FOCUS TREE #### 
+  
+ SWE_reevaluate_swedish_defence: "Reevaluate Swedish Defence Policy" #NT!
+ SWE_reevaluate_swedish_defence_desc: "Since the end of the Great War, our defence spending has laid on a low level. However, with the world again warming up to conflict, we need to revisit the issue of defence. In the upcoming Försvarsbeslutet 1936, there is a proposed increase in the yearly spending towards the Swedish Armed Forces. This is a natural step towards reforming our military." #NT!
+ SWE_reforming_army: "Reforming the Army" #NT!
+ SWE_reforming_army_desc: "Sweden has not seen war since 1814, and that shows in our military. For years, the Swedish army has remained backward, with many conservative generals refusing to adapt to modern advances. At the same time, Sweden have a proud military history to look back on, and we can take inspiration for reform both from the past and in the future." #NT!
+ SWE_modern_caroleans: "Modern Caroleans" #NT!
+ SWE_modern_caroleans_desc: "The Caroleans managed to build an empire in northern Europe on their shock tactics and dicipline. While they were created at a time of musketry, volley fire and pikemen, we should learn from their combination of shock and dicipline. By adapting Carolean tactics to modern technology, we will be able to build a new empire." #NT!
+ SWE_focus_specialized_units: "Focus on Specialized Units" #NT!
+ SWE_focus_specialized_units_desc: "" #NT!
+ SWE_combined_arms_legacy: "Combined Arms Legacy" #NT!
+ SWE_combined_arms_legacy_desc: "Gustavus Adolphus was one of the first military leaders to use different combat arms of a military to achieve victory. He emphazized mobility and aggressiveness over defence, employing mobile artillary on the field. We should find inspiration in the tactics and innovations of Gustavus Adolphus, amending them to the reality of modern warfare." #NT!
+ SWE_new_infantry_equipment: "New Infantry Equipment" #NT!
+ SWE_new_infantry_equipment_desc: "The equipment mostly used by our infantry is the gun known as the Swedish Mauser, our own version of the German design. While the old versions still works well, with the rise of mechanized infantry units the call for a shorter rifle has been made. With these changes, the weapon can be better used by other units in our military than just foot infantry." #NT!
+ SWE_modernize_shock_tactics: "Modernize Shock Tactics" #NT!
+ SWE_modernize_shock_tactics_desc: "While most of our military victories have been achieved through aggressiveness and shock, today we are more willing to stand back and defend. This has to change if we are forced into battle again. We need to take inspiration from our forefathers, their dicipline and resolve, and follow them into the charge.\n§RGå På!§!" #NT!
+ SWE_reform_general_staff: "Reform the General Staff" #NT!
+ SWE_reform_general_staff_desc: "The general staff is outdated, filled with men who doesn't even know that we have left the 19th century. We need to reform it to keep our army up to date and encourage meritocracy inside the ranks. In modern warfare, and warfare of any age, aritocracy hasn't determined if someone is fit to serve as a general." #NT!
+ SWE_army_motorization: "Army Motorization" #NT!
+ SWE_army_motorization_desc: "The invention of motors have revolutionized modern warfare. No longer is the battlefield dominated by men and horses. You can have armoured veichles that can be used for combat or for upholding supply lines. Even if Sweden is a little too small for tank production, we have the steel and synthetic rubber for other veichles." #NT!
+ SWE_men_of_dalarane: "Men of Dalarna" #NT!
+ SWE_men_of_dalarane_desc: "Dalarna is a region of Sweden known for its hills and valley, as well as its mining deposits. The men from these areas are hardy and know their rights. Historically, both Engelbrekt and Gustav Vasa found their strongest supporters among the men of Dalarna. With their history and their nature, it is no surprise that they prove useful as hunters and mountaineers." #NT!
+ SWE_mechanized_infantry: "Mechanized Infantry" #NT!
+ SWE_mechanized_infantry_desc: "" #NT!
+ SWE_spirit_of_carolus_rex: "Spirit of Carolus Rex" #NT!
+ SWE_spirit_of_carolus_rex_desc: "" #NT!
+ SWE_modern_swedish_artillary: "Modern Swedish Artillery" #NT!
+ SWE_modern_swedish_artillary_desc: "" #NT!
+ SWE_anti_tank_equipment: "Anti-Tank Equipment" #NT!
+ SWE_anti_tank_equipment_desc: "" #NT!
+ SWE_establish_armoured_corps: "Establish Armoured Corps" #NT!
+ SWE_establish_armoured_corps_desc: "" #NT!
+ SWE_develop_anti_air: "Develop Anti-Air" #NT!
+ SWE_develop_anti_air_desc: "" #NT!
+ SWE_spirit_of_gustavus_adolphus: "Spirit of Gustavus Adolphus" #NT!
+ SWE_spirit_of_gustavus_adolphus_desc: "" #NT!
+  
+ SWE_swedish_peoples_army: "A Swedish People's Army" #NT!
+ SWE_swedish_peoples_army_desc: "" #NT!
+ SWE_decentralized_command: "Decentralized Command" #NT!
+ SWE_decentralized_command_desc: "" #NT!
+ SWE_highland_resistance_fighters: "Highland Resistance Fighters" #NT!
+ SWE_highland_resistance_fighters_desc: "" #NT!
+ SWE_patriotic_call: "A Patriotic Call" #NT!
+ SWE_patriotic_call_desc: "" #NT!
+ SWE_future_of_red_army: "The Future of the Red Army" #NT!
+ SWE_future_of_red_army_desc: "" #NT!
+ SWE_establish_armoured_corps_red: "Establish Armoured Corps" #NT!
+ SWE_establish_armoured_corps_red_desc: "" #NT!
+ SWE_arm_proletarian_soldiers: "Arm the Proletarian Soldiers" #NT!
+ SWE_arm_proletarian_soldiers_desc: "" #NT!
+ SWE_peoples_charge: "The People's Charge" #NT!
+ SWE_peoples_charge_desc: "" #NT!
+ SWE_army_motorization_red: "Army Motorization" #NT!
+ SWE_army_motorization_red_desc: "" #NT!
+ SWE_cannons_of_revolution: "Cannons of Revolution" #NT!
+ SWE_cannons_of_revolution_desc: "" #NT!
+ SWE_mechanized_infantry_red: "Mechanized Infantry" #NT!
+ SWE_mechanized_infantry_red_desc: "" #NT!
+ SWE_motor_centric_army: "A Motor-Centric Army" #NT!
+ SWE_motor_centric_army_desc: "" #NT!
+ SWE_focus_specialized_units_red: "Elite Support Units" #NT!
+ SWE_focus_specialized_units_red_desc: "" #NT!
+ SWE_integrate_artillery_support: "Integrate Artillary Support" #NT!
+ SWE_integrate_artillery_support_desc: "" #NT!
+ SWE_spirit_of_swedish_proletariat: "Spirit of the Swedish Proletariat" #NT!
+ SWE_spirit_of_swedish_proletariat_desc: "" #NT!
+  
+ SWE_fortify_norwegian_border: "Fortify the Norwegian Border" #NT!
+ SWE_fortify_norwegian_border_desc: "" #NT!
+ SWE_skanelinjen: "Skånelinjen" #NT!
+ SWE_skanelinjen_desc: "" #NT!
+ SWE_war_rationing: "War Rationing" #NT!
+ SWE_war_rationing_desc: "" #NT!
+ SWE_lottorane: "Lottorane" #NT!
+ SWE_lottorane_desc: "" #NT!
+ SWE_swedish_homeguard: "A Swedish Homeguard" #NT!
+ SWE_swedish_homeguard_desc: "" #NT!
+ SWE_in_defence_of_sweden: "In Defence of Sweden" #NT!
+ SWE_in_defence_of_sweden_desc: "" #NT!
+  
+ SWE_swedish_navy: "The Swedish Navy" #NT!
+ SWE_swedish_navy_desc: "" #NT!
+ SWE_expand_swedish_dockyards: "Expand Swedish Dockyards" #NT!
+ SWE_expand_swedish_dockyards_desc: "" #NT!
+ SWE_modernize_destroyers: "Modernize the Destroyers" #NT!
+ SWE_modernize_destroyers_desc: "" #NT!
+ SWE_focus_cruiser_fleet: "Focus on the Cruiser Fleet" #NT!
+ SWE_focus_cruiser_fleet_desc: "" #NT!
+ SWE_baltic_dominance: "Baltic Dominance" #NT!
+ SWE_baltic_dominance_desc: "" #NT!
+ SWE_expand_submarine_effort: "Expand Submarine Effort" #NT!
+ SWE_expand_submarine_effort_desc: "" #NT!
+ SWE_modernize_marines: "Modernize the Marines" #NT!
+ SWE_modernize_marines_desc: "" #NT!
+ SWE_undersea_control: "Undersea Control" #NT!
+ SWE_undersea_control_desc: "" #NT!
+ SWE_new_vasa: "A New Vasa" #NT!
+ SWE_new_vasa_desc: "" #NT!
+ SWE_expand_kustartilleriet: "Expand Kustartilleriet" #NT!
+ SWE_expand_kustartilleriet_desc: "" #NT!
+  
+ SWE_expand_air_force: "Expand the Air Force" #NT!
+ SWE_expand_air_force_desc: "" #NT!
+ SWE_help_establishment_saab: "Help the Establishment of SAAB" #NT!
+ SWE_help_establishment_saab_desc: "" #NT!
+ SWE_expand_air_industry: "Expand the Air Industry" #NT!
+ SWE_expand_air_industry_desc: "" #NT!
+ SWE_strengthen_air_support: "Strengthen Air Support" #NT!
+ SWE_strengthen_air_support_desc: "" #NT!
+ SWE_swedish_fighters: "Swedish Fighters" #NT!
+ SWE_swedish_fighters_desc: "" #NT!
+ SWE_heavy_fighters: "Heavy Fighers" #NT!
+ SWE_heavy_fighters_desc: "" #NT!
+ SWE_focus_bombers: "Focus on Bombers" #NT!
+ SWE_focus_bombers_desc: "" #NT!
+ SWE_expand_air_bases: "Expand the Air Bases" #NT!
+ SWE_expand_air_bases_desc: "" #NT!
+ SWE_focus_naval_bombers: "Focus on Naval Bombers" #NT!
+ SWE_focus_naval_bombers_desc: "" #NT!
+  
+ SWE_continued_industrialization: "Continued Industrialization" #NT!
+ SWE_continued_industrialization_desc: "Sweden is a growing industrial powerhouse. Why shouldn't we continue in advancing our nation's greatness. Despite our problems, our nation still have many of Europe's best entrepreneurs and industralists around." #NT!
+ SWE_expand_forestry_industry: "Expand the Forestry Industry" #NT!
+ SWE_expand_forestry_industry_desc: "Our country is covered by forests and throughout Swedish history, the forests have played an important part of our economy. From building materials to furniture, the Swedish forests continues to bring riches to our nation. With both our domestic population and foreign buyers looking for Swedish products, we need to expand to be able to provide." #NT!
+ SWE_swedish_hydropower: "Swedish Hydropower" #NT!
+ SWE_swedish_hydropower_desc: "While Sweden doesn't have the ability to utilize our rivers and lakes to produce power like Norway can, we still have some potential for hydropower production. Especially in the northern parts of our country, into Jamtland, Dalarna and Norrland. Constructing new dams and hydropower stations will help providing energy for both the Swedish population and Swedish industry." #NT!
+ SWE_ericsson_electric_industries: "Ericsson Electric Industries" #NT!
+ SWE_ericsson_electric_industries_desc: "Telefonaktiebolaget LM Ericsson started in 1876 as a company that produced telegraph products for the government agency Telegrafverket. After a few years, Ericsson began to make and sell their own telephones. The company is in the forefront of the electronic industry, with their products reaching far beyond Sweden's borders. They continue to be an important provider for the Swedish government, both in civilian and increasingly in military matters." #NT!
+ SWE_modernize_railways: "Modernize the Railways" #NT!
+ SWE_modernize_railways_desc: "Rail transport in Sweden have chugged along since the first rails were laid in 1855. Since then, and with the establishment of the state-owned Statens Järnvägar, Sweden have quickly become one of the most covered country in comparison to our population. However, we always need to have our railways up to date and ensure that it is expanded enought to keep up with Swedish industrial demands." #NT!
+ SWE_expand_car_roads: "Expand the Road Network" #NT!
+ SWE_expand_car_roads_desc: "Our infrastructure can not only rely on rail transport. With the advent of the automobile, there will be a demand for roads that can properly acount for the rising demand. In addition, the Swedish military will seek to use this infrastructure for it's own use." #NT!
+ SWE_support_skanska: "Support Skanska" #NT!
+ SWE_support_skanska_desc: "Aktiebolaget Skånska Cementgjuteriet was founded in 1887 and have quickly rissen as one of the biggest construction companies not only in Sweden, but in Scandinavia. It started by manufacturing concrete products before diversifying. Skanska plays an important role in fulfilling Sweden's growing infrastructure demands, from roads to housing." #NT!
+ SWE_husqvarna_civilian_industry: "Husqvarna Civilian Industry" #NT!
+ SWE_husqvarna_civilian_industry_desc: "Husqvarna is one of the oldest companies in Sweden, tracing their roots back to firearm production in 1689. While they are known for their contribution in military industry, they have also made products for civilian use. Since the turn of the century, Husqvarna bicycles and motorcycles have come to be enjoyed by the Swedish people, with them in recent years tapping into lawn mowers." #NT!
+ SWE_support_automobile_industry: "Support the Automobile Industry" #NT!
+ SWE_support_automobile_industry_desc: "A growing automobile industry have taken hold in Sweden. Here, two companies have grown into prominence. AB Scania-Vabis was formed in 1911 in a union between a railcart producer and a bicycle producer. They have specialized in the production of trucks and are a reliable provider to the Swedish army.\n\nAB Volvo was formed by Svenska Kullagerfabriken to construct a car to implement their ball bearings. In 1927, their first car rolled off the production line. Quickly, Volvo have grown into almost an instant success, with safety always being one of their main goals. Both Scania and Volvo are testaments to Sweden's innovative spirit." #NT!
+ SWE_complete_inlandsbanan: "Complete Inlandsbanan" #NT!
+ SWE_complete_inlandsbanan_desc: "While the south of Sweden and the coastal areas have a well-built railway system, the interior are lacking behind. There is plans to complete 'Inlandsbanan', a railway streching from Vänern far up into the interior north. This will finally help to secure ourselves against this blindspot in our infrastructure and bring the railway to thousands of Swedes." #NT!
+ SWE_expand_kiruna_mines: "Expand the Kiruna Mines" #NT!
+ SWE_expand_kiruna_mines_desc: "The presence of iron in northern Lappland have been known for a very long time by the local Sámi inhabitants. At first, mining were consentrated at Malmberget, but the focus have eventually moved to Kiruna. Under the state-owned company Luossavaara-Kiirunavaara Aktiebolag (LKAB), Sweden have managed to extract a lot of iron. With the rising tensions around the world, we have been met with a rising demand for iron and steel. Therefore, we need to expand the mines at Kiruna." #NT!
+ SWE_expand_bofors: "Expand Bofors" #NT!
+ SWE_expand_bofors_desc: "AB Bofors is a company formerly connected to iron and steel production, but have gone into the manufacturing of weapons, especially cannons. In modern time, it have also tapped into the chemical industry, helped by one of its most known owners Alfred Nobel. Bofors have not only helped Sweden's military. It have also helped Germany to come around their post-Great War limitations on artillary development. With war on the horison, they will need to expand their production." #NT!
+ SWE_invest_landsverk: "Invest in Landsverk" #NT!
+ SWE_invest_landsverk_desc: "AB Landsverk was founded in 1872 and has grown during the last couple of decades into a company specializing in tracked and wheeled military veichles. While most of their production have been armoured cars and off-road cars, they have begun with making light tanks. Their most recent addition in the latter camp being the L-60. We need to invest into their company, making them able to make more armoured veichles and tanks." #NT!
+ SWE_expand_rare_mineral_mines: "Expand Rare Mineral Mines" #NT!
+ SWE_expand_rare_mineral_mines_desc: "While Sweden is mostly an extractor of iron, some do seek to find other minerals and materials that can be used. Previously, there have been some extractions of tungsten and other materials. Perhaps we will be able to find other stuff in the mines. There are especially hope to find more inside already existing mines." #NT!
+ SWE_expand_kth: "Expand KTH" #NT!
+ SWE_expand_kth_desc: "Kungliga Tekniska Högskulan was formed over a hundred years ago in 1827 and have been on the forefront in research and education on engineering and technology. Even so, it was only a few years ago that they finally was able to confer its own doctorates. We need to strengthen this institution, especially in this day and age. With the advent of nuclear technology, we have become more interested that the researchers at KTH make something with neutrons." #NT!
+  
+ # Foreign 
+  
+ SWE_our_place_in_world: "Our Place in the World" #NT!
+ SWE_our_place_in_world_desc: "Sweden have long been neutral, but will it continue to be so. Will Sweden abandon its commitment to neutrality, or will it involve itself into the next Great War? Who knows?!" #NT!
+ SWE_scandinavian_revolution: "Scandinavian Revolution" #NT!
+ SWE_scandinavian_revolution_desc: "" #NT!
+ SWE_unity_with_norwegian_socialists: "Unity With Norwegian Socialists" #NT!
+ SWE_unity_with_norwegian_socialists_desc: "" #NT!
+ SWE_harbouring_revolutionaries: "Harbour Norwegian Revolutionaries" #NT!
+ SWE_harbouring_revolutionaries_desc: "" #NT!
+ SWE_retake_norway: "Retake Norway" #NT!
+ SWE_retake_norway_desc: "" #NT!
+ SWE_march_on_danes: "March on the Danes" #NT!
+ SWE_march_on_danes_desc: "" #NT!
+ SWE_red_flags_over_finland: "Red Flags Over Finland" #NT!
+ SWE_red_flags_over_finland_desc: "" #NT!
+ SWE_rise_socialist_scandinavia: "Rise of a Socialist Scandinavia" #NT!
+ SWE_rise_socialist_scandinavia_desc: "" #NT!
+ SWE_align_with_paris: "Align With Paris" #NT!
+ SWE_align_with_paris_desc: "" #NT!
+ SWE_swedo_french_cooperation: "Swedo-French Cooperation" #NT!
+ SWE_swedo_french_cooperation_desc: "" #NT!
+ SWE_swedo_anglo_cooperation: "Swedo-British Cooperation" #NT!
+ SWE_swedo_anglo_cooperation_desc: "" #NT!
+ SWE_defending_our_neutrality: "Defending Our Neutrality" #NT!
+ SWE_defending_our_neutrality_desc: "" #NT!
+ SWE_ready_against_germans_and_soviets: "Ready Against the Germans and Soviets" #NT!
+ SWE_ready_against_germans_and_soviets_desc: "" #NT!
+ SWE_negotiate_danish_access: "Negotiate Danish Access" #NT!
+ SWE_negotiate_danish_access_desc: "" #NT!
+ SWE_neutralize_norwegian_threat: "Neutralize the Norwegian Threat" #NT!
+ SWE_neutralize_norwegian_threat_desc: "" #NT!
+ SWE_restore_german_ties: "Restore German Ties" #NT!
+ SWE_restore_german_ties_desc: "" #NT!
+ SWE_to_finlands_defence: "To Finland's Defence" #NT!
+ SWE_to_finlands_defence_desc: "" #NT!
+ SWE_resolve_aland_question: "Resolve the Åland Question" #NT!
+ SWE_resolve_aland_question_desc: "" #NT!
+ SWE_embrace_pan_nordicism: "Embrace Pan-Nordicism" #NT!
+ SWE_embrace_pan_nordicism_desc: "" #NT!
+ SWE_restore_hegemony_over_finns: "Restore Hegemony Over the Finns" #NT!
+ SWE_restore_hegemony_over_finns_desc: "" #NT!
+ SWE_crusade_against_communists: "Crusade Against Communism" #NT!
+ SWE_crusade_against_communists_desc: "" #NT!
+ SWE_secure_norway: "Secure Norway" #NT!
+ SWE_secure_norway_desc: "" #NT!
+ SWE_cross_oresund: "Cross Öresund" #NT!
+ SWE_cross_oresund_desc: "" #NT!
+ SWE_brothers_united: "Brothers United" #NT!
+ SWE_brothers_united_desc: "" #NT!
+ SWE_restoring_the_empire: "Vår Stormaktstid Är Nu!" #NT!
+ SWE_restoring_the_empire_desc: "" #NT!
+  
+ #SWE_1936_election: "The 1936 Election" #NT!
+ #SWE_1936_election_desc: "With the economic crisis still fresh in people's mind, they have gone to vote for who shall sit in our parliament, and out from there, form a new government. Sweden wonders if this will mark the birth of Folkhemmet, the birth of a New Sweden, or a comeback of the conservatives." #NT!
+  
+ #SWE_socialistiska_blocket_victory: "Socialistiska Blocket Victory" #NT!
+ #SWE_socialistiska_blocket_victory_desc: "The people want change and they have now voted for it. No longer shall the injustice of the hunger revolution be again acted by the conservatives, in this crisis. Sweden shall no longer just be a country that the rich and powerful can play with. It shall be in the hands of everyone. It is our Home!" #NT!
+  
+ #SWE_establish_folkhemmet: "Establish Folkhemmet" #NT!
+ #SWE_establish_folkhemmet_desc: "Sweden should be formed like a home for our people. In this struggling time, we need to support each other like the father supporting his son, or an older brother supporting his younger siblings. In this home, justice shall be served equally and the people, from all social classes, from the rich to the poor, shall be able to rule." #NT!
+  
+ #SWE_recover_our_home: "Recover our Home" #NT!
+ #SWE_recover_our_home_desc: "Sweden right now is like a house, a home that has been struck by unluck. But with the help of all living in the home, it will recover, and become stronger." #NT!
+  
+ #SWE_balanced_democracy: "Balanced Diplomacy" #NT!
+ #SWE_balanced_democracy_desc: "Sweden lay itself in between two giants, the Germans in the south and the Soviets in the east. We need to balance our approach towards these powers to not endanger our independence." #NT!
+  
+ #SWE_borgerliga_blocket_victory: "Borgerliga Blocket Victory" #NT!
+ #SWE_borgerliga_blocket_victory_desc: "While many believed that the conservatives were unlikely to hold on to power after the market crash, we did. But we need to act fast if we shall not get the opinion of the people against us. This might be the last chance to save Swedish conservatism." #NT!
+  
+ #SWE_swedish_democracy: "The Swedish Democracy" #NT!
+ #SWE_swedish_democracy_desc: "Sweden, our Sweden. It has survived the waves of revolutions and radicalization. Out from the troubled times of the 1920s and 1930s shall a new Sweden rise. From the economic struggles to a time of economic growth and greatness. A new Sweden, one that gives democracy and peace!" #NT!
+  
+ #SWE_far_right_coalition: "The Far Right Coalition" #NT!
+ #SWE_far_right_coalition_desc: "The social democrats were not able to get the support to form their government, and the conservatives are now supporting our coalition. We have won, and its time to change Sweden for the better and making our country great again!" #NT!
+ #SWE_ban_communist_party: "Ban Sveriges Kommunistiska Parti" #NT!
+ #SWE_ban_communist_party_desc: "Sveriges Kommunistiska Parti is a party of revolutionaries. They want to destroy Sweden and lay the country under a totalitarian rule with power centralized in Moscow. They are traitors and shall be dealt with like traitors. Communism is Treason! And Treason is punishable by Death!" #NT!
+  
+ #SWE_attract_rightwing_valkists: "Attract Right-wing Valkists" #NT!
+ #SWE_attract_rightwing_valkists_desc: "Lindholmarna are very similar to us, but they are more against the monarchy and are generally more left-leaning with their socialist policies. But there are some of these valkists that can be easily attracted to us. We must just show us as a better alternative than the valkists." #NT!
+  
+ ## Right-Wing Tree ## 
+  
+ SWE_hammarskjold_engdahl_coalition: "Hammarskjöld-Engdahl Coalition" #NT!
+ SWE_hammarskjold_engdahl_coalition_desc: "The coalition between the Conservatives under Carl Gustaf Hammarskjöld and the New Swedish Movement under Per Engdahl have won over the forces of revolution and socialism. Even so, many think the coalition will not last long, as both men seeks to seize power for themselves." #NT!
+  
+ SWE_swedish_red_scare: "Swedish Red Scare" #NT!
+ SWE_swedish_red_scare_desc: "This recent election is the closest that the forces of socialism have been able to take over Sweden. These forces are a threat to our values and traditions, with their disdain towards Protestant Christianity, and to our independence, with them suckling the teat of the Bolsheviks in Moscow. They need to be rooted out for their treason." #NT!
+ SWE_controlling_elections: "Controlling Elections" #NT!
+ SWE_controlling_elections_desc: "Free and fair elections have only become a tool for the uneducated masses, influenced by deceptive forces, to undermine the institutions and the values of our country. In an era of crises and rising conflicts, we can't have the will of the people remain untamed. We need to better control the democratic processes, while restricting anti-Swedish parties and candidates from running." #NT!
+ SWE_compromise_liberals: "Compromise With the Liberals" #NT!
+ SWE_compromise_liberals_desc: "Many liberals were torn between supporting us or supporting the enemy under the recent election. Hopefully they understand that if they want some liberal reforms to go through, they have a better hope in working with us than against us. Compared to the corporatist populists in the New Swedish Movement, us Conservatives seek to protect the rights of capital." #NT!
+ SWE_appeal_to_patriotism: "Appeal to Patriotism" #NT!
+ SWE_appeal_to_patriotism_desc: "The people of Sweden need to know that we are the people that has the biggest heart for this country. While the Social Democrats and the Communists are bending over backward to please their Moscow masters and the New Swedish Movement are following closely behind the Valkists in Berlin, are we Conservatives those who put Sweden First. We are the ones that will Make Sweden Great Again!" #NT!
+ SWE_cement_hammarskjold_regime: "Cement Hammarskjöld's Regime" #NT!
+ SWE_cement_hammarskjold_regime_desc: "The charades of coalition politics are now finally over. With a declaration of martial law underway, Hammarskjöld and his most loyal followers will seize the little power given to Engdahl and his thugs. Now, we can finally look towards healing and restoration for the Swedish nation." #NT!
+ SWE_tackle_foreign_interference: "Tackle Foreign Interference" #NT!
+ SWE_tackle_foreign_interference_desc: "Foreign powers are trying to puppet Sweden. Moscow are rallying up socialists and communists, while valkists and ultra-'nationalists' are lackeys of Berlin. Even liberals, some of them supporting our government, are working to further the interests of Paris or London. It is time to stop this and restore Swedish independence." #NT!
+ SWE_ban_pan_germanic_forces: "Ban Pan-Germanic Forces" #NT!
+ SWE_ban_pan_germanic_forces_desc: "Organizations like the New Swedish Movement and the Valkist Workers' Party claim to fight for Sweden. In reality, they represent a pro-German fifth column in our country. Their goal aren't what's best for Sweden, but to further the Pan-Germanic goals set to life by the many Valkist and Völkish ideologues in Germany. Their lifeline ends now." #NT!
+ SWE_crush_militia_forces: "Crush Militia Forces" #NT!
+ SWE_crush_militia_forces_desc: "In recent years, both the Communists and the New Swedish Movement have begun to use militia forces to bend the will of the Swedish nation. This represent an unacceptable undermining of the Swedish state and it's possibility to uphold law and order. Be it socialist workers' militias or violent far-right thugs, these groups should no longer be able to endanger the Swedish people." #NT!
+ SWE_protestant_values: "Protestant Values" #NT!
+ SWE_protestant_values_desc: "Sweden was born a Protestant nation when Gustav Vasa freed us from the chains of the Kalmar Union. The Protestant values that we have inheirited from Vasa is fundamental to protect the independence of the Swedish nation. In a time of increased individualism and strife, these values are the glue that will counteract these forces and bind the Swedish people stronger together." #NT!
+ SWE_ensure_army_loyalty: "Ensure Army Loyalty" #NT!
+ SWE_ensure_army_loyalty_desc: "It is important that every part of the Swedish army affirm their loyalty to King and Fatherland. While most officers are quite conservative, some have drifted towards oppositional forces like the Social Democrats or the New Swedish Movement. They need to understand that their loyalty to King and Fatherland runs counter to the interests of these forces." #NT!
+ SWE_royalist_virtues: "Royalist Virtues" #NT!
+ SWE_royalist_virtues_desc: "King Gustaf V are God's choosen representative to run the Kingdom of Sweden, and strict loyalty towards the crown is near a requirement to be a proper Swede. However, with the rise of pro-Republican forces, we need to ensure that this loyalty towards King and Fatherland are imprinted upon every Swede. From before they begin to walk, the Swede shall know loyalty towards the King." #NT!
+ SWE_cult_of_general: "Cult of the General" #NT!
+ SWE_cult_of_general_desc: "Carl Gustaf Hammarskjöld are no special man, but he is an ideal for all Swedes. A man that have laid down his life to serve the Swedish people and his King. An ideal we should build a cult around. However, one different from the leader cult we see in Germany. We shouldn't venerate Hammarskjöld as a person, but the example of unrelenting service towards the realm that he has shown." #NT!
+ SWE_hammarskjolds_retirement: "Hammarskjöld's Retirement" #NT!
+ SWE_hammarskjolds_retirement_desc: "Carl Gustaf Hammarskjöld has served Sweden since the end of the 19th century, and was no young man when he began this service as prime minister. Already in his seventies, many of his aides fear that he will die while in office, and what the consequences of that would be. With capable men around him, able to take up the office of prime minister, and the country recovered from its crises, it is time to pass governing on to the next generation." #NT!
+ SWE_caroleanism: "Caroleanism" #NT!
+ SWE_caroleanism_desc: "Our ideology constitute a modern form of Caroleanism. This includes following many of the same values and diciplines that the Caroleans followed. For both the Carolean and for us, our spiritual brotherhood shall be more built on a shared Protestant Christian faith than nationality. As Christians with God on our side, we shouldn't fear death and be not afraid to charge right on our enemy, till we see the white in their eyes." #NT!
+ SWE_paternalist_welfare: "Paternalist Welfare" #NT!
+ SWE_paternalist_welfare_desc: "To preserve the welfare of the Swedish people are one of the most important tasks of a Swedish government. With the hardships that recent crises have brought upon our people, we should share our riches with our poor countrymen. Building institutions that take care of our unemployed, our elderly and our veterans are instrumental in upholding our Swedish Folkhem." #NT!
+  
+ SWE_swedish_cincinnatus: "A Swedish Cincinnatus" #NT!
+ SWE_swedish_cincinnatus_desc: "The tale of Carl Gustaf Hammarskjöld mirrors the tale of Cincinnatus. A statesman and military leader who took on absolute authority to tackle an era of crises. At the end, resigning from this power and return it back to the people. Like with Rome, Sweden's time as a dictatorship is over and we should return to a democratic normalcy." #NT!
+ SWE_second_age_of_liberty: "Second Age of Liberty" #NT!
+ SWE_second_age_of_liberty_desc: "Like the first Carolean age, the second will also end with an Age of Liberty. With Sweden being at a much more stable place today than it was a few years ago, it is time to liberalize the security laws that prime minister Hammarskjöld enacted. This will also show our political opponents that we are true to our democratic ideals and can work with them." #NT!
+ SWE_bring_in_liberals: "Bring In the Liberals" #NT!
+ SWE_bring_in_liberals_desc: "The coalition agreement between us and the New Swedish Movement soured our relationship to the liberal People's Party and the agrarian Farmers' League. They were less willing to work with us when Hammarskjöld enacted martial law. However, with our steps to democratizise there have come new opportunities to work with the liberals." #NT!
+ SWE_codify_huvudavtalet: "Codify Huvudavtalet" #NT!
+ SWE_codify_huvudavtalet_desc: "There have been a lot of conflict between the forces of labour and the forces of capital the last decades. Often, these have resulted in violence and instability that have torn Sweden apart. Both us and moderate Social Democrats see that this can not continue. Therefore, we will work to establish a framework for collective bargaining between the labour unions and the employers." #NT!
+ SWE_christian_unionization: "Christian Unionization" #NT!
+ SWE_christian_unionization_desc: "Many previous unions have been socialist in nature, with revolution and treason to Moscow as goals. This is a major reason why instability have been allowed to grow on the workplace. Even so, the workers still need representation. That is why we will promote certain unions who are built upon a Christian foundation. Unions who seek to bring stability to the workers, without any loyalty to socialist parties." #NT!
+  
+ SWE_swedish_caesar: "A Swedish Caesar" #NT!
+ SWE_swedish_caesar_desc: "The tale of Carl Gustaf Hammarskjöld mirrors the tale of Julius Caesar. A statesman and military leader who took power from institutions that had failed the people. Instead of giving power back to the institutions that constantly brought on crisis, they seek to build a new order. Like with Rome, Sweden need to abandon the destructiveness of democracy and create a new form of government." #NT!
+ SWE_unite_national_right: "Unite the National Right" #NT!
+ SWE_unite_national_right_desc: "While most of our supporters are organized in the General Electoral League, this is primarily a conservative party which still contains elements loyal to democracy. At the same time, there are nationalist organizations who have similar goals to us who could be included in our project. Elmo Lindholm see it therefore as a necessity to form a new organization to unite the National Right." #NT!
+ SWE_destroy_enemies_of_swedishness: "Destroy the Enemies of Swedishness" #NT!
+ SWE_destroy_enemies_of_swedishness_desc: "Socialists, Liberals and other non-Swedish elements still tries to undermine the Swedish nation. If we are to preserve Sweden as a loyal, patriotic kingdom, we need to make sure these forces doesn't become a threat. We can also establish camps to intern them, maybe even have them available as an extra source of labour." #NT!
+ SWE_beyond_class_and_party: "Beyond Class and Party" #NT!
+ SWE_beyond_class_and_party_desc: "The distinctions of class and party have always helped to divide our nation between competing interests. This have weakened Sweden and only helped those who seek to destroy us. We need to dissolve these distinctions, not through divisive revolution, but through a Swedish national solidarity that can destroy differences in class and in politics." #NT!
+ SWE_swedish_catholicism: "A Swedish Catholicism" #NT!
+ SWE_swedish_catholicism_desc: "Catholicism have remained a minor religion in Sweden, and are often viewed negatively by Swedish nationalists as a Papal tool. However, Lindholm does see a lot of good coming from Catholicism. Especially in its focus on social teachings. Lindholm achknowledge that Catholics who seek to overturn the French revolution isn't our enemies, they are compatriots." #NT!
+  
+ SWE_towards_austerity: "Towards Austerity" #NT!
+ SWE_towards_austerity_desc: "In this crisis, we all need to bear the cost of austerity. While populists and socialists wish to spend our way out of our economic hardship, the truth is that hard choices need to be made. Even if this is unpopular, we will come out as a stronger nation." #NT!
+ SWE_close_unprofitable_businesses: "Close Unprofitable Businesses" #NT!
+ SWE_close_unprofitable_businesses_desc: "Businesses that can't manage to create a profit, can't live on. That has become more true than ever before with the recent economic crisis. If we are going to pull through this as a nation, we need to close some of them down. Sacrifices will be needed for the good of the whole Swedish nation." #NT!
+ SWE_cut_social_spending: "Cut Social Spending" #NT!
+ SWE_cut_social_spending_desc: "For many, cutting social spending will be unthinkable. Many Swedes depend on welfare funded by the state and have an uncertain future ahead without this. Even if this is more true now than ever, there is little faith that we will come through without making these hard decisions." #NT!
+ SWE_renounce_foreign_debt: "Renounce Foreign Debt" #NT!
+ SWE_renounce_foreign_debt_desc: "Former and more traitorous governments have enslaved Sweden to foreign powers. This debt are now dragging our nation down. We didn't make these deals and our New Swedish partners propose that we shouldn't respect them either. Instead, we should free us from these foreign trappings and denounce them." #NT!
+ SWE_raise_taxes: "Raise Taxes" #NT!
+ SWE_raise_taxes_desc: "Sweden needs money to have the funding necessary to recover. While this can bring a strain upon the Swedish people, higher taxes need to be implemented if we are going to recover. Tax cuts can wait until after recovery." #NT!
+ SWE_enact_rationing: "Enact Rationing" #NT!
+ SWE_enact_rationing_desc: "The crisis have damaged our ability to import and export goods. This have caused a lack of many products. For a short time, we will need to ration and be willing to not spend so much as we would like to." #NT!
+ SWE_restore_trade_relations: "Restore Trade Relations" #NT!
+ SWE_restore_trade_relations_desc: "Trade links broke down with the economic crisis. However, with both our economy and the economies of other countries slowly stabilizing, we will be able to rebuild these trade links. Already, we can see the forces of the market beginning to restore international trading." #NT!
+ SWE_restrict_union_activities: "Restrict Union Activities" #NT!
+ SWE_restrict_union_activities_desc: "Labour unions have tried to use the economic crisis to trigger revolutionary activities amongst the Swedish workers. Often, they are also working to undermine the effort we make to recover our country from this crisis. This is good reasons to heavily restrict their activities." #NT!
+ SWE_nationalize_key_industries: "Nationalize Key Industries" #NT!
+ SWE_nationalize_key_industries_desc: "There are many important industries in Sweden. Industries too important to remain in the greedy hands of private businessmen. To secure that these industries remain floating and protect them from private mismanagement, we should nationalize them. This way, they will benefit the nation, not just a few at the top." #NT!
+ SWE_support_farmers: "Support the Farmers" #NT!
+ SWE_support_farmers_desc: "The Swedish farmers are a pillar in the security of our society. However, with the recent economic crisis, the loss of export have greatly cut our farmers' ability to earn a profit. Since they are so important in upholding our society, bankruptcy and foreclosures are something we can't allow." #NT!
+ SWE_german_steel_export: "German Steel Export" #NT!
+ SWE_german_steel_export_desc: "Germany have been a key trade partner since the start of the century. Their industry have had good use in the steel that we export to them. While the economic crisis have crippled steel export elsewhere, German demand have continued to grow. This can be an opportunity to faster recover from the crisis." #NT!
+ SWE_arbetsformedlingen: "Arbetsformedlingen" #NT!
+ SWE_arbetsformedlingen_desc: "Unemployment have been a rising issue since the start of the crisis. This does also lead to social instability, since many of these unemployed people hasn't much else to do than causing crimes and other troubles. However, we have proposed an institution that will employ people that will be trained for industrial and infrastructural work. It will make our nation stronger and give these people a sense of purpose." #NT!
+ SWE_restore_nation: "Restore the Nation" #NT!
+ SWE_restore_nation_desc: "Finally, we see the signs of a new tomorrow rising. After many months in recession, the Swedish economy is finally beginning to turn to the better. While there are some time left before the crisis is finally over, we can now leave the worst behind us." #NT!
+  
+ SWE_attack_liberal_capitalists: "Attack Liberal Capitalists" #NT!
+ SWE_attack_liberal_capitalists_desc: "The troubles that Sweden faces today, have in part been brought onto us by liberal capitalists. A class of international-oriented businessmen who favor loyalty to their own riches over loyalty to the nation. Let's rough up some of these to show that we aren't taking likely to liberals and capitalists who have no loyalty to Sweden. They are also a fair enemy to rally the Swedish workers against." #NT!
+ SWE_empower_new_swedish_youth: "Empower the New Swedish Youth" #NT!
+ SWE_empower_new_swedish_youth_desc: "The New Swedish movement have always been dominated by a younger sect of society. Many young intellectuals that have crafted the ideological reasonings behind the movement. These young men are eager to shape our country into a new nation. One beyond the limits of parliamentary democracy. It wouldn't hurt to let them try." #NT!
+ SWE_utilize_far_right_militias: "Utilize Far-Right Militias" #NT!
+ SWE_utilize_far_right_militias_desc: "While the New Swedish movement started in academia, it have strong ties to far-right groups built as military units. Many of these are young men with a background from military service seeking new enemies to attack. The New Swedish movement gives them many enemies - Socialists, Liberals, Jews. All of them, these radical thugs seems to find something wrong with." #NT!
+ SWE_establish_loyal_unions: "Establish Loyal Unions" #NT!
+ SWE_establish_loyal_unions_desc: "Swedish unions under the control of the Socialists will always undermine the Swedish nation. In order for our country to stand strong as one, we can't allow unions tearing us apart. At the same time, the workers should have a way to stand stronger against their bosses. Establishing unions under New Swedish control will solve this problem. This will utilize the power of labour to both further the rights of the worker as well as strengthening the body politic." #NT!
+ SWE_rise_new_sweden: "Rise of a New Sweden" #NT!
+ SWE_rise_new_sweden_desc: "When Carl Gustaf Hammarskjöld entered into a coalition with Per Engdahl and the New Swedish movement, he believed he could control the movement to do his bidding. However, the New Sweden have proven itself not willing to be controlled. Today, we will begin to shed away the degenerate shape that is the Old Sweden, purging it away to allow a New Sweden to rise." #NT!
+ SWE_formalize_new_swedish_youth: "Formalize the New Swedish Youth" #NT!
+ SWE_formalize_new_swedish_youth_desc: "Our regime need to keep the far-right militias under tight control. That is the reason why we need to officially form a New Swedish Youth, a militant group of young teenage boys and men that will serve loyally our regime. Through this force, we will give the youth purpose and make Sweden stronger." #NT!
+ SWE_question_of_monarchy: "Question of the Monarchy" #NT!
+ SWE_question_of_monarchy_desc: "While the King have always been willing to work with us, there is no secret that he would rather prefer the reactionary leadership of Hammarskjöld than ours. Having the King around grants our regime a veneer of legitimacy and stability. However, it also limits our ability to unite power under our leader, Per Engdahl." #NT!
+ SWE_purge_dissidents: "Purge Dissidents" #NT!
+ SWE_purge_dissidents_desc: "There are still many in Sweden that doesn't welcome the rise of the New Sweden. They seek to undermine our rightful rule and bring Socialism to our country. We need to get rid of these people so they doesn't pose a threat to our regime or to Swedishness." #NT!
+ SWE_corporatize_economy: "Corporatize the Economy" #NT!
+ SWE_corporatize_economy_desc: "Both Capitalism and Socialism have failed Sweden. They are economic systems that only seek to divide the nation into classes and peg them against each other. We achknowledge that the Swedish nation is one body where different parts does different things. However, all parts should works for the benefit of each others and the body as a whole. Not to one class." #NT!
+ SWE_new_swedish_families: "New Swedish Families" #NT!
+ SWE_new_swedish_families_desc: "The family is an important part of our ideological project. While the Swedish family have been formed by informal norms of what responsibilities each member has, the New Swedish family are more organized. Fathers that work the fields or in the factory, or fights Sweden's wars. Mothers that bring up children and lead the homelife. Children that are educated into the way of the New Sweden." #NT!
+ SWE_swedish_christianity: "Swedish Christianity" #NT!
+ SWE_swedish_christianity_desc: "Many Swedish christians doesn't believe in the wisdom of Per Engdahl and in the New Swedish project. Despite the fact that Christianity has a few good values that can help to further the New Swedish cause, there are a few reactionary elements that will work in opposition to our regime. Cleaning out these elements and assuring Church loyalty are important to achieve control." #NT!
+ SWE_canonize_engdahl_thought: "Canonize Engdahl Thought" #NT!
+ SWE_canonize_engdahl_thought_desc: "Per Engdahl have authored many manuscripts and texts that tries to map out his ideology - 'nysvenskhet'. From his admiration of Carolus Rex, his opposition to race mixing, to his nationalism and corporatism. All have come to form the ideology of Engdahl. Writing down and unify his ideas in one book will make the ideology of the New Sweden available to all Swedes." #NT!
+ SWE_rise_of_swedish_legionaries: "Rise of the Swedish Legionaries" #NT!
+ SWE_rise_of_swedish_legionaries_desc: "Militant members of our movement seeks to join the armed forces to fight the enemies of the New Sweden. They find inspiration in tales of Roman legionaries, often calling themselves a new generation of Swedish legionaries, along with the commitment of the Carolean soldier. Let them serve their nation with zeal!" #NT!
+ SWE_vagen_framat: "Vägen Framåt" #NT!
+ SWE_vagen_framat_desc: "The Sweden of old have passed and a New Sweden has rissen in its stead. Finally, Swedish society are fully united under the banner of the New Swedish movement and its leader, Per Engdahl. Our opposition have been silenced and we look beyond our borders to fulfill our ambitions." #NT!
+ SWE_new_imperialism: "New Imperialism" #NT!
+ SWE_new_imperialism_desc: "The Swedish Empire is not yet dead. The New Swedish movement seeks to restore the old glories of our empire, spanning across the Nordic countries. We will liberate our brothers from Socialist repression and conquer our place in the sun." #NT!
+ SWE_restore_countryside: "Restore the Countryside" #NT!
+ SWE_restore_countryside_desc: "While the Swedish farmers are on their way to recovery from the economic crisis, we need to strengthen them and restore our countryside. The encrochment of urbanization threaten our self-reliance. A trend that all Swedish patriots should help to reverse." #NT!
+  
+ SWE_for_king_and_new_sweden: "For King and the New Sweden" #NT!
+ SWE_for_king_and_new_sweden_desc: "Keeping the King around was a decision with risks involved. However, King Gustaf have shown himself willing to support the New Swedish movement after witnessing that Hammarskjöld wasn't able to protect Sweden. This opens an opportunity to show our loyalty to the Kingdom forged by Gustav Vasa, Gustavus Adolphus and Carolus Rex." #NT!
+ SWE_engdahl_carolus_rex_reborn: "Engdahl - the True Carolean Heir" #NT!
+ SWE_engdahl_carolus_rex_reborn_desc: "While many conservatives opposed the abandonment of the monarchy, it helped us to unify power behind Per Engdahl. Swedish history have also shown that leadership doesn't necessarily befit those born into royalty. Gustav Vasa were only a lord, but rose to become king. The zeal that Engdahl displays proves that he is a truer heir to the legacy of past Kings than the old king." #NT!
+ SWE_radicalize_svekoman_movement: "Radicalize the Svecoman Movement" #NT!
+ SWE_radicalize_svekoman_movement_desc: "The Swedes that lives in Finland are our brothers. During their fight to break free from the Russians, the Finno-Swedes built their own movement to achieve independence. With the reconquest of Finland, we can finally radicalize and integrate the Svecoman movement. This will form the elite people that will lord over the lands of Finland." #NT!
+ SWE_integrate_tst_training: "Integrate TST Training" #NT!
+ SWE_integrate_tst_training_desc: "Our militant members have always forged themselves based on the German Trutzbündische Stoßtruppe. Because of this fact, it makes sense for us to observe their tactics against both foreign and domestic enemies, using these tactics for ourselves in our wars." #NT!
+ SWE_new_form_of_governance: "A New Form of Governance" #NT!
+ SWE_new_form_of_governance_desc: "The government of the New Sweden seeks to unite all classes and factions of the Swedish nation into one community of the people. 'Nysvenskhet' will be a foundation for our government and our laws. This will ensure that our New Sweden will endure even after Engdahl is gone." #NT!
+  
+ ## Left-Wing ## 
+  
+ SWE_rise_of_social_democracy: "Rise of Social Democracy" #NT!
+ SWE_rise_of_social_democracy_desc: "In the recent election, Sweden was close to tread down the path of authoritarianism and ultranationalism. Luckily, we managed to rally enough people to oppose this grim future. For the first time in Swedish history, the Social Democrats have entered the government offices. Now, the hard work begins." #NT!
+ SWE_interventionist_recovery: "Interventionist Recovery" #NT!
+ SWE_interventionist_recovery_desc: "The previous government have been too light-handed when faced with economic crisis. We can not expect that the troubles that our citizens are living through will be fixed with austerity and market forces. We need to intervene to secure the standard of living of our people." #NT!
+ SWE_nationalize_big_industries: "Nationalize Big Industries" #NT!
+ SWE_nationalize_big_industries_desc: "" #NT!
+ SWE_tax_hikes: "Tax Hikes" #NT!
+ SWE_tax_hikes_desc: "" #NT!
+ SWE_army_funding_cuts: "Army Funding Cuts" #NT!
+ SWE_army_funding_cuts_desc: "" #NT!
+ SWE_public_works: "Public Works" #NT!
+ SWE_public_works_desc: "" #NT!
+ SWE_establish_labour_administration: "Establish Labour Administration" #NT!
+ SWE_establish_labour_administration_desc: "" #NT!
+ SWE_rescue_farmers: "Rescue the Farmers" #NT!
+ SWE_rescue_farmers_desc: "" #NT!
+ SWE_establish_import_tariffs: "Establish Import Tariffs" #NT!
+ SWE_establish_import_tariffs_desc: "" #NT!
+ SWE_foundation_of_folkhemmet: "Foundation of Folkhemmet" #NT!
+ SWE_foundation_of_folkhemmet_desc: "" #NT!
+ SWE_work_with_liberals: "Work With the Liberals" #NT!
+ SWE_work_with_liberals_desc: "" #NT!
+ SWE_enshrine_individual_freedoms: "Enshrine Individual Freedoms" #NT!
+ SWE_enshrine_individual_freedoms_desc: "" #NT!
+ SWE_ensure_socialist_support: "Ensure Socialist Support" #NT!
+ SWE_ensure_socialist_support_desc: "" #NT!
+ SWE_support_unemployed: "Support the Unemployed" #NT!
+ SWE_support_unemployed_desc: "" #NT!
+ SWE_crack_down_militia_politics: "Crack Down on Militia Politics" #NT!
+ SWE_crack_down_militia_politics_desc: "" #NT!
+ SWE_victory_of_democracy: "Victory of Democracy" #NT!
+ SWE_victory_of_democracy_desc: "" #NT!
+ SWE_encourage_unions: "Encourage Unions" #NT!
+ SWE_encourage_unions_desc: "" #NT!
+ SWE_safeguard_our_democracy: "Safeguard our Democracy" #NT!
+ SWE_safeguard_our_democracy_desc: "" #NT!
+ SWE_break_conservative_hold: "Break the Conservative Hold" #NT!
+ SWE_break_conservative_hold_desc: "" #NT!
+ SWE_reduce_monarchs_power: "Reduce the Monarch's Power" #NT!
+ SWE_reduce_monarchs_power_desc: "" #NT!
+ SWE_secularization: "Secularization" #NT!
+ SWE_secularization_desc: "" #NT!
+ SWE_modern_swedish_woman: "Modern Swedish Woman" #NT!
+ SWE_modern_swedish_woman_desc: "" #NT!
+ SWE_improve_workers_rights: "Improve Workers Rights" #NT!
+ SWE_improve_workers_rights_desc: "" #NT!
+ SWE_support_swedish_family: "Support the Swedish Family" #NT!
+ SWE_support_swedish_family_desc: "" #NT!
+ SWE_neutralize_radicals: "Neutralize the Radicals" #NT!
+ SWE_neutralize_radicals_desc: "" #NT!
+ SWE_folkhemmet: "Народная Швеция"
+ SWE_folkhemmet_desc: "" #NT!
+  
+ SWE_second_term_for_social_democracy: "A Second Term for Social Democracy" #NT!
+ SWE_second_term_for_social_democracy_desc: "" #NT!
+ SWE_pursuing_universal_health_care: "Pursuing Universal Health Care" #NT!
+ SWE_pursuing_universal_health_care_desc: "" #NT!
+ SWE_restrict_religious_schools: "Restrict Religious Schools" #NT!
+ SWE_restrict_religious_schools_desc: "" #NT!
+ SWE_expand_state_industries: "Expand State Industries" #NT!
+ SWE_expand_state_industries_desc: "" #NT!
+  
+ SWE_borgliga_blokket_victorious: "Borgliga Blokket Victorious" #NT!
+ SWE_borgliga_blokket_victorious_desc: "" #NT!
+ SWE_focus_family_welfare: "Focus on Pro-Family Welfare" #NT!
+ SWE_focus_family_welfare_desc: "" #NT!
+ SWE_uphold_values_in_school: "Uphold Values in School" #NT!
+ SWE_uphold_values_in_school_desc: "" #NT!
+ SWE_increase_farmer_subsidies: "Increase Farmer Subsidies" #NT!
+ SWE_increase_farmer_subsidies_desc: "" #NT!
+  
+ ## Socialist ## 
+  
+ SWE_swedish_revolution: "The Swedish Revolution" #NT!
+ SWE_swedish_revolution_desc: "" #NT!
+ SWE_end_reactionary_oppression: "End Reactionary Oppression" #NT!
+ SWE_end_reactionary_oppression_desc: "" #NT!
+ SWE_bend_reformists: "Bend the Reformists" #NT!
+ SWE_bend_reformists_desc: "" #NT!
+ SWE_crush_nationalists: "Crush the Nationalists" #NT!
+ SWE_crush_nationalists_desc: "" #NT!
+ SWE_mend_agrarians: "Mend the Agrarians" #NT!
+ SWE_mend_agrarians_desc: "" #NT!
+ SWE_unite_swedish_proletariat: "Unite the Swedish Proletariat" #NT!
+ SWE_unite_swedish_proletariat_desc: "" #NT!
+ SWE_communist_majority: "Communist Majority" #NT!
+ SWE_communist_majority_desc: "" #NT!
+ SWE_socialist_secret_police: "A Socialist Secret Police" #NT!
+ SWE_socialist_secret_police_desc: "" #NT!
+ SWE_purge_social_valkists: "Purge the Social Valkists" #NT!
+ SWE_purge_social_valkists_desc: "" #NT!
+ SWE_cult_of_revolutionary_leader: "Cult of the Revolutionary Leader" #NT!
+ SWE_cult_of_revolutionary_leader_desc: "" #NT!
+ SWE_swedish_truth: "The Swedish Truth" #NT!
+ SWE_swedish_truth_desc: "" #NT!
+ SWE_establish_swedish_soviets: "Establish Swedish Soviets" #NT!
+ SWE_establish_swedish_soviets_desc: "" #NT!
+ SWE_empower_lowly_farmers: "Empower the Lowly Farmer" #NT!
+ SWE_empower_lowly_farmers_desc: "" #NT!
+ SWE_enforce_socialist_doctrine: "Venerate Lenin's Leadership" #NT!
+ SWE_enforce_socialist_doctrine_desc: "" #NT!
+ SWE_freedom_from_religion: "Freedom From Religion" #NT!
+ SWE_freedom_from_religion_desc: "" #NT!
+ SWE_rise_of_revolutionary_youth: "Rise of the Revolutionary Youth" #NT!
+ SWE_rise_of_revolutionary_youth_desc: "" #NT!
+ SWE_teaching_socialist_children: "Teaching Socialist Children" #NT!
+ SWE_teaching_socialist_children_desc: "" #NT!
+ SWE_million_homes_for_workers: "A Million Homes For the Workers" #NT!
+ SWE_million_homes_for_workers_desc: "" #NT!
+ SWE_socialist_progressivism: "Socialist Progressivism" #NT!
+ SWE_socialist_progressivism_desc: "" #NT!
+ SWE_socialist_majority: "Socialist Majority" #NT!
+ SWE_socialist_majority_desc: "" #NT!
+ SWE_strenghten_unions: "Unions in Control" #NT!
+ SWE_strenghten_unions_desc: "" #NT!
+ SWE_socialistification_of_church: "Socialistification of the Church" #NT!
+ SWE_socialistification_of_church_desc: "" #NT!
+ SWE_decentralized_power: "Decentralized Power" #NT!
+ SWE_decentralized_power_desc: "" #NT!
+ SWE_democracy_of_proletariat: "A Democracy of the Proletariat" #NT!
+ SWE_democracy_of_proletariat_desc: "" #NT!
+ SWE_expand_farmers_aid: "Expand Farmers' Aid" #NT!
+ SWE_expand_farmers_aid_desc: "" #NT!
+ SWE_real_folkhem: "A Real Folkhem" #NT!
+ SWE_real_folkhem_desc: "" #NT!
+ SWE_end_foreign_oppression: "End Foreign Oppression" #NT!
+ SWE_end_foreign_oppression_desc: "" #NT!
+ SWE_soviet_realignment: "Soviet Realignment" #NT!
+ SWE_soviet_realignment_desc: "" #NT!
+ SWE_end_capital_oppression: "End Capital Oppression" #NT!
+ SWE_end_capital_oppression_desc: "" #NT!
+ SWE_disregard_capitalist_loans: "Disregard Capitalist Loans" #NT!
+ SWE_disregard_capitalist_loans_desc: "" #NT!
+ SWE_seize_capitalist_wealth: "Seize Capitalist Wealth" #NT!
+ SWE_seize_capitalist_wealth_desc: "" #NT!
+ SWE_empower_unions: "Empower the Unions" #NT!
+ SWE_empower_unions_desc: "" #NT!
+ SWE_swedish_soviet_steel_trade: "Swedish-Soviet Steel Trade" #NT!
+ SWE_swedish_soviet_steel_trade_desc: "" #NT!
+ SWE_public_work_programs: "Public Work Programs" #NT!
+ SWE_public_work_programs_desc: "" #NT!
+ SWE_socialist_security_net: "A Socialist Security Net" #NT!
+ SWE_socialist_security_net_desc: "" #NT!
+ SWE_open_colectivization: "Start Collectivization" #NT!
+ SWE_open_colectivization_desc: "" #NT!
+ SWE_socialist_recovery: "A Socialist Recovery" #NT!
+ SWE_socialist_recovery_desc: "" #NT!
+ SWE_international_cooperation: "International Cooperation" #NT!
+ SWE_international_cooperation_desc: "" #NT!
+  
+  
+ #### FLAGS #### 
+ SWE_effect_london_crash_flag: "Sweden suffers from the effects of the London Stock Market Crash" #NT!
+  
+ SWE_supports_hammarskjold_flag: "You Support §YHammarskjöld's Coalition§!" #NT!
+ SWE_supports_democrats_flag: "You Support the §YSocial Democrats' Coalition§!" #NT!
+  
+ SWE_hammarskjold_engdahl_coalition_flag: "A Coalition Between the §YConservatives§! and the §YNew Swedish Movement§! Has Been Formed" #NT!
+ SWE_socdem_victory_flag: "A Coalition Led by the §YSocial Democrats§! Has Come to Power" #NT!
+ SWE_socialists_in_control_flag: "A §YSocialist Revolution§! Has Occured" #NT!
+  
+ SWE_cement_hammarskjold_regime_flag: "§YPrime Minister Hammarskjöld§! Have Declared Martial Law" #NT!
+ SWE_rise_new_sweden_flag: "The §YNew Swedish Movement§! Have Seized Power" #NT!
+ SWE_victory_of_democracy_flag: "The §YSocial Democrats§! Have Saved Democracy" #NT!
+  
+ SWE_vanguard_victory_flag: "SKP Vanguard Victory" #NT!
+ SWE_collie_victory_flag: "SKP Victory" #NT!
+ SWE_lib_soc_victory_flag: "Socialist Victory" #NT!
+  
+ SWE_resolve_aland_question_flag: "The §YÅland Question§! Has Been Resolved" #NT!
+  
+ SWE_1940_elections_happened_flag: "The §Y1940 Elections§! Have Occured" #NT!
+  
+ #### DECISIONS #### 
+ SWE_foreign_policy: "Foreign Policy" #NT!
+ SWE_foreign_policy_desc: "Since the end of the Napoleonic Wars, Sweden have been able to maintain a neutral foreign policy. At least on paper. In reality, the governments and people of Sweden have had their preferences, with the pursuing of a pro-German position the last decades.\n\nWith the ever-changing world, we might be needed to abandon our neutrality and seek new or old allies." #NT!
+ SWE_abandon_neutrality: "Abandon Neutrality" #NT!
+ SWE_join_entente: "Joining the Entente" #NT!
+ SWE_join_stahlpakt: "Joining the Stahlpakt" #NT!
+ SWE_join_british_alliance: "Joining the British Alliance" #NT!
+ SWE_join_soviet_international: "Joining the Soviet International" #NT!
+  
+ SWE_far_right_decisions: "Divisions in the Far-Right" #NT!
+ SWE_far_right_decisions_desc: "While Swedish right-wing nationalists are mostly united under the New Sweden Movement, this movement is not all completely united. Encompassing both reactionary conservatives, revolutionary valkists and ultra-monarchists, the movement will need to balance between its more conservative and more radical wings.\n\n§YConservative§! influence is currently [ROOT.GetConservativeInfluence] ([?SWE_nat_conservative_influence_var|Y0])\n§YConservative§! loyalty towards our government is currently [ROOT.GetConservativeLoyalty] ([?SWE_nat_conservative_loyalty_var|Y0]%)\n\n§YRadical§! influence is currently [ROOT.GetRadicalInfluence] ([?SWE_nat_radical_influence_var|Y0])\n§YRadical§! loyalty towards our government is currently [ROOT.GetRadicalLoyalty] ([?SWE_nat_radical_loyalty_var|Y0]%)" #NT!
+ SWE_empower_swedish_church: "Empower the Swedish Church" #NT!
+ SWE_break_up_big_capital: "Break Up Big Capital" #NT!
+  
+ SWE_aland_game: "The Åland Game" #NT!
+ SWE_aland_game_desc: "The islands of Åland has once again become a center of focus, with the incoming referendum set in the area. It will be in our interest to secure that the referendum goes in our favor.\n\n§YFinland§!'s support is currently [ROOT.GetFinlandSupport] ([?FIN_aland_game_var|Y0])\n\n§YSweden§!'s support is currently [ROOT.GetSwedenSupport] ([?SWE_aland_game_var|Y0])" #NT!
+  
+ SWE_pro_sweden_propaganda1: "Spread Pro-Sweden Propaganda" #NT!
+ SWE_sabotage_finnish_propaganda1: "Sabotage the Finnish Campaign" #NT!
+  
+ SWE_aland_referendum_mission: "The [GetYear] Åland Referendum" #NT!
+  
+ SWE_calm: "§YCalm§!" #NT!
+  
+ SWE_1936_election_game: "The Future of Sweden" #NT!
+ SWE_1936_election_game_desc: "The 1936 parliamentary election might become more important than ever. With the rise in popularity of both the §SSocial Democrats§! and the §8New Swedish Movement§!, Swedish politics have begun to divide itself between those who fear that the country are falling to §rBolshevism§! and those who fear that the country are falling to §gDictatorship§!.\n\nIn the first camp, many conservatives and nationalists have rallied behind prime minister §cHammarskjöld§!, believing he is the only one who could save Sweden from Revolution. In the other camp, many liberals and agrarians have begun to view the §SSocial Democrats§! as a better partner if the alternative will lead the country down a more authoritarian path.\n\nThe Support of §YHammarskjöld's Coalition§! is currently [ROOT.GetHammarskjoldSupport] ([?SWE_hammarskjold_election_var|Y0])\n\nThe Support of the §YSocial Democrats' Coalition§! is currently [ROOT.GetSocialDemocratSupport] ([?SWE_socialdemocrat_election_var|Y0])" #NT!
+ SWE_election_countdown_mission: "The Countdown to the Election" #NT!
+ SWE_opposition_campaign_socdem: "Our Opposition's Campaign" #NT!
+ SWE_opposition_campaign_soccon: "Our Opposition's Campaign" #NT!
+  
+ SWE_red_baiting_against_social_democrats: "Red-Baiting Against the Social Democrats" #NT!
+ SWE_secure_church_support: "Secure Church Support" #NT!
+ SWE_utilize_military_for_campaigning: "Utilize the Military For Campaigning" #NT!
+ SWE_campaign_with_engdahl: "Campaign With Engdahl" #NT!
+ SWE_stoke_liberal_worries: "Stoke Liberal Worries" #NT!
+  
+ SWE_rally_with_workers: "Rally With the Workers" #NT!
+ SWE_warn_against_authoritarianism: "Warn Against Rising Authoritarianism" #NT!
+ SWE_campaign_with_liberals: "Campaign With Liberals" #NT!
+ SWE_secure_university_support: "Secure University Support" #NT!
+ SWE_stoke_liberal_worries1: "Stoke Liberal Worries" #NT!
+  
+ SWE_balance_of_power_category: "Coalition Politics" #NT!
+ SWE_reassure_military_loyalty: "Reassure Military Loyalty" #NT!
+ SWE_limit_circulation_of_new_swedish_papers: "Limit the Circulation of Vägen Framåt" #NT!
+ SWE_secretly_work_with_liberals: "Secretly Work With the Liberals" #NT!
+ SWE_warn_against_valkist_revolution: "Fearmonger Against a Valkist Revolution" #NT!
+  
+ SWE_recruit_young_military_officers: "Recruit Military Officers" #NT!
+ SWE_expand_newspaper_circulation: "Expand the Circulation of Vägen Framåt" #NT!
+ SWE_unify_new_swedish_valkist_movement: "Unify the New Swedish Valkist Movement" #NT!
+ SWE_rally_against_liberal_internationalists: "Rally Against Liberal Internationalists" #NT!
+  
+ SWE_new_sweden_coup: "Countdown to a New Swedish Coup" #NT!
+  
+ #### BOP #### 
+  
+ SWE_power_balance: "Hammarskjöld-Engdahl Coalition" #NT!
+  
+ SWE_conservative_side: "Hammarskjöld" #NT!
+ SWE_new_swedish_side: "Engdahl" #NT!
+  
+ SWE_split_range: "A Balanced Diarchy" #NT!
+ SWE_conservative_low_influence_range: "Conservative-Favoured" #NT!
+ SWE_conservative_medium_influence_range: "Conservative Dominance" #NT!
+ SWE_conservative_high_influence_range: "Cult of the General" #NT!
+ SWE_new_swedish_low_influence_range: "New Swedish-Favoured" #NT!
+ SWE_new_swedish_medium_influence_range: "Dominance of the Movement" #NT!
+ SWE_new_swedish_high_influence_range: "Rise of a New Sweden" #NT!
+  
+ #### TOOLTIPS #### 
+ SWE_new_vasa_tt: "Sweden Will Get a New §YFlagship§!" #NT!
+  
+ SWE_no_elections_tooltip: "§OElections will no longer be held.§!\n" #NT!
+  
+ SWE_warning_german_investment_tooltip: "§RWarning! To High Leaning Towards the Germans can Result in a Valkist Coup!§!\n" #NT!
+ SWE_warning_ukrainian_corn_tooltip: "§RWarning! To High Leaning Towards the Soviets can Result in a Socialist Coup!§!\n" #NT!
+  
+ SWE_popular_front_tooltip: "The §YSocialist Party§! and some §YCommunists§! will grant their support to our government." #NT!
+ SWE_cooperate_with_agrarians_tooltip: "The §YFarmers' League§! and some liberals in the §YPeople's Party§! will grant their support to our government." #NT!
+  
+ SWE_borgarliga_blocket_tooltip: "The §YGeneral Electoral League§! will work primarily with the §YPeople's Party§! and the §YFarmers' League§!" #NT!
+ SWE_deal_with_devil_tooltip: "The §YGeneral Electoral League§! will work primarily with the §YNew Swedish Movement§!" #NT!
+ SWE_steps_toward_new_sweden_tooltip: "\nTo continue the government between the conservatives and the nationalists, a balance between conservative and new Sweden policies need to be held" #NT!
+  
+ SWE_supports_hammarskjold_tt: "§2You Will Take the Side of Hammarskjöld Against the Social Democrats Before the Election§!" #NT!
+ SWE_supports_democrats_tt: "§tYou Will Take the Side of the Social Democrats Against Hammarskjöld Before the Election§!" #NT!
+  
+ SWE_bop_hammarskjold_tt: "\n§2The Conservatives§! Grows More Powerful" #NT!
+ SWE_bop_engdahl_tt: "\n§8The New Swedish Movement§! Grows More Powerful" #NT!
+  
+ SWE_caroleanism_tt: "Receive §Y1 [Root.GetAdjective] Veteran§! infantry regiment and §Y1 [Root.GetAdjective] Veteran§! mounted regiment in or near §YStockholm§!" #NT!
+ SWE_rise_of_swedish_legionaries_tt: "Receive §Y3 [Root.GetAdjective] Legionary§! divisions in or near §YStockholm§!" #NT!
+ SWE_safeguard_our_democracy_tt: "Receive §Y3 [Root.GetAdjective] Divisions§! in or near §YStockholm§!" #NT!
+ SWE_rise_of_revolutionary_youth_tt: "Receive §Y3 [Root.GetAdjective] Red Guard§! divisions in or near §YStockholm§!" #NT!
+  
+ SWE_new_sweden_coup_tt: "§RThe New Swedish Movement will work to coup the government. Finishing the economic recovery and collaborating with the Liberals and Socialists can prevent the coup.§!" #NT!
+  
+ SWE_purge_social_valkists_tooltip: "§gSelecting this will cause a weekly loss of§! §YStability§! §gand other bad stuff for a while.§!\n\n" #NT!
+  
+ SWE_harbouring_revolutionaries_tt: "Receive §R1 Norwegian Voluntary§! division in or near §YStockholm§!" #NT!
+  
+ SWE_align_with_paris_tooltip: "§YSweden§! Can Join the §2Continental Entente§! or the §tImperial Protection Alliance§!" #NT!
+ SWE_restore_german_ties_tooltip: "§YSweden§! Can Join the §gStahlpakt§!" #NT!
+ SWE_soviet_realignment_tooltip: "§YSweden§! Can Join the §RThird International§!" #NT!
+  
+ SWE_to_finlands_defence_tt: "([FIN.GetFlag]§YRepublic of Finland§!):\n   Gets event '§YSweden Sends Aid§!',\n   which will add §YAid From Sweden§!, which grants:\n   Weekly Manpower: §G+1000§!\n   Daily Army Experience Gain: §G+0.15§!\n   Division Recovery Rate: §G+5.0%§!" #NT!
+  
+ SWE_swedish_cincinnatus_tt: "§2Democracy§! Will Return to Sweden!\n§YThis Focus Will Enable New Focuses§!" #NT!
+ SWE_swedish_caesar_tt: "§gAutocracy§! Has Consumed Sweden!\n§YThis Focus Will Enable New Focuses§!" #NT!
+ SWE_vagen_framat_tt: "§8The New Swedish Movement§! Has Come to Be!\n§YThis Focus Will Enable New Focuses§!" #NT!
+  
+ SWE_new_form_of_governance_tt: "This Focus Will be Stronger if §YIntegrate TST Training§! or §YRadicalize the Svecoman Movement§! Has Been Completed" #NT!
+  
+ SWE_second_term_for_social_democracy_tooltip: "\n§gThe following focuses will strengthen your bonuses, but also cause a rise of§! §2Social Conservative§! §gor§! §YMarket Liberal§! §gpopularity.§!" #NT!
+ SWE_borgliga_blokket_victorious_tooltip: "\n§gThe following focuses will strengthen your bonuses, but also cause a rise of§! §SSocial Democrat§! §gpopularity.§!" #NT!
+  
+ #### FACTION #### 
+ swede_finn_coalition: "Swede-Finn Coalition" #NT!
+  
+ #### OPINIONS #### 
+ SWE_german_steel_trade: "The Upholding of the Swedish-German Steel Trade" #NT!
+ SWE_german_appeacement: "German Appeasement" #NT!
+ SWE_german_investment_in_sweden: "German Investment in Sweden" #NT!
+ SWE_soviet_trade: "Swedish-Soviet Trading" #NT!
+ SWE_soviet_appeacement: "Soviet Appeasement" #NT!
+ SWE_soviet_ukrainian_corn: "Ukrainian Corn Import to Sweden" #NT!
+ SWE_FIN_strong_ties: "Strengthen Ties Between Sweden and Finland" #NT!
+ SWE_pan_scandinavian_socialism_opinion: "Sweden Push for Pan-Scandinavian Socialism" #NT!
+ SWE_disregarding_loans_opinion: "Disregarding 'Capitalist' Loans" #NT!
+ SWE_SOV_trade_agreements: "Swedish-Soviet Trade Agreements" #NT!
+ SWE_monarchal_bonds: "Monarchical Bonds" #NT!
+ SWE_soviet_realignment_opinion: "Soviet Realignment" #NT!
+  
+ Nordic_cooperation: "Established Nordic Cooperation" #NT!
+  
+ #### OTHER STUFFS #### 
+ FR_Sweden_Socialist: "Swedish Far-Left Focus Tree" #NT!
+  
+ SWE_FUHRERREICH_DESC: "The Kingdom of Sweden was once one of Europe's greatest power. Today, they are only a regional power in Scandinavia. Following the path of neutrality, even when Europe burned in the Great War. \n\nAfter the war, Swedish politics where marked by strife between the right and the left, and a growth in the far-right New Sweden Movement. With the Valkists taking power in Germany, Sweden have seen an ever suffering economy. This have resulted in the unpopular Hammarskjöld cabinet, trying desperatly to regain stability. It is yet to see where Sweden will go." #NT!
+ POLITICS_GUSTAF_V_DESC: "§YLeader Description\nBorn:§! §gJune 16th, 1858, in Drottningholm, Stockholm§!\n§YPolitical Career:§! §gKing Gustaf V of Sweden has been the king of Sweden since 1907. He is the eldest son of the late king Oscar II and Sophia of Nassau. Gustaf grew up in the 19th century of the autocratic kingdom of Sweden, but when he ascended the throne, Sweden was already transforming into a parliamentarian democracy. In 1881, Gustaf married Victoria of Baden, a German noble woman and a descendance of a former royal house of Sweden. Despite Sweden's continued neutrality during the Great War, both the King and his wife were sympathetic towards the German Empire. Today, King Gustaf is an old man. He is a king from an another century and it will to see how the future will bring to the Swedish royal house.§!" #NT!
+ SWE_Carl_Gustaf_Hammarskjold_desc: "§YLeader Description\nBorn:§! §gApril 22nd, 1865, in Vimmerby, Kalmar§!\n§YPolitical Career:§! §gCarl Gustaf Hammarskjöld is the definition of a man laying down his life in faithful service to his king and his fatherland. Born into the noble Hammarskjöld line, Carl Gustaf joined military service at 20, advancing to the rank of General and serving almost half a century in the Swedish army. His service hasn't been only in the army. During the 1920s, Hammarskjöld served both in the Parliament and as Defence Minister. Throughout his political career as a conservative, critical towards left-wing social reforms and supportive of a stronger military. Towards the end of his days, Hammarskjöld was suddenly appointed to lead a conservative government tasked to restore law and order. A task he will faithfully fulfill.§!\n\n§RHammarskjöld's health isn't what it once was and he might just have a few years left. If he passes while in office, it will destabilize the government.§!" #NT!
+ SWE_Per_Albin_Hansson_desc: "§YLeader Description\nBorn:§! §gOctober 28th, 1885, in Kulladal, Malmöhus§!\n§YPolitical Career:§! §gPer Albin Hansson is in many ways the opposite to former prime minister Hammarskjöld. Born in a working class family in Malmö, Hansson grew up to become a key member in the growing labour movement. At the turn of the century, Hansson participated in the socialist temperance movement and become a founding member of the Social Democratic Youth. When the Bolshevik revolution divided the Swedish workers, Hansson remained a part of the majority that pushed aside the revolutionaries. Hansson became leader of the Social Democrats following Hjalmar Branting's death in 1925. Instead of continuing the party's marxist tradition, Hansson led the party towards a more moderate path where the ideal of 'Folkhemmet' is venerated. With his rise to power, it seems like this strategy has worked for Per Albin.§!" #NT!
+ SWE_Per_Engdahl_desc: "§YLeader Description\nBorn:§! §gFebruary 25th, 1909, in Jönköping§!\n§YPolitical Career:§! §gPer Engdahl is the rising figure for the nationalist New Swedish movement. Being born in 1909, Engdahl has risen from a leader of the student society A New Sweden to the youngest prime minister in Swedish history in just a few years. What has made this possible, is the rising popularity of Engdahl's ideology 'nysvenskhet' and the growing cult around him. With his young age, it is likely that Engdahl will be an influential politician for many years to come.§!" #NT!
+ SWE_Gosta_Bagge_desc: "§YLeader Description\nBorn:§! §gMay 27th, 1882, in Stockholm§!\n§YPolitical Career:§! §gGösta Bagge represents the rising generation of Swedish conservatives that have appeared in the aftermath of Hammarskjöld's prime ministership. Born in Stockholm, Bagge grew up to become a teacher and professor before entering Swedish politics in 1932. Quickly, Bagge became a rising conservative figure. Eventually joining Hammarskjöld's government in 1935. Now, he himself is leading a government. While a strong social conservative, Bagge is also supportive of democracy and economic liberalism, and an opponent to the authoritarian wings of the conservative movement.§!" #NT!
+ SWE_Elmo_Lindholm_desc: "§YLeader Description\nBorn:§! §gJune 5th, 1897, in Nosaby, Kristianstad§!\n§YPolitical Career:§! §gElmo Lindholm are by many seen as the successor of prime minister Hammarskjöld's authoritarian style of government. Lindholm is, in contrast to general Hammarskjöld, a university-educated ideologue and philosopher. In the previous years, Lindholm have held the position as leader of the National Youth League. From this position, he was able to influence the government and give it an ideological reason for its actions. With Lindholm rising to the position of prime minister, he has the possibility to continue leading Sweden to become a nationalist, corporatist state.§!" #NT!
+ SWE_joined_entente: "Has joined the §HEntente§!" #NT!
+  
+ SWE_Sven_Linderot: "Sven Linderot" #NT!
+ SWE_Nils_Flyg: "Nils Flyg" #NT!
+ SWE_Gustaf_V: "Gustaf V" #NT!
+ SWE_Sven_Olov_Lindholm: "Sven-Olov Lindholm" #NT!
+ SWE_Olof_Thornell: "Olof Thörnell" #NT!
+ SWE_Oscar_Nygren: "Oscar Nygren" #NT!
+ SWE_Archibald_Douglas: "Archibald Douglas" #NT!
+ SWE_Carl_Gustaf_Hammarskjold: "Carl Gustaf Hammarskjöld" #NT!
+ SWE_Helge_Jung: "Helge Jung" #NT!
+ SWE_Erik_af_Edholm: "Erik af Edholm" #NT!
+ SWE_Carl_August_Ehrensvard: "Carl August Ehrensvärd" #NT!
+ SWE_Ernst_Linder: "Ernst Linder" #NT!
+ SWE_Folke_Bernadotte: "Folke Bernadotte" #NT!
+ SWE_Harald_Malmberg: "Harald Malmberg" #NT!
+ SWE_Gilbert_Hamilton: "Gilbert Hamilton" #NT!
+ SWE_Ivar_Holmquist: "Ivar Holmquist" #NT!
+ SWE_Ernst_af_Klercker: "Ernst af Klercker" #NT!
+ SWE_Nils_Bjork: "Nils Björk" #NT!
+ SWE_Henry_Peyron: "Henry Peyron" #NT!
+ SWE_Erik_Anderberg: "Erik Anderberg" #NT!
+ SWE_Fabian_Tamm: "Fabian Tamm" #NT!
+ SWE_Otto_Lybeck: "Otto Lybeck" #NT!
+ SWE_Bertil_of_Sweden: "Bertil of Sweden" #NT!
+ SWE_Charles_de_Champs: "Charles de Champs" #NT!
+ SWE_Claes_Lindsstrom: "Claës Lindsström" #NT!
+ SWE_Gunnar_Bjurner: "Gunnar Bjurner" #NT!
+ SWE_Gosta_Ehrensvard: "Gösta Ehrensvärd" #NT!
+ SWE_Harald_Akermark: "Harald Åkermark" #NT!
+ SWE_Jens_Stefenson: "Jens Stefenson" #NT!
+ SWE_Gustaf_VI_Adolf: "Gustaf VI Adolf" #NT!
+ SWE_Per_Engdahl: "Per Engdahl" #NT!
+ SWE_Per_Albin_Hansson: "Per Albin Hansson" #NT!
+ SWE_Gosta_Bagge: "Gösta Bagge" #NT!
+ SWE_Frans_Severin: "Frans Severin" #NT!
+ SWE_Karl_Kilbom: "Karl Kilbom" #NT!
+ SWE_Karin_Boye: "Karin Boye" #NT!
+ SWE_Tage_Erlander: "Tage Erlander" #NT!
+ SWE_Axel_Pehrsson_Bramstorp: "Axel Pehrsson Bramstorp" #NT!
+ SWE_Bertil_Ohlin: "Bertil Ohlin" #NT!
+ SWE_Fritiof_Domo: "Fritiof Domö" #NT!
+ SWE_Axel_Gyllenkrok: "Axel Gyllenkrok" #NT!
+ SWE_Martin_Ekstrom: "Martin Ekström" #NT!
+ SWE_Hilding_Hagberg: "Hilding Hagberg" #NT!
+ SWE_Albert_Jensen: "Albert Jensen" #NT!
+ SWE_Fredrik_Strom: "Fredrik Ström" #NT!
+ SWE_Erik_Palmstierna: "Erik Palmstierna" #NT!
+ SWE_J_Rickard_Sandler: "J. Rickard Sandler" #NT!
+ SWE_Karl_Gustaf_Westman: "Karl Gustaf Westman" #NT!
+ SWE_Gustaf_Andersson_i_Rasjon: "Gustaf Andersson i Rasjön" #NT!
+ SWE_Christian_Gunther: "Christian Günther" #NT!
+ SWE_Martin_Skoglund: "Martin Skoglund" #NT!
+ SWE_Sven_Hedin: "Sven Hedin" #NT!
+ SWE_Gunnar_Berggren: "Gunnar Berggren" #NT!
+ SWE_Erik_von_Rosen: "Erik von Rosen" #NT!
+ SWE_Gustav_Sjostrom: "Gustav Sjöström" #NT!
+ SWE_Osten_Unden: "Östen Undén" #NT!
+ SWE_Anna_Johansson_Visborg: "Anna Johansson Visborg" #NT!
+ SWE_Per_Edvin_Skold: "Per Edvin Skold" #NT!
+ SWE_Ernst_Wigforss: "Ernst Wigforss" #NT!
+ SWE_Arthur_Heiding: "Arthur Heiding" #NT!
+ SWE_Gustav_Cassel: "Gustav Cassel" #NT!
+ SWE_Ernst_Trygger: "Ernst Trygger" #NT!
+ SWE_Marcus_Wallenberg: "Marcus Wallenberg" #NT!
+ SWE_Arthur_Linden: "Arthur Lindén" #NT!
+ SWE_Elof_Eriksson: "Elof Eriksson" #NT!
+ SWE_Arvid_Olsson: "Arvid Olsson" #NT!
+ SWE_Folke_Fridell: "Folke Fridell" #NT!
+ SWE_Karl_Schlyter: "Karl Schlyter" #NT!
+ SWE_Thorwald_Bergquist: "Thorwald Bergquist" #NT!
+ SWE_Gustav_Andersson_i_Rasjon: "Gustav Andersson i Rasjön" #NT!
+ SWE_Jarl_Hjalmarson: "Jarl Hjalmarson" #NT!
+ SWE_Knut_Ewerlof: "Knut Ewerlöf" #NT!
+ SWE_Carlos_Adlercreutz: "Carlos Adlercreutz" #NT!
+ SWE_Axel_Rappe: "Axel Rappe" #NT!
+ SWE_Per_Sylvan: "Per Sylvan" #NT!
+ SWE_Axel_Bredberg: "Axel Bredberg" #NT!
+ SWE_Helge_Stromback: "Helge Strömbäck" #NT!
+ SWE_Anton_Nilsson: "Anton Nilsson" #NT!
+ SWE_Krister_Reutersward: "Krister Reuterswärd" #NT!
+ SWE_Axel_Ljungdahl: "Axel Ljungdahl" #NT!
+ SWE_Bengt_Nordenskiold: "Bengt Nordenskiöld" #NT!
+ SWE_Torsten_Friis: "Torsten Friis" #NT!
+ SWE_Nils_Wohlin: "Nils Wohlin" #NT!
+ SWE_Elmo_Lindholm: "Elmo Lindholm" #NT!
+  
+  
+  
+ SWE_Yngve_Schoerner: "Yngve Schoerner" #NT!
+ SWE_Bo_Lundberg: "Bo Lundberg" #NT!
+ SWE_Albert_Bjorkeson: "Albert Björkeson" #NT!

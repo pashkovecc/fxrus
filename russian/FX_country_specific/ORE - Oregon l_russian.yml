@@ -1,0 +1,66 @@
+﻿l_russian:
+  
+ ### Country Names 
+ ORE: "Greater Oregon" #NT!
+ ORE_ADJ: "Oregonian" #NT!
+ ORE_DEF: "the Commonwealth of Greater Oregon" #NT!
+  
+ ### Cosmetic 
+ # Used for USA Balkanization 
+ ORE_PSA_vanguardist: "Pacific States of America" #NT!
+ ORE_PSA_vanguardist_ADJ: "American" #NT!
+ ORE_PSA_vanguardist_DEF: "the Pacific States of America" #NT!
+ ORE_PSA_collectivist: "Pacific States of America" #NT!
+ ORE_PSA_collectivist_ADJ: "American" #NT!
+ ORE_PSA_collectivist_DEF: "the Pacific States of America" #NT!
+ ORE_PSA_libertarian_socialist: "Pacific States of America" #NT!
+ ORE_PSA_libertarian_socialist_ADJ: "American" #NT!
+ ORE_PSA_libertarian_socialist_DEF: "the Pacific States of America" #NT!
+ ORE_PSA_social_democrat: "Pacific States of America" #NT!
+ ORE_PSA_social_democrat_ADJ: "American" #NT!
+ ORE_PSA_social_democrat_DEF: "the Pacific States of America" #NT!
+ ORE_PSA_social_liberal: "Pacific States of America" #NT!
+ ORE_PSA_social_liberal_ADJ: "American" #NT!
+ ORE_PSA_social_liberal_DEF: "the Pacific States of America" #NT!
+ ORE_PSA_market_liberal: "Pacific States of America" #NT!
+ ORE_PSA_market_liberal_ADJ: "American" #NT!
+ ORE_PSA_market_liberal_DEF: "the Pacific States of America" #NT!
+ ORE_PSA_social_conservative: "Pacific States of America" #NT!
+ ORE_PSA_social_conservative_ADJ: "American" #NT!
+ ORE_PSA_social_conservative_DEF: "the Pacific States of America" #NT!
+ ORE_PSA_authoritarian_democrat: "Pacific States of America" #NT!
+ ORE_PSA_authoritarian_democrat_ADJ: "American" #NT!
+ ORE_PSA_authoritarian_democrat_DEF: "the Pacific States of America" #NT!
+ ORE_PSA_paternal_autocrat: "Pacific States of America" #NT!
+ ORE_PSA_paternal_autocrat_ADJ: "American" #NT!
+ ORE_PSA_paternal_autocrat_DEF: "the Pacific States of America" #NT!
+ ORE_PSA_national_populist: "Pacific States of America" #NT!
+ ORE_PSA_national_populist_ADJ: "American" #NT!
+ ORE_PSA_national_populist_DEF: "the Pacific States of America" #NT!
+ ORE_PSA_valkist: "Pacific States of America" #NT!
+ ORE_PSA_valkist_ADJ: "American" #NT!
+ ORE_PSA_valkist_DEF: "the Pacific States of America" #NT!
+  
+ ### Parties 
+ ORE_vanguardist_party: "APRCWF" #NT!
+ ORE_vanguardist_party_long: "American Permanent Revolution and Class Warfare Foundation" #NT!
+ ORE_collectivist_party: "CPGO" #NT!
+ ORE_collectivist_party_long: "Communist Party of Greater Oregon" #NT!
+ ORE_libertarian_socialist_party: "Socialists" #NT!
+ ORE_libertarian_socialist_party_long: "Socialist Party" #NT!
+ ORE_social_democrat_party: "Progressive Democrats" #NT!
+ ORE_social_democrat_party_long: "Democratic Party" #NT!
+ ORE_social_liberal_party: "Liberal Republicans" #NT!
+ ORE_social_liberal_party_long: "Republican Party" #NT!
+ ORE_market_liberal_party: "Mainstream Republicans" #NT!
+ ORE_market_liberal_party_long: "Republican Party" #NT!
+ ORE_social_conservative_party: "Mainstream Democrats" #NT!
+ ORE_social_conservative_party_long: "Democratic Party" #NT!
+ ORE_authoritarian_democrat_party: "British Administration" #NT!
+ ORE_authoritarian_democrat_party_long: "British Administration" #NT!
+ ORE_paternal_autocrat_party: "British Administration" #NT!
+ ORE_paternal_autocrat_party_long: "British Administration" #NT!
+ ORE_national_populist_party: "APP" #NT!
+ ORE_national_populist_party_long: "American Purity Party" #NT!
+ ORE_valkist_party: "FLD" #NT!
+ ORE_valkist_party_long: "Foundation for the Lord and Democracy" #NT!

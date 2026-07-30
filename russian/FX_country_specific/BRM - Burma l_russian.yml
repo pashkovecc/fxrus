@@ -1,0 +1,148 @@
+﻿l_russian:
+  
+ ### Country Names 
+ BRM_vanguardist: "Burma" #NT!
+ BRM_vanguardist_ADJ: "Burmese" #NT!
+ BRM_vanguardist_DEF: "the Burmese People's Republic" #NT!
+ BRM_collectivist: "Burma" #NT!
+ BRM_collectivist_ADJ: "Burmese" #NT!
+ BRM_collectivist_DEF: "the Burmese Workers State" #NT!
+ BRM_libertarian_socialist: "Burma" #NT!
+ BRM_libertarian_socialist_ADJ: "Burmese" #NT!
+ BRM_libertarian_socialist_DEF: "the Burmese Democratic People's Republic" #NT!
+ BRM_social_democrat: "Burma" #NT!
+ BRM_social_democrat_ADJ: "Burmese" #NT!
+ BRM_social_democrat_DEF: "the Republic of Burma" #NT!
+ BRM_social_liberal: "Burma" #NT!
+ BRM_social_liberal_ADJ: "Burmese" #NT!
+ BRM_social_liberal_DEF: "the Republic of Burma" #NT!
+ BRM_market_liberal: "Burma" #NT!
+ BRM_market_liberal_ADJ: "Burmese" #NT!
+ BRM_market_liberal_DEF: "the Republic of Burma" #NT!
+ BRM_social_conservative: "Burma" #NT!
+ BRM_social_conservative_ADJ: "Burmese" #NT!
+ BRM_social_conservative_DEF: "the Republic of Burma" #NT!
+ BRM_authoritarian_democrat: "Burma" #NT!
+ BRM_authoritarian_democrat_ADJ: "Burmese" #NT!
+ BRM_authoritarian_democrat_DEF: "the Republic of Burma" #NT!
+ BRM_paternal_autocrat: "Burma" #NT!
+ BRM_paternal_autocrat_ADJ: "Burmese" #NT!
+ BRM_paternal_autocrat_DEF: "the Burmese State" #NT!
+ BRM_national_populist: "Burma" #NT!
+ BRM_national_populist_ADJ: "Burmese" #NT!
+ BRM_national_populist_DEF: "the Burmese Empire" #NT!
+ BRM_valkist: "State of Burma" #NT!
+ BRM_valkist_ADJ: "Burmese" #NT!
+ BRM_valkist_DEF: "the State of Burma" #NT!
+  
+ BRM_viceroyalty_of_burma_vanguardist: "Burma" #NT!
+ BRM_viceroyalty_of_burma_vanguardist_ADJ: "Burmese" #NT!
+ BRM_viceroyalty_of_burma_vanguardist_DEF: "the Burmese Soviet Socialist Republic" #NT!
+ BRM_viceroyalty_of_burma_collectivist: "Burma" #NT!
+ BRM_viceroyalty_of_burma_collectivist_ADJ: "Burmese" #NT!
+ BRM_viceroyalty_of_burma_collectivist_DEF: "the Burmese Democratic Socialist Republic" #NT!
+ BRM_viceroyalty_of_burma_libertarian_socialist: "Burma" #NT!
+ BRM_viceroyalty_of_burma_libertarian_socialist_ADJ: "Burmese" #NT!
+ BRM_viceroyalty_of_burma_libertarian_socialist_DEF: "the Burmese Democratic People's Republic" #NT!
+ BRM_viceroyalty_of_burma_social_democrat: "Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_social_democrat_ADJ: "Burmese" #NT!
+ BRM_viceroyalty_of_burma_social_democrat_DEF: "the Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_social_liberal: "Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_social_liberal_ADJ: "Burmese" #NT!
+ BRM_viceroyalty_of_burma_social_liberal_DEF: "the Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_market_liberal: "Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_market_liberal_ADJ: "Burmese" #NT!
+ BRM_viceroyalty_of_burma_market_liberal_DEF: "the Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_social_conservative: "Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_social_conservative_ADJ: "Burmese" #NT!
+ BRM_viceroyalty_of_burma_social_conservative_DEF: "the Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_authoritarian_democrat: "Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_authoritarian_democrat_ADJ: "Burmese" #NT!
+ BRM_viceroyalty_of_burma_authoritarian_democrat_DEF: "the Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_paternal_autocrat: "Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_paternal_autocrat_ADJ: "Burmese" #NT!
+ BRM_viceroyalty_of_burma_paternal_autocrat_DEF: "the Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_national_populist: "Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_national_populist_ADJ: "Burmese" #NT!
+ BRM_viceroyalty_of_burma_national_populist_DEF: "the Viceroyalty of Burma" #NT!
+ BRM_viceroyalty_of_burma_valkist: "State of Burma" #NT!
+ BRM_viceroyalty_of_burma_valkist_ADJ: "Burmese" #NT!
+ BRM_viceroyalty_of_burma_valkist_DEF: "the State of Burma" #NT!
+  
+ BRM_republic_of_burma_vanguardist: "Burma" #NT!
+ BRM_republic_of_burma_vanguardist_ADJ: "Burmese" #NT!
+ BRM_republic_of_burma_vanguardist_DEF: "the Burmese Soviet Socialist Republic" #NT!
+ BRM_republic_of_burma_collectivist: "Burma" #NT!
+ BRM_republic_of_burma_collectivist_ADJ: "Burmese" #NT!
+ BRM_republic_of_burma_collectivist_DEF: "the Burmese Democratic Socialist Republic" #NT!
+ BRM_republic_of_burma_libertarian_socialist: "Burma" #NT!
+ BRM_republic_of_burma_libertarian_socialist_ADJ: "Burmese" #NT!
+ BRM_republic_of_burma_libertarian_socialist_DEF: "the Burmese Democratic People's Republic" #NT!
+ BRM_republic_of_burma_social_democrat: "Burma" #NT!
+ BRM_republic_of_burma_social_democrat_ADJ: "Burmese" #NT!
+ BRM_republic_of_burma_social_democrat_DEF: "the Republic of Burma" #NT!
+ BRM_republic_of_burma_social_liberal: "Burma" #NT!
+ BRM_republic_of_burma_social_liberal_ADJ: "Burmese" #NT!
+ BRM_republic_of_burma_social_liberal_DEF: "the Republic of Burma" #NT!
+ BRM_republic_of_burma_market_liberal: "Burma" #NT!
+ BRM_republic_of_burma_market_liberal_ADJ: "Burmese" #NT!
+ BRM_republic_of_burma_market_liberal_DEF: "the Republic of Burma" #NT!
+ BRM_republic_of_burma_social_conservative: "Burma" #NT!
+ BRM_republic_of_burma_social_conservative_ADJ: "Burmese" #NT!
+ BRM_republic_of_burma_social_conservative_DEF: "the Republic of Burma" #NT!
+ BRM_republic_of_burma_authoritarian_democrat: "Burma" #NT!
+ BRM_republic_of_burma_authoritarian_democrat_ADJ: "Burmese" #NT!
+ BRM_republic_of_burma_authoritarian_democrat_DEF: "the Republic of Burma" #NT!
+ BRM_republic_of_burma_paternal_autocrat: "Burma" #NT!
+ BRM_republic_of_burma_paternal_autocrat_ADJ: "Burmese" #NT!
+ BRM_republic_of_burma_paternal_autocrat_DEF: "the Burmese State" #NT!
+ BRM_republic_of_burma_national_populist: "Burma" #NT!
+ BRM_republic_of_burma_national_populist_ADJ: "Burmese" #NT!
+ BRM_republic_of_burma_national_populist_DEF: "the Burmese Empire" #NT!
+ BRM_republic_of_burma_valkist: "State of Burma" #NT!
+ BRM_republic_of_burma_valkist_ADJ: "Burmese" #NT!
+ BRM_republic_of_burma_valkist_DEF: "the State of Burma" #NT!
+  
+ ##BRM## 
+ BRM_Than_Tun_hog_van: "Thakin Than Tun" #NT!
+ BRM_Thakin_Lwin_hog_col: "Thakin Lwin" #NT!
+ BRM_U_Nu_hog_libsoc: "U Nu" #NT!
+ BRM_U_Razak_hog_marlib: "U Razak" #NT!
+ BRM_U_Razak_hog_socdem: "U Razak" #NT!
+ BRM_Sao_Shwe_Thaik_hog_soclib: "Sao Shwe Thaik" #NT!
+ BRM_Soe_Thein_hog_soccon: "Soe Thein" #NT!
+ BRM_Prince_George_Taw_Phya_Gyi_hog_authdem: "HRH George Taw Phya Gyi, Prince of Konbaung" #NT!
+ BRM_U_Chit_Hlaing_hog_authdem: "U Chit Hlaing" #NT!
+ BRM_Prince_Maung_Maung_Gyi_hog_pataut: "HRH Maung Maung Gyi, Prince of Konbaung" #NT!
+ BRM_Ba_Maw_hog_natpop: "Ba Maw" #NT!
+ BRM_Sao_San_Htun_hog_valkist: "Sao San Htun" #NT!
+  
+ ### Parties 
+ BRM_vanguardist_party: "Communist Party of Burma (Red Flag Faction)" #NT!
+ BRM_vanguardist_party_long: "Communist Party of Burma (Red Flag Faction)" #NT!
+ BRM_collectivist_party: "Communist Party of Burma (White Flag Faction)" #NT!
+ BRM_collectivist_party_long: "Communist Party of Burma (White Flag Faction)" #NT!
+ BRM_libertarian_socialist_party: "Burma Socialist Party" #NT!
+ BRM_libertarian_socialist_party_long: "Burma Socialist Party" #NT!
+ BRM_social_liberal_party: "National United Front" #NT!
+ BRM_social_liberal_party_long: "National United Front" #NT!
+ BRM_social_democrat_party: "Independent" #NT!
+ BRM_social_democrat_party_long: "Independent Party" #NT!
+ BRM_market_liberal_party: "Justice" #NT!
+ BRM_market_liberal_party_long: "Justice Party" #NT!
+ BRM_social_conservative_party: "GCBA" #NT!
+ BRM_social_conservative_party_long: "General Council of Burmese Association" #NT!
+ BRM_authoritarian_democrat_party: "ABLF" #NT!
+ BRM_authoritarian_democrat_party_long: "All-Burmese Liberation Front" #NT!
+ BRM_paternal_autocrat_party: "ABLF (R)" #NT!
+ BRM_paternal_autocrat_party_long: "All-Burmese Liberation Front (Royalist)" #NT!
+ BRM_national_populist_party: "BNTP (NF)" #NT!
+ BRM_national_populist_party_long: "Burmese Nationalist-Traditionalist Party (Nationalist Faction)" #NT!
+ BRM_valkist_party: "BNTP (TF)" #NT!
+ BRM_valkist_party_long: "Burmese Nationalist-Traditionalist Party (Traditionalist Faction)" #NT!
+  
+ BRM_Ba_Cho: "Ba Cho" #NT!
+ BRM_Royal_Legislative_Council: "Royal Legislative Council" #NT!
+ BRM_U_Razak: "U Razak" #NT!
+ BRM_Ba_Maw: "Ba Maw" #NT!
+ BRM_Ne_Win: "Ne Win" #NT!

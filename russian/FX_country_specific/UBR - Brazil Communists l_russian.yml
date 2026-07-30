@@ -1,0 +1,63 @@
+﻿l_russian:
+  
+ ### Country Names 
+ UBR_vanguardist: "Union of Brazil" #NT!
+ UBR_vanguardist_ADJ: "Unionista" #NT!
+ UBR_vanguardist_DEF: "The Union of Brazil" #NT!
+ UBR_collectivist: "Union of Brazil" #NT!
+ UBR_collectivist_ADJ: "Unionista" #NT!
+ UBR_collectivist_DEF: "The Union of Brazil" #NT!
+ UBR_libertarian_socialist: "Union of Brazil" #NT!
+ UBR_libertarian_socialist_ADJ: "Unionista" #NT!
+ UBR_libertarian_socialist_DEF: "The Union of Brazil" #NT!
+ UBR_social_democrat: "Union of Brazil" #NT!
+ UBR_social_democrat_ADJ: "Unionista" #NT!
+ UBR_social_democrat_DEF: "The Union of Brazil" #NT!
+ UBR_social_liberal: "Union of Brazil" #NT!
+ UBR_social_liberal_ADJ: "Unionista" #NT!
+ UBR_social_liberal_DEF: "The Union of Brazil" #NT!
+ UBR_market_liberal: "Union of Brazil" #NT!
+ UBR_market_liberal_ADJ: "Unionista" #NT!
+ UBR_market_liberal_DEF: "The Union of Brazil" #NT!
+ UBR_social_conservative: "Union of Brazil" #NT!
+ UBR_social_conservative_ADJ: "Unionista" #NT!
+ UBR_social_conservative_DEF: "The Union of Brazil" #NT!
+ UBR_authoritarian_democrat: "Union of Brazil" #NT!
+ UBR_authoritarian_democrat_ADJ: "Unionista" #NT!
+ UBR_authoritarian_democrat_DEF: "The Union of Brazil" #NT!
+ UBR_paternal_autocrat: "Union of Brazil" #NT!
+ UBR_paternal_autocrat_ADJ: "Unionista" #NT!
+ UBR_paternal_autocrat_DEF: "Union of Brazil" #NT!
+ UBR_national_populist: "Union of Brazil" #NT!
+ UBR_national_populist_ADJ: "Unionista" #NT!
+ UBR_national_populist_DEF: "Union of Brazil" #NT!
+ UBR_valkist: "Union of Brazil" #NT!
+ UBR_valkist_ADJ: "Unionista" #NT!
+ UBR_valkist_DEF: "Union of Brazil" #NT!
+  
+ ### Parties 
+ UBR_vanguardist_party: "PCB" #NT!
+ UBR_vanguardist_party_long: "Partido Comunista Brasileiro\n§gCommunist Party of Brazil§!" #NT!
+ UBR_collectivist_party: "PCB" #NT!
+ UBR_collectivist_party_long: "Partido Comunista Brasileiro\n§gCommunist Party of Brazil§!" #NT!
+ UBR_libertarian_socialist_party: "COB" #NT!
+ UBR_libertarian_socialist_party_long: "Confederação Operária Brasileira\n§gBrazilian Workers' Confederation§!" #NT!
+ UBR_social_democrat_party: "PSD" #NT!
+ UBR_social_democrat_party_long: "Partido Social Democrata\n§gSocial Democratic Party§!" #NT!
+ UBR_social_liberal_party: "PL" #NT!
+ UBR_social_liberal_party_long: "Partido Libertador\n§gLiberator Party§!" #NT!
+ UBR_market_liberal_party: "PD" #NT!
+ UBR_market_liberal_party_long: "Partido Democrático\n§gDemocratic Party§!" #NT!
+ UBR_social_conservative_party: "PR" #NT!
+ UBR_social_conservative_party_long: "Partido Republicano\n§gRepublican Party§!" #NT!
+ UBR_authoritarian_democrat_party: "Junta Militar" #NT!
+ UBR_authoritarian_democrat_party_long: "Junta Militar do Governo\n§gMilitary Government§!" #NT!
+ UBR_paternal_autocrat_party: "LEC" #NT!
+ UBR_paternal_autocrat_party_long: "Liga Eleitoral Catolica\n§gCatholic Electoral League§!" #NT!
+ UBR_national_populist_party: "AVA" #NT!
+ UBR_national_populist_party_long: "Ação Verde-Amarela\n§gGreen-Yellow Action§!" #NT!
+ UBR_valkist_party: "UVB" #NT!
+ UBR_valkist_party_long: "União Valquista Brasileira\n§gBrazilian Valkist Union§!" #NT!
+  
+ UBR_Luis_Carlos_Prestes: "Luís Carlos Prestes" #NT!
+ UBR_Isidoro_Dias_Lopez: "Isidoro Dias Lopez" #NT!

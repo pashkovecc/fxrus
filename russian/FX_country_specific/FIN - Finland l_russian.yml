@@ -1,0 +1,1013 @@
+﻿l_russian:
+  
+ ### Country Names 
+ FIN_vanguardist: "Finland" #NT!
+ FIN_vanguardist_ADJ: "Finnish" #NT!
+ FIN_vanguardist_DEF: "the Finnish Soviet Republic" #NT!
+ FIN_collectivist: "Finland" #NT!
+ FIN_collectivist_ADJ: "Finnish" #NT!
+ FIN_collectivist_DEF: "the Finnish Soviet Republic" #NT!
+ FIN_libertarian_socialist: "Finland" #NT!
+ FIN_libertarian_socialist_ADJ: "Socialist" #NT!
+ FIN_libertarian_socialist_DEF: "the Socialist Republic of Finland" #NT!
+ FIN_social_democrat: "Finland" #NT!
+ FIN_social_democrat_ADJ: "Finnish" #NT!
+ FIN_social_democrat_DEF: "the Republic of Finland" #NT!
+ FIN_social_liberal: "Finland" #NT!
+ FIN_social_liberal_ADJ: "Finnish" #NT!
+ FIN_social_liberal_DEF: "the Republic of Finland" #NT!
+ FIN_market_liberal: "Finland" #NT!
+ FIN_market_liberal_ADJ: "Finnish" #NT!
+ FIN_market_liberal_DEF: "the Republic of Finland" #NT!
+ FIN_social_conservative: "Finland" #NT!
+ FIN_social_conservative_ADJ: "Finnish" #NT!
+ FIN_social_conservative_DEF: "the Republic of Finland" #NT!
+ FIN_authoritarian_democrat: "Finland" #NT!
+ FIN_authoritarian_democrat_ADJ: "Finnish" #NT!
+ FIN_authoritarian_democrat_DEF: "the National Republic of Finland" #NT!
+ FIN_paternal_autocrat: "Finland" #NT!
+ FIN_paternal_autocrat_ADJ: "Finnish" #NT!
+ FIN_paternal_autocrat_DEF: "the Patriotic People's Republic of Finland" #NT!
+ FIN_national_populist: "Finland" #NT!
+ FIN_national_populist_ADJ: "Finnish" #NT!
+ FIN_national_populist_DEF: "the Republic of Finland" #NT!
+ FIN_valkist: "Finland" #NT!
+ FIN_valkist_ADJ: "Finnish" #NT!
+ FIN_valkist_DEF: "the Finnish State" #NT!
+  
+ FIN_socialist_vanguardist: "Finland" #NT!
+ FIN_socialist_vanguardist_ADJ: "Finnish" #NT!
+ FIN_socialist_vanguardist_DEF: "the Finnish Socialist Worker's Republic" #NT!
+ FIN_socialist_collectivist: "Finland" #NT!
+ FIN_socialist_collectivist_ADJ: "Finnish" #NT!
+ FIN_socialist_collectivist_DEF: "the Finnish Socialist Worker's Republic" #NT!
+ FIN_socialist_libertarian_socialist: "Finland" #NT!
+ FIN_socialist_libertarian_socialist_ADJ: "Finnish" #NT!
+ FIN_socialist_libertarian_socialist_DEF: "the Finnish Socialist Worker's Republic" #NT!
+ FIN_socialist_social_democrat: "Finland" #NT!
+ FIN_socialist_social_democrat_ADJ: "Finnish" #NT!
+ FIN_socialist_social_democrat_DEF: "the Finnish Socialist Worker's Republic" #NT!
+  
+ ### Political Parties ### 
+ FIN_vanguardist_party: "Punakaarti" #NT!
+ FIN_vanguardist_party_long: "Punakaarti\n§gRed Guards§!" #NT!
+ FIN_skp_vanguard_party: "SKP - Punakaarti" #NT!
+ FIN_skp_vanguard_party_long: "Suomen Kommunistinen Puolue- Punakaarti\n§gCommunist Party of Finland - Red Guards§!" #NT!
+ FIN_collectivist_party: "SKP" #NT!
+ FIN_collectivist_party_long: "Suomen Kommunistinen Puolue\n§gCommunist Party of Finland§!" #NT!
+ FIN_skp_collie_party: "SKP - Ortodoksinen" #NT!
+ FIN_skp_collie_party_long: "Suomen Kommunistinen Puolue- Ortodoksinen\n§gCommunist Party of Finland - Orthodox§!" #NT!
+ FIN_libertarian_socialist_party: "SDP - Sosialistinen" #NT!
+ FIN_libertarian_socialist_party_long: "Suomen Sosialidemokraattinen Puolue\n§gSocial Democratic Party of Finland - Socialist§!" #NT!
+ FIN_skp_libsoc_party: "SKP - Sosialistinen" #NT!
+ FIN_skp_libsoc_party_long: "Suomen Kommunistinen Puolue - Sosialistinen\n§gSocial Democratic Party of Finland - Socialist§!" #NT!
+ FIN_social_democrat_party: "SDP - Patriootti" #NT!
+ FIN_social_democrat_party_long: "Suomen Sosialidemokraattinen Puolue - Patriootti\n§gSocial Democratic Party of Finland - Patriotic§!" #NT!
+ FIN_social_liberal_party: "Maalaisliitto" #NT!
+ FIN_social_liberal_party_long: "Maalaisliitto\n§gAgrarian League§!" #NT!
+ FIN_market_liberal_party: "KE" #NT!
+ FIN_market_liberal_party_long: "Kansallinen Edistyspuolue\n§gNational Progressive Party§!" #NT!
+ FIN_social_conservative_party: "KOK" #NT!
+ FIN_social_conservative_party_long: "Kansallinen Kokoomus\n§gNational Coalition Party§!" #NT!
+ FIN_authoritarian_democrat_party: "Mannerheimin" #NT!
+ FIN_authoritarian_democrat_party_long: "Mannerheimin Hallitus\n§gMannerheim's Administration§!" #NT!
+ FIN_strong_president_party: "Presidentin Klikki" #NT!
+ FIN_strong_president_party_long: "Presidentin Klikki\n§gPresidential Clique§!" #NT!
+ FIN_paternal_autocrat_party: "Lapua" #NT!
+ FIN_paternal_autocrat_party_long: "Lapuan Liike\n§gLapua Movement§!" #NT!
+ FIN_national_populist_party: "Lapua" #NT!
+ FIN_national_populist_party_long: "Lapuan Liike\n§gLapua Movement§!" #NT!
+ FIN_valkist_party: "SUKL" #NT!
+ FIN_valkist_party_long: "Suomalais-Ugrilaistnen Kansallis Liike\n§gFinno-Ugric National Movement§!" #NT!
+  
+ ### Description ### 
+ FIN_FUHRERREICH_DESC: "After the Great War, Finland saw itself emerge as an independent nation. After hundreds of years under Swedish and Russian rule, the Finnish people would see themselves free. Following this, however, the nation would be thrown into a civil war between the anti-socialist Whites and the socialist Reds. A civil war that ended in White victory, it have made its mark on the politics and society of Finland. Even then, Finland is a nation experiencing immense prosperity, almost a golden age in the history of Finland.\nSurely this prosperity will last." #NT!
+ FX_Finland: "Finnish National Focus Tree" #NT!
+ ### National Spirits ### 
+ FIN_finland_marches_on_idea: "Finland Marches On!" #NT!
+ FIN_finland_marches_on_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation has no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour." #NT!
+ FIN_agrarian_society_idea: "Agrarian Society" #NT!
+ FIN_agrarian_society_idea_desc: "Over 70% of the country is in the Agrarian sector of the economy, and the country as a whole is poorly industrialized. This seriously hinders our output and lagging behind on the world stage." #NT!
+ FIN_legacy_civil_war_idea: "Legacy of the Civil War" #NT!
+ FIN_legacy_civil_war_idea_desc: "Nearly 20 years have passed since the civil war struck Finland, and its effects are still being seen today. This might be mostly clear in the politics of the Republic, with the growing Lapua Movement, and the anxious feelings right-wingers have around the Social Democrats." #NT!
+ FIN_silver_decade_idea: "Hopea Vuosikymmen" #NT!
+ FIN_silver_decade_idea_desc: "The Silver Decade, is the name popularly given to the 1930s in Finland. Despite the legacy left behind by the civil war, the slow industrialization and the threat posed by the Soviet Union, this era has been a stable and prosperous one in the history of the independent Finland." #NT!
+  
+ FIN_silver_decade1_idea: "Hopea Vuosikymmen" #NT!
+ FIN_silver_decade1_idea_desc: "The Silver Decade, is the name popularly given to the 1930s in Finland. Despite the legacy left behind by the civil war, the slow industrialization and the threat posed by the Soviet Union, this era have been a stable and prosperous one in the history of the independent Finland." #NT!
+  
+ FIN_conquer_finnish_interior_idea: "Agrarian Society" #NT!
+ FIN_conquer_finnish_interior_idea_desc: "Over 70% of the country is in the Agrarian sector of the economy, and the country as a whole is poorly industrialized. This seriously hinders our output and lagging behind on the world stage." #NT!
+ FIN_northern_roads_idea: "Agrarian Society" #NT!
+ FIN_northern_roads_idea_desc: "Over 70% of the country is in the Agrarian sector of the economy, and the country as a whole is poorly industrialized. This seriously hinders our output and lagging behind on the world stage." #NT!
+ FIN_timber_and_paper_idea: "Industrializing Society" #NT!
+  
+ FIN_london_crash_idea: "The London Crash in Finland" #NT!
+ FIN_economic_intervention_idea: "The London Crash in Finland" #NT!
+ FIN_labour_administration_idea: "The London Crash in Finland" #NT!
+ FIN_labour_market_relations_idea: "The London Crash in Finland" #NT!
+ FIN_stable_recovery_idea: "Recovering Economy" #NT!
+ FIN_austerity_idea: "The London Crash in Finland" #NT!
+ FIN_higher_taxes_idea: "The London Crash in Finland" #NT!
+ FIN_encourage_new_buisnesses_idea: "The London Crash in Finland" #NT!
+ FIN_end_austerity_idea: "Recovering Economy" #NT!
+  
+ FIN_prioritize_coastal_defence_idea: "Coastal Defense Prioritized" #NT!
+  
+ FIN_reform_jager_training_idea: "Jäger Training Reformed" #NT!
+ FIN_red_army_training_idea: "Red Army Training" #NT!
+  
+ FIN_civil_guards_prominence_idea: "Finland Marches On!" #NT!
+ FIN_civil_guards_prominence_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour too." #NT!
+ FIN_lotta_svard_white_idea: "Finland Marches On!" #NT!
+ FIN_lotta_svard_white_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour too." #NT!
+ FIN_sisu_white_idea: "Finland Marches On!" #NT!
+ FIN_sisu_white_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour too." #NT!
+ FIN_white_army_finished_idea: "Finland Marches On!" #NT!
+ FIN_white_army_finished_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour too." #NT!
+  
+ FIN_separate_army_and_politics_idea: "Finland Marches On!" #NT!
+ FIN_separate_army_and_politics_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour too." #NT!
+ FIN_lotta_svard_neutral_idea: "Finland Marches On!" #NT!
+ FIN_lotta_svard_neutral_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour too." #NT!
+ FIN_sisu_neutral_idea: "Finland Marches On!" #NT!
+ FIN_sisu_neutral_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour too." #NT!
+ FIN_neutral_army_finished_idea: "Finland Marches On!" #NT!
+ FIN_neutral_army_finished_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour too." #NT!
+  
+ FIN_red_guard_takes_lead_idea: "Finland Marches On!" #NT!
+ FIN_red_guard_takes_lead_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour too." #NT!
+ FIN_lotta_svard_red_idea: "Finland Marches On!" #NT!
+ FIN_lotta_svard_red_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour too." #NT!
+ FIN_sisu_red_idea: "Finland Marches On!" #NT!
+ FIN_sisu_red_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbor too." #NT!
+ FIN_red_army_finished_idea: "Finland Marches On!" #NT!
+ FIN_red_army_finished_idea_desc: "After much struggle, Finnish independence from the Russians and Swedish has been mostly assured. Our nation have no intents to again come under the boot of the Russians, but we might also be on guard regarding the influence and intentions of our western neighbour too." #NT!
+  
+ FIN_female_pilots_idea: "Female Pilots" #NT!
+  
+ FIN_leviate_indebted_farmers_idea: "Indebted Farmers Alleviated" #NT!
+ FIN_regulate_trade_idea: "Regulated Trade" #NT!
+ FIN_cut_spendings_idea: "Spending Cuts" #NT!
+  
+ FIN_rural_support_idea: "Rural Support" #NT!
+ FIN_rural_support_idea1: "Rural Support" #NT!
+ FIN_allow_foreclousures_idea: "Foreclousures" #NT!
+ FIN_allow_foreclousures_idea1: "Foreclousures" #NT!
+ FIN_tariffs_corn_imports_idea: "Corn Import Tariffs" #NT!
+  
+ FIN_finnish_exports_idea: "Finnish Exports" #NT!
+ FIN_towards_a_new_silver_decade_idea: "The New Hopea Vuosikymmen" #NT!
+  
+ FIN_support_workers_idea: "Worker Support" #NT!
+ FIN_support_farmers_idea: "Farmers Support" #NT!
+ FIN_support_workers_farmers_idea: "Workers & Farmers Support" #NT!
+ FIN_finnish_welfare_state_idea: "Finnish Welfare State" #NT!
+  
+ FIN_reimplement_agrarian_subsidies_idea: "Agrarian Subsidies" #NT!
+ FIN_conservative_welfare_idea: "Conservative Welfare State" #NT!
+ FIN_support_lutheranism_idea: "Lutheranism Supported" #NT!
+  
+ FIN_appeace_workers_idea: "Deal For the Workers" #NT!
+ FIN_appeace_farmers_idea: "Deal For the Farmers" #NT!
+ FIN_appeace_workers_farmers_idea: "Deal For Finland" #NT!
+  
+ FIN_strengthen_finnish_red_cross_idea: "Finnish Red Cross" #NT!
+ FIN_commit_to_defence_finland_idea: "Defense of Finland" #NT!
+  
+ FIN_strengthen_sinimustat_idea: "Sinimustat" #NT!
+ FIN_activly_pursue_greater_finland_idea: "Sinimustat" #NT!
+  
+ FIN_enforced_pietist_morals_idea: "Pietist Morals" #NT!
+ FIN_traditional_finnish_values_idea: "Pietist Morals" #NT!
+ FIN_implement_corporatism_idea: "Corporatism" #NT!
+  
+ FIN_vanguard_revolution_idea: "The Revolution's Vanguard" #NT!
+ FIN_centralisation_power_idea: "The Revolution's Vanguard" #NT!
+ FIN_collectivization_efforts_idea: "Collectivization" #NT!
+ FIN_democracy_workplace_idea: "Workplace Democracy" #NT!
+ FIN_strengthen_labour_unions_idea: "Workplace Democracy" #NT!
+  
+ FIN_finno_soviet_war_idea: "The Finno-Soviet War" #NT!
+ FIN_winter_war_idea: "Winter War" #NT!
+ FIN_winter_war_idea_desc: "With the Finnish struggle against the Russian Bear, they have figured that they must use their weather and terrain to their advantage in deadly battles of attrition." #NT!
+  
+ # Companies 
+ nokia: "Nokia" #NT!
+ salora: "Salora" #NT!
+ rikkihappo: "Rikkihappo" #NT!
+ lapua: "Lapua" #NT!
+ tikkakoski: "Tikkakoski" #NT!
+ vihtavuori: "Vihtavuori" #NT!
+ tampella: "Tampella" #NT!
+ vanajan_autotehdas: "Vanajan Autotehdas" #NT!
+ kr_sisu: "SAT" #NT!
+ valtion_company: "Valtion Lentokonetehdas" #NT!
+ veljekset_karhumaki: "Veljekset Karhumaki" #NT!
+ crichton_vulcan: "Crichton-Vulcan" #NT!
+  
+ ### Focus Tree ### 
+ FIN_finnish_defence_forces: "Finnish Defense Forces" #NT!
+ FIN_finnish_defence_forces_desc: "Despite our victory over Red aligned forces during the Finnish Civil War, the Spectre of Communism still threatens our nation. For the last 20 years Finland has trained and equipped the largest military force in Scandinavia in order to deter any Soviet advances. Kept up to strength through strict conscription and expertly trained in winter warfare the Finnish Defense Force or \"Puolustusvoimat\" is prepared to bleed the Soviet Union dry if that dreaded conflict were to ever come to fruition.\n\nWhile Finns are prepared to defend every inch of their nation, our government's meager budget has stalled much needed reforms. As the Soviet Union continues to modernize their forces, we must continue to follow suit." #NT!
+  
+ FIN_finnish_navy: "Финский флот"
+ FIN_finnish_navy_desc: "When Finland achieved its independence from the Russian Empire, maintaining that status despite Soviet pressure, our Navy was composed of obsolete Russian vessels from the reign of Alexander III. While efforts have been ongoing since 1927 to modernize the Finnish navy, progress has been falling behind schedule. We must renew these efforts if we are to protect our nation's coastline from the Soviet's Baltic Fleet." #NT!
+ FIN_gunboat_modernization: "Gunboat Modernization" #NT!
+ FIN_gunboat_modernization_desc: "The Finnish Navy currently employs 4 Gunboats within it's arsenal divided between the Uusimaa class and Turunmaa class respectively. These guard ships were designed back in the Trarist era for use in the Imperial Russian Navy and are beginning to show their age. If we are to keep up with the Soviets, we must begin upgrading our existing fleet or invest in brand new modern ships to replace our current aging vessels." #NT!
+ FIN_turku_naval_bases: "Establishing Turku Coastal Regiment" #NT!
+ FIN_turku_naval_bases_desc: "As tensions grow with the Soviet Union we must prepare our major coastal cities for naval attacks. It has been proposed that a new defensive uit could be established around the region of Turku to defend the city from naval attacks. Armed with coastal batteries, the Turku Coastal Regiment or \"Turun Rannikkorykmentti\" will provide the city with the defenses needed to ward off an enemy attack." #NT!
+ FIN_prioritize_coastal_defence: "Prioritize Coastal Defence" #NT!
+ FIN_prioritize_coastal_defence_desc: "Harsh weather in the Baltic sea forces many of our vessels to dock in our ports during the Winter season. If the Soviets were bold enough, or perhaps stupid enough to invade our nation during the winter only our smaller coastal defense ships would be able to operate effectivly. These ships can break through the ice and would be able to intercept the Soviet's own ice breaking capable ships. If we are to maintain year long operation of our navy we focus our funding towards smaller coastal defense ships." #NT!
+ FIN_defend_bay_of_finland: "Defend the Gulf of Finland" #NT!
+ FIN_defend_bay_of_finland_desc: "If war were to break out with the Soviet Union, it's clear that the Gulf of Finland would be main theatre of naval operations. Our capital, Helsinki, which rest upon the shores of the Gulf of Finland, lies dangerously close to the Soviet Union but it's archaic coastal defenses date back to Tsarist era. We must modernize coastal defenses around the city if we are to protect it from the Soviet Baltic Fleet. A nearby coastal island called \"Kuivasaari\" is currently the resting place of an old Russian \"Obukhovskii 52-caliber Pattern 1907\" Naval gun. This is the most powerful naval canon in operation in the Soviet navy. Bringing that weapon back up to operational capacity would surely deter any Soviet naval advances." #NT!
+ FIN_modernize_submarine_force: "Modernize the Submarine Force" #NT!
+ FIN_modernize_submarine_force_desc: "The Finnish navy only operates a single class of submarines, The \"Vetehinen\". This class was designed and built in the 1920's and is falling behind in performance compared to more modern vessels. It is time to invest in the \"Vesikko\" class of Submarines, who's modern design increases hull strength while only weighing half as much as the \"Vetehinen\" class." #NT!
+ FIN_prioritize_convoy_raiding: "Prioritize Convoy Raiding" #NT!
+ FIN_prioritize_convoy_raiding_desc: "Leningrad maintains the status of one of the Soviet Union's most important economic centers. Most international trade destined for northern Russia passes through Leningrad's ports. If we are to stall the Soviet's in the event of war, we must distrupt any Soviet convoy ship that passees through the Gulf of Finland. We will bleed the Soviets dry on both land and sea!" #NT!
+ FIN_panssarilaiva: "Panssarilaiva" #NT!
+ FIN_panssarilaiva_desc: "\"Panssarilaiva\" or \"Armored Ships\" make up the core of Finnish naval force. Their flexible design allows them to excel in many roles ranging from convoy raiding to anti air defense. The Vainamoinen class armored ship \"Ilmarinen\" even has the honor of being the Finnish Navy's Flagship. It's class should be expanded and modernized to counter the Soviet's own naval developments." #NT!
+ FIN_protect_merchant_navy: "Protect the Merchant Navy" #NT!
+ FIN_protect_merchant_navy_desc: "Finland stands in a good position to dominate shipping in the Baltic if the Soviet Union were to attack. While our navy can halt major movements from the Soviet's Baltic Fleet, The Soviet air force and submarines may still be able to harass our Merchant Navy. We must focus our naval efforts in protecting our own shipping from any Soviet attacks while denying the communists any freedom of movement in the Gulf of Finland." #NT!
+ FIN_modern_minelayer_ships: "Modern Mine layers" #NT!
+ FIN_modern_minelayer_ships_desc: "The Finnish Navy only employs a single dedicated minelayer, the Tsarist era vessel \"Louhi\". A report by the Finnish navy noted that this ship was \"not particularly good at minelaying due to its slow speed, bad seakeeping qualities and inadequate storage space.\". Clearly if we are to maintain naval superiority over the Soviet's we will need to commission modern minelaying vessels. The \"Pukkio\" class of minelayers has been designed as a modern vessel to replace our current mine laying arsenal. We just need to invest the funding needed to build it." #NT!
+  
+ FIN_civil_guards_prominence: "Civil Guards Prominence" #NT!
+ FIN_civil_guards_prominence_desc: "While there have been efforts to sideline the Civil Guard in order to centralize the armed force it's clear that this has been the wrong direction for our country's national security. Finland's immense geography and small population requires our nation to respond to any threat quickly with local forces. Despite being a critical cornerstone in the defeat of the red force during the Civil War, the Civil Guard has been demoted to a reservist force in recent years with the centralized Finnish Defence Force taking over most of the Civil Guard's former responsibilities. The Soviet Union could attack with overwhelming force at any time. We must reinforce local Civil Guard milatis to become our front line defense if the Soviets choose to invade." #NT!
+ FIN_reform_jager_training: "Reform Jäger Training" #NT!
+ FIN_reform_jager_training_desc: "Jägers originated as a group of Finnish nationalists who volunteered and trained to become elite light infantry by officers from the former German Empire. During the Finnish Civil war these troops provided critical morale and training to their White allies. Thier innovative use of tactical mobility they had brought back from Germany provided the basis of Finnish military theory but the era of the Civil War is very different than now. We must modernize our use light and mobile infantry for the modern era of war" #NT!
+ FIN_separate_army_and_politics: "Separate Army and Politics" #NT!
+ FIN_separate_army_and_politics_desc: "Military institutions have no place in a civilian-controlled government. Allowing officers to hold public positions is a dangerous path to autocracy, so we should create laws to prevent it." #NT!
+ FIN_karjala_line: "The Karelia Line" #NT!
+ FIN_karjala_line_desc: "As tensions grow with the Soviet Union it's clear that our southern border is at risk of invasion. The Karelia region is massive and heavily forested. If we take advantage of the harsh local geography, we can build a formidable defensive line that the Soviets would be hopeless to overcome." #NT!
+ FIN_study_old_tactics: "Study Old Tactics" #NT!
+ FIN_study_old_tactics_desc: "We should not completely disregard the lessons of our ancestors, some of the greatest military minds to ever live were born thousands of years ago." #NT!
+ FIN_red_guard_takes_lead: "Red Guard Takes The Lead" #NT!
+ FIN_red_guard_takes_lead_desc: "The Red Guard have gained a decisive advantage, we should seize this opportunity before it passes us." #NT!
+ FIN_meanmaa_line: "The Meänmaa Line" #NT!
+ FIN_meanmaa_line_desc: "While relations with Sweden have mostly been friendly since our Independence, the radically evolving atmosphere in Europe is quickly changing the once long standing balance of power on the Continent. We must be prepared for threats from any nation. If Swedish troops were to invade, it would quickly turn the entire Meänmaa region into a frozen hellscape. We must reinforce the Torne River to deny the Swedes any foothold on \"Our Land\"." #NT!
+ FIN_modernize_equipments: "Modernize Equipment" #NT!
+ FIN_modernize_equipments_desc: "Outdated weaponry will put us at a distinct disadvantage against our better-equipped foes, we should redouble our efforts to modernize the army." #NT!
+ FIN_modern_ski_infantry: "Modern Ski Infantry" #NT!
+ FIN_modern_ski_infantry_desc: "Finland is a land of snow, and the natural defense that this provides us cannot be overstated. Still, we need to be able to traverse these conditions effectively if we are to take full advantage of the natural terrain." #NT!
+ FIN_artillary_efforts: "Artillery Efforts" #NT!
+ FIN_artillary_efforts_desc: "Large guns proved their worth during the Great War, and every capable army is now host to hundreds or even thousands of artillery pieces. We would be wise to adopt this growing trend." #NT!
+ FIN_motorization_efforts: "Motorization Efforts" #NT!
+ FIN_motorization_efforts_desc: "Motorized infantry can traverse land at incredible speeds for rock-bottom upkeep, and they have even been declared the infantry of the future by many military historians." #NT!
+ FIN_lotta_svard: "«Лотта свярд»"
+ FIN_lotta_svard_desc: "Originating during the Finnish Civil War, the \"Lotta Svärd\" is a voluntary auxiliary paramilitary organisation for women. While men were being conscripted away to fight the Red Forces and their communist allies, members of the \"Lotta Svärd\" would operate field hospitals and even air raid warning positions. As the threat of war rises once again and more men are being called into service, we must call upon the \"Lotta Svärd\" to assist our army in the defense of our country." #NT!
+ FIN_sisu: "Sisu" #NT!
+ FIN_sisu_desc: "A uniquely Finnish trait, sisu is the idea that, during tough times, one must possess courage, stamina, perseverance, and determination. We must emphasise the point of ingraining sisu into the Finnish troops, providing them with the true meaning needed to properly defend the nation." #NT!
+ FIN_encourage_new_thinking: "Encourage Freethinking" #NT!
+ FIN_encourage_new_thinking_desc: "We need to be a source of innovation and invention if we are to remain on the curve of modern science and technology, as such we should promote freethinking through our educational institutions." #NT!
+ FIN_red_army_training: "Red Army Training" #NT!
+ FIN_red_army_training_desc: "The Red Army has seen much fighting in recent decades, and they have become a highly effective military force as a result. There is much we could learn from cooperating with them." #NT!
+  
+ FIN_finnish_air_force: "Finnish Air Force" #NT!
+ FIN_finnish_air_force_desc: "Control of the skies is vital in modern warfare, and in order to achieve that goal we will need a modern Air Force for Finland." #NT!
+ FIN_aircraft_purchases: "Aircraft Purchases" #NT!
+ FIN_aircraft_purchases_desc: "Thousands of aircraft across Europe sit in storage awaiting another conflict. We should take the opportunity to purchase some of these aircraft to supplement our own forces." #NT!
+ FIN_reach_out_foreign_suppliers: "Reach Out to Foreign Suppliers" #NT!
+ FIN_reach_out_foreign_suppliers_desc: "There are many parties interested in producing expensive parts for us, so we should reach out to them and begin negotiations." #NT!
+ FIN_foreign_air_manifactures: "Foreign Air Manufactures" #NT!
+ FIN_foreign_air_manifactures_desc: "Why build our own airplanes when we can get others to do it for us? With the economy in the shape it’s in, we finally have that option, so let’s seize it." #NT!
+ FIN_upgrade_air_bases: "Upgrade the Air Bases" #NT!
+ FIN_upgrade_air_bases_desc: "The old dirt and snow airstrips are no longer suitable for modern aircraft, we will need to invest in creating asphalt runways in order to prevent unnecessary damage to our aircraft." #NT!
+ FIN_develop_finnish_fighters: "Develop Finnish Fighters" #NT!
+ FIN_develop_finnish_fighters_desc: "Finland’s unique geography has created a set of problems that modern aircraft from other parts of Europe simply aren’t adapted to. As a remedy, we need to create a domestic manufacturing sector." #NT!
+ FIN_domestic_aircraft_industry: "Domestic Aircraft Industry" #NT!
+ FIN_domestic_aircraft_industry_desc: "Manufacturing as well as designing aircraft at home will give us significant advantages over our foes should they invade." #NT!
+ FIN_study_civil_war_boat_planes: "Study Civil War Boat Planes" #NT!
+ FIN_study_civil_war_boat_planes_desc: "Boat planes are much more versatile and mobile than those bound to land, we should investigate how to improve upon them so we may take advantage of them." #NT!
+ FIN_study_civil_war_bombers: "Study Civil War Bombers" #NT!
+ FIN_study_civil_war_bombers_desc: "" #NT!
+ FIN_female_pilots: "Female Pilots" #NT!
+ FIN_female_pilots_desc: "" #NT!
+ FIN_finnish_air_doctrines: "Finnish Air Doctrines" #NT!
+ FIN_finnish_air_doctrines_desc: "" #NT!
+  
+ FIN_end_of_silver_decade: "The End of the Silver Decade" #NT!
+ FIN_end_of_silver_decade_desc: "" #NT!
+  
+ FIN_leviate_indebted_farmers: "Alleviate Indebted Farmers" #NT!
+ FIN_leviate_indebted_farmers_desc: "" #NT!
+ FIN_economic_intervention: "Economic Intervention" #NT!
+ FIN_economic_intervention_desc: "" #NT!
+ FIN_labour_administration: "Labour Administration" #NT!
+ FIN_labour_administration_desc: "" #NT!
+ FIN_labour_market_relations: "Labour-Market Relations" #NT!
+ FIN_labour_market_relations_desc: "" #NT!
+ FIN_nationalize_key_industries: "Nationalize Key Industries" #NT!
+ FIN_nationalize_key_industries_desc: "" #NT!
+ FIN_regulate_trade: "Regulate Trade" #NT!
+ FIN_regulate_trade_desc: "" #NT!
+ FIN_cut_spendings: "Cut Spending" #NT!
+ FIN_cut_spendings_desc: "" #NT!
+ FIN_austerity: "Austerity" #NT!
+ FIN_austerity_desc: "" #NT!
+ FIN_rural_support: "Rural Support" #NT!
+ FIN_rural_support_desc: "" #NT!
+ FIN_allow_foreclousures: "Allow Foreclosures" #NT!
+ FIN_allow_foreclousures_desc: "" #NT!
+ FIN_tariffs_corn_imports: "Tariffs on Corn Imports" #NT!
+ FIN_tariffs_corn_imports_desc: "" #NT!
+ FIN_stable_recovery: "Stable Recovery" #NT!
+ FIN_stable_recovery_desc: "" #NT!
+ FIN_higher_taxes: "Higher Taxes" #NT!
+ FIN_higher_taxes_desc: "" #NT!
+ FIN_encourage_new_buisnesses: "Encourage New Businesses" #NT!
+ FIN_encourage_new_buisnesses_desc: "" #NT!
+ FIN_end_austerity: "End Austerity" #NT!
+ FIN_end_austerity_desc: "" #NT!
+  
+ FIN_rebuild_economy: "Rebuild the Economy" #NT!
+ FIN_rebuild_economy_desc: "" #NT!
+ FIN_conquer_finnish_interior: "Conquer the Finnish Interior" #NT!
+ FIN_conquer_finnish_interior_desc: "" #NT!
+ FIN_northern_roads: "Northern Roads" #NT!
+ FIN_northern_roads_desc: "" #NT!
+ FIN_finnish_mineral_industry: "Finnish Mineral Industry" #NT!
+ FIN_finnish_mineral_industry_desc: "" #NT!
+ FIN_timber_and_paper: "Timber and Paper" #NT!
+ FIN_timber_and_paper_desc: "" #NT!
+ FIN_develop_domestic_industries: "Develop Domestic Industries" #NT!
+ FIN_develop_domestic_industries_desc: "" #NT!
+ FIN_expand_arms_industry: "Expand the Arms Industry" #NT!
+ FIN_expand_arms_industry_desc: "" #NT!
+ FIN_rebuild_trade_relations: "Rebuild Trade Relations" #NT!
+ FIN_rebuild_trade_relations_desc: "" #NT!
+ FIN_finnish_exports: "Finnish Exports" #NT!
+ FIN_finnish_exports_desc: "" #NT!
+ FIN_helsinki_dockyards: "Helsinki Dockyards" #NT!
+ FIN_helsinki_dockyards_desc: "" #NT!
+ FIN_towards_a_new_silver_decade: "Towards a New Silver Decade" #NT!
+ FIN_towards_a_new_silver_decade_desc: "" #NT!
+  
+ FIN_stable_democratic_government: "Stable Democratic Government" #NT!
+ FIN_stable_democratic_government_desc: "" #NT!
+  
+ FIN_punainen_maapera: "Punainen Maaperä" #NT!
+ FIN_punainen_maapera_desc: "The Social Democrats and the Agrarians have managed to form a coalition government in the aftermath of the collapse of the centre-right government coalition. There is confidence in the air that we will be able to rescue Finland from economic hardships and heal the political divide between left and right." #NT!
+ FIN_reject_extremism: "Reject Extremism" #NT!
+ FIN_reject_extremism_desc: "" #NT!
+ FIN_true_sovereign_finland: "A True Sovereign Finland" #NT!
+ FIN_true_sovereign_finland_desc: "" #NT!
+ FIN_strengthen_democracy: "Strengthen Democracy" #NT!
+ FIN_strengthen_democracy_desc: "" #NT!
+ FIN_support_workers: "Support the Workers" #NT!
+ FIN_support_workers_desc: "" #NT!
+ FIN_public_work: "Public Work" #NT!
+ FIN_public_work_desc: "" #NT!
+ FIN_support_farmers: "Support the Farmers" #NT!
+ FIN_support_farmers_desc: "" #NT!
+ FIN_finnish_welfare_state: "The Finnish Welfare State" #NT!
+ FIN_finnish_welfare_state_desc: "" #NT!
+ FIN_rural_investments: "Rural Investments" #NT!
+ FIN_rural_investments_desc: "" #NT!
+ FIN_ban_national_populist_movements: "Ban National Populist Movements" #NT!
+ FIN_ban_national_populist_movements_desc: "" #NT!
+ FIN_curtail_swedish_influence: "Curtail Swedish Influence" #NT!
+ FIN_curtail_swedish_influence_desc: "" #NT!
+ FIN_promote_finnish_unity: "Promote Finnish Unity" #NT!
+ FIN_promote_finnish_unity_desc: "" #NT!
+  
+ FIN_porvaristo_ja_viljelijat: "Porvaristo ja Viljelijät" #NT!
+ FIN_porvaristo_ja_viljelijat_desc: "" #NT!
+ FIN_tackle_social_democratic_influence: "Tackle Social Democratic Influence" #NT!
+ FIN_tackle_social_democratic_influence_desc: "" #NT!
+ FIN_investigate_lapua_movement: "Investigate the Lapua Movement" #NT!
+ FIN_investigate_lapua_movement_desc: "" #NT!
+ FIN_reimplement_agrarian_subsidies: "Reimplement Agrarian Subsidies" #NT!
+ FIN_reimplement_agrarian_subsidies_desc: "" #NT!
+ FIN_conservative_welfare: "Conservative Welfare" #NT!
+ FIN_conservative_welfare_desc: "" #NT!
+ FIN_promote_republican_ideals: "Promote Republican Ideals" #NT!
+ FIN_promote_republican_ideals_desc: "" #NT!
+ FIN_stenghten_parliament: "Strengthen the Parliament" #NT!
+ FIN_stenghten_parliament_desc: "" #NT!
+ FIN_strengthen_president: "Strengthen the President" #NT!
+ FIN_strengthen_president_desc: "" #NT!
+ FIN_democratic_values: "Democratic Values" #NT!
+ FIN_democratic_values_desc: "" #NT!
+ FIN_support_lutheranism: "Support Lutheranism" #NT!
+ FIN_support_lutheranism_desc: "" #NT!
+ FIN_gain_church_support: "Gain Church Support" #NT!
+ FIN_gain_church_support_desc: "" #NT!
+ FIN_finnish_patriotism: "Finnish Patriotism" #NT!
+ FIN_finnish_patriotism_desc: "" #NT!
+  
+ FIN_aftermath_mantsala_uprising: "Aftermath of the Mäntsälä Uprising" #NT!
+ FIN_aftermath_mantsala_uprising_desc: "The Mäntsälä Uprising has seen new leadership come to Finland. With democracy at pause, this new leadership will have the power to revive Finland from its harsh situation and heal this nation from division." #NT!
+ FIN_aftermath_mantsala_uprising2: "Aftermath of the Mäntsälä Uprising" #NT!
+ FIN_aftermath_mantsala_uprising2_desc: "The Mäntsälä Uprising has seen new leadership come to Finland. With democracy at pause, a new and revolutionary Finland will see the country relieved from capitalism and political strife." #NT!
+  
+ FIN_mannerheim_in_power: "Mannerheim in Power" #NT!
+ FIN_mannerheim_in_power_desc: "Mannerheim and the White Guard have taken control of Finland, promising to temporarily take control of the nation until stability can be restored." #NT!
+ FIN_bringing_order_streets: "Bringing Order to the Streets" #NT!
+ FIN_bringing_order_streets_desc: "" #NT!
+ FIN_pacify_socialists: "Pacify the Socialists" #NT!
+ FIN_pacify_socialists_desc: "" #NT!
+ FIN_appeace_workers: "Appease the Workers" #NT!
+ FIN_appeace_workers_desc: "" #NT!
+ FIN_non_partisan_governing: "Non-Partisan Governing" #NT!
+ FIN_non_partisan_governing_desc: "" #NT!
+ FIN_strengthen_finnish_red_cross: "Strengthen the Finnish Red Cross" #NT!
+ FIN_strengthen_finnish_red_cross_desc: "" #NT!
+ FIN_commit_to_defence_finland: "Commit to the Defence of Finland" #NT!
+ FIN_commit_to_defence_finland_desc: "" #NT!
+ FIN_fatherland_before_politics: "Fatherland Before Politics" #NT!
+ FIN_fatherland_before_politics_desc: "" #NT!
+ FIN_pacify_lapua_movement: "Pacify the Lapua Movement" #NT!
+ FIN_pacify_lapua_movement_desc: "" #NT!
+ FIN_appeace_farmers: "Appease the Farmers" #NT!
+ FIN_appeace_farmers_desc: "" #NT!
+ FIN_return_to_democracy: "A Return to Democracy?" #NT!
+ FIN_return_to_democracy_desc: "" #NT!
+  
+ FIN_lapua_movement_in_power: "Lapua Movement in Power" #NT!
+ FIN_lapua_movement_in_power_desc: "" #NT!
+ FIN_new_style_governing: "A New Style of Governing" #NT!
+ FIN_new_style_governing_desc: "" #NT!
+ FIN_strengthen_sinimustat: "Strengthen the Sinimustat" #NT!
+ FIN_strengthen_sinimustat_desc: "" #NT!
+ FIN_crack_down_socialists: "Crackdown on Socialists" #NT!
+ FIN_crack_down_socialists_desc: "" #NT!
+ FIN_abolish_parliament: "Abolish the Parliament" #NT!
+ FIN_abolish_parliament_desc: "" #NT!
+ FIN_enforced_pietist_morals: "Enforced Pietist Morals" #NT!
+ FIN_enforced_pietist_morals_desc: "" #NT!
+ FIN_traditional_finnish_values: "Traditional Finnish Values" #NT!
+ FIN_traditional_finnish_values_desc: "" #NT!
+ FIN_activly_pursue_greater_finland: "Actively Pursue Greater Finland" #NT!
+ FIN_activly_pursue_greater_finland_desc: "" #NT!
+ FIN_implement_corporatism: "Implement Corporatism" #NT!
+ FIN_implement_corporatism_desc: "" #NT!
+ FIN_militarize_finland: "Militarize Finland" #NT!
+ FIN_militarize_finland_desc: "" #NT!
+ FIN_finnish_nation: "A Finnish Nation" #NT!
+ FIN_finnish_nation_desc: "" #NT!
+  
+ FIN_finnish_revolution: "Finnish Revolution" #NT!
+ FIN_finnish_revolution_desc: "The Finnish red forces has finally managed to overtake the capitalist White republic in Finland. Finally, we can revive the dream of the failed Red Finnish forces who fought for this revolution almost 20 years ago. This revolution will be a saving grace from the cruel capitalist order and the political strifes that has established itself in Finland." #NT!
+ FIN_communist_party_dominance: "Communist Party Dominance" #NT!
+ FIN_communist_party_dominance_desc: "" #NT!
+ FIN_crush_anti_socialists: "Crush the Anti-Socialists" #NT!
+ FIN_crush_anti_socialists_desc: "" #NT!
+ FIN_crack_down_bourgeois_establishment: "Crack Down on the Bourgeois Establishment" #NT!
+ FIN_crack_down_bourgeois_establishment_desc: "" #NT!
+ FIN_finnish_peoples_delegation: "The Finnish People's Delegation" #NT!
+ FIN_finnish_peoples_delegation_desc: "" #NT!
+ FIN_punakaarti_control: "Punakaarti Control" #NT!
+ FIN_punakaarti_control_desc: "" #NT!
+ FIN_vanguard_revolution: "Vanguard of the Revolution" #NT!
+ FIN_vanguard_revolution_desc: "" #NT!
+ FIN_ortodoksinen_control: "Ortodoksinen Control" #NT!
+ FIN_ortodoksinen_control_desc: "" #NT!
+ FIN_collectivization_efforts: "Collectivization Efforts" #NT!
+ FIN_collectivization_efforts_desc: "" #NT!
+ FIN_red_terror: "Red Terror" #NT!
+ FIN_red_terror_desc: "" #NT!
+ FIN_centralisation_power: "Centralization of Power" #NT!
+ FIN_centralisation_power_desc: "" #NT!
+ FIN_sosialistinen_control: "Sosialistinen Control" #NT!
+ FIN_sosialistinen_control_desc: "" #NT!
+ FIN_democracy_workplace: "Democracy in the Workplace" #NT!
+ FIN_democracy_workplace_desc: "" #NT!
+ FIN_enforce_true_socialism: "Enforce True Socialism" #NT!
+ FIN_enforce_true_socialism_desc: "" #NT!
+ FIN_following_moscow_line: "Following the Moscow Line" #NT!
+ FIN_following_moscow_line_desc: "" #NT!
+ FIN_integrate_social_democrats: "Integrate the Social Democrats" #NT!
+ FIN_integrate_social_democrats_desc: "" #NT!
+ FIN_strengthen_labour_unions: "Strengthen the Labour Unions" #NT!
+ FIN_strengthen_labour_unions_desc: "" #NT!
+ FIN_decentralisation_power: "Decentralization of Power" #NT!
+ FIN_decentralisation_power_desc: "" #NT!
+ FIN_legacy_finnish_red: "Legacy of the Finnish Reds" #NT!
+ FIN_legacy_finnish_red_desc: "" #NT!
+ FIN_finlands_bold_opportunity: "Finland's Bold Opportunity" #NT!
+ FIN_finlands_bold_opportunity_desc: "Seeing that the bear to our east is busy with the Germans, we use our opportunity before we lose our chance forever. With economy, military, and government reforms, we can become a power the Red Menace will never be able to subdue. A wolf they can never put down. The cleaning force to vanquish the great stain of the earth, the Soviet Union. Suomi shall rise!" #NT!
+ FIN_strengthening_the_mannerheim_line: "Strengthening The Mannerheim Line" #NT!
+ FIN_strengthening_the_mannerheim_line_desc: "With the Soviets right on our border, and our great city of Viipuri just out of the Russian hands, we must defend our heartland where our agriculture and industry lies. With an extended fortification program on the Mannerheim line, a fort line named after our great Carl Gustaf Emil Mannerheim, we will keep the forces of Mother Russia from ever making it to Helsinki." #NT!
+ FIN_expanding_the_army: "Expanding the Army" #NT!
+ FIN_expanding_the_army_desc: "Seeing the might of the Red Army with its uncountable amount of men, we have to input our own army reforms to help improve our armed forces and break the enemy morale. For you dont want to fight an enemy that is much more powerful and experienced than you. Seeing that your fight is futile and you will soon be overpowered and massacred by them." #NT!
+ FIN_WINTER_WAR_DIVISIONS_tt: "§7Receive §Y 5 [Root.GetAdjective] 'Winter War'§! divisions with the following composition:\n - 9 £GFX_unit_infantry_icon_small battalions with:\n - 1 £GFX_unit_engineer_icon_small Engineer Support\n - 1 £GFX_unit_artillery_icon_small Support Artillery;§!\n\n§YSpawn 5§! divisions with the newly acquired template at: §Y[111.GetName]§!" #NT!
+ FIN_preparing_the_airforce: "Preparing the Airforce" #NT!
+ FIN_preparing_the_airforce_desc: "With the Soviet Union in firm control of the skies, we have to assert ourselves before they blow us to dust. With extended air production, we will one day see our planes over Moscow rather than Soviets air junkies over Helsinki." #NT!
+ FIN_construction_of_military_factories: "Construction of Military Factories" #NT!
+ FIN_construction_of_military_factories_desc: "For production of equipment to feed and arm our men out in the fields, it is necessary to build the Finnish military industry up even more. By leasing out government funds to military production companies, we can give our men all they will need to fight well." #NT!
+ FIN_preparing_the_economy: "Preparing the Economy" #NT!
+ FIN_preparing_the_economy_desc: "Our economy compared to the power we are fighting is not the greatest, and we need it for our military. Sure we came our of our silver decade not long ago, but ever since the London Stock Market Crash, we have been thrown down the economic pillar as it collapsed under us. So it is needed for economic reforms and reduced government spending to put into our war machine so we can have an economy developed for war." #NT!
+ FIN_winter_war: "Winter War" #NT!
+ FIN_winter_war_desc: "By using the winter to our advantage, we can liquidify the Russian menace into the meat grinder. By that I mean wars of attrition. If the Russians freeze to death or get cut down by our winter trained skiiers, we can finally put an end to a true Russian army during the fourth season." #NT!
+ FIN_declare_our_claims: "Declare our Claims" #NT!
+ FIN_declare_our_claims_desc: "By declaring our claims to the Russians, we can alert the world of Finlands ambitions. The world can talk and squabble about us but we will power on. Finland will finally show its teeth." #NT!
+ FIN_for_victory: "For Victory!" #NT!
+ FIN_for_victory_desc: "We have done all needed precautions to assure that a war with the Soviet Union wouldn't be a full blown disaster. With our rifle and our skis, we can seperate the hammer and sickle forever. March on Moscow and tear their horrible regime apart. Occupy Murmansk and far beyond. Finland will forever be great! Hakkaa päälle!" #NT!
+  
+  
+  
+ ### Events ### 
+ finland.0.t: "The State of Finland" #NT!
+ finland.0.d: "Finland gained its independence following the 1917 Revolutions in Russia. The first years were a little rocky, as the Finnish Civil War between the Reds and the Whites struck the nation, placing brothers at odds with each other and leaving a legacy Finland still have to deal with. Under the civil war, Finland would also see the loss of Åland to Sweden, something that would partially hamper the relationship between the two countries.\n\nWhile there was plans to establish a Kingdom of Finland, with a German king, this plan failed following the defeat of the German Empire in the Great War. Monarchists in the conservative National Coalition Party had to give up the idea of a Finnish Kingdom, and the dream shortly died. The Republic of Finland was established, dominated by the liberals and conservatives.\n\nSince the civil war, the idea of a Greater Finland gained traction in the country among right-wingers. Along with the anti-sovietist nature of this dream, it became the foundation for the formation of the Lapua Movement. At the same time, the Social Democrats have become a growing force in Finland, with their evolution to a more social-democratic and patriotic party. But there are still anxious feelings over them in right-wing groups, with the President refusing to allow the formation of a government with them in it.\n\nDespite this, Finland have seen a prosperous time lately, commonly called the Silver Decade, with strong growth under a stable governing coalition. Some worry that this era might soon see its end, with the issues plaguing Finnish society reappearing. Others are more optimistic about the future of Finland." #NT!
+ finland.0.a: "Aamu on iltaa viisaampi!" #NT!
+  
+ finland.1.t: "Election Year in Finland" #NT!
+ finland.1.d: "The 1936 Parliamentary Elections are soon around the corner, with the good situation of the Finnish economy and the strengthen agricultural sector, it looks like the governing coalition government, made up of the Agrarian League, National Coalition and National Progressive parties, have the posibility to make gains.\n\nWhile the Social Democrats are most likely unable to form a government or participate in one, they are likely to hold on to their plurality in the Parliament. The President have been firm in his rejection of their participation and the Agrarian League have been accepting in the current system. On the other end, it is not suspected that the Lapua Movement will make gains in this election, even if there are conservatives that oppose the current government.\n\nAlready are politicians making promises and hanging posters in the streets of Finland, expressing the health of the Finnish democracy." #NT!
+ finland.1.a: "What a Great Year to be a Finn!" #NT!
+  
+ finland.2.t: "The 1936 Parliamentary Election" #NT!
+ finland.2.d: "The result of the 1936 Parliamentary Election are now been counted. With the increasing prosperity and growth under the current government, the opinion of the Agrarian League and the National Coalition Party have seen an increase. The Social Democrats and the Lapua Movement have not been able to make any gains, leaving a Parliament where the majority of the members are from one of the governing parties." #NT!
+ finland.2.a: "A Victory for the Coalition Government!" #NT!
+  
+ finland.3.t: "The London Stock Market Crash" #NT!
+ finland.3.d: "An economic crash have occured in London, in the United Kingdom. With one of our major export and trading partners bleeding, it is a growing fear that this crisis will soon hit Finland. Some have claimed that the Silver Decade might meet an early end, but Prime Minister Juho Sunila has stated that we should stay calm in these times." #NT!
+ finland.3.a: "The Silver Decade Sours" #NT!
+  
+ finland.4.t: "The End of the Silver Decade" #NT!
+ finland.4.d: "With the London Stock Market Crash, the Finnish economy have experienced a fall. Unemployment is on the rise, exports have been halted and businesses have begun to experience bankruptcy. The writing is on the wall. The Silver Decade in Finland is now over, and a time of crisis is now upon us. Politically, this have nearly torn apart the ruling coalition government, but with the leadership of Juho Sunila and Pehr Evind Svinhufvud, it might survive this crisis." #NT!
+ finland.4.a: "Let's Pray For a Quick Recovery!" #NT!
+  
+ finland.5.t: "The Death of the Prime Minister" #NT!
+ finland.5.d: "Prime Minister Juho Sunila has been found dead in his residence in Helsinki. It seems to be from natural causes, that he died of, but it could not be any worse time to die on. With Sunila gone, the coalition government is hanging in a thin tread. The Agrarian League, with Kyösti Kallio at its head, have begun to see towards the Social Democrats for new government partners. This has begun to anger President Pehr Evind Svinhufvud and his National Coalition Party. In the meantime, Aimo Cajander from the National Progressive Party, will become the new Prime Minister." #NT!
+ finland.5.a: "What a Time to Die On!" #NT!
+  
+ finland.6.t: "The Agrarian League Leaves the Government" #NT!
+ finland.6.d: "Tentions have stirred up in the governing coalition government over what way to recovery Finland is going to take. Especially in regards to what to do for the Finnish farmers. While the National Coalition and National Progressive parties favouring austerity and limited intervention, the Agrarian League wants the government to help the farmers that are suffering from bankruptcy and foreclousures. While the government has no majority in the Parliament now, the Agrarian League have opposed a vote of no confidence in this time, citing the ongoing crisis. President Svinhufvud is still firm in his rejection of a government with the Social Democrats." #NT!
+ finland.6.a: "We Will Rebuild the Coalition" #NT!
+  
+ finland.7.t: "Väinö Tanner and the Opposition" #NT!
+ finland.7.d: "The opposition, dominated by the Social Democrats, has been ardent in criticising the government. Väinö Tanner, the leader of the Social Democrats, has seen an increasing support among the newly unemployed and among the farmers of Finland. He blames the government and the president for hindering a parliamentary majority to govern the country. The Social Democrats favours strong interventionism from the Finnish state, with protections for the workers and farmers and more state control of the businesses and industries. This is directly opposed to the measures the government wants to take." #NT!
+ finland.7.a: "They Just Want to Tear Apart Finland" #NT!
+  
+ finland.8.t: "The Lapua Movement's Activities" #NT!
+ finland.8.d: "The Lapua Movement is a movement encompassing both radical conservatives and Finnish nationalists. They are also strong anti-socialists, and with the growth of the Social Democrats in this era, they have become more and more aggressive. With attempts of assassinations and terror from members towards Social Democrats, some want us to ban the organization. One problem is that we do not have any case against the movement, just its members. We need to be aware, however, to tackle them when they go too far." #NT!
+ finland.8.a: "A Dangerous Movement" #NT!
+  
+ finland.9.t: "The Mäntsälä Incident" #NT!
+ finland.9.d: "In the town of Mäntsälä, a local Social Democratic meeting was interrupted today by members of the Lapua Movement and the White Guard. The violent additudes of the members of these organizations seem to be encouraged by the leadership in the Lapua Movement, making a case for banning the organization. Following this incident, it looks like members of the Lapua Movement are assembling, with many bearing rifles and other weapons. This might develop into something more than just a lone incident." #NT!
+ finland.9.a: "This Can be Dangerous" #NT!
+  
+ finland.10.t: "The March on Helsinki" #NT!
+ finland.10.d: "Many members of the Lapua Movement and the White Guard have started a march upon the capital of Helsinki, to depose the government and parliament. The idea that the government is too inefficient to take care of the current crisis, has been widespread among the members of the White Guard and even in the non-political parts of the army. Following these events, the Red Guard has reemerged, many equally armed and dangerous. It is yet to see what will develop out of this situation." #NT!
+ finland.10.a: "Those Traitors!" #NT!
+  
+ finland.11.t: "The Battle of Helsinki" #NT!
+ finland.11.d: "A struggle to take over the key important structures in Helsinki is now underway, with White and Red guardsmen in battle from street to street. Units loyal to the current government are few, still there are many within the city who are loyal to the Republic.\n\nField Marshal Carl Gustav Mannerheim is leading the defense of the parliament and government in Helsinki. Mannerheim is still respected among members of the White Guard, and many believe he has a chance of making them betray the Lapua Movement in favor of Mannerheim taking power.\n\nOn the other hand, the White Guard members might not risk going against the Lapua Movement, their right-wing anti-socialist ally, seeing it as a possible betrayal of the anti-socialist cause. With the White Guard being so important, both sides now try to secure their support." #NT!
+ finland.11.a: "Mannerheim Manages to Rally the White Guard" #NT!
+ finland.11.b: "The White Guard Refuses to Shift Side" #NT!
+  
+ finland.12.t: "Mannerheim Coups the Government" #NT!
+ finland.12.d: "With the White Guard under his command, Field Marshal Carl Gustav Mannerheim have seen it necessary to coup the government. While the Social Democrats and the Agrarians are stronly opposed to this seizure of power, Mannerheim have made the case that this is the only way to secure that radicals does not sieze power. Most of the parliament and the government have expressed that they are fine by this, with the president calling upon Mannerheim to form a government." #NT!
+ finland.12.a: "In Order to Save the Republic!" #NT!
+  
+ finland.13.t: "The Red Guard Coup" #NT!
+ finland.13.d: "With the White Guard under the command of Field Marshal Mannerheim, the Lapua Movement have been pacified for now. But there are still a threat present to the Republic. The Red Guard is still out on the streets, and it does not look like they will go out without a fight. It is highly likely, however, that Mannerheim will be able to defeat them." #NT!
+ finland.13.a: "Mannerheim Defeats the Reds" #NT!
+ finland.13.b: "The Red Guard Coups the Government" #NT!
+  
+ finland.14.t: "Stability Begins to Return" #NT!
+ finland.14.d: "With both socialists and nationalists pacified, the situation have begun to restabalize. Many sees it as a prime time to return power back into the hands of the parliament, president and the true government. But there are also some that argues that the politicians are unable to lead Finland through the crisis without bickering over politics. Therefore, some supporters of Mannerheim wants him to have a state of emergency declared, seize executive powers and overturn the parliament. While dictatorial measures, it might be necessary to further stabilize Finland." #NT!
+ finland.14.a: "Democracy Will Continue" #NT!
+ finland.14.b: "The Republic Must be Saved" #NT!
+  
+ finland.15.t: "The Lapua Movement Seizes Power" #NT!
+ finland.15.d: "With the White Guard staying loyal to the Lapua Movement, the movement has managed to sieze power. While Mannerheim has retired, other generals and officers are now taking the side of this movement. Social Democrats have already started to go underground, with some in the National Coalition and National Progressive parties taking a collaborationist stance towards the Lapua Movement. This is truely the end of the Finnish Republic." #NT!
+ finland.15.a: "A Finland Free From Traitors!" #NT!
+  
+ finland.16.t: "The Red Guard Coup" #NT!
+ finland.16.d: "While the Lapua Movement is now governing Finland, the Red Guard have not gone away. Posing as a threat to the new Finnish government, they have the possibility to sieze power from our new nationalist government. With the support of conservatives and White-leaning military figures, we should be able to fight them off, but the Reds might gain an ally in the Social Democrats. It is still uncertain who will hold on to power in Finland." #NT!
+ finland.16.a: "The Red Guard is Defeated" #NT!
+ finland.16.b: "The Red Guard is Victorious" #NT!
+  
+ finland.17.t: "Upcoming Presidential Election" #NT!
+ finland.17.d: "The 1937 Presidential election are around the corner. With the country in the current crisis, there is very unlikely that President Pehr Evind Svinhufvud will be able to secure a second term as president of Finland. It is yet to see if a change in guard will bring upon the stability to form a stable government." #NT!
+ finland.17.a: "Let us See What Happens" #NT!
+  
+ finland.18.t: "The 1937 Presidential Election" #NT!
+ finland.18.d: "The 1937 Presidential Election are now upon us. Thousands have gone out and voted in support of one of the candidates available, or for their preferred party. With the electoral college ready to give out their votes, it is anticipation in the air of which candidate will come out as President of Finland.\n\nIncumbent president Pehr Evind Svinhufvud, from the National Coalition Party, have a slim chance to win another term. With the economic crisis Finland finds itself in, many have claimed that the President's anti-socialist stance, have slowed down the potential to rebuild Finland. This is a stance the President have no plan to change.\n\nOne of the most likeliest candidates to win are the Agrarian League's Kyösti Kallio. Kallio is a candidate that can gain support both from the centrist electors, as well as from the Social Democratic ones. He is seen as a good candidate for those sick of President Svinhufvud, but unwilling to accept a President Tanner.\n\nThe last candidate with a chance of winning is the Social Democratic candidate Väinö Tanner. While some believes that it is unlikely that the non-socialist electors will vote for him, some Agrarian ones might be enough to get him into the Presidency.\n\nWith the ballot being counted, there looks like one of the candidates have won the election." #NT!
+ finland.18.a: "Kyösti Kallio!" #NT!
+ finland.18.b: "Väinö Tanner!" #NT!
+ finland.18.c: "Pehr Evind Svinhufvud!" #NT!
+  
+ finland.19.t: "Confidence in the Government" #NT!
+ finland.19.d: "With the election of the Agrarian League's Kyösti Kallio to the Presidency of Finland, the question of presenting a vote of no confidence have appeared. The new president have voiced the opinion to let the Social Democrats into government, and the only thing that have hindered this was ex-president Pehr Evind Svinhufvud's anti-socialist ideals. But some in the Agrarian League rejects cooperation with the socialist Social Democrats, and wants to rebuild the old coalition. What choice will the new president stir the country towards." #NT!
+ finland.19.a: "A Vote of No Confidence!" #NT!
+ finland.19.b: "Let's Try to Reapproach the Government!" #NT!
+  
+ finland.20.t: "The Vote of No Confidence" #NT!
+ finland.20.d: "With the change in the Presidency, there have been presented a vote of no confidence in the Cajander cabinet. With the Social Democrats, Agrarian League and most independents voting in favour, the majority of the Parliament have landed on the side of no confidence.\n\nWith the fall of the Cajander cabinet, a new alternative have been presented. The Social Democrats and the Agrarians have started discussion over the formation of a coalition government. This new 'alliance' have gotten the colloquial name 'Red Earth'. With the two parties controlling a majority of the Parliament, it is likely this government will get the confidence to rule." #NT!
+ finland.20.a: "Let's See Where Finland Goes With This 'Red Earth'" #NT!
+  
+ finland.21.t: "The Formation of the 'Red Earth' Government" #NT!
+ finland.21.d: "The new coalition government, made up of the Social Democratic Party and the Agrarian League, have gained the confidence of the Parliament, and are now going to replace the old Cajander cabinet. There is a question on what politician from which party are going to lead this government, and in effect what issues the government will lean on.\n\nThe Social Democratic candidate for Prime Minister is Karl August Fagerholm; a young Swedish-speaking social democrat. Fagerholm is seen as a good candidate since he have no connections with the civil-war era Social Democrats, and are a proponent of a neutral Finland.\n\nThe other candidate, from the Agrarian League, is Urho Kaleva Kekkonen, another young politician in Finland. He has risen fast in the Agrarian League, but is also seen as slightly problematic for his previous membership in right-wing nationalist groups.\n\nRegardless, the President and the Parliament groups hopes that one of these can prove themselves as competent leaders of government." #NT!
+ finland.21.a: "Urho Kekkonen!" #NT!
+ finland.21.b: "Karl August Fagerholm!" #NT!
+  
+ finland.22.t: "National Coalition - Agrarian Negotiations" #NT!
+ finland.22.d: "With the intentions of keeping the status quo intact, a meeting have been planned between the two leaders of the National Coalition Party and the Agrarian League, Pehr Evind Svinhufvud and Kyösti Kallio respectively. The negotiation's big issue will be regarding how much the government need to step in to preserve the properties and rights of the farmers. With rising cases of foreclousures happening, the Agrarians are trying to negotiate support for the farmers of Finland in these trying times." #NT!
+ finland.22.a: "Let Us See What Will be Agreed Upon" #NT!
+  
+ finland.23.t: "The End of the Negotiations" #NT!
+ finland.23.d: "After days of negotiations between president Kyösti Kallio and the ex-president Pehr Evind Svinhufvud, there is finally signs of the progression towards an end of the negotiations. One question is still on the lips of the people; 'What is going to happen regarding the farmers and the foreclousures?'. In this case, the following have been agreed upon." #NT!
+ finland.23.a: "The Farmers Have Our Support!" #NT!
+ finland.23.b: "We Can Not Give Extra Support" #NT!
+  
+ finland.24.t: "The Formation of a New Centre-Right Government" #NT!
+ finland.24.d: "The new coalition government, made up of the National Coalition Party, the National Progressive Party and the Agrarian League, have gained the confidence of the Parliament. It is a question in the air if prime minister Cajander is going to continue to lead, or if a candidate from the Agrarians or the National Coalition is going to be prime minister.\n\nThe Agrarian League presents Urho Kaleva Kekkonen as their candidate. While he is young and have not been an Agrarian League member for long, he is seen as someone that can unite the centrist and the right-wing, with his previous membership in right-wing nationalist organizations.\n\nThe National Coalition presents Juho Kusti Paasikivi as their candidate to become prime minister. Paasikivi are much older than Kekkonen and have been a member of the National Coalition since the civil war. Experienced with Finnish politics, many see him as a much better alternative to Cajander than what Kekkonen is.\n\nRegardless, the President and the Parliament groups hopes that one of these can prove themselves as compitent leaders of government." #NT!
+ finland.24.a: "Aimo Cajander is a Good Compromice" #NT!
+ finland.24.b: "Urho Kekkonen!" #NT!
+ finland.24.c: "Juho Kusti Paasikivi!" #NT!
+  
+ finland.25.t: "The End of the Negotiations" #NT!
+ finland.25.d: "After days of negotiations between president Pehr Evind Svinhufvud and Kyösti Kallio, there is finally signs of the progression towards an end of the negotiations. Pressed on the issue of farmer support, the Agrarian leader was unable to convince the president to go through with supporting the farmers. Officially, the position on the issue are not set, with the possibility to go both ways in the future." #NT!
+ finland.25.a: "At Least it is a More Flexible Position" #NT!
+  
+ finland.26.t: "President Kyösti Kallio Had a Stroke" #NT!
+ finland.26.d: "President Kyösti Kallio was already beginning to reach an old age when he entered the Presidency and now, it looks like his time in the seat is over. Recently, the 67 year old President experienced a stroke, awaking concerns if the President can continue his tenure. Both members from the government and the opposition have urged President Kallio to resign in order to prioritize his health, and he have also announced that he would after some weeks." #NT!
+ finland.26.a: "Hope the President is Okay" #NT!
+  
+ finland.27.t: "President Kyösti Kallio Resigns" #NT!
+ finland.27.d: "Today, President Kyösti Kallio announced before the Finnish nation that he would resign from his position as President of Finland. With the old President on his way out, new candidates have come fourth in their bid for the Presidency. Among these candidates are Risto Ryti, who is seen as the best available candidate by the outgoing president." #NT!
+ finland.27.a: "We Need to Elect a New President" #NT!
+  
+ finland.28.t: "The [GetYear] Presidential Election" #NT!
+ finland.28.d: "With the resignation of Kyösti Kallio, the question have come up about who is going to succeed him. While the election seems to end up in favor of the favorite candidate, Risto Heikki Ryti, there is a slight opposition from left-wingers, with Social Democrat Johan Helo as their candidate. Helo is seen as someone on the socialist left-wing of his party, and might be too polarizing to gain the support of enough Parliamentarians, or even from those in the Social Democrats. While it is projected that Ryti is going to win, the election might give a surprise." #NT!
+ finland.28.a: "Risto Ryti Won, As Suspected" #NT!
+ finland.28.b: "Johan Helo Gains a Surprising Win" #NT!
+  
+ finland.29.t: "President Johan Helo Dismisses the Government" #NT!
+ finland.29.d: "The new president, Johan Helo, have now recently dismissed the government, stating it is not an acceptable government in the current climate. While it is most likely because he is a socialist, this has made some unrest in the political system of Finland." #NT!
+ finland.29.a: "We Should Have Gone With Ryti Instead" #NT!
+  
+ finland.30.t: "The Formation of the Pekkala Government" #NT!
+ finland.30.d: "A Social Democratic government headed by Mauno Pekkala have now been appointed by the new president. While president Johan Helo claims this will better represent the Finnish people, it is seen by many conservatives and centrists as a socialist power grab. This might even get a little ugly." #NT!
+ finland.30.a: "A New Government For the People!" #NT!
+  
+ finland.31.t: "Mannerheim Coups the Government" #NT!
+ finland.31.d: "Elements of the Finnish army, acompanied by the White Guard, have now moved against the newly appointed government and the presidency of Johan Helo. Led by Field Marshal Carl Gustav Mannerheim, the coup is justified by what is percieved as a dangerous development for Finnish democracy. It is still not set who is going to win, as underground Red forces and left-wing elements of the army have rissen up in support of President Helo and Prime Minister Pekkala." #NT!
+ finland.31.a: "Mannerheim Secures Power" #NT!
+ finland.31.b: "The Reds Defeat Mannerheim" #NT!
+  
+ finland.32.d: "With the danger to democracy that was President Helo and Prime Minister Pekkala now deposed, it is time to redo the presidential election. While the election is open for other candidates, it is basically a secured win for Risto Heikki Ryti, who also was a preferred choice when the previous election was up. This is also a good opportunity for Field Marshal Mannerheim to hand power back to the Parliament and to the People of Finland, in the form of a government led by Agrarian politician Urho Kekkonen." #NT!
+ finland.32.a: "Finally a Win for Risto Ryti" #NT!
+  
+ finland.33.t: "The Finnish Revolution" #NT!
+ finland.33.d: "While Mannerheim and his clique of right-wing bandits have been defeated, the Red guard elements that helped to defeat him have now raised their weapons against the democratic republic. With the strength they have now, the only option our government have is to give in to their demand. Long Live the Socialist Revolution!" #NT!
+ finland.33.a: "Long Live the Socialist Revolution!" #NT!
+  
+ finland.34.t: "The [GetYear] Presidential Election" #NT!
+ finland.34.d: "New Presidential Election is to be held in Finland. While there are a bunch of candidates being considered to be elected President, the most likely result will be to see the current President re-elected. This might however not be certain, especially if Finland is facing any conflicts or crises." #NT!
+ finland.34.a: "Väinö Tanner Re-elected!" #NT!
+ finland.35.a: "Risto Ryti Re-elected!" #NT!
+ finland.36.a: "Pehr Evind Svinhufvud Re-elected!" #NT!
+ finland.34.b: "Carl Gustav Mannerheim is Elected!" #NT!
+  
+ finland.100.t: "A Return to Democracy?" #NT!
+ finland.100.d: "With the future of the Republic of Finland secured, the question has come up if it is time for Carl Gustav Mannerheim to give power back to the Parliament and restore democracy. While many support such a decision, some in Mannerheim's circle points out the danger with letting politicians rule the country. There is a danger that politics would become more important than the nation. It is up to Mannerheim if democracy shall be restored, or if Finland shall continue under his guiding hand." #NT!
+ finland.100.a: "Democracy Must be Restored!" #NT!
+ finland.100.b: "People Have Trust in the Reign of Mannerheim!" #NT!
+  
+ finland.101.t: "Finnish Democracy Restored!" #NT!
+ finland.101.d: "Carl Gustav Mannerheim have just now given up his powers, giving them back to the Parliament and the people of Finland. Hailed as Finland's Cincinnatus, he has gathered great respect for his governing and his willingness to restore the Finnish democracy. Even among right-wing nationalists and left-wing social democrats, Mannerheim have become an respective figure. With democracy restored, that means the return of Pehr Evind Svinhufvud as President and Aimo Cajander as Prime Minister." #NT!
+ finland.101.a: "Thank You, Field Marshal" #NT!
+  
+ finland.102.t: "The Lapua Government" #NT!
+ finland.102.d: "With the Lapua Movement in charge, it is time to establish a new style of governing the Finnish nation. While the movement are for the most part a unified force, there are some cracks between factions of the movement. A conservative faction led by Herman Gummerus are more interested in conserving Finnish society, law and order, while a nationalist faction led by Vilho Annala supports a more radical movement, more in line with the Valkism of Germany. It will be to see what root the movement will prioritize." #NT!
+ finland.102.a: "We Are Not a Valkist Movement!" #NT!
+ finland.102.b: "We Are a True Nationalist Movement!" #NT!
+  
+ finland.103.t: "The Establishment of the People's Delegation" #NT!
+ finland.103.d: "With the power of the Finnish Communist Party assured, it is time to formally reestablish the Finnish People's Delegation. Chaired once more by Kullervo Manner, the Delegation will act as the government body in Finland, securing the rights of the people and the workers. It will also be a front to promote Socialism in Finland." #NT!
+ finland.103.a: "For Finland! For Socialism!" #NT!
+  
+ finland.104.t: "Opposition to Manner" #NT!
+ finland.104.d: "With the reestablishment of the People's Delegation, there is a government to promote the rights of the Finnish people. But while it's chairman, Kullervo Manner is fairly supported by the core of the Communist Party, he meets opposition from the factions of the party. A motion of no confidence has been raised against Manner inside the Delegation. While Manner might hold on to confidence from the party and the Delegation, if the fringes of the party unite against him, he will easily be defeated." #NT!
+ finland.104.a: "Manner Hold On!" #NT!
+ finland.104.b: "Manner is Out!" #NT!
+  
+ finland.105.t: "The New Chair of the Delegation" #NT!
+ finland.105.d: "With Manner kicked out, there is now a power vacuum in the People's Delegation. While the Ortodox Socialist faction of the Communist Party has no strong candidates, two candidates from each fringe of the party seem to be the strongest contenders. Otto Wille Kuusinen, the leader of the Red Guard, is seen to be the natural successor to Manner as Chairman of the Delegation. But his radical views and policies might also alienate him from the more moderate wings of the party. On the other hand, Oskari Tokoi, originating from the left-wing of the Social Democrats, he is a strong candidate for an Anti-Authoritarian Socialist faction of the party. He seems more moderate and can help integrate the rest of the Social Democrats into the party. But his greatest opposition comes from the influential Red Guard." #NT!
+ finland.105.a: "Otto Wille Kuusinen" #NT!
+ finland.105.b: "Oskari Tokoi" #NT!
+  
+ finland.110.t: "The [GetYear] Parliamentary Election" #NT!
+ finland.110.d: "With democracy newly restored in Finland, it is only right to hold a new parliamentary election. While we will keep the current President out his term, a new parliament need to take its place. This way, our people will be properly represented." #NT!
+ finland.110.a: "A Strong Centrist Showings" #NT!
+ finland.110.b: "A Social Democratic Surge" #NT!
+ finland.110.c: "A Conservative Boost" #NT!
+  
+ finland.111.d: "New Parliamentary Elections are to be held in the Republic of Finland. With three years since last Parliamentary Election, it is anticipation over what the results of this year's election will land on." #NT!
+  
+ finland.112.t: "A Centrist Government?" #NT!
+ finland.112.d: "With the strong showing of the centrist parties in the recent parliamentary election, it has presented a question if we should pick a new government to deflect this. While the current government is fine, it would make some people a little grumpy if we ignored this." #NT!
+ finland.112.a: "Let's Keep the Current Government" #NT!
+ finland.112.b: "A Centrist, Agrarian Government it is!" #NT!
+ finland.112.c: "A Centrist, Liberal Government it is!" #NT!
+  
+ finland.113.t: "A Leftist Government?" #NT!
+ finland.113.d: "With the strong showing of the political left-wing in the recent parliamentary election, it has presented a question if we should pick a new government to deflect this. While the current government is fine, it would make some people a little grumpy if we ignored this." #NT!
+ finland.113.a: "Let's Keep the Current Government" #NT!
+ finland.113.b: "A Social Democratic Government it is!" #NT!
+  
+ finland.114.t: "A Conservative Government?" #NT!
+ finland.114.d: "With the strong showing of the conservative parties in the recent parliamentary election, it has presented a question if we should pick a new government to deflect this. While the current government is fine, it would make some people a little grumpy if we ignored this." #NT!
+ finland.114.a: "Let's Keep the Current Government" #NT!
+ finland.114.b: "A Conservative Government it is!" #NT!
+  
+ finland.120.t: "The Anti-Sovietist Line" #NT!
+ finland.120.d: "While there are those in Finland who want us to reapproach the Soviet Union, we have taken the choice to continue an Anti-Soviet policy. Along with the danger that is socialism, the Soviets are also a conuation of the Russian threat and oppression against the Finnish nation. This line will see the Finnish nation becoming a nation to oppose the terrors of the Soviet Union." #NT!
+ finland.120.a: "Finland Will be Strong" #NT!
+  
+ finland.121.t: "The New Approach to the Soviet Union" #NT!
+ finland.121.d: "While there are those in Finland who want us to continue with a hostile stance against the Soviet Union, we have decided to rethink our position towards them. A friendlier tone towards the Soviet Union will show that we are willing to give peace a chance, while also leaving old struggles behind. As long as the Soviet Union is able to accept us as an independent Republic, we can at least stop being foes." #NT!
+ finland.121.a: "Let's Start Building This Peace" #NT!
+  
+ finland.122.t: "The Dream of Greater Finland" #NT!
+ finland.122.d: "The dream of a Greater Finland have always been one actively pursued by Nationalist elements inside the country, but has never been taken up in the halls of government. Until today. Today, the government of Finland issued a proclamation that the nation would, in the following years, activly pursue the dream of a Greater Finland. While this have been met with some opposition from pacifists in our country, as well as from our neighbors, Nationalists have celebrated this as the start of a Greater Finnish nation state." #NT!
+ finland.122.a: "Finland Deserves Greatness!" #NT!
+  
+ finland.123.t: "Estonian Contacts" #NT!
+ finland.123.d: "The Estonian nation are mostly seen as a brother-people to the Finnish nation. Both are Baltic Finn people, linked through a shared history of foreign oppression and fight for independence. Even if there are Estonians that wants their nation independent, there are some that favours a unification between Finland and Estonia. Using our influence, we might be able to get the Estonians on board and empowering those in favour of our plan. Hopefully, we will be able to satisfy even the Estonian nationalists." #NT!
+ finland.123.a: "Brethren Should Stick Together" #NT!
+  
+ finland.124.t: "Finnish Influence in Estonia" #NT!
+ finland.124.d: "Our northern neighbor, Finland, have begun to influence the politics and society of Estonia towards Pan-Finn sentiments. While the idea of a Pan-Finn Greater Finland sounds interesing, it does gather some opposition in Estonia. Some Estonian nationalists also sees it as a way to eliminate the Estonian identity in favor of a Finnish one. They want our government to deny the Finnish a chance in influencing us." #NT!
+ finland.124.a: "Let us Not be to Hasty.." #NT!
+ finland.124.b: "Reject This Finnish Expantionism!" #NT!
+  
+ finland.125.t: "The Finno-Soviet Treaty of [GetYear]" #NT!
+ finland.125.d: "Today, delegates and diplomats from Finland and the Soviet Union meet to finally normalize relations between the two countries. While our history have shown some animosity, our hope is to carve out a new direction where Finland and the Soviet Union can cooperate and be friends, despite the differences between our countries." #NT!
+ finland.125.a: "For Peace and Growth" #NT!
+  
+ finland.126.t: "Finland Proposes a Finno-Soviet Treaty" #NT!
+ finland.126.d: "Our neighbor Finland have reached out a friendly hand to the Soviet Union. This time, they proposes for us a Finno-Soviet treaty that will help further friendship and cooperation between our two nations. While this would help further peace in the world, some of our ministers have said that Finland does it to protect themselves from Soviet aggression, that this is more of a reason than to promote peace. Can we even trust them when they are so near Leningrad?" #NT!
+ finland.126.a: "Let's Sign That Treaty!" #NT!
+ finland.126.b: "No Treaty With the Finn!" #NT!
+  
+ finland.127.t: "The Soviet Union Agrees to Our Treaty" #NT!
+ finland.127.d: "The Soviet Union have agreed to the Finno-Soviet Treaty, reassuring a friendly and cooperative nature between the two nations. This is a great step for Finland in its new direction when contfronting the Soviet Union." #NT!
+ finland.127.a: "Hurrah! Hurrah!" #NT!
+  
+ finland.128.t: "The Soviet Union Rejects Our Treaty" #NT!
+ finland.128.d: "The Soviet Union have rejected the Finno-Soviet Treaty, showing us that they are not interested in the promotion of friendship and cooperation. Hopefully, they will change their opinion in the future, but another treaty seems unlikely." #NT!
+ finland.128.a: "Well Then.." #NT!
+  
+ finland.129.t: "Finland Want to Join Our Alliance" #NT!
+ finland.129.d: "The Finnish diplomat to Germany have approached us with an offer. It is to allow Finland into our alliance, with the prospect of help against foreign aggression in return. It sounds like a good idea, but might also be one that would hamper with our relations to the Soviet Union." #NT!
+ finland.129.a: "Say That We Welcome Them" #NT!
+ finland.129.b: "We Don't Need the Finns" #NT!
+  
+ finland.130.t: "The Germans Accept us Into Their Alliance" #NT!
+ finland.130.d: "Our diplomatic mission to Berlin has bore fruits. Today, we acquired a telegram detailing the news that Finland now is an official member of the Stahlpakt, the alliance headed by the German Reich. While this demonstrates a break from neutrality, we hope this new alliance will be mostly positive for the Finnish nation." #NT!
+ finland.130.a: "What an Honour!" #NT!
+  
+ finland.131.t: "The Germans Reject us Into Their Alliance" #NT!
+ finland.131.d: "Our diplomatic mission to Berlin has returned empty-handed. Today, we received the earth-shattering news that Germany has rejected Finland's membership into their alliance, the Stahlpakt. While this is a setback, we hope that it will be a temporary one." #NT!
+ finland.131.a: "That Will Be Their Loss" #NT!
+  
+ finland.132.t: "Finland Want to Join Our Alliance" #NT!
+ finland.132.d: "The Finnish diplomat to the United Kingdom have approached us with an offer. It is to allow Finland into our alliance, with the prospect of help against foreign aggression in return. It sounds like a good idea, but might also be one that would hamper with our relations to the Soviet Union." #NT!
+ finland.132.a: "Why Should We Care About the Soviets? Hop Onboard!" #NT!
+ finland.132.b: "We Are In No Needs of the Finns" #NT!
+  
+ finland.133.t: "The British Accept us Into Their Alliance" #NT!
+ finland.133.d: "Our diplomatic mission to London has bore fruits. Today, we acquired a telegram detailing the news that Finland now is an official member of the Imperial Protection Alliance, the alliance headed by the United Kingdom. While this demonstrates a break from neutrality, we hope this new alliance will be mostly positive for the Finnish nation." #NT!
+ finland.133.a: "What an Honour!" #NT!
+  
+ finland.134.t: "The British Reject us Into Their Alliance" #NT!
+ finland.134.d: "Our diplomatic mission to London has returned empty-handed. Today, we received the earth-shattering news that the United Kingdom has rejected Finland's membership into their alliance, the Imperial Protection Alliance. While this is a setback, we hope that it will be a temporary one." #NT!
+ finland.134.a: "That Will Be Their Loss" #NT!
+  
+ finland.135.t: "Finland Want to Join Our Alliance" #NT!
+ finland.135.d: "The Finnish diplomat to France have approached us with an offer. It is to allow Finland into our alliance, with the prospect of help against foreign aggression in return. It sounds like a good idea, but might also be one that would hamper with our relations to the Soviet Union." #NT!
+ finland.135.a: "Finland Can Come In Handy" #NT!
+ finland.135.b: "We Do Not Need Snow and Trees to Contain Germany" #NT!
+  
+ finland.136.t: "The French Accept us Into Their Alliance" #NT!
+ finland.136.d: "Our diplomatic mission to Paris has bore fruits. Today, we acquired a telegram detailing the news that Finland now is an official member of the Continental Entente, the alliance headed by France. While this demonstrates a break from neutrality, we hope this new alliance will be mostly positive for the Finnish nation." #NT!
+ finland.136.a: "What an Honour!" #NT!
+  
+ finland.137.t: "The French Reject us Into Their Alliance" #NT!
+ finland.137.d: "Our diplomatic mission to Paris has returned empty-handed. Today, we received the earth-shattering news that France has rejected Finland's membership into their alliance, the Continental Entente. While this is a setback, we hope that it will be a temporary one." #NT!
+ finland.137.a: "That Will Be Their Loss" #NT!
+  
+ finland.138.t: "Finland Petition us to Hold a Referendum on Åland" #NT!
+ finland.138.d: "Finnish diplomats have contacted us, trying to petition us to hold a referendum on Åland. The Finnish delegates argues that we should give the people that decision since we took it away when we occupied Åland. In Sweden, there are mixed feelings about this. Some Swedish nationalists support it, since it can show how supportive the people of Åland is to be a part of Sweden, while others reject it, seeing it as kowtowing to Finnish pressure. It is up to us what we are going to do." #NT!
+ finland.138.a: "Referendum! We Will Win it Easily!" #NT!
+ finland.138.b: "We Can't Give Them the Chance" #NT!
+  
+ finland.139.t: "Sweden Accept Holding a Referendum" #NT!
+ finland.139.d: "Good news have arrived from our Swedish neighbors. They have allowed the referendum to hold place on the Åland islands. While this is a step in the direction of us regaining the land, there are still a lot of work left to do. While there are those on the islands supporting us, a majority on the islands are pro-Sweden. There is a chance for us to use our influence to steer the referendum in our direction, but we better use it." #NT!
+ finland.139.a: "Now, the Work Begins" #NT!
+  
+ finland.140.t: "Sweden Reject Holding a Referendum" #NT!
+ finland.140.d: "Bad news have arrived from our Swedish neighbors. They have rejected the referendum to hold place on the Åland islands, citing the fact that the people there are not unhappy of being a part of Sweden. We can see that they are afraid of losing these islands, and we will continue to stake our claim on them." #NT!
+ finland.140.a: "They Are Afraid to Lose It" #NT!
+  
+ finland.141.t: "Swedish Victory in the Referendum!" #NT!
+ finland.141.d: "Sadly for us, Sweden have won the referendum on the Åland islands. This comes as a slight embarrasment for us. While it is a big disappointment for us, we need to at least recognize this result and move on." #NT!
+ finland.141.a: "We Had Our Chance" #NT!
+  
+ finland.142.d: "As the result of the Åland referendum ticked in, we were worried that it would end in a Finnish victory. Now, with the counting finishing up, it is clear that victory is certain. With a clear Swedish victory being declared, Swedish flags waved an extra bit over our country, Åland included. Today, the celebration will last until dawn, because Åland is Swedish!" #NT!
+ finland.142.a: "Åland är Svenska!" #NT!
+  
+ finland.143.t: "Uncertain Result in the Referendum!" #NT!
+ finland.143.d: "With the referendum finishing up, it looks like the result is going to be very close. With this uncertainty, there are a real fear that the result will be so close that it can be tampered with. Even if the Swedes have assured us that they are fair, we still have our worries." #NT!
+ finland.143.a: "The Result Might be Very Close" #NT!
+  
+ finland.144.d: "With the referendum finishing up, it looks like the result is going to be very close. While we are counting every vote cast, it is so close that if we wanted to we could affect the result. That is a worry some Finns have. We should assure them that we will remain fair, regardless what the outcome will be." #NT!
+  
+ finland.145.t: "Finnish Victory in the Referendum!" #NT!
+ finland.145.d: "As the result of the Åland referendum ticked in, we were afraid that the Swedes would win this easily. Luckly, the campaign seems to have paid of, as the result shows a Finnish victory, despite the islands being inhabited by Swedish speakers. Finnish and Finno-Swede flags have waved through our country and on the Åland islands. Today, it is truly a day to celebrate!" #NT!
+ finland.145.a: "Ahvenanmaa on Ruotsalainen!" #NT!
+  
+ finland.146.d: "Sadly for us, Finland have won the referendum on the Åland islands. This comes as a slight embarrasment for us. While it is a big disappointment for us, we need to at least recognize this result and move on." #NT!
+ finland.146.a: "That's Not Good" #NT!
+  
+ finland.147.t: "The Counting Finishes Up" #NT!
+ finland.147.d: "After days counting and double-counting the votes that has been cast in the referendum, we have finally begun to see a picture emerging. Already, we are ready to forward a letter to the Finns revealing the result. And the numbers that we have from Åland reveals..." #NT!
+ finland.147.a: "A Close Swedish Victory" #NT!
+ finland.147.b: "A Close Finnish Victory" #NT!
+  
+ finland.148.d: "Sadly for us, Sweden have won the referendum on the Åland islands. This comes as a slight embarrasment for us. While it is a big disappointment for us, we need to at least recognize this result and move on. Because of how close the referendum was, many Finnish nationalists will not move on. Instead, they claim that the Swedes have cheated. While we issue are laid at peace for now, we don't know if the question will reappear in the future." #NT!
+  
+ finland.149.d: "As the result of the Åland referendum ticked in, we were afraid that the Swedes would win this easily. Luckly, the campaign seems to have paid of, as the result shows a close Finnish victory, despite the islands being inhabited by Swedish speakers. Finnish and Finno-Swede flags have waved through our country and on the Åland islands. Today, it is truly a day to celebrate!" #NT!
+  
+ finland.150.t: "The Åland Agreement" #NT!
+ finland.150.d: "" #NT!
+ finland.150.a: "Welcome Home, Ahvenanmaa" #NT!
+ finland.151.t: "[FROM.GetNameDef] Requests Entry to [ROOT.GetFactionName]" #NT!
+ finland.151.d: "[FROM.GetAdjective] diplomats have reached us asking entry to [ROOT.GetFactionName]. [FROM.GetNameDef] decided to declare war to [SOV.GetNameDef], and thus they want to join our alliance." #NT!
+ finland.151.a: "Sure, we always want more friends!" #NT!
+ finland.151.b: "No" #NT!
+ finland.152.t: "[FROM.GetNameDef] accepted our request to join the [FROM.GetFactionName]" #NT!
+ finland.152.d: "" #NT!
+ finland.152.a: "Rejoice" #NT!
+ finland.153.t: "[FROM.GetNameDef] rejected our request to join the [FROM.GetFactionName]" #NT!
+ finland.153.d: "" #NT!
+ finland.153.a: "Damn them" #NT!
+ finland.154.t: "Should we join [GER.GetFactionName]?" #NT!
+ finland.154.d: "After we declared war to [SOV.GetNameDefCap], while [GER.GetNameDefCap] did too, it's only logical that we want to join the [GER.GetFactionName], should we?" #NT!
+ finland.154.a: "Of course we should!" #NT!
+ finland.154.b: "No" #NT!
+ finland.155.t: "[FROM.GetNameDefCap] decides to transfer us our claimed states!" #NT!
+ finland.155.d: "After the [FROM.GetFactionName] won the war against [SOV.GetNameDefCap], they decided to transfer to us our claimed states in Karelia. [FIN.GetLeader] handshaked [GER.GetLeader], after the agreement had been accepted." #NT!
+ finland.155.a: "A toast to our [FROM.GetAdjective] friends!" #NT!
+  
+ ### Country Flags ### 
+ FIN_ready_take_army_focuses_flag: "§gFinland is ready to decide the future of the Finnish Army§!" #NT!
+ FIN_london_crash_flag: "§gThe London Stock Market Crash have hit Finland§!" #NT!
+ FIN_aftermath_mantsala_uprising_flag: "§gThe Mäntsälä Uprising ended in a regime change§!" #NT!
+ FIN_stable_democratic_government_flag: "§gA stable, democratic government have been formed§!" #NT!
+  
+ FIN_rural_support_flag: "§gThe government will give support to the farmers§!" #NT!
+ FIN_allow_foreclousures_flag: "§gThe government will allow foreclousures to go on§!" #NT!
+  
+ FIN_punainen_maapera_flag: "§gA Red Earth Coalition government have been formed§!" #NT!
+ FIN_porvaristo_ja_viljelijat_flag: "§gA Centre-Right Coalition government have been formed§!" #NT!
+  
+ FIN_president_svinhufvud_flag: "§gPehr Evind Svinhufvud is the President of Finland§!" #NT!
+ FIN_president_kallio_flag: "§gKyösti Kallio is the President of Finland§!" #NT!
+ FIN_president_tanner_flag: "§gVäinö Tanner is the President of Finland§!" #NT!
+ FIN_president_ryti_flag: "§gRisto Heikki Ryti is the President of Finland§!" #NT!
+ FIN_president_helo_flag: "§gJohan Helo is the President of Finland§!" #NT!
+  
+ FIN_foreign_anti_sovietism_flag: "§gForeign Anti-Sovietism is Pursued§!" #NT!
+ FIN_reapproach_soviet_union_flag: "§gSoviet Reapproachment is Pursued§!" #NT!
+  
+ FIN_pursue_greater_finland_flag: "§gThe Greater Finland Policy is Being Pursued§!" #NT!
+ FIN_claiming_land_flag: "§gFinland Are Claiming Land§!" #NT!
+  
+ ### Decisions ### 
+ FIN_foreign_policy: "The Foreign Policy of Finland" #NT!
+ FIN_foreign_policy_desc: "The Finnish nation is in quite a situation upon the world stage. Sandwished between the influences of the Soviet Union, the United Kingdom and Germany, our foreign policy might very well become one in alignment with a Great Power or in a state of neutrality. While alignment might make us open for foreign influence in domestic policies, it might also give us safety in an increasingly hostile world.\n\nAlternativly, we can try to pursue the Nationalist goal of establishing Greater Finland, freeing the Karelian Finns and establish dominion over surrounding lands, freeing the brothers of the Finnish nation from foreign oppressors.\n\nWhatever route we might take, so long Finland stays independent, our foreign policy will be a good endavour." #NT!
+  
+ FIN_foreign_anti_sovietism: "Continue the Anti-Sovietist Policy" #NT!
+ FIN_attack_soviet_union: "Attack the Soviet Union" #NT!
+  
+ FIN_reapproach_soviet_union: "Change Our Policy Towards the Soviet Union" #NT!
+ FIN_friendship_agreement_with_soviets: "Friendship Agreement With the Soviets" #NT!
+  
+ FIN_grow_german_ties: "Grow Finno-German Ties" #NT!
+ FIN_alliance_with_germany: "An Alliance With Germany" #NT!
+  
+ FIN_alliance_with_britain: "An Alliance With the British Empire" #NT!
+ FIN_alliance_with_france: "An Alliance With the Entente" #NT!
+  
+ FIN_pursue_greater_finland: "Pursue Greater Finland" #NT!
+ FIN_claim_karelia: "Reestablish Karelian Claims" #NT!
+ FIN_claim_kola: "Expand the Karelian Claims to Murmansk" #NT!
+ FIN_claim_ingria: "Proclaim Protector of the Ingrians" #NT!
+ FIN_claim_petrograd: "Achknowledge Historical Ingrian Land" #NT!
+ FIN_claim_finnmark: "Proclaim Protector of the Sámi" #NT!
+ FIN_claim_tornedalen: "Meänmaa is Our Land, With Our People" #NT!
+ FIN_claim_estonia: "Proclaim Protector of the Estonians" #NT!
+  
+ FIN_estonian_contacts: "Contact Estonian Allies" #NT!
+  
+ FIN_aland_game: "The Åland Game" #NT!
+ FIN_aland_game_desc: "The islands of Åland has once again become a center of focus, with the incoming referendum set in the area. It will be in our interest to secure that the referendum goes in our favor.\n\n§YFinland§!'s support is currently [ROOT.GetFinlandSupport] ([?FIN_aland_game_var|Y0])\n\n§YSweden§!'s support is currently [ROOT.GetSwedenSupport] ([?SWE_aland_game_var|Y0])" #NT!
+  
+ FIN_referendum_on_aland: "Petition For a Referendum on Åland" #NT!
+  
+ FIN_pro_finland_propaganda1: "Spread Pro-Finland Propaganda" #NT!
+ FIN_sabotage_swedish_propaganda1: "Sabotage the Swedish Campaign" #NT!
+  
+ FIN_aland_referendum_mission: "The [GetYear] Åland Referendum" #NT!
+  
+ ### Bio ### 
+ POLITICS_PER_EVIND_SVINHUFVUD_DESC: "Pehr Evind Svinhufvud is the third and current President of Finland. Born in 1861, Svinhufvud have a long history in the politics of the country, serving since the years of Russian rule over the country, through its independence, civil war and post-war rebuilding. Svinhufvud has a background in both the Finnish and the Young Finnish parties, being a leading member of the conservative "swallows" faction of the latter. During independence, Svinhufvud played a major role and served as Chairman of the Senate, State Regent and the First Prime Minister of the Republic during this time.\n\nSince then, Svinhufvud has been a major leader in the National Coalition Party and a strong conservative voice against socialism and the Left. One thing is certain; no Social Democrat or Communist will become a government member with Pehr Evind Svinhufvud as President.\n\n§BSocial Conservative§!" #NT!
+ POLITICS_RISTO_HEIKKI_RYTI_DESC: "Risto Heikki Ryti is the fifth and current President of Finland, becoming the prime candidate following the resignation of Kyösti Kallio. Born in 1889, Ryti started his career as a politician in economics and as a background figure in the post-war period. He is a young politician, with little active part in the independence of Finland and the civil war. After the civil war, Ryti served as a member of parliament and finance minister, before becoming President of the Republic.\n\nWhile relatively young in Finnish politics, there are hopes that Ryti will be able to use his experience in finance, economics and the foreign field in being a competent President of Finland. A National Progressive, Ryti is an economic liberal, and is opposed to both Soviet socialism and the Valkists, admiring British culture and American free enterprise.\n\n§YLiberal§!" #NT!
+ POLITICS_KYOSTI_KALLIO_DESC: "Kyösti Kallio is the fourth and current President of Finland. Born in 1873, Kallio is, similar to former President Svinhufvud, a veteran politician from before and during the independence of Finland. A prominent leader of the Agrarian League and a defender of the Republic, Kallio was among those opposed to the attempted establishment of a monarchy in Finland. During the 1920s, he has also served as Prime Minister of the Republic and is the brain behind "Lex Kallio", legalisation that allowed the state to buy land to encourage new settlements.\n\nWhile politically moderate and opposed to monarchy and abuse of Presidential power, Kallio is also an anti-communist and prohobitionist with a deep Christian faith. As an Agrarian, it is to see if his presidency will bring a better future for the Finnish farmer.\n\n§OAgrarian§!" #NT!
+ POLITICS_VAINO_TANNER_DESC: "Väinö Tanner is the fourth and current President of Finland. More surprisingly, is that he is the first socialist President in the history of the Republic. Born in 1881, Tanner is a pioneer in the cooperative movement in Finland, as well as a leading Social Democrat. During the civil war, Tanner remained neutral. After the civil war, Tanner began to lead the Social Democrats towards moderation and parliamentarianism. With his election to the Presidency, it looks like he has managed to rehabilitate his party in Finnish politics and society.\n\nEven with this moderation, Tanner has faced stiff opposition from former President Svinhufvud and other anti-communists. With the election of him into the office of Presidency, he will have to prove that he is loyal to Finland and not to the socialist revolution.\n\n§RSocial Democrat§!" #NT!
+ POLITICS_CARL_GUSTAV_MANNERHEIM_DESC: "Carl Gustaf Mannerheim is the one and only Marshal of Finland. Born in 1867, Mannerheim has seen Finland go from Russian dominion to the Republic of today. Starting his military carrier in the Imperial Russian Army in 1887, Mannerheim have been through much, including fighting on the Eastern Front of the Great War. After Finland becoming independent in 1917, Mannerheim became a leading officer in the country's young armed forces, leading the Whites to victory in the civil war. While serving as State Regent of Finland and securing the recognition of Finnish independence from Britain and the United States, he retreated from political life and held no public office.\n\nWith new threats at the door of Finland, Mannerheim has decided to return to lead the country diligently and without selfish motives. He claim this is to serve and secure the fatherland, rejecting the partisan politrcs of the Republic. This is some of the things that makes him Finland's greatest statesman.\n\n§gMannerheimerite§!" #NT!
+ POLITICS_VIHTORI_KOSOLA_DESC: "Vihtori Kosola is the leader of the right-wing Lapua Movement and the head of the Finnish state. Born in 1884, his family quickly moved to Lapua after the family farmhouse had burned down. Growing up, Kosola spend his years in farming and cattle-breeding. In the early years of the Great War, Kosola became a recruiter for the Jäger Movement, Finnish volunteers to Germany. This led to his arrest, but following the Russian Revolution, he found himself released. Kosola was during the civil war active in the White Guard and joined the Agrarian League.\n\nDuring the 1920s, Kosola became involved in a strikebreakers' organization, and was among the speakers of the first Lapua Movement meetings. Now, the Lapua Movement have finally used its might to seize power in Finland, placing Vihtori Kosola at the head of the nation.\n\n§WNationalist§!" #NT!
+ POLITICS_VILHO_ANNALA_DESC: "Vilho Annala is the leader of the right-wing Lapua Movement and the head of the Finnish state. Born in 1888, Annala was born in Lapua and came to prominence as a student at the University of Helsinki, where he edited the student newspaper Ylioppilaslehti during the closing years of the Great War. He also became an economist and went to work as a civil servant, becoming one of Finland's leading civil servants.\n\nIn 1931, Annala joined the Lapua Movement. He was one of the more radical members, favoring corporatism, making the movement more friendly to the working class and opposed the influence of industrialists. With a playing role in the Mäntsälä uprising, Annala have further increased his power. Finally, he is now also able to steer the movement towards a more radical and valkist-inspired ideology.\n\n§WNationalist§!" #NT!
+ POLITICS_KULLERVO_MANNER_DESC: "Kullervo Manner is the leader of the Communist Party and the Chairman of Finland. Born in 1880, Manner came from a family with many clerics, with his father being a priest and his maternal grandfather a pastor. After Manner graduated from high school, he began working as a journalist and founded a newspaper called Työläinen. Before Finnish independence, Manner also served as a member of parliament to the Social Democrats. During the Finnish civil war, Manner was appointed Chairman of the Finnish People's Delegration and commanded the Red Guards. After the civil war, Manner had to flee to Soviet Russia.\n\nIn Russia, Manner, along with his comrades founded the Finnish Communist Party, ready to return one day. With the revolution finally taking place, Kullervo Manner has returned from his excile to lead Finland on the road to socialism.\n\n§RSocialist§!" #NT!
+ POLITICS_OTTO_WILLE_KUUSINEN_DESC: "Otto Wille Kuusinen is the Chairman of Finland. Born in 1881, Kuusinen did attend the University of Helsinki in his early years. Here, he became an active member of the students' union, and had an interest for Fennoman conservatism and Alkioism. Afterward, Kuusinen became more radical, joined the Social Democrats, and was a leader in the socialist revolution in Finland. After the Finnish civil war, Kuusinen had to flee to Soviet Russia, where he became involved in the establishment of the Finnish Communist Party and became an assosiate of Vyacheslav Molotov.\n\nAfter 15 years of excile, the situation in Finland has now finally turned in favour of revolution. With a new socialist revolution in Finland, Kuusinen have successfully managed to use the Red Guards to take leadership in this new Finland.\n\n§RSocialist§!" #NT!
+ POLITICS_OSKARI_TOKOI_DESC: "Oskari Tokoi is the Chairman of Finland. Born in 1873, Tokoi was born into a farmer family, with his father also being a horse-trader. Growing up, Tokoi's family faced a grim economic situation, while Oskari was only enrolled a few years in a grammar school. At the age of 17, Tokoi quit the family farm to emigrate to America. In America, Tokoi worked in the coal and hard metal mines, but loss of employment would force him to travel for work before returning to Finland. In Finland Tokoi became elected a member of parliament for the Social Democrats and sided with the Reds during the Finnish Civil War.\n\nAfter the civil war, Tokoi emigrated once more, and once more ended up in America. With the revolution, Tokoi has returned to Finland, and managed to rise to the top of Finland's new political system.\n\n§RSocialist§!" #NT!
+  
+ FIN_Otto_Wille_Kuusinen: "Otto Wille Kuusinen" #NT!
+ FIN_Kullervo_Manner: "Kullervo Manner" #NT!
+ FIN_Oskari_Tokoi: "Oskari Tokoi" #NT!
+ FIN_Vaino_Tanner: "Väinö Tanner" #NT!
+ FIN_Pehr_Evind_Svinhufvud: "Pehr Evind Svinhufvud" #NT!
+ FIN_Risto_Heikki_Ryti: "Risto Heikki Ryti" #NT!
+ FIN_Carl_Gustav_Mannerheim: "Carl Gustav Mannerheim" #NT!
+ FIN_Vihtori_Kosola: "Vihtori Kosola" #NT!
+ FIN_Vilho_Annala: "Vilho Annala" #NT!
+ FIN_Vilho_Helanen: "Vilho Helanen" #NT!
+ FIN_Karl_Lennart_Oesch: "Karl Lennart Oesch" #NT!
+ FIN_Erik_Heinrichs: "Erik Heinrichs" #NT!
+ FIN_Vilho_Petter_Nenonen: "Vilho Petter Nenonen" #NT!
+ FIN_Lauri_Malmberg: "Lauri Malmberg" #NT!
+ FIN_Aarne_Sihvo: "Aarne Sihvo" #NT!
+ FIN_Aksel_Airo: "Aksel Airo" #NT!
+ FIN_Ruben_Lagus: "Ruben Lagus" #NT!
+ FIN_Hjalmar_Siilasvuo: "Hjalmar Siilasvuo" #NT!
+ FIN_Vaino_Valve: "Väinö Valve" #NT!
+ FIN_Eero_Rahola: "Eero Rahola" #NT!
+ FIN_Svante_Sundman: "Svante Sundman" #NT!
+ FIN_Eino_Iisakki_Jarvinen: "Eino Iisakki Järvinen" #NT!
+ FIN_Arvo_Tuominen: "Arvo Tuominen" #NT!
+ FIN_Tuomas_Hyrskymurto: "Tuomas Hyrskymurto" #NT!
+ FIN_Adolf_Taimi: "Adolf Taimi" #NT!
+ FIN_Jaakko_Kivi: "Jaakko Kivi" #NT!
+ FIN_Karl_August_Fagerholm: "Karl-August Fagerholm" #NT!
+ FIN_Juho_Sunila: "Juho Sunila" #NT!
+ FIN_Aimo_Cajander: "Aimo Cajander" #NT!
+ FIN_Oskari_Mantere: "Oskari Mantere" #NT!
+ FIN_Edwin_Linkomies: "Edwin Linkomies" #NT!
+ FIN_Juho_Kusti_Paasikivi: "Juho Kusti Paasikivi" #NT!
+ FIN_Paavo_Virkkunen: "Paavo Virkkunen" #NT!
+ FIN_Karl_Fredrik_Wilkama: "Karl Fredrik Wilkama" #NT!
+ FIN_Rafael_Erich: "Rafael Erich" #NT!
+ FIN_Bruno_Salmiala: "Bruno Salmiala" #NT!
+ FIN_Ville_Pessi: "Ville Pessi" #NT!
+ FIN_Yrjo_Sirola: "Yrjö Sirola" #NT!
+ FIN_Hannes_Pulkkinen: "Hannes Pulkkinen" #NT!
+ FIN_Vaino_Voionmaa: "Väinö Voionmaa" #NT!
+ FIN_Urho_Kekkonen: "Urho Kekkonen" #NT!
+ FIN_Eljas_Erkko: "Eljas Erkko" #NT!
+ FIN_Toivo_Mikael_Kivimaki: "Toivo Mikael Kivimaki" #NT!
+ FIN_Aarno_Yrjo_Koskinen: "Aarno Yrjö-Koskinen" #NT!
+ FIN_Kaarle_Nestor_Rantakari: "Kaarle Nestor Rantakari" #NT!
+ FIN_Paavo_Hynninen: "Paavo Hynninen" #NT!
+ FIN_Arne_Somersalo: "Arne Somersalo" #NT!
+ FIN_Eero_Haapalainen: "Eero Haapalainen" #NT!
+ FIN_Edvard_Gylling: "Edvard Gylling" #NT!
+ FIN_Elin_Airamo: "Elin Airamo" #NT!
+ FIN_Frans_Hiilos: "Frans Hiilos" #NT!
+ FIN_Hannes_Ryoma: "Hannes Ryömä" #NT!
+ FIN_Mauno_Pekkala: "Mauno Pekkala" #NT!
+ FIN_Vaino_Salovaara: "Väinö Salovaara" #NT!
+ FIN_Albin_Manner: "Albin Manner" #NT!
+ FIN_Eemil_Linna: "Eemil Linna" #NT!
+ FIN_Juho_Vennola: "Juho Vennola" #NT!
+ FIN_Risto_Ryti: "Risto Ryti" #NT!
+ FIN_Kyosti_Jarvinen: "Kyösti Järvinen" #NT!
+ FIN_Oskari_Lehtonen: "Oskari Lehtonen" #NT!
+ FIN_Jarl_Lundqvist: "Jarl Lundqvist" #NT!
+ FIN_Karl_Alfred_Paloheimo: "Karl Alfred Paloheimo" #NT!
+ FIN_Jussi_Muilu: "Jussi Muilu" #NT!
+ FIN_Rafael_Haarla: "Rafael Haarla" #NT!
+ FIN_Akseli_Anttila: "Akseli Anttila" #NT!
+ FIN_Eino_Rahja: "Eino Rahja" #NT!
+ FIN_Evert_Eloranta: "Evert Eloranta" #NT!
+ FIN_Toivo_Alavirta: "Toivo Alavirta" #NT!
+ FIN_Kaarlo_Heinonen: "Kaarlo Heinonen" #NT!
+ FIN_Vaino_Hakkila: "Väinö Hakkila" #NT!
+ FIN_Juho_Niukkanen: "Juho Niukkanen" #NT!
+ FIN_Urho_Castren: "Urho Castrén" #NT!
+ FIN_Hjalmar_Procope: "Hjalmar Procopé" #NT!
+ FIN_Elias_Simojoki: "Elias Simojoki" #NT!
+ FIN_Martti_Pihkala: "Martti Pihkala" #NT!
+ FIN_Hugo_Osterman: "Hugo Österman" #NT!
+ FIN_Vaino_Vuori: "Väinö Vuori" #NT!
+ FIN_Tyko_Reinikka: "Tyko Reinikka" #NT!
+ FIN_Kyosti_Kallio: "Kyösti Kallio" #NT!
+ FIN_Johan_Helo: "Johan Helo" #NT!
+ FIN_Reinhold_Svento: "Reinhold Konstantin Svento" #NT!
+ FIN_Eino_Kilpi: "Johan Eino Kilpi" #NT!
+ FIN_Herman_Gummerus: "Herman Gummerus" #NT!
+ FIN_Niilo_Wallari: "Niilo Wallari" #NT!

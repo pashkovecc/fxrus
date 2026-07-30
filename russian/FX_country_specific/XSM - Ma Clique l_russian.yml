@@ -1,0 +1,48 @@
+﻿l_russian:
+  
+ ### Country Names 
+ XSM: "Ma Clique" #NT!
+ XSM_ADJ: "Масск"
+ XSM_DEF: "the Ma Clique" #NT!
+  
+ ### Parties 
+ XSM_vanguardist_party: "RC" #NT!
+ XSM_vanguardist_party_long: "Revolutionary Committee" #NT!
+ XSM_collectivist_party: "NUF" #NT!
+ XSM_collectivist_party_long: "National Unity Front" #NT!
+ XSM_libertarian_socialist_party: "WPUP" #NT!
+ XSM_libertarian_socialist_party_long: "Workers and Peasants United Party" #NT!
+ XSM_social_democrat_party: "NDSP" #NT!
+ XSM_social_democrat_party_long: "Northwest Democratic Socialist Party" #NT!
+ XSM_social_liberal_party: "NDA" #NT!
+ XSM_social_liberal_party_long: "Northwest Democratic Alliance" #NT!
+ XSM_market_liberal_party: "NDLA" #NT!
+ XSM_market_liberal_party_long: "Northwest Democratic Autonomy League" #NT!
+ XSM_social_conservative_party: "Xining CA" #NT!
+ XSM_social_conservative_party_long: "Xining Civilian Administration" #NT!
+ XSM_authoritarian_democrat_party: "Ningxia CDA" #NT!
+ XSM_authoritarian_democrat_party_long: "Ningxia Civil Defence Administration" #NT!
+ XSM_paternal_autocrat_party: "Tianshui MA" #NT!
+ XSM_paternal_autocrat_party_long: "Tianshui Military Administration" #NT!
+ XSM_national_populist_party: "Xining MA" #NT!
+ XSM_national_populist_party_long: "Xining Military Administration" #NT!
+  
+ ### DECISIONS ### 
+ XSM_war_decisions: "War decisions" #NT!
+ XSM_invade_tibet: "Invade Tibet" #NT!
+ XSM_invade_mongolia: "Invade Great Mongolian State" #NT!
+ XSM_invade_yunnan: "Invade Yunnan Clique" #NT!
+ XSM_invade_sichuan: "Invade Sichuan Clique" #NT!
+ XSM_invade_xinjiang: "Invade Xinjiang Clique" #NT!
+ XSM_invade_shanxi: "Invade Shanxi Clique" #NT!
+ XSM_invade_kuomintang: "Invade Kuomintang Government" #NT!
+ XSM_invade_zhili: "Invade Zhili Clique" #NT!
+ XSM_invade_fengtian: "Invade Fengtian Governancy" #NT!
+ XSM_invade_guominjun: "Invade Guominjun" #NT!
+ XSM_invade_guanxi: "Invade Guanxi Clique" #NT!
+ XSM_invade_guandong: "Invade Guandong Clique" #NT!
+ XSM_invade_national_revoliutionary_army: "Invade National Revoliutionary Army" #NT!
+ XSM_chinese_unification_decisions: "Chinese Unification Decisions" #NT!
+ XSM_claim_to_be_Beijing_government: "Proclaim the new Beijing Government" #NT!
+ XSM_unite_china: "Unite China" #NT!
+ XSM_Ma_Bufang: "Ma Bufang" #NT!

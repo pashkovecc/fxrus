@@ -1,0 +1,66 @@
+﻿l_russian:
+  
+ ### Country Names 
+ VRS_vanguardist: "Russia" #NT!
+ VRS_vanguardist_ADJ: "Russian" #NT!
+ VRS_vanguardist_DEF: "the Union of Russia" #NT!
+ VRS_collectivist: "Russia" #NT!
+ VRS_collectivist_ADJ: "Russian" #NT!
+ VRS_collectivist_DEF: "the Union of Russia" #NT!
+ VRS_libertarian_socialist: "Russia" #NT!
+ VRS_libertarian_socialist_ADJ: "Russian" #NT!
+ VRS_libertarian_socialist_DEF: "the Union of Russia" #NT!
+ VRS_social_democrat: "Russia" #NT!
+ VRS_social_democrat_ADJ: "Russian" #NT!
+ VRS_social_democrat_DEF: "the Russian Free State" #NT!
+ VRS_social_liberal: "Russia" #NT!
+ VRS_social_liberal_ADJ: "Russian" #NT!
+ VRS_social_liberal_DEF: "the Russian Free State" #NT!
+ VRS_market_liberal: "Russia" #NT!
+ VRS_market_liberal_ADJ: "Russian" #NT!
+ VRS_market_liberal_DEF: "the Russian Free State" #NT!
+ VRS_social_conservative: "Russia" #NT!
+ VRS_social_conservative_ADJ: "Russian" #NT!
+ VRS_social_conservative_DEF: "the Russian Free State" #NT!
+ VRS_authoritarian_democrat: "Russia" #NT!
+ VRS_authoritarian_democrat_ADJ: "Russian" #NT!
+ VRS_authoritarian_democrat_DEF: "the Russian Free State" #NT!
+ VRS_paternal_autocrat: "Russia" #NT!
+ VRS_paternal_autocrat_ADJ: "Russian" #NT!
+ VRS_paternal_autocrat_DEF: "the Russian State" #NT!
+ VRS_national_populist: "Russia" #NT!
+ VRS_national_populist_ADJ: "Russian" #NT!
+ VRS_national_populist_DEF: "the Russian State" #NT!
+ VRS_valkist: "Russia" #NT!
+ VRS_valkist_ADJ: "Russian" #NT!
+ VRS_valkist_DEF: "the Russian State" #NT!
+  
+ VRS_vanguardist_party: "RKP" #NT!
+ VRS_vanguardist_party_long: "Rossiyskaya Kommunisticheskaya Partiya\n§gRussian Communist Party§!" #NT!
+ VRS_collectivist_party: "RKP" #NT!
+ VRS_collectivist_party_long: "Rossiyskaya Kommunisticheskaya Partiya\n§gRussian Communist Party§!" #NT!
+ VRS_libertarian_socialist_party: "RKP" #NT!
+ VRS_libertarian_socialist_party_long: "Rossiyskaya Kommunisticheskaya Partiya\n§gRussian Communist Party§!" #NT!
+ VRS_social_democrat_party: "PSR" #NT!
+ VRS_social_democrat_party_long: "Partiya Sotsialistov-Revolyutsionerov\n§gParty of Socialist Revolutionaries§!" #NT!
+ VRS_social_liberal_party: "NSP" #NT!
+ VRS_social_liberal_party_long: "Narodno-Sotsialisticheskaya Partiya\n§gPopular Socialist Party§!" #NT!
+ VRS_market_liberal_party: "Kadets" #NT!
+ VRS_market_liberal_party_long: "Konstitutsionno-Demokraticheskaya Partiya\n§gConstitutional Democratic Party§!" #NT!
+ VRS_social_conservative_party: "VNC" #NT!
+ VRS_social_conservative_party_long: "Vserossiyskiy natsional'nyy tsentr\n§gAll-Russian National Center§!" #NT!
+ VRS_authoritarian_democrat_party: "RS" #NT!
+ VRS_authoritarian_democrat_party_long: "Rossiyskiy soyuz\n§gRussian Alliance§!" #NT!
+ VRS_paternal_autocrat_party: "S17O" #NT!
+ VRS_paternal_autocrat_party_long: "Soyuz 17 Oktyabrya\n§gUnion of October 17§!" #NT!
+ VRS_national_populist_party: "NP" #NT!
+ VRS_national_populist_party_long: "Natsionalisticheskiye Progressisty\n§gNationalist Progressives§!" #NT!
+ VRS_valkist_party: "NUS" #NT!
+ VRS_valkist_party_long: "Natsional'nyy Soyuz Solidarnosti\n§gNational Solidarist Union§!" #NT!
+  
+ ### Ideas 
+ VRS_resisting_unions: "Resisting Unions" #NT!
+ VRS_war_devastation: "War Devastation" #NT!
+  
+ VRS_Viktor_Baydalakov: "Viktor Baydalakov" #NT!
+ VRS_Nikolay_Ustryalov: "Nikolay Ustryalov" #NT!

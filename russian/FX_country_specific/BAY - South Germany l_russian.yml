@@ -1,0 +1,39 @@
+﻿l_russian:
+  
+  
+  
+ ### Country Names 
+ BAY: "Южногерманская Конфедерация" #NT!
+ BAY_DEF: "Южногерманская Конфедерация" #NT!
+ BAY_ADJ: "Южногерманск" #NT!
+  
+ BAY_vanguardist_party: "KPD" #NT!
+ BAY_vanguardist_party_long: "Kommunistische Partei Deutschlands - Süddeutsche\n§gCommunist Party of Germany - South German§!" #NT!
+ BAY_collectivist_party: "KPD" #NT!
+ BAY_collectivist_party_long: "Kommunistische Partei Deutschlands - Süddeutsche\n§gCommunist Party of Germany - South German§!" #NT!
+ BAY_libertarian_socialist_party: "KPD" #NT!
+ BAY_libertarian_socialist_party_long: "Kommunistische Partei Deutschlands - Süddeutsche\n§gCommunist Party of Germany - South German§!" #NT!
+ BAY_social_democrat_party: "SPD" #NT!
+ BAY_social_democrat_party_long: "Sozialdemokratische Partei Deutschlands - Landesverband Bayern\n§gSocial Democratic Party of Germany - Bavarian State Association§!" #NT!
+ BAY_social_liberal_party: "DVP" #NT!
+ BAY_social_liberal_party_long: "Demokratische Volkspartei\n§gDemocratic People's Party§!" #NT!
+ BAY_market_liberal_party: "DVP" #NT!
+ BAY_market_liberal_party_long: "Demokratische Volkspartei\n§gDemocratic People's Party§!" #NT!
+ BAY_social_conservative_party: "BVP" #NT!
+ BAY_social_conservative_party_long: "Bayerische Volkspartei\n§gBavarian People's Party§!" #NT!
+ BAY_authoritarian_democrat_party: "BVP" #NT!
+ BAY_authoritarian_democrat_party_long: "Bayerische Volkspartei - Rechte\n§gBavarian People's Party§!" #NT!
+ BAY_paternal_autocrat_party: "DvRP" #NT!
+ BAY_paternal_autocrat_party_long: "Deutschvölkische Reichspartei\n§gGerman People's Reich Party§!" #NT!
+ BAY_national_populist_party: "DvRP" #NT!
+ BAY_national_populist_party_long: "Deutschvölkische Reichspartei\n§gGerman People's Reich Party§!" #NT!
+ BAY_valkist_party: "VDF" #NT!
+ BAY_valkist_party_long: "Valkistischer Deutscher Frontkämpferblock\n§gValkist German Fighter's Front Bloc§!" #NT!
+  
+ ### Characters 
+ BAY_Albert_Buchmann: "Albert Buchmann" #NT!
+ BAY_Christian_Mergenthaler: "Christian Mergenthaler" #NT!
+ BAY_Fritz_Schaeffer: "Fritz Schäffer" #NT!
+ BAY_Wilhelm_Hoegner: "Wilhelm Hoegner" #NT!
+ BAY_Hermann_Luppe: "Hermann Luppe" #NT!
+ BAY_Rupprecht_von_Bayern: "Rupprecht von Bayern" #NT!

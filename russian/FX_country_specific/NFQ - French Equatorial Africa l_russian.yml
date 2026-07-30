@@ -1,0 +1,87 @@
+﻿l_russian:
+  
+ ### Country Names 
+ NFQ_vanguardist: "Socialist Federation of Central Africa" #NT!
+ NFQ_vanguardist_ADJ: "Central-African" #NT!
+ NFQ_vanguardist_DEF: "the Socialist Federation of Central Africa" #NT!
+ NFQ_collectivist: "Socialist Federation of Central Africa" #NT!
+ NFQ_collectivist_ADJ: "Central-African" #NT!
+ NFQ_collectivist_DEF: "the Socialist Federation of Central AFrica" #NT!
+ NFQ_liberatarian_socialist: "S.F.O.C.A." #NT!
+ NFQ_liberatarian_socialist_ADJ: "Central-African" #NT!
+ NFQ_liberatarian_socialist_DEF: "the Socialist Federation of Central Africa" #NT!
+ NFQ_social_democrat: "Central African Federation" #NT!
+ NFQ_social_democrat_ADJ: "Central-African" #NT!
+ NFQ_social_democrat_DEF: "the Central African Federation" #NT!
+ NFQ_social_liberal: "Central African Federation" #NT!
+ NFQ_social_liberal_ADJ: "Central-African" #NT!
+ NFQ_social_liberal_DEF: "the Central African Federation" #NT!
+ NFQ_market_liberal: "Central African Federation" #NT!
+ NFQ_market_liberal_ADJ: "Central-African" #NT!
+ NFQ_market_liberal_DEF: "the Central African Federation" #NT!
+ NFQ_social_conservative: "Central African Federation" #NT!
+ NFQ_social_conservative_ADJ: "Central-African" #NT!
+ NFQ_social_conservative_DEF: "the Central African Federation" #NT!
+ NFQ_authoritarian_democrat: "Central African Federation" #NT!
+ NFQ_authoritarian_democrat_ADJ: "Central-African" #NT!
+ NFQ_authoritarian_democrat_DEF: "the Central African Federation" #NT!
+ NFQ_paternal_autocrat: "Central African Federation" #NT!
+ NFQ_paternal_autocrat_ADJ: "Central-African" #NT!
+ NFQ_paternal_autocrat_DEF: "the Central African Federation" #NT!
+ NFQ_national_populist: "Central African Federation" #NT!
+ NFQ_national_populist_ADJ: "Central-African" #NT!
+ NFQ_national_populist_DEF: "the Central African Federation" #NT!
+ NFQ_valkist: "Central African Federation" #NT!
+ NFQ_valkist_ADJ: "Central-African" #NT!
+ NFQ_valkist_DEF: "the Central African Federation" #NT!
+  
+ # Cosmetic 
+ NFQ_FRA_subject: "French Equatorial Africa" #NT!
+ NFQ_FRA_subject_ADJ: "French Equatorial-African" #NT!
+ NFQ_FRA_subject_DEF: "French Equatorial Africa" #NT!
+  
+ NFQ_ENG_subject: "British Central Africa" #NT!
+ NFQ_ENG_subject_ADJ: "British Central-African" #NT!
+ NFQ_ENG_subject_DEF: "British Central Africa" #NT!
+  
+ NFQ_GER_subject: "Deutsche Mittelafrika" #NT!
+ NFQ_GER_subject_ADJ: "German Central-African" #NT!
+ NFQ_GER_subject_DEF: "the Administration of German Central Africa" #NT!
+  
+ NFQ_ITA_subject: "Italian Central Africa" #NT!
+ NFQ_ITA_subject_ADJ: "Italian Central-African" #NT!
+ NFQ_ITA_subject_DEF: "Italian Central Africa" #NT!
+  
+ NFQ_USA_subject: "American Mandate of Equitorial Africa" #NT!
+ NFQ_USA_subject_DEF: "the American Mandate of Equitorial Africa" #NT!
+ NFQ_USA_subject_ADJ: "American-Equitorial-African" #NT!
+  
+ ### Parties 
+ NFQ_authoritarian_democrat_party: "Administration française" #NT!
+ NFQ_authoritarian_democrat_party_long: "Administration française" #NT!
+ NFQ_paternal_autocrat_party: "Administration française" #NT!
+ NFQ_paternal_autocrat_party_long: "Administration française" #NT!
+  
+ NFQ_british: "British Administration" #NT!
+ NFQ_british_long: "British Colonial Administration" #NT!
+ NFQ_deutsch: "Kolonialregierung" #NT!
+ NFQ_deutsch_long: "Deutsche Kolonialregierung\n§gGerman Colonial Regime§!" #NT!
+ NFQ_italian: "Governo coloniale" #NT!
+ NFQ_italian_long: "Il Governo coloniale italiano\n§gItalian Colonial Government§!" #NT!
+ NFQ_american: "Interim Government" #NT!
+ NFQ_american_long: "American Interim Government" #NT!
+  
+ ### Ideas 
+ NFQ_colonial_unrest: "Native Unrest" #NT!
+ NFQ_colonial_unrest_desc: "Poor living conditions, lack of infrastructure and economic stagnation has caused Native Unrest to flare within our colony leading to less people working in the fields, less people working in the few factories we've built and less people to collect rubber in the Jungles. Whilst our government is actively working to correct these issues, it's undoubtedly going to be some time until the issue is resolved." #NT!
+ NFQ_reliance_on_mercenaries: "Reliance on Mercenaries" #NT!
+ NFQ_reliance_on_mercenaries_desc: "The French Colonial Army and Volunteers are simply not enough to secure the African colonies. Our administration thus has to rely on mercenaries to fill the gaps. They mostly serve as police officers or \"peacekeepers\", not only are they expensive but reports have stated that they've committed multiple atrocities during their \"policing actions\". The situation is getting out of hand and something needs to be done about it as soon as possible!" #NT!
+ NFQ_dealing_with_sara_people: "Dealing with the Sara People" #NT!
+ NFQ_dealing_with_sara_people_desc: "The Sara People represent 1.4 million of our population currently and are the biggest ethnic group in our borders. The Sara People have been the source of many of our problems for a long, long time, they've been the source of many resistance groups in the Sahara area that has been draining our resources ever since so something needs to be done about them! We'd either take example of how the government in French West Africa dealt with their problems regarding the locals or we can transform them in terms of culture such as French-based education and training and work with the locals towards stability." #NT!
+ NFQ_Derek_Anthony_Seagrim: "Derek Anthony Seagrim" #NT!
+  
+ NFQ_Bernhard_Ruberg: "Bernhard Ruberg" #NT!
+ NFQ_Theodor_von_Hippel: "Theodor von Hippel" #NT!
+ NFQ_Adalberto_di_Savoia: "Adalberto di Savoia" #NT!
+ NFQ_Joseph_Francois_de_Roca: "Joseph-François de Roca" #NT!
+ NFQ_Paul_Aussaresses: "Paul Aussaresses" #NT!

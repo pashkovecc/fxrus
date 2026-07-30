@@ -1,0 +1,77 @@
+﻿l_russian:
+  
+ ### Country Names 
+ NEE_vanguardist: "New England" #NT!
+ NEE_vanguardist_ADJ: "New English" #NT!
+ NEE_vanguardist_DEF: "the Republic of New England" #NT!
+ NEE_collectivist: "New England" #NT!
+ NEE_collectivist_ADJ: "New English" #NT!
+ NEE_collectivist_DEF: "the Republic of New England" #NT!
+ NEE_libertarian_socialist: "New England" #NT!
+ NEE_libertarian_socialist_ADJ: "New English" #NT!
+ NEE_libertarian_socialist_DEF: "the Republic of New England" #NT!
+ NEE_social_democrat: "New England" #NT!
+ NEE_social_democrat_ADJ: "New English" #NT!
+ NEE_social_democrat_DEF: "the Republic of New England" #NT!
+ NEE_social_liberal: "New England" #NT!
+ NEE_social_liberal_ADJ: "New English" #NT!
+ NEE_social_liberal_DEF: "the Republic of New England" #NT!
+ NEE_market_liberal: "New England" #NT!
+ NEE_market_liberal_ADJ: "New English" #NT!
+ NEE_market_liberal_DEF: "the Republic of New England" #NT!
+ NEE_social_conservative: "New England" #NT!
+ NEE_social_conservative_ADJ: "New English" #NT!
+ NEE_social_conservative_DEF: "the Republic of New England" #NT!
+ NEE_authoritarian_democrat: "New England" #NT!
+ NEE_authoritarian_democrat_ADJ: "New English" #NT!
+ NEE_authoritarian_democrat_DEF: "the Republic of New England" #NT!
+ NEE_paternal_autocrat: "New England" #NT!
+ NEE_paternal_autocrat_ADJ: "New English" #NT!
+ NEE_paternal_autocrat_DEF: "the Republic of New England" #NT!
+ NEE_national_populist: "New England" #NT!
+ NEE_national_populist_ADJ: "New English" #NT!
+ NEE_national_populist_DEF: "the Republic of New England" #NT!
+ NEE_valkist: "New England" #NT!
+ NEE_valkist_ADJ: "New English" #NT!
+ NEE_valkist_DEF: "the Republic of New England" #NT!
+  
+ ### Parties 
+ NEE_vanguardist_party: "CPUSA" #NT!
+ NEE_vanguardist_party_long: "Communist Party of the United States" #NT!
+ NEE_collectivist_party: "IWW" #NT!
+ NEE_collectivist_party_long: "International Workers of the World" #NT!
+ NEE_libertarian_socialist_party: "Socialists" #NT!
+ NEE_libertarian_socialist_party_long: "Socialist Party of New England" #NT!
+ NEE_social_democrat_party: "Progressive Democrats" #NT!
+ NEE_social_democrat_party_long: "the Democratic Party" #NT!
+ NEE_social_liberal_party: "Liberal Republicans" #NT!
+ NEE_social_liberal_party_long: "Republican Party" #NT!
+ NEE_market_liberal_party: "Moderate Republicans" #NT!
+ NEE_market_liberal_party_long: "Republican Party" #NT!
+ NEE_social_conservative_party: "Conservative Democrats" #NT!
+ NEE_social_conservative_party_long: "Democratic Party" #NT!
+ NEE_authoritarian_democrat_party: "Occupation Administration" #NT!
+ NEE_authoritarian_democrat_party_long: "Occupation Administration" #NT!
+ NEE_paternal_autocrat_party: "APP" #NT!
+ NEE_paternal_autocrat_party_long: "American Purity Party" #NT!
+ NEE_national_populist_party: "APP" #NT!
+ NEE_national_populist_party_long: "American Purity Party" #NT!
+ NEE_valkist_party: "FLD" #NT!
+ NEE_valkist_party_long: "Foundation for the Lord and Democracy" #NT!
+  
+ ### Ideas 
+ NEE_bastion_of_socialism: "Bastion of Socialism" #NT!
+ NEE_supportive_unions: "Supportive Unions" #NT!
+ NEE_William_Z_Foster: "William Z. Foster" #NT!
+ NEE_Norman_Thomas: "Norman Thomas" #NT!
+ NEE_Joseph_P_Kennedy_Sr: "Joseph P. Kennedy Sr." #NT!
+ NEE_Leslie_Groves: "Leslie Groves" #NT!
+ NEE_Merritt_A_Edson: "Merritt A. Edson" #NT!
+ NEE_George_Kenney: "George Kenney" #NT!
+ NEE_Willard_G_Wyman: "Willard G. Wyman" #NT!
+ NEE_Lemuel_C_Shepherd_Jr: "Lemuel C. Shepherd Jr" #NT!
+ NEE_Allan_Rockwell_McCann: "Allan Rockwell McCann" #NT!
+ NEE_Edward_Ellsberg: "Edward Ellsberg" #NT!
+  
+  
+  

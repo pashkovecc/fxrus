@@ -1,0 +1,32 @@
+﻿l_russian:
+  
+ ### Country Names 
+ SCO: "Шотландия"
+ SCO_ADJ: "Шотландск"
+ SCO_DEF: "the Republic of Scotland" #NT!
+  
+ ### Parties 
+ SCO_vanguardist_party: "SWP" #NT!
+ SCO_vanguardist_party_long: "Scottish Workers' Party" #NT!
+ SCO_collectivist_party: "SSP" #NT!
+ SCO_collectivist_party_long: "Scottish Socialist Party" #NT!
+ SCO_libertarian_socialist_party: "SWRP" #NT!
+ SCO_libertarian_socialist_party_long: "Scottish Workers' Republican Party" #NT!
+ SCO_social_democrat_party: "SNP (Left)" #NT!
+ SCO_social_democrat_party_long: "Scottish National Party (Left)" #NT!
+ SCO_social_liberal_party: "NPS" #NT!
+ SCO_social_liberal_party_long: "National Party of Scotland" #NT!
+ SCO_market_liberal_party: "Scottish Party" #NT!
+ SCO_market_liberal_party_long: "Scottish Party" #NT!
+ SCO_social_conservative_party: "Unionist Council" #NT!
+ SCO_social_conservative_party_long: "Unionist Council" #NT!
+ SCO_authoritarian_democrat_party: "Provisional Government" #NT!
+ SCO_authoritarian_democrat_party_long: "Provisional Government" #NT!
+ SCO_paternal_autocrat_party: "SFC" #NT!
+ SCO_paternal_autocrat_party_long: "Scottish Freedom Committee" #NT!
+ SCO_national_populist_party: "Fringe Nationalists" #NT!
+ SCO_national_populist_party_long: "Fringe Nationalists" #NT!
+ SCO_valkist_party: "Fringe Nationalists" #NT!
+ SCO_valkist_party_long: "Fringe Nationalists" #NT!
+  
+ ### Characters 

@@ -1,0 +1,82 @@
+﻿l_russian:
+  
+ ###Categories### 
+ military_affairs: "Military Affairs" #NT!
+  
+ #### GENERIC DECISIONS #### 
+  
+ increase_popularity_vang: "Have [Root.GetLeader] hold a speech" #NT!
+ increase_popularity_vang_desc: "Some may criticize us for advocating a strong state... Let them criticize! A strong state is the only way to achieve Karl Marx's envisionment of Socialism; we will go as far as necessary; and we will be sure the People are aware of that." #NT!
+ increase_popularity_collie: "Popularize Marxist Literature" #NT!
+ increase_popularity_collie_desc: "The way forward is together. The Vanguardists will argue that a strong state is necessary to guide the people to true Socialism, Libertarian Socialists will argue for the opposite. Neither of these parties are correct; mutual co-dependence and ensuring Unity of the collective will be required to truly achieve Socialism." #NT!
+ increase_popularity_libsoc: "Have [Root.GetLeader] make Factory visits" #NT!
+ increase_popularity_libsoc_desc: "Putting large amounts of power in the hands of few is a one-way trip to a Dictatorship. A partially Socialist system must be applied to our nation; to steadily and moderately work towards the Marxist dream of Socialism. Making Factory visits to our workers to inform them of this will ensure our popularity and discredit the radical regimes proposed by some." #NT!
+ increase_popularity_socdem: "Expansive welfare distribution" #NT!
+ increase_popularity_socdem_desc: "Capitalism is flawed, but it is our duty to repair those flaws. Humane ethics must be applied to Capitalism in order to soften its rough outcome on the working classes. We will be the ones to take up that mantle; we will be the ones to reform, to fix our nation today so that a better one can exist tomorrow. " #NT!
+ increase_popularity_soclib: "Protect Civil Liberties" #NT!
+ increase_popularity_soclib_desc: "Democratic values must be upheld at any cost; Democracy is non-negotiable. Laws cannot restrict the civil liberties of a man; only ensure their freedom. [Root.GetNameDef] is a free and just nation! We will never allow these values to be compromised!" #NT!
+ increase_popularity_marlib: "Advocate Economic Privatisation" #NT!
+ increase_popularity_marlib_desc: "Economic chains will be tolerated no longer! Privatisation and Laissez-Faire principles must be upheld. We will ensure a free market for every citizen in [Root.GetNameDef]; the freer the market, the freer the people!" #NT!
+ increase_popularity_soccon: "Promote the Status Quo" #NT!
+ increase_popularity_soccon_desc: "Some may criticize us for our refusal to change many things, but they simply don't see that our national situation is optimal as-of current. Tradition and Stability are a few of the vital life-forces in a nation. We can never give either of these up to the radical forces of reform and revolution, and the people must know that." #NT!
+ increase_popularity_authdem: "Broadcast our Responsibility" #NT!
+ increase_popularity_authdem_desc: "'Authoritarianism applied to the Democratic system' is how some would describe us. However that is hardly a bad thing. We accept the doctrine of Social Conservatism in the sense that we believe Society is currently in an Optimal state, and we practice centralization to prioritize national stability and popularity above all else." #NT!
+ increase_popularity_pataut: "Ensure Paternal Popularity" #NT!
+ increase_popularity_pataut_desc: "A nation under a Strong ruler is the only way to ensure our Righteous struggle will be met with success. Stability must be maintained by ensuring the popularity of our government; be it by words or force." #NT!
+ increase_popularity_natpop: "Hold a Nationalist Rally" #NT!
+ increase_popularity_natpop_desc: "In order to reinforce our Party's core values and principles, we'll hold a rally which will draw out our various supporters from across the Nation. Sometimes, a simple reminder accompanied by a mob will have more impact than one-thousand reminders when alone." #NT!
+ increase_popularity_valkist: "Indoctrinate the Populace" #NT!
+ increase_popularity_valkist_desc: "The core principles of [Root.GetAdjective] Valkism must be instilled in the Population. Starting with the Youth and then moving onto the Old, we'll ensure their loyalty to [Root.GetName]." #NT!
+  
+ ##INDUSTRIAL DECISIONS## 
+ civilian_factory_commission: "Issue a Civilian Factory Commission" #NT!
+ civilian_factory_commission_desc: "Our Civilian Industry could be a good deal larger, and we're currently capable of leveraging a commission for the construction of one of these buildings." #NT!
+ arms_factory_commission: "Issue a Military Factory Commission" #NT!
+ arms_factory_commission_desc: "Our Arms Industry could certainly benefit from a bit of expansion, leveraging a commission of another Arms Factory might remedy this." #NT!
+ dockyard_commission: "Issue a Dockyard Commission" #NT!
+ dockyard_commission_desc: "An addition to our Naval Industry would certainly be valuable. Leveraging a comission for a Dockyard would not be in vain." #NT!
+  
+ ##PROPAGANDA## 
+ military_service_propaganda: "Service Propaganda" #NT!
+ military_service_propaganda_desc: "During these trying times, we must bolster our Armed Forces. An influx of recruits is necessary to accomplish this, we shall conduct large propaganda campaigns and encourage our people to enlist in the Military." #NT!
+  
+ #RESOURCES 
+ expand_oil_rigs: "Local Oil Rig Expansion" #NT!
+ expand_rubber_plants: "Local Rubber Plant Expansion" #NT!
+ expand_steel_mines: "Local Steel Mine Expansion" #NT!
+ expand_aluminium_mines: "Local Aluminium Refinery Expansion" #NT!
+ expand_tungsten_mines: "Local Tungsten Deposit Exploitation" #NT!
+ expand_chromium_mines: "Local Chromium Deposit Exploitation" #NT!
+  
+ #STABILITY 
+ cut_red_tape: "Cut out Red Tape" #NT!
+ cut_red_tape_desc: "Our nation is far too bureaucratic, to the point it's almost become restrictive in a few areas. Repealing redundant policies and eliminating excessive regulation will ensure that our Nation will function far more smoothly than before." #NT!
+  
+ generic_raise_stability: "[generic_raise_stability_text]" #NT!
+ generic_raise_stability_desc: "[generic_raise_stability_desc_text]" #NT!
+  
+ generic_raise_stability_socialist: "Improved Worker Conditions" #NT!
+ generic_raise_stability_socialist_desc: "Factory work is hard and fraught with many hazards. Improving the conditions for our factory workers will reduce output in the short term, but the long term benefits are worth it." #NT!
+  
+ generic_raise_stability_liberal: "Legislate Freedoms" #NT!
+ generic_raise_stability_liberal_desc: "Perhaps the easiest way to improve our country's stability is to give the people what they want. It will involve some uncomfortable compromises, but ideally, these are measures that are only temporary and designed to placate them until order can properly be restored." #NT!
+  
+ generic_raise_stability_conservative: "Police Crackdown" #NT!
+ generic_raise_stability_conservative_desc: "Disorder has become rampant. We must loosen the restrictions on our police forces, and give them the freedom to do their jobs in arresting the worst of the perpetrators." #NT!
+  
+ generic_raise_stability_authoritarian: "Send in the Army" #NT!
+ generic_raise_stability_authoritarian_desc: "The way to deal with disorder in our nation is to send in the army and suppress it completely. Not everyone will be happy about it, that's true, but sometimes martial law is the only alternative." #NT!
+  
+ generic_raise_support: "[generic_raise_support_text]" #NT!
+ generic_raise_support_desc: "[generic_raise_support_desc_text]" #NT!
+  
+ restructure_supply_system: "Reorganise the Railway System" #NT!
+ restructure_supply_system_desc: "By redirecting building materials and railway workers, we can quickly create a small number of make-shift supply dumps along some of our railways. This is not sustainable, however. \n\n§RThis decision can only be taken once. The bonus will disappear if you construct more than 3 additional supply hubs.§!" #NT!
+  
+ #FLAGS 
+ factory_comission_flag: "Has not already had a commission for a Factory" #NT!
+ resources_exploited_flag: "Has not already been exploited for Resources" #NT!
+  
+ NO_GENERIC_STABILITY_DECISIONS: " Generic stability decisions disabled" #NT!
+ NO_GENERIC_RESOURCE_DECISIONS: " Generic resource decisions disabled" #NT!
+ NO_GENERIC_PROPAGANDA_DECISIONS: " Generic propaganda decisions disabled" #NT!

@@ -1,0 +1,177 @@
+﻿l_russian:
+  
+ ### Country Names 
+ EGY_vanguardist: "Egyptian Republic" #NT!
+ EGY_vanguardist_ADJ: "Egyptian" #NT!
+ EGY_vanguardist_DEF: "the Republic of Egypt" #NT!
+ EGY_collectivist: "Egyptian Republic" #NT!
+ EGY_collectivist_ADJ: "Egyptian" #NT!
+ EGY_collectivist_DEF: "the Republic of Egypt" #NT!
+ EGY_liberatarian_socialist: "Egyptian Republic" #NT!
+ EGY_liberatarian_socialist_ADJ: "Egyptian" #NT!
+ EGY_liberatarian_socialist_DEF: "the Republic of Egypt" #NT!
+ EGY_social_democrat: "Sultanate of Egypt" #NT!
+ EGY_social_democrat_ADJ: "Egyptian" #NT!
+ EGY_social_democrat_DEF: "the Sultanate of Egypt" #NT!
+ EGY_social_liberal: "Sultanate of Egypt" #NT!
+ EGY_social_liberal_ADJ: "Egyptian" #NT!
+ EGY_social_liberal_DEF: "the Sultanate of Egypt" #NT!
+ EGY_market_liberal: "Sultanate of Egypt" #NT!
+ EGY_market_liberal_ADJ: "Egyptian" #NT!
+ EGY_market_liberal_DEF: "the Sultanate of Egypt" #NT!
+ EGY_social_conservative: "Sultanate of Egypt" #NT!
+ EGY_social_conservative_ADJ: "Egyptian" #NT!
+ EGY_social_conservative_DEF: "the Sultanate of Egypt" #NT!
+ EGY_authoritarian_democrat: "Sultanate of Egypt" #NT!
+ EGY_authoritarian_democrat_ADJ: "Egyptian" #NT!
+ EGY_authoritarian_democrat_DEF: "the Sultanate of Egypt" #NT!
+ EGY_paternal_autocrat: "Sultanate of Egypt" #NT!
+ EGY_paternal_autocrat_ADJ: "Egyptian" #NT!
+ EGY_paternal_autocrat_DEF: "the Sultanate of Egypt" #NT!
+ EGY_national_populist: "Egyptian State" #NT!
+ EGY_national_populist_ADJ: "Egyptian" #NT!
+ EGY_national_populist_DEF: "the Egyptian Nationalist State" #NT!
+ EGY_valkist: "Egyptian State" #NT!
+ EGY_valkist_ADJ: "Egyptian" #NT!
+ EGY_valkist_DEF: "the Egyptian Nationalist State" #NT!
+  
+ ### Cosmetic 
+ ENG_EGY_vanguardist: "Egyptian Republic" #NT!
+ ENG_EGY_vanguardist_ADJ: "Egyptian" #NT!
+ ENG_EGY_vanguardist_DEF: "Egyptian Republic" #NT!
+ ENG_EGY_collectivist: "Egyptian Republic" #NT!
+ ENG_EGY_collectivist_ADJ: "Egyptian" #NT!
+ ENG_EGY_collectivist_DEF: "Egyptian Republic" #NT!
+ ENG_EGY_libertarian_socialist: "Egyptian Republic" #NT!
+ ENG_EGY_libertarian_socialist_ADJ: "Egyptian" #NT!
+ ENG_EGY_libertarian_socialist_DEF: "Egyptian Republic" #NT!
+ ENG_EGY_social_democrat: "Sultanate of Egypt" #NT!
+ ENG_EGY_social_democrat_ADJ: "Egyptian" #NT!
+ ENG_EGY_social_democrat_DEF: " Sultanate of Egypt" #NT!
+ ENG_EGY_social_liberal: "Sultanate of Egypt" #NT!
+ ENG_EGY_social_liberal_ADJ: "Egyptian" #NT!
+ ENG_EGY_social_liberal_DEF: " Sultanate of Egypt" #NT!
+ ENG_EGY_market_liberal: "Sultanate of Egypt" #NT!
+ ENG_EGY_market_liberal_ADJ: "Egyptian" #NT!
+ ENG_EGY_market_liberal_DEF: " Sultanate of Egypt" #NT!
+ ENG_EGY_social_conservative: "Sultanate of Egypt" #NT!
+ ENG_EGY_social_conservative_ADJ: "Egyptian" #NT!
+ ENG_EGY_social_conservative_DEF: " Sultanate of Egypt" #NT!
+ ENG_EGY_authoritarian_democrat: "Sultanate of Egypt" #NT!
+ ENG_EGY_authoritarian_democrat_ADJ: "Egyptian" #NT!
+ ENG_EGY_authoritarian_democrat_DEF: " Sultanate of Egypt" #NT!
+ ENG_EGY_paternal_autocrat: "Sultanate of Egypt" #NT!
+ ENG_EGY_paternal_autocrat_ADJ: "Egyptian" #NT!
+ ENG_EGY_paternal_autocrat_DEF: " Sultanate of Egypt" #NT!
+ ENG_EGY_national_populist: "Sultanate of Egypt" #NT!
+ ENG_EGY_national_populist_ADJ: "Egyptian" #NT!
+ ENG_EGY_national_populist_DEF: " Sultanate of Egypt" #NT!
+ ENG_EGY_valkist: "Sultanate of Egypt" #NT!
+ ENG_EGY_valkist_ADJ: "Egyptian" #NT!
+ ENG_EGY_valkist_DEF: "Sultanate of Egypt" #NT!
+  
+ ### Parties 
+ EGY_vanguardist_party: "HADITU" #NT!
+ EGY_vanguardist_party_long: "Al Haraka Al Dimquratiyah LL Tahrur Al Watani\n§gDemocratic Movement for National Liberation§!\n§LHADITU or the Democratic Movement for National Liberation, is a communist group in Egypt led by College students and Intellectuals mostly based in Alexanderia, the group organize protests, riots and strikes. they publish a newspaper called the Jamaheir which against the Crown, The Democrats and the Nationalist movement, basically anything that isn't socialist.§!" #NT!
+ EGY_collectivist_party: "HIM" #NT!
+ EGY_collectivist_party_long: "Al Hizb Al Ishtiraki Al Masri\n§gEgyptian Socialist Party§!\n§LThe Socialist party is a big tent party for all the socialists in Egypt, from syndicalists to anarchists, the party was established as a result of the 1919 revolution and mostly is more marxist than socialist, the socialist are also involved in the canal national struggle.§!" #NT!
+ EGY_libertarian_socialist_party: "Young Egypt" #NT!
+ EGY_libertarian_socialist_party_long: "Hizb Misr Al Fatat\n§gYoung Egypt Party§!\n§LIn late 1931, a committee of students headed by Ahmad Husayn formed the Piastre Plan, which was a drive to raise funds for developing Egyptian industry and enable the working class, using the funds to set up a fez factory. This was after discovering that the famous Egyptian headdress was produced in a foreign country. One of the principles of the party was buying only Egyptian-made products. The party was formed on 12 October, 1933 as a nationalist party with "socialist elements" by its leader Ahmed Hussein. Its aim was the pursue a more naitonalist anti-British policy and the liberation of the working class under the banner of the Muhammad Ali Dynasty . Its name was simmar to Young Italy and the Young Turks parties. Young Egypt emerged as a student organization that existed outside of the control of the traditional Egyptian parties.§!" #NT!
+ EGY_social_democrat_party: "HAM" #NT!
+ EGY_social_democrat_party_long: "Hizb Al Ama'al Al Masri\n§gEgyptian Workers Party§!\n§LThe party was established in 1916 by aristocrats such as Prince Omar Tousson and Nabeel Abbas Halim trying to follow the Labour movement in Europe and North America, the party wants to bring welfare to the Egyptian farmers and workers, reform the land owned by aristocratic famalies and democratize the Egyptian crown.§!" #NT!
+ EGY_market_liberal_party: "Al Wafd" #NT!
+ EGY_market_liberal_party_long: "Hizb Al Wafd\n§gDelegation Party§!\n§LThe Wafd party is an Egyptian National Liberal movement that came into existence in the aftermath of World War I. Although it was not the first nationalist group in Egypt, but it has the Greater and biggest impasct on modern Egyptian Politics. the Party took shape after national leader Sa'ad Zaghlol and a couple of his comrades petitoned the British authority to go to the Paris peace confernce, the British refused which led to a revolution when they exiled the Party leaders, The Wafd was sent to Paris and Egypt was granted a constitution by Sultan Fuad.§!" #NT!
+ EGY_social_liberal_party: "HAD" #NT!
+ EGY_social_liberal_party_long: "Hizb Al Ahrar Al Dusturiyyin\n§gLiberal Constitutional Party§!\n§LThe Liberal Constitutional Party was founded in 1922 during a meeting chaired by Adli Yakan Pasha, and some time later the party launched a newspaper, the Al Siyasa (The Politics). Several Wafd-origin liberals like Muhammad Mahmoud Pasha, Muhammad Husayn Haykal and Ali Mahir Pasha joined the party. Although the Wafd Party was nationalist and conservative views, the new party supported the constitution which was approved on 19 April 1923, the secularization of the State, the United Kingdom and also the total unification of Egypt and Sudan. Muhammad Alluba, a supporter of the Palestine cause, served as the general secretary of the party in the 1930s.§!" #NT!
+ EGY_social_conservative_party: "Al Hizb Al Watani" #NT!
+ EGY_social_conservative_party_long: "Al Hizb Al Watani\n§gNational Party§!\n§LFounded as political movement in 1895, the National Party was led by Mustafa Kamil Pasha, a Francophile journalist from Alexandria. The National Party platform was composed mainly by the city bourgeoisie, monarchy's sympathizers and also by the Khedive Abbas II. The party also published a newspaper from 1900, Al Liwa, with clear anti-British views. In the same year, Abdul Hamid II nominated Mustafa Kamil as pasha for his support to the Ottoman Empire. Its anti-British positions increased after the Denshawai Incident in 1906. The National Party became officially a party on 22 October 1907, after the first Congress of National Party. During the Congress, Mustafa Kamil supported the constitutional monarchy. However, Kamil died only two months after the Congress, and the National Party was inherited by Mohammad Farid. Under Farid's leadership, the party supported the monarchy, law and order policies and statism, especially after the Prime Minister Boutros Ghali's assassination in 1910. When the World War I ended and Farid died in 1919, Mohammad Hafiz Ramadan Bey led the Watani and started a pro-Wafd policy, that became the biggest political party in Egypt.§!" #NT!
+ EGY_authoritarian_democrat_party: "Hizb Al Ittihad" #NT!
+ EGY_authoritarian_democrat_party_long: "Hizb Al Ittihad\n§gUnion Party§!\n§gThe Party was founded by Nationalists and Ulema who supported the assasination of Sir Lee Stack, it's a Conservative, Islamic Democrat, Egyptian Nationalist and Monarchist party led by Aly Maher Pasha.The Party is funded by the Crown in order to destablize the socialist movement.§!" #NT!
+ EGY_paternal_autocrat_party: "Al Usra Al 'Alawiyya" #NT!
+ EGY_paternal_autocrat_party_long: "Al Usra Al 'Alawiyya\n§gAlawiyya Dynasty§!" #NT!
+ EGY_national_populist_party: "Ikhwan" #NT!
+ EGY_national_populist_party_long: "Jamaʿat Al Ikhwan Al Muslimyeen\n§gThe Society of the Muslim Brothers§!\n§LA Pan-Islamic, Conservative, and Social organization founded by the Islamic scholar and schoolteacher Hassan Al Banna in 1928. it preaches Islam in Egypt, teach the illiterate, set up hospitals and business enterprises. It also aim to end British colonial control of Egypt. The movement's self-stated aim is the establishment of a state ruled by sharia law. its most famous slogan is "Islam is the solution". Charity is a major aspect of its work.§!" #NT!
+ EGY_valkist_party: "HKW" #NT!
+ EGY_valkist_party_long: "Hizb Kemet Al Watani\n§gKemet National Party§!\n§LFounded as an intellectual group between writers and poets most notably Ahmed Lutfi Al Sayed, Tawfiq Al Hakim and Taha Hussien to promote Egyptian nationalism and ancient Egypt. it became a political party in 1932, but it's divided into two groups a Monarchist Pan Arab led by Taha Hussien that beleives Egypt should embrace both it's Egyptian & Arab History and culture, and a Republican Pharonist movement that wants to only focus on Egyptian History and culture.§!" #NT!
+ EGY_ittihad_party: "Hizb Al Ittihad" #NT!
+ EGY_ittihad_party_long: "Hizb Al Ittihad\n§gIttihad Party§!" #NT!
+  
+ ### Events 
+ egypt.1.t: "Declare Independence?" #NT!
+ egypt.1.d: "We have the current opportunity to declare our independence as the [ENG.GetAdjective] have been in a crisis since the London Stock Market have crashed. The plans are ready, and we have the blessing from the Sultan." #NT!
+ egypt.1.a: "Long Live Egypt!" #NT!
+ egypt.2.t: "Egypt Breaks Free!" #NT!
+ egypt.2.d: "Seizing the opportunity and seeing the [IRQ.GetAdjective] have recently done, the [From.GetAdjective] have broken free from our rule. Fortunately, the Suez Canal have been currently secured by the Royal Marines and the docked Royal fleet in the ports." #NT!
+ egypt.2.a: "We'll be back." #NT!
+ egypt.3.d: "[THIS.GetNewspaperHeader]His Sultanic Highness, Sultan Fuad I, Sultan of Egypt and Sudan, Sovereign of Nubia, Kordofan and Darfur, descendant of Muhammad Ali Pasha, who ruled Al Mahrousah for the last 19 years, has passed away this afternoon in Qasr Al Quba'a and will be buried in Al Rifa'ai Mosque in Cairo, as announced by the Egyptian State Radio. \n\nPrince Farouk will return home as Sultan Farouk I, Sultan of Egypt and Sudan, Sovereign of Nubia, Kordofan and Darfur. \n\nSultan Fuad was known for his neutrality in the national cause and only cared of advancing the Egyptian economy and Egypt stance in the Arab world." #NT!
+ egypt.4.d: "[THIS.GetNewspaperHeader]Today the 29 of July in the year of 1937 AD or the 20th of Juamadi I in the year of 1356 AH, Sultan Farouk regency ends as he had offically became 18 years in the Islamic Hijri Calander and will be offically coronated as the Soverign of Al Mahrousah. \n\nHis Sultanic Highness speech was poetic and well written, Sultan Farouk said: \nThe poor are not responsible for their poverty but rather the wealthy, Give to the poor what they merit without their asking, A Sultan is a good Sultan when the poor of the land have the right to live, when the sick have the right to be healed, when the timid have the right to be tranquil and when the ignorant have the right to learn." #NT!
+ ### Tooltips 
+  
+ EGY_ITALY_LIBYA_OPINION: "\n(§Y[ITA.GetFlag][ITA.GetNameDefCap]§!)\n   Opinion of §Y[ROOT.GetFlag][ROOT.GetNameDefCap]§! §R-50§!\n(§Y[LBA.GetFlag][LBA.GetNameDef]§!)\n   Opinion of §Y[ROOT.GetFlag][ROOT.GetNameDefCap]§! §R-50§!" #NT!
+  
+ EGY_Regency_tt: "Farouk is now Sultan under regency until the 29 July 1937." #NT!
+  
+ ### Ideas 
+ EGY_feudal_lords: "Feudal Lords" #NT!
+ EGY_feudal_lords_desc: "Egypt the mother of the world, the bride of the Nile and the victim of Feudalism established by Ottoman land reforms in the late 18th century and Muhmmad Ali Pasha who distributed lands to whom is loyal to him and his Dynasty then the British who followed the same policy making the Lords even more powerful and richer with the poor becoming poorer even in our modern times those Pashas with their fancy medals and Fez hats control every sector of the economy and the military with the British for the small price of being loyal to their Majesties Governments" #NT!
+ EGY_outdated_military: "Outdated Military" #NT!
+ EGY_outdated_military_desc: "Our military is still using the Great War's equipment and uses the same techniques since the times of Ahmed Urabi, our military needs to be brought to the 20th century and become the leading Arab military to challenge the Zionists, Persians and Hashemites influences over the region and achieve Egypt's grand goals." #NT!
+ EGY_harboring_senussies: "Harboring the Senussies" #NT!
+ EGY_harboring_senussies_desc: "Idris Al Senssui and his subjects had taken Egypt as their base to liberate their Homeland, Libya, Idris is supported by the Aristocracy, the British and The Sultan with them the Nationalists and Pan Arabists who like him for trying and spending his wealth towards the liberation of Libyan Arabs." #NT!
+ EGY_agricultural_economy: "Agricultural Economy" #NT!
+ EGY_agricultural_economy_desc: "Egypt's Economy is Underdeveloped as in Egypt there are three Kings, The Egyptian Sultan, the English Monarch and Cotton, which takes most of Egypt's economy even when Egypt tried to modernize and Industrialize, the Aristocracy wasn't really convinced with it and continued pouring their wealth towards their Farms." #NT!
+ EGY_illiterate_populace: "Illiterate Populace" #NT!
+ EGY_illiterate_populace_desc: "Most of the Egyptian population, (around 80%) are illiterate mostly because of Feudalism and the focus on Cities as the people's of the plantations and Farms live in dirt poor villages next to the Estates of their Lords who don't care about the welfare or education of their farmers" #NT!
+ EGY_Regency: "The Regency" #NT!
+ EGY_Regency_desc: "Farouk reign for now is under regency of three men, his cousin Prince Muhammad Ali Tawfik, ex-Foreign Minister Aziz Ezzat Pasha and his uncle Sherif Sabri Pasha" #NT!
+  
+ ### Characters 
+ EGY_Aly_Maher: "Aly Maher" #NT!
+ EGY_Fuad_I: "Fuad I" #NT!
+ EGY_Farouk_I: "Farouk I" #NT!
+ EGY_Aleister_Crowley: "Aleister Crowley" #NT!
+ EGY_Shuhdi_Atiya: "Shudi Atiyah" #NT!
+ EGY_Salama_Moussa: "Salama Mosa" #NT!
+ EGY_Ahmed_Hussien: "Ahmed Hussien" #NT!
+ EGY_Nabeel_Abbas_Halim: "Nabeel Abbas Halim" #NT!
+ EGY_Ahmad_Mahir: "Ahmad Mahir" #NT!
+ EGY_Ibrahim_Abdel_Hady: "Ibrahim Abdel Hady" #NT!
+ EGY_Mohammed_Naguib: "Mohammed Naguib" #NT!
+ EGY_Fouad_Serageddin: "Fouad Serageddin" #NT!
+ EGY_Makram_Ebeid: "Makram Ebeid" #NT!
+ EGY_Mohamed_Mahmoud: "Mohamed Mahmoud" #NT!
+ EGY_Mostafa_El_Nahas: "Mostafa El-Nahas" #NT!
+ EGY_Ahmed_Naguib_el_Hilaly: "Ahmed Naguib el-Hilaly" #NT!
+ EGY_Hassan_al_Hudaybi: "Hassan al-Hudaybi" #NT!
+ EGY_Hussein_Serry: "Hussein Serry" #NT!
+ EGY_Hassan_al_Banna: "Hassan al-Banna" #NT!
+ EGY_Mohamed_Tawfik_Naseem: "Mohamed Tawfik Naseem" #NT!
+ EGY_Sayyid_Qutb: "Sayyid Qutb" #NT!
+ EGY_Aziz_Ezzat: "Aziz Ezzat" #NT!
+ EGY_Sherif_Sabri: "Sherif Sabri" #NT!
+ EGY_Ahmed_Rami: "Ahmed Rami" #NT!
+ EGY_Kamil_Abdul_Rahim: "Kamil Abdul Rahim" #NT!
+ EGY_Abdul_Khalek_Hassouna: "Abdul Khalek Hassouna" #NT!
+ EGY_Hassan_Sabry: "Hassan Sabry Pasha" #NT!
+ EGY_Ali_Shamsi: "Ali Shamsi" #NT!
+ EGY_Abdelfattah_Amr: "Abdelfattah Amr" #NT!
+ EGY_Ahmed_Hassanein: "Ahmed Hassanein" #NT!
+ EGY_Mohammed_Ali_Tewfik: "Mohammed Ali Tewfik" #NT!
+ EGY_Omar_Toussoun: "Omar Toussoun" #NT!
+ EGY_Saba_Habachy: "Saba Habachy" #NT!
+ EGY_Talaat_Harb: "Talaat Harb" #NT!
+ EGY_Hassan_Allam: "Hassan Allam" #NT!
+ EGY_Mohamed_Ahmed_Farghaly: "Mohamed Ahmed Farghaly" #NT!
+ EGY_Youssef_Zulficar: "Youssef Zulficar" #NT!
+ EGY_Taha_Hussein: "Taha Hussein" #NT!
+ EGY_Muhammad_Husayn_Haykal: "Muhammad Husayn Haykal" #NT!
+ EGY_Abbas_al_Aqqad: "Abbas al-Aqqad" #NT!
+ EGY_Abdel_Hamid_Badawi: "Abdel Hamid Badawi" #NT!
+ EGY_Sheikh_Mahmud_Shaltut: "Sheikh Mahmud Shaltut" #NT!
+ EGY_Hussein_Refki: "Hussein Refki" #NT!
+ EGY_Mohamed_Haidar: "Mohamed Haidar" #NT!
+ EGY_Ahmed_Abdel_Aziz: "Ahmed Abdel Aziz" #NT!
+ EGY_Suleiman_Ezzat: "Suleiman Ezzat" #NT!
+ EGY_Mahmoud_Hamza: "Mahmoud Hamza" #NT!
+ EGY_Mohammed_Sidqi: "Mohammed Sidqi" #NT!
+ EGY_Victor_Hubert_Tait: "Victor Hubert Tait" #NT!

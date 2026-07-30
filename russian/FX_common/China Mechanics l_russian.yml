@@ -1,0 +1,37 @@
+﻿l_russian:
+  
+ ### Ideas 
+ CHI_illiterate_population: "Widespread Illiteracy" #NT!
+ CHI_illiterate_population_desc: "Decades of mismanagement and societal policies have left the majority of the Chinese population illiterate. While efforts are made to combat this issue, the effects will only bore fruit in years to come." #NT!
+ CHI_illiterate_population_1: "$CHI_illiterate_population$" #NT!
+ CHI_illiterate_population_1_desc: "$CHI_illiterate_population_desc$" #NT!
+ CHI_illiterate_population_2: "$CHI_illiterate_population$" #NT!
+ CHI_illiterate_population_2_desc: "$CHI_illiterate_population_desc$" #NT!
+ CHI_backwards_economy: "Backwards Economy" #NT!
+ CHI_backwards_economy_desc: "China lags behind against imperial powers in terms of industry and economy. If we want to make China free from imperialist influence and exploit; we must step up in improving our economic situation." #NT!
+ CHI_backwards_economy_1: "$CHI_backwards_economy$" #NT!
+ CHI_backwards_economy_1_desc: "$CHI_backwards_economy_desc$" #NT!
+ CHI_backwards_economy_2: "$CHI_backwards_economy$" #NT!
+ CHI_backwards_economy_2_desc: "$CHI_backwards_economy_desc$" #NT!
+  
+ ### Other China 
+ PRC: "Republic of China" #NT!
+ PRC_ADJ: "Китайск"
+ PRC_DEF: "The Republic of China" #NT!
+  
+ CHI_is_justifying: "Is already preparing an attack" #NT!
+  
+ ### Decisions 
+ CHI_chinese_unification: "Chinese Unification" #NT!
+ CHI_invade_neighbor: "Attack [From.GetName]" #NT!
+ CHI_integrate_yunnan: "Integrate  [YUN.GetNameWithFlag]" #NT!
+ CHI_integrate_sichuan: "Integrate  [SCH.GetNameWithFlag]" #NT!
+ CHI_integrate_shanxxi: "Integrate  [SHX.GetNameWithFlag]" #NT!
+ CHI_integrate_ma: "Integrate  [XSM.GetNameWithFlag]" #NT!
+ CHI_integrate_sikiang: "Integrate  [SIK.GetNameWithFlag]" #NT!
+ CHI_integrate_nanjing: "Integrate  [KMT.GetNameWithFlag]" #NT!
+ CHI_integrate_fengtian: "Integrate  [FNG.GetNameWithFlag]" #NT!
+ CHI_integrate_zhili: "Integrate  [ZHI.GetNameWithFlag]" #NT!
+ CHI_integrate_tibet: "Integrate  [TIB.GetNameWithFlag]" #NT!
+  
+ GZC_Wang_Wenhua: "Wang Wenhua" #NT!

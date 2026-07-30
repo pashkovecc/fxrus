@@ -1,0 +1,1017 @@
+﻿l_russian:
+  
+ fxnews.1.t: "US Recognises Philippine Independence" #NT!
+ fxnews.1.d: "[This.GetNewspaperHeader]In Washington, D.C., at [GetDate], US President [USA.GetLeader] has signed the document containing the official recognition of the United States, for an independent Philippines. This has been witnessed by Filipino President [PHI.GetLeader] and a couple of higher officials, such as Vice-President Sergio Osmeña and Chief Justice Ramón Avanceña.\nBack in the Philippines, crowds have gathered in Luneta Park; to celebrate this momentous occasion. Delegations from the United States are also present, such as High Commissioner McNutt, soon to be US Ambassador to the Philippines, and Senator Harry Bartow Hawes, a co-author of the Hare-Hawes-Cutting Act. Crowds are ecstatic in witnessing the lowering of the American flag, and the raising of the Philippine flag, with some reports of tearing-up with overwhelming joy to see their country free from foreign submission." #NT!
+ fxnews.1.a: "Interesting..." #NT!
+  
+ fxnews.2.t: "Nacionalistas Wins Philippine Elections" #NT!
+ fxnews.2.d: "[This.GetNewspaperHeader]The corruption scandal of the former Economic Minister Aquino has shocked the entire [PHI.GetAdjective] nation to its core, resulting an increased popularity of the Sakdalistas and the creation of the Liberal Party that quickly gained popularity due to the influx of political refugees from the Nacionalista.\n\nAccording to analysts, President Quezon were not perceived to win the 1937 Presidential Elections, assuming the drastic change of the political landscape in the Philippines. But his luck haven't run out as he got the most votes for President, allowing himself to be reelected for the highest office in the Philippines." #NT!
+ fxnews.2.a: "Interesting..." #NT!
+  
+ fxnews.3.t: "Liberals Wins Philippine Elections" #NT!
+ fxnews.3.d: "[This.GetNewspaperHeader]The corruption scandal of the former Economic Minister Aquino has shocked the entire [PHI.GetAdjective] nation to its core, resulting an increased popularity of the Sakdalistas and the creation of the Liberal Party that quickly gained popularity due to the influx of political refugees from the Nacionalistas.\n\nThe new Liberal Party which is headed by Senator Manuel A. Roxas and Senator Elpidio Quirino have secured enough votes for them to be able to sit on the highest office in the land, effectively shifting the political landscape in the Philippines." #NT!
+ fxnews.3.a: "Interesting..." #NT!
+  
+ fxnews.4.t: "Progressistas Wins Philippine Elections" #NT!
+ fxnews.4.d: "[This.GetNewspaperHeader]The corruption scandal of the former Economic Minister Aquino has shocked the entire [PHI.GetAdjective] nation to its core, resulting an increased popularity of the Sakdalistas and the creation of the Liberal Party that quickly gained popularity due to the influx of political refugees from the Nacionalistas.\n\nA third player, however, the Progressistas, have also gained popularity in the years, bearing the fruit for the effort done by its founder, Emilio Aguinaldo as a vocal critic of the Nacionalistas, as they have secured enough votes to be able to once again, make Emilio Aguinaldo, the President of the Second Republic." #NT!
+ fxnews.4.a: "Interesting..." #NT!
+  
+ fxnews.5.t: "Sakdalistas Wins Philippine Elections" #NT!
+ fxnews.5.d: "[This.GetNewspaperHeader]The corruption scandal of the former Economic Minister Aquino has shocked the entire [PHI.GetAdjective] nation to its core, resulting an increased popularity of the Sakdalistas and the creation of the Liberal Party that quickly gained popularity due to the influx of political refugees from the Nacionalistas.\n\nIn a drastic change of event, the Sakdalistas, have come out on top on the 1937 Philippine Elections; effectively allowing its founder, Benigno Ramos, to become the next President of the Republic of the Philippines." #NT!
+ fxnews.5.a: "Interesting..." #NT!
+  
+ fxnews.6.t: "North Borneo Occupied by Filipino Troops" #NT!
+ fxnews.6.d: "[This.GetNewspaperHeader]This morning, the British Foreign Office, have issued a press statement condemning the provocative actions of the [PHI.GetAdjective] Government; as [PHI.GetAdjective] were confirmed have assaulted local garrisons in the North Borneo region, capitalizing the chaos the Indonesian uprising have caused, securing the area for [PHI.GetAdjective] rule.\n\nThe [PHI.GetName] claims they are a successor state to the Sultanate of Sulu, and thus claims to be the rightful owner of the region. As the [ENG.GetAdjective] are weaked by the Stock Market Crash, and both the Colonial and Revolutionary Governments in Indonesia are trying to slice each other's throats; the fate of the people in Sabah are in [PHI.GetAdjective] hands." #NT!
+ fxnews.6.a: "Who saw that coming..." #NT!
+ fxnews.6.b: "We'll take that back someday..." #NT!
+  
+ fxnews.7.t: "Filipino Entry to the [FRA.GetFactionName]" #NT!
+ fxnews.7.d: "[This.GetNewspaperHeader]Combined dignitaries from the Entente alliance and the Philippine Government have met in [GetMeetingLocation] to discuss the entry of the Philippines in the alliance. Both sides greeted each other with a warm welcome before discussing the agendas of the meeting.\n\nA few hours later, the [PHI.GetAdjective] and the Entente representatives have agreed on the terms of the entry and have proceed to sign the papers to officially recognize the [PHI.GetName] as a member of the Entente alliance." #NT!
+ fxnews.7.a: "Let's see how this goes" #NT!
+  
+ fxnews.8.t: "Southern Agitation" #NT!
+ fxnews.8.d: "[This.GetNewspaperHeader]An explosion rocketed Houston, Texas this morning, causing several deaths and a currently untold number of injuries. Chief suspects of the incident include Mexican nationalists, though local police have not yet ruled out a domestic political group either. Included at the scene is what officers have been identifying as the flag of the Mexican State, though additional forensics research will have to be conducted. The target of the attack is believed to be a rail and trasportation hub in the city, but exactly which is not yet known, either. What is known, however, is that the political climate in the country has taken a drastic turn for the worse, and it will certianly only go downhill from here." #NT!
+ fxnews.8.a: "We will defend our borders!" #NT!
+ fxnews.8.b: "Will the USA and Mexico ever settle their differences?" #NT!
+  
+ fxnews.9.t: "Collapse of the United States" #NT!
+ fxnews.9.d: "[This.GetNewspaperHeader]The United States of America, a nation of vast opportunity and promise, has been recently plagued by turmoil and riots; due to the ceding of different contested territories to Mexico.\n\nMaking matters worse, different discontented governors have lost faith on the Federal Government and have unified to create their own state; challenging those who are in Washington. The [USA.GetAdjective] Congress will convening soon however, deciding on what the nation will take to overcome this disaster." #NT!
+ fxnews.9.a: "Concerning..." #NT!
+  
+ fxnews.10.t: "End of American Democracy" #NT!
+ fxnews.10.d: "[This.GetNewspaperHeader]The United States of America, a bastion of democracy in the new world, has ironically fallen into a military dictatorship. Caused by the recent secessions of various regions proclaiming independence from Washington, the Congress of the United States saw no choice but to allow the US Military to take control of the apparatus of state in hopes of ending the nightmare that currently haunts the Federalist politicians.\n\nWith the new administration in power, one can only saw its reclaiming of its old territories by means of war. However, many hopes that this nightmare will be over and the life in the United States will go back to normal." #NT!
+ fxnews.10.a: "Concerning..." #NT!
+  
+ fxnews.11.t: "Huey Long Elected as US President" #NT!
+ fxnews.11.d: "[This.GetNewspaperHeader]Huey Pierce Long, the governor of Louisiana and populist thorn in the side of American politics, has officially been declared the inaugural President of the United States of America. The first Democratic President in more than three decades, he comes into office promising wealth, inheritance, and economic reforms, Long soared into the White House on the heels of one of the most tense campaigns in American history. Speaking on tension between Mexico and the United States, Long declared that he was 'up to the task; not a man who strikes first', though many political commentators have expressed their disbelief in such a statement. Regardless of the opinion of some, Long's policies clearly resonate with the many, and it's hard to say exactly where the United States will go from here..." #NT!
+ fxnews.11.a: "Interesting..." #NT!
+  
+ fxnews.12.t: "Quentin Roosevelt Elected as US President" #NT!
+ fxnews.12.d: "[This.GetNewspaperHeader]Quentin Roosevelt, the governor of New York state and son of American hero Theodore Roosevelt, has officially been declared the inaugural President of the United States America. Controversy and harsh words were exchanged concerning the form of his policies- chiefly that they followed his father's very closely. Expanding suffrage reform is his first goal; on racial segregation in the US he commented that 'he would do for the black man what his father had done for the other sex'. On relations with Mexico, Roosevelt has constantly reiterated his belief in a preemptive policy to prevent a Mexican insurrection into the United States. His Presidency seems to already laden with discontent, but regardless it remains very popular." #NT!
+ fxnews.12.a: "Interesting..." #NT!
+  
+ fxnews.13.t: "Alf Landon Elected as US President" #NT!
+ fxnews.13.d: "[This.GetNewspaperHeader]Alfred 'Alf' Landon, the governor of Kansas and popular economic figurehead, has officially been declared the inaugural President of the United States of America. Arriving in office with an extensive cabinet of economic reformers, administrotors, and titans of industry, Landon appears determined to turn around the Great Depression by promoting small businesses, scaling up a plan he implemented in Kansas that saw the state achieve the third lowest unemployment in the country. While he has promoted a conservative type of liberalism, he has promised that the pocketbook of the United States will 'not be entirely' sealed. An optimistic President, only time will tell if his policies will strike the heart of the Depression." #NT!
+ fxnews.13.a: "Interesting..." #NT!
+  
+ fxnews.14.t: "John Nance Garner Elected as US President" #NT!
+ fxnews.14.d: "[This.GetNewspaperHeader]John Nance Garner, Speaker of the House and Texan House Representative, has officially been declared the inaugural President of the United States of America. A firm believer in pre-emptive action, Garner found his place dominating conservative politics in the past decade. Although he finds himself on the affirmative side of the conservative debate concerning Theodore Roosevelt's policies, his pro-defense stance brought in many other conservatives who were eager to see a Democrat achieve the highest seat in the country. Already promising sweeping military reform, many Mexican diplomats are beginning to turn outrage in their country toward the US for assuming a threatening posture. When asked to comment on his actions, Garner simply stated that 'our intentions will only ever be as harmful as theirs'." #NT!
+ fxnews.14.a: "Interesting..." #NT!
+  
+ fxnews.15.t: "Restoration of Democracy in the United States" #NT!
+ fxnews.15.d: "[This.GetNewspaperHeader]The United States, known for its stable democracy; has been under authoritarian rule of the military due to the collapse of the union.\n\nHowever, as the Federal Government consolidated control over its old territories; the military administration have called in new elections; electing [USA.GetLeader] as its new President. The rebirth of the United States has been a suprise to many as the old order have faced numerous challenges along the way; and only time will tell if it continues to stand against threats to its survival." #NT!
+ fxnews.15.a: "Interesting..." #NT!
+  
+ fxnews.16.t: "The Assassination of Abdülmecid II" #NT!
+ fxnews.16.d: "[This.GetNewspaperHeader]On this day, the 13th of January, 1936, Sultan Abdülmecid II was very suddenly shot and killed by an unknown assailant! The local Gendarmerie were unable to react in time to save the Sultan, killing the assailant only after the fatal shot that left the Sultan dead. Despite the unpopularity of the Ottoman dynasty after the Great War, Sultan Abdülmecid II and the rest of the Ottoman Royal Family were backed by the Entente powers and kept the empire relatively stable. With the death of the Sultan, uncertainty now rules within the Ottoman Empire." #NT!
+ fxnews.16.a: "How terrifying!" #NT!
+  
+ fxnews.17.t: "Revolt in the New American Republic" #NT!
+ fxnews.17.d: "[This.GetNewspaperHeader]The growing oppression of the Ford Administration on the minorities and the working class have made the latter, seize control of the city of Chicago, declaring an open-armed rebellion against those in Detriot. There were reports of businessmen and loyalists trying to escape the city, but some that unable to leave were locked up by the new \"Revolutionary Government\". Only time will tell on what will be the result of this disaster." #NT!
+ fxnews.17.a: "America is in chaos since it collapsed." #NT!
+  
+ fxnews.18.t: "Socialists Victorious!" #NT!
+ fxnews.18.d: "[This.GetNewspaperHeader]Following the declaration of the open-armed rebellion against the Fordist Government; troops of the Socialist Revolt have marched into the last holdouts of the Fordists, finally giving the end to the armed conflict.\n\nLeaders of the old Fordist Government have not yet surfaced, but many are speculating that they have escaped to neighboring countries such as Canada and New England. As the new order rises in the Rust Belt, many are either cheering or looming on the change." #NT!
+ fxnews.18.a: "Didn't see that one coming..." #NT!
+  
+ fxnews.19.t: "Unification of Netherlands and Belgium" #NT!
+ fxnews.19.d: "[This.GetNewspaperHeader]The leader of the Dutch State, [HOL.GetLeader], a close ally of [GER.GetName] have proclaimed the unification of the Netherlands and Belgium; creating the United Kingdom of the Netherlands.\n\nThe proclaimation have been announced today; after all post-preparations for the integration of the former Belgians lands have been completely annexed by the Dutch State, effectively reverting the effects of the Treaty of London in 1839. Whether this will be the final conquest of the [HOL.GetAdjective] in expansion; can only be answered by the Prince himself." #NT!
+ fxnews.19.a: "Another batch of maps remained obsolete" #NT!
+ fxnews.19.b: "That bastard have finally done it." #NT!
+  
+ fxnews.20.t: "Dutch Exiles sides with the Entente" #NT!
+ fxnews.20.d: "[This.GetNewspaperHeader]The Dutch have attempted to main their neutrality during the Great War, until an Entente offensive have trapped German troops in Belgium; with Berlin pressuring the Dutch Government to allow German troops to flee through the Netherlands; the Entente powers punished the Dutch Kingdom in incorporating the provinces of Zeuws-Vlaanderen and Limburg into Belgium.\n\nThis has allowed the nationalist sentiment of the Dutch people skyrocketed; allowing later a coup headed by Prince Bernhard and other radical nationalist army officers to seize control and force the monarchy into exile in Suriname. Now the exiled Dutch Government, have aligned itself with the Entente; promising to cooperate with various Entente powers if the home country has been reclaimed." #NT!
+ fxnews.20.a: "Wait? They're still alive?" #NT!
+  
+ fxnews.21.t: "Germany Engulfed in Civil War" #NT!
+ fxnews.21.d.a: "[This.GetNewspaperHeader]Following Dressler’s rise to power, it appeared that Germany would once more become the preeminent European power. Recovering from the Great Depression faster than most, Germany rearmed at a dizzying rate, with many observers even predicting that Germany would overthrow the Franco-British world order that she had failed to overcome in the Great War.\n\nThese predictions however have been proven invalid by recent events. Long struggling with factional strife, the ruling Valkist Bloc has ripped itself apart, after an attempt on Dressler’s life was discovered to have been initiated by the conservatives of the bloc. Denouncing this attempt as treason by both sides, Dressler, and his enemies have mobilized their supporters as Germany is sent spiralling into civil war." #NT!
+ fxnews.21.d.b: "[This.GetNewspaperHeader]Following Dressler’s rise to power, it appeared that Germany would once more become the preeminent European power. Recovering from the Great Depression faster than most, Germany rearmed at a dizzying rate, with many observers even predicting that Germany would overthrow the Franco-British world order that she had failed to overcome in the Great War.\n\nThese predictions however have been proven invalid by recent events. Long struggling with factional strife, the death of Adam Dressler has only inflammed tensions within the Valkist Bloc. With all of the factions within the Bloc failing to secure power, firefights have been reported from all over Germany, signaling the beginning of a civil war." #NT!
+ fxnews.21.d.c: "[This.GetNewspaperHeader]Following Dressler’s rise to power, it appeared that Germany would once more become the preeminent European power. Recovering from the Great Depression faster than most, Germany rearmed at a dizzying rate, with many observers even predicting that Germany would overthrow the Franco-British world order that she had failed to overcome in the Great War.\n\nThese predictions however have been proven invalid by recent events. Long struggling with factional strife, the ruling Valkist Bloc has ripped itself apart, following an attempt on Dressler’s life that was discovered to have been initiated by the conservatives of the bloc. Rallying their supporters, reports of fighting between German soldiers have come in, signaling the beginning of a civil war." #NT!
+ fxnews.21.d.d: "[This.GetNewspaperHeader]Following Dressler’s rise to power, it appeared that Germany would once more become the preeminent European power. Recovering from the Great Depression faster than most, Germany rearmed at a dizzying rate, with many observers even predicting that Germany would overthrow the Franco-British world order that she had failed to overcome in the Great War.\n\nThese predictions however have been proven invalid by recent events. Long struggling with factional strife, the ruling Valkist Bloc has ripped itself apart, following a coup d'état in Berlin which Dressler successfully escaped. Basing himself in Munich, Dressler, as well as his enemies, have called on their loyal supporters to struggle for Germany's fate as she descends into civil conflict once again." #NT!
+ fxnews.21.d.e: "[This.GetNewspaperHeader]Following Dressler’s rise to power, it appeared that Germany would once more become the preeminent European power. Recovering from the Great Depression faster than most, Germany rearmed at a dizzying rate, with many observers even predicting that Germany would overthrow the Franco-British world order that she had failed to overcome in the Great War.\n\nThese predictions however have been proven invalid by recent events. Long struggling with factional strife, the ruling Valkist Bloc has ripped itself apart after years of intrigue and scheming between the factions. With tensions boiling over, the rival factions of the Bloc have closed ranks against one another, declaring themselves as the only legitimate government, there is little doubt that Germany has entered civil war." #NT!
+ GER_german_civil_war_resp_GER: "Deutschland, erwache - Sieg Wird Unser Sein!" #NT!
+ GER_german_civil_war_resp_TST: "Deutschland, erwache - Juda verrecke!" #NT!
+ GER_german_civil_war_resp_YGO: "Deutschland, erwache - Verteidige Treu Deutschland!" #NT!
+ GER_german_civil_war_resp_FRA: "The Boche rip themselves apart..." #NT!
+ GER_german_civil_war_resp_anglos: "Germany bleeds - and Paris rises..." #NT!
+ GER_german_civil_war_resp_soc: "Now is the time for the German workers to rise!" #NT!
+ GER_german_civil_war_resp_dem: "Proof that tyranny always fails." #NT!
+ GER_german_civil_war_resp_aut: "Germany bleeds." #NT!
+  
+  
+ fxnews.22.t: "PNL Wins Romanian Elections" #NT!
+ fxnews.22.d: "[This.GetNewspaperHeader]The National Liberal Party has won the elections. Not a single Romanian was surprised by the news when the PNL assumed power. Since their founding in 1875, the party has been a consistent frontrunner of moderate Romanian politics. The National Liberal Party represents the center-right and the establishment, therefore, it was not surprising that they claimed victory in the recent elections." #NT!
+ fxnews.22.a: "Cheers to the PNL!" #NT!
+  
+ fxnews.23.t: "PSDR Wins Romanian Elections" #NT!
+ fxnews.23.d: "[This.GetNewspaperHeader]The Romanian Social Democratic Party has won the elections. Almost all Romanians were surprised by this underdog securing victory in the recent elections. Since their founding in 1927, the PSDR has offered an alternative to the establishment Communists who support the Third International and Soviet Russia. For the first time in decades, the National Liberal Party has suffered a humiliating defeat." #NT!
+ fxnews.23.a: "Cheers to the PSDR!" #NT!
+  
+ fxnews.24.t: "PNT Wins Romanian Elections" #NT!
+ fxnews.24.d: "[This.GetNewspaperHeader]As to no one suprise, the Romanian Peasants Party have secured victory on the Romanian General Elections. As the elections are finally over; the new PNT will now form the government to guide Romania in this new age; preparing it to the challenges that will come." #NT!
+ fxnews.24.a: "Cheers to the PNT!" #NT!
+  
+ fxnews.25.t: "PNC Wins Romanian Elections" #NT!
+ fxnews.25.d: "[This.GetNewspaperHeader]The National Christian Party has won the elections. Like a phoenix from the ashes, the Iron Guard’s spiritual successor has ascended to lead Romania. Many whispers fill the streets of Bucharest, all concerning the PNC’s future decisions. How will they implement the Iron Guard’s policies now that they represent the formal embodiment of National Populism in Romania? The people of Romania shall find out soon enough." #NT!
+ fxnews.25.a: "Cheers to the PNC!" #NT!
+  
+ fxnews.26.t: "Civil War in Romania" #NT!
+ fxnews.26.d: "[This.GetNewspaperHeader]The stirring civil unrest in our nation has finally materialized. Elements of the military and ultra-nationalist paramilitary groups in association with the Iron Guard have risen up in an attempt to overthrow the government. It appears conflict is unavoidable. The Romanian Armed Forces are standing by, ready to pacify these rabble rousers." #NT!
+ fxnews.26.a: "Crush these rebels!" #NT!
+  
+ fxnews.27.t: "Civil War in Romania" #NT!
+ fxnews.27.d: "[This.GetNewspaperHeader]The stirring civil unrest in our nation has finally materialized. Elements of the military and loyalist paramilitary groups in association with the royal establishment have risen up in an attempt to overthrow the government. It appears conflict is unavoidable. Our Iron Guard is standing by, ready to pacify these rabble rousers." #NT!
+ fxnews.27.a: "Crush these rebels!" #NT!
+  
+ fxnews.28.t: "Civil War in Romania" #NT!
+ fxnews.28.d: "[This.GetNewspaperHeader]After unending power struggles and instability, the worst finally happened today with the government finally loosing control over the competing factions who now officially do not recognize orders from Bucharest anymore. The loyalty of the army and police forces are divided and the violence between the many militias came to a new height with countless shootouts already happening for weeks now. It seems that a open confrontation between the competing factions is all but inevitable by now. God save Romania." #NT!
+ fxnews.28.a: "Crush these rebels!" #NT!
+  
+ fxnews.29.t: "Michael I Crowned King of Romania" #NT!
+ fxnews.29.d: "[This.GetNewspaperHeader]Today Michael I was crowned King of Romania after a long and troubled regency under Nicholas I. Many hope that with the coronation of the new king the country will return to a more stable political situation after a long time of uncertainty. However some Insiders are already warning about a sizable opposition to the rule of the young king from within the higher echelons of society while others question the ability of such a young man to lead a nation in these troublesome times. We can only hope that King Michael I will be able to take up the mantle of leadership that was given to him for the good of Romania and its people." #NT!
+ fxnews.29.a: "Long live Michael I of Romania!" #NT!
+  
+ fxnews.30.t: "Nicholas I Crowned King of Romania" #NT!
+ fxnews.30.d: "[This.GetNewspaperHeader]After the tragic and vile assassination of Prince (or King?) Michael, The former regent and brother of Michael, Prince Nicholas was today crowned King of Romania. The return of the Prince who fled into self imposed exile was met with mixed reactions by many people and the coronation was described as a rushed affair with huge security measures by the very few invited guests. Even tho his reign starts very troubled, we should pray for a long and stable reign." #NT!
+ fxnews.30.a: "Long live Nicholas I of Romania!" #NT!
+  
+ fxnews.31.t: "Iron Guard Rises to Power" #NT!
+ fxnews.31.d: "[This.GetNewspaperHeader]Today shocking news were reveled to the Nation. After days of unrest and uncertainty the nationalist Iron Guard in a swift Coup, with the help of its paramilitary and traitorous insiders within the old administration managed to depose the former government and install a dictatorship in the mold of the groups Ideology. There last purges within the administration are coming to an end while the Iron Guard finishes the takeover. The opposition largely went into hiding and while many fear the new regime, there are also those who welcome a firm and stable government which vows to bring law and order to the nation. Time will tell what future awaits Romania under its new masters." #NT!
+ fxnews.31.a: "In times of crisis, sometimes a strong hand is needed." #NT!
+  
+ fxnews.32.t: "Fires in the Binnenhof" #NT!
+ fxnews.32.d: "[This.GetNewspaperHeader]Celebrating its 3rd year, of coming into power, the NNB or the Nieuwe Nederlandse Beweging (New Dutch Movement) have organized a grand celebration in the Binnenhoff; with attendance from significant members of the government and some high-ranking military commanders.\n\nAs the celebration goes however, a large fire erupted in the southern part of the building, rapidly spreading and finally engulfing the whole building. Prince Bernhard and Prime Minister Geelkerken are ones that confirmed to be dead, suffocated by the smoke caused by the fire. As Amsterdam was engulfed into chaos, Socialist elements have made their move and seized the apparatus of state; declaring the Dutch Worker's Union." #NT!
+ fxnews.32.a: "Chaos engulfs the Dutch State..." #NT!
+  
+ fxnews.33.t: "Prince Bernhard Assassinated!" #NT!
+ fxnews.33.d: "[This.GetNewspaperHeader]The people's prince, the de-facto leader of the NNB, Prince Bernhard was shot earlier today in Groningen when speaking to a massive crowd gathered to celebrate his recent reforms. The lone gunman, a suspected Socialist symphatizer, seems to have had as immediate motive revenge for the loss of his family during the hard socialist crackdowns but many observers are suspecting the hand of current party members of the NNB itself is in the plot, when the proposals brought by Geelkerken was not supported by the Prince." #NT!
+ fxnews.33.a: "That was quite unfortunate..." #NT!
+  
+ fxnews.34.t: "Reijnders' Putsch in the Dutch State" #NT!
+ fxnews.34.d: "[This.GetNewspaperHeader]In a shocking turn of events General Izaak Reijnders of the Dutch armed forces declared a state of emergency and launched a coup in the Hague, deposing the recently in-power Geelkerken Government. Many officers within the armed forces were suspicious about the involvement of the Geelkerken's Government on the assassination of the late Prince Bernhard, which allowed them to assume complete control. The military has set up to administer the Netherlands in the foreseeable future." #NT!
+ fxnews.34.a: "The nationalists are fighting among themselves..." #NT!
+  
+ fxnews.35.t: "Conflict in the Arabian Peninsula" #NT!
+ fxnews.35.d: "[This.GetNewspaperHeader]The Hashemite Kingdom of Arabia has been founded after the failed military campaign conducted by the Emirate of Nejd in respose to the refusal of the Hashemites to allow pilgrims from Nejd to enter Mecca.\n\nSeeing the weekness again after the London Stock Market Crash, loyalists from the House of Saud, have declared an open rebellion against the Hashemite Kingdom. Making matters worse, remnants of the House of Rashid have seized control of Ha'il and the upper part of the Kingdom, declaring a new Rashidi Emirate in the process. This has resulted in three factions vying for control over the peninsula, and whoever wins, Arabia is changed forever..." #NT!
+ fxnews.35.a: "Interesting..." #NT!
+  
+ fxnews.36.t: "Death of Vladimir Lenin" #NT!
+ fxnews.36.d: "[This.GetNewspaperHeader]The globally renowned revolutionary and architect of the Union of Soviet Socialist Republics Vladimir Lenin has passed away after a long battle with syphillis. A massive funeral ceremony was held in Red Square where crowds of upwards of millions attended to pay their respects to the man who brought the Russian Empire to its heels and brought forward the first ever state which fully adopted the ideals of communism. The ceremony was followed by speeches from Lenin's widow Nadezhda Krupskaya, Sergei Kirov, Grigoriy Zinoniev and Mikhail Kalinin. Despite holding the position of Premier since the day the Soviet Union was born, Lenin had not publically announced a successor, and with his passing, the position now remains uneasily vacant as at the same time many members of the Communist Party of the Soviet Union begin their gambits for power as labour strikes and food shortages continue to cripple Russian stability." #NT!
+ fxnews.36.a: "Lenin was a mortal, but his legacy will last forever." #NT!
+  
+ fxnews.37.t: "Palace of the Soviets Finishes Construction" #NT!
+ fxnews.37.d: "[This.GetNewspaperHeader]A new world record has been broken as after many setbacks and delays, the legendary Palace of the Soviets has been opened to the public much to the awe to the global community as it now stands as the tallest building in the world at an impressive 416 meters. Bearing the iconic statue of the late Lenin at its top, the structure has been designed to be the new hosting place of the Supreme Soviet and as a political convention center for the Communist Party of the Soviet Union. The chief architect of the project - Boris Iofan - has been awarded several medals by the premier himself, as his magnum opus now stands to the great envy to the outer world, showing off the might of Soviet engineering." #NT!
+ fxnews.37.a: "Truly an achievement for workers all around the world." #NT!
+  
+ fxnews.38.t: "Military Coup in the Soviet Union" #NT!
+ fxnews.38.d: "[This.GetNewspaperHeader]Moscow and Leningrad have been completely locked down overnight as thousands of Red Guard troops have been mobilized, enacting martial law just as the cities were expected to be overwhelmed by the masses of demonstrators protesting the massive food shortages and instability following Lenin's recent death. General Mikhail Tukhachevsky took to the podium in the Kremlin alongside Klement Voroshilov and Mikhail Frunze to announce that the Communist Party's indecisiveness and the \"imminent threat of a Trotskyite coup\" forced the Red Army to step in to bring back order. While most of the Soviet Red Army has declared their allegiance to Tukhachevsky, the same could not be said about public support for the coup as the squabbling opposition have united behind figures like Sergei Kirov and Grigoriy Zinoniev, who hope to stop the coup through popular demonstrations." #NT!
+ fxnews.38.a: "Are the Soviets at their breaking point?" #NT!
+  
+ fxnews.39.t: "The Walloon Crisis" #NT!
+ fxnews.39.d: "[This.GetNewspaperHeader]Tensions are rising in the Benelux region, as the French demands for the Wallonia region from Beligum has been met with stiff diplomatic resistance. New reports have come in stating that Britain itself has guarunteed Belgiums independence and promised them full military support if the French decide to take military action. \n\nThe worlds eyes have turned to Wallonia to see what happens next, it seems another major European war may be looming just over the horizon." #NT!
+ fxnews.39.a: "Can't they simply talk it out over tea?" #NT!
+  
+ fxnews.40.t: "Formation of the Co-Prosperity Sphere" #NT!
+ fxnews.40.d: "[This.GetNewspaperHeader]Dignitaries from the Philippines and Japan have met in Tokyo in the last few days discussing about a military and economic alliance for Asian nations. Today, they have announced the Greater East Asia Co-Prosperity Sphere; these quasi-military and economic alliance that aims to expel Western Imperialism in East Asia. As of today, all members states of this alliance include Japan and the Philippines, with membership automatically passed to their subject states.\n\nWith rising nationalist ambitions of Japan and the Philippines in Asia, the British Foreign Office and refused to comment on the matter, stating that they are working on the two countries to preserve the peace in the region; however, the French Foreign Minister have expressed their concerns over these new rising alliance." #NT!
+ fxnews.40.a: "Interesting..." #NT!
+  
+ fxnews.41.t: "The Korean Uprising" #NT!
+ fxnews.41.d: "[This.GetNewspaperHeader]The rise of Japan in recent decades massively upset the status quo in East Asia, and the annexation of Korea in 1910 to the Land of the Rising Sun was seen as indicative of a new order on the mainland. However Japanese power is not limitless, and colonisation efforts in Korea, Manchuria and Formosa have led to great resentment against their occupiers, leading in this instance to open revolt on the Korean peninsula.\nDespite extensive efforts by the Japanese to crack down on the Korean minority in Fengtian to dissuade exiles' efforts to gain foreign arms, open rebellion broke out in Korea today as Koreans seized strategic locations across the peninsula. No doubt the Imperial response will be swift, and few are holding out for a native victory." #NT!
+ fxnews.41.a: "The Azure Hills will be bathed in blood." #NT!
+  
+ fxnews.42.t: "The Indochinese Uprising" #NT!
+ fxnews.42.d: "[This.GetNewspaperHeader]The Indochinese region have been colonialized and exploited by the French since 1862. Now, Indochinese nationalists and leftists under a coalition government called the Viet Minh have risen up against the colonial regime. Ngo Din Diem, the head of the Viet Minh, declared the Independence of Indochina in Saigon. After paying homage to the resistance of Asian people, he condemned the brutal French oppression of Asian people and affirmed the Indochinese people's commitment to the unity of Asia.\nObservers agree with French media that there is outside intervention on this matter; but French officials have not stated who might be it." #NT!
+ fxnews.42.a: "Interesting..." #NT!
+  
+ fxnews.43.t: "Birth of the Malayan Confederation" #NT!
+ fxnews.43.d: "[This.GetNewspaperHeader]On this day, the World was notified of the Malayan Confederation's formation. It is a union between the territories of the Philippines, Malaya, and Indonesia. The country is divided not only by thousands of kilometers of sea but also internally by a multitude of cultures.\n\nAlthough it is yet to be seen if these difficulties will be overcome in time, the Confederation is likely to be a dominant force in Southeast Asia." #NT!
+ fxnews.43.a: "Interesting..." #NT!
+  
+ fxnews.44.t: "Army Seized Control of the Philippines" #NT!
+ fxnews.44.d: "[This.GetNewspaperHeader]The recent events in the Philippines has shocked the nation to its core, first the corruption scandal of Secretary Aquino was uncovered, then the London Stock Market has crashed plunging the nation into a political battlefield.\n\nAs the protesters gained strength and symphathy in the local population, a guard sympathetic to their cause and have assassinated the President cold-blooded in his office; resulting the army to seize control of the government." #NT!
+ fxnews.44.a: "Oh no, that's horrible!" #NT!
+  
+ fxnews.45.t: "Germany Recognises Belarusian Claims" #NT!
+ fxnews.45.d: "[This.GetNewspaperHeader]After a meeting in Königsberg by both [BLR.GetAdjective] and [GER.GetAdjective] representatives, the [GER.GetAdjective] Government have agreed to recognize the territorial claims set-out by the [BLR.GetAdjective] Government.\n\nThese territories seems to include the former territories owned by the Grand Duchy of Lithuania, a state that 13th century to 1795 when the territories were partitioned among by the Russians, Prussians and Austrians; however, the [BLR.GetAdjective] Government seeks to revive the Grand Duchy of Lithuania." #NT!
+ fxnews.45.a: "What claims?" #NT!
+  
+ fxnews.46.t: "Red Dawn in Southeast Asia" #NT!
+ fxnews.46.d: "[This.GetNewspaperHeader]Having just achieved independence from the United States, the Philippines have elected a new Socialist Government. These unexpected result of the election is the result of the widespread increase in socialist symphaty due to the violent dispersal of farmers and peasants by Filipino Scouts just outside Mendiola.\n\nThe new President, [PHI.GetLeader] have sworn to uphold the democratic values and liberties of all people, and promised that the country would not fall again the capitalist and imperialist interests." #NT!
+ fxnews.46.a: "Country after country, the\nrevolution progresses." #NT!
+  
+ fxnews.47.t: "King Edward VIII Ends Constitutionalism" #NT!
+ fxnews.47.d: "[This.GetNewspaperHeader]As civil unrest engulfed the British Isles following a disastrous several weeks of political turmoil, many believed the Empire on which the sun never set would soon find itself dissolved and confined to the dustbin of history.\n\nUnexpectingly reports have emerged that King Edward VIII has seized power with military assistance in an attempt to bring order to the country and destroy revolutionary elements determined to eradicate the old order. It remains to be seen what the full implications of this new political situation will have for the Empire." #NT!
+ fxnews.47.a: "Is this the end of Democracy in Britain?" #NT!
+  
+ fxnews.48.t: "Military Storms Houses of Parliament" #NT!
+ fxnews.48.d: "[This.GetNewspaperHeader]As civil unrest engulfed the British Isles following a disastrous several weeks of political turmoil, many believed the Empire on which the sun never set would soon find itself dissolved and confined to the dustbin of history.\n\nRumours from Britain have indicated that a charismatic officer of the British Army has stormed the Palace of Westminster with the assistance of military units in the area after having been ordered to open fire on protestors on the streets of London. Already military units around the country have pledged allegiance to the new provisional Government and order has been restored - albeit brutally - to the streets of Britain." #NT!
+ fxnews.48.a: "And will the Military ever give up this power?" #NT!
+  
+ fxnews.49.t: "Hyde Park Assassination" #NT!
+ fxnews.49.d: "[This.GetNewspaperHeader]Late this afternoon, a lone gunman produced a loaded revolver as His Majesty, King-Emperor Edward VIII, rode on horseback at Constitution Hill near Buckingham Palace. Despite the men of Scotland Yard spotting the gun, the man was able to discharge the weapon twice before he was tackled to the ground and disarmed. As the crowd scattered from the gunman, it was discovered moments later that the King was dead, suffering a gun-shot wound to the chest which is believed to have pierced his heart.\n\nKing Edward's assassination has sent shockwaves throughout the political establishment in Britain. A tentative calm has fallen across the Empire, with many believing the worst is yet to come." #NT!
+ fxnews.49.a: "We must stand with Britain to keep chaos at bay!" #NT!
+ fxnews.49.b: "Another blow to the Empire's stability..." #NT!
+  
+ fxnews.50.t: "British Imperial Conference of 1937" #NT!
+ fxnews.50a.d: "[This.GetNewspaperHeader]As the fourteenth Imperial Conference concludes, news regarding the internal discussions within the British Empire has begun to steadily trickle out to the press in the United Kingdom. Since the end of the Great War the British Empire retreated into 'Splendid Isolation', a policy previously pursued in the 19thC. Due to heightened global tensions an entire day of the conference was dedicated to resolving the issue of the British Empire's place in the world.\n\nIt seems after a tense day of negotiation, British leaders have decided that the Empire's days of isolation are over. Now Britain's stated goal is to bring 'civilisation' to the darkest corners of the planet." #NT!
+ fxnews.50b.d: "[This.GetNewspaperHeader]As the fourteenth Imperial Conference concludes, news regarding the internal discussions within the British Empire has begun to steadily trickle out to the press in the United Kingdom. Since the end of the Great War the British Empire retreated into 'Splendid Isolation', a policy previously pursued in the 19thC. Due to heightened global tensions an entire day of the conference was dedicated to resolving the issue of the British Empire's place in the world.\n\nWhile many believed that this conference may herald a new age of Imperialism, many have been shocked to discover that Britain's new objective is not expansionism, but what they call 'the defence of liberty and democracy at home and abroad'." #NT!
+ fxnews.50c.d: "[This.GetNewspaperHeader]As the fourteenth Imperial Conference concludes, news regarding the internal discussions within the British Empire has begun to steadily trickle out to the press in the United Kingdom. Since the end of the Great War the British Empire retreated into 'Splendid Isolation', a policy previously pursued in the 19thC. Due to heightened global tensions an entire day of the conference was dedicated to resolving the issue of the British Empire's place in the world.\n\nSurprising none involved, the British have decided that while the instability world-wide is a cause for concern, a British revocation of isolation would only further worsen said instability, and so for the sake of the Empire the policy of isolation will continue." #NT!
+ fxnews.50.a: "The British Lion has awoken from its slumber" #NT!
+ fxnews.50.b: "Sounds like they're using democracy as an excuse for belligerence" #NT!
+ fxnews.50.c: "It seems the Great War had a profound effect on the Empire" #NT!
+ fxnews.50.e: "Our imperial burden" #NT!
+ fxnews.50.f: "In the defense of liberty!" #NT!
+ fxnews.50.g: "We must avoid another Great War" #NT!
+  
+ fxnews.51a.t: "Successful Negotiations in India" #NT!
+ fxnews.51b.t: "Indian Rebels Surrender" #NT!
+ fxnews.51a.d: "[This.GetNewspaperHeader]Since the beginning of the rebellion in December of '35, the Indian Rebels had shown promise by taking the iniative in the fighting against British control over the sub-continent, and while Britain has since shipped larged quantities of troops to the region to crush the revolt the rebellion has continued to live on.\n\nIn an effort to bring an end to instability in India the British Government has entered into peace negotiations with rebel leaders in India, information that has leaked from these negotiations indicates that the British Government has promised significant autonomy for India in the future in what is a serious concession to the rebel side. Whether or not Britain follows through on this promise remains to be seen." #NT!
+ fxnews.51b.d: "[This.GetNewspaperHeader]Since the beginning of the rebellion in December of '35, the Indian Rebels had shown promise by taking the iniative in the fighting against British control over the sub-continent, although it would not take long for Britain to funnel significant quantities of troops and equipment to India in an attempt to crush the rebellion firmly.\n\nWith news that rebels leaders had attempted to open talks with the British Government many believed that the revolt would come to an end diplomatically, though it seems that the British Government has opted to make an example of the rebels in India and has just today announced the rebels complete and unconditional surrender to British forces." #NT!
+ fxnews.51.a: "Stability in India returns at last" #NT!
+ fxnews.51.b: "And the stock market report?" #NT!
+  
+ fxnews.52.t: "Rebirth of the Entente Cordiale" #NT!
+ fxnews.52.d: "[This.GetNewspaperHeader]Urgent reports from London have indicated that a secret meeting between the French and British Foreign Ministers has just concluded. At a press conference after the meeting, a joint statement was read indicating that the British and French Governments have agreed to revive the Entente Cordiale alliance between their two nations in an effort to counter the German advance across the European continent.\n\nTaking many by surprise - as in recent years French and British relations have been relatively poor - experts believe with the growing threat of German dominance over the continent that the British and French governments felt obligated to put aside their differences in order to deal with the greater threat." #NT!
+ fxnews.52.a: "Victory will be ours!" #NT!
+ fxnews.52.b: "Look at how they huddle together like cornered rats!" #NT!
+ fxnews.52.c: "Even together they may be unable to stand against Germany" #NT!
+  
+ fxnews.53.t: "Indian Rebellion of [GetYear]" #NT!
+ fxnews.53.d: "[This.GetNewspaperHeader]During the later weeks of 1936 widespread rioting took place in several important Indian cities following the refusal of the British administration to reform working conditions and raise pay throughout British India. These harsh conditions were imposed as early as 1924 and have since caused great resentment among the population.\n\nWhile initially dispersed, a collection of rebel leaders have succeeded in ejecting British officials from major locations throughout the country, having taken up arms with the stated purpose of forcefully expelling the British from India. While numerous, the rebels are poorly equipped and it is unknown whether their efforts will ultimately succeed." #NT!
+ fxnews.53.a: "They will pay the price of rebelling against the Empire." #NT!
+ fxnews.53.b: "More instability in the Empire." #NT!
+ fxnews.53.c: "We will force Britain out of India!" #NT!
+ fxnews.53.e: "Perhaps the Empire is not as strong as people suspect" #NT!
+  
+ fxnews.54.t: "The Second IRB Rising" #NT!
+ fxnews.54a.d: "[This.GetNewspaperHeader]Following several months of investigation by the Royal Irish Constabulary to track down the whereabouts of the Irish Republican Brotherhood leadership, a failed attempt was made to simulatenously destroy the independent IRB cells working throughout Ireland. Despite the utmost secrecy, British sources within Westminster have indicated that information was leaked to the IRB prior to the operation.\n\nIt was not until this morning that the IRB made a re-appearance in Irish affairs, seizing numerous important government buildings throughout the West of the country and in Dublin. The IRB desperately lacks equipment; unless a foreign power intervenes to assist the Rising it is unlikely that it will succeed." #NT!
+ fxnews.54b.d: "[This.GetNewspaperHeader]For centuries the Irish nation has been under British control, and for centuries the Irish people have fought against British rule. While the most recent rebellion during the Great War failed, it seems the spirit of the Irish people is not crushed easily. After the failure of the British Government to deal with the remnants of the Irish Republican Brotherhood, they have seized the opportunity that Britain's new war presents Ireland, and led another armed rebellion against the British.\n\nHaving apparently learned from previous experiences, this new rising is well organised and well manned, it's only downfall appears to be a chronic shortage of equipment. If this new rising is to succeed, Ireland will no doubt require foreign support." #NT!
+ fxnews.54.a: "They will be crushed!" #NT!
+ fxnews.54.b: "We will drive the British out of Ireland!" #NT!
+ fxnews.54.c: "Proof that the Irish spirit can never be conquered." #NT!
+  
+ fxnews.55.t: "The British are Driven from India!" #NT!
+ fxnews.55.d: "[This.GetNewspaperHeader]After several months of fighting the Indian rebels have recently won a string of victories over British forces in India, successfully ejecting them from the Indian mainland. Once the former crown jewel of the Empire, India is now free and independent, although what the future of India will be is anyone's guess.\n\nWhile India was united against their common enemy, it seems that without a unifying force the sub-continent may soon find itself fractured and divided once more.\n\nThe British Government has vowed to restore order to India although with little territory nearby still under their control it is unknown whether they will ever successfully threaten India again." #NT!
+ fxnews.55.a: "We will return!" #NT!
+ fxnews.55.b: "A disastrous day for the Empire." #NT!
+ fxnews.55.c: "Victory is ours!" #NT!
+ fxnews.55.e: "This will significantly weaken the Empire" #NT!
+  
+ fxnews.56.t: "British Empire Games of 1938" #NT!
+ fxnews.56.a: "An intense competition!" #NT!
+ fxnews.56.d: "[This.GetNewspaperHeader]The British Empire Games first began in 1930 as a way of bringing the Empire together for some friendly competition. Held every four years, this years Games were held in the Sydney Cricket Ground in Sydney, Australia, timed to celebrate the 150-year anniversary since the first British settlement in Australia.\n\nUnsurprisingly the winner of this years Games was Australia herself, managing to win a total of 66 medals, of which 25 were gold. Australia performed particularly well in the fields of wrestling and rowing with a plethora of exceptionally skilled atheletes. Notably, Australian athlete Decima Norman won five gold medals in track and field." #NT!
+  
+ fxnews.57.t: "The Fourth Boer War" #NT!
+ fxnews.57.d: "[This.GetNewspaperHeader]With the closing of the Imperial Conference news came to the world that the British Empire would attempt to pursue an 'Imperial Federation', where the Dominion Governments would be granted equal representation in an Imperial Parliament within the Empire. While some were happy or interested in this possibility, there were none more so outraged than the Boers of South Africa.\n\nToday the Fourth Boer War has begun, with rebels seizing army depots across South Africa and capturing a large amount of land from Union of South Africa. This revolt is large and dangerous, and it remains to be seen whether or not the Empire can restore order to this region." #NT!
+ fxnews.57.a: "We will restore order to South Africa!" #NT!
+ fxnews.57.b: "Will the Boers ever give up?" #NT!
+ fxnews.57.c: "Freedom will be ours!" #NT!
+  
+ fxnews.58.t: "India leaves the Empire" #NT!
+ fxnews.58.d: "[This.GetNewspaperHeader]Since the establishment of British rule in India there have been several rebellions against the Empire in an attempt to win the freedom of the Indian people, the most recent of which occurred only a few years ago. While each rebellion was put down over time, it seems that today Indian nationalists have succeeded where those that came before them failed.\n\nWhile the Empire deals with the Fourth Boer War, many Indian rebels seized important locations throughout the sub-continent and have successfully ejected the British from the region, with only Burma and Ceylon remaining under their control. While the British government has threatened to 'restore order' to the region, it is unlikely they will be back anytime soon." #NT!
+ fxnews.58.a: "We will deal with them eventually" #NT!
+ fxnews.58.b: "The crown jewel of the Empire is gone" #NT!
+ fxnews.58.c: "Freedom!" #NT!
+  
+ fxnews.59.t: "Birth of the Imperial Federation" #NT!
+ fxnews.59.d: "[This.GetNewspaperHeader]Since the end of the Imperial conference of 1937 a difficult path lay ahead for the British Empire following the decision to pursue the ideas of an 'Imperial Federation'. Today this struggle has finally borne fruit, with the Federation formally being declared in London's new Imperial Parliament by representatives from the Empire.\n\nThe Dominions of the Empire have been granted full representation in this new Imperial Parliament, and although it is expected that there will be continued hardships in the road ahead as Members of the Imperial Parliament struggle to find common ground, this new Imperial Federation is likely to represent an even more powerful Empire than ever before." #NT!
+ fxnews.59.a: "And what will the Empire do with this new-found power?" #NT!
+  
+ fxnews.60.t: "Battle of Mers-el-Kébir" #NT!
+ fxnews.60.d: "[This.GetNewspaperHeader]At midday yesterday the escalating crisis between the British and French Governments over the accidental sinking of HMS Triton escalated further as Royal Navy and Marine Nationale warships exchanged fire off the coast of Algérie, with both sides suffering numerous losses and claiming victory over the other.\n\nThe most significant flashpoint between British and French Governments since the Fashoda Incident, and a clear example of the growing tensions between the two nations; it remains to be seen what the results will be of the now well-known Battle of Mers-el-Kébir." #NT!
+ fxnews.60.a: "France cannot stand against the might of the Royal Navy" #NT!
+ fxnews.60.b: "As suspected the Royal Navy is a toothless tiger" #NT!
+ fxnews.60.c: "The fools fight amongst one another" #NT!
+ fxnews.60.e: "France and Britain are once again on the brink of war." #NT!
+  
+ fxnews.61.t: "Anglo-French Diplomatic Stand-Off" #NT!
+ fxnews.61a.d: "[This.GetNewspaperHeader]In recent days a growing diplomatic spat between the British and French Government has been continuing over a native revolt against British rule in East Africa. Initially the French Government issued a formal condemnation of the British Government in its efforts to quell the revolt, in response the British Government has recently issued a formal diplomatic protest over perceived French meddling in their affairs.\n\nIt is unknown at this time how long the revolt will last, but this is simply another sign of poor relations between the two former allies." #NT!
+ fxnews.61b.d: "[This.GetNewspaperHeader]In recent days a growing diplomatic spat between the British and French Government has been continuing over a native revolt against British rule in East Africa. Initially the French Government issued a formal condemnation of the British Government in its efforts to quell the revolt, in response the British Government demanded that the French issues a formal retraction of their statements which has so far been ignored by the French Government.\n\nIt is unknown at this time how long the revolt will last, but this is simply anotehr sign of poor relations between the two former allies." #NT!
+ fxnews.61.a: "The French should stop sticking their noses in other nation's affairs." #NT!
+ fxnews.61.b: "British Imperialism has only made Africa a worse place than before." #NT!
+ fxnews.61.c: "More instability in Africa" #NT!
+  
+ fxnews.62a.t: "Anglo-French Diplomatic Row" #NT!
+ fxnews.62b.t: "Imperial Embargo on French Goods" #NT!
+ fxnews.62a.d: "[This.GetNewspaperHeader]In recent weeks a tense diplomatic situation has developed between Britain and France over British handling of a revolt in East Africa. Initiated by a French condemnation of British rule in Africa - but closely followed by the British Foreign Ministry presenting what they call proof of French involvement in the conflict - it has only continued to spiral out of control with tensions now running high between both nations.\n\nThe East African revolt may have been put down, but its effects are continuing to be felt in France and Britain." #NT!
+ fxnews.62b.d: "[This.GetNewspaperHeader]In recent weeks a tense diplomatic situation has developed between Britain and France over British handling of a revolt in East Africa. Initiated by a French condemnation of British rule in Africa - but closely followed by the British Foreign Ministry presenting what they call proof of French involvement in the conflict - it has only continued to spiral out of control with tensions now running high between both nations.\n\nThis morning the British Foreign Minister issued a joint Imperial declaration regarding supposed French involvement in the East Africa Revolt. Stating unquivocally that such interference could not be tolerated, the Imperial representatives announced plans to embargo French goods for the forseeable future." #NT!
+ fxnews.62.a: "The French should stop sticking their noses in other nation's affairs." #NT!
+ fxnews.62.b: "British Imperialism has only made Africa a worse place than before." #NT!
+ fxnews.62.c: "More instability in Africa" #NT!
+  
+ fxnews.63.t: "The Panama Canal Crisis" #NT!
+ fxnews.63.d: "[This.GetNewspaperHeader]Reports from the Panama Canal over the past several days have indicated that there was sporadic fighting occurring in several key strategic locations near the Canal, however it was not until this morning that the United States Government officially confirmed what had happened.\n\nAt 5 o'clock on Friday last week a contigent of Royal Marines landed near the Canal with the intention of resting control of the area and handing ownership over to the British Empire. Washington has since threatened a severe reaction to the seizure, and it is still unsure if this may lead to war between the British Empire and the United States." #NT!
+ fxnews.63.a: "Interesting..." #NT!
+  
+ fxnews.64.t: "A Peaceful Ending at Midnight" #NT!
+ fxnews.64.d: "[This.GetNewspaperHeader]King George V is dead. This morning a note was attached to the gates of Buckingham Palace, it announced that the King had died peacefully in his sleep last night surrounded by his family. His son the Prince of Wales is set to assume the title of King Edward VIII it was declared as well.\n\nA man known for his love of both family and country, thousands have taken to the streets across the British Empire, from Winnipeg to Wellington, to mourn the loss of one of the most beloved monarchs in their history." #NT!
+ fxnews.64.a: "More than a King, a father of a great family" #NT!
+ fxnews.64.b: "A new King. A new Empire?" #NT!
+  
+ fxnews.65.t: "Formation of Second Northern Alliance" #NT!
+ fxnews.65.d: "[This.GetNewspaperHeader]The history of Japan has accorded over the century of Shogunate, the militarized feudal government with a military autocrat. With the strengthened and privatized military power, the imperial house could not be the true ruler with their own strength. And another time, the land of sunrise fell into the long-time Sengoku period, the war of defining true military overlord. After the long period of Sengoku, the Tokugawa clan holds the grasp of Japanese islands and end the long-time war, becoming Tokugawa Shogunate. With the power of the Shogun, the imperial house still has no equal in military power. Until the Meiji Restoration, the imperial house gained power from Sonno Joi loyalists and Shogunate is no more. But today Japan is under militarist regime, Prince Tokugawa Iesato has declared the foundation of new western democratic movement and vowed to expel the ultramilitarism from the sacred island. The Second Northern Alliance succeeded the former Northern Alliance, which was first founded by Shogun’s loyalists to hold the ideal of a military democratic regime in Japan." #NT!
+ fxnews.65.a: "The torch of liberty has been lit over the East" #NT!
+  
+ fxnews.66.t: "Australasian Guard Coup" #NT!
+ fxnews.66.d: "[This.GetNewspaperHeader]Shocking news from [AST.GetNameDef] as the Australian Guard, a group of right-wing authoritarians who are vehemently anti-bolshevist and pro-monarchist, have stormed the Australian parliament in Canberra and seized control of the government.\n\nLed by Field Marshal Thomas Blamey, the new government immediately promised [AST.GetNameDef] would do whatever it took to restore order in the nation and would immediately reverse all efforts to transform the nation into a republic outside of the British Empire. Some are viewing this as a restoration of the status quo, though it seems likely that this instability means further trouble ahead for the country." #NT!
+ fxnews.66.a: "How unexpected." #NT!
+  
+ fxnews.67.t: "The Aftokrátor's Coronation" #NT!
+ fxnews.67.d: "[This.GetNewspaperHeader]Today, the first Byzantine Emperor since 1449 was crowned by His All-Holiness Benjamin I of Constantinople. The Emperor first though, had to Vow:\nI swear in the Name of the Holy and Co-equal and Indivisible Trinity, to be faithful to the Fatherland, to govern with justice and benevolence and to conscientiously fulfil my duties.\nThen he was crowned. Psalms could be heard from behind:\nGive the king thy judgments, O God, and thy righteousness unto the king's son. He shall judge thy people with righteousness, and thy poor with judgment. (...) His name shall endure for ever (...) and men shall be blessed in him: all nations shall call him blessed. Blessed be the Lord God, the God of Israel, who only doeth wondrous things. And blessed be his glorious name for ever: and let the whole earth be filled with his glory; Amen, Amen.\n»Bow your heads to the Lord\n«To you, O Lord\nHe was then bestowed the name Aftokrátor George II" #NT!
+ fxnews.67.a: "Evlogitós o Theós tón Aftokrátora evlogeíto." #NT!
+  
+ fxnews.68.t: "The Black Ataman is Dead" #NT!
+ fxnews.68.d: "[This.GetNewspaperHeader]The man who paved his way to power as the Ataman of a small cavalry unit during the Eastern European war to the Supreme Leader of Belarus suffered injuries caused by an attack from an unknown assailant; killing him instantly. General Stanislav Bulak-Balakhovich held Belarus in his hands for more than 13 years, during that time he confronted a considerable number of challenges that threatened the existence of the young nation.\nThe extreme consequence of his rule was the formation of a dualism between the National-Socialist Party and the Home Guard. Further reports has been scarce ever since, but multiple unverified information speculates that the a power struggle betweent the Home Guard and the Party is brewing." #NT!
+ fxnews.68.a: "I sense bloodshed in the Belarussian lands..." #NT!
+  
+ fxnews.69.t: "The Dissolution of the Commission" #NT!
+ fxnews.69.d: "[This.GetNewspaperHeader]With mutual enmity between Greece and Turkey reaching an all-time high, negotiations have been held to calm tensions, culminating in the dissolution of the International Straits Commission and the division of its assets between the two nations.\n\nUpset at their lack of involvement, the major world powers have lodged a protest, complaining that neither nation had informed nor consulted the interested powers in the dissolution of the commission. Despite rebuttals by both governments which declare that the agreement was necessary to prevent another war, the steps that both Ankara and Athens have recently taken only indicate that another Greco-Turkish war remains a possibility as the fate of the Straits hangs in the balance." #NT!
+ fxnews.69.a: "How very unexpected..." #NT!
+ fxnews.69.b: "Why did they not consult us?" #NT!
+ fxnews.69.c: "A necessary step." #NT!
+ fxnews.69.e: "The Entente's world order crumbles little by little." #NT!
+  
+ fxnews.70.t: "The London Stock Market Crash" #NT!
+ fxnews.70.d: "[This.GetNewspaperHeader]Last week saw a tumultuous five days for the London Stock Market. Fuelled by fears of a shortage of goods and resources due to the on-going revolt in colonial Africa and India, the stock exchange continued to vary wildly as news dripped out from Westminster regarding efforts to prevent further insurrection throughout the Empire.\n\nAs the day proceeded, mass selling ensued as panic-stricken investors lost confidence in the Imperial economy and the British Government's ability to tackle the colonial crisis.\n\nThe effects of the 1936 London Stock Market Crash are sure to be felt world-wide." #NT!
+ fxnews.70.a: "God help us all..." #NT!
+  
+ fxnews.71.t: "The Remilitarization of Constantinople" #NT!
+ fxnews.71.d: "[This.GetNewspaperHeader]After the assassination of the former Sultan, Abdülmecid II, many factions within Turkey were vying for power and, among them, emerged the Turanists lead by Hüseyin Nihal Bey. One of his first goals in office was the remilitarization of Constantinople, which was made a demilitarized zone by the Entente powers upon the conclusion of the Great War. Around the world, many are worried, wondering if this could be the rise of a revanchist Turkey. Sources say that Greece has also been thrown into a frenzy by this event, planning their next move." #NT!
+ fxnews.71.a: "Worrying." #NT!
+  
+ fxnews.72.t: "The Paris Colonial Exposition" #NT!
+ fxnews.72.d: "[This.GetNewspaperHeader]A few short hours ago, France has declared the Paris Colonial Exposition to be open after months of extensive planning. France, after facing excessive flak for their colonial holdings from other nations such as Germany and the USSR, has decided to hold a festival dedicated to displaying the vast resources of her colonies, amongst a multitude of other subjects. \n\nA multitude of other nations has participated in this event, particularly other nations possessing Colonies. Nonetheless, the event is planned to continue for another few months, until it is closed at France's discretion; despite condemnations from the German and Soviet Governments." #NT!
+ fxnews.72.a: "Quite the experience!" #NT!
+ fxnews.72.b: "Seems like they're trying to justify their Imperialism." #NT!
+ fxnews.72.c: "Vive l'Republique!" #NT!
+  
+ fxnews.73.t: "Coup d'état in Paris" #NT!
+ fxnews.73.d: "[This.GetNewspaperHeader]In an unexpected turn of events, the French Republic has fallen to a coup by their Military last night, the event was proclaimed by Philippe Petain shortly after French Military units seized various Governmental buildings and detained multiple formerly governing politicians. \nFrance's failure to confront Germany throughout their diplomatic standoffs in the past few months certainly wasn't met with enthusiasm by the French military. Field Marshal Philippe Pétain and Admiral François Darlan organized a military coup under the belief that if France was to allow a continued German advance across the continent; France would eventually be unable to challenge them at all. Nonetheless, it can be said with certainty that France will be more firm with her diplomacy in the coming months." #NT!
+ fxnews.73.a: "A decadent democracy turns into a decadent dictatorship." #NT!
+ fxnews.73.b: "Yet another flame of European democracy is snuffed out..." #NT!
+ fxnews.73.c: "Death is nothing, but to live defeated and inglorious is to die daily." #NT!
+ fxnews.73.e: "The French people knew their place, their military has yet to learn." #NT!
+  
+ fxnews.74.t: "German Occupation of Austria" #NT!
+ fxnews.74.d: "[This.GetNewspaperHeader]In recent weeks, a string of poor decisions from Austria's newly elected Government led to an outburst of chaos within the nation. It seems that the German Fuhrer, Adam Dressler, was keen on taking advantage of the situation. Without any formal warning, German troops advanced into Austria, occupying several key locations, with the alleged goal of 'maintaining order within the region'. Austria was soon under the complete mercy of Germany, who unsurprisingly \"insisted\" that the Austrian Nationalrat held a vote concerning the unification of the two nations 'for the sake of mutual security'. The results were decisively Pro-Union, with 106 out of the 165 members of the Nationalrat ruling in favour of Union. However, the honesty of the vote is dubious, as the ruthless German Thuleschutztruppe was heavily present in the Nationalrat during the vote." #NT!
+ fxnews.74.a: "We cannot allow Germany to annex nations left-and-right!" #NT!
+ fxnews.74.b: "It seems Austria has finally faded into the depths of history books." #NT!
+ fxnews.74.c: "Germans everywhere must stand united!" #NT!
+  
+ fxnews.75.t: "Chaos in Kiel" #NT!
+ fxnews.75.d: "[This.GetNewspaperHeader]The history of the Kiel Zone has been incredibly turbulent since its inception. Originally established as an occupation zone of the Entente powers in order to maintain control over the Kiel Canal, it proved to become a hotspot for German Socialists, and also became the birthplace for a strange prototype ideology known as 'National Communism'.\n1927 saw the uprising of the First Hamburg Commune, which nearly achieved victory over Danish occupying forces however was barely defeated due to a combination of poor organization on behalf of the Commune, and a few strokes of luck on behalf of the Danes. In recent days, the Danish Administration in the Kiel Zone caused a series of riots to escalate far beyond their control, instigating the uprising of the Second Hamburg Commune." #NT!
+ fxnews.75.a: "We will be victorious!" #NT!
+ fxnews.75.b: "Yet another leftist revolution in Europe... Wait, they're leftists, right?" #NT!
+  
+ fxnews.79.t: "BN Victorious in French Elections" #NT!
+ fxnews.79.d: "[This.GetNewspaperHeader]Whilst the French political scene has been often known as a chaotic one, the fallout of the Rollin affair has totally uprooted the dominance of the National Bloc in French politics. In spite of this, the National Bloc has won the recent French elections.\n\nHaving successfully maintained their position in the National Assembly, few expect the current policies of Paris to change. However, the likely prospect of a second great European war has made many observers wonder if the nominally stern French government can protect the old order from the revisionist powers of Europe." #NT!
+ fxnews.79.a: "Of course nothing has changed." #NT!
+ fxnews.79.b: "Stability reigns in Paris, it seems." #NT!
+ fxnews.79.c: "That's a relief." #NT!
+ fxnews.79.e: "They will not stop us!" #NT!
+ fxnews.79.f: "The Republic is stronger united!" #NT!
+  
+ fxnews.80.t: "SFIO Victorious in French Elections" #NT!
+ fxnews.80.d: "[This.GetNewspaperHeader]Whilst the French political scene has been often known as a chaotic one, the fallout of the Rollin affair has totally uprooted the dominance of the National Bloc in French politics. Riding a wave of anti-establishment sentiment, the French Section of the Workers’ International has achieved electoral success, becoming the leading party in France.\n\nNo doubt more radical than any previous French government, the SFIO’s promises of strengthening worker’s rights and ensuring France's hegemony in Europe have been well-received by the French public. Still, many are unsure if the new government can fufill their promises as a second European war appears on the horizon." #NT!
+ fxnews.80.a: "Pfft, more reformist nonsense." #NT!
+ fxnews.80.b: "France lurches to the left." #NT!
+ fxnews.80.c: "Let's hope they remain reliable..." #NT!
+ fxnews.80.e: "Further proof that liberalism always leads to Bolshevism." #NT!
+ fxnews.80.f: "Workers of the world, unite!" #NT!
+  
+ fxnews.81.t: "PR Victorious in French Elections" #NT!
+ fxnews.81.d: "[This.GetNewspaperHeader]Whilst the French political scene has been often known as a chaotic one, the fallout of the Rollin affair has totally uprooted the dominance of the National Bloc in French politics. Capitalizing on this opportunity, the Radical Party have become the new leaders of France.\n\nRunning on an agenda more liberal than the previous governments, the Radicals have committed to giving the French people additional opportunities for success and have also promised to do what it takes to keep France out of a second great European war. Such promises however seem ever more unlikely to be fufilled as the likelihood of another Great War becomes ever more likely." #NT!
+ fxnews.81.a: "The Republic remains decadent..." #NT!
+ fxnews.81.b: "Will this inspire radical change?" #NT!
+ fxnews.81.c: "Are they not aware of the German threat?" #NT!
+ fxnews.81.e: "France devolves further into degeneracy." #NT!
+ fxnews.81.f: "For liberty!" #NT!
+  
+ fxnews.82.t: "ARD Victorious in French Elections" #NT!
+ fxnews.82.d: "[This.GetNewspaperHeader]Whilst the French political scene has been often known as a chaotic one, the fallout of the Rollin affair has totally uprooted the dominance of the National Bloc in French politics. Nonetheless, the formerly dominant Democratic Republican Alliance now reigns supreme following the recent elections.\n\nFormerly the largest faction of the National Bloc, the victory of the ARD means that it is unlikely for Paris to drastically change course. Nevertheless, many wonder if the new French government, now wielding a harsher opinion of Valkist Germany are up to the task of maintaining peace in the existing European order as the spectre of war looms closer." #NT!
+ fxnews.82.a: "What else did we expect?" #NT!
+ fxnews.82.b: "France maintains her course." #NT!
+ fxnews.82.c: "That's a relief." #NT!
+ fxnews.82.e: "They will not stop us!" #NT!
+ fxnews.82.f: "For the Republic!" #NT!
+  
+ fxnews.83.t: "The Marshal Remains" #NT!
+ fxnews.83.d: "[This.GetNewspaperHeader]With the end of French democracy, many predicted that the 80 year old Marshal would retire after his last major action. However, these predictions have been proven wrong as in spite of mass opposition, Philippe Pétain has elected to remain as the leader of France.\n\nFinding support from corporate and far right supporters, Pétain’s regime seeks to bring about a \"National Revolution\" with the goal to create a technocratic government. Besides this, the government is also likely to continue the renewed harsh stance that France holds against the revisionist powers of Europe as the threat of war seems to creep further into reality." #NT!
+ fxnews.83.a: "The Republic shows its true colors." #NT!
+ fxnews.83.b: "The Republic is gone." #NT!
+ fxnews.83.u: "How could the Marshal do this?" #NT!
+ fxnews.83.c: "France always needed some leadership" #NT!
+ fxnews.83.e: "The old fool is pushing his luck too far" #NT!
+ fxnews.83.f: "Maréchal, nous voilà!" #NT!
+  
+ fxnews.84.t: "Action Française Seize Power" #NT!
+ fxnews.84.d: "[This.GetNewspaperHeader]With the end of French democracy, many predicted that the 80 year old Marshal would retire after his last major action. However, few could have predicted who would have replaced him. Riding on a wave of popular support by the church and monarchist supporters, French Action has become the new boss in Paris.\n\nVirulently antisemitic and doggedly against liberalism and republicanism, the impending restoration of the Kingdom of France has also been coupled with a marked rise in anti-German, xenophobic sentiments in Paris, further disturbing the post-war European order as war in Europe appears inevitable." #NT!
+ fxnews.84.a: "Reaction begets more reaction." #NT!
+ fxnews.84.b: "Disturbing" #NT!
+ fxnews.84.u: "Dear god..." #NT!
+ fxnews.84.c: "The Republic was always doomed to fail." #NT!
+ fxnews.84.e: "As if Reaction can stop the Reich!" #NT!
+ fxnews.84.f: "Vive le roi!" #NT!
+  
+ fxnews.85.t: "The Rise of the Colonel" #NT!
+ fxnews.85.d: "[This.GetNewspaperHeader]With the end of French democracy, many predicted that the 80 year old Marshal would retire after his last major action. With major popular backing from the French public, François de La Rocque has become the new leader of France.\n\nThe leader of the French Social Party, de La Rocque has promised to bring France back to her roots and to create a new system not based in liberal capitalism, replacing the old republic altogether. Seeking to contain Germany’s expansion, it remains to be seen how the new republic will deal with the rising tensions across Europe as a second Great War seems forthcoming." #NT!
+ fxnews.85.a: "The Republic shows its true colors" #NT!
+ fxnews.85.b: "Will the Republic return?" #NT!
+ fxnews.85.u: "Interesting..." #NT!
+ fxnews.85.c: "Will they be any different from the Republic?" #NT!
+ fxnews.85.e: "An upstart colonel is nothing to be scared about." #NT!
+ fxnews.85.f: "Social d'abord!" #NT!
+  
+ fxnews.86.t: "Communists Win Majority In Italian Election" #NT!
+ fxnews.86.d: "[This.GetNewspaperHeader]In a surprise victory, the Communist party have won the the 1936 Italian election. While the results are very controversial little eveidence of fraud can be found. The economic disaster of Black Wednesday pushed many Italian voters to the extreme ends of politics. This has not stopped many on the right from protesting against their victory though. The Communist have had a long history of causing social unrest in Italy with demands of sweeping social and legal changes. Many are worried that this may be the end of Italian democracy as we know it and some even claim that party leader Antonio Gramsci, who is rumored to have connections with the Soviet Union, may create a single party state. This election has majorly destablised both the Entente and western Europe as a whole." #NT!
+ fxnews.86.a: "The Revolution marches west!" #NT!
+  
+ fxnews.87.t: "Liberals Maintain Majority In Italian Election" #NT!
+ fxnews.87.d: "[This.GetNewspaperHeader]Despite some early set backs the Partito Liberale were able to push through and win the 1936 Italian election. In the wake of Black Wednesday public support for the party had shruken quite considerable but to the mainstream Italian voter the Liberals are seen as the most sensible and practical party in the the face of an ever changing world. It will be a rough few years ahead for Luigi Einaudi and his party. The Communists blame his Laissez-faire economic policies for the recent depression impacting Italy while The right wing criticize his government for being weak and ineffectual. Despite this the Partito Liberale will continue to be a mainstay in Italian politics for some time" #NT!
+ fxnews.87.a: "The world needs more sensible politicians." #NT!
+  
+ fxnews.88.t: "Progressives Win Majority In Italian Election" #NT!
+ fxnews.88.d: "[This.GetNewspaperHeader]The Partito Socialdemocratico were seen to be the only party capable of beating the Partito Liberale in the 1936 Italian election and after a hard faught campaign they have come out victorious. Black Wednesday had shown many Italians that Liberal economics would not be able to bring economic stability to the country. Many centrist voters who have become disilusioned with the Liberals see the Social Democrats as the only sensible reformist party in Italy. Even some of the more moderate Communists admit that thier victory may bring much needed reforms. Now in power the Progressives will hopefully fulfill their campaign promises and introduce a welfare system to Italy." #NT!
+ fxnews.88.a: "In troubled times, reforms will be needed." #NT!
+  
+ fxnews.89.t: "Conservatives Win Majority In Italian Election" #NT!
+ fxnews.89.d: "[This.GetNewspaperHeader]In an unexpected outcome the Partito Popolare lead by Luigi Sturzo have won the 1936 Italian election. Most Communist and leftists are furious at the results and many have already started protesting in the streets. Luigi Sturzo does not seem to be worried by this though and promises to 'deal with' extremists who threaten the stability of Italy. Sturzo has a long history of threating violence against the Left and in an Italy that seems on brink of a Communist uprising many see him as the only person that can guarantee their safty. When it comes to foreign affairs the Conservatives promise to develop Italian colonial territories and stregnthen relations with Britain and her Empire and on the domestic side they pledge to protect traditional Italian culture and lead the nation towards economic recovery" #NT!
+ fxnews.89.a: "The world needs bold leaders." #NT!
+  
+ fxnews.90.t: "The Third Greco-Turkish War" #NT!
+ fxnews.90.d: "[This.GetNewspaperHeader]In the aftermath of the Great War, the already shrinking Ottoman Empire was forcibly dismantled, with much of its territory either given away or made independent. Most stinging of all of these losses was the loss of the old capital, Constantinople. Once the crown jewel of the empire, many observers predicted that the Turkish state would remain a weak, corrupt rump state.\n\nIn spite of these predictions, the Porte has rebounded, now feeling strong enough to confront what it views as foreign occupation of its territories. As Ankara and Athens begin to duke it out on the fields of Anatolia once again, many wonder what the consequences of yet another regional war means for peace as the postwar order of 1919 seemingly begins to crumble." #NT!
+ fxnews.90.a: "Another war in the Balkans?" #NT!
+ fxnews.90.b: "Reactionary infighting, typical" #NT!
+ fxnews.90.s: "We must support our Greek comrades!" #NT!
+ fxnews.90.c: "The Turks will be pacified once and for all!" #NT!
+ fxnews.90.e: "We will liberate our homeland!" #NT!
+ fxnews.90.f: "The West's reign of terror is coming to an end" #NT!
+  
+ fxnews.91.t: "Communist Coup In Italy" #NT!
+ fxnews.91.d: "Ever sense the crash of Black Wednesday, the Italian Communist party have pushed for many reforms to help Italy recover but opposition parties have successfully blocked their legislation. Mass unemployment has lead to many people supporting the Communists and with tentions at an all time high they have initiated a coup d'etat. With suspected support from the Soviet Union, Antonio Gramsci has lead supporters into the streets of Rome and from there, with the support of local army divisions, were easily able to occupy most government buildings. After a brief but tense standoff the former government yielded to the Communist to avoid a full fledged civil war. Now that the Communists are in control many drastic reforms to both Italian culture and the economy are expected." #NT!
+ fxnews.91.a: "The Revolution marches west." #NT!
+  
+ fxnews.92.t: "Communist Coup Fails In Italy" #NT!
+ fxnews.92.d: "Ever sense the crash of Black Wednesday, the Italian Communist party have pushed for many reforms to help Italy recover but opposition parties have successfully blocked their legislation. Mass unemployment had lead to many people supporting the Communists and with tentions at an all time high they had attempted a coup d'etat. With suspected support from the Soviet Union, Antonio Gramsci had lead supporters into the streets of Rome and from there, fought to occupy local government buildings. Intervention from the Italian Army was able to push back the Communist forces and after several hours of fighting Gramsci was found and arrested for treason. This has been a major blow to the Communist cause, not just in Italy but in Europe as a whole." #NT!
+ fxnews.92.a: "A true victory for pragmatic politics." #NT!
+  
+ fxnews.93.t: "Italian Army Pacifies Libya" #NT!
+ fxnews.93.d: "In a dramatic change of colonial policy the Italian government has decided to repeal all autonomy previously given to the regions of Libya. Italian armed forces have landed in many coastal cities and are preparing to enforce the new legislation. Rebel groups have always been a fringe problem in Libya but the increase hostility will almost certainly bring more Libyans to their cause. The Italian government promise to protect the safety of all people in Libya, Italian or Libyan, and that those who follow the law will have no need to worry about the increased military presence. Most foreign experts believe that this action will certainly lead to a prolonged conflict that will cost both sides immensely. Only time will tell if these drastic measures will lead to the integration of Libya into the greater Italian Empire." #NT!
+ fxnews.93.a: "Hopefully this isn't a sign of more savagery to come." #NT!
+  
+ fxnews.94.t: "The Army Has Taken Control of Italy" #NT!
+ fxnews.94.d: "[This.GetNewspaperHeader]The Italian election's failiure to determine a suitable government has forced the military, lead by Italo Balbo and Pietro Badoglio, to march into the streets of Rome and storm the Parliament building. The majority of the deputies submitted to the coup while the few who tried to oppose, mostly Communist, were dragged outside and executed by firing squad. Both France and England have protested the coup and have yet to recognize the new government. Now that the Italian military has seized control some leaders like Luigi Capello, a hero of the Great War, suggest a quick restoration of a civillian government while Pietro Badoglio instead proposed to invite the third duke of Savoy-Aosta, Amedeo, to become head of state but rumors are rampant that Italo Balbo may use his new found influence to proclaim himself dictator or \"Duce\" of Italy." #NT!
+ fxnews.94.a: "These are truly difficult times for Italy." #NT!
+  
+ fxnews.95.t: "Civil War in Brazil" #NT!
+ fxnews.95.d: "[This.GetNewspaperHeader]In an event that shocked absolutely no one, Chaos and strife surges once again in South America. This time, it is the South American giant, Brazil, the one that is split apart by internal issues.\n\nAs a communist revolt has risen against the so called \"corrupt\" Brazilian Republic in the west side of the country, in the south, traditionalists and nationalists group that have no loyalty for either the Republic or the socialist Insurgency have taken the matter into their own hands and risen as well.\n\nOne thing is for certain, this is the largest civil war the continent has seen in a long time, and its effects will be great." #NT!
+ fxnews.95.a: "No stability to be found down under anymore." #NT!
+  
+ fxnews.96.t: "The Second Leticia War" #NT!
+ fxnews.96.d: "[This.GetNewspaperHeader]History repeats, as the Peruvian and Colombian nations mobilize their forces and clash in combat. It was only a few years ago that a simple border conflict in the Leticia region, escalated into an expansive war that shocked both countries forever.\n\nNow, with the rise of a radical revanchist government in Colombia, and an aggressive foreign policy by a Peru, zealous to mantain its hegemony, conflict was inevitable, and everything that happened comes back to haunt the region." #NT!
+ fxnews.96.a: "War is a disease." #NT!
+  
+ fxnews.97.t: "The Great Pacific War" #NT!
+ fxnews.97.d: "[This.GetNewspaperHeader]For a long time, the Pacific was at peace. However, recent events have shook the largest ocean in the world to its very core as reports have indicated that the United States and Japan have now entered into war with one another.\n\nLong competing with the United States over hegemony in the Pacific, tensions between Tokyo and Washington have long been on the rise, especially so with Japan’s recent rearmament and rapid expansion of its military. Whilst few initially thought that the Japanese would dare risk the intervention of the American giant, their competing goals for the Pacific have now crashed into one another full force as the fate of the Pacific lies in the balance…" #NT!
+ fxnews.97.a: "The Pacific set alight." #NT!
+ fxnews.97.b: "Japan's ambitions end here." #NT!
+ fxnews.97.u: "The sun will set once and for all!" #NT!
+ fxnews.97.c: "Victory must be achieved quickly!" #NT!
+ fxnews.97.j: "American imperialism must be stopped!" #NT!
+ fxnews.97.e: "Oh dear." #NT!
+  
+ fxnews.98.t: "The Third Mexican-American War" #NT!
+ fxnews.98.d: "[This.GetNewspaperHeader]As Mexico was forced to cede its northern territories and provices to the United States in 1848; she found herself once again giving up territories to its adversary as part of the post war treaties after the Great War. This resulted in Mexican nationalism that have put the [MEX.GetRulingParty] to power.\n\nSince then, multiple reports of border clashes have fueled rising tensions between the two. And once again, conflict have bursed on the contintent, as a revaunchist Mexico faces a weakened United States by the Great Depression and the London Stock Market Crash; and its not clear to say who will come on top." #NT!
+ fxnews.98.a: "So it goes." #NT!
+  
+ fxnews.99.t: "The Bolivian Revolution" #NT!
+ fxnews.99.d: "[This.GetNewspaperHeader]Following a wave of civil discontent and pervasive failures of the government to provide a stable environment for Bolivian society, specially in the aftermath of their defeat in the Chaco War, several dissident groups formed inside the mountainous country.\n\nNow, a group of socialist revolutionaries rose up with wide support. Now, the official democratic government has fallen, as well as the republic's political structure, being replaced by a newborn revolutionary government, and the flames of socialist revolution have arisen in Bolivia." #NT!
+ fxnews.99.a: "The World Revolution continues" #NT!
+ fxnews.99.b: "Who cares about Bolivia?" #NT!
+  
+ fxnews.100.t: "A Strange Interregnum" #NT!
+ fxnews.100.d: "[This.GetNewspaperHeader]While touring Beijing today, Zhang Zuolin, the erstwhile leader of the Fengtian Governancy, was shot dead by Japanese loyalists under the banner of the Concordia Association. Beijing, which came to be part of Fengtian only some short years ago, served as a shining example of China's commitment to both the past and future, as well as the de jure capital of the state itself. Most strangely, Zuolin was in the capital that day discussing the warming of relations between the Fengtian government and the Empire of Japan. The touring of speeches, which had marked one of Zuolin's most salient actions while in power, had been considered by many to be one of the most important political events in China in the past few years. Whatever it was that international spectators hoped to gain from these words has now been lost forever as China comes ever closer to all out war." #NT!
+ fxnews.100.a: "China descends towards a deeper chaos." #NT!
+  
+ fxnews.101.t: "'Il Matire di Roma'" #NT!
+ fxnews.101.d1: "[This.GetNewspaperHeader]'Il Matire di Roma', a play that originated in Northern Italy and which has been syndicated in the past months in the southern Ticino canton of Switzerland, has been released to the global market. The few full copies of the play had become a rarity, and the government of Switzerland which has been more wary of socialist media after the disastrous strikes of 1935, allowed the play to go through, as a sign of good will of the staunchly democratic state. The play has gone on to a limited showing elsewhere, such as France and the United States. It details the 'heroic' efforts of socialist activists in the closing days of the Great War and during the Red Year in Italy, and focuses on the life of Benito Mussolini, who was unceremoniously executed by royalist guards. The play has been regarded as genuine but inconsistent in tone." #NT!
+ fxnews.101.d2: "[This.GetNewspaperHeader]'Il Matire di Roma', a play that originated in Northern Italy and which has been syndicated in the past months in the southern Ticino canton of Switzerland, has been refused release to the global market. The few full copies of the play, which had become rare in the past months, were ceased by Swiss authorities. Their current location is unknown, but it is presumed they were burned or discarded. With no known full copies left in circulation, it seems that this is the end for the prolific socialist theater piece which details the exploits of protagonist Benito Mussolini in the last days of the Great War and the Red Year in Italy. It was described as genuine but inconsistent in tone. It is expected nobody will see a full production of the play again." #NT!
+ fxnews.101.a: "This kind of laissez-faire treatment is expected." #NT!
+ fxnews.101.b: "What about Swiss freedoms?" #NT!
+  
+ fxnews.102.t: "Marriage of the Deposed" #NT!
+ fxnews.102.d: "[This.GetNewspaperHeader]Habsburg royalty from various coutries, including Italy, Hungary, and the United Kingdom have convened over the last week in celebration of a historic marriage that, in many ways, has shaken the historical European royal institution to its very core. A marriage between Wilhelm IV, the lead issue of the House of Hohenzollern, and Archduchess Rosa von Österreich, one of the the foremost duchesses of the House of Habsburg, were wed in Lucerne, Switzerland over the weekend. While both houses forbid, unofficially or officially, the marraige of legitimate offspring to unlanded suitors, this marriage occurred at the behest of both houses. While both spouses are de jure titled, neither's ancestral house holds sway in the homelands of their births. What this could represent if that were reversed, however, is monumental..." #NT!
+ fxnews.102.a: "What will this mean for the past and future crowns of Europe?" #NT!
+  
+ fxnews.103.t: "The Indonesian Uprising" #NT!
+ fxnews.103.d: "[This.GetNewspaperHeader]The rising nationalist movements in Indonesia and the weakening of the British Empire due to the London Stock Market Crash have prompted the Indonesian revolutionaries seize the initiative and have launched an all out revolt against British rule. The islands that have for many years been under colonial control, first by the Dutch, than the British, has been plunged into an uprising. The British Empire is once again challenged!" #NT!
+ fxnews.103.a: "They will be crushed!" #NT!
+ fxnews.103.b: "Another revolt against the British..." #NT!
+  
+ fxnews.104.t: "Bukharin Appointed Premier of the Soviet Union" #NT!
+ fxnews.104.d: "[This.GetNewspaperHeader]In the aftermath of Lenin’s death, the already shaky Soviet government fell into a deep power struggle. With fears of internal enemies and external threats abound, an unstable “troika” of major political leaders formed to protect the socialist bastion from catastrophe.\n\nSubject to an internal power struggle, the troika has now collapsed with reports indicating that Nikolai Bukharin has now been named the new Premier of the Supreme Soviet, making him effectively the leader of the Soviet Union. Seen by many as the golden boy of the Bolsheviks, Bukharin has promised to further democratize the Union and has pledged to reverse the over-militarization that has alienated the Soviet colossus from the rest of the world." #NT!
+ fxnews.104.a: "Congratulations to Comrade Bukharin!" #NT!
+ fxnews.104.b: "The Revolution takes a new direction." #NT!
+ fxnews.104.c: "A contemptible coward, what else did we expect?" #NT!
+ fxnews.104.e: "Lenin's affectionate dog." #NT!
+ fxnews.104.f: "Let's hope this leads to peace in Europe." #NT!
+ fxnews.104.s: "The Revolution marches on!" #NT!
+  
+ fxnews.105.t: "Molotov Appointed Premier of the Soviet Union" #NT!
+ fxnews.105.d: "[This.GetNewspaperHeader]In the aftermath of Lenin’s death, the already shaky Soviet government fell into a deep power struggle. With fears of internal enemies and external threats abound, an unstable “troika” of major political leaders formed to protect the socialist bastion from catastrophe.\n\nSubject to an internal power struggle, the troika has now collapsed with reports indicating that Vyacheslav Molotov has now been named the new Premier of the Supreme Soviet, making him effectively the leader of the Soviet Union. Widely disliked and feared for his totalitarian outlook, Molotov has promised to rid the Union of any internal dissent and to modernize the Soviet state by enacting total control on agriculture and industry." #NT!
+ fxnews.105.a: "Hurrah to Comrade Molotov!" #NT!
+ fxnews.105.b: "The Revolution takes a bloody turn." #NT!
+ fxnews.105.c: "Typical reds." #NT!
+ fxnews.105.e: "Maybe there is something to learn from this?" #NT!
+ fxnews.105.f: "What are his opinions on the current order?" #NT!
+ fxnews.105.s: "The Revolution shall be secured!" #NT!
+  
+ fxnews.106.t: "Trotsky Appointed Premier of the Soviet Union" #NT!
+ fxnews.106.d: "[This.GetNewspaperHeader]In the aftermath of Lenin’s death, the already shaky Soviet government fell into a deep power struggle. With fears of internal enemies and external threats abound, an unstable “troika” of major political leaders formed to protect the socialist bastion from catastrophe.\n\nSubject to an internal power struggle, the troika has now collapsed. In an ironic twist of events, Trotsky has come out on top from the troika that was created to prevent his rise with him now being the new Premier of the Soviet Union. Gaining infamy and admiration worldwide for his conduct during the civil war, Trotsky’s call of an international revolution has already sparked a red scare among the nations as the Red Spectre haunts Europe." #NT!
+ fxnews.106.a: "Three cheers for Comrade Trotsky!" #NT!
+ fxnews.106.b: "What about his \"permanent revolution\"?" #NT!
+ fxnews.106.c: "The Red Menace is coming!" #NT!
+ fxnews.106.e: "Disturbing." #NT!
+ fxnews.106.f: "Moscow cannot be trusted!" #NT!
+ fxnews.106.s: "The International shall be the Human race!" #NT!
+  
+ fxnews.107.t: "The Red Son" #NT!
+ fxnews.107.d: "[This.GetNewspaperHeader]In the aftermath of Lenin’s death, the already shaky Soviet government fell into a deep power struggle. However, the power struggle seemed to have been quickly solved with the release of Lenin’s testament, stating that Sergei Kirov was to become the next leader of the Soviet Union.\n\nIn spite of this, another power struggle between the internal leftist opposition and Kirov broke out, destabilizing Kirov’s rule. Nevertheless, Kirov has successfully consolidated his power and now rules uncontested. Gaining repute as a compromiser, Kirov’s rule will likely result in the continuation of most of Lenin’s policies, with the caveat that is the reversal of the policy of over-militarization that has alienated the Soviet giant from the rest of the world." #NT!
+ fxnews.107.a: "Huzzah to Comrade Kirov!" #NT!
+ fxnews.107.b: "Will he learn from Lenin's mistakes?" #NT!
+ fxnews.107.c: "Bah!" #NT!
+ fxnews.107.e: "He will live to see Lenin's mistake die." #NT!
+ fxnews.107.f: "At least nothing has changed!" #NT!
+ fxnews.107.s: "Lenin lives on!" #NT!
+  
+ fxnews.108.t: "The Overthrow of Sergei Kirov" #NT!
+ fxnews.108.d: "[This.GetNewspaperHeader]In the aftermath of Lenin’s death, the already shaky Soviet government fell into a deep power struggle. However, the power struggle seemed to have been quickly solved with the release of Lenin’s testament, stating that Sergei Kirov was to become the next leader of the Soviet Union.\n\nIn spite of this, another power struggle between the internal leftist opposition and Kirov broke out, destabilizing Kirov’s rule. In a shock to many, Kirov has been overthrown and replaced by Alexander Shliapnikov as Premier of the Soviet Union. Known for his voracious campaigning for industrial workers and trade unions, Shliapnikov already faces opposition from peasants within the Union with many wondering how the Soviet titan will move forward." #NT!
+ fxnews.108.a: "Applause to Comrade Shliapnikov!" #NT!
+ fxnews.108.b: "The Union is not as stable as it seems." #NT!
+ fxnews.108.c: "Socialist infighting, what else is new?" #NT!
+ fxnews.108.e: "Bolsheviks can only eat each other." #NT!
+ fxnews.108.f: "This better not be a sign of things to come..." #NT!
+ fxnews.108.s: "For the workers!" #NT!
+  
+ fxnews.109.t: "The Rise of the Red Napoleon" #NT!
+ fxnews.109.d: "[This.GetNewspaperHeader]In the aftermath of Lenin’s death, the already shaky Soviet government fell into a deep power struggle following which a military coup occurred. Whilst the junta may have seemed somewhat stable at first, divisions quickly appeared between the security forces and the separate cliques of the Red Army.\n\nIn spite of this, the initial leader of the coup, Mikhail Tukhachevsky has held onto power and has gone on to make himself Premier of the Soviet Union. Known for his brilliant generalship during the Civil War and for his innovative stratagems in the army, Tukhachevsky has spiked fears of a red menace that will haunt Europe and Asia, further alienating the already isolated Union from the world." #NT!
+ fxnews.109.a: "We salute the Red Napoleon!" #NT!
+ fxnews.109.b: "Will the Revolution spread?" #NT!
+ fxnews.109.c: "The Reds are coming too close for comfort..." #NT!
+ fxnews.109.e: "He will fail like Napoleon failed." #NT!
+ fxnews.109.f: "Not good at all..." #NT!
+ fxnews.109.s: "We will protect the Revolution!" #NT!
+  
+ fxnews.110.t: "The Rise of the Bloody Dwarf" #NT!
+ fxnews.110.d: "[This.GetNewspaperHeader]In the aftermath of Lenin’s death, the already shaky Soviet government fell into a deep power struggle following which a military coup occurred. Whilst the junta may have seemed somewhat stable at first, divisions quickly appeared between the security forces and the separate cliques of the Red Army.\n\nWith the Red Army battered in the struggle, the security forces headed by Nikolai Yezhov have seized the chance with Yezhov now the new Premier of the Soviet Union. Promising to cleanse the Union of all internal threats, many now fear that the supposed socialist utopia will now become an autocratic nightmare, not aided by the supposed sadism of Premier Yezhov himself." #NT!
+ fxnews.110.a: "Good job, \"comrade\"." #NT!
+ fxnews.110.b: "Ominous." #NT!
+ fxnews.110.c: "The inevitable end result of socialism." #NT!
+ fxnews.110.e: "Bolshevism can only end in bloodshed." #NT!
+ fxnews.110.f: "A sad end for the revolution." #NT!
+ fxnews.110.s: "Comrade Yezhov is NOT bloody at all!" #NT!
+  
+ fxnews.111.t: "The Rise of the Red Officer" #NT!
+ fxnews.111.d: "[This.GetNewspaperHeader]In the aftermath of Lenin’s death, the already shaky Soviet government fell into a deep power struggle following which a military coup occurred. Whilst the junta may have seemed somewhat stable at first, divisions quickly appeared between the security forces and the separate cliques of the Red Army.\n\nBuoyed by public popularity and the old guard of the Red Army, Kliment Voroshilov has come out on top and has become the new Premier of the Soviet Union. Known for his military background, his promises to return stability and alleviate civilian suffering have been unable to calm fears that the Soviet Union is now nothing more than a red junta." #NT!
+ fxnews.111.a: "To the first Red officer!" #NT!
+ fxnews.111.b: "That doesn't sound like communism." #NT!
+ fxnews.111.c: "The Reds have revealed their true colors." #NT!
+ fxnews.111.e: "Perhaps he could be useful..." #NT!
+ fxnews.111.f: "His rule destabilizes Europe!" #NT!
+ fxnews.111.s: "The Revolution will overtake reaction!" #NT!
+  
+ fxnews.112.t: "[RUS.GetNameDef] retakes Russia" #NT!
+ fxnews.112.d: "[This.GetNewspaperHeader]The enemies of socialism in the Far East have won the war against the Soviet Union, they will now have the monumental task of eradicating the legacy of socialism and controlling the land. This ended the rule of the Soviet Union that has lasted for many years, with it's only opposition being the remnants of the White Movement in Siberia that were supported by Japan and the USA. If the government is gonna be able to permanently control the land is uncertain but all we know is that this has severly changed the geopolitical landscape." #NT!
+ fxnews.112.a: "A sad day for the revolution..." #NT!
+ fxnews.112.b: "Good riddance" #NT!
+  
+ fxnews.113.t: "Soviet Union beats the [RUS.GetNameDef]" #NT!
+ fxnews.113.d: "[This.GetNewspaperHeader][RUS.GetNameDef] has been defeated by the Soviet Union, this has practically eradicated any serious threat to the Soviet Union that is close to them. While the integration of the new land will prove difficult because of the anti-socialism that is present in the region the industry that is located there will prove useful for the regime." #NT!
+ fxnews.113.a: "The Reds finished the job..." #NT!
+ fxnews.113.b: "Another victory for the people!" #NT!
+  
+ fxnews.114.t: "The USM wins the Russian Election" #NT!
+ fxnews.114.d: "[This.GetNewspaperHeader]The USM standing for Union for the Salvation of the Motherland has won the election in [RUS.GetNameDef], the coalition consists of the NUS and the Oktoberists. Both are heavily militaristic, the NUS the senior partner also supports progressive ideals like Women Suffrage and Civic Nationalism. They also want to reform the government by making the upper chamber be completly consisting of scientist,engineers and writers and the lower chamber be completly consisting of businessmen. If democracy will be kept is unlikely considering it's authoritarian leanings." #NT!
+ fxnews.114.a: "An interesting development" #NT!
+  
+ fxnews.115.t: "Union Of Regeneration wins Russian Election" #NT!
+ fxnews.115.d: "[This.GetNewspaperHeader]The Union of Regeneration has won the election in [RUS.GetNameDef], the coalition consists of the Popular Socialist Party,Kadets and the Social Revolutionaries. They coalition wants to end discrimantion of minorities, supports creating a welfare state to help the poor,implementing progressive reforms to create a more just and fair nation and nationalizing the land." #NT!
+ fxnews.115.a: "An interesting development" #NT!
+  
+ fxnews.116.t: "The National Center wins the Russian Election" #NT!
+ fxnews.116.d: "[This.GetNewspaperHeader]The National Center has won the elections in [RUS.GetNameDef], the party consists of former Kadet members who disliked the party leadership and subsequently joined the party making it a major player in the political sphere. The party wants to restore the monarchy, but one that is constitutional. They also support an investement in the education considering it's leader is a former teacher, instutating laissez-faire reforms in the market and supporting conservative values." #NT!
+ fxnews.116.a: "An interesting development" #NT!
+  
+ fxnews.117.t: "Kornilov coups the Russian Government" #NT!
+ fxnews.117.d: "[This.GetNewspaperHeader]Kornilov has couped the Russian government and installed a puppet government led by Spiridon Dionisovich Merkulov. He was chosen to lead the nation to deceive the Japanese and prevent an instant intervention. There goal is to create a nationalistic nation led by a monarch and expel unfriendly foreign influence. They also are extremly militaristic pledging to attack the Soviets before 1939 and cleansing the society. If they are gonna be successful is uncertain." #NT!
+ fxnews.117.a: "Will Russia ever rest?" #NT!
+  
+ fxnews.118.t: "Diplomatic Tensions between France and Britain" #NT!
+ fxnews.118.d: "[This.GetNewspaperHeader]Diplomatic tensions spiked between the French and British Empires earlier this week as the French government commissioned the construction of several coastal forts along their Northern coast and actively pursued anti-British foreign policies. While a full-scale war between these two titans does not seem likely, the world has paused and held its collective breath in order to watch the outcome of this event. \n\nThe English channel is heating up, and many wonder who will fire the first shot, as well as the last." #NT!
+ fxnews.118.a: "Two titans butting heads cannot end well..." #NT!
+ WORLD_FRA_ENG_tensions: "Anglo-French Tensions" #NT!
+  
+ fxnews.119.t: "French Occupation of the Canary Islands" #NT!
+ fxnews.119.d: "[This.GetNewspaperHeader]As civil war in Spain rages on, a small group of French Marines have occupied the Canary Islands in brief 24 hour operation. The islands are now under French military administration and a naval blockade has been placed around the island by the Marine Nationale. \n\nThe French have stated that the invasion was to ensure the islands were not ravaged by the Spanish civil war, and that the local population had requested foreign protection from Falangist rule. However all sides of the Spanish Civil War have expressed their outrage at a foreign power annexing their territory. \n\nTensions along the Pyrenees have risen sharply, and some believe that further intervention in Spain may soon come." #NT!
+ fxnews.119.a: "Imperialism truly knows no bounds..." #NT!
+  
+ fxnews.120.t: "French Occupation of the Pyrenees Mountain Passes" #NT!
+ fxnews.120.d: "[This.GetNewspaperHeader]For over two years now, civil war has raged on in Spain and destroyed the country. Recently, the leftist factions based out of Barcelona have been gaining the upper hand and have been pushing the other remaining factions far back into the countryside. Due to this turn of events, the French government has announced an operation to occupy the mountain passes straddling the Franco-Spanish border in order to, in their words, \"Safeguard the Spanish people living in and around the Pyrenees from the devestation of the civil war\".\n\nFew are fooled by this deception however, and it is clear that the purpose of this operation was to seize important border regions which the Spanish could have potentially used in a future invasion of Southern France. Once more, all Spanish factions have expressed their outrage at the French picking apart their country while it goes through this period of great turmoil." #NT!
+ fxnews.120.a: "Are the French going to conquer all of Spain?" #NT!
+  
+ fxnews.121.t: "France Annexes Wallonia" #NT!
+ fxnews.121.d: "[This.GetNewspaperHeader]Following the rise of an authoritarian and militaristic regime in France, the Belgian government has been pressured to surrender the Wallonia region and admit French hegemony over the region. The Belgian government, unable to cope with the force of the French Empire, had no other choice but to relinquish the region and run with their tail between their legs. The French have reported this as a resounding victory for European political stability, and has announced further plans of expansion which run in direct conflict with many other European nations. \n\nSeveral pro-Belgian uprisings in Wallonia were crushed by the advancing French army, with many in the international community denouncing them as massacres of the local population. The balance of power in Europe has tipped further towards the French, and the independence of the Benelux region seems to be threatened once more." #NT!
+ fxnews.121.a: "The Belgian lion was no match for the French rooster." #NT!
+  
+ fxnews.122.t: "Olympic Committee Selects Berlin To Host The Olympic Games" #NT!
+ fxnews.122.d: "[This.GetNewspaperHeader]\nhit the ball, score the points" #NT!
+ fxnews.122.a: "We will gladly attend this year." #NT!
+  
+ fxnews.123.t: "German Foreign Policy - Pan-Germanism" #NT!
+ fxnews.123.d: "[This.GetNewspaperHeader]In a recent speech German Chancellor, Adam Dressler, has made bombastic claims about uniting all Germans under one flag. During a particularly heated moment in his speech Dressler passionately stated that 'All Germans will be reunified by any means necessary'. This is a clear threat to the sovereignty of all nations that border Germany but many, such as French minister of war, are confident that Dressler is all bark and no bite. Only time will tell if these hopes are right." #NT!
+ fxnews.123.a: "This will surely blow over soon enough." #NT!
+  
+ fxnews.124.t: "France Backs Austria" #NT!
+ fxnews.124.d: "[This.GetNewspaperHeader]Yesterday Germany sent an ultimatum to Austria demanding for it's annexation into the Reich. In response Austria has asked for military support from the Entente. Though many found it highly unlikely France has chosen to protect the independence of Austria. The World holds it's breath as these two world powers gear up for war. Hopefully a peaceful solution can be quickly found." #NT!
+ fxnews.124.a: "Why die for Dürnkrut?" #NT!
+  
+ fxnews.125.t: "France Backs Denmark" #NT!
+ fxnews.125.d: "[This.GetNewspaperHeader]Yesterday Germany sent an ultimatum to Denmark demanding that a referendum be put forth to determine which nation the German people in Holstein should belong. In response Denmark has asked for military support from the Entente. Though many found it highly unlikely France has chosen to protect the sovereignty of Denmark. The World holds it's breath as these two world powers gear up for war. Hopefully a peaceful solution can be quickly found." #NT!
+ fxnews.125.a: "Why die for Denmark?" #NT!
+  
+ fxnews.126.t: "Germany Annexes the Rhine" #NT!
+ fxnews.126.d: "[This.GetNewspaperHeader]Last night the results of the Rhineland referendum came in, Rhineland will become part of Germany once again. The shocking results have caused much controversy. In France complaints of election fraud by the Rhinish Valkist party have become more and more common but no substantial proof can be found. Today it seems the balance of power in Europe has slowly tipped into Germany's favor." #NT!
+ fxnews.126.a: "A truly embarrassing turn of events for France." #NT!
+  
+ fxnews.127.t: "France Backs The Czech State" #NT!
+ fxnews.127.d: "[This.GetNewspaperHeader]France has announced that they will give support to The Czech State against Germany. German nationalism in The Czech State's border regions has imboldend Germany to take action to annex these regions. The Czech State's government, weakend by a myriad of internal issues, has petitioned the French government to give them military support in the event that war breaks out between them and Germany. The French foreign minister has stated 'We can not allow the Germans to reorganize Europe on a whim'. As tentions grow, both Germany and France are preparing their armed forces for conflict. Now we can only pray that a peaceful solution can be found." #NT!
+ fxnews.127.a: "Why die for Děčín?" #NT!
+  
+ fxnews.128.t: "France Backs The Baltic States" #NT!
+ fxnews.128.d: "[This.GetNewspaperHeader]Yesterday Germany sent an ultimatum to several Baltic States demanding submission to the Reich, citing Livonian claims on the region and the presence of German minorities in need of protection from the Red Menace. In Response, Latvia and Estonia have asked the Entente for military support. Surprising many, the French government has announced their support in favor of the Baltic States. Hopefully it is not too late to de-escalate the situation." #NT!
+ fxnews.128.a: "Why die for the Riga?" #NT!
+  
+ fxnews.129.t: "Centroamérica Annexes Honduras" #NT!
+ fxnews.129.d: "[This.GetNewspaperHeader]The Grand Republic of Centroamérica today annexed the neighboring nation of Honduras, bringing to an end the nation's more than century-long bid at independence and spreading socialism further across Central America. This comes several weeks after a socialist government took over the parliament of Honduras, and the new united nation has already vowed to resist 'American Imperialism' and spread the values of socialism to the rest of the Americas." #NT!
+ fxnews.129.a: "The Grand Republic grows stronger!" #NT!
+ fxnews.129.b: "And so socialism spreads..." #NT!
+  
+ fxnews.130.t: "Afghan Soldiers Crosses the Durand Line" #NT!
+ fxnews.130.d: "[This.GetNewspaperHeader]\n Some hours ago, reports reached the rest of the world of the Afghan army marching into the North-West Frontier Province of British India, seemingly in reaction to the ongoing uprising in India. There is anticipation in the air over what British authorities might do about this case. This could turn into a new Anglo-Afghan War." #NT!
+ fxnews.130.a: "Outragous!" #NT!
+ fxnews.130.b: "More troubles in India?" #NT!
+  
+ fxnews.131.t: "The Fourth Anglo-Afghan War" #NT!
+ fxnews.131.d: "[This.GetNewspaperHeader]The situation in the North-West Frontier Province of British India has turned into an all-out war between Afghanistan and the British Empire, following Afghanistan's occupation of the area. Many are attempting to predict the outcome of this war, with some saying that Afghanistan will be crushed for its greed. Some, on the other hand, say that the British Empire already has too much to handle to secure a victory over the Afghans." #NT!
+ fxnews.131.a: "Let's see what happens" #NT!
+  
+ #fxnews.131.t: "France and Britain Occupy the Congo" #NT!
+ #fxnews.131.d: "[This.GetNewspaperHeader]With civil war raging in Belgium, representatives from the French and British foreign ministries announced a joint occupation of the Belgian colony in the Congo. The African colony is rich in resources, and the join occupation is designed to prevent it from falling into socialist hands or declaring independence altogether. Representatives from both governments have said this occupation will not be final, and that the colony may be returned to Belgium following the end of its conflict, though outside observers are skeptical that the two empires would ever seriously consider releasing the territory." #NT!
+ #fxnews.131.a: "Crisis averted once again!" #NT!
+ #fxnews.131.b: "It seems imperialism is alive and well in the world." #NT!
+  
+ fxnews.132.t: "France Occupies the Congo" #NT!
+ fxnews.132.d: "[This.GetNewspaperHeader]With civil war raging in Belgium, representatives from the French foreign ministry announced an immediate occupation of the Belgian colony in the Congo. The African colony is rich in resources, and the unilateral occupation is designed to prevent it from falling into socialist hands or declaring independence altogether. Representatives from the French government have said this occupation will not be final, and that the colony may be returned to Belgium following the end of its conflict, though outside observers are skeptical that the empire would ever seriously consider releasing the territory." #NT!
+ fxnews.132.a: "The French Empire grows ever stronger!" #NT!
+ fxnews.132.b: "They'll regret this..." #NT!
+ fxnews.132.c: "It seems imperialism is alive and well in the world." #NT!
+  
+ fxnews.134.t: "Mass Arrests of Japanese Navy Personel!" #NT!
+ fxnews.134.d: "[This.GetNewspaperHeader]The world ponders what will happen to the island nation of Japan as one of their most tumultous weeks pass. The current democratic government has just arrested many of their naval personnel, who were according to the government spokeperson, 'plotting a coup't'etat against the government'. The Japanese government has refused to release the list of the arrested, it is sure that many naval theorists, officiers and some cadets were arrested, while unconfirmed reports state that over 1000 are arrested. Many naval experts are certain that this will cause a massive brain drain as many of the arrested hold certain important positions, and a possible naval doctrine change as the traditionalists are arrested. Many naval theorists are concerned about the Japanese navy's future, but what lies and waits for Japan, the world wonders." #NT!
+ fxnews.134.a: "Their Navy suffered greatly." #NT!
+ fxnews.134.b: "In dishonor we found survival." #NT!
+ fxnews.134.c: "They just destroyed their own shield." #NT!
+ fxnews.134.e: "Our old ally has fallen rather quickly." #NT!
+  
+ fxnews.135.t: "The Great Pacific Alliance" #NT!
+ fxnews.135.d: "[This.GetNewspaperHeader]This morning in Washington DC, the American president, [USA.GetLeader] announced the formation of the Pacific Coalition with the Empire of Japan against some 'unnamed' threats which is planning attacks against the interests of both countries. The future is uncertain, but with the two Pacific strongholds banding together, they will safeguard democracy against those who wish to undermine the alliance and their interests. The European Entente and the Imperial Protection Alliance are shocked by a rather sudden interventionalist America while forming an alliance with Japan. The leader of the United Kingdom, [ENG.GetLeader], curiously, does not comment on the surgence of such alliance." #NT!
+ fxnews.135.a: "The two Pacific Bulwarks will defend democracy now." #NT!
+ fxnews.135.b: "Together we will safeguard Democracy." #NT!
+ fxnews.135.c: "We will prevail no matter." #NT!
+ fxnews.135.e: "Banding together like cornered rats." #NT!
+  
+ fxnews.136.t: "Japanese Spy Arrested by British Admiralty!" #NT!
+ fxnews.136.d: "[This.GetNewspaperHeader]The British Foreign Officer just held a press conference to announce the arrest of a suspected Japanese spy at the British Admiralty, while accusing the Japanese government for causing aggression. The Japanese government refused to comment on such accusations, claiming 'Japan has no intention to provoke outrage and damage the relation between the two close allies.' Many world politic commenters believe that this Anglo-Japanese diplomatic standoff is sure to remain for quite a while and will definitely cause a rift between the two close former allies." #NT!
+ fxnews.136.a: "How times have changed since the great war..." #NT!
+ fxnews.136.b: "Their actions will have consequences!" #NT!
+ fxnews.136.c: "I said he wasn't our man already! Shut up!" #NT!
+  
+ fxnews.137.t: "South Africa Leaves the Empire" #NT!
+ fxnews.137.d: "[This.GetNewspaperHeader]The Union of South Africa, long a staple of British colonialism in Africa, has declared independence from British political and military influence. The new South African government has declared that they will 'chart their own path over the decades to come,' and have framed the declaration as a struggle for freedom from an oppressive and omnipresent foe. The British foreign ministry has said little about the developments, brushing them off as 'populist propaganda,' and saying it will continue to work with the government of the colony when it regains its senses. Britain remains embroiled in a series of challenges to its influence across the globe, yet its ministry declined to comment when asked if it would consider bringing South Africa back into the empire by force. For now, the newly 'independent' nation will seek to gain allies and set up a government free of British influence." #NT!
+ fxnews.137.a: "Another blow to the British Empire." #NT!
+ fxnews.137.b: "They'll be back...one way or another." #NT!
+  
+ fxnews.138.t: "South Africa Proclaims Empire" #NT!
+ fxnews.138.d: "[This.GetNewspaperHeader]Today, the government of the independent South African state proclaimed the end of European imperialism in Africa and the start of a new African empire. The South African foreign ministry laid out plains for the future, which include 'liberating' all of Africa from European colonialism and encouraging unrest and rebellion by elites and propserous upper-class colonists across both British and French colonies on the continent. Many outside observers have labeled South Africa's proclamation as nothing more than a desperate attempt to gain global attention, and members of the British and French foreign ministries have threatened to impose economic sanctions on the country, and take military action if necessary. For now, the fate of Africa hangs in the balance..." #NT!
+ fxnews.138.a: "They can't be serious." #NT!
+ fxnews.138.b: "Glory to us!" #NT!
+  
+ worldnews_afw_neutral: "Will the chaos ever end?" #NT!
+ worldnews_fra_vs_eng_JAP: "An invaluable opportunity..." #NT!
+  
+ fxnews.139.t: "The Anglo-French War" #NT!
+ fxnews.139.d.attacker_eng: "[This.GetNewspaperHeader]In spite of their apparent unity during the Great War, times have changed drastically since 1919. With Britain and France disagreeing over the extent of Germany’s defeat, both empires split ways, once more becoming geopolitical rivals. Despite initial predictions that the rise of Valkism in Germany would warm relations between the two nations, such predictions have been evidently proven wrong.\n\nWith tensions between Britain and France rising dramatically in recent months, war has now broken out with London denouncing what they describe as French imperialism on the European continent as British bombs drop on Toulon. With further reports of colonial soldiers from Guyana to Indochina exchanging fire, many look in awe, fear and excitement as the old order begins to collapse in on itself." #NT!
+ fxnews.139.d.attacker_eng_wger: "[This.GetNewspaperHeader]In spite of their apparent unity during the Great War, times have changed drastically since 1919. With Britain and France disagreeing over the extent of Germany’s defeat, both empires split ways, once more becoming geopolitical rivals. Despite initial predictions that the rise of Valkism in Germany would warm relations between the two nations, such predictions have been evidently proven wrong.\n\nDespite their war with Germany, war between the former allies has now broken out with London denouncing what they describe as French imperialism on the European continent as British bombs drop on Toulon. With further reports of colonial soldiers from Guyana to Indochina exchanging fire, many look in awe, fear and excitement as the old order begins to collapse in on itself." #NT!
+ worldnews_eng_vs_fra_FRA: "The Rosbifs will be repelled!" #NT!
+ worldnews_eng_vs_fra_FRA_allies: "We must resist British imperialism!" #NT!
+ worldnews_eng_vs_fra_USA: "Don't they realize Germany is the greater threat?" #NT!
+ worldnews_eng_vs_fra_GER: "Hah! May they destroy each other." #NT!
+ worldnews_eng_vs_fra_GER_allies: "The Entente was always bound to fail." #NT!
+ worldnews_eng_vs_fra_ENG: "We must prevent another French Empire!" #NT!
+ worldnews_eng_vs_fra_ENG_allies: "Their Napoleonic ambitions will end here." #NT!
+ worldnews_eng_vs_fra_socialist: "Reactionary infighting heralds the end of capitalism." #NT!
+  
+ fxnews.140.t: "The Channel War" #NT!
+ fxnews.140.d.attacker_fra: "[This.GetNewspaperHeader]In spite of their apparent unity during the Great War, times have changed drastically since 1919. With Britain and France disagreeing over the extent of Germany’s defeat, both empires split ways, once more becoming geopolitical rivals. Despite initial predictions that the rise of Valkism in Germany would warm relations between the two nations, such predictions have been evidently proven wrong.\n\nWith tensions between Britain and France rising dramatically in recent months, war has now broken out with Paris declaring what they describe as British interference to be unacceptable as French submarines harrass British convoys. With further reports of colonial soldiers from Guyana to Indochina exchanging fire, many look in awe, fear and excitement as the old order begins to collapse in on itself." #NT!
+ fxnews.140.d.attacker_fra_wger: "[This.GetNewspaperHeader]In spite of their apparent unity during the Great War, times have changed drastically since 1919. With Britain and France disagreeing over the extent of Germany’s defeat, both empires split ways, once more becoming geopolitical rivals. Despite initial predictions that the rise of Valkism in Germany would warm relations between the two nations, such predictions have been evidently proven wrong.\n\nDespite their war with Germany, war between the former allies has now broken out with Paris declaring what they describe as British interference to be unacceptable as French submarines harrass British convoys. With further reports of colonial soldiers from Guyana to Indochina exchanging fire, many look in awe, fear and excitement as the old order begins to collapse in on itself." #NT!
+ worldnews_fra_vs_eng_FRA: "We shall slain Perfidious Albion!" #NT!
+ worldnews_fra_vs_eng_FRA_allies: "We stand with our allies!" #NT!
+ worldnews_fra_vs_eng_USA: "A sad end for the alliance..." #NT!
+ worldnews_fra_vs_eng_GER: "France has always had an imperialist attitude." #NT!
+ worldnews_fra_vs_eng_GER_allies: "The fools rip themselves apart." #NT!
+ worldnews_fra_vs_eng_ENG: "We should have known Paris would betray us." #NT!
+ worldnews_fra_vs_eng_ENG_allies: "The empire cannot fall!" #NT!
+ worldnews_fra_vs_eng_socialist: "Name a better duo than empire and war." #NT!
+  
+ worldnews_ww2_neutral: "War is hell." #NT!
+  
+ fxnews.141.t: "The Second Great War" #NT!
+ fxnews.141.d: "[This.GetNewspaperHeader]When the guns fell silent and the first Great War was at an end, many had thought that it would be the war to end all wars. The costs of war had irrevocably changed the landscape of Europe and it was assumed that no one had the appetite for more war. Nevertheless, there were those who doubted that peace could last.\n\nToday, these pessimists have been vindicated; denouncing their supposed enslavement by the Treaty of Versailles, Germany has mobilized her forces once again, threatening Paris to withdraw from all claimed territory at once. Such unacceptable demands have naturally been laughed off by France, igniting the spark with reports of German artillery striking French positions - the induction of another Great War that will shake the European continent." #NT!
+ worldnews_ger_vs_fra_FRA: "They shall not pass." #NT!
+ worldnews_ger_vs_fra_FRA_allies: "We must stop Valkist terror!" #NT!
+ worldnews_ger_vs_fra_USA: "How could we let Germany do this?" #NT!
+ worldnews_ger_vs_fra_GER: "We will crush these impudent rats." #NT!
+ worldnews_ger_vs_fra_GER_allies: "The Entente shall be thrown down to hell, where it belongs." #NT!
+ worldnews_ger_vs_fra_ENG: "We cannot let Germany destabilize Europe!" #NT!
+ worldnews_ger_vs_fra_ENG_allies: "This threatens the stability of the Empire!" #NT!
+ worldnews_ger_vs_fra_ITA: "Surely German imperialism doesn't go that far?" #NT!
+ worldnews_ger_vs_fra_SOV: "Their pointless endeavors will only hurt the workers." #NT!
+ worldnews_ger_vs_fra_SOV_allies: "A symptom of capitalism is war." #NT!
+ worldnews_ger_vs_fra_JAP: "This diversion serves us very well..." #NT!
+  
+ fxnews.142.t: "France Invades Germany" #NT!
+ fxnews.142.d: "[This.GetNewspaperHeader]When the guns fell silent and the first Great War was at an end, many had thought that it would be the war to end all wars. The costs of war had irrevocably changed the landscape of Europe and it was assumed that no one had the appetite for more war. Nevertheless, there were those who doubted that peace could last.\n\nToday, these pessimists have been vindicated; increasingly furious at the open repudiation of the Treaty of Versailles, France has decryed German defiance of the treaty, demanding that Germany disarm and abide by the oft-ignored treaty. Berlin’s unsurprising refusal to such ludicrous demands however have ignited the spark with reports of French bombing - the induction of another Great War that will shake the European continent." #NT!
+ worldnews_fra_vs_ger_FRA: "The Boche has been let off the hook for too long." #NT!
+ worldnews_fra_vs_ger_FRA_allies: "Germany must be stopped before it is too late!" #NT!
+ worldnews_fra_vs_ger_USA: "Surely they didn't have to?" #NT!
+ worldnews_fra_vs_ger_GER: "The time is now, we shall throw off the shackles of Versailles!" #NT!
+ worldnews_fra_vs_ger_GER_allies: "French imperialism knows no bounds." #NT!
+ worldnews_fra_vs_ger_ENG: "How dare they not consult us?" #NT!
+ worldnews_fra_vs_ger_ENG_allies: "Does Paris not know what they're doing?" #NT!
+ worldnews_fra_vs_ger_ITA: "Perhaps there is an opportunity we can gain from this?" #NT!
+ worldnews_fra_vs_ger_SOV: "They cannot hope to succeed." #NT!
+ worldnews_fra_vs_ger_SOV_allies: "The workers must resist these imperialist bastards!" #NT!
+ worldnews_fra_vs_ger_JAP: "If France is busy in the west..." #NT!
+  
+ worldnews_gsw: "The world trembles." #NT!
+ worldnews_gsw_eastern_european: "And we're in the middle..." #NT!
+  
+ fxnews.143.t: "War in the East" #NT!
+ fxnews.143.d.wo_fra: "[This.GetNewspaperHeader]When the Soviet Union arose from the ashes of the old Tsarist empire, it was destined to meet an ideological foe that matched them in revolutionary fervor. Ironically, this foe would wind up being Germany who had inadvertently sparked the Bolshevik revolution in 1917.\n\nFor the longest time, Berlin and Moscow had the frostiest relations that could be, with foreign observers betting on which country would strike first. Now, those who bet on Germany striking first have been proven right; decrying Soviet aggression and promising to liberate Eastern Europe from Soviet rule, Germany has invaded the Soviet Union. Already, German tanks have been seen pouring over the Soviet border - the culmination of their ideological struggle." #NT!
+ fxnews.143.d.w_fra: "[This.GetNewspaperHeader]When the Soviet Union arose from the ashes of the old Tsarist empire, it was destined to meet an ideological foe that matched them in revolutionary fervor. Ironically, this foe would wind up being the Germans who had inadvertently sparked the Bolshevik revolution in 1917.\n\nFor the longest time, Berlin and Moscow had the frostiest relations that could be, with foreign observers betting on which country would strike first. Although Germany's war with France had changed most predictions, Berlin has defied these expectations, going on to boldly condemn Soviet aggression, declaring war on the Soviet Union. Even as German tanks are seen crossing the Soviet border, many wonder if Germany can really win as she now fights on two fronts once again." #NT!
+ worldnews_ger_vs_sov_ger_ally: "With Germany on our side, socialism shall be defeated!" #NT!
+ worldnews_ger_vs_sov_sov_ally: "With the Russians on our side, victory is inevitable!" #NT!
+ worldnews_ger_vs_sov_SOV_ww2: "Germany will be crushed like a fly." #NT!
+ worldnews_ger_vs_sov_SOV_allies_ww2: "Germany will be liberated!" #NT!
+ worldnews_ger_vs_sov_GER_ww2: "Germany's existence is at stake!" #NT!
+ worldnews_ger_vs_sov_GER_allies_ww2: "Worrying..." #NT!
+ worldnews_ger_vs_sov_FRA_ww2: "A foolish move." #NT!
+ worldnews_ger_vs_sov_FRA_allies_ww2: "What was Berlin thinking?" #NT!
+ worldnews_ger_vs_sov_SOV: "We shall shatter the enemy!" #NT!
+ worldnews_ger_vs_sov_SOV_allies: "Our comrades are under attack!" #NT!
+ worldnews_ger_vs_sov_GER: "We shall right the mistakes of the past." #NT!
+ worldnews_ger_vs_sov_GER_allies: "Everything for the anti-Bolshevik struggle!" #NT!
+ worldnews_ger_vs_sov_FRA: "This leaves Germany wide open..." #NT!
+ worldnews_ger_vs_sov_FRA_allies: "At least they aren't threatening us!" #NT!
+ worldnews_ger_vs_sov_anglo: "The world is only big enough for one tyrant." #NT!
+ worldnews_ger_vs_sov_JAP: "This leaves the East open..." #NT!
+ worldnews_ger_vs_sov_RUS: "This is it." #NT!
+  
+ fxnews.144.t: "The German-Soviet War" #NT!
+ fxnews.144.d.wo_fra: "[This.GetNewspaperHeader]When the Soviet Union arose from the ashes of the old Tsarist empire, it was destined to meet an ideological foe that matched them in revolutionary fervor. Ironically, this foe would wind up being the Germans who had inadvertently sparked the Bolshevik revolution in 1917.\n\nFor the longest time, Berlin and Moscow had the frostiest relations that could be, with foreign observers betting on which country would strike first. Today, those who bet that the Soviets would strike first have been proven right; declaring that Germany seeks to destroy them first, the Soviet Union has declared war on Germany. Already, Soviet soldiers have been seen exchanging fire with German troops - the culmination of their ideological struggle." #NT!
+ fxnews.144.d.w_fra: "[This.GetNewspaperHeader]When the Soviet Union arose from the ashes of the old Tsarist empire, it was destined to meet an ideological foe that matched them in revolutionary fervor. Ironically, this foe would wind up being the Germans who had inadvertently sparked the Bolshevik revolution in 1917.\n\nFor the longest time, Berlin and Moscow had the frostiest relations that could be, with foreign observers betting on which country would strike first. With the war in the West, many observers predicted that Moscow would strike the distracted Germans first. Sure enough, the Soviet Union has declared war on Germany. As Soviet soldiers are seen exchanging fire with German troops, many wonder if Germany can really win as she now fights on two fronts once again." #NT!
+ worldnews_sov_vs_ger_ger_ally: "We must resist Bolshevik aggression!" #NT!
+ worldnews_sov_vs_ger_sov_ally: "Germany will lose again!" #NT!
+ worldnews_sov_vs_ger_SOV_ww2: "We shall liberate the German worker!" #NT!
+ worldnews_sov_vs_ger_SOV_allies_ww2: "We must support our comrades in Moscow!" #NT!
+ worldnews_sov_vs_ger_GER_ww2: "Gott im Himmel!" #NT!
+ worldnews_sov_vs_ger_GER_allies_ww2: "The Reds are coming!" #NT!
+ worldnews_sov_vs_ger_FRA_ww2: "We will beat them to Berlin." #NT!
+ worldnews_sov_vs_ger_FRA_allies_ww2: "Like Icarus and the sun." #NT!
+ worldnews_sov_vs_ger_SOV: "We must strike before they do!" #NT!
+ worldnews_sov_vs_ger_SOV_allies: "The workers of the world demand Germany's liberation!" #NT!
+ worldnews_sov_vs_ger_GER: "We should have seen this coming." #NT!
+ worldnews_sov_vs_ger_GER_allies: "Shame we didn't strike first..." #NT!
+ worldnews_sov_vs_ger_FRA: "Let them fight." #NT!
+ worldnews_sov_vs_ger_FRA_allies: "The stability of Europe is at risk!" #NT!
+ worldnews_sov_vs_ger_anglo: "The red menace spreads..." #NT!
+ worldnews_sov_vs_ger_JAP: "Our northern frontier is secured." #NT!
+ worldnews_sov_vs_ger_RUS: "This is our last chance." #NT!
+  
+ fxnews.145.t: "The Kiel Soviet" #NT!
+ fxnews.145.d: "[This.GetNewspaperHeader]The product of Germany’s humiliating defeat in the Great War, the Kiel mandate has been embroiled in instability since its creation in 1922, with extremists on every side duking out with the government and each other for control of the vital Kiel Canal and all that surrounds it.\n\nWith London unable to continue supporting the mandate, its future was left up to a referendum, resulting in an upset victory for those who desired unification with the Reich. Deemed to be an unacceptable result, a military intervention by the mandate was executed, followed by a power vacuum that has propelled the communists of Kiel to power. With the revolution reaching Kiel, many wonder what will happen next as the balance of power in Europe becomes ever more tenuous." #NT!
+ fxnews.145.a: "Spartacus shall be avenged!" #NT!
+ fxnews.145.b: "Moscow's sockpuppets..." #NT!
+ fxnews.145.c: "They will join their red idols soon enough." #NT!
+ fxnews.145.e: "History repeats itself." #NT!
+  
+ fxnews.146.t: "Regionalists Take Over Kiel" #NT!
+ fxnews.146.d: "[This.GetNewspaperHeader]The product of Germany’s humiliating defeat in the Great War, the Kiel mandate has been embroiled in instability since its creation in 1922, with extremists on every side duking out with the government and each other for control of the vital Kiel Canal and all that surrounds it.\n\nWith London unable to continue supporting the mandate, its future was left up to a referendum, resulting in the creation of a free state. However, the city’s inability to form a government has only emboldened the regionalists of the former mandate, resulting in their storming of the Landtag and creation of an independent Schleswig-Holstein. In the aftermath, the Landespartei have asserted themselves, promising to bring much-desired aid to the rural population." #NT!
+ fxnews.146.a: "Down with Berlin's tyranny!" #NT!
+ fxnews.146.b: "Another bulwark against Germany?" #NT!
+ fxnews.146.c: "Bah!" #NT!
+ fxnews.146.e: "The Mandate was always a temporary solution." #NT!
+  
+ fxnews.147.t: "The End of the Free City" #NT!
+ fxnews.147.d: "[This.GetNewspaperHeader]The product of Germany’s humiliating defeat in the Great War, the Kiel mandate has been embroiled in instability since its creation in 1922, with extremists on every side duking out with the government and each other for control of the vital Kiel Canal and all that surrounds it.\n\nWith London unable to continue supporting the mandate, its future was left up to a referendum, resulting in the creation of a free state. However, the city’s inability to form a government has only emboldened the regionalists of the former mandate, resulting in their storming of the Landtag and creation of an independent Schleswig-Holstein. Highly xenophobic and nationalist, the new ‘Landvolk’ government has taken over, signalling the end of foreign influences in Kiel." #NT!
+ fxnews.147.a: "The people are victorious!" #NT!
+ fxnews.147.b: "Better them than the reds..." #NT!
+ fxnews.147.c: "Utter folly." #NT!
+ fxnews.147.e: "What about the canal?" #NT!
+  
+ fxnews.148.t: "German Exiles Form Government in Kiel" #NT!
+ fxnews.148.d: "[This.GetNewspaperHeader]The product of Germany’s humiliating defeat in the Great War, the Kiel mandate has been embroiled in instability since its creation in 1922, with extremists on every side duking out with the government and each other for control of the vital Kiel Canal and all that surrounds it.\n\nWith London unable to continue supporting the mandate, its future was left up to a referendum, resulting in the creation of a free state. Stepping in to fill the vacuum, German exiles have formed a new, nationalist government inextricably opposed to the Reich. Made up of the followers and allies of former chancellor Kurt von Schleicher, it remains to be seen how Berlin will react to their continued encirclement as tensions in Europe continue to rise." #NT!
+ fxnews.148.a: "Down with valkism!" #NT!
+ fxnews.148.b: "They are republicans, right?" #NT!
+ fxnews.148.c: "These goons shall pay for their insolence!" #NT!
+ fxnews.148.e: "The ghost of Weimar haunts Germany..." #NT!
+  
+ fxnews.149.t: "Social Democratic Government in Kiel" #NT!
+ fxnews.149.d: "[This.GetNewspaperHeader]The product of Germany’s humiliating defeat in the Great War, the Kiel mandate has been embroiled in instability since its creation in 1922, with extremists on every side duking out with the government and each other for control of the vital Kiel Canal and all that surrounds it.\n\nWith London unable to continue supporting the mandate, its future was left up to a referendum, resulting in an upset victory for those who desired unification with the Reich. Deemed to be an unacceptable result, a military intervention by the mandate was executed, followed by a power vacuum that has propelled the social democrats to power. Once thought of as a spent force in Germany, Berlin has already denounced the new government as Europe continues to barrel towards war." #NT!
+ fxnews.149.a: "Down with valkism!" #NT!
+ fxnews.149.b: "Kiel remains in steady hands." #NT!
+ fxnews.149.c: "They will fail like their predecessors did!" #NT!
+ fxnews.149.e: "It seems there still is hope for German democracy." #NT!
+  
+ fxnews.150.t: "France Occupies the Rif" #NT!
+ fxnews.150.d: "[This.GetNewspaperHeader]Today, French colonial soldiers have been seen entering Tangiers, with Paris citing a need to prevent the area from falling into the hands of political extremists and restore order\n\nThis aggressive action has been chalked up to the defeat of the Spanish Republicans, causing Paris to grow concerned about the security situation in the Western Mediterranean, leading to their decision to cut losses. No statements have been forthcoming from the remaining factions in the conflict, although it is clear that whichever faction has won the conflict, they will not be friendly with their northen neighbour." #NT!
+ fxnews.150.a: "Spain falls further..." #NT!
+  
+ fxnews.151.t: "The Fall of France" #NT!
+ fxnews.151.d.noengita: "[This.GetNewspaperHeader]When the Great War ended and the guns over Europe fell silent, it seemed that the powers of old, Britain and France had asserted dominance over the rising Germany, beating the comparatively young nation into the ground with such force and cruelty that many had thought it impossible for Germany to assert herself ever again.\n\nOnce the butt of many jokes by their detractors, the critics of the new German regime have now fallen silent as Germany has undeniably done what the Kaiserreich was unable to - to defeat and occupy France. With France out of the picture, many now believe that it is only a matter of time before Germany dominates the continent as the image of German soldiers marching down the Arc de Triomphe shakes the world to its very core." #NT!
+ fxnews.151.d.engita: "[This.GetNewspaperHeader]When the Great War ended and the guns over Europe fell silent, it seemed that the powers of old, Britain and France had asserted dominance over the rising Germany, beating the comparatively young nation into the ground with such force and cruelty that many had thought it impossible for Germany to assert herself ever again.\n\nOnce the butt of many jokes by their detractors, the critics of the new German regime have now fallen silent as Germany has undeniably done what the Kaiserreich was unable to - to defeat and occupy France. With France out of the picture, now only Rome and London remain as the last Entente powers in Europe standing against the seemingly unstoppable Heer, with many believing it a matter of time before the same fate that befell France befalls them too." #NT!
+ fxnews.151.d.ita: "[This.GetNewspaperHeader]When the Great War ended and the guns over Europe fell silent, it seemed that the powers of old, Britain and France had asserted dominance over the rising Germany, beating the comparatively young nation into the ground with such force and cruelty that many had thought it impossible for Germany to assert herself ever again.\n\nOnce the butt of many jokes by their detractors, the critics of the new German regime have now fallen silent as Germany has undeniably done what the Kaiserreich was unable to - to defeat and occupy France. With France out of the picture, only Italy, ‘the least of the great powers’, remains to oppose Germany’s rampage across Europe, with many believing it a matter of time before the Germans cross the Alps once more to satiate their further hunger for conquest." #NT!
+ fxnews.151.d.eng: "[This.GetNewspaperHeader]When the Great War ended and the guns over Europe fell silent, it seemed that the powers of old, Britain and France had asserted dominance over the rising Germany, beating the comparatively young nation into the ground with such force and cruelty that many had thought it impossible for Germany to assert herself ever again.\n\nOnce the butt of many jokes by their detractors, the critics of the new German regime have now fallen silent as Germany has undeniably done what the Kaiserreich was unable to - to defeat and occupy France. With France out of the picture, the lonely island of Great Britain is the only thing standing between Germany and total victory in Western Europe, with many believing it a matter of time before the Empire succumbs to the German onslaught." #NT!
+ worldnews_fall_of_france_GER: "Sieg Heil!" #NT!
+ worldnews_fall_of_france_FRA: "We will return..." #NT!
+ worldnews_fall_of_france_SOV: "This does not forbode well..." #NT!
+ worldnews_fall_of_france_JAP: "The Far East lays open!" #NT!
+ worldnews_fall_of_france_USA: "Dear God." #NT!
+ worldnews_fall_of_france_ENG: "How horrible!" #NT!
+ worldnews_fall_of_france_ITA: "We must seize the day!" #NT!
+ worldnews_fall_of_france_GER_allies: "Germany cannot be stopped - victory is imminent!" #NT!
+ worldnews_fall_of_france_FRA_allies: "We must fight on!" #NT!
+ worldnews_fall_of_france_anglo_allies: "What will this mean for Europe?" #NT!
+ worldnews_fall_of_france_socialist: "Reaction is the inevitable result of capitalism." #NT!
+ worldnews_fall_of_france_normal: "The Führer has done what the Kaiser could not." #NT!
+  
+ fxnews.153.t: "The Remilitarization of Hamburg" #NT!
+ fxnews.153.d: "[This.GetNewspaperHeader]Ever since the end of the Great War, the Kiel mandate remained as one of the most sore points of contention between the defeated Germans and triumphant Entente. With its establishment, Germany was barred from sending her military into Hamburg and the regions adjacent to the mandate, leaving the Kiel administration to be totally secure from Germany.\n\nFollowing the rise of a new ultranationalist Germany however and the repudiation of Versailles, the demilitarized status of this area was thought to be on borrowed time. Declaring its right to territorial sovereignty, the new German government headed by Führer [GER.GetLeader] has sent troops into the demilitarized zone. With a lack of response by the former Entente powers, it is now clear that..." #NT!
+ fxnews.153.a: "...this is the first step to Germany’s liberation!" #NT!
+ fxnews.153.b: "...Berlin can not be tamed." #NT!
+ fxnews.153.c: "...the last vestige of Versailles has been broken." #NT!
+  
+ fxnews.154.t: "Collapse of the Entente" #NT!
+ fxnews.154.d.no_entente_remnant: "[This.GetNewspaperHeader]At the end of the Great War, the victorious alliance stretching across the Atlantic was thought to have once and for all prevailed. The world was to be the domain of the victorious powers, most especially France and her allies. To many, it was to be the point at which liberal democracy had ascended as the triumphant system of government even.\n\nThe Entente however has seen better days. Greatly weakened by the departure of the United States, the alliance would soon split between London and Paris with Britain opting to go her own way as well. With rising powers bearing down on the Entente in a struggle for a new world order, the alliance has now totally collapsed with all of its members having been defeated one way or another. A new age is sure to come next." #NT!
+ fxnews.154.d: "[This.GetNewspaperHeader]At the end of the Great War, the victorious alliance stretching across the Atlantic was thought to have once and for all prevailed. The world was to be the domain of the victorious powers, most especially France and her allies. To many, it was to be the point at which liberal democracy had ascended as the triumphant system of government even.\n\nThe Entente however has seen better days. Greatly weakened by the departure of the United States, the alliance would soon split between London and Paris with Britain opting to go her own way as well. With rising powers bearing down on the Entente in a struggle for a new world order, the alliance has now totally collapsed with only a scant few members able to hold out as a new age dawns on the world." #NT!
+ worldnews_no_more_entente_GER: "Deutschland, Vaterland, wir kommen schon!" #NT!
+ worldnews_no_more_entente_GER_enemy: "Even so, they shall not prevail!" #NT!
+ worldnews_no_more_entente_ENG: "A total disaster in the making." #NT!
+ worldnews_no_more_entente_SOV: "The capitalist order is reaching its final conclusion." #NT!
+ worldnews_no_more_entente_JAP: "The Western world order is collapsing." #NT!
+ worldnews_no_more_entente_USA: "Democracy is now under siege..." #NT!
+ worldnews_no_more_entente_ITA: "It appears we have dodged a bullet!" #NT!
+ worldnews_no_more_entente_socialist: "Liberal weakness always loses." #NT!
+ worldnews_no_more_entente_normal: "The beginning of a new world..." #NT!
+  
+ fxnews.155.t: "The End of World War Two" #NT!
+ fxnews.156.t: "The End of the Second Great War" #NT!
+ fxnews.155.d: "[This.GetNewspaperHeader]In an earth-shaking turn of events, the old enemies of the first Great War would once again face off in a war over the fate of not just Europe, but now seemingly the world. Despite all the odds stacked against them however, the newly invigorated Germany has successfully pulled off an upset victory over the once-dominant Entente powers, with all of the reformed alliance facing constant setbacks in Europe and abroad.\n\nAs neither side were in the position to totally defeat the other, both Berlin and Washington have come together to end the war, though on terms clearly in favour of Germany and its allies. With this masterstroke, the old world order has come to a pitiful end as the Reich reigns triumphant." #NT!
+ fxnews.156.d: "[This.GetNewspaperHeader]In an earth-shaking turn of events, the old enemies of the first Great War would once again face off in a war over the fate of Europe. Despite all the odds stacked against them however, the newly invigorated Germany has successfully pulled off an upset victory over the once-dominant Entente powers, with all of Britain’s continental allies laid low.\n\nAs neither side was seemingly able to fully finish off the other, both Germany and Britain have opted to end hostilities, though observers have noted the terms to be highly favourable for Berlin and her allies. With the British now expelled from any sort of European system and Germany victorious on the continent, it appears that the Entente order has come to a feeble end." #NT!
+ worldnews_GER_wins_ww2_GER: "Das Volk steht auf!" #NT!
+ worldnews_GER_wins_ww2_GER_ally: "A new world awaits us!" #NT!
+ worldnews_GER_wins_ww2_GER_enemy: "This will not be easy..." #NT!
+ worldnews_GER_wins_ww2_JAP: "The collapse of imperialism will soon come..." #NT!
+ worldnews_GER_wins_ww2_USA: "A dark day for humanity..." #NT!
+ worldnews_GER_wins_ww2_ENG: "A dark day for the empire..." #NT!
+ worldnews_GER_wins_ww2_socialist: "Liberalism could never hope to suffice." #NT!
+ worldnews_GER_wins_ww2_normal: "A new world awaits us..." #NT!
+  
+ fxnews.157.t: "War in Central Europe" #NT!
+ fxnews.157.d: "[This.GetNewspaperHeader]The rise of the Valkist regime in Germany was not to go unnoticed by the nations surrounding the Reich. Despite their pan-German proclamations, Germany’s neighbours came out unscathed from the Valkist surge - causing the question of pan-German unification to linger.\n\nWith the fall of the German mandates and the rise of new governments in their stead, Berlin would soon find herself encircled by a new Western-backed alliance. Undeterred, Germany’s pan-German ambitions have now resulted in a war in the heart of Europe between the new alliance and Berlin. Although few can deny the bravery of the young nations fighting Germany, even fewer expect any outcome besides the creation of an emboldened, war-hardened Germany." #NT!
+ fxnews.157.a: "This will prove simple." #NT!
+ fxnews.157.b: "Heimat du bist wieder mein!" #NT!
+ fxnews.157.b_alt: "We must stop Germany!" #NT!
+ fxnews.157.c: "Can peace in Europe survive this blow?" #NT!
+  
+ fxnews.158.t: "Arrow-Cross Consolidation in Hungary" #NT!
+ fxnews.158.d: "[This.GetNewspaperHeader]Being one of the losers of the Great War, few expected the rump Hungarian state to make any sort of comeback. With most of its historically owned territory ripped away, many thought that Budapest would have to make do as a third-rate power to any Balkan bloc. This, however, has changed drastically with Hungary’s reclamation of her old lands.\n\nBecoming infamous for his demagogic and ultranationalist declarations, Hungarian leader Ferenc Szálasi has now consolidated his power in the ascendant Hungarian state, declaring himself Vezér. With his Greenshirts gaining notoriety for their brutality against minorities, many are wary of what comes next for Budapest." #NT!
+ fxnews.158.a: "Ébredj Magyar!" #NT!
+ fxnews.158.b: "Awful." #NT!
+ fxnews.158.c: "They are a hopping mad bunch." #NT!
+ fxnews.158.e: "Perhaps Szálasi can provide the strong leadership Hungary needs?" #NT!
+  
+ fxnews.159.t: "President Szálasi Overthrown" #NT!
+ fxnews.159.d: "[This.GetNewspaperHeader]Being one of the losers of the Great War, few expected the rump Hungarian state to make any sort of comeback. With most of its historically owned territory ripped away, many thought that Budapest would have to make do as a third-rate power to any Balkan bloc. This, however, has changed drastically with Hungary’s reclamation of her old lands.\n\nRising to prominence as the straight-laced prime minister to the boisterous and often-fanciful president Szálasi, Béla Imrédy has seemingly turned the tables on the Arrow-Cross in their latent power struggle with a coup. While Imrédy himself does not reign as the president of Hungary, most know where the true power in Budapest now lies." #NT!
+ fxnews.159.a: "Jobb jövőt - Adjon Isten!" #NT!
+ fxnews.159.b: "Are they truly better than the Greenshirts?" #NT!
+ fxnews.159.c: "At last, some good news from the Balkans!" #NT!
+ fxnews.159.e: "They seem to be more typical." #NT!
+  
+ fxnews.160.t: "Republicans Take Over Rhineland Mandate" #NT!
+ fxnews.160.d: "[This.GetNewspaperHeader]As one of the hearts of German industry, the cession of the Rhineland from Germany to an international mandate following the end of the Great War has been a matter of great controversy. With both Berlin and Paris wrestling with one another for influence over the mandate, many presumed that the Rhineland was to remain with Paris.\n\nWith the rise of Dressler however, fate has demonstrated other plans for the mandate. Rallying anti-French sentiment, exiles from Germany proper have taken the initiative and come out victorious at a national conference to decide the Rhineland’s fate, with the remaining mandate powers supporting their takeover. As the hated enemy of Berlin, their claim to legitimacy leaves one to wonder if they can truly reclaim the Reich." #NT!
+ fxnews.160.a: "Dem deutschen Volke!" #NT!
+ fxnews.160.b: "Can they learn from Weimar's mistakes?" #NT!
+ fxnews.160.c: "An unfortunate turn of events..." #NT!
+ fxnews.160.e: "Criminals, traitors - they shall hang soon!" #NT!
+  
+ fxnews.161.t: "Federalists Take Over Rhineland Mandate" #NT!
+ fxnews.161.d: "[This.GetNewspaperHeader]As one of the hearts of German industry, the cession of the Rhineland from Germany to an international mandate following the end of the Great War has been a matter of great controversy. With both Berlin and Paris wrestling with one another for influence over the mandate, many presumed that the Rhineland was to remain with Paris.\n\nWith the rise of Dressler however, fate has demonstrated other plans for the mandate. Striking a federalist alliance, exiles from Germany proper and separatists have taken over the Rhenish state, with the remaining mandate powers supporting their takeover. As the hated enemy of Germany proper, their claim to legitimacy leaves one to wonder if they can truly reclaim the Reich." #NT!
+ fxnews.161.a: "Einigkeit und Recht und Freiheit!" #NT!
+ fxnews.161.b: "Can they learn from Weimar's mistakes?" #NT!
+ fxnews.161.c: "Better the devil we know, right?" #NT!
+ fxnews.161.e: "This gaggle of national-traitors shall soon be punished!" #NT!
+  
+ fxnews.162.t: "Separatists Take Over Rhineland Mandate" #NT!
+ fxnews.162.d: "[This.GetNewspaperHeader]As one of the hearts of German industry, the cession of the Rhineland from Germany to an international mandate following the end of the Great War has been a matter of great controversy. With both Berlin and Paris wrestling with one another for influence over the mandate, many presumed that the Rhineland was to remain with Paris.\n\nThese predictions have come true, with a separatist coalition of socialists and conservatives taking control of the Rhenish state following their victory at the national conference to decide the fate of the Rhineland, with the blessing of the mandate powers. With reports of substantial internal resistance and regular denunciations from the Reich, one can only speculate if they can keep the Rhineland independent." #NT!
+ fxnews.162.a: "Für Freie Rheinland!" #NT!
+ fxnews.162.b: "The Rhineland remains tied to Paris..." #NT!
+ fxnews.162.c: "There is no better outcome!" #NT!
+ fxnews.162.e: "The Volk shall throw back the invader as in 1813!" #NT!
+  
+ fxnews.163.t: "The End of the Rhineland Mandate" #NT!
+ fxnews.163.d: "[This.GetNewspaperHeader]As one of the hearts of German industry, the cession of the Rhineland from Germany to an international mandate following the end of the Great War has been a matter of great controversy. With both Berlin and Paris wrestling with one another for influence over the mandate, many presumed that the Rhineland was to remain with Paris.\n\nThese predictions have come true, with the popular mayor Konrad Adenauer and his Catholic Centre Party taking control of the Rhenish state following separatist victory at the national conference to decide the fate of the Rhineland, with the blessing of the mandate powers. With reports of infighting coming out and regular denunciations from the Reich, one can only speculate if they can keep the Rhineland free." #NT!
+ fxnews.163.a: "Für Freie Rheinland!" #NT!
+ fxnews.163.b: "A sign of the changing times?" #NT!
+ fxnews.163.c: "Better him than fools." #NT!
+ fxnews.163.e: "A shameless, feeble-minded traitor!" #NT!
+  
+ fxnews.164.t: "Coup in Budapest" #NT!
+ fxnews.164.d: "[This.GetNewspaperHeader]Being one of the losers of the Great War, few expected the rump Hungarian state to make any sort of comeback. With most of its historically owned territory ripped away, many thought that Budapest would have to make do as a third-rate power to any Balkan bloc. This, however, has changed drastically with Hungary’s reclamation of her old lands.\n\nPerhaps shockingly, neither president Szálasi nor prime minister Imrédy have come on top in the recent power struggle. Seemingly sick of the further slide into radicalism, the military in collaboration with democratic opposition and the aristocracy have overthrown the ultranationalist government, heralding a new future for Hungary." #NT!
+ fxnews.164.a: "Isten, áldd meg a magyart." #NT!
+ fxnews.164.b: "It appears normalcy returns to Budapest..." #NT!
+ fxnews.164.c: "They better be easier to work with..." #NT!
+ fxnews.164.e: "Hopefully the right outcome comes from this." #NT!
+  
+ fxnews.165.t: "Games of the XI Olympiad: Berlin 1936" #NT!
+ fxnews.165.d: "[This.GetNewspaperHeader]The 1936 Olympic Games, officially The Games of the XI Olympiad, have concluded. Hosted in Berlin, the XI Olympiad was originally planned to be hosted in Barcelona, before the outbreak of civil war led the International Olympic Committee to instead award the Games to Germany.\n\nOfficially branded as \"Berlin 1936\" with the slogan \"I call the Youth of the World!\", the Berlin Olympics have been carefully crafted by Germany to show the world an image of a dynamic, energetic and modernizing nation. Nearly fifty nations participated, with the German athletes taking the greatest number of medals of 103 total  medals with 40 gold, far ahead of the second-place United States with 53 total medals, 23 of which are gold." #NT!
+ fxnews.165.a: "Deutschland Erwacht!" #NT!
+ fxnews.165.b: "We did our best!" #NT!
+ fxnews.165.c: "Nothing more than putting lipstick on a pig." #NT!
+ fxnews.165.e: "Hopefully we can participate next time..." #NT!
+  
+ fxnews.166.t: "Games of the XI Olympiad: Lausanne 1936" #NT!
+ fxnews.166.d: "[This.GetNewspaperHeader]The 1936 Olympic Games, officially The Games of the XI Olympiad, have concluded. The XI Olympiad was originally planned to be hosted in Barcelona, before the outbreak of civil war led the International Olympic Committee to award the Games officially to Germany. It was with some irony, then, that the outbreak of a similar civil war in Germany led the IOC to meet again, relocating the Games to Lausanne, Switzerland, where they were finally held.\n\nOver forty nations attended, though notably lacking Germany, an event described by many as stark, given the reason for, and haste with which, the Games were relocated. The United States performed the best, winning 77 total medals, with 34 gold, followed by France; the Swiss themselves performed admirably, winning 11 gold medals and 28 in total." #NT!
+ fxnews.166.a: "Plus vite, plus haut, plus fort." #NT!
+ fxnews.166.b: "We did our best!" #NT!
+ fxnews.166.c: "More reactionary charades." #NT!
+ fxnews.166.e: "It sure must be nice for them to attend..." #NT!
+  
+ # Alt-History Literature 
+ fxnews.76.t: "Ernest Raymond - A Fourth Rome" #NT!
+ fxnews.76.d: "The rising British novelist, Ernest Raymond, has released his new book ‘A Fourth Rome’. It has become the latest major work of alternate history in the British Empire, and has had notable cultural impact on the peoples of various nations.\n\nThe novel’s plot revolves around continued hostilities between Britain and France following the 1890’s, with the general point of divergence being that German Emperor Friedrich III never picking up a habit of smoking in the 1880’s. Hostilities between Britain and France would cause Britain to seek allies to help establish influence on the continent to counter France, and the survival of the German Emperor Friedrich III had assisted in bettering relations between Britain and Germany, paving way for an alliance between the two parties. France, however, was able to coax Italy and Russia into their own Entente, nonetheless setting a stage for the Great War, which would break out initially between France and Britain over a colonial border dispute.\n\nThe war would end and result in the loss of the Entente and the victory of the Central Powers. France would soon become prey to nationalist sentiment following their loss in the Great War, resulting in the establishment of a ‘highly Militarized Republic in which service guarantees citizenship’, which arguably blurred the lines between a Republic and a Junta. France would then install a similarly styled Republican Regime in Italy following France’s intervention in the Italian Civil War, which was induced by their loss in the Great War. Marco Brescil would rise to power in this newly established Partner-State to France, and would proclaim himself as ‘Caesar’, and would announce his goal to recreate an Civilization similar to Rome in nature (rather than territorially speaking).\n\nThe novel ends with yet another war between the German-led Central Powers and French-led Entente d’Acier, as a newborn ‘Fourth Rome’ scrambles to utilize the situation to their advantage. The novel has had profound impact throughout Britain, France, and Germany, and has contributed to a mutual rise of Germanophilia and Anglophilia in Britain and Germany respectively. Despite this, it has received large amounts of flak from critics, as the notion of a prolonged survival of Friedrich III has been considered as ‘nothing more than childish’. Raymond nonetheless defends his tale, stating that ‘something like this could have happened in another Universe’." #NT!
+ fxnews.76.a: "What a childish fantasy." #NT!
+  
+ fxnews.77.t: "Eric Blair - Tides of Revolution" #NT!
+ fxnews.77.d: "The British writer known as Eric Blair has released ‘The Tides of Revolution’ earlier today, the plot of which ended up being received as shocking and controversial by a strong majority of the Imperial populace. A gripping story about a British Sailor fighting on behalf of the Freipakt in a global-scale war, the book details a world in which the Entente won the Great War, but at a dire cost. \n\nA lack of American entry to the Great War culminated in a much more drawn out and bloodier Great War, which ruined many Western member-states of the Entente. With both the Entente and Central Powers on the brink of collapse and unable to sustain further conflict; a shaky peace arrangement was reached which resulted in surprisingly little territorial concessions by either side. As the Entente was desperate to see the Bolshevik threat put down, they intervened to ensure victory of the Whites in the Russian Civil War. \n\nWith the end of a bloody Great War without any newly acquired territories to gleam, France soon fell into a civil war between the Republicans and Socialists, with the latter being the victor. In the process, all of their colonial holdings were either seized or declared independence. On the other side of the Rhine, a strong Nationalist sentiment began to rapidly brew in Germany and Russia, both of which quickly fell to Nationalist rhetoric. The two nations reached a common ground and shortly formed an alliance with the goal of ensuring global domination by the two countries. Additionally, with the British Empire passing the Statute of Westminster and steadily decentralizing coupled with the Austro-Hungarian Empire reforming into a federation of equals; the two nations quickly found themselves as the only liberal democracies remaining in Europe. In the Americas, the United States is struggling with internal politics more than ever; recent revolutions in Europe led to a colossal rise of Nationalist and Socialist sentiments, with polarization on the rise; a Civil War broke out; damaging the United States beyond repair. \n\nThe novel ends off with a 6-year strong Second Great War between the the French ‘P.R.I’, the ‘Russo-German Axis’ and the ‘Freipakt’, leading to tragic loss of life across the world. Whilst often criticized for lack of historical foundation and extensive creative liberties, it has nonetheless become a bestseller amongst the British Empire." #NT!
+ fxnews.77.a: "Is he trying to make that Universe as bad as possible?" #NT!
+  
+ fxnews.78.t: "André Malraux - The Knife in the Letter" #NT!
+ fxnews.78.d: "A controversial tale of by the French writer André Malraux set on a future timeline has recently reached the shelves of France, depicting a scenario of a new world order after a Second Great War.\n\nThe story is a dystopian tale set in 1962, featuring an American man surviving in the divided midwest in a world locked in a nuclear stalemate. In this timeline, the German Reich goes to war with and successfully defeats the Entente and takes control of western Europe. In the eastern front, as chaos divides the Russians, the Soviet Union too falls very quickly, causing the Stahlpakt to dominate all of the European continent. Meanwhile, in the New World, a disunited and ill United States falls to the revanchist Mexican State, the federal government collapses and splinter states rise in North America, then as the rising Mexico begins to establish its sphere of influence in the New World, it comes into conflict with the British Empire in the Caribbean, leading to a joint war with Germany against the British. The war slows down into a grinding naval stalemate, until Germany creates the ultimate weapon, powered by the atom itself. After the Mexican bomb Jamaica and Barbuda with this nuclear weapon, the British finally accept to negotiate a peace, granting Germany several of its colonial possessions overseas and giving Mexico control of the Caribbean.\n\nAs a new world order is established, German-Mexican relationships break, as well as the Stahlpakt collapses as Germany oversteps its boundaries, causing widespread resentment, up until economic crisis causes it to isolate itself. The British then begin ignoring the peace treaty terms and challenging the Reich’s influence in the world. Thus by 1962, the world is locked in a nuclear stalemate between the German Reich, the Greater Mexican State, and the British Empire, all looking to be the dominant world power.\n\nThe Novel ends with the beginning of a new nuclear crisis as the Mexican set up a missile base in their allied territory near the Great Lakes, threatening Canada, and causing the worldwide panic as the British prepare to deal with this aggression. While many criticize the book for its huge gaps in plausibility and exaggerated proposals of future technology, the gripping political tension that wraps every part of the story has lead it to great success amongst all of the Entente." #NT!
+ fxnews.78.a: "Since when is Pseudo-Science Fiction so popular?" #NT!
+  
+ fxnews.152.t: "Anna Seghers - Arbeiterreich" #NT!
+ fxnews.152.d: "Renowned German author Anna Seghers, known for her socialist ideals, unveils her latest literary masterpiece, \"The Legacy of the Revolution\". This groundbreaking work of alternate history has captured the imagination of readers worldwide, leaving an indelible mark on the cultural landscape.\n\nSet in a divergent reality where the 1919 German revolution triumphed, \"The Legacy of the Revolution\" paints a vivid tableau of a transformed Europe. In this world, visionary socialist Rosa Luxemburg ascends to the presidency of the German People’s state in 1926, heralding an era of progressive governance marked by democracy and civil liberties. Meanwhile, across the Rhine, the French populace rises in defiance against their government, plunging the nation into a bitter civil conflict that culminates in the establishment of the French State. The British, opting for non-intervention, watch as their continental neighbors grapple with upheaval.\n\nYet amidst the turmoil, pockets of resistance persist. The Kingdom of Italy, under the leadership of Emmanuel III and social liberal Prime Minister Ivanoe Bonomi, joins forces with the Hellenic Empire, led by Emperor George II, forging the formidable \"Athens-Rome Pact\". Together, they assert dominance over the Balkans, bolstered by puppet states in Croatia, Slovenia, and Albania. Turkey, once a regional power, lies in ruins, its demise orchestrated by Greek and Italian forces keen on reshaping the geopolitical landscape. The emergence of liberated entities like the Kingdom of Pontus and the Kingdom of Antioch signals a seismic shift in the balance of power.\n\nIn the Middle East, the Kingdom of Hejaz emerges as a formidable adversary to the Athens-Rome Pact, while Hungary extends its influence over the northern Balkan territories, subjugating Czechia and Transylvania as vassal states. Meanwhile, German Royalists, led by exiled King Wilhelm II, carve out a new existence in Africa, laying claim to their own sovereign domain.\n\nDespite earnest attempts at diplomacy, the world remains ensnared in a precarious web of competing ideologies. The German socialists, French nationalists, Russian imperialists, and British liberalists stand poised on the brink of conflict, their ambitions colliding amidst the simmering tensions of a world in flux.\n\nIt has received large amounts of flak from critics, as the perceived oversimplification of complex historical events and the idealistic portrayal of socialist governance seem nothing more than 'childish'. They argue that Seghers' narrative fails to grapple adequately with the multifaceted challenges inherent in such a monumental societal transformation, opting instead for a utopian vision that lacks nuance." #NT!
+ fxnews.152.a: "I can't believe this is a bestseller." #NT!
+  
+ fxnews.1065.t: "Kaiser Wilhelm II spotted in Memel" #NT!
+ fxnews.1065.d: "--GOTT MIT UNS! KAISER WILHELM II RETURNS TO PRUSSIA — MEMEL PROCLAIMS ALLEGIANCE TO THE CROWN! --\n--Berlin in Turmoil as Dressler Condemns 'Traitorous Ghosts of the Past'--\n\nMEMEL, LITHUANIA — In a turn of events even the Valkist censors could not fabricate, overthrown Kaiser Wilhelm II, 78, has resurfaced in Memel masquerading as a Dutch cheese merchant. Witnesses claim the monarch arrived aboard a herring-stained freighter, flanked by Baltic German militiamen shouting “Death to Turnips!”\n\nBy dawn, imperial flags flew over the city hall as Lithuanian officials fled, reportedly muttering, “We’re too sober for this.”\n\nGerman Führer Adam Dressler dismissed Wilhelm as “a senile mummy in a monocle,” but panic erupted in Berlin when Valkist radio accidentally played “Heil dir im Siegerkranz” for 30 minutes." #NT!
+ fxnews.1065.a: "What the fuck?" #NT!
+  
+ fxnews.1066.t: "KAISER’S “RETIREMENT TOUR” HITS DANZIG — THE CITY FALLS TO GERMAN GRANNIES WITH BROOMSTICKS" #NT!
+ fxnews.1066.d: "Polish Officials: “This is Not How We Trained for War”\n\nDANZIG — Wilhelm’s “Imperial Liberation Army” (a mob of angry pensioners and a renounced circus bear) overran the Polish Corridor. The Kaiser, allegedly armed with a ceremonial saber and a jar of pickled beets, declared Danzig “Prussia's newest tea room.” German guards surrendered after local grandmothers bombarded them with strudel.\n\nDressler's regime banned accordion music, citing “monarchist subversion.”" #NT!
+ fxnews.1066.a: "You've got to be kidding me..." #NT!
+  
+ fxnews.1067.t: "POSEN “LIBERATED” AFTER KAISER NAPS THROUGH BATTLE" #NT!
+ fxnews.1067.d: "“Tactical Snoring” Declared New Military Doctrine\n\nPOSEN, POLAND — In what historians are calling “the least intentional conquest since Napoleon’s cat took Malta,” Kaiser Wilhelm II accidentally annexed Posen after dozing off during a carriage ride and waking up 20 miles behind Polish lines. His militia, interpreting his nap as “divine strategy,” overran the region using stolen farm equipment. Polish troops were reportedly distracted by a rogue Valkist pamphlet titled “Why Paganism is Cool.”\n\nWilhelm’s Diary Entry: “Dreamt I was Bismarck. Woke up with jam on my face. Victory!”" #NT!
+ fxnews.1067.a: "This is a joke, right?" #NT!
+  
+ fxnews.1068.t: "RHINELAND RECLAIMED BY KAISER’S BALLOON-BORNE WIG" #NT!
+ fxnews.1068.d: "French Troops Flee “Sentient Hairpiece of Doom”\n\nKOBLENZ — The Rhineland is German again after Wilhelm floated over the French occupation zone in a hot-air balloon shaped like Frederick the Great’s wig, dropping leaflets that read, “Surrender or I’ll Recite My Poetry!” French forces retreated to Belgium, where they are currently arguing about waffles. Cologne’s archbishop hailed the Kaiser as “God’s own barber.”\nDressler’s scientists now reportedly developing “anti-wig artillery.”" #NT!
+ fxnews.1068.a: "This is getting ridiculous..." #NT!
+  
+ fxnews.1069.t: "WILHELM SEIZES KIEL WITH “NAVAL BINGO NIGHT”" #NT!
+ fxnews.1069.d: "Sailors Mutiny Over Promise of Free Pastries\n\nKIEL — Germany’s Baltic fleet defected to the Kaiser this week after he hosted a naval bingo tournament aboard the battleship Schleswig-Holstein. “Dressler gave us turnips. The Kaiser gave us strudel. Easy choice,” said one sailor. Wilhelm, now styling himself “Admiral of the Geriatric Armada,” has blockaded Hamburg using fishing trawlers draped in bedsheet flags.\n\nBritain’s Royal Navy announced “tea time indefinitely extended.”" #NT!
+ fxnews.1069.a: "This is getting out of hand..." #NT!
+  
+ fxnews.1070.t: "BERLIN FALLS TO KAISER’S HORSE-DRAWN RECLINER" #NT!
+ fxnews.1070.d: "Dressler Flees, Last Seen Trading Bunkers for Alpacas\n\nBERLIN — The Valkist regime collapsed today as Wilhelm rolled into the capital atop a hay wagon, hurling schnapps bottles at Dressler’s fleeing stormtroopers. The Kaiser, now Emperor of the Second Reich, crowned himself in the Reichstag using a soup ladle. His first decree? “Mandatory naps after 3 PM.”\n\nThe Netherlands has reportedly banned cheese exports “for everyone’s safety.”" #NT!
+ fxnews.1070.a: "This is a joke, right.... right?" #NT!
+  
+ fxnews.1071.t: "Emperor Edward VIII Declares Himself 'Emperor of the World'" #NT!
+ fxnews.1071.d: "\"GOD SAVE THE KING—AND ONLY THE KING!\"\nEDWARD VIII DISSOLVES PARLIAMENT, CROWNS HIMSELF EMPEROR, ANNEXES THE MOON\n\nLONDON — In what experts are calling “a rather busy afternoon,” King Edward VIII has simultaneously dissolved Parliament, abolished the dominions, crowned himself Emperor, and declared war on gravity. The move, described by the King as “an urgent national necessity—and also, I just felt like it,” has left Westminster in stunned silence, interrupted only by the sound of Winston Churchill choking on his brandy.\n\nParliament has been officially replaced by a council of royal corgis, chaired by the esteemed “Viceroy Snuffles IV.” Canada, Australia, and New Zealand have been forcibly merged into a new entity called “Edward’s Back Garden,” while the British Raj has been renamed “Edward’s Jewel” and designated as the Emperor’s personal polo field. Not content with earthly rule, Edward has also declared the Moon a Crown Territory, citing its “strategic importance for future croquet tournaments.”\n\nThe immediate consequences of this imperial overhaul have been both dramatic and deeply ridiculous. Canada has responded by electing a moose named Reginald as its Prime Minister, arguing that he possesses “better decision-making skills than recent humans.” Wales, meanwhile, has threatened to defect to France unless “somebody fixes the rugby pitch.” India has taken a more diplomatic approach, with Gandhi politely wiring Buckingham Palace to request “an immediate cessation of imperial lunacy.” Back in Britain, Parliamentarians have fled the country in a repurposed Spitfire, vowing to form a “Government-in-Exile” in Bermuda. Edward has dismissed them as “a gaggle of golf enthusiasts with delusions of relevance.”\n\nThe international response has been equally bewildered. Kaiser Wilhelm II, delighted by the news, has sent an enthusiastic telegram suggesting they “invade France together—for old times’ sake.” MI5 swiftly intercepted the message before it could reach the Emperor. France, meanwhile, has begun the urgent construction of an “Anti-Monarchist Moat” along the Channel, just in case. Within Britain itself, the Royal Navy has been deployed to “pacify” the Isle of Wight after it declared independence over a scone tariff dispute. In Delhi, a newly formed “Ministry of Chai and Confusion” has already banned trousers on Tuesdays. Adding to the general disorder, Edward’s council of corgis has been granted full veto power over all laws.\n\nDespite the mounting crisis, Edward remains entirely unfazed. Speaking from his throne (now suspended from a gilded hot-air balloon), the Emperor dismissed concerns, declaring, “This is all going swimmingly. Absolutely swimmingly. Pass the brandy.”" #NT!
+ fxnews.1071.a: "Are you kidding me?" #NT!
+  
+ fxnews.172.t: "Ferdinand Marcos Elected as President" #NT!
+ fxnews.172.d: "[This.GetNewspaperHeader]Ferdinand E. Marcos has been inaugurated as President of the Philippines in a ceremony attended by dignitaries, supporters, and international observers. In his address, Marcos pledged to usher in a new era of progress, stability, and unity for the nation. He outlined ambitious plans to modernize the economy, strengthen national defense, and promote national development, calling on all Filipinos to work together for a brighter future.\n\nAs the country faces new challenges at home and abroad, many Filipinos are hopeful that President Marcos will deliver on his promises and guide the nation toward prosperity. With expectations high and the eyes of the world watching, the Philippines stands at the threshold of a new chapter in its history." #NT!
+ fxnews.172.a: "A new chapter begins for the Philippines." #NT!

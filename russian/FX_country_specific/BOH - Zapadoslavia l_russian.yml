@@ -1,0 +1,62 @@
+﻿l_russian:
+ #desc 
+ BOH_FUHRERREICH_DESC: "" #NT!
+  
+ ### Country Names 
+ BOH_vanguardist: "Западнославянская народная республика"
+ BOH_vanguardist_ADJ: "Западнославянск"
+ BOH_vanguardist_DEF: "Народная республика Западославия"
+ BOH_collectivist: "Западнославянская народная республика"
+ BOH_collectivist_ADJ: "Западнославянск"
+ BOH_collectivist_DEF: "Народная республика Западославия"
+ BOH_libertarian_socialist: "Западнославянская народная республика"
+ BOH_libertarian_socialist_ADJ: "Западнославянск"
+ BOH_libertarian_socialist_DEF: "Социалистическая республика Западославия"
+ BOH_social_democrat: "Республика Западославия"
+ BOH_social_democrat_ADJ: "Западнославянск"
+ BOH_social_democrat_DEF: "Республика Западославия"
+ BOH_social_liberal: "Западославия"
+ BOH_social_liberal_ADJ: "Западнославянск"
+ BOH_social_liberal_DEF: "Западославия"
+ BOH_market_liberal: "Западославия"
+ BOH_market_liberal_ADJ: "Западнославянск"
+ BOH_market_liberal_DEF: "Республика Западославия"
+ BOH_social_conservative: "Западославия"
+ BOH_social_conservative_ADJ: "Западнославянск"
+ BOH_social_conservative_DEF: "Западославия"
+ BOH_authoritarian_democrat: "Западославия"
+ BOH_authoritarian_democrat_ADJ: "Западнославянск"
+ BOH_authoritarian_democrat_DEF: "Западославия"
+ BOH_paternal_autocrat: "Западнославянская республика"
+ BOH_paternal_autocrat_ADJ: "Западнославянск"
+ BOH_paternal_autocrat_DEF: "Республика Западославия"
+ BOH_national_populist: "Западнославянское государство"
+ BOH_national_populist_ADJ: "Западнославянск"
+ BOH_national_populist_DEF: "Западнославянское государство"
+ BOH_valkist: "Славянская империя"
+ BOH_valkist_ADJ: "Славянск"
+ BOH_valkist_DEF: "Славянская империя"
+  
+ #PARTIES 
+ BOH_vanguardist_party: "KSZ" #NT!
+ BOH_vanguardist_party_long: "Komunistická Strana Západoslovanská\n§gCommunist Party of Zapadoslavia§!" #NT!
+ BOH_collectivist_party: "LSZ" #NT!
+ BOH_collectivist_party_long: "Leninské Strana Západoslovanská\n§gLeninist Party of Zapadoslavia§!" #NT!
+ BOH_libertarian_socialist_party: "SS" #NT!
+ BOH_libertarian_socialist_party_long: "Socialistické Sjednocení\n§gSocialist Unification§!" #NT!
+ BOH_social_democrat_party: "ZSSD" #NT!
+ BOH_social_democrat_party_long: "Západoslovanská Strana Sociálně Demokratická\n§gZapadoslav Social-Democratic Party§!" #NT!
+ BOH_social_liberal_party: "RSZML" #NT!
+ BOH_social_liberal_party_long: "Republikánská Strana Zemědělského a Malorolnického Lidu\n§gRepublican Party of the Agricultural and Small-Peasant People§!" #NT!
+ BOH_market_liberal_party: "NSP" #NT!
+ BOH_market_liberal_party_long: "Národní Strana Práce\n§gNational Labor Party§!" #NT!
+ BOH_social_conservative_party: "ZND" #NT!
+ BOH_social_conservative_party_long: "Západoslovanská Národní Demokracie\n§gZapadoslav People's Democracy§!" #NT!
+ BOH_authoritarian_democrat_party: "Hacha's Junta" #NT!
+ BOH_authoritarian_democrat_party_long: "Hacha's Junta" #NT!
+ BOH_paternal_autocrat_party: "Hacha's Junta" #NT!
+ BOH_paternal_autocrat_party_long: "Hacha's Junta" #NT!
+ BOH_national_populist_party: "NOF" #NT!
+ BOH_national_populist_party_long: "Národní Obec Falangistická\n§gNational Falangist Community§!" #NT!
+ BOH_valkist_party: "HZLS" #NT!
+ BOH_valkist_party_long: "Hlinkova Západoslovanská Ludová Strana\n§gHlinka's Zapadoslav People's Party§!" #NT!

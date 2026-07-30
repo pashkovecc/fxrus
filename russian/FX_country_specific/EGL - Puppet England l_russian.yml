@@ -1,0 +1,90 @@
+﻿l_russian:
+  
+ ### Country Names 
+ EGL: "Republic of England" #NT!
+ EGL_ADJ: "English" #NT!
+ EGL_DEF: "the Republic of England" #NT!
+ EGL_vanguardist: "Union of England" #NT!
+ EGL_vanguardist_ADJ: "English" #NT!
+ EGL_vanguardist_DEF: "the Union of England" #NT!
+ EGL_collectivist: "Union of England" #NT!
+ EGL_collectivist_ADJ: "English" #NT!
+ EGL_collectivist_DEF: "the Union of England" #NT!
+ EGL_libertarian_socialist: "Union of England" #NT!
+ EGL_libertarian_socialist_ADJ: "English" #NT!
+ EGL_libertarian_socialist_DEF: "the Union of England" #NT!
+  
+ ### Cosmetic Tag 
+  
+ EGL_kingdom: "Kingdom of England" #NT!
+ EGL_kingdom_ADJ: "English" #NT!
+ EGL_kingdom_DEF: "the Kingdom of England" #NT!
+  
+ EGL_unified: "Commonwealth of Britain" #NT!
+ EGL_unified_ADJ: "British" #NT!
+ EGL_unified_DEF: "the Commonwealth of Great Britain" #NT!
+ EGL_unified_vanguardist: "Union of Britain" #NT!
+ EGL_unified_vanguardist_ADJ: "British" #NT!
+ EGL_unified_vanguardist_DEF: "the Union of Britain" #NT!
+ EGL_unified_collectivist: "Union of Britain" #NT!
+ EGL_unified_collectivist_ADJ: "British" #NT!
+ EGL_unified_collectivist_DEF: "the Union of Britain" #NT!
+ EGL_unified_libertarian_socialist: "Union of Britain" #NT!
+ EGL_unified_libertarian_socialist_ADJ: "British" #NT!
+ EGL_unified_libertarian_socialist_DEF: "the Union of Britain" #NT!
+  
+ EGL_unified_kingdom: "United Kingdom" #NT!
+ EGL_unified_kingdom_ADJ: "British" #NT!
+ EGL_unified_kingdom_DEF: "the United Kingdom of Great Britain" #NT!
+ EGL_unified_kingdom_vanguardist: "Union of Britain" #NT!
+ EGL_unified_kingdom_vanguardist_ADJ: "British" #NT!
+ EGL_unified_kingdom_vanguardist_DEF: "the Union of Britain" #NT!
+ EGL_unified_kingdom_collectivist: "Union of Britain" #NT!
+ EGL_unified_kingdom_collectivist_ADJ: "British" #NT!
+ EGL_unified_kingdom_collectivist_DEF: "the Union of Britain" #NT!
+ EGL_unified_kingdom_libertarian_socialist: "Union of Britain" #NT!
+ EGL_unified_kingdom_libertarian_socialist_ADJ: "British" #NT!
+ EGL_unified_kingdom_libertarian_socialist_DEF: "the Union of Britain" #NT!
+  
+ ### Parties 
+ EGL_vanguardist_party: "WIL" #NT!
+ EGL_vanguardist_party_long: "Worker's International League" #NT!
+ EGL_collectivist_party: "BSP" #NT!
+ EGL_collectivist_party_long: "British Socialist Party" #NT!
+ EGL_libertarian_socialist_party: "ILP" #NT!
+ EGL_libertarian_socialist_party_long: "Independent Labour Party" #NT!
+ EGL_social_democrat_party: "Labour" #NT!
+ EGL_social_democrat_party_long: "Labour Party" #NT!
+ EGL_social_liberal_party: "Liberal-Nationals" #NT!
+ EGL_social_liberal_party_long: "Liberal Party" #NT!
+ EGL_market_liberal_party: "Liberal" #NT!
+ EGL_market_liberal_party_long: "Liberal Party" #NT!
+ EGL_social_conservative_party: "Conservative" #NT!
+ EGL_social_conservative_party_long: "Conservative Party" #NT!
+ EGL_authoritarian_democrat_party: "Occupational Authority" #NT!
+ EGL_authoritarian_democrat_party_long: "Occupational Authority" #NT!
+ EGL_paternal_autocrat_party: "Occupational Authority" #NT!
+ EGL_paternal_autocrat_party_long: "Occupational Authority" #NT!
+ EGL_national_populist_party: "UAL" #NT!
+ EGL_national_populist_party_long: "United Albion League" #NT!
+ EGL_valkist_party: "UAL" #NT!
+ EGL_valkist_party_long: "United Albion League" #NT!
+  
+ ### Ideas 
+ EGL_war_reparations: "War Reparations" #NT!
+ EGL_war_reparations_desc: "The collaborationist government is burdened with the responsibility of paying reparations to the occupying powers as part of the post-war settlement. These payments, extracted from the nation's economy, serve as a constant reminder of the country's subjugation and hinder efforts to rebuild. While the government attempts to frame these reparations as a necessary step toward stability, they remain a source of resentment among the populace, further straining the fragile legitimacy of the regime." #NT!
+ EGL_shell_shocked: "Shell Shocked" #NT!
+ EGL_shell_shocked_desc: "The sudden and catastrophic defeat of the British Empire has left the nation reeling in disbelief. The once-mighty empire, which spanned the globe, now lies shattered, and its people struggle to come to terms with the loss of prestige, power, and security. This collective trauma has created a pervasive sense of uncertainty and despair, undermining national morale and making it difficult for the collaborationist government to rally the population. The scars of this defeat linger in every corner of society, a constant reminder of the empire's fall from grace." #NT!
+  
+ ### Characters 
+ EGL_John_Strachey: "John Strachey" #NT!
+ EGL_Tom_Mann: "Tom Mann" #NT!
+ EGL_Sylvia_Pankhurst: "Sylvia Pankhurst" #NT!
+ EGL_Hugh_Gaitskell: "Hugh Gaitskell" #NT!
+ EGL_Herbert_Samuel: "Herbert Samuel" #NT!
+ EGL_Abraham_England: "Abraham England" #NT!
+ EGL_Harold_MacMillan: "Harold MacMillan" #NT!
+ EGL_Anthony_Ludovici: "Anthony Ludovici" #NT!
+ EGL_Charles_Eduard_Saxe_Coburg_Gotha: "Charles III" #NT!
+ EGL_Arnold_Leese: "Arnold Leese" #NT!
+ EGL_Graham_Seton_Hutchison: "Graham Seton Hutchison" #NT!

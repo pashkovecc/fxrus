@@ -1,0 +1,1449 @@
+﻿l_russian:
+  
+ ### History 
+ POL_FUHRERREICH_DESC: "Poland was reborn thanks to the Versailles. After more than a century of opression, the Polish people could once again taste freedom. But is this freedom safe? The enemy is on all sides, even inside the country. With revanchist Ukrainians to the east, expansionist Germans to the west and rising internal problems, the country will either fulfill the role of the "abomination of Versailles", or find its way through the new, yet not unfamiliar, surroundings. Will the Kingdom of Poland thrive and lead its people to glory? Or will it get destroyed once again, with its legacy perished in the ashes of modern warfare?" #NT!
+  
+ ### Country Names 
+ POL_vanguardist: "Polish Socialist Republic" #NT!
+ POL_vanguardist_ADJ: "Polish" #NT!
+ POL_vanguardist_DEF: "the Polish Socialist Republic" #NT!
+ POL_collectivist: "Polish Socialist Republic" #NT!
+ POL_collectivist_ADJ: "Polish" #NT!
+ POL_collectivist_DEF: "the Polish Socialist Republic" #NT!
+ POL_libertarian_socialist: "Polish Socialist Republic" #NT!
+ POL_libertarian_socialist_ADJ: "Polish" #NT!
+ POL_libertarian_socialist_DEF: "the Polish Socialist Republic" #NT!
+ POL_social_democrat: "Kingdom of Poland" #NT!
+ POL_social_democrat_ADJ: "Polish" #NT!
+ POL_social_democrat_DEF: "the Kingdom of Poland" #NT!
+ POL_social_liberal: "Kingdom of Poland" #NT!
+ POL_social_liberal_ADJ: "Polish" #NT!
+ POL_social_liberal_DEF: "the Kingdom of Poland" #NT!
+ POL_market_liberal: "Kingdom of Poland" #NT!
+ POL_market_liberal_ADJ: "Polish" #NT!
+ POL_market_liberal_DEF: "the Kingdom of Poland" #NT!
+ POL_social_conservative: "Kingdom of Poland" #NT!
+ POL_social_conservative_ADJ: "Polish" #NT!
+ POL_social_conservative_DEF: "the Kingdom of Poland" #NT!
+ POL_authoritarian_democrat: "Kingdom of Poland" #NT!
+ POL_authoritarian_democrat_ADJ: "Polish" #NT!
+ POL_authoritarian_democrat_DEF: "the Kingdom of Poland" #NT!
+ POL_paternal_autocrat: "Kingdom of Poland" #NT!
+ POL_paternal_autocrat_ADJ: "Polish" #NT!
+ POL_paternal_autocrat_DEF: "the Kingdom of Poland" #NT!
+ POL_national_populist: "Polish State" #NT!
+ POL_national_populist_ADJ: "Polish" #NT!
+ POL_national_populist_DEF: "the Polish State" #NT!
+ POL_valkist: "Polish State" #NT!
+ POL_valkist_ADJ: "Polish" #NT!
+ POL_valkist_DEF: "the Polish State" #NT!
+  
+ POL_REP_vanguardist: "Polish People's Republic" #NT!
+ POL_REP_vanguardist_DEF: "the People's Republic of Poland" #NT!
+ POL_REP_vanguardist_ADJ: "Polish" #NT!
+ POL_REP_collectivist: "Polish People's Republic" #NT!
+ POL_REP_collectivist_DEF: "the People's Republic of Poland" #NT!
+ POL_REP_collectivist_ADJ: "Polish" #NT!
+ POL_REP_libertarian_socialist: "Polish People's Republic" #NT!
+ POL_REP_libertarian_socialist_DEF: "the People's Republic of Poland" #NT!
+ POL_REP_libertarian_socialist_ADJ: "Polish" #NT!
+ POL_REP_social_democrat: "Polish Republic" #NT!
+ POL_REP_social_democrat_DEF: "the Republic of Poland" #NT!
+ POL_REP_social_democrat_ADJ: "Polish" #NT!
+ POL_REP_social_liberal: "Polish Republic" #NT!
+ POL_REP_social_liberal_DEF: "the Republic of Poland" #NT!
+ POL_REP_social_liberal_ADJ: "Polish" #NT!
+ POL_REP_market_liberal: "Polish Republic" #NT!
+ POL_REP_market_liberal_DEF: "the Republic of Poland" #NT!
+ POL_REP_market_liberal_ADJ: "Polish" #NT!
+ POL_REP_social_conservative: "Polish Republic" #NT!
+ POL_REP_social_conservative_DEF: "the Republic of Poland" #NT!
+ POL_REP_social_conservative_ADJ: "Polish" #NT!
+ POL_REP_authoritarian_democrat: "Polish Republic" #NT!
+ POL_REP_authoritarian_democrat_DEF: "the Republic of Poland" #NT!
+ POL_REP_authoritarian_democrat_ADJ: "Polish" #NT!
+ POL_REP_paternal_autocrat: "Polish Republic" #NT!
+ POL_REP_paternal_autocrat_DEF: "the Republic of Poland" #NT!
+ POL_REP_paternal_autocrat_ADJ: "Polish" #NT!
+ POL_REP_national_populist: "Polish National Republic" #NT!
+ POL_REP_national_populist_DEF: "the Republic of Poland" #NT!
+ POL_REP_national_populist_ADJ: "Polish" #NT!
+ POL_REP_valkist: "Polish National Republic" #NT!
+ POL_REP_valkist_DEF: "the Republic of Poland" #NT!
+ POL_REP_valkist_ADJ: "Polish" #NT!
+  
+ PLF_vanguardist: "Polish-Lithuanian People's Federation" #NT!
+ PLF_vanguardist_DEF: "the People's Federation of Poland-Lithuania" #NT!
+ PLF_vanguardist_ADJ: "Polish-Lithuanian" #NT!
+ PLF_collectivist: "Polish-Lithuanian People's Federation" #NT!
+ PLF_collectivist_DEF: "the People's Federation of Poland-Lithuania" #NT!
+ PLF_collectivist_ADJ: "Polish-Lithuanian" #NT!
+ PLF_libertarian_socialist: "Polish People's Republic" #NT!
+ PLF_libertarian_socialist_DEF: "the Federation of Poland-Lithuania" #NT!
+ PLF_libertarian_socialist_ADJ: "Polish-Lithuanian" #NT!
+ PLF_social_democrat: "Polish-Lithuanian Federation" #NT!
+ PLF_social_democrat_DEF: "the Federation of Poland-Lithuania" #NT!
+ PLF_social_democrat_ADJ: "Polish-Lithuanian" #NT!
+ PLF_social_liberal: "Polish-Lithuanian Federation" #NT!
+ PLF_social_liberal_DEF: "the Federation of Poland-Lithuania" #NT!
+ PLF_social_liberal_ADJ: "Polish-Lithuanian" #NT!
+ PLF_market_liberal: "Polish-Lithuanian Federation" #NT!
+ PLF_market_liberal_DEF: "the Federation of Poland-Lithuania" #NT!
+ PLF_market_liberal_ADJ: "Polish-Lithuanian" #NT!
+ PLF_social_conservative: "Polish-Lithuanian Federation" #NT!
+ PLF_social_conservative_DEF: "the Federation of Poland-Lithuania" #NT!
+ PLF_social_conservative_ADJ: "Polish-Lithuanian" #NT!
+ PLF_authoritarian_democrat: "Polish-Lithuanian Federation" #NT!
+ PLF_authoritarian_democrat_DEF: "the Federation of Poland-Lithuania" #NT!
+ PLF_authoritarian_democrat_ADJ: "Polish-Lithuanian" #NT!
+ PLF_paternal_autocrat: "Polish-Lithuanian Federation" #NT!
+ PLF_paternal_autocrat_DEF: "the Federation of Poland-Lithuania" #NT!
+ PLF_paternal_autocrat_ADJ: "Polish-Lithuanian" #NT!
+ PLF_national_populist: "Polish-Lithuanian State" #NT!
+ PLF_national_populist_DEF: "the State of Poland-Lithuania" #NT!
+ PLF_national_populist_ADJ: "Polish-Lithuanian" #NT!
+ PLF_valkist: "Polish-Lithuanian State" #NT!
+ PLF_valkist_DEF: "the State of Poland-Lithuania" #NT!
+ PLF_valkist_ADJ: "Polish-Lithuanian" #NT!
+  
+ ### Parties 
+ POL_vanguardist_party: "PPSP" #NT!
+ POL_vanguardist_party_long: "Polska Partia Socjalistyczna Proletariat\n§gPolish Socialist Party - Proletariat§!" #NT!
+ POL_collectivist_party: "PBPR" #NT!
+ POL_collectivist_party_long: "Polska Bolszewicka Partia Robotnicza\n§gPolish Bolshevik Workers' Party§!" #NT!
+ POL_libertarian_socialist_party: "WPS" #NT!
+ POL_libertarian_socialist_party_long: "Wolnościowa Partia Socjalistyczna\n§gSocialist Freedom Party§!" #NT!
+ POL_social_democrat_party: "PPS" #NT!
+ POL_social_democrat_party_long: "Polska Partia Socjalistyczna\n§gPolish Socialist Party§!" #NT!
+ POL_social_liberal_party: "PSL" #NT!
+ POL_social_liberal_party_long: "Polskie Stronnictwo Ludowe\n§gPolish People's Party§!" #NT!
+ POL_market_liberal_party: "SPR" #NT!
+ POL_market_liberal_party_long: "Stronnictwo Polityki Realnej\n§gReal Politics Party§!" #NT!
+ POL_social_conservative_party: "PSChD" #NT!
+ POL_social_conservative_party_long: "Polskie Stronnictwo Chrześcijańskiej Demokracji\n§gPolish Christian Democratic Party§!" #NT!
+ POL_authoritarian_democrat_party: "MOW" #NT!
+ POL_authoritarian_democrat_party_long: "Monarchistyczna Organizacja Wszechstanowa\n§gMonarchist All-State Organization§!" #NT!
+ POL_paternal_autocrat_party: "APM" #NT!
+ POL_paternal_autocrat_party_long: "Absolutystyczna Partia Monarchistyczna\n§gAbsolute Monarchist Party§!" #NT!
+ POL_national_populist_party: "ND" #NT!
+ POL_national_populist_party_long: "Narodowa Demokracja\n§gNational Democracy§!" #NT!
+ POL_valkist_party: "ONR" #NT!
+ POL_valkist_party_long: "Obóz Narodowo Radykalny\n§gNational Radical Camp§!" #NT!
+  
+ POL_MIL_paternal_autocrat: "BBWR" #NT!
+ POL_MIL_paternal_autocrat_long: "Bezpartyjny Blok Współpracy z Rządem\n§gNonpartisan Bloc for Cooperation with the Government§!" #NT!
+  
+ ### Focus ### 
+ POL_great_sitting: "The Great Sitting of the Sejm" #NT!
+ POL_great_sitting_desc: "Despite the bad situation in the country, the Sejm didn't discuss any major problems for months. This is hurting our country, and we have to do something about it. The King has ordered to organise the Great Sitting of the Sejm. This assembly will take an extraordinary amount of time and hopefully solve all of our current problems." #NT!
+ POL_auth_dem: "True Constitutional Monarchy" #NT!
+ POL_auth_dem_desc: "Democracy, just as our monarch, shall prevail forever." #NT!
+ POL_auth_elections: "Elections" #NT!
+ POL_auth_elections_desc: "Time to arrange new elections and let out population choose their future government." #NT!
+ POL_WIP_2: "Chjeno-Piast" #NT!
+ POL_WIP_2_desc: "Chjeno-Piast is a coalition of rightist and centrist parties, the PSChD and the ND. They seek to decrease the minorities' rights and to fully, or partially, nationalise the country's industry." #NT!
+ POL_centrolew: "Centrolew" #NT!
+ POL_centrolew_desc: "Centrolew is a coalition of leftist and centrist parties, the PPS and the SL. They seek to enforce equality between the various nationalities of our country, and to help the poorest people in our society: the farmers and the workers." #NT!
+ POL_pataut_mon: "The King is all we need" #NT!
+ POL_pataut_mon_desc: "Democracy proved to be nothing but a deadweight for our country. This shall stop now, with the King becoming our only true leader." #NT!
+ POL_imprison_opposition: "Imprison the Opposition" #NT!
+ POL_imprison_opposition_desc: "It seems that not everybody has seen light at the end of our new way. Various groupings, or as we should call them, the opposition, has organised several protests against the "Undemocratic system" of the Kingdom of Poland. Obviously, they are wrong, and we should correct their mistakes." #NT!
+ POL_arrest_conspirators: "Arrest the Conspirators" #NT!
+ POL_arrest_conspirators_desc: "Despite our efforts to correct the mistakes of the opposition, there are still people who believe in views other than ours! They are leading underground organisations which aim to destabilize our rule. We should put an end to these outrageous actions." #NT!
+ POL_disband_sejm: "Disband the Sejm" #NT!
+ POL_disband_sejm_desc: "With the King assuming almost total power, there is no need for the parliament to stand in his way. It is just an obstacle on our way to the bright future!" #NT!
+ POL_new_elections: "A New Republic" #NT!
+ POL_new_elections_desc: "As the Monarchy has been disbanded, a new democratic rule has risen to power." #NT!
+ POL_the_actual_elections: "New Elections" #NT!
+ POL_the_actual_elections_desc: "Time to arrange new elections and let out population choose their future government." #NT!
+ POL_centrolew_coalition: "§YCentrolew§!" #NT!
+ POL_centrolew_coalition_desc: "Centrolew is a coalition of leftist and centrist parties, the PPS and the SL. They seek to enforce equality between the various nationalities of our country, and to help the poorest people in our society: the farmers and the workers." #NT!
+ POL_Ch_P: "§YChjeno-Piast§!" #NT!
+ POL_Ch_P_desc: "Chjeno-Piast is a coalition of rightist and centrist parties, the PSChD and the ND. They seek to decrease the minorities' rights and to fully, or partially, nationalise the country's industry." #NT!
+ POL_nationalism: "The New Era" #NT!
+ POL_nationalism_desc: "The New Era for our glorious country has came! With the traitorous king and his ministries gone, we can shape this country to our liking, and revive nationalism among the Polish populace!" #NT!
+ POL_one_leader: "One Leader" #NT!
+ POL_one_leader_desc: "There is only one leader we need. The complicated structures of democracy always were, are, and will be inefficient." #NT!
+ POL_one_nationality: "§YOne Nationality§!" #NT!
+ POL_one_nationality_desc: "In this country, only one nationality is the right one. The Polish shall rule alone in their country and other nationalities shall be subdued by the Polish!" #NT!
+ POL_one_party: "One Party" #NT!
+ POL_one_party_desc: "There is only one true party in this country. Any views different from ours will be put down." #NT!
+ POL_military_junta: "Military Takes Power" #NT!
+ POL_military_junta_desc: "The King's unlawful actions have pushed the military to take action against him. Now, with the power in the military's hands, we will decide the fate of this country." #NT!
+ POL_punish_monarchists: "Punish the Monarchist Regiments" #NT!
+ POL_punish_monarchists_desc: "During our fight for power, there were several regiments who refused to support our cause, and instead, defended the King's regime. We have to punish them harshly, or our military force may end up divided and inoperative." #NT!
+ POL_stabilise_situation: "Stabilise the Situation" #NT!
+ POL_stabilise_situation_desc: "The swift take over of the country by the military has left thousands of people and bureaucrats confused. We should release an official statement about the take-over and take administrative measures to clear up the unneeded confusion" #NT!
+ POL_puppet_prime_minister: "§YThe Question of Our Rulership§!" #NT!
+ POL_puppet_prime_minister_desc: "Having a puppet prime minister with a "legitimate" government will greatly help us in our efforts to stabilize the situation. Either that or we'll a point our Marshal himself as the leader." #NT!
+ POL_guiding_hand: "§YThe King's Guiding Hand§!" #NT!
+ POL_guiding_hand_desc: "The King's guiding hand will guard this country, and decide its fate.\n The King's power shall be undisputed, forever." #NT!
+ POL_restart_the_economy: "Restart the Economy" #NT!
+ POL_restart_the_economy_desc: "The consequences of the London Stock Market Crash are causing economic havoc in Poland. We should pass reforms as quickly as possible to fix this disaster." #NT!
+ POL_protect_the_consumer: "Protect the Consumer" #NT!
+ POL_protect_the_consumer_desc: "From the two proposals, we have chosen to protect the consumer. Our people's economic safety is one of the most important matters, and we shall never give more attention to the big corporations which can manage on their own." #NT!
+ POL_subsudise_local_industries: "Subsudise Local Industries" #NT!
+ POL_subsudise_local_industries_desc: "Local industries are important for our country's development. Without them working correctly, our economy is doomed."" #NT!
+ POL_encourage_domestic_industry: "Encourage Domestic Industry" #NT!
+ POL_encourage_domestic_industry_desc: "Domestic industries were, are, and always will be more important for us than the big international or foreign concerns. They are the ones that guarantee the access to most of the goods needed by our population. This is why we should concentrate on developing this sector of our economy." #NT!
+ POL_warsaw_to_wilno_railway: "Warsaw to Wilno Railway" #NT!
+ POL_warsaw_to_wilno_railway_desc: "The road infrastructure was never well-developed in Poland. This is why we should expand the railway infrastructure, as it always was the main way of moving around in our country." #NT!
+ POL_rail_to_lwow: "Expand the Rail to Lwow" #NT!
+ POL_rail_to_lwow_desc: "With the railway system expanded to Wilno, we should now connect the southern part of our country to the rest of it. The plan proposes to turn Lwów into the railway centre and the "end station" for the southern branch of our railway network." #NT!
+ POL_wolnosc_mine: "Fund the Wolnosc Mine" #NT!
+ POL_wolnosc_mine_desc: "" #NT!
+ POL_support_our_military_industrial_complex: "Support our Military Industrial Complex" #NT!
+ POL_support_our_military_industrial_complex_desc: "From the two proposals, we have chosen to take an advantage of the financial situation in Poland, and offer public works to poor people for a somewhat decent salary. They will be developing the Polish military industrial complexes, thus making this a win-win situation for both our population and our army." #NT!
+ POL_expand_warsaw_arsenal: "Expand the Warsaw Arsenal" #NT!
+ POL_expand_warsaw_arsenal_desc: "Seeing the state of decay the Warsaw Arsenal is in, we should draft a plan to renew and expand it." #NT!
+ POL_krakow_arms_industry: "The Krakow arms Industry" #NT!
+ POL_krakow_arms_industry_desc: "After expanding the Warsaw Arsenal, we should focus on developing the industry. Kraków's industrial complexes are well-known for their military importance. However, the amount of arms they produce is not enough to fulfill the needs of the Polish Army. We should expand the arms industry in Kraków in order to fulfill those requirements." #NT!
+ POL_end_of_reforms: "End of Economic Reforms" #NT!
+ POL_end_of_reforms_desc: "Finally! The End! Thousands, if not millions of families' finances are back on their feet. The unemployment rate has fallen down, and so did the poverty. Our plans worked out perfectly! Despite this success and its influence on the popularity of our party, we for sure don't want any sequels." #NT!
+ POL_warsaw_university: "Warsaw University" #NT!
+ POL_warsaw_university_desc: "" #NT!
+ POL_foreign_policy: "§YForeign Policy§!" #NT!
+ POL_foreign_policy_desc: "It is about time we take the foreign affairs seriously and declare our stance on the situation in the region officialy." #NT!
+  
+ POL_reassert_western_claims: "Reassert Western Claims" #NT!
+ POL_reassert_western_claims_desc: "Greater Poland is ours by all moral, spiritual and legal right. The freedom of the Polish people will never be without the liberation of all true Polish territories, of which the West is among the most paramount!" #NT!
+ POL_modernise_frontier_guard: "Modernise the Frontier Guard" #NT!
+ POL_modernise_frontier_guard_desc: "The Polish frontier has always been rather tenuous, especially now in the West. So long as the Germans continue to hunger for their vain dreams of reconquest, the frontier guard must be bolstered to hold off the initial German strike until reinforcements can arrive." #NT!
+ POL_demand_referendum_corridor: "Referendum on the Corridor" #NT!
+ POL_demand_referendum_corridor_desc: "It may seem rather laughable, but the cloak of a referendum in the Polish territories now held by Germany will prove to be excellent cover for the seizure of rightful Polish lands. While there is little doubt that the Huns will reject this, it simply demonstrates the rightousness of our cause!" #NT!
+ POL_break_german_hegemony: "Break German Hegemony" #NT!
+ POL_break_german_hegemony_desc: "The Germans are our greatest enemies, and we shall once and for all deal with this threat.\n\n It is time to attack the Beast of Europe!" #NT!
+ POL_look_outwards: "Look Outwards" #NT!
+ POL_look_outwards_desc: "To defend Poland, we cannot remain isolated. From both the East and the West, rivals and empires desire to crush the nascent Polish state and renew the oppression of the last 300 years - another year of which we shall not let come to pass!" #NT!
+ POL_subjugate_slovakia: "Subjugate Slovakia" #NT!
+ POL_subjugate_slovakia_desc: "It is time to threaten the southern weaklings and demand their strategically important territories!" #NT!
+ POL_kill_the_bear: "Execute Plan 'Wołyń'" #NT!
+ POL_kill_the_bear_desc: "The Ukrainians have long been a rather unsteady neighbour, but now they certainly pose a threat that cannot be simply held back with words and fortifications. We must make like the old Commonwealth, and prepare for an eastern campaign to neutralize them once and for all!" #NT!
+ POL_estonian_ultimatum: "Estonian Ultimatum" #NT!
+ POL_estonian_ultimatum_desc: "With Latvia incorporated into Poland, the time has come to further expand our influence over the Baltic States. Only Estonia remains as the last obstacle." #NT!
+ POL_join_vienna_accord: "Join the Anti-German Bloc" #NT!
+ POL_join_vienna_accord_desc: "The new anti-German bloc forming in Central Europe shares far more in common with us then the liberal plutocrats of the West. We shall join together to stop the encroachment of Valkism and decadent Bolshevism upon free Poland!" #NT!
+ POL_polands_place_in_the_world: "Poland's Place in the World" #NT!
+ POL_polands_place_in_the_world_desc: "Where is Poland's place in the grand scheme of world history? While few are certain of the answers now, this question will surely have an answer in the coming years." #NT!
+ POL_status_of_lithuania: "Status of Lithuania" #NT!
+ POL_status_of_lithuania_desc: "Lithuania is a crucial part of the Polish sphere, and now they must be dealt with firmly once and for all. Whether it be a continued alliance, or in all greater likelihood integration, the old commonwealth ties beckon for action." #NT!
+ POL_create_intermarium: "Create the Intermarium" #NT!
+ POL_create_intermarium_desc: "Poland is, whether our neighbours like it or not, a regional superpower. We have the influence and relations to create our own Eastern-European alliance, and hopefully stand a chance against our enemies." #NT!
+ POL_invite_southern_neighbours: "Invite our Southern Neighbours" #NT!
+ POL_invite_southern_neighbours_desc: "We shall expand our alliance by inviting our southern neighbours -- Hungary, Romania and Slovakia." #NT!
+ POL_invite_baltics: "Invite the Baltics" #NT!
+ POL_invite_baltics_desc: "We can expand our alliance even more by allying our Baltic friends -- Latvia, Lithuania and Estonia." #NT!
+ POL_polish_legacy: "A Revived Commonwealth" #NT!
+ POL_polish_legacy_desc: "While the commonwealth has not returned as a full-fledged state, the new Intermarium now stands between the Russian colossus and the Germanic empire as a bastion of freedom and independence in Europe. Along with the other free nations of the world, let us embrace the new age as another Polish Golden Age!" #NT!
+ POL_weapons_deal: "Entente Weapons Deals" #NT!
+ POL_weapons_deal_desc: "The Entente has many weapons and a far greater industrial base than we alone do. We should leverage this in our favour by making deals with the [ENT.GetAdjective] to see to it that we get the arms we need as soon as possible." #NT!
+ POL_naval_developments: "Entente Base in the Baltic" #NT!
+ POL_naval_developments_desc: "Although the Germans and the Russians hold rather laughable naval capabilities compared to the mighty fleets of the West, they could still pose a serious problem in the Baltic. Through the establishment of an Entente naval base in the Baltic, we shall be able to keep communications and links open and secure!" #NT!
+  
+ POL_our_place_in_the_world: "Many Options, One Answer" #NT!
+ POL_our_place_in_the_world_desc: "" #NT!
+ POL_the_old_alliance: "The Old Alliance" #NT!
+ POL_the_old_alliance_desc: "We always had good relations with our western friend France. They helped us throughout the history, and now, we will help them!\n\n (Or they will help us, depends on the situation)" #NT!
+ POL_deal_with_the_devil: "Deals with the Devil" #NT!
+ POL_deal_with_the_devil_desc: "Desperate times demand desperate measures. We will deal with the devil to defeat the Satan." #NT!
+ POL_invite_romania: "Invite Romania" #NT!
+ POL_invite_romania_desc: "We should expand our alliance southwards, and Romania was always one of our closest friends." #NT!
+ POL_invite_hungary: "Invite Hungary" #NT!
+ POL_invite_hungary_desc: "We should expand our alliance southwards, and Hungary was always one of our closest friends. We share a lot of history." #NT!
+ POL_invite_centroslavia: "Invite Slovakia" #NT!
+ POL_invite_centroslavia_desc: "We should expand our alliance southwards, and Slovakia is a good strategic ally which we might consider valuable." #NT!
+ POL_invite_belarus: "Invite Belarus" #NT!
+ POL_invite_belarus_desc: "We should expand our alliance eastwards, Belarus will be a valuable ally in case of Ukrainian expansionism." #NT!
+ POL_belarus_railway: "Build the Warsaw-Minsk Railway" #NT!
+ POL_belarus_railway_desc: "Expanding our railways should help our further cooperation." #NT!
+ POL_pol_no_bully_slo: "Safety in the South" #NT!
+ POL_pol_no_bully_slo_desc: "A guaranteed peace on the southern border should let us focus on establishing defences of higher importance." #NT!
+ POL_gain_territory: "Gain Territory" #NT!
+ POL_gain_territory_desc: "Poland shall expand! We will reclaim the lands we once owned!" #NT!
+ POL_latvian_ultimatum: "Latvian Ultimatum" #NT!
+ POL_latvian_ultimatum_desc: "Latvia was in our sphere of influence for long enough. We should break their "neutrality" we agreed for on the Riga peace deal." #NT!
+ POL_baltic_soviet_republic_ultimatum: "Estonian Ultimatium" #NT!
+ POL_baltic_soviet_republic_ultimatum_desc: "With Latvia incorporated into Poland, the time has come to further expand our influence over the Baltic States. Only Estonia remains as the last obstacle." #NT!
+ POL_buy_land_landowners: "Buy Land from the big Landowners" #NT!
+ POL_buy_land_landowners_desc: "For centuries, landowners owned majority of land the farmers work on. Even after the age of feudalism, the landowners still own majority of land, basically forcing the smaller farmers to work there just as it was in the age of feudalism. We have to put an end to this exploitation of the poorest." #NT!
+ POL_better_conditions: "Better Conditions for the Workers" #NT!
+ POL_better_conditions_desc: "It is about time we fulfill our socialist program and grant the workers the rights they need. Some parts of our country are heavily industrialized, and workers from these regions demand better working conditions. This will for sure benefit the productivity of our industry, as well as make the workers content. It's a win-win situation for both." #NT!
+ POL_land_redistribution: "Redistribute the Land" #NT!
+ POL_land_redistribution_desc: "Now, with the land purchased from the big landowners, we should start redistributing it to the smaller farmers, and hoepfully make equality a common thing on the Polish countryside." #NT!
+ #natpop 
+ POL_crush_resistance: "Crush the Resistance" #NT!
+ POL_crush_resistance_desc: "We shall crush any resistance among the population! They seek to destroy our Polish state, and we will stop them no matter the cost!" #NT!
+ POL_behead_opposition: "Behead the Opposition" #NT!
+ POL_behead_opposition_desc: "The opposition questions the legitimacy of our government, or, as they call it, our "dictatorship". They will see our way sooner or later, with their leaders gone!" #NT!
+ POL_nationalist_convention: "The Nationalist Convention" #NT!
+ POL_nationalist_convention_desc: "We have removed internal threats. Now, the various nationalist groups within the Polish society shall meet on one convention, and discuss the future of the Polish state and its people." #NT!
+ POL_defense_eagle: "The Defense of the Eagle" #NT!
+ POL_defense_eagle_desc: "" #NT!
+ POL_nationalise_industry: "Nationalise the Industry" #NT!
+ POL_nationalise_industry_desc: "" #NT!
+ POL_industrial_mobilisation: "Industrial Mobilisation" #NT!
+ POL_industrial_mobilisation_desc: "" #NT!
+ POL_military_region: "Military Industrial Region" #NT!
+ POL_military_region_desc: "" #NT!
+ POL_silence_minorities: "Dissidents from within" #NT!
+ POL_silence_minorities_desc: "" #NT!
+ POL_abolish_rights: "Abolish Minorities' Rights" #NT!
+ POL_abolish_rights_desc: "" #NT!
+ POL_harsh_polonisation: "Harsh Polonisation" #NT!
+ POL_harsh_polonisation_desc: "" #NT!
+ POL_crush_resistance_again: "Crush the Resistance...Again" #NT!
+ POL_crush_resistance_again_desc: "" #NT!
+ POL_stabilise_democracy: "Stabilise Democracy" #NT!
+ POL_stabilise_democracy_desc: "" #NT!
+ POL_party_meeting: "Party Meeting" #NT!
+ POL_party_meeting_desc: "" #NT!
+ #centrism 
+ POL_centrism: "Centrism" #NT!
+ POL_centrism_desc: "" #NT!
+ POL_just_ok_conditions: "Improve Working Conditions" #NT!
+ POL_just_ok_conditions_desc: "" #NT!
+ POL_cement_the_state: "Cement the condition of the State" #NT!
+ POL_cement_the_state_desc: "" #NT!
+ POL_agricultural_grants: "Agricultural Grants" #NT!
+ POL_agricultural_grants_desc: "" #NT!
+ POL_lithuanian_representatives: "Talk with the Lithuanian Representatives" #NT!
+ POL_lithuanian_representatives_desc: "" #NT!
+ POL_polish_lithuanian_brotherhood: "Polish-Lithuanian Brotherhood" #NT!
+ POL_polish_lithuanian_brotherhood_desc: "" #NT!
+ POL_social_democracy: "Social-Democracy" #NT!
+ POL_social_democracy_desc: "" #NT!
+ POL_peasants_representatives: "Peasants' and Workers' Representatives" #NT!
+ POL_peasants_representatives_desc: "" #NT!
+ POL_lithuanian_peasants: "Convince the Lithuanian Peasants" #NT!
+ POL_lithuanian_peasants_desc: "" #NT!
+ POL_fix_economy: "Fix the Economy" #NT!
+ POL_fix_economy_desc: "" #NT!
+ POL_buy_merchant_ships: "Buy Merchant Ships" #NT!
+ POL_buy_merchant_ships_desc: "" #NT!
+ POL_develop_lithuanian_dockyards: "Develop Lithuanian Dockyards" #NT!
+ POL_develop_lithuanian_dockyards_desc: "" #NT!
+ POL_develop_countryside: "Develop the Countryside" #NT!
+ POL_develop_countryside_desc: "" #NT!
+ POL_poland_AB: "Fix the disparity" #NT!
+ POL_poland_AB_desc: "The time has finally come to take care of the state of our conquered territories of Red Ruthenia." #NT!
+ POL_civilian_region: "Civilian Industrial Region" #NT!
+ POL_civilian_region_desc: "" #NT!
+ POL_equal_development: "Equal Development" #NT!
+ POL_equal_development_desc: "" #NT!
+ POL_geological_survey: "Geological Survey" #NT!
+ POL_geological_survey_desc: "" #NT!
+ POL_central_region: "Central Industrial Region" #NT!
+ POL_central_region_desc: "" #NT!
+ POL_railroad_lithuanian_ports: "Railroad to the Lithuanian ports" #NT!
+ POL_railroad_lithuanian_ports_desc: "" #NT!
+ POL_stabilise_coalition: "Stabilise the Chjeno-Piast Coalition" #NT!
+ POL_stabilise_coalition_desc: "" #NT!
+ POL_fulfill_promises: "Fulfill our Promises" #NT!
+ POL_fulfill_promises_desc: "" #NT!
+ POL_economic_policy: "Economic Policy" #NT!
+ POL_economic_policy_desc: "" #NT!
+ POL_general_improvement: "General Improvement" #NT!
+ POL_general_improvement_desc: "" #NT!
+ POL_central_industrial_region: "Central Industrial Region" #NT!
+ POL_central_industrial_region_desc: "" #NT!
+ POL_strenghten_military_industry: "Strengthen the Military Industry" #NT!
+ POL_strenghten_military_industry_desc: "" #NT!
+ POL_military_industrial_region: "Military Industrial Region" #NT!
+ POL_military_industrial_region_desc: "" #NT!
+ POL_undermine_rights: "Undermine the Minorities' Rights" #NT!
+ POL_undermine_rights_desc: "" #NT!
+ POL_disband_ukrainian_police: "Disband the Ukrainian Police Force" #NT!
+ POL_disband_ukrainian_police_desc: "" #NT!
+ POL_interventionism: "Economic Interventionism" #NT!
+ POL_interventionism_desc: "" #NT!
+ POL_partial_nationalisation: "Partial Nationalisation of the Industry" #NT!
+ POL_partial_nationalisation_desc: "" #NT!
+ POL_seek_agreement: "Seek for an Agreement with Lithuania" #NT!
+ POL_seek_agreement_desc: "" #NT!
+ POL_threaten_lithuanians: "Threaten Lithuania" #NT!
+ POL_threaten_lithuanians_desc: "" #NT!
+ #patautmonarchy 
+ POL_underground_resistance: "Crush the Underground Parties" #NT!
+ POL_underground_resistance_desc: "" #NT!
+ POL_advisors_meeting: "Meeting of the Advisors" #NT!
+ POL_advisors_meeting_desc: "" #NT!
+ POL_enforce_equality: "Enforce Equality" #NT!
+ POL_enforce_equality_desc: "" #NT!
+ POL_benevolent_dictatorship: "Benevolent Dictatorship" #NT!
+ POL_benevolent_dictatorship_desc: "" #NT!
+ POL_appease_working_class: "Appease the Working Class" #NT!
+ POL_appease_working_class_desc: "" #NT!
+ POL_unsure_minorities: "Unsure Minorities" #NT!
+ POL_unsure_minorities_desc: "" #NT!
+ POL_deal_national_democracy: "A Deal with the National Democracy" #NT!
+ POL_deal_national_democracy_desc: "" #NT!
+ POL_kick_radicals: "Kick the Radicals" #NT!
+ POL_kick_radicals_desc: "" #NT!
+ POL_deal_decrease_privileges: "Decrease Minorities' Privileges" #NT!
+ POL_deal_decrease_privileges_desc: "" #NT!
+ POL_jail_traitors: "Jail the Dissidents" #NT!
+ POL_jail_traitors_desc: "" #NT!
+ POL_disband_ukrainian: "Disband the Ukrainian Police Force" #NT!
+ POL_disband_ukrainian_desc: "" #NT!
+ POL_border_defense: "The Border Defense Squads" #NT!
+ POL_border_defense_desc: "" #NT!
+ POL_economic_plans: "Economic Plans" #NT!
+ POL_economic_plans_desc: "" #NT!
+ POL_lessen_wide_gap: "Lessen the Wide Gap" #NT!
+ POL_lessen_wide_gap_desc: "" #NT!
+ POL_civilian_industrial_region: "Civilian Industrial Region" #NT!
+ POL_civilian_industrial_region_desc: "" #NT!
+ POL_military_industrial: "Military Industrial Region" #NT!
+ POL_military_industrial_desc: "" #NT!
+ POL_defensive_capabilities: "Defensive Capabilities" #NT!
+ POL_defensive_capabilities_desc: "" #NT!
+ POL_deal_centrists: "A Deal with the Centrists" #NT!
+ POL_deal_centrists_desc: "" #NT!
+ POL_destroy_loyalists: "Destroy the Last Loyalists" #NT!
+ POL_destroy_loyalists_desc: "" #NT!
+ POL_officers_meeting: "The Officers' Meeting" #NT!
+ POL_officers_meeting_desc: "" #NT!
+ POL_join_stahlpakt: "Join the Stahlpakt" #NT!
+ POL_join_stahlpakt_desc: "" #NT!
+ POL_russia_guarantee: "Ask Russia for Protection" #NT!
+ POL_russia_guarantee_desc: "" #NT!
+ POL_the_incorporation: "The Incorporation of Lithuania" #NT!
+ POL_the_incorporation_desc: "" #NT!
+ #chjeno 
+ POL_jail_dissidents: "Jail the Traitors" #NT!
+ POL_jail_dissidents_desc: "" #NT!
+ POL_prepare_for_the_worst: "Prepare for the Worst" #NT!
+ POL_prepare_for_the_worst_desc: "" #NT!
+ #foreign 
+ POL_look_west: "Look Towards the [PolGetWestEastAlliance]" #NT!
+ POL_look_west_desc: "We always had good relations with our western friend France. They helped us throughout the history, and now, we will help them!\n\n (Or they will help us, depends on the situation)" #NT!
+ POL_buy_french_guns: "Buy French Guns" #NT!
+ POL_buy_french_guns_desc: "" #NT!
+ POL_seek_help_in_building_ports: "Seek Help in Developing the Ports" #NT!
+ POL_seek_help_in_building_ports_desc: "" #NT!
+ POL_fortifications: "West Fortifications" #NT!
+ POL_fortifications_desc: "" #NT!
+ POL_french_bombers: "French Bomber Designs" #NT!
+ POL_french_bombers_desc: "" #NT!
+ POL_found_fptk: "Found the FPTK" #NT!
+ POL_found_fptk_desc: "" #NT!
+ POL_found_maritime_league: "Found the Maritime & Colonial League" #NT!
+ POL_found_maritime_league_desc: "" #NT!
+ POL_buy_madagascar: "Buy Madagascar" #NT!
+ POL_buy_madagascar_desc: "" #NT!
+ #intermarium 
+ POL_regional_superpower: "Regional Superpower" #NT!
+ POL_regional_superpower_desc: "" #NT!
+ POL_transylvanian_dispute: "Solve the Transylvanian Dispute" #NT!
+ POL_transylvanian_dispute_desc: "" #NT!
+ POL_solve_the_maze_together: "Solve the Maze Together" #NT!
+ POL_solve_the_maze_together_desc: "" #NT!
+ POL_subsidize_romanian_forts: "Subsidize Romanian Forts" #NT!
+ POL_subsidize_romanian_forts_desc: "" #NT!
+ POL_sell_guns_to_huns: "Send Guns to Hungarians" #NT!
+ POL_sell_guns_to_huns_desc: "" #NT!
+ POL_look_north: "Look Towards the North" #NT!
+ POL_look_north_desc: "" #NT!
+ POL_convince_latvia: "Convince Latvia" #NT!
+ POL_convince_latvia_desc: "" #NT!
+ POL_the_latvian_frontier: "The Latvian Frontier" #NT!
+ POL_the_latvian_frontier_desc: "" #NT!
+ POL_send_help_to_latvia: "Send Help to Latvia" #NT!
+ POL_send_help_to_latvia_desc: "" #NT!
+ POL_connect_latvia: "Connect Latvia to the Railroad System" #NT!
+ POL_connect_latvia_desc: "" #NT!
+ POL_northern_line: "Latvian-Soviet Line" #NT!
+ POL_northern_line_desc: "" #NT!
+ POL_eastern_line: "Eastern Fortifications" #NT!
+ POL_eastern_line_desc: "" #NT!
+ POL_fortify_the_daguava_strip: "Fortify the Daguava Strip" #NT!
+ POL_fortify_the_daguava_strip_desc: "" #NT!
+ POL_strenghten_the_strip: "Fill in the Gaps" #NT!
+ POL_strenghten_the_strip_desc: "" #NT!
+ #devil 
+ POL_two_eagles: "Two Eagles" #NT!
+ POL_two_eagles_desc: "" #NT!
+ POL_request_advisors: "Request Advisors" #NT!
+ POL_request_advisors_desc: "" #NT!
+ POL_request_material_help: "Request German fortification help" #NT!
+ POL_request_material_help_desc: "" #NT!
+ POL_buy_tanks: "Buy German Tanks" #NT!
+ POL_buy_tanks_desc: "" #NT!
+ POL_bear_and_a_bird: "The Bear and the Bird" #NT!
+ POL_bear_and_a_bird_desc: "" #NT!
+ POL_campaign_against_germany: "Campaign Against Germany" #NT!
+ POL_campaign_against_germany_desc: "" #NT!
+ POL_socialists_unite: "Socialists Unite!" #NT!
+ POL_socialists_unite_desc: "" #NT!
+ POL_join_the_internazional: "Join the Internazional" #NT!
+ POL_join_the_internazional_desc: "" #NT!
+ POL_buy_russian_weapons: "Buy Russian Weapons" #NT!
+ POL_buy_russian_weapons_desc: "" #NT!
+ POL_ask_for_help_to_build_forts: "Ask for Help to Build Forts" #NT!
+ POL_ask_for_help_to_build_forts_desc: "" #NT!
+ #gain land 
+ POL_unthinkable_operations: "Unthinkable Operations" #NT!
+ POL_unthinkable_operations_desc: "" #NT!
+ POL_the_west: "To the West" #NT!
+ POL_the_west_desc: "" #NT!
+ POL_suspend_german_rights: "Suspend German Minority Rights" #NT!
+ POL_suspend_german_rights_desc: "" #NT!
+ POL_against_evil: "Against the Evil" #NT!
+ POL_against_evil_desc: "" #NT!
+ POL_the_east: "To the East" #NT!
+ POL_the_east_desc: "" #NT!
+ POL_ban_communists: "Prepare Ourselves Against The Ukrainians" #NT!
+ POL_ban_communists_desc: "" #NT!
+ POL_against_red_menace: "Expand the Śmigły Line" #NT!
+ POL_against_red_menace_desc: "" #NT!
+ POL_kill_bear: "Execute plan 'Wołyń'" #NT!
+ POL_kill_bear_desc: "" #NT!
+ POL_southern_expansion: "Southern Expansion" #NT!
+ POL_southern_expansion_desc: "" #NT!
+ POL_arm_the_czech_poles: "Arm the Czech Poles" #NT!
+ POL_arm_the_czech_poles_desc: "" #NT!
+ POL_militia_raids_galicia: "Start Militia raids in Galicia" #NT!
+ POL_militia_raids_galicia_desc: "" #NT!
+ POL_pacify_romania: "Pacify Romania" #NT!
+ POL_pacify_romania_desc: "We might want to ensure our safety in the southern border, as the new government of Romania seems quite too radical." #NT!
+ POL_northern_expansion: "Northern Expansion" #NT!
+ POL_northern_expansion_desc: "" #NT!
+ POL_polish_baltics: "Polish Baltics" #NT!
+ POL_polish_baltics_desc: "" #NT!
+ POL_strike_socialism: "Strike the Revolutionists" #NT!
+ POL_strike_socialism_desc: "" #NT!
+ POL_eastern_expansion: "Eastern Expansion" #NT!
+ POL_eastern_expansion_desc: "" #NT!
+ POL_threaten_belarus: "Threaten Belarus" #NT!
+ POL_threaten_belarus_desc: "Belarus is holding lands rich with Polish people, we must reclaim these to ensure their safety!" #NT!
+ #military 
+ POL_review_military: "Review Our Military" #NT!
+ POL_review_military_desc: "" #NT!
+ POL_offensive_doctrine: "Offensive Plans Research" #NT!
+ POL_offensive_doctrine_desc: "" #NT!
+ POL_develop_new_arms: "Develop New Arms" #NT!
+ POL_develop_new_arms_desc: "" #NT!
+ POL_develop_new_tanks: "Develop New Tanks" #NT!
+ POL_develop_new_tanks_desc: "" #NT!
+ POL_new_military_factories: "New Military Factories" #NT!
+ POL_new_military_factories_desc: "" #NT!
+ POL_continue_the_buildup: "Continue the Build-Up" #NT!
+ POL_continue_the_buildup_desc: "" #NT!
+ POL_fortress_poland: "Fortress Poland" #NT!
+ POL_fortress_poland_desc: "" #NT!
+ POL_silesia_bunker: "The Poznan Bunker Project" #NT!
+ POL_silesia_bunker_desc: "" #NT!
+ POL_electronic_research: "Electronic Research" #NT!
+ POL_electronic_research_desc: "" #NT!
+ POL_krakow_military_institute: "Krakow Military Institute" #NT!
+ POL_krakow_military_institute_desc: "" #NT!
+ POL_casimir_project: "The Casimir Project" #NT!
+ POL_casimir_project_desc: "" #NT!
+ POL_digging_a_victory: "Digging a Victory" #NT!
+ POL_digging_a_victory_desc: "" #NT!
+ POL_further_preparations: "Further Preparations" #NT!
+ POL_further_preparations_desc: "" #NT!
+ #new 
+ POL_bigger: "Bigger" #NT!
+ POL_bigger_desc: "" #NT!
+ POL_mass_assault: "Mass Assault" #NT!
+ POL_mass_assault_desc: "" #NT!
+ POL_encourage_paramilitarism: "Encourage Paramilitarism" #NT!
+ POL_encourage_paramilitarism_desc: "" #NT!
+ POL_improved_supply_systems: "Improved Supply Systems" #NT!
+ POL_improved_supply_systems_desc: "" #NT!
+ POL_grand_battleplan: "Grand Battleplan" #NT!
+ POL_grand_battleplan_desc: "" #NT!
+ POL_new_planning_techniques: "New Planning Techniques" #NT!
+ POL_new_planning_techniques_desc: "" #NT!
+ POL_better: "Better" #NT!
+ POL_better_desc: "" #NT!
+ POL_mobile_warfare: "Mobile Warfare" #NT!
+ POL_mobile_warfare_desc: "" #NT!
+ POL_motorized_hussars: "Motorized Hussars" #NT!
+ POL_motorized_hussars_desc: "" #NT!
+ POL_superior_firepower: "Superior Firepower" #NT!
+ POL_superior_firepower_desc: "" #NT!
+ POL_develop_new_support: "Develop New Support Weapons" #NT!
+ POL_develop_new_support_desc: "" #NT!
+ POL_new_military_factories_2: "New Military Factories" #NT!
+ POL_new_military_factories_2_desc: "" #NT!
+ POL_improved_production_lines: "Improved Production Lines" #NT!
+ POL_improved_production_lines_desc: "" #NT!
+ POL_offensive_doctrine_2: "Offensive Doctrine" #NT!
+ POL_offensive_doctrine_2_desc: "" #NT!
+ POL_improved_movement_planning: "Improved Movement Planning" #NT!
+ POL_improved_movement_planning_desc: "" #NT!
+ POL_breakthrough_techniques: "Breakthrough Techniques" #NT!
+ POL_breakthrough_techniques_desc: "" #NT!
+ POL_defensive_doctrine: "Defensive Doctrine" #NT!
+ POL_defensive_doctrine_desc: "" #NT!
+ POL_wilno_bunker: "The Grand Northern Defence Line" #NT!
+ POL_wilno_bunker_desc: "" #NT!
+ #airforce 
+ POL_the_polish_airforce: "The Polish Airforce" #NT!
+ POL_the_polish_airforce_desc: "" #NT!
+ POL_close_air_support: "Close Air Support" #NT!
+ POL_close_air_support_desc: "" #NT!
+ POL_build_new_airfields: "Build new Airfields" #NT!
+ POL_build_new_airfields_desc: "" #NT!
+ POL_bomber_support: "Bomber Support" #NT!
+ POL_bomber_support_desc: "" #NT!
+ POL_foreign_designs: "Foreign Designs" #NT!
+ POL_foreign_designs_desc: "" #NT!
+ POL_develop_news_fighters: "Develop new Fighters" #NT!
+ POL_develop_news_fighters_desc: "" #NT!
+ POL_mass_production: "Mass Production" #NT!
+ POL_mass_production_desc: "" #NT!
+ #new airforce 
+ POL_high_destructive: "High & Destructive" #NT!
+ POL_high_destructive_desc: "" #NT!
+ POL_battlefield_support_2: "Improved Battlefield Support" #NT!
+ POL_battlefield_support_2_desc: "" #NT!
+ POL_precision_bombing: "Precision Bombing Techniques" #NT!
+ POL_precision_bombing_desc: "" #NT!
+ POL_strategic_destruction: "Focus on Strategic Destruction" #NT!
+ POL_strategic_destruction_desc: "" #NT!
+ POL_operational_integrity: "Focus on Operational Integrity" #NT!
+ POL_operational_integrity_desc: "" #NT!
+ POL_bomb_raids_defense: "Bomb Raids' Defence" #NT!
+ POL_bomb_raids_defense_desc: "" #NT!
+ # 
+ POL_low_supportive: "Low & Supportive" #NT!
+ POL_low_supportive_desc: "" #NT!
+ POL_heavy_fighters: "Develop New Heavy Fighters" #NT!
+ POL_heavy_fighters_desc: "" #NT!
+ POL_battlefield_support: "Focus on Battlefield Support" #NT!
+ POL_battlefield_support_desc: "" #NT!
+ POL_heavy_battlefield_support: "Heavy Battlefield Support" #NT!
+ POL_heavy_battlefield_support_desc: "" #NT!
+  
+  
+ ### Events ### 
+  
+ poland.1.t: "The Kingdom of Poland" #NT!
+ poland.1.d: "Following the Partitions of Poland at the end of the 18th century, Poland regained its independence in November 11th 1919 thanks to the Treaty of Versailles. The Kingdom of Poland is a semi-constitutional monarchy, led by the king Franciszek I Radziwiłł, one of the most prominent Polish magnates. The revitalization of the country's industry and infrastructure, was abruptly halted by the Polish-Ukrainian war, which broke out in 1918. The Poles emerged victorious, holding onto their historical territory of Red Ruthenia. The victory however, wasn't merciful to the territory itself, leaving it utterly destroyed, and with that, problems emerged. As soon as the Marshal of Poland, Józef Piłsudski, retired from politics, and the new government was democratically elected, it was obvious that Polish politics will give the whole country a hard time. Numerous disagreements between, and within the parties, caused gridlocks which paralized the Sejm over and over again, forcing the King to disband it numerous times. The situation only worsened when the Prime Minister Gabriel Narutowicz, after a couple of months in office, was assasinated by a member of the right-wing party, the National Democracy (Narodowa Demokracja). Seeing the innefective polital system collapse under its own weight, in September 1926 Józef Piłsudski came back from his political retirement, and, with the consent of the King, assumed total power over the government and the Sejm. This stabilized the Polish "democracy", and lasted until Piłsudski fell ill in July 1935, and his influence and control over his supporters started fading away. The fights in the Sejm erupted once again, as strong as never before, with several parties splitting due to internal disagreements. The Polish King, for the third time, used his power to disband the government and the Sejm, but this time, only new Sejm elections were organised. Instead of electing a new government, the King appointed a group of advisors, to help him run the country. This state continues to this day, but the change may come any minute now, with Piłsudski's state of health getting only worse, and the Sejm starting to be inneffective as it always was." #NT!
+ poland.1.a: "Pro Fide, Lege et Rege!" #NT!
+ poland.2.t: "The Polish Industry Bill" #NT!
+ poland.2.d: "The last few years Poland's industrial legislation hasn't been updated at all, this has had a negative effect on the Polish people and her economy. To fix this the two parties in the Sejm have each submitted a plan. The MOW wants to lower taxes on consumer goods, and build extra civilian factories. While the PSCD wants to subsudise military factories. Which plan should we choose?" #NT!
+ poland.2.a: "Choose the MOW's plan" #NT!
+ poland.2.b: "Choose the PSCD's plan" #NT!
+ poland.2.c: "Veto the bill alltogether!" #NT!
+ poland.3.t: "The Tax Reform Bill" #NT!
+ poland.3.d: "The Polish tax system is outdated and unnecessary complicated, this lead to massive tax evasion and people being taxed rates higher than 100%. The parties in the Sejm have both submitted a plan to fix this mess. The MOW has a proposal which focuses on a slightly progressive system and the PSCD wants to implement a flat tax. Which one should we choose?" #NT!
+ poland.3.a: "Choose the MOW's plan" #NT!
+ poland.3.b: "Choose the PSCD's plan" #NT!
+ poland.3.c: "Veto the bill alltogether" #NT!
+ poland.4.t: "The freedom of speech Bill" #NT!
+ poland.4.d: "This bill was proposed by the MOW and the PSCD, this plan wants to implement a universal free speech law for all inhabitants of the kingdom of Poland, not just the Poles. This would make Lithuania very happy, but a greater amount of freedom of speech also decreases the status of the monarchy and the monarch. What should we do with the bill?" #NT!
+ poland.4.a: "The Bill passes!" #NT!
+ poland.4.b: "Veto the bill!" #NT!
+ poland.5.t: "Minorities' privileges" #NT!
+ poland.5.d: "For a long time, minorities possesed a number of rights and privileges. On today's discussion in the Sejm, the conservative PSCD party brought up this topic. The question is, what do we do with these rights? The population is split on this matter, and so are the members of the parliament. Should we listen to PSCD and lower their rights, or should we listen to PPS and SL, and either leave them as they are, or increase them further?" #NT!
+ poland.5.a: "Listen to the socialists, More privileges" #NT!
+ poland.5.b: "Listen to the liberals, They have enough of them" #NT!
+ poland.5.c: "Listen to the conservatives, They have too much" #NT!
+ poland.6.t: "The Army Reform Bill" #NT!
+ poland.6.d: "In these turbulent times an improvement of out army is necessary. Two plans have been proposed. The MOW proposes to simply conscript more men in exchange for hiring less researchers, while the PSCD only wants to increase researchers. Which plan should we choose?" #NT!
+ poland.6.a: "Choose the MOW's plan" #NT!
+ poland.6.b: "Choose the PSCD's plan" #NT!
+ poland.6.c: "Veto the bill alltogether" #NT!
+ poland.7.t: "The airforce Reform Bill" #NT!
+ poland.7.d: "The Polish airforce still uses old Great War planes which are not only incredibly outdated, but also incredibly ineffective. The MOW and the PSCD have now both both submitted a plan to fix our airforce, the MOW proposes to focus on the ability of our fighters and the PSCD proposes to focus of our bombing capacty. Which plan should we choose?" #NT!
+ poland.7.a: "Choose the MOW's plan" #NT!
+ poland.7.b: "Choose the PSCD's plan" #NT!
+ poland.7.c: "Veto the bill alltogether" #NT!
+ poland.8.t: "The Great Sitting of the Sejm" #NT!
+ poland.8.d: "Despite the bad situation in the country, the Sejm didnt discuss any problems for months, and this is about time we do something about it. The King has ordered to organise a Great Sitting of the Sejm. Similar to the big Sejm sittings that had been organised in the times of the Polish-Lithuanian Commonwealth, this assembly will take an extraordinary amount of time. Accomodations for all additional guests such as minority representatives are prepared in places nearest to the building of the Sejm, and all needs such as meals will be provided in the Sejm's building. The sessions will begin at 10AM and end at 8PM, with breaks. Every representative that will not appear on any of the sittings will have his seat in the parliament stripped away, as this is a matter of the highest national importance." #NT!
+ poland.8.a: "This is the best solution" #NT!
+ poland.9.t: "" #NT!
+ poland.9.d: "" #NT!
+ poland.9.a: "" #NT!
+ poland.9.b: "" #NT!
+ poland.9.c: "" #NT!
+ poland.10.t: "Absolute monarchy!" #NT!
+ poland.10.d: "Poland has been transformed from the unstable, messy semi-constitutional monarchy to a proper absolute monarchy. Our king will guide us through these difficult times with his fair rule and his wise decisions. God save the king!" #NT!
+ poland.10.a: "Long live the monarchy!" #NT!
+ poland.11.t: "The democratic elections" #NT!
+ poland.11.d: "The Polish people may vote for a new parliament once again, but this time it is a bit different, it's the first time that more than two parties are on the Ballot. The choices are between the social democratic SPRD, the social liberal party SL, the market liberal party SPR, the social conservative PSCD and the authoritarian democrats MOW." #NT!
+ poland.11.a: "The SPRD wins!" #NT!
+ poland.11.b: "The SL wins!" #NT!
+ poland.11.c: "The SPR wins!" #NT!
+ poland.11.e: "The PSCD wins!" #NT!
+ poland.11.f: "The MOW wins!" #NT!
+ poland.12.t: "The democratic elections" #NT!
+ poland.12.d: "The Polish people may vote for a new parliament once again, but something is different this time. This will be the last time only two parties will be allowed on the ballot, next election there will be a grand total of five parties. The two parties are the conservative PSCD and the authoritarian democrative MOW, who shall win?" #NT!
+ poland.12.a: "The PSCD wins!" #NT!
+ poland.12.b: "The MOW wins!" #NT!
+ poland.13.t: "The democratic elections" #NT!
+ poland.13.d: "Elections have once again commenced in our great nation. Like always there are two stable and great parties on the ballot. The conservative PSCD and the authoritarian democrative MOW, the polls indicate that the results are close. Who will win is a question for all of us!" #NT!
+ poland.13.a: "The PSCD wins!" #NT!
+ poland.13.b: "The MOW wins!" #NT!
+ poland.14.t: "The democratic elections" #NT!
+ poland.14.d: "The Polish people may vote for a new parliament once again. The choices are between the social democratic SPRD, the social liberal party SL, the market liberal party SPR, the social conservative PSCD and the authoritarian democrats MOW." #NT!
+ poland.14.a: "The SPRD wins!" #NT!
+ poland.14.b: "The SL wins!" #NT!
+ poland.14.c: "The SPR wins!" #NT!
+ poland.14.e: "The PSCD wins!" #NT!
+ poland.14.f: "The MOW wins!" #NT!
+ poland.15.t: "London Stock Market Crash" #NT!
+ poland.15.d: "The London Stock Market Crash has hit Poland. It has damaged our industry and the finances of millions of Polish families. This might be one of the biggest economic challenges Poland has ever witnessed in her history." #NT!
+ poland.15.a: "Oh...well, the British strike again" #NT!
+ poland.16.t: "Poland requests to join the Continental Entente" #NT!
+ poland.16.d: "Poland has requested to join the Continental Entente, should we permit them to join?" #NT!
+ poland.16.a: "Yes!" #NT!
+ poland.16.b: "No!" #NT!
+ poland.17.t: "Poland requests to join the Stahlpakt" #NT!
+ poland.17.d: "Poland has requested to join the Stahlpakt, in exchange for this they would give us Sudpreussen and Niederschlesien, should we permit them to join?" #NT!
+ poland.17.a: "Yes!" #NT!
+ poland.17.b: "No!" #NT!
+ poland.18.t: "Joining the Intermarium" #NT!
+ poland.18.d: "Poland has asked us to join their faction, the Intermarium, should we join it?" #NT!
+ poland.18.a: "Yes!" #NT!
+ poland.18.b: "No!" #NT!
+ poland.19.t: "Poland demands our Territory" #NT!
+ poland.19.d: "Poland has demanded our territory since they claim it is rightfully their land, if we deny their demands we might risk war." #NT!
+ poland.19.a: "Accept" #NT!
+ poland.19.b: "Refuse" #NT!
+ poland.20.t: "Annexation of Latvian lands" #NT!
+ poland.20.d: "We have successfully annexed the Latvian lands, they are now back to their rightful owners!" #NT!
+ poland.20.a: "Hurray!" #NT!
+ poland.21.t: "Latvia refused our demands!" #NT!
+ poland.21.d: "Latvia has refused our demands to our rightful land! Should we declare war to get our territory anyway?" #NT!
+ poland.21.a: "Declare War!" #NT!
+ poland.21.b: "Stand back" #NT!
+ poland.22.t: "Poland demands our Territory" #NT!
+ poland.22.d: "Poland has demanded all our territory since they claim it is rightfully their land, if we deny their demands we might risk war." #NT!
+ poland.22.a: "Accept" #NT!
+ poland.22.b: "Refuse" #NT!
+ poland.23.t: "Annexation of Estonian lands" #NT!
+ poland.23.d: "We have successfully annexed the Estonian lands, they are now back to their rightful owners!" #NT!
+ poland.23.a: "Hurray!" #NT!
+ poland.24.t: "Baltic Soviet Republic refused our demands!" #NT!
+ poland.24.d: "The Baltic Soviet Republic has refused our demands to our rightful land! Should we declare war to get our territory anyway?" #NT!
+ poland.24.a: "Declare War!" #NT!
+ poland.24.b: "Stand back" #NT!
+ poland.25.t: "The Incorporation of Lithuania" #NT!
+ poland.25.d: "The Kingdom of Poland has demanded that we are to be annexed, they have already started changing Lithuanian statues to Polish ones and removing Lithuanian government officials. This might be the end of Lithuania as we know it. There are however voices of revolt, of hope in our nation, maybe these are just hopeless screams of despair, but they could also be voices of a new Lithuanian nation." #NT!
+ poland.25.a: "Today, we revolt!" #NT!
+ poland.25.b: "We have to accept our fate..." #NT!
+ poland.26.t: "The Lithuanian revolt!" #NT!
+ poland.26.d: "The Lithuanian nation has decided to revolt! After all of our fair and just rule they have decided to suddenly abandon us without a giving a proper reason. They are traitors to our grand nation and must be defeated!" #NT!
+ poland.26.a: "To War!" #NT!
+ poland.27.t: "Lithuanian militias join army!" #NT!
+ poland.27.d: "Local Lithuanian militias that have been fighting against Poland while we were still a puppet have decided to join the army, together we shall defeat the Polish monster!" #NT!
+ poland.27.a: "Our people have risen!" #NT!
+ poland.28.t: "Piłsudski is dead" #NT!
+ poland.28.d: "On today's evening, Piłsudski was found lying dead in his office. The soon-ordered examination of his body revealed a huge internal bleeding, probably caused by a liver cancer which was developing for a long time. In response to the death of one of most influencial and beloved Polish figures, the King has announced a national week of mourning. Piłsudski will be buried next to his mother, on a cementary in Vilnius, with all the honours the greatest commander of Poland shall get. With his death however, come another problems. His popularity among the population was keeping our state together for a long time. But now, with him gone, the parties in the parliament will possibly start to fall apart again, resulting in a disaster we already expierienced two times in the last 5 years. This is why we have to organise a great debate as soon as possible, in order to solve all problems before the whole aparatus of the Sejm's power will again vanish under the parties' disagreements and internal fights." #NT!
+ poland.28.a: "This is a terrible day for our country..." #NT!
+ poland.29.t: "" #NT!
+ poland.29.d: "" #NT!
+ poland.30.t: "The question of monarchy" #NT!
+ poland.30.d: "Our king was forced upon us by the Entente on the Versailles conference. The monarchy is de facto an artificial creation in our country. However it brings us benefits, together with some minor downsides. The question is, should it stay, or should it go? And if it should stay, how powerful should it be?" #NT!
+ poland.30.a: "We don't need it anymore" #NT!
+ poland.30.b: "The king should have more power" #NT!
+ poland.30.c: "We should keep it as it is" #NT!
+ poland.31.t: "The question of radicals" #NT!
+ poland.31.d: "The radical parties are posing a major stability risk to our country. A quarter of our population consists of minorities, which, according to radical parties' programs, should be polonised, or even expelled. We cannot let this happen. It is also worth mentioning that a party opposed to us, the PSCD, is planning a coalition with the National Democrats. Banning the ND could possibly help us win the nearest elections. What should we do with them?" #NT!
+ poland.31.a: "We should ban the ONR" #NT!
+ poland.31.b: "We should ban the ONR and the ND" #NT!
+ poland.32.t: "Military demands a share of power" #NT!
+ poland.32.d: "On today's evening, the Marshal of Poland, Edward Rydz-Śmigły, entered the King's office with a clear, yet controversial proposal. On behalf of the Polish Army, he demanded a return of the "General Inspector of the Army" rank. Śmigły stated that it should have the same power it had in the old days of the Polish-Bolshevik war, basically making it the most powerful government rank after the monarch. Although the proposal was presented peacefully, the King's advisors are afraid of an agressive response to a refusal. What should we do?" #NT!
+ poland.32.a: "You can have it..." #NT!
+ poland.32.b: "It is mine!" #NT!
+ poland.33.t: "The military supports the King" #NT!
+ poland.33.d: "Now, with the military's support, the power belongs to the King , and any traitors seeking to change this status will face the wrath of the King's loyal army!" #NT!
+ poland.33.a: "Now...where is my crown..." #NT!
+ poland.34.t: "Military coup!" #NT!
+ poland.34.d: "My King! The military units that were supposedly "training" on the outskirts of Warsaw are now openly hostile and entering the city! The Marshal of Poland, Edward Rydz-Śmigły has stated that "In order to preserve democracy, he is obliged to step in before the King assumes total power". The military has turned against us, and the last loyal units have been arrested or are fightning with the enemy on the streets of Warsaw. However their loyality can't save us. We are heavily outnumbered. This is the end of the monarchy." #NT!
+ poland.34.a: "My King, you are under arrest for crimes against the state" #NT!
+ poland.35.t: "What should we do now?" #NT!
+ poland.35.d: "The state is under our total control. The swift take over of the vital government buildings in all major cities was surprisingly successfull. But now, one question remains. Should we bring back democracy like the Marshal promised in his speech, or should we claim the power for ourselves, and estabilish a military junta?" #NT!
+ poland.35.a: "This is our time to rule" #NT!
+ poland.35.b: "Let's bring back democracy" #NT!
+ poland.36.t: "First elections in the new republic" #NT!
+ poland.36.d: "We have abolished the monarchy, and now, these are the first fully free elections in the history of our country. This is truly a special moment." #NT!
+ poland.36.a: "Let's start" #NT!
+ poland.37.t: "Unrest among the population rises" #NT!
+ poland.37.d: "The unrest caused by the government banning the National Democracy party has risen more than expected. Thousands of Poles all around the country have taken to the streets to protest against the "Unlawful, undemocratic move of the current government". There are only two choices. We step down, or continue our plans. " #NT!
+ poland.37.a: "This was a wrong decision" #NT!
+ poland.37.b: "They won't stop us" #NT!
+ poland.38.t: "The unrest rises even more" #NT!
+ poland.38.d: "Our stance didn't help with resolving the unrest at all. Now there are even more people on the streets, and the police force cannot contain the protests anymore. The previous small skirmishes have turned into literal walls of people pushing towards the police lines and protesters have already started constructing barricades on the streets. We have to step down, or send in the military, or else the situation will completely slip out of our control!" #NT!
+ poland.38.a: "We give up" #NT!
+ poland.38.b: "Send in the military" #NT!
+ poland.39.t: "The railroad workers' strike" #NT!
+ poland.39.d: "The railroad workers supporting the protests have organised a strike! Without functioning railways we cannot transport our troops from other regions to Warsaw to contain the protests, and the city garrison is too small to do anything on its own! Now, only a miracle can save us." #NT!
+ poland.39.a: "Uh-oh" #NT!
+ poland.40.t: "People are marching towards the capital!" #NT!
+ poland.40.d: "The protests were raging all around the country for days now, but we got reports about a nationalist march aimed straight for the capital. There are rumors of Roman Dmowski leading it himself. Meanwhile, all government buildings in Warsaw are sorrounded, and there is no way out. We are encircled, and unable to act. The military is helpless, so we are here on our own. Start the prayers..." #NT!
+ poland.40.a: "What will we do now?" #NT!
+ poland.40.b: "What will we do now?" #NT!
+ poland.41.t: "Nationalist takeover" #NT!
+ poland.41.d: "The Nationalist march entered the capital with ease and after storming several government buildings forced the government to finally step down. That corrupt structure is now dissolved, and it is the National Democracy's time to rule as they have the total support of the people." #NT!
+ poland.41.a: "The new era starts now!" #NT!
+ poland.42.t: "Formation of paramilitaries in the east" #NT!
+ poland.42.d: "Thanks to our decision during the Great Sitting of the Sejm, which provided a wide spectrum of new rights for the minorities, they have formed paramilitary groups in response to the current situation. Their job, at least according to their leader's - Symon Petliura's words, is to save the current Polish government from "an unlawful revolt staged by nationalist radicals, who seek to destroy the current balance of rights between the nationalities of Poland". According to our informants, these groups are currently marching towards Warsaw, with a clear intention to disperse the nationalist militia." #NT!
+ poland.42.a: "Are we saved?" #NT!
+ poland.43.t: "ND gives up" #NT!
+ poland.43.d: "The Nationalist march, after hearing the news about the eastern paramilitaries marching towards Warsaw, has disbanded and fled the city. The police force has recontained the protests and the government buildings are slowly getting recaptured from the hands of protestors. Looks like the Social Liberal government under Wincenty Witos stays...for now" #NT!
+ poland.43.a: "Truly a second Miracle at Vistula" #NT!
+ poland.44.t: "The new coalition" #NT!
+ poland.44.d: "With the National Democracy out of the way, and the Social Conservatives missing an important ally, we can safely join forces with the Social Democrats and proceed to win the elections with ease!" #NT!
+ poland.44.a: "This is getting only better" #NT!
+ poland.45.t: "Elections without the ND" #NT!
+ poland.45.d: "New elections have been organised, now, together with the Social Democrats, we will save this country from the nationalists and their conservative puppets!" #NT!
+ poland.45.a: "Let's start the elections" #NT!
+ poland.46.t: "A meeting with the King" #NT!
+ poland.46.d: "On today's morning, a group of the King's advisors met with the King himself in his palace in Warsaw. The aim of the meeting is to decide the new path for the monarchy, or rather the absolute monarchy the King estabilished. There are two parties who still want to cooperate with the "undemocratic and evil" monarch. The Social Liberal SL, which proposes a model of a benevolent dictatorship, which would help the poor and spread the wealth, and the Nationalist ND, which seeks to estabilish a homogenous Polish State, with the minorities sweeped to the margin." #NT!
+ poland.46.a: "Choose the centrist proposal" #NT!
+ poland.46.b: "Choose the nationalist proposal" #NT!
+ poland.47.t: "Officers' meeting" #NT!
+ poland.47.d: "On today's evening, a small group of high-ranked officers met with Edward Rydz-Śmigły in his new office in Warsaw. The aim of the meeting is to decide the path for the new military dictatorship. Among many proposals, there are two which stand out, and are possibly the only viable options. Either we estabilish a centrist, benevolent dictatorship, and earn the support of the people through helping them, or we estabilish a nationalist government, with the aim of creating a homogenous Polish State, with the minorities sweeped to the margin, with barely any rights. " #NT!
+ poland.47.a: "Choose the centrist proposal" #NT!
+ poland.47.b: "Choose the nationalist proposal" #NT!
+ poland.48.t: "Poland asks for protection" #NT!
+ poland.48.d: "Poland has requested a protection from us, in exchange for this they will cede Khmelnytskyi. Should we accept the offer?" #NT!
+ poland.48.a: "They are our enemies" #NT!
+ poland.48.b: "We should defend the peace in the region" #NT!
+ poland.49.t: "Poland wants to incorporate Lithuania" #NT!
+ poladn.49.d: "" #NT!
+ poland.49.a: "No way, we stay independent" #NT!
+ poland.49.b: "We accept the offer" #NT!
+ poland.50.t: "Lithuania refused!" #NT!
+ poland.50.d: "These ungrateful bastards refused our proposal! We should punish them with all the force we can use!" #NT!
+ poland.50.a: "Attack!" #NT!
+ poland.50.b: "We respect their decision" #NT!
+ poland.51.t: "Taking back Galicia." #NT!
+ poland.51.d: "The lands of Galicia were wrongfully taken from us during the Polish-Soviet War, and we have been unable to take them back ever since. Now the Slovaks are in full revolt, and the chance to take the land back has presented itself. We must march in and secure our rightful Polish land." #NT!
+ poland.51.a: "Like taking candy from a baby..." #NT!
+ poland.52.t: "Poland demands land!" #NT!
+ poland.52.d: "Polish officials demand us to cede strategically important lands, stating that it's for our common safety." #NT!
+ poland.52.a: "We stand no chance, allow it." #NT!
+ poland.52.b: "These demands are ridiculous, prepare to defend our lands!" #NT!
+ poland.53.t: "Slovakia refused!" #NT!
+ poland.53.d: "" #NT!
+ poland.53.a: "Attack!" #NT!
+ poland.53.b: "Ok...they can have it...for now" #NT!
+ poland.54.t: "Poland wants to buy guns from us" #NT!
+ poland.54.d: "Due to the current situation in the region, the Polish Ministry of Defense realised how big the need for new guns in the Polish Army is. From various contractors, they decided to choose us, and proposed a deal." #NT!
+ poland.54.a: "We should help them with our equipment" #NT!
+ poland.54.b: "We can't even spare a pistol" #NT!
+ poland.55.t: "Poland seeks help in expanding the Lithuanian ports" #NT!
+ poland.55.d: "Due to the lack of sea access, Poland is forced to use Lithuanian ports as their homeports for all kinds of trade. Due to the urgent need for bigger imports, the Polish government seeks to expand the port and dockyard infrastructure in the Lithuanian region. However, such an investment is expensive, and the Polish had asked us for help." #NT!
+ poland.55.a: "We should help our allies" #NT!
+ poland.55.b: "We can't spare a broken franc" #NT!
+ poland.56.t: "Poland asks for help in designing new bombers" #NT!
+ poland.56.d: "The Polish Ministry of Defense has set up a plan to design a new, modern bomber. Obviously our bombers are superior to any others, and this is exactly why the Polish turned to us and are seeking help in developing a new design. Should we help them?" #NT!
+ poland.56.a: "Our bombers are obviouly superior, let's share the knowledge" #NT!
+ poland.56.b: "I think we shouldn't" #NT!
+ poland.57.t: "The Polish Western Fortifications plan" #NT!
+ poland.57.d: "For ages, Poland had problems with their western nerighbour, Germany. Now, the Polish government has decided to change it, by accepting a plan focused on fortyfing the western Polish border. Of course, such an investment is possible for the Polish, but they will certainly need some expierienced assistants, as they have never built such a thing before. Should we send send some of our fortification specialists to Poland?" #NT!
+ poland.57.a: "Protection against Germany is the most important matter" #NT!
+ poland.57.b: "We can't spare our specialists" #NT!
+ poland.58.t: "Compagnie Franco-Polonaise de Chemins de Fer" #NT!
+ poland.58.d: "Thanks to Poland slowly drifting into our sphere of influence, French businessmen started investing in some parts of the Polish industry. One of the outcomes of these investments is the "Compagnie Franco-Polonaise de Chemins de Fer", or, in english "The French-Polish Rail Association". Its aim is to invest in the Polish railway infrastructure, and possibly developing it further more. Our loyal ally will for sure prosper from this." #NT!
+ poland.58.a: "Great!" #NT!
+ poland.59.t: "Polish offer to buy Madagascar" #NT!
+ poland.59.d: "Following the estabilishment of the Maritime & Colonial League in Poland, the Polish government started searching for new lands they could gather resources, and prosper from. After several debates, they have decided to send an offer to buy Madagascar from us. For us it is a wasteland with almost no resources, so they may have a bigger use of it than we have currently." #NT!
+ poland.59.a: "We accept the offer" #NT!
+ poland.59.b: "We shouldn't sell parts of our colonial empire" #NT!
+ poland.60.t: "They refused!" #NT!
+ poland.60.d: "Sadly, our offer was denied." #NT!
+ poland.60.a: "Goddamnit..." #NT!
+ poland.61.t: "Offer accepted!" #NT!
+ poland.61.d: "The French have accepted our offer!" #NT!
+ poland.61.a: "Hurray!" #NT!
+ poland.62.t: "Polish Maritime & Colonial League" #NT!
+ poland.62.d: "Following the development of the Lithuanian ports, the Polish have decided to reform the Maritime & River League into the Maritime & Colonial League. Its purpose is to care of their merchant navy's affairs and to educate the Polish nation about maritime issues. It actively supports the development of both the Polish merchant fleet and navy, as well as creation of Polish overseas territories." #NT!
+ poland.62.a: "Good luck" #NT!
+ poland.62.b: "Let's send them a small present, shall we?" #NT!
+ poland.63.t: "Polish Fortification Funds" #NT!
+ poland.63.d: "Poland has sent us funds to help us in fortyfing and defending our eastern border. Their gift isn't huge, but with a proper amount of our own money, we can make a good use of it." #NT!
+ poland.63.a: "We can't spare any money. Use only the Polish funds" #NT!
+ poland.63.b: "Defense is something we always have money for" #NT!
+ poland.64.t: "Solving the Transylvanian Dispute" #NT!
+ poland.64.d: "Since the Versailles Conference, Romania and Hungary came to hate each other. Due to the creation of the Republic of Transylvania, and claims of both Romania and Hungary to the region, various diplomatic disputes took place, damaging their relations greatly. Now, with us in a good position to finally put an end to this, there are two options available, both proposed and accepted by our Romanian and Hungarian friends." #NT!
+ poland.64.a: "Transylvania should be Romanian and Banat Hungarian" #NT!
+ poland.64.b: "North Transylvania should be Hungarian, Banat and south Transylvania should go to Romania" #NT!
+ poland.65.t: "Our Neighbours have agreed to partition us!" #NT!
+ poland.65.d: "For years we stayed safe only due to disagreements between our eastern and western neighbours. Now, with Poland as the negotiator, they finally came to an agreement to partition our country. We have to do something before it is too late!" #NT!
+ poland.65.a: "We will never surrender!" #NT!
+ poland.65.b: "This state is an artificial creation anyway" #NT!
+ poland.66.t: "Our Neighbours have agreed to partition us!" #NT!
+ poland.66.d: "For years we stayed safe only due to disagreements between our eastern and western neighbours. Now, with Poland as the negotiator, they finally came to an agreement to partition our country. We have to do something before it is too late!" #NT!
+ poland.66.a: "We will never surrender!" #NT!
+ poland.66.b: "This state is an artificial creation anyway" #NT!
+ poland.67.t: "Transylvania refused to accept the deal!" #NT!
+ poland.67.d: "Even with the great effort we put in to put an end to this ungodly abomination, they are still stubborn and refused to accept our agreement! If they don't want to cooperate, they will soon expierience our combined invasion!" #NT!
+ poland.67.a: "Attack!" #NT!
+ poland.68.t: "Transylvania refused to accept the deal!" #NT!
+ poland.68.d: "Even with the great effort we put in to put an end to this ungodly abomination, they are still stubborn and refused to accept our agreement! If they don't want to cooperate, they will soon expierience our combined invasion!" #NT!
+ poland.68.a: "Attack!" #NT!
+ poland.69.t: "Transylvania refused to accept the deal!" #NT!
+ poland.69.d: "Even with the great effort we put in to put an end to this ungodly abomination, they are still stubborn and refused to accept our agreement! If they don't want to cooperate, they will soon expierience our combined invasion!" #NT!
+ poland.69.a: "Attack!" #NT!
+ poland.70.t: "Poland requests military advisors" #NT!
+ poland.70.d: "With Poland slowly drifting into our sphere of influence and possibly joining our alliance soon, they have asked us for military advisors. It seems that they perceive out military as the greatest army on earth, and we aren't surprised. Should we help them in their army development?" #NT!
+ poland.70.a: "Send the advisors" #NT!
+ poland.70.b: "Not until they join our alliance" #NT!
+ poland.71.t: "Poland requests help in building their eastern fortifications" #NT!
+ poland.71.d: "Knowing the danger of being bordered by the Red Giant, Poland has brougth up a plan to fortify its eastern border. They have enough funds to start the fortifications by themselves, but their efficiency will be bigger if we lend some of our fortification specialists to them." #NT!
+ poland.71.a: "Send the specialists" #NT!
+ poland.71.b: "They stay with us" #NT!
+ poland.72.t: "Polands wants to buy tanks from us" #NT!
+ poland.72.d: "Following the debate in the Polish ministry of defense, the Polish have decided that their army is in an urgent need for new tanks. Due to their membership in the Stahlpakt, they have proposed us an offer. Should we sell them some our tanks?" #NT!
+ poland.72.a: "They should have some of our superior tanks" #NT!
+ poland.72.b: "These are only for us" #NT!
+ poland.73.t: "Poland proposes an arms deal" #NT!
+ poland.73.d: "Today we were visited by a polish diplomat, with an interesting proposal. The Polish High Command have decided that their stockpile of weapons is too small, and debated the issue. Looks like, from various contractors, we were seen as the most appriopiate nation to buy arms from." #NT!
+ poland.73.a: "We accept the deal" #NT!
+ poland.73.b: "We can't spare any guns" #NT!
+ poland.74.t: "Poland requests financial help" #NT!
+ poland.74.d: "The Polish have finally decided to fortify their most vulnerable, western border. They know that their funds won't be enough to build fortifications great enough to stop a German advance into their fatherland, so they have turned to us, and seek financial help. This investment may be useful not only for them, as the finished fortifications will probably stop the Germans in Poland, long before they reach our land." #NT!
+ poland.74.a: "We must help them in stopping the German expansionism" #NT!
+ poland.74.b: "They can do it on their own" #NT!
+ poland.75.t: "Russian SSR refused to help" #NT!
+ poland.75.d: "Sadly, the Russians refused to send us financial help. This means that the fortifications will have to be much smaller, and for sure not as efficient as the ones we had in plans. We will have to suffice with these for now." #NT!
+ poland.75.a: "Let's hope the bunkers will stand against the Germans" #NT!
+ poland.76.t: "Poland wants to join the Internazional" #NT!
+ poland.76.d: "Our fellow Polish socialists have decided to seek protection in our glorious alliance! Should we accept their request to join?" " #NT!
+ poland.76.a: "One more succesfull socialist state in our alliance!" #NT!
+ poland.76.b: "No" #NT!
+ poland.77.t: "Bank robbery in Lwów!" #NT!
+ poland.77.d: "Terible news! Under the cover of the night, robbers have broken into one of the subsidaries of the Polish National Bank in Lwów! All deposits, together with the cash that was stored in the bank's vault is gone, and the value of the robbed goods is estimated to be around 13.000.000 złoty! The robbers were profesionals and their action was perfectly coordinated. The police suspects that when one of the robbers waited in the bathroom for the bank to close, the rest was entering the building from the back, by drilling a hole in the wall of the adjacent house. After the bank has closed, the robber who previously was hiding, had incapacitated both guards, and obtained their keys, and later used them for a quick escape through the frontal door. We have to act fast, or the robbers will run away with all the valuables!" #NT!
+ poland.77.a: "Find them!" #NT!
+ poland.78.t: "They have vanished!" #NT!
+ poland.78.d: "Despite the great effort we put into finding any clues, there are literally none. We have searched the whole building, and there isn't even a single sign of their work, except the hole in the wall and opened deposit boxes." #NT!
+ poland.78.a: "How?! Look for something!" #NT!
+ poland.79.t: "Trails found!" #NT!
+ poland.79.d: "We found something! One of the policemen have came across a part of the car which the robbers, supposedly, used to escape. It seems that the driver hit the kerb, and a part of the car's bumper stayed on it. The police suspects that car was a white Opel Olimpia. Now, we just have to look for similar cars." #NT!
+ poland.79.a: "Search in the city!" #NT!
+ poland.79.b: "Search in the suburbs!" #NT!
+ poland.80.t: "Nothing!" #NT!
+ poland.80.d: "None of the Opel's in the city missed a part of their bumper! We are just wasting time looking for cars when the robbers are escaping with our money!" #NT!
+ poland.80.a: "Goddamnit! Search the suburbs! Quick!" #NT!
+ poland.81.t: "Tools & weapons found!" #NT!
+ poland.81.d: "We found more clues! When searching the possible exit-routes from the city, the police patrol found a bag, containing all the tools that could be used to break into a bank, in the same fashion the robbers did. It is possible that we are very close to their hideout. We should concetrate our efforts on that area." #NT!
+ poland.81.a: "We are close!" #NT!
+ poland.82.t: "Mysterious Informator" #NT!
+ poland.82.d: "On today's evening, a bell rang on the Lwów's main police station. The night-shift guard has opened the door, but to his surprise, the only thing outside, was a letter on the welcome mat. He brought this letter to the commandant as fast as he could. Upon opening and reading it, it was already obvious how important this information is. We don't know the source, but somebody just revealed where the robbers are hiding! We need to get there and arrest them before they escape!" #NT!
+ poland.82.a: "Quick! Get them!" #NT!
+ poland.83.t: "Hideout" #NT!
+ poland.83.d: "We have secretly surrounded the robbers' hideout. Scouts claim that they are still inside. All units are ready to storm the house. However, there is a danger that the robbers will try to burn the money they have stolen, and we can't risk to loose it. They are also supposedly heavily armed. Should we try to negotiate?" #NT!
+ poland.83.a: "Let's negotiate" #NT!
+ poland.83.b: "Raid the hideout!" #NT!
+ poland.84.t: "Ultimatum!" #NT!
+ poland.84.d: "In response to our negotiation attempts, the robbers have issued an ultimatum. They demand half of the robbed money for themselves, a car, and a possibility to drive away without the police chasing them. These demands are obviously absurd, but this is the only way we can prevent an unnecessary blood-bath in the hideout and having our money destroyed." #NT!
+ poland.84.a: "We accept it" #NT!
+ poland.84.b: "Their demands are unnaceptable! Prepare the raid!" #NT!
+ poland.85.t: "They are gone!" #NT!
+ poland.85.d: "After accepting the demands, we have withdrawed all units from the house's surroundings. The robbers left the house, entered the car, and drived away. As soon as they left the estate, we have sent a group of police cars after them, but, to their surprise, the cars, and with it, the robbers, vanished. They have tricked us once again. On the bright side, the suspects left the promised half of the money in the house." #NT!
+ poland.85.a: "Again?!" #NT!
+ poland.86.t: "Raid report" #NT!
+ poland.86.d: "A swift police raid was executed. The first unit entered the house from the front through the main door, immediately getting caught in a cross-fire during which 4 policemen were wounded and 2 were killed. The second police unit entered the house through the basement entrance located outside the house, and after forcing their way into the house through the barricaded basement doors, managed to kill one robber without casualities. The other suspect escaped upstairs, where he had locked himself in a room and barricaded it. Before the police managed to break the door down, the suspect burned 3/4 of the robbed money, and set up a "defensive position" using a flipped toppled wardrobe and a table. It took another 2 killed policemen to force him out of there and kill him. This unsucessful action will for sure make it to the tommorow's newspaper headlines." #NT!
+ poland.86.a: "What a failure" #NT!
+ poland.87.t: "Possible hideout found!" #NT!
+ poland.87.d: "Great news! The police patrols have found a possible hideout in the surroundings of a small village near the main road. While we aren't entirely sure if the reports are true, we have already played cat and mouse long enough. It is time to raid their safe spot and get our money back!" #NT!
+ poland.87.a: "Raid it!" #NT!
+ poland.88.t: "Wrong house!" #NT!
+ poland.88.d: "The reports were mistaken! We have raided a house belonging to innocent civilians! The public opinion is thrilled and this will for sure make it to the tommorow's newspaper headlines. This was the biggest embarassment in the whole existance of the Polish Police Force." #NT!
+ poland.88.a: "Who is responsible for this?!" #NT!
+ poland.89.t: "They have escaped!" #NT!
+ poland.89.d: "Today, the police have found a possible hideout of the robbers. It is located in the woods, not far away from one of the main exit-routes from the city. Sadly, it is empty. The robbers are gone, and so is our money." #NT!
+ poland.89.a: "Who is responsible for this?!" #NT!
+ poland.90.t: "The Polish-Lithuanian Federation proposal" #NT!
+ poland.90.d: "" #NT!
+ poland.90.a: "A great idea, this way we can all be equal" #NT!
+ poland.90.b: "I think we should remain Poland" #NT!
+ poland.91.t: "Poland wants to establish a non-aggression pact" #NT!
+ poland.91.d: "" #NT!
+ poland.91.a: "Yes, this should help protect Europe from repeating its past mistakes" #NT!
+ poland.91.b: "No, I don't think it matters" #NT!
+ poland.92.t: "Preparing ourselves for the invasion" #NT!
+ poland.92.d: "As invading Ukraine will require a bit of effort, we might want to distribute some of our power to our allies so they assist us during the fight" #NT!
+ poland.92.a: "We should aid Lithuania, our trusted subject." #NT!
+ poland.92.b: "We should aid Belarus, as it is the strategically important ally when it comes to the attack!" #NT!
+ poland.92.c: "We should leave the equipment to ourselves." #NT!
+ poland.93.t: "Poland has armed us for the future invasion of Ukraine" #NT!
+ poland.93.d: "" #NT!
+ poland.93.a: "Excellent, now we can show our strength during the fight!" #NT!
+ poland.94.t: "The question of rulership" #NT!
+ poland.94.d: "We can either decide to appoint a puppet prime minister or let Rydz-Śmigły himself guide the nation." #NT!
+ poland.94.a: "We should choose Mościcki, he seems like a promising prime minister." #NT!
+ poland.94.b: "Bah, isn't it obvious? Śmigły's military experience will ensure the safety of out nation!" #NT!
+ poland.95.t: "The share of Ukraine" #NT!
+ poland.95.d: "Now that Ukraine has been defeated, we can demand our ally Poland, to give us our core territories." #NT!
+ poland.96.t: "Belarus wants some of the Ukrainian territory" #NT!
+ poland.96.d: "The Belarusian government is demanding us to return their so called "core territory"" #NT!
+ poland.97.t: "Poland has agreed to give us the demanded territory" #NT!
+ poland.97.d: "" #NT!
+ poland.98.t: "Poland has declined our demands" #NT!
+ poland.98.d: "The self-righteous government of our "ally" has refused to hand us the core territories we've demanded.\n Is this a sign of treachery?" #NT!
+ poland.99.t: "The Belarusians have left our faction" #NT!
+ poland.99.d: "The Belarusian government, outraged by our refusal has decided to break their ties with us." #NT!
+ poland.100.t: "Poles are demanding Grodno" #NT!
+ poland.100.d: "The Polish government demands us to return its territory with the excuse being that it holds many Polish people." #NT!
+ poland.101.t: "Belarus has refused" #NT!
+ poland.101.d: "Our demands have been declined." #NT!
+  
+ poland.102.t: "[POL.GetName] Demands the Corridor!" #NT!
+ poland.102.d: "Diplomats have arrived here today demanding [GER.GetName] immediately transfers ownership of the corridor to [POL.GetName], or, there shall even be military action involved." #NT!
+ poland.102.a: "They are joking, right?" #NT!
+ poland.102.b: "The Führer is the most generous man in human history!" #NT!
+  
+ poland.103.t: "[POL.GetNameDefCap] Requests an Alliance" #NT!
+ poland.103.d: "Diplomats have arrived here today in [AUS.capital.GetCapitalVictoryPointName] requesting to join the [AUS.GetFactionName] due to the threat of [GER.GetName]. They stated that we need to be united, in order to be able to win against them." #NT!
+ poland.103.a: "I don't see a reason why not" #NT!
+ poland.103.b: "We are better of without them" #NT!
+  
+ poland.104.t: "[AUS.GetName] Accepts!" #NT!
+ poland.104.d: "Our diplomats sent to [AUS.GetName] got back with exciting news; we have been welcomed into the [AUS.GetFactionName]!" #NT!
+ poland.104.a: "That's great news!" #NT!
+  
+ poland.105.t: "[AUS.GetName] Rejects!" #NT!
+ poland.105.d: "Our diplomats sent to [AUS.GetName] got back with disappointing news; we have been rejected from the [AUS.GetFactionName]." #NT!
+ poland.105.a: "That's a shame." #NT!
+  
+ ########## 
+ # Drowse # 
+ ########## 
+ polpeace.1.t: "The fate of Slovakia" #NT!
+ polpeace.1.d: "Poland has gone to war with our northern neighbor Slovakia. It has been clear to most that Slovakia was nothing more than a rump state after the collapse of Czechoslovakia but now these open hostilities between Poland and Slovakia show us that none of the Great powers are interested in maintaining Slovakian sovereignty. This gives us the opportunity to reunite the Hungarian majority trapped in southern Slovakia and create a buffer against any possible Polish incursions into our own nation." #NT!
+ polpeace.2.t: "Hungary invades our southern border!" #NT!
+ polpeace.2.d: "For decades Hungary has argued for control over the Hungarian population near our southern border but despite the overwhelming amount of international consensus affirming our ownership of this region Hungary has decided to subvert all diplomatic civility and is attempting to occupy this region. The war against Poland has morphed into a total war for the survival of our nation and people. Are we ready to make the sacrifices needed to save our nation?" #NT!
+ polpeace.3.t: "Sue the Polish for peace?" #NT!
+ polpeace.3.d: "It is clear that we have lost the war against Poland. They occupy the disputed regions and are pushing our forces deeper into our nation. For the sake of our continued sovereignty we should sue for peace and surrender the claimed regions to Poland before they demand more from us." #NT!
+ polpeace.4.t: "Ukraine sues for peace" #NT!
+ polpeace.4.d: "Our armies have won victory after victory against Ukrainian forces. In the wake of their crushing defeats the government in [UKR.Capital.GetName] have agreed to surrender the disputed regions to us to end the conflict. We have lost many good men retaking this land and we have no reason to stretch our forces thin with further conflict. We have already won quite enough." #NT!
+ polpeace.5.t: "Poland refuses peace" #NT!
+ polpeace.5.d: "Despite our generous concessions Poland has refused our offer of peace. This war is now for the very survival of our nation and people. We must sacrifice whatever it takes to defeat Poland." #NT!
+ polpeace.6.t: "Sue the Polish for peace?" #NT!
+ polpeace.6.d: "It is clear that we have lost the war against Poland. They occupy the disputed regions and are pushing our forces deeper into our nation. For the sake of our continued sovereignty we should sue for peace and surrender the claimed regions to Poland before they demand more from us." #NT!
+ polpeace.7.t: "Belarus sues for peace" #NT!
+ polpeace.7.d: "Our armies have won victory after victory against Belorussian forces. In the wake of their crushing defeats the government in [BLR.Capital.GetName] have agreed to surrender the disputed regions to us to end the conflict. We have lost many good men retaking this land and we have no reason to stretch our forces thin with further conflict. We have already won quite enough." #NT!
+ polpeace.8.t: "Poland refuses peace" #NT!
+ polpeace.8.d: "Despite our generous concessions Poland has refused our offer of peace. This war is now for the very survival of our nation and people. We must sacrifice whatever it takes to defeat Poland." #NT!
+ polpeace.9.t: "Sue the Polish for peace?" #NT!
+ polpeace.9.d: "It is clear that we have lost the war against Poland. They occupy the disputed regions and are pushing our forces deeper into our nation. For the sake of our continued sovereignty we should sue for peace and surrender our Polish majority territory to Poland before they demand more from us." #NT!
+ polpeace.10.t: "Germany sues for peace" #NT!
+ polpeace.10.d: "Our armies have won victory after victory against German forces. In the wake of their crushing defeats the government in [GER.Capital.GetName] have agreed to surrender their Polish majority regions to us to end the conflict. We have lost many good men retaking this land and we have no reason to stretch our forces thin with further conflict. We have already won quite enough." #NT!
+ polpeace.11.t: "Poland refuses peace" #NT!
+ polpeace.11.d: "Despite our generous concessions Poland has refused our offer of peace. This war is now for the very survival of our nation and people. We must sacrifice whatever it takes to defeat Poland." #NT!
+ polpeace.12.t: "Sue the Polish for peace?" #NT!
+ polpeace.12.d: "It is clear that we have lost the war against Poland. They occupy the disputed regions and are pushing our forces deeper into our nation. For the sake of our continued sovereignty we should sue for peace and surrender the claimed regions to Poland before they demand more from us." #NT!
+ polpeace.13.t: "Romania sues for peace" #NT!
+ polpeace.13.d: "Our armies have won victory after victory against Romanian forces. In the wake of their crushing defeats the government in [ROM.Capital.GetName] have agreed to surrender the disputed regions to us to end the conflict. We have lost many good men retaking this land and we have no reason to stretch our forces thin with further conflict. We have already won quite enough." #NT!
+ polpeace.33.t: "Poland refuses peace" #NT!
+ polpeace.33.d: "Despite our generous concessions Poland has refused our offer of peace. This war is now for the very survival of our nation and people. We must sacrifice whatever it takes to defeat Poland." #NT!
+ polpeace.14.t: "The fate of Romania" #NT!
+ polpeace.14.d: "Poland has gone to war with our eastern neighbor Romania. It has been clear to most that Romania was nothing more than a tyrannical state after the illegal annexation of Hungarian territory but now these open hostilities between Poland and Romania show us that none of the Great powers are interested in maintaining Romanian sovereignty. This gives us the opportunity to reunite the Hungarian majority trapped in Romania and create a buffer against any possible Polish incursions into our own nation." #NT!
+ polpeace.15.t: "Hungary invades Transylvania!" #NT!
+ polpeace.15.d: "For decades Hungary has argued for control over the Hungarian population living in our Northwestern regions but despite the overwhelming amount of international consensus affirming our ownership of these regions Hungary has decided to subvert all diplomatic civility and is attempting to occupy these territories. The war against Poland has morphed into a total war for the survival of our nation and people. Are we ready to make the sacrifices needed to save our nation?" #NT!
+ polpeace.16.t: "Sue the Hungarians for peace?" #NT!
+ polpeace.16.d: "It is clear that we have lost the war against Hungary. They occupy the disputed regions and are pushing our forces deeper into our nation. For the sake of our continued sovereignty we should sue for peace and surrender the claimed regions to Hungary before they demand more from us." #NT!
+ polpeace.17.t: "Romania sues for peace" #NT!
+ polpeace.17.d: "Our armies have won victory after victory against Romanian forces. In the wake of their crushing defeats the government in [ROM.Capital.GetName] have agreed to surrender the disputed regions to us to end the conflict. We have lost many good men retaking this land and we have no reason to stretch our forces thin with further conflict. We have already won quite enough." #NT!
+ polpeace.18.t: "Hungary refuses peace" #NT!
+ polpeace.18.d: "Despite our generous concessions Hungary has refused our offer of peace. This war is now for the very survival of our nation and people. We must sacrifice whatever it takes to defeat Hungary." #NT!
+ polpeace.20.t: "Sue the Slovaks for peace?" #NT!
+ polpeace.20.d: "It is clear that we have lost the war against Slovakia. They occupy the disputed regions and are pushing our forces deeper into our nation. For the sake of our continued sovereignty we should sue for peace and surrender the disputed territory to Slovakia before they demand more from us." #NT!
+ polpeace.21.t: "Poland sues for peace" #NT!
+ polpeace.21.d: "Our armies have won victory after victory against Polish forces. In the wake of their crushing defeats the government in [POL.Capital.GetName] have agreed to surrender the disputed regions to us to end the conflict. We have lost many good men retaking this land and we have no reason to stretch our forces thin with further conflict. We have barely survived the Polish invasion." #NT!
+ polpeace.22.t: "Slovakia refuses peace" #NT!
+ polpeace.22.d: "Despite our generous concessions Slovakia has refused our offer of peace. This war is now for the very survival of our nation and people. We must sacrifice whatever it takes to defeat Slovakia." #NT!
+ polpeace.23.t: "Sue the Ukrainians for peace?" #NT!
+ polpeace.23.d: "It is clear that we have lost the war against Ukraine. They occupy the disputed regions and are pushing our forces deeper into our nation. For the sake of our continued sovereignty we should sue for peace and surrender the disputed territory to Ukraine before they demand more from us." #NT!
+ polpeace.24.t: "Poland sues for peace" #NT!
+ polpeace.24.d: "Our armies have won victory after victory against Polish forces. In the wake of their crushing defeats the government in [POL.Capital.GetName] have agreed to surrender the disputed regions to us to end the conflict. We have lost many good men retaking this land and we have no reason to stretch our forces thin with further conflict. We have barely survived the Polish invasion." #NT!
+ polpeace.25.t: "Ukraine refuses peace" #NT!
+ polpeace.25.d: "Despite our generous concessions Ukraine has refused our offer of peace. This war is now for the very survival of our nation and people. We must sacrifice whatever it takes to defeat Slovakia." #NT!
+ polpeace.26.t: "Sue the Belorussians for peace?" #NT!
+ polpeace.26.d: "It is clear that we have lost the war against Belarus. They occupy the disputed regions and are pushing our forces deeper into our nation. For the sake of our continued sovereignty we should sue for peace and surrender the disputed territory to Belarus before they demand more from us." #NT!
+ polpeace.27.t: "Poland sues for peace" #NT!
+ polpeace.27.d: "Our armies have won victory after victory against Polish forces. In the wake of their crushing defeats the government in [POL.Capital.GetName] have agreed to surrender the disputed regions to us to end the conflict. We have lost many good men retaking this land and we have no reason to stretch our forces thin with further conflict. We have barely survived the Polish invasion." #NT!
+ polpeace.28.t: "Belarus refuses peace" #NT!
+ polpeace.28.d: "Despite our generous concessions Belarus has refused our offer of peace. This war is now for the very survival of our nation and people. We must sacrifice whatever it takes to defeat Slovakia." #NT!
+ polpeace.29.t: "Sue the Romanians for peace?" #NT!
+ polpeace.29.d: "It is clear that we have lost the war against Romania. They occupy the disputed regions and are pushing our forces deeper into our nation. For the sake of our continued sovereignty we should sue for peace and demilitarize our border with Romania before they demand more from us." #NT!
+ polpeace.30.t: "Poland sues for peace" #NT!
+ polpeace.30.d: "Our armies have won victory after victory against Polish forces. In the wake of their crushing defeats the government in [POL.Capital.GetName] have agreed to surrender the disputed regions to us to end the conflict. We have lost many good men retaking this land and we have no reason to stretch our forces thin with further conflict. We have barely survived the Polish invasion." #NT!
+ polpeace.31.t: "Romania refuses peace" #NT!
+ polpeace.31.d: "Despite our generous concessions Romania has refused our offer of peace. This war is now for the very survival of our nation and people. We must sacrifice whatever it takes to defeat Slovakia." #NT!
+  
+  
+ ### Custom tooltips ### 
+ POL_counteract_lithuania: "§RThis will make a potential incorporation Lithuania more difficult!§!\n" #NT!
+ POL_support_lithuania: "§GThis will increase support of our government in Lithuania!§!\n" #NT!
+ POL_democracy_for_poles_tooltip: "Will increase the chance and strength of a Lithuanian uprising\n" #NT!
+ POL_democracy_for_all_tooltip: "Will decrease the chance and strength of a Lithuanian uprising\n" #NT!
+ POL_fate_lithuania: "It is time to decide the fate of Lithuania....\n" #NT!
+ POL_crush_upstarts1: "Temporarily make the rebellion have a bigger chance to fire earlier...\n" #NT!
+ POL_restart_the_economy_tooltip: "Available when the London Stock Market Crash has hit\n" #NT!
+ POL_deal_with_the_devil_tooltip: "§RWill lead to asking Germany to join their faction in return for giving them Sudpreussen and Niederschlesien§!\n" #NT!
+ POL_the_inevitable_incorporation_tooltip: "§RThis might face heavy resistance§!\n" #NT!
+ POL_lithuanian_oob1: "Gain 2 militias in Kaunas" #NT!
+ POL_lithuanian_oob2: "Gain 4 militias in Kaunas" #NT!
+ POL_lithuanian_oob3: "Gain 6 militias in Kaunas" #NT!
+ POL_decision_rights1: "§RThis decision will block the National Populist path§!\n" #NT!
+ POL_decision_rights2: "§RThis decision will block the National Populist path§!\n" #NT!
+ POL_decision_rights3: "§RThis decision will block the Social Liberal path§!\n" #NT!
+ POL_SocLib_SocDem_merge: "§GThe Social Liberal and Social Democrat parties will merge and become ever more powerful§." #NT!
+ POL_russa_guarantee_tooltip: "§RWill lead to asking Russia for a guarantee in return for giving them Khmelnytsky§!\n" #NT!
+ POL_geological_tooltip: "§GWill enable resources expansion decisions§!\n" #NT!
+ POL_conscription_laws: "§GEnables 2 times cheaper conscription laws in decisions§!\n" #NT!
+ POL_party_member_tooltip: "§GIt will allow us to obtain the members of the party§!\n" #NT!
+ POL_kalmoire_silly: "§YWill allow us to access the foreign policy tree§!\n" #NT!
+ POL_kalmoire_silly_required: "§ROne of the yellow-coloured political focuses is required to access this focus§!" #NT!
+ POL_elections_are_chill: "§GThis will lead straight to the elections§!" #NT!
+ POL_natpop1: "§RThis may cause unrest in our population§!" #NT!
+ POL_natpop2: "§RThis may result in a revolt§!" #NT!
+ POL_natpop3: "§BThe revolt has succeeded! Now the nationalists will rule the state§!" #NT!
+ POL_military_support_tooltip: "§GThis will lead to a cooperation between the king and the military§!" #NT!
+ POL_military_takeover_tooltip: "§RThis may lead to an attempt at a coup by the military§!" #NT!
+  
+ #### Ideas #### 
+  
+ POL_MOW_industrial: "The MOW's industrial plan" #NT!
+ POL_MOW_industrial_desc: "The MOW's industrial plan, which includes building extra civilian factories and lowering taxes on consumer goods." #NT!
+ POL_PSCD_industrial: "The PSCD's industrial plan" #NT!
+ POL_PSCD_industrial_desc: "The PSCD's industrial plan subsidises military factories." #NT!
+ POL_MOW_tax: "The MOW's tax plan" #NT!
+ POL_MOW_tax_desc: "A progressive and fair tax system which makes sure that every Pole pays his share of our nation's cost." #NT!
+ POL_PSCD_tax: "The PSCD's tax plan" #NT!
+ POL_PSCD_tax_desc: "A flat tax that is easy to administrate and equal for all Poles." #NT!
+ POL_increased_free_speech: "Free speech for all of Poland" #NT!
+ POL_increased_free_speech_desc: "Allow everyone in Poland the right of free speech, including in Lithuania." #NT!
+ POL_less_free_speech: "Free speech for Poles only" #NT!
+ POL_less_free_speech_desc: "Only give the right of free speech to the Poles." #NT!
+ POL_equality_for_all: "Equality for All" #NT!
+ POL_equality_for_all_desc: "All inhabitants of the kingdom of Poland excercise the same equal rights." #NT!
+ POL_equality_for_poles: "Equality for Poles only" #NT!
+ POL_equality_for_poles_desc: "Only the Poles in the kingdom of Poland are equal, the Batlic citizens have less rights." #NT!
+ POL_MOW_army: "The MOW's army plan" #NT!
+ POL_MOW_army_desc: "This plan focuses on increased conscription in exchange for less researchers." #NT!
+ POL_PSCD_army: "The PSCD's Army plan" #NT!
+ POL_PSCD_army_desc: "This plan focuses on hiring more army researchers to research better equipment more quickly." #NT!
+ POL_MOW_airforce: "The MOW's airforce plan" #NT!
+ POL_MOW_airforce_desc: "This plan improves the ability of our fighters to fight." #NT!
+ POL_PSCD_airforce: "The PSCD's airforce plan" #NT!
+ POL_PSCD_airforce_desc: "This plan improves our bomber's ability to fight." #NT!
+ POL_constitutional_monarchy: "Becoming a Constitutional Monarchy" #NT!
+ POL_constitutional_monarchy_desc: "The kingdom of Poland is slowly transitioning into a Constitutional Monarchy" #NT!
+ POL_absolute_monarchy: "Becoming an Absolute Monarchy" #NT!
+ POL_absolute_monarchy_desc: "The kingdom of Poland is slowly transitioning into an Absolute Monarchy" #NT!
+ POL_king_men: "All the King's men" #NT!
+ POL_king_men_desc: "" #NT!
+ POL_ojczyzna_guard_idea: "The Ojczyzna Guard" #NT!
+ POL_ojczyzna_guard_idea_desc: "" #NT!
+ POL_GER_occupation: "Unpopular Regime" #NT!
+  
+ POL_lithuanian_unrest: "Lithuanian Unrest" #NT!
+ POL_lithuanian_unrest_desc: "After the Great War, the Baltics have all been fighting to regain their independence, with Lithuania falling in the Polish 1921 offensive during the Polish-Lithuanian War. With no own sea access, Lithuania is the only way for Poland to access world trade and safely import and export goods. However, Lithuanians are aware of this, and are trying to take an advantage of this situation." #NT!
+  
+ POL_lithuanian_unrest_stagnant: "Lithuanian Unrest Stagnant" #NT!
+ POL_lithuanian_unrest_stagnant_desc: "The unrest in Lithuania is still an issue in our sphere of influence." #NT!
+  
+ POL_lithuanian_unrest_less_bad: "Lithuanian Support" #NT!
+ POL_lithuanian_unrest_less_bad_desc: "The unrest in Lithuania has been mostly taken care of and our government has gained trust among the Lithuanian population!" #NT!
+  
+ POL_ukrainian_unrest: "Unrest in the Borderlands" #NT!
+ POL_ukrainian_unrest_desc: "People in our Ruthenian territories are causing damage to our nation." #NT!
+  
+ POL_ukrainians_happy: "Rights for Minor Ethnicities" #NT!
+ POL_ukrainians_happy_desc: "The people of our borderlands are enjoying more freedoms. Since their institution, they've become more productive." #NT!
+  
+ POL_direct_rule: "Direct Rule from Warsaw" #NT!
+ POL_direct_rule_desc: "Direct rule from warsaw." #NT!
+ POL_local_leadership: "Local Leadership" #NT!
+ POL_local_leadership_desc: "Local Leadership ensures that the Polish people are more united and more willing to die for their country." #NT!
+ POL_protect_consumer: "Protect the Consumer" #NT!
+ POL_protect_consumer_desc: "The consumers should be our biggest concern in this crisis." #NT!
+ POL_military_complex: "The Polish Military Industrial Complex" #NT!
+ POL_military_complex_desc: "" #NT!
+ POL_krakow_arms: "The Krakow Arms Industry" #NT!
+ POL_krakow_arms_desc: "" #NT!
+ POL_black_wednesday: "London Stock Market Crash" #NT!
+ POL_black_wednesday_desc: "The LSMC has hit Poland and destroyed our economy. We have to act quickly, or we may face more problems." #NT!
+ POL_black_wednesday_meh: "London Stock Market Crash" #NT!
+ POL_black_wednesday_meh_desc: "The LSMC has hit Poland and destroyed our economy. We have to act quickly, or we may face more problems." #NT!
+ POL_improved_railway: "Improved railroad construction" #NT!
+ POL_improved_railway_desc: "" #NT!
+ POL_fort_construction: "In Defence of Poland" #NT!
+ POL_fort_construction_desc: "" #NT!
+ POL_foreign_designs_idea: "Foreign Designs" #NT!
+ POL_foreign_designs_idea_desc: "" #NT!
+ POL_mass_production_idea: "Mass Production" #NT!
+ POL_mass_production_idea_desc: "" #NT!
+ POL_agricultural_grants_idea: "Agricultural Grants" #NT!
+ POL_agricultural_grants_idea_desc: "" #NT!
+ POL_cemented_state: "Stable State of the State" #NT!
+ POL_cemented_state_desc: "The state of the State is stable, and unlikely to abruptly change." #NT!
+ POL_instable_democracy: "Unstable Democracy" #NT!
+ POL_instable_democracy_desc: "Poland was never a republic in its entire existance. Since the Versailles conference we operated with a consitutional monarchy system, which was already understood by the population. Now, when the king is gone, and more choices are available, some people are simply confused and unfamiliar with the new situation. All of this cumulatively, with new, radical parties emerging, can endanger our young Polish Republic" #NT!
+ POL_just_ok_conditions_idea: "Improved Working Conditions" #NT!
+ POL_just_ok_conditions_idea_desc: "Our policies have ensured that factories must follow the proper safety guidelines and procedures." #NT!
+ POL_better_working_conditions_idea: "Better Working Conditions" #NT!
+ POL_better_working_conditions_idea_desc: "Better working conditions for the workers." #NT!
+ POL_happy_farmers: "Happy Farmers" #NT!
+ POL_happy_farmers_desc: "The poor and small farmers were finally given a fair share of land." #NT!
+ POL_dispersed_farming: "Dispersed Farming" #NT!
+ POL_dispersed_farming_desc: "We made the smaller, poorer farmers content. But our economy will now suffer for some time due to lack of big farming complexes." #NT!
+ POL_powerless_minorities: "Powerless Minorities" #NT!
+ POL_powerless_minorities_desc: "We stripped away all the rights the minorities posessed. Now, with them completely powerless, we can continue our plans." #NT!
+ POL_ukrainian_police_revolt: "Ukrainian Police Revolt" #NT!
+ POL_ukrainian_police_revolt_desc: "The Ukrainian police in the east has revolted and seized numerous government buildings. We shall deal with the problem quickly, or we may face a full-scale rebellion." #NT!
+ POL_economic_interventionism: "Economic Interventionism" #NT!
+ POL_economic_interventionism_desc: "" #NT!
+ POL_unsure_minorities_idea: "Unsure Minorities" #NT!
+ POL_unsure_minorities_idea_desc: "The minorities aren't sure about the government's stance and policies towards them" #NT!
+ POL_benevolent_dictatorship_idea: "Benevolent Dictatorship" #NT!
+ POL_benevolent_dictatorship_idea_desc: "" #NT!
+ POL_total_equality: "Equality Above All" #NT!
+ POL_total_equality_desc: "We shall provide equality for every single citizen of our country. It should be our first priority." #NT!
+ POL_valkist_resistance: "Valkist resistance" #NT!
+ POL_valkist_resistance_desc: "The kicked radicals from the National Democracy party are now protesting against the "undemocratic move" of the government. " #NT!
+ POL_minorities_protests: "Minorities protest against the government" #NT!
+ POL_minorities_protests_desc: "" #NT!
+ POL_border_defence: "Border Defense Squads" #NT!
+ POL_border_defence_desc: "Without the Ukrainian Police, we are left with no tool to keep the unrest and the border in the east in check. This is why we formed the Border Defense Squads." #NT!
+ POL_poland_ab_idea: "The Undeveloped Ruthenia" #NT!
+ POL_poland_ab_idea_desc: "There is a concerning disparity between Red Ruthenia's economic situation and the rest of our country." #NT!
+ POL_better_defensive: "Increased Defensive Capabilites" #NT!
+ POL_better_defensive_desc: "" #NT!
+ POL_three_statements: "Three Dmowski's Statements" #NT!
+ POL_three_statements_desc: "" #NT!
+ POL_partial_nationalisation_industry: "Partial Nationalisation of the Industry" #NT!
+ POL_partial_nationalisation_industry_desc: "" #NT!
+ POL_nationalisation_industry: "Nationalisation of the Industry" #NT!
+ POL_nationalisation_industry_desc: "" #NT!
+ POL_no_enemies: "No Internal Enemies" #NT!
+ POL_no_enemies_desc: "We have purged and jailed all our enemies! Now we shall rule forever!" #NT!
+ POL_ready: "Ready for the worst" #NT!
+ POL_ready_desc: "We should always be ready for the worst. The best defense isn't always a good offense." #NT!
+ POL_rogue_elements: "Rogue elements in the army" #NT!
+ POL_rogue_elements_desc: "After the public declaration of the Three Dmowski's Statements, a small part of our military declared their opposition to the new government. One of their head leaders is General Władysław Sikorski, who is known for supporting democratic structures around the country. We should put an end to his childish play." #NT!
+  
+ POL_guns_payment: "Payment from the Arms Deal with Poland" #NT!
+ POL_guns_payment_desc: "" #NT!
+ POL_guns_cash: "Paying for the guns" #NT!
+ POL_guns_cash_desc: "" #NT!
+ POL_quicker_ports: "French Port Development Funding" #NT!
+ POL_quicker_ports_desc: "" #NT!
+ POL_help_ports: "Helping Poland in port development" #NT!
+ POL_help_ports_desc: "" #NT!
+ POL_french_designs: "French Bomber Designs" #NT!
+ POL_french_designs_desc: "" #NT!
+ POL_french_fortification_help: "Foreign Fortification Specialists" #NT!
+ POL_french_fortification_help_desc: "" #NT!
+ POL_absent_fortification_specialists: "Absent Fortification Specialists" #NT!
+ POL_absent_fortification_specialists_desc: "" #NT!
+ POL_fptk: "French-Polish Rail Association" #NT!
+ POL_fptk_Desc: "" #NT!
+ POL_polish_colonial_payment: "Polish payment for Madagascar" #NT!
+ POL_polish_colonial_payment_desc: "" #NT!
+ POL_maritime_league: "Maritime & Colonial League" #NT!
+ POL_maritime_league_desc: "" #NT!
+  
+ POL_latvian_frontier: "The Latvian Frontier" #NT!
+ POL_latvian_frontier_desc: "" #NT!
+  
+ POL_fortification_effort: "Romanian Fortification Effort" #NT!
+ POL_fortification_effort_desc: "" #NT!
+ POL_german_advisors: "German Military Advisors" #NT!
+ POL_german_advisors_desc: "" #NT!
+  
+ POL_against_evil_idea: "Against the Evil" #NT!
+ POL_against_evil_idea_desc: "" #NT!
+ POL_against_the_red_menace: "Against the Red Menace" #NT!
+ POL_against_the_red_menace_desc: "" #NT!
+ POL_against_socialism: "Against the Reds" #NT!
+ POL_against_socialism_desc: "" #NT!
+  
+ POL_movement_planning: "Advanced Planning Techniques" #NT!
+ POL_movement_planning_desc: "" #NT!
+ POL_better_movement: "Improved Movement Planning" #NT!
+ POL_better_movement_desc: "" #NT!
+ POL_improved_lines: "Improved Production Lines" #NT!
+ POL_improved_lines_desc: "" #NT!
+ POL_breakthrough: "Breakthrough Techniques" #NT!
+ POL_breakthrough_desc: "" #NT!
+ POL_paramilitarism: "Вооруженные формирования"
+ POL_paramilitarism_desc: "" #NT!
+ POL_improved_supplies: "Improved Supply Systems" #NT!
+ POL_improved_supplies_desc: "" #NT!
+  
+ POL_improved_support: "Improved CAS techniques" #NT!
+ POL_improved_support_desc: "" #NT!
+  
+ POL_advisors_council: "The Council of Advisors" #NT!
+ POL_advisors_council_desc: "In 1935, the King had to disband both the government and the Sejm for the third time. Seeing how the parliamentary system of the country doesn't work, and that it makes the government powerless due to unpopularity and divisions within the parliament, Franciszek I Radziwiłł decided to only organise new Sejm elections, leaving the government issue to an appointed council of his advisors. While this is supposedly only a temporary solution, nothing can virtually stop the King from assuming total power over the country." #NT!
+  
+ POL_in_defence_of_poland: "In Defence of Poland" #NT!
+ POL_in_defence_of_poland_desc: "" #NT!
+ POL_in_defence_of_poland2: "In Defence of Poland" #NT!
+ POL_in_defence_of_poland2_desc: "" #NT!
+ #decisions 
+ POL_oil_expansion: "Przemyśl Oil Rig Expansion" #NT!
+ POL_bunker_projects: "Bunker Projects" #NT!
+ #conscript decisions 
+ POL_volunteer_only: "Volunteer Only" #NT!
+ POL_limited_conscription: "Limited Conscription" #NT!
+ POL_extensive_conscription: "Extensive Conscription" #NT!
+ POL_service_by_requirement: "Service by Requirement" #NT!
+ POL_all_adults_serve: "All Adults Serve" #NT!
+ POL_scraping_the_barrel: "Scraping the Barrel" #NT!
+  
+  
+ #flags 
+ POL_DED: "Piłsudski is dead" #NT!
+ POL_bypass_the_elections_republic_noND: "Arranged new elections & the ND gave up" #NT!
+ POL_bypass_the_elections_republic: "Arranged new elections" #NT!
+ POL_bypass_the_elections_monarchy: "The King arranged new elections" #NT!
+ POL_REAL_PATRIOT: "The Nationalists couped the government" #NT!
+ POL_military_junta_flag: "The Military couped the King" #NT!
+ POL_autocratic_monarchy: "The Sejm agreed to give more power to the King" #NT!
+ POL_vetoed_airforce_bill: "The King vetoed the Airforce Bill" #NT!
+ POL_vetoed_army_bill: "The King vetoed the Army Bill" #NT!
+  
+ #modifiers 
+ POL_intermarium_diplomacy: "Intermarium Diplomacy" #NT!
+ POL_against_germany: "Campaign against Germany" #NT!
+ POL_content_russia: "Campaigned against Germany" #NT!
+ POL_claims_announced: "Polish claims announced" #NT!
+  
+ #companies 
+ cop: "COP" #NT!
+ ava: "AVA" #NT!
+ pocisk: "Zakłady Amunicyjne "Pocisk"" #NT!
+ tsfriz: "Towarzystwo Sosnowieckich Fabryk Rur i Żelaza" #NT!
+ ztt: "Zakłady Telefoniczno-Telegraficzne" #NT!
+ hsw: "Huta Stalowa Wola" #NT!
+ belma: "Bydgoskie Zakłady Elektromechaniczne" #NT!
+ ursus: "Ursus" #NT!
+ pwu: "Państwowe Wytwórnie Uzbrojenia" #NT!
+  
+ #country leaders and generals desc 
+ POLITICS_FRANCISZEK_RADZIWILL_DESC: "King Franciszek I Radziwiłł (full name: Janusz Franciszek Ksawery Józef Labre Bronisław Maria Radziwiłł) (Born in Berlin on September 3rd, 1880) is a polish nobleman and a king of the Kingdom of Poland.\n\n During the Great War he found himself on the Russian side of the frontline, in his family estate in Ołyka in Volhynia. There, he organised help for the refugees from the Congress Poland. In 1918, as the supporter of the Regency Council, he came back to Poland and became a member of the Jan Kanty Steczkowski's government as the Director of the State Department. He was responsible for the Polish foreign policy and developing the Polish diplomatic ties around the world.In the summer of 1918 he held diplomatic talks with the German and Austrian emperors, Wilhelm II and Carl I, about the future of the Kingdom of Poland. During the meeting they considered various candidacies for the crown of the Kingdom of Poland. During the meeting he also refused to be a candidate for the crown of the Kingdom of Lithuania, as he was a cousin of the German emperor. In 1919 he tried to become a part of the Polish diplomatic mission to the Conference of Versailles, but failed. Nonetheless, to his surprise, on the Versailles Conference, the Regency Council was proclaimed the only legal government of Poland. Then, on November 20th, he was chosen by the Council to become the new King. It was obvious that the decision was pushed by the Entente Powers, due to Radziwiłł's royal ties to various royal families of europe. One month later, Janusz Radziwiłł was officialy coronated and he chose the second name Franciszek as his royal name. " #NT!
+ POL_Edward_Rydz_Smigly_desc: "Known as Józef Piłsudski's heir, Rydz-Śmigły obtained his fame after his deeds in the Polish-Ukrainian War,halting the Ukrainian advances through methods similiar in manner to those used on the western front during the Great War. Developing a line of defences, he allowed his superior, Piłsudski, to focus on dismantling the encircled Ukrainian troops defending in local areas.\n This experience and other factors led to him choosing well dug-in defence as the conflict-winning tactic." #NT!
+  
+ #Puppet(s) Names 
+  
+ POL_puppet_authoritarian_democrat: "R.K. Poland" #NT!
+ POL_puppet_authoritarian_democrat_DEF: "the Reichskommissariat Poland" #NT!
+ POL_puppet_authoritarian_democrat_ADJ: "Polish" #NT!
+ POL_puppet_paternal_autocrat: "R.K. Poland" #NT!
+ POL_puppet_paternal_autocrat_DEF: "the Reichskommissariat Poland" #NT!
+ POL_puppet_paternal_autocrat_ADJ: "Polish" #NT!
+ POL_puppet_national_populist: "R.K. Poland" #NT!
+ POL_puppet_national_populist_DEF: "the Reichskommissariat Poland" #NT!
+ POL_puppet_national_populist_ADJ: "Polish" #NT!
+ POL_puppet_valkist: "R.K. Polen" #NT!
+ POL_puppet_valkist_DEF: "Der Reichskommissariat Polen" #NT!
+ POL_puppet_valkist_ADJ: "Polieren" #NT!
+ POL_Franciszek_I_Radziwill: "Franciszek I Radziwiłł" #NT!
+ POL_Boleslaw_Piasecki: "Bolesław Piasecki" #NT!
+ POL_Adolf_Warski: "Adolf Warski" #NT!
+ POL_Stanislaw_Dubois: "Stanisław Dubois" #NT!
+ POL_Roman_Dmowski: "Roman Dmowski" #NT!
+ POL_Julian_Leszczynski: "Julian Leszczyński" #NT!
+ POL_Waclaw_Krzeptowski: "Wacław Krzeptowski" #NT!
+ POL_Edward_Rydz_Smigly: "Edward Rydz-Śmigły" #NT!
+ POL_Tadeusz_Kasprzycki: "Tadeusz Kasprzycki" #NT!
+ POL_Jozef_Pilsudski: "Józef Piłsudski" #NT!
+ POL_Leon_Berbecki: "Leon Berbecki" #NT!
+ POL_Boleslaw_Roja: "Bolesław Roja" #NT!
+ POL_Wladyslaw_Anders: "Władysław Anders" #NT!
+ POL_Stanislaw_Burhardt_Bukacki: "Stanisław Burhardt Bukacki" #NT!
+ POL_Lucjan_Zeligowski: "Lucjan Żeligowski" #NT!
+ POL_Stanislaw_Maczek: "Stanisław Maczek" #NT!
+ POL_Wladyslaw_Sikorski: "Władysław Sikorski" #NT!
+ POL_Jozef_Haller: "Józef Haller" #NT!
+ POL_Henryk_Minkiewicz: "Henryk Minkiewicz" #NT!
+ POL_Stanislaw_Szeptycki: "Stanisław Szeptycki" #NT!
+ POL_Jan_Mosdorf: "Jan Mosdorf" #NT!
+ POL_Henryk_Rossman: "Henryk Rossman" #NT!
+ POL_Ignacy_Moscicki: "Ignacy Mościcki" #NT!
+ POL_Adolf_Bninski: "Adolf Bniński" #NT!
+ POL_Aleksander_Prystor: "Aleksander Prystor" #NT!
+ POL_Jerzy_Kurcyusz: "Jerzy Kurcyusz" #NT!
+ POL_Stanislaw_Glabinski: "Stanisław Głąbiński" #NT!
+ POL_Maciej_Rataj: "Maciej Rataj" #NT!
+ POL_Kazimierz_Sosnkowski: "Kazimierz Sosnkowski" #NT!
+ POL_Ignacy_Daszynski: "Ignacy Daszyński" #NT!
+ POL_Jedrzej_Giertych: "Jędrzej Giertych" #NT!
+ POL_Stanislaw_Kozicki: "Stanisław Kozicki" #NT!
+ POL_Jozef_Feliks_Ciszewski: "Józef Feliks Ciszewski" #NT!
+ POL_Maria_Koszutska: "Maria Koszutska" #NT!
+ POL_Adam_Chadzynski: "Adam Chądzyński" #NT!
+ POL_Adam_Koc: "Adam Koc" #NT!
+ POL_Leon_Marchlewski: "Leon Marchlewski" #NT!
+ POL_Roman_Rybarski: "Roman Rybarski" #NT!
+ POL_Stanislaw_Mikolajczyk: "Stanisław Mikołajczyk" #NT!
+ POL_Tadeusz_Todtleben: "Tadeusz Todtleben" #NT!
+ POL_Tomasz_Arciszewski: "Tomasz Arciszewski" #NT!
+ POL_Jan_Jodzewicz: "Jan Jodzewicz" #NT!
+ POL_Karol_Popiel: "Karol Popiel" #NT!
+ POL_Kazimierz_Puzak: "Kazimierz Pużak" #NT!
+ POL_Tadeusz_Bielecki: "Tadeusz Bielecki" #NT!
+ POL_Tadeusz_Gluzinski: "Tadeusz Gluziński" #NT!
+ POL_Jozef_Zajac: "Józef Zając" #NT!
+ POL_Wincenty_Witos: "Wincenty Witos" #NT!
+ POL_Wojciech_Korfanty: "Wojciech Korfanty" #NT!
+ POL_Jedrzej_Moraczewski: "Jędrzej Moraczewski" #NT!
+ POL_Walery_Slawek: "Walery Sławek" #NT!
+  
+ POL_review_the_military: "Review The Military" #NT!
+ POL_review_the_military_desc: "" #NT!
+  
+ POL_expand_the_general_staff: "Expand the General Staff" #NT!
+ POL_expand_the_general_staff_desc: "" #NT!
+  
+ POL_specialized_army: "Specialized Army" #NT!
+ POL_specialized_army_desc: "" #NT!
+  
+ POL_strength_in_numbers: "Strength in Numbers" #NT!
+ POL_strength_in_numbers_desc: "" #NT!
+  
+ POL_higher_military_studies: "Higher Military Studies" #NT!
+ POL_higher_military_studies_desc: "" #NT!
+  
+ POL_expand_the_warsaw_academy: "Expand the Warsaw Academy" #NT!
+ POL_expand_the_warsaw_academy_desc: "" #NT!
+ POL_expand_the_warsaw_academy_tt_1: "If focus §Y$POL_specialized_army$§! is chosen:\n" #NT!
+ POL_expand_the_warsaw_academy_tt_2: "If focus §Y$POL_strength_in_numbers$§! is chosen:\n" #NT!
+ POL_expand_the_warsaw_academy_tt_3: "If §Yno§! focus is chosen before this is taken, it will have §Rno additional effect§!\n" #NT!
+  
+ POL_armored_warfare_initiative: "Armored Warfare Initiative" #NT!
+ POL_armored_warfare_initiative_desc: "" #NT!
+  
+ POL_cavalry_modernisation_program: "Cavalry Modernisation Program" #NT!
+ POL_cavalry_modernisation_program_desc: "" #NT!
+  
+ POL_polish_special_forces: "Polish Special Forces" #NT!
+ POL_polish_special_forces_desc: "" #NT!
+  
+ POL_mass_mobilisation_doctrine: "Mass Mobilisation Doctrine" #NT!
+ POL_mass_mobilisation_doctrine_desc: "" #NT!
+  
+ POL_develop_the_galician_oil_fields: "Develop The Galician Oil Fields" #NT!
+ POL_develop_the_galician_oil_fields_desc: "" #NT!
+  
+  
+ POL_tank_development: "Develop the 9TP" #NT!
+ POL_tank_development_desc: "" #NT!
+  
+ POL_polish_reserve_force: "Polish Reserve Force" #NT!
+ POL_polish_reserve_force_desc: "" #NT!
+ POL_polish_reserve_force_tt: "§7We will receive a §GIrregular Infantry§! template with the following composition:\n - 6 £GFX_unit_irregular_infantry_icon_small battalions and\n - 1£GFX_unit_category_line_artillery_icon_small support artilery batallion\n\nSpawn §Y3§! divisions with the newly acquired template at £GFX_unit_level_two_texticon trained level§!\n" #NT!
+  
+  
+ POL_expand_conscription: "Expand Conscription" #NT!
+ POL_expand_conscription_desc: "" #NT!
+  
+ POL_enigma_codebreakers: "Enigma Codebreakers" #NT!
+ POL_enigma_codebreakers_desc: "" #NT!
+  
+ POL_Stanislaw_Ulam: "Stanisław Ulam" #NT!
+ POL_Jerzy_Dabrowski: "Jerzy Dąbrowski" #NT!
+ POL_Marian_Rejewski: "Marian Rejewski" #NT!

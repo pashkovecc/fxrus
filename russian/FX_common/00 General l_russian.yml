@@ -1,0 +1,651 @@
+﻿l_russian:
+  
+ FUHRERREDUX_CAREER_PROFILE: "Фюреррейх"
+ FX_CURRENT_VERSION: "ФЮРЕРРЕЙХ КРУПНОЕ ОБНОВЛЕНИЕ 0.3.1 \"В стальных грозах часть 3: Чёрные знамена\""
+ # aint nobody writing my versioning system lmfao 
+  
+ # MAJOR may be replaced by either: 
+ # Patch                  => Small Update 
+ # Minor                  => Minor Update 
+ # Major                  => Major Update 
+  
+ FX_CURRENT_VERSION_BRIEF: "Фюреррейх v0.3.1 - В стальных грозах: Чёрные знамена"
+  
+ # Main Menu Tooltips 
+ FX_MENU_DISCORD: "Discord Фюререйха"
+ FX_MENU_FORUM: "Reddit Фюререйха"
+ FX_MENU_FACEBOOK: "Мастерская Steam Фюререйха"
+ FX_MENU_TWITTER: "Twitter Фюререйха"
+ FX_MENU_PRIVACY_POLICY: "Patreon Фюререйха"
+  
+ FX_welcome_splash_tab_1: "Страна"
+ FX_welcome_splash_tab_2: "Гайды"
+ FX_welcome_splash_tab_4: "Разработчики"
+ mod_intro_button_text: "[ROOT.GetCountryIntroOption]"
+ mod_options_button_text: "Продолжить"
+  
+ ### TAB 1 ### 
+ FX_welcome_splash_tab_1_header: "[ROOT.GetCountryIntroHeader]"
+ FX_welcome_splash_tab_1_content: "[ROOT.GetCountryIntroContent]"
+  
+ ### Credits 
+ # TODO: FIX CREDITS 
+ FX_SPLASH_TITLE: "§YСоздано с любовью командой Фюреррейха:§!"
+ FX_SPLASH_CREDITS: "dax · Todd Howard · Captain Kaiczer · Dej · AmCath · Lextzo · BobRossHD · AngryCatholic · JoeBidenWhatAreYouHiding · David Lu · RAus · ainsley · the feets guy · Smigly · ATonyAtLaw2021 · thanasislanaras · terroristguy · miklos · Log · Ahmed Pasha Al Said · 9504 · Pascal · Crazy Green Hair Guy · Mitchell · Fokel · Formula · The dëtæīłêd brëæd · Mapper History · Mr. Saltine · The Man who sold the World · Thought_West · karimlebg · Fire · Maisel · Denis_MD · guerrillero · scipion34 · retiredlt24 · literallycamusenjoyer · Ayla · Brian! · Dragon_Arach · KingfishChris · Leopold · Lord Death · Norman · Trowald · SomeRandomAutocrat · Whitewoods · Yondaime · Steffplays123 · rcbpbankinghowcanihelpyou · Telephone Crab · Raufasertapete\n\n§CОтдельная благодарность создателям оригинального Фюреррейха за то, что разрешили продолжить их дело:§!\nDarknight1342 · Jespertjee · Trimeon · Drowse · Spocklan116 · Steffplays123 · Arser · Kalmoire · Kaiserman · LuxLoser · Milekhippy · Terran117 · Teutonician Germanicus Danziger · Freidrich von Omansich · Kano901 · Raptor Jesus · Hellbat\n\n§RТакже благодарим разработчиков Кайзерредукса и Кайзеррейха,§!\n\n§Cи спасибо тебе, Игрок, что играешь в наш мод!§!\n\n§YМод переведён Пашковцом§!"
+  
+ intro.1.t: "Фюреррейх версия 0.3.1\nВ стальных грозах: Чёрные знамёна — Хотфикс 2"
+ intro.1.d: "Спасибо за ожидание! 0.3.1, «В стальных грозах — Чёрные знамёна Хотфикс 2» наконец-то доступна для всех.\n\nХотфикс «Чёрные знамёна» 2 обеспечивает совместимость с версией игры 1.19, а также попутно исправляет несколько небольших багов.\n\nПодробнее об этом патче вы можете прочитать в свежем дневнике разработки на нашем Сабреддите, /r/fuhrerredux.\n\nНад этим модом непрерывно работает сплочённая команда добровольцев со всего мира, и мы искренне ценим ваши тёплые слова и время, проведённое за нашей работой. От всего сердца выражаем вам самую глубокую благодарность; приятной игры!"
+ intro.1.a: "Спасибо!"
+ intro.1.b: "Что с популярностью партий?"
+ intro.1.c: "А есть где-нибудь FAQ?"
+ intro.2.t: "FAQ по Фюреррейху"
+ intro.2.d: "В: Контент моей любимой страны говно! Получит ли она реворк?\nО: Да, все страны со временем должны получить переработку. Ничто в моде не останется неизменным.\n\nВ: Получит ли моя любимая страна контент в будущем?\nО: Наша цель — чтобы все нации в конечном итоге получили контент. Сколько времени на это уйдёт? Можете быть уверены, довольно много, в конце концов, мы всего лишь люди.\n\nВ: Будут ли какие-либо DLC обязательными для Фюреррейха?\nО: Категорически нет. Хотя Фюреррейх будет эффективно использовать новые функции из официальных дополнений, мы не будем обязывать игроков покупать DLC для игры в мод.\n\nВ: Почему вы провели ребрендинг?\nО: Поскольку оригинальный Фюреррейх теперь полностью мёртв, мы решили занять своё место как его официальный преемник. Оригинальное название мода, «Фюрерредукс», вызывало некоторую путаницу: люди думали, что наша цель, как и у Kaiserredux, — предоставить «альтернативный опыт». На самом же деле цели нашей команды — развивать и продолжать оригинальный Фюреррейх, опираясь на идейные основы, с которых он начинался.\n\nВ: Я хочу присоединиться к команде как художник/кодер/тестер/писатель! Где подать заявку?\nО: Отлично! Вам нужно зайти на наш Discord-сервер и заполнить соответствующую анкету. Ссылку на наш Discord-сервер можно найти в меню паузы (круглая иконка с логотипом Discord). Также ссылка есть на странице мода в мастерской Steam."
+ intro.2.a: "Почему все забирают мою политку?"
+ intro.3.t: "Популярность партий для чайников"
+ intro.3.d: "В Фюреррейхе используется система министров из Кайзеррейха, да и в целом мод активно заимствует идеи оттуда во многих других сферах. Один из таких примеров — система популярности партий.\n\nСистема популярности в Кайзеррейхе дает ощутимый прирост политической власти для стран с высокой популярностью правящей партии — это попытка отразить довольство населения режимом или парламентское большинство при демократии. Как правило, чем выше популярность, тем больше прирост политки. Ниже приведены критерии для разных уровней популярности:\n\nОчень низкая популярность = Меньше 20% популярности правящей партии\nНизкая популярность = 20% - 40% популярности правящей партии\nСредняя популярность = 40% - 60% популярности правящей партии\nВысокая популярность = 60% - 80% популярности правящей партии\nОчень высокая популярность = Более 80% популярности правящей партии\n\nОговорка «Как правило, чем выше популярность, тем больше прирост политвласти» сделана не просто так. У некоторых стран, таких как Франция, эта система отключена — ради более точной симуляции механики коалиций (или вообще по другим причинам). Просто имейте это в виду, и игра за страны с отключенной системой популярности пройдет как по маслу!"
+ intro.3.a: "Короче, ничего не поменялось?"
+ intro.4.t: "Новостные ивенты!"
+ intro.4.d: "Приветствуем! Как и в Кайзеррейхе, мир Фюреррейха во многом полагается на новостные ивенты, чтобы казаться живым и интересным. Впрочем, вам это может и не понравиться, и вы захотите их отключить, чтобы спама ивентами было поменьше.\n\nПо этим самым причинам нам нужно, чтобы вы выбрали настройки мировых новостей, прежде чем мы выпустим вас из этой цепочки событий."
+ intro.4.a: "Я хочу видеть все новости"
+ intro.4.b: "Только самые важные"
+ intro.4.c: "Новости для слабаков!"
+ intro.5.t: "Где гайды для стран?"
+ intro.5.d: "Простите, что надоедаем вам ещё одним вступительным ивентом (раньше их вообще было 4). Но раз уж вы всё равно будете спрашивать: открываете окно страны (клик по флагу слева вверху или клавиша «Q»), потом жмёте на кнопку «Гайды» рядом с заголовком \"Политика\" и кнопкой правил. А если читать вам впадлу, можете просто глянуть на картинку ивента — вы её, скорее всего, первой и заметили, а этот текст даже не читали. В общем, если у вашей страны есть гайды, жмякайте и смотрите."
+ intro.5.a: "Вааау"
+  
+ ### Difficulty Settings 
+ custom_diff_strong_ger: "@GERУсилить Германию"
+ custom_diff_strong_sov: "@SOVУсилить Советский союз"
+ custom_diff_strong_fra: "@FRAУсилить Францию"
+ custom_diff_strong_ita: "@ITAУсилить Италию"
+ custom_diff_strong_eng: "@ENGУсилить Великобританию"
+ custom_diff_strong_commonwealth: "@ENG@CAN@AST@NZL@NFL@SAF@RAJУсилить Империю"
+ custom_diff_strong_usa: "@USAУсилить США"
+ custom_diff_strong_mex: "@MEXУсилить Мексику"
+ custom_diff_strong_jap: "@JAPУсилить Японию"
+ custom_diff_strong_tur: "@TURУсилить Османскую империю"
+ custom_diff_strong_ukr: "@UKRУсилить Украину"
+ custom_diff_strong_hol: "@HOLУсилить Нидерланды"
+ custom_diff_strong_blr: "@BLRУсилить Беларусь"
+ custom_diff_strong_arb: "@ARBУсилить арабов"
+ custom_diff_strong_rom: "@ROMУсилить Румынию"
+ custom_diff_strong_gre: "@GREУсилить Грецию"
+  
+  
+ ### Politics 
+ POLITICS_LEADER: "§TГлава правительства: $LEADER|H$§!"
+ POLITICS_NEXT_ELECTION: "Выборы: $DATE|H$"
+ POLITICS_NOELECTIONS: "Выборов нет"
+ FX_WW2_HAS_STARTED: "Вторая Великая война началась"
+  
+ ### Operatives ### 
+ operation_infiltrate_armed_forces_army_outcome: "Бонусный исход внедрения в армию"
+ operation_infiltrate_armed_forces_army_risk: "Риск внедрения в армию"
+ operation_infiltrate_armed_forces_army_cost: "Стоимость внедрения в армию"
+  
+ operation_infiltrate_armed_forces_navy_outcome: "Бонусный исход внедрения во флот"
+ operation_infiltrate_armed_forces_navy_risk: "Риск внедрения во флот"
+ operation_infiltrate_armed_forces_navy_cost: "Стоимость внедрения во флот"
+  
+ operation_infiltrate_armed_forces_airforce_outcome: "Бонусный исход внедрения в ВВС"
+ operation_infiltrate_armed_forces_airforce_risk: "Риск внедрения в ВВС"
+ operation_infiltrate_armed_forces_airforce_cost: "Стоимость внедрения в ВВС"
+  
+ operation_infiltrate_civilian_outcome: "Бонусный исход внедрения в правительство"
+ operation_infiltrate_civilian_risk: "Риск внедрения в правительство"
+ operation_infiltrate_civilian_cost: "Стоимость внедрения в правительство"
+  
+ ### Ideologies 
+ vanguardist: "Национал-коммунизм"
+ collectivist: "Коммунизм"
+ libertarian_socialist: "Либертарный социализм"
+ social_democrat: "Социал-демократия"
+ social_liberal: "Социал-либерализм"
+ market_liberal: "Рыночный либерализм"
+ social_conservative: "Социал-консерватизм"
+ authoritarian_democrat: "Авторитарная демократия"
+ paternal_autocrat: "Патернализм"
+ national_populist: "Национал-популизм"
+ valkist: "Валькизм"
+  
+ ### Ideologies Colored 
+  
+ vanguardist_color: "§tНационал-коммунизм§!"
+ collectivist_color: "§rКоммунизм§!"
+ libertarian_socialist_color: "§RЛибертарный социализм§!"
+ social_democrat_color: "§SСоциал-демократия§!"
+ social_liberal_color: "§lСоциал-либерализм§!"
+ market_liberal_color: "§mРыночный либерализм§!"
+ social_conservative_color: "§cСоциал-консерватизм§!"
+ authoritarian_democrat_color: "§gАвторитарная демократия§!"
+ paternal_autocrat_color: "§PПатернализм§!"
+ national_populist_color: "§NНационал-популизм§!"
+ valkist_color: "§VВалькизм§!"
+  
+ ### Ideology Nouns 
+ vanguardist_noun: "Национал-коммунизм"
+ collectivist_noun: "Коммунизм"
+ libertarian_socialist_noun: "Либертарный социализм"
+ social_democrat_noun: "Социал-демократия"
+ social_liberal_noun: "Социал-либерализм"
+ market_liberal_noun: "Рыночный либерализм"
+ social_conservative_noun: "Социал-консерватизм"
+ authoritarian_democrat_noun: "Авторитарная демократия"
+ paternal_autocrat_noun: "Патернализм"
+ national_populist_noun: "Национал-популизм"
+ valkist_noun: "Валькизм"
+  
+ ### Ideology Desc 
+ ideology_alignment: "Ориентация"
+ vanguardist_desc: "Ультралевые"
+ collectivist_desc: "Ультралевые"
+ libertarian_socialist_desc: "Ультралевые"
+ social_democrat_desc: "Левоцентристы"
+ social_liberal_desc: "Левоцентристы"
+ market_liberal_desc: "Правоцентристы"
+ social_conservative_desc: "Правоцентристы"
+ authoritarian_democrat_desc: "Авторитарные правые"
+ paternal_autocrat_desc: "Авторитарные правые"
+ national_populist_desc: "Ультраправые"
+ valkist_desc: "Ультраправые"
+  
+ ### Ideology Drift 
+  
+ vanguardist_drift: "Ежедневная поддержка национал-коммунизма"
+ collectivist_drift: "Ежедневная поддержка коммунизма"
+ libertarian_socialist_drift: "Ежедневная поддержка либертарного социализма"
+ social_democrat_drift: "Ежедневная поддержка социал-демократии"
+ social_liberal_drift: "Ежедневная поддержка социал-либерализма"
+ market_liberal_drift: "Ежедневная поддержка рыночного либерализма"
+ social_conservative_drift: "Ежедневная поддержка социал-консерватизма"
+ authoritarian_democrat_drift: "Ежедневная поддержка авторитарной демократии"
+ paternal_autocrat_drift: "Ежедневная поддержка патернализма"
+ national_populist_drift: "Ежедневная поддержка национал-популизма"
+ valkist_drift: "Ежедневная поддержка валькизма"
+  
+ vanguardist_drift_factor_tt: "$vanguardist_drift$: $RIGHT|+=2$"
+ collectivist_drift_factor_tt: "$collectivist_drift$: $RIGHT|+=2$"
+ libertarian_socialist_drift_factor_tt: "$libertarian_socialist_drift$: $RIGHT|+=2$"
+ social_democrat_drift_factor_tt: "$social_democrat_drift$: $RIGHT|+=2$"
+ social_liberal_drift_factor_tt: "$social_liberal_drift$: $RIGHT|+=2$"
+ market_liberal_drift_factor_tt: "$market_liberal_drift$: $RIGHT|+=2$"
+ social_conservative_drift_factor_tt: "$social_conservative_drift$: $RIGHT|+=2$"
+ authoritarian_democrat_drift_factor_tt: "$authoritarian_democrat_drift$: $RIGHT|+=2$"
+ paternal_autocrat_drift_factor_tt: "$paternal_autocrat_drift$: $RIGHT|+=2$"
+ national_populist_drift_factor_tt: "$national_populist_drift$: $RIGHT|+=2$"
+ valkist_drift_factor_tt: "$valkist_drift$: $RIGHT|+=2$"
+  
+ ### Ideology Subtype Desc 
+ vanguardist_subtype_desc: "Национал-коммунизм — термин, описывающий совокупность теорий и концепций, разработанных Вячеславом Молотовым под влиянием трудов Генриха Лауфенберга и Фрица Вольфхейма. Переработанный под российские реалии, национал-коммунизм делает упор на построение социализма в отдельном государстве. В ортодоксальном понимании национал-коммунистические режимы стремятся строить свою политическую систему по ленинскому образцу, создавая авангардное революционное государство для последующего перехода к коммунизму. Однако этот авангард, по их мнению, должен опираться на сильное национальное государство и его лидеров. Это сочетается со склонностью к тоталитарным методам и широким применением политического насилия для чистки «контрреволюционных элементов». Сельское хозяйство подвергается сплошной коллективизации, а экономика полностью переходит в руки государства. В итоге национал-коммунизм остается нишевым течением левой мысли: считая себя единственным истинным преемником идей Ленина, он полностью открещивается от реформистского социализма и с подозрением относится к мейнстримному ленинизму."
+ collectivist_subtype_desc: "Коммунизм — это группа марксистских идеологий, зародившихся в Германии и России на фоне Русской революции и окончания Великой войны. Отколовшись от основных марксистских партий того времени, коммунисты отвергают идею перехода к социализму парламентским путем, выступая за создание партийного центра, разжигающего классовую борьбу с целью насильственного свержения капиталистического общества. Взамен коммунистические движения стремятся создать однопартийное социалистическое государство для организации экономики и защиты от контрреволюции. В рамках системы демократического централизма коммунистические партии централизуют процесс принятия решений для более эффективной мобилизации своих рядов и борьбы с ревизионистскими тенденциями."
+ libertarian_socialist_subtype_desc: "Либертарный социализм объединяет широкий спектр социалистических доктрин, выступающих против ленинской гегемонии в социалистическом движении. Они поддерживают децентрализованное, антиавторитарное и антикапиталистическое общество, демократически управляемое рабочими, которым также принадлежат средства производства. Либертарные идеологии включают левый коммунизм, коммунизм рабочих советов, анархо-синдикализм и анархо-коммунизм, и не следуют строго догматам марксизма или классического коммунизма."
+ social_democrat_subtype_desc: "Социал-демократия — это идеология, целью которой является реформирование и гуманизация капитализма. Она стремится привести его в соответствие с этическими идеалами социального благополучия, сохраняя при этом капиталистический способ производства, а не создавая альтернативную социалистическую экономическую систему. Хотя обычно она поддерживает плутократическую форму правления и жестко регулируемую рыночную экономику, существуют и более радикальные ее течения."
+ social_liberal_subtype_desc: "Социал-либерализм — это вариация классического рыночного либерализма, главное отличие которой заключается во включении различных гражданских свобод в число базовых прав человека. Провозглашая прогрессивную социальную и экономическую политику, социал-либералы стремятся создать общество, в котором каждый человек волен проживать свою жизнь, имея всю полноту возможностей независимо от своего статуса."
+ market_liberal_subtype_desc: "Рыночные либералы считают себя представителями основного течения либеральной идеологии. Главными принципами рыночного либерализма являются нерегулируемый свободный рынок и либерально-демократическая политическая система. Рыночные либералы верят, что чем свободнее рынок, тем свободнее люди, и готовы стойко защищать политические и экономические права личности."
+ social_conservative_subtype_desc: "Консерватизм — это политическая идеология, которая может сильно варьироваться в зависимости от политической истории региона или нации. Тем не менее, она, как правило, сосредоточена на сохранении традиционных верований, взглядов и философии, а также традиционной динамики власти в обществе при использовании демократической системы. Выступая против как радикальных, так и умеренных изменений статус-кво, консерваторы стремятся поддерживать в обществе порядок и стабильность. Большинство консервативных обществ обычно поддерживают регулируемую рыночную экономику и отдают предпочтение экономическому протекционизму."
+ authoritarian_democrat_subtype_desc: "Авторитарная демократия — это идеология, сочетающая сильную исполнительную власть с представительным парламентом и частично демократической политической системой. Авторитарно-демократические режимы часто занимают консервативную позицию по социальным вопросам, выступают за централизацию и, как правило, придерживаются «ястребиных» настроений в правительстве; хотя встречаются и изоляционистские ветви этой идеологии. Цель таких режимов — поддерживать национальную стабильность и обеспечивать народу одновременно популярное и ответственное правительство."
+ paternal_autocrat_subtype_desc: "Патернализм не является политической идеологией в привычном смысле этого слова; скорее, это общий термин, описывающий отношение подобных правительств к своим гражданам: все люди являются подданными лидера — короля или диктатора, и задача и долг лидера — вести государство и общество по правильному и лучшему пути, объединяя народ под своей благосклонной защитой. Такие страны обычно имеют очень авторитарное правительство, консервативные социальные взгляды и контролируемую государством экономику."
+ national_populist_subtype_desc: "Охватывая множество ультранационалистических и милитаристских движений, национал-популизм обычно превозносит преданность государству, объединяя народ под властью сильного лидера и корпоративной экономики. В дипломатии национал-популисты, как правило, делают упор на экспансионистскую, «ястребиную» и реваншистскую политику, если это уместно или актуально для данной нации. Часто пропагандируя расовую политику и прибегая к агрессивной риторике, национал-популизм встречает яростное сопротивление со стороны большинства других политических партий."
+ valkist_subtype_desc: "Валькизм — это ультранационалистическая идеология, основанная после Великой войны Адамом Дресслером путем объединения многочисленных фрайкоров и ветеранских ассоциаций. Свое название они получили от характерного символа, который носят. Валькисты отличаются ультрамилитаризмом и разделяют чувство элитаризма как братское движение, вдохновленное молодежными движениями «Бюндиш». Они поддерживают формирование естественной аристократии заслуг и силы, закаленной в окопах Великой войны, которая должна возродить германское государство. Валькистская нация строится на строгой правовой основе и опирается на сильную исполнительную власть государства. Валькисты принимают современные реалии. Национализм рассматривается как противоядие от разрушительной природы современности, и с помощью технологий и прогресса валькисты хотят преодолеть эту эпоху. В экономическом плане валькисты твердо стоят на антикапиталистических позициях и выступают за вмешательство государства. Вдохновляясь немецкой экономикой военного времени, фронтовым социализмом и прусским социализмом, они, как правило, отдают предпочтение государственной экономике. «Фольксгемайншафт» (народная общность) является ключевым аспектом валькистского немецкого общества и описывает общие идеалы, историю, культуру и обязанности немецкого народа. Под мудрым руководством Дресслера немецкий народ принесет Европе новое будущее вопреки декадентским капиталистическим демократиям Запада и выродившимся марксистам-материалистам Востока."
+### Ideology Acceptance 
+ vanguardist_acceptance: "Принятие национал-коммунистической дипломатии"
+ collectivist_acceptance: "Принятие коммунистической дипломатии"
+ libertarian_socialist_acceptance: "Принятие либертарно-социалистической дипломатии"
+ social_democrat_acceptance: "Принятие социал-демократической дипломатии"
+ social_liberal_acceptance: "Принятие социал-либеральной дипломатии"
+ market_liberal_acceptance: "Принятие рыночно-либеральной дипломатии"
+ social_conservative_acceptance: "Принятие социал-консервативной дипломатии"
+ authoritarian_democrat_acceptance: "Принятие авторитарно-демократической дипломатии"
+ paternal_autocrat_acceptance: "Принятие патерналистской дипломатии"
+ national_populist_acceptance: "Принятие национал-популистской дипломатии"
+ valkist_acceptance: "Принятие валькистской дипломатии"
+ ### Ideology Banned 
+ vanguardist_banned: "Запрет национал-коммунизма"
+ collectivist_banned: "Запрет коммунизма"
+ libertarian_socialist_banned: "Запрет либертарного социализма"
+ social_democrat_banned: "Запрет социал-демократии"
+ social_liberal_banned: "Запрет социал-либерализма"
+ market_liberal_banned: "Запрет рыночного либерализма"
+ social_conservative_banned: "Запрет социал-консерватизма"
+ authoritarian_democrat_banned: "Запрет авторитарной демократии"
+ paternal_autocrat_banned: "Запрет патернализма"
+ national_populist_banned: "Запрет национал-популизма"
+ valkist_banned: "Запрет валькизма"  
+ ### Triggers 
+ can_replace_hog: "Может сместить главу правительства"
+ ministers_cannot_be_replaced: "§gМинистры могут быть заменены только с помощью фокусов, событий или решений.§!"
+  
+ FX_is_socialist_tt: "Текущая правящая партия §YНационал-коммунизм§!, §YКоммунизм§! или §YЛибертарный социализм§!."
+ FX_is_socialist_tt_NOT: "Текущая правящая партия §Rне§! §YНационал-коммунизм§!, §YКоммунизм§! или §YЛибертарный социализм§!."
+ FX_is_elected_tt: "Текущая правящая партия §YСоциал-демократия§!, §YСоциал-либерализм§!, §YРыночный либерализм§! или §YСоциал-консерватизм§!."
+ FX_is_elected_tt_NOT: "Текущая правящая партия §Rне§! §YСоциал-демократия§!, §YСоциал-либерализм§!, §YРыночный либерализм§! или §YСоциал-консерватизм§!."
+ FX_is_democratic_tt: "Текущая правящая партия §YСоциал-демократия§!, §YСоциал-либерализм§!, §YРыночный либерализм§!, §YСоциал-консерватизм§! или §YАвторитарная демократия§!."
+ FX_is_democratic_tt_NOT: "Текущая правящая партия §Rне§! §YСоциал-демократия§!, §YСоциал-либерализм§!, §YРыночный либерализм§!, §YСоциал-консерватизм§! или §YАвторитарная демократия§!."
+ FX_is_authoritarian_tt: "Текущая правящая партия §YАвторитарная демократия§!, §YПатернализм§!, §YНационал-популизм§! или §YВалькизм§!."
+ FX_is_authoritarian_tt_NOT: "Текущая правящая партия §Rне§! §YАвторитарная демократия§!, §YПатернализм§!, §YНационал-популизм§! или §YВалькизм§!."
+ FX_is_dictatorship_tt: "Текущая правящая партия §YПатернализм§!, §YНационал-популизм§! или §YВалькизм§!."
+ FX_is_dictatorship_tt_NOT: "Текущая правящая партия §Rне§! §YПатернализм§!, §YНационал-популизм§! или §YВалькизм§!."
+ FX_is_democratic_left_tt: "Текущая правящая партия §YСоциал-демократия§! или §YСоциал-либерализм§!."
+ FX_is_democratic_left_tt_NOT: "Текущая правящая партия §Rне§! §YСоциал-демократия§! или §YСоциал-либерализм§!."
+ FX_is_democratic_right_tt: "Текущая правящая партия §YРыночный либерализм§! или §YСоциал-консерватизм§!."
+ FX_is_democratic_right_tt_NOT: "Текущая правящая партия §Rне§! §YРыночный либерализм§! или §YСоциал-консерватизм§!."
+ FX_is_ultranationalist_tt: "Текущая правящая партия §YНационал-популизм§! или §YВалькизм§!."
+ FX_is_ultranationalist_tt_NOT: "Текущая правящая партия §Rне§! §YНационал-популизм§! или §YВалькизм§!."
+  
+ FX_is_any_authoritarian_tt: "Текущая правящая партия §YНационал-коммунизм§!, §YАвторитарная демократия§!, §YПатернализм§!, §YНационал-популизм§! или §YВалькизм§!."
+ FX_is_any_authoritarian_tt_NOT: "Текущая правящая партия §Rне§! §YНационал-коммунизм§!, §YАвторитарная демократия§!, §YПатернализм§!, §YНационал-популизм§! или §YВалькизм§!."
+  
+ FX_is_conservative_tt: "Текущая правящая партия §YСоциал-консерватизм§! или §YАвторитарная демократия§!."
+ FX_is_conservative_tt_NOT: "Текущая правящая партия §Rне§! §YСоциал-консерватизм§! или §YАвторитарная демократия§!."
+  
+ unlocked_later: "Ваш путь остается закрытым до тех пор, пока не представится возможность."
+ new_focus_tree_unlocked: "§GБудет открыто новое древо фокусов§!"
+ unlocked_designer: "§GНовые§! §Yконструкторские бюро§!:\n"
+  
+ computing_tech_research: "Темпы исследований электроники"
+  
+ ### Interface 
+ decisions: "Решения"
+  
+ generic_theorist_army: "Военный теоретик"
+ generic_theorist_navy: "Теоретик ВМФ"
+ generic_theorist_airforce: "Теоретик ВВС"
+  
+ ALREADY_HAS_ADVISOR_WITH_TRAIT: "Уже есть назначенный советник с этой чертой."
+ SPIRIT_ADD_IDEA: "§GЩелкните, и добавится $GROUP|H$§!"
+ CHANGE_ADVISOR: "\nЭтого советника можно заменить, щелкнув здесь и выбрав замену."
+  
+ manually_hired_advisor: "§Y[THIS.GetName] не может быть нанят/уволен вручную§!"
+  
+ ### General ### 
+ fighter_techs: "Истребители"
+ cat_strategic_destruction: "Стратегическое разрушение"
+ maintenance_company_tech: "Ремонтная рота"
+ cat_line_artillery: "Линейная артиллерия"
+ cat_light_spg: "Легкие самоходные орудия"
+ cat_medium_spg: "Средние самоходные орудия"
+ cat_heavy_spg: "Тяжелые самоходные орудия"
+ tank_destroyer_tech: "Истребитель танков"
+ cat_gunnery: "Морская артиллерия"
+ cr_tech: "Модели крейсеров"
+ acr_tech: "Модели линейных крейсеров"
+ cat_targeting: "Машины по борьбе с огнем"
+ cat_torpedo: "Технология торпед"
+ carrier_ship_tree: "Операции авианосцев"
+ capital_ship_tree: "Операции крупных кораблей"
+ cat_armored_cars: "Бронемашины"
+ cat_special_units: "Спец. подразделения"
+ cat_air_engine: "Двигатели самолетов"
+ cat_air_bombs: "Авиабомбы"
+  
+ fighter_techs_research: "Темпы исследований истребителей"
+ marine_tech_research: "Темпы исследований морпехов"
+ cat_light_armor_research: "Темпы исследований легких танков"
+  
+ ### Hidden Technologies 
+  
+ ### Hidden Techs ### 
+ tech_ski_infantry: "Лыжная пехота"
+ tech_ski_infantry_effect: "Откроет доступ к §H$tech_ski_infantry$§!\n§H$infantry$\n    $hills$§!\n      $STAT_ADJUSTER_ATTACK$§G+5%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!\n    §H$mountain$§!\n      $STAT_ADJUSTER_ATTACK$§G+5%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!"
+  
+ tech_marine_bonus: "Улучшенные морпехи"
+ tech_marine_bonus_effect: "Откроет доступ к §H$tech_marine_bonus$\n$marine$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§H$amphibious_mechanized$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§H$amphibious_armor$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!"
+  
+ tech_marine_bonus_2: "Обученные морпехи"
+ tech_marine_bonus_2_effect: "Откроет доступ к §H$tech_marine_bonus_2$\n$marine$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§HБатальон плавающих БТР§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§HБатальон плавающих танков§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!"
+  
+ tech_marine_bonus_combined: "Усовершенствованные морпехи"
+ tech_marine_bonus_combined_effect: "Откроет доступ к §H$tech_marine_bonus$\n$marine$§!\n     $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_HARD_ATTACK$§G+10%§!\n§HБатальон плавающих БТР§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_HARD_ATTACK$§G+10%§!\n§HБатальон плавающих танков§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_HARD_ATTACK$§G+10%§!"
+  
+ tech_jungle_warfare: "Тренировки в джунглях"
+ jungle_warfare_effect: "Откроет доступ к §H$jungle_warfare$\n$category_light_infantry$\n    $jungle$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+  
+ forest_warfare: "Подготовка рейнджеров"
+ forest_warfare_effect: "Откроет доступ к §H$forest_warfare$\n$category_light_infantry$\n    $forest$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+  
+ improved_field_hospitals: "Улучшенные полевые госпитали"
+ improved_field_hospitals_effect: "Откроет доступ к §H$improved_field_hospitals$\n$field_hospital$§!\n      $STAT_ARMY_CASUALTY_TRICKLEBACK$§G+20%§!\n      $STAT_ARMY_EXPERIENCE_LOSS_FACTOR$§G-10%§!"
+  
+ expanded_engineer_corps_tech: "Расширенные инженерные войска"
+ expanded_engineer_corps_tech_effect: "Откроет доступ к §H$expanded_engineer_corps_tech$\n$engineer$§!\n      $STAT_ARMY_ENTRENCHMENT$§G+2§!\n    §H$FORT$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+10%§!"
+  
+ tech_mountain_warfare: "Тренировки в горах"
+ tech_mountain_warfare_effect: "Откроет доступ к §H$tech_mountain_warfare$\n$category_light_infantry$§!\n    §H$mountain$§!\n      $STAT_ADJUSTER_ATTACK$§G+5%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!"
+  
+ tech_improved_recon_units: "Улучшенные разведотряды"
+ tech_improved_recon_units_effect: "Откроет доступ к §H$tech_improved_recon_units$\n$category_recon$§!\n      $STAT_ARMY_BREAKTHROUGH$§G+1§!\n      $STAT_ARMY_RECON$§G+1§!"
+  
+ tech_urban_warfare: "Подготовка к асимметричной войне"
+ tech_urban_warfare_effect: "Откроет доступ к §H$tech_urban_warfare$\n$category_light_infantry$§!\n    §H$urban$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+  
+ tech_forest_warfare: "Тренировка в лесу"
+ tech_forest_warfare_terrain_effect: "  §Y$forest$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.03|=+1%]"
+  
+ tech_improved_field_hospitals: "Улучшенные полевые госпитали"
+  
+ tech_marsh_warfare: "Тренировка на болотах"
+ tech_marsh_warfare_effect: "Откроет доступ к §H$tech_marsh_warfare$§!\n§H$category_light_infantry$\n    $marsh$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+  
+ anti_fortification_artillery: "Осадная артиллерия"
+ anti_fortification_artillery_effect: "Откроет доступ к §H$anti_fortification_artillery$§!\n§H$category_artillery$§!\n    $FORT$: $STAT_ADJUSTER_ATTACK$§G+20%§!"
+  
+ tech_integrated_specialists: "Интегрированный спецназ"
+ tech_integrated_specialists_effect: "Откроет доступ к §H$tech_integrated_specialists$§!\n$MODIFIER_SPECIAL_FORCES_CAP$: §G+5%§!\n§H$category_special_forces$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!"
+  
+ tech_at_cavalry: "Кавалерийские противотанковые ружья"
+ tech_at_cavalry_effect: "Откроет доступ к §H$tech_at_cavalry$\n$cavalry$§!\n      $STAT_COMMON_PIERCING$§G+3§!"
+  
+ tech_dragoon_tactics: "Драгунская тактика"
+ tech_dragoon_tactics_effect: "Откроет доступ к §H$tech_dragoon_tactics$\n$cavalry$§!\n      $STAT_COMMON_MAX_ORG$: §G+5§!\n      $STAT_ARMY_DEFAULT_MORALE$: §G+0.10§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!\n      Night $STAT_ADJUSTER_ATTACK$§G+10§!"
+  
+ tech_semi_motorised_cav: "Полумоторизованная кавалерия"
+ tech_semi_motorised_cav_effect: "Откроет доступ к §H$tech_semi_motorised_cav$\n$cavalry$§!\n      $STAT_COMMON_MAX_ORG$: §G+5§!\n      $STAT_ARMY_DEFAULT_MORALE$: §G+0.10§!\n      $STAT_ADJUSTER_MOVEMENT$§G+15%§!"
+  
+ tech_improved_encryption: "Улучшенное шифрование"
+ tech_improved_encryption_effect: "Откроет доступ к §H$tech_improved_encryption$§!\n$MODIFIER_CRYPTO_STRENGTH$: [?2|+=0]"
+  
+ tech_mountain_artillery: "Горная артиллерия"
+ tech_mountain_artillery_effect: "Откроет доступ к §H$tech_mountain_artillery$§!\n§H$EQUIPMENT_ARTILLERY$\n    $hills$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!\n    §H$mountain$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!"
+  
+ tech_arctic_commando: "Арктический спецназ"
+ tech_arctic_commando_effect: "Откроет доступ к §H$tech_arctic_commando$§!\n    $MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE$: [?48|G1=] $MOD_HOUR$\n    §H$category_special_forces$§!\n        $MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR$: §G+10%§!\n        §H$hills$§!\n          $STAT_ADJUSTER_MOVEMENT$§G+5%§!\n        §H$mountain$§!\n          $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
+  
+ tech_better_paratroopers: "Элитные ВДВ"
+ tech_better_paratroopers_effect: "Откроет доступ к §H$tech_better_paratroopers$§!\n§H$paratrooper$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_DEFAULT_MORALE$: §G+0.20§!\n      $MODIFIER_PARATROOPER_EXTRA_SUPPLY_GRACE$: [?24|G1=] $MOD_HOUR$"
+  
+ tech_irregulars: "Нерегулярная пехота"
+ tech_irregulars_effect: "Откроет доступ к батальонам §Yнерегулярной пехоты§!"
+  
+ tech_militias: "Ополчение"
+ tech_militias_effect: "Откроет доступ к батальонам §Yополчения§!"
+  
+  
+ tech_assault_battalion: "Штурмовой батальон"
+ tech_assault_battalion_effect: "Откроет доступ к ротам поддержки §Yштурмового батальона§!"
+  
+ masterful_blitz_effect: "Откроет доступ к тактике: §Y$tactic_masterful_blitz$§!"
+  
+ tech_anti_partisan: "Борьба с повстанцами"
+ tech_anti_partisan_effect: "Откроет доступ к §H$tech_anti_partisan$§!\n§H$infantry$§!\n      $STAT_ARMY_SUPRESSION_FACTOR$§G+15%§!\n§H$cavalry$§!\n      $STAT_ARMY_SUPRESSION_FACTOR$§G+15%§!\n"
+  
+ tech_more_rocket_artillery: "Улучшенная ракетная артиллерия"
+ tech_more_rocket_artillery_effect: "Откроет доступ к §H$tech_more_rocket_artillery$§!\n§H$infantry$§!\n      $STAT_ARMY_BREAKTHROUGH$§G+25%§!\n"
+  
+ tech_gas_warfare: "Газовая атака"
+ tech_gas_warfare_effect: "Откроет доступ к §H$tech_gas_warfare$§!"
+ tech_gas_warfare_diseffect: "Закроет доступ к §H$tech_gas_warfare$§!"
+ tech_gas_warfare_weak: "Ослабленная §Hгазовая атака§!"
+ tech_gas_warfare_weak_effect: "У нас будет ослабленная версия §Hгазовой атаки§!"
+  
+ tech_tst_police: "Стража Трутцбунда"
+ tech_tst_police_effect: "Откроет доступ к §Hстраже Трутцбунда§!, более §Yспециализированной§! военной полиции, которую можно бесплатно добавить в шаблон."
+  
+ tech_snipers: "Снайперы"
+ tech_snipers_effect: "Откроет доступ к §Hснайперам§!\n§HЛегкая пехота§!\n      $MODIFIER_DEFENCE$§G+15%§!\n"
+  
+  
+ tech_extensive_reconnaissance: "Глубокая разведка"
+ tech_extensive_reconnaissance_terrain_effect: "  §Y$snow$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n  §Y$forest$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$hills$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$mountain$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$marsh$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$plains$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$river$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]"
+  
+ tech_strengthened_support_companies: "Усиленные роты поддержки"
+  
+ tech_anti_armour_tactics: "Противотанковая тактика"
+  
+ tech_improved_logistics: "Улучшенные роты снабжения"
+  
+ tech_expanded_engineer_corps: "Расширенные инженерные войска"
+  
+ tech_river_boats: "Речные катера"
+ tech_river_boats_terrain_effect: "  §Y$river$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
+  
+ tech_armored_car_spearhead: "Бронеавтомобильный прорыв"
+  
+ tech_masterful_blitz: "$tactic_masterful_blitz$"
+  
+ tech_human_wave_tactics: "$tactic_human_wave_tactics$"
+  
+ tech_improved_decryption: "Улучшенное дешифрование"
+  
+ tech_improved_flying_boats: "Улучшенные летающие лодки"
+  
+ tech_amphibious_flying_boats: "Летающая лодка-амфибия"
+  
+ tech_advanced_supply_ships: "Усовершенствованные суда снабжения"
+  
+ camel_corps_tech: "Верблюжие войска"
+ camel_corps_tech_effect: "Откроет доступ к §Hверблюжьим войскам§!\n§HВерблюды\n    Пустыня§!\n      Атака: §G+15%§!\n      Защита: §G+5%§!\n      Movement: §G+3%§!"
+ tech_desert_warfare: "Тренировка в пустыне"
+ tech_desert_warfare_effect: "Откроет доступ к §Hпустынным пехотинцам§!\n§HПехота\n    Пустыня§!\n      Атака: §G+10%§!\n      Защита: §G+5%§!\n      Скорость: §G+5%§!"
+ long_range_patrol_support_tech: "$long_range_patrol_support$"
+ long_range_patrol_support_tech_effect: "Откроет доступ к §Yроте глубинной разведки§!."
+  
+ winter_logistics_support_tech: "$winter_logistics_support$"
+ winter_logistics_support_tech_effect: "Откроет доступ к §Yроте зимнего обеспечения§!."
+  
+ tech_gunshield_turret: "Башенное орудие"
+ tech_gunshield_turret_effect: "Откроет доступ к модулю башенного орудия"
+  
+ ### Unit Leader Events 
+ unit_leader.1.t: "[From.GetName] заболевает"
+ unit_leader.1.d: "Похоже, что на службе нации [From.From.GetRank] [From.From.GetName] совершенно не бережет [From.From.GetHerselfHimself]. Из-за сурового климата в зоне [From.From.GetHerHis] операций [From.From.GetRank] заболевает, и на поправку, вероятно, потребуется время. Пока [From.From.GetSheHe] не выздоровеет, [From.From.GetSheHe] не сможет командовать на [From.From.GetHerHis] обычном уровне."
+ unit_leader.1.a: "Прискорбно."
+ unit_leader.2.t: "[From.GetName] получает ранение"
+ unit_leader.2.d: "Стремясь победоносно завершить битву, [From.From.GetRank] [From.From.GetName], похоже, берет на [From.From.GetHerselfHimself] слишком большой риск, лично ведя в бой [From.From.GetHerHis] солдат. [From.From.GetSheHeCap] получает ранение, и, вероятно, на полное исцеление потребуется время, в течение которого [From.From.GetRank] не сможет действовать на [From.From.GetHerHis] обычном уровне."
+ unit_leader.2.a: "Прискорбно."
+  
+ ### GUI ### 
+ toggle_news_button_tooltip: "[toggle_news_button_tooltip_loc]"
+ toggle_news_button_tooltip_desc: "[toggle_news_button_tooltip_desc_loc]"
+ toggle_news_button_tooltip_mp: "§RНедоступно в мультиплеере§!"
+ toggle_news_button_tooltip_all: "Переключить на §HТолько местные новости§!"
+ toggle_news_button_tooltip_all_desc: "Получать только важнейшие мировые события и новости своего региона."
+ toggle_news_button_tooltip_some: "Переключить на §HНикаких новостей§!"
+ toggle_news_button_tooltip_some_desc: "Будет приходить минимум новостных событий."
+ toggle_news_button_tooltip_none: "Переключить на §HВсе новости§!"
+ toggle_news_button_tooltip_none_desc: "Будут приходить все новостные события, независимо от места их происхождения."
+ toggle_news_text_all: "Все новости"
+ toggle_news_text_regional: "Только местные"
+ toggle_news_text_none: "Никаких новостей"
+  
+ # Achievements 
+ fx_achievements_69420: "Достижения Фюреррейха"
+ alexander_the_great_achievement_NAME: "Александр снова здесь"
+ alexander_the_great_achievement_DESC: "Играя за Македонию, владейте всеми регионами и сделайте их своими национальными."
+ reverse_colonization_NAME: "Колонизация наоборот"
+ reverse_colonization_DESC: "Играя за Филиппины, завладейте любым национальным регионом США или Испании."
+  
+ ### Compliance ### 
+ compliance_integration_50: "Интеграция"
+ compliance_integration_80: "Интеграция"
+ territorial_integration: "Интеграция"
+ territorial_integration_tt: "Делает территорию национальной при достижении §H50% или 80% подчинения§! (значение зависит от конкретного региона)."
+  
+ state_integration_enabled_tooltip: "Если завладено, может быть национализировано при достижении §H[?integration_threshold?50|%%0] подчинения§!."
+ state_integration_disabled_tooltip: "Больше нельзя национализировать."
+ integration_only_on_owned_states: "§YЭтот эффект применяется только к территориям, которыми вы владеете и контроллируете:§!"
+ state_integration_law_unlocked: "Откроет доступ к оккупационному закону: §H$territorial_integration$§!."
+  
+ #Cursed_meme 
+ GEN_ALIEN: "Инопланетное вторжение"
+ GEN_ALIEN_ADJ: "Марсианск"
+ GEN_ALIEN_DEF: "Инопланетное вторжение"
+ GEN_ALIEN_valkist: "Инопланетное вторжение"
+ GEN_ALIEN_valkist_ADJ: "Марсианск"
+ GEN_ALIEN_valkist_DEF: "Инопланетное вторжение"
+  
+ ### Economy Laws 
+ isolation: "Изоляция"
+ isolation_desc: "Приоритет внутренних дел и управление собственной страной — предпочтительная альтернатива иностранному вмешательству.\n"
+ civilian_economy: "Мирная демобилизация"
+ civilian_economy_desc: "Я верю, что это мир для нашего времени. Идите домой и спите спокойно.\n"
+ low_economic_mobilisation: "Ранняя мобилизация"
+ low_economic_mobilisation_desc: "Возможность достаётся тем, кто её не упускает.\n"
+ partial_economic_mobilisation: "Частичная мобилизация"
+ partial_economic_mobilisation_desc: "Война маячит на горизонте, и было бы просто глупо игнорировать подготовку к ней.\n"
+ war_economy: "Военная мобилизация"
+ war_economy_desc: "Мы находимся в состоянии войны; мы не можем позволить себе проявлять хоть малейшую симпатию к нашим врагам.\n"
+ tot_economic_mobilisation: "Всеобщая мобилизация"
+ tot_economic_mobilisation_desc: "С интеллектуалами не спорят. Их расстреливают.\n"
+ free_trade: "Свободная торговля"
+ free_trade_desc: "Глобализация и свободная торговля, как правило, стимулируют экономический рост и приводят к снижению цен на многие товары.\n"
+ export_focus: "Открытый рынок"
+ export_focus_desc: "Я не против свободной торговли, если она справедлива. Но я против невыгодных торговых сделок.\n"
+ limited_exports: "Регулируемый рынок"
+ limited_exports_desc: "Как и во всем в жизни, нужно соблюдать умеренность.\n"
+ closed_economy: "Закрытый рынок"
+ closed_economy_desc: "Торговля? Кому нахрен нужна торговля?\n"
+  
+ ### Conscription Laws 
+ disarmed_nation: "Обезоруженная нация"
+ disarmed_nation_desc: "Лучше всего будет соблюдать ограничения, установленные для наших военных.\n"
+ volunteer_only: "Только добровольцы"
+ volunteer_only_desc: "«Справедливая война» — если бы такая существовала — не требовала бы призыва в армию. Добровольцев было бы предостаточно.\n"
+ limited_conscription: "Ограниченный призыв"
+ limited_conscription_desc: "Призыв на военную службу при необходимости, но не обязательно.\n"
+ extensive_conscription: "Расширенный призыв"
+ extensive_conscription_desc: "Призыв на военную службу — это жизнеспособность нации, очищение её нравственности и подлинная основа всех её привычек.\n"
+ service_by_requirement: "Обязательная служба"
+ service_by_requirement_desc: "А ты делаешь свое дело?\n"
+ all_adults_serve: "Все взрослые проходят службу"
+ all_adults_serve_desc: "Чем хуже человек, тем лучше солдат.\n"
+ scraping_the_barrel: "Всех под ружье"
+ scraping_the_barrel_desc: "Каждый мужчина, каждая женщина и каждый ребенок так или иначе внесут свой вклад в военные усилия.\n"
+ valkist_recruitment: "Валькистский призыв"
+ valkist_recruitment_desc: "Каждый внесет свой вклад в цели фюрера..."
+  
+ ### Trade Modifiers 
+ embargo: "Эмбарго"
+ trade_sanctions: "Торговые санкции"
+ heavy_tariffs: "Жесткие пошлины"
+  
+ ### Skill Levels 
+ unskilled: ""
+ regular: ""
+ expert: ""
+ blank: ""
+  
+ ### Ideas 
+ independent_war: "Война за независимость"
+ independent_war_desc: "Эта страна ведет войну за независимость и не хочет прямого вмешательства других государств."
+ generic_reform_supply_focus: "Реформа снабжения"
+ generic_reform_supply_focus_desc: "Мы провели реформы, направленные на повышение эффективности и результативности наших эшелонов снабжения и логистики."
+  
+ ### Threats 
+ threat_2nd_great_war: "Вторая Великая война"
+ threat_north_borneo_occupation: "Филиппинская оккупация Северного Борнео"
+ threat_greco_turkish_war: "Третья Греко-турецкая война"
+ threat_great_pacific_war: "Великая Тихоокеанская война"
+ threat_world_war_france: "Англо-французская война"
+ threat_ger_sov_war: "Германо-советская война"
+ threat_ger_val_war: "Война в Центральной Европе"
+  
+ ### Generic Companies 
+ generic_arms_company: "Арсенал города[Root.Capital.GetCapitalVictoryPointName]"
+ generic_tank_company: "[Root.GetAdjective]ий танковый завод"
+ generic_fighter_company: "[Root.GetAdjective]ий авиастроительный завод"
+ generic_artillery_company: "Оборонный завод г. [Root.Capital.GetCapitalVictoryPointName]"
+ generic_industrial_company: "[Root.GetAdjective]ая промышленность"
+ generic_naval_company: "Верфи г. [Root.Capital.GetCapitalVictoryPointName]"
+  
+ # Relations GUI # 
+ relation_button_tooltip: "§Y[ROOT.GetRelationName]§!"
+ relation_button_tooltip_delayed: "§L[ROOT.GetRelationDesc]§!"
+  
+ faction_button_tooltip: "§Y[ROOT.GetFactionName]§!"
+ faction_button_tooltip_delayed: "§L[GetFactionDesc]§!"
+  
+ relation_name_mixed: "Альянс: §Y[PREV.GetFactionName]§!\nЭкономическая сфера: §Y[PREV.GetEconomicSphereName]§!\n"
+  
+ economic_sphere_button_tooltip: "[GetEconomicSphereName]"
+ economic_sphere_button_tooltip_delayed: "§L[GetEconomicSphereDesc]§!"
+  
+ economic_sphere_default_name: "[PREV.GetAdjective]ая экономическая сфера"
+ economic_sphere_default_icon: "GFX_goal_generic_positive_trade_relations_gold"
+ economic_sphere_default_desc: ""
+  
+ # Special Units 
+ trutzbundischestosstruppe: "Ударные войска Трутцбунда"
+ trutzbundischestosstruppe_special: "$trutzbundischestosstruppe$"
+ trutzbundischesicherheitstruppe: "Стража Трутцбунда"
+ thuleschutztruppe: "Стража Туле"
+  
+ ### Modules ### 
+ tank_makeshift_armor: "Дешевая броня"
+ tank_makeshift_armor_desc: "Сделана из листов железа вместо стали, чтобы сэкономить деньги. Лучше, чем никакой брони... Наверное."
+  
+ tank_improvised_turret: "Импровизированное орудие"
+ tank_improvised_turret_desc: "В нем размещена пушка, и она может вращаться. Когда захочет."
+ improved_floats: "Усовершенствованные поплавки"
+ improved_floats_desc: "$floats_desc$ Однако новые технические решения позволили этим поплавкам оказывать значительно меньшее влияние на манёвренность."
+  
+ improved_flying_boat_medium: "Усовершенствованная летающая лодка"
+ improved_flying_boat_medium_desc: "$flying_boat_medium_desc$ Благодаря новым разработкам удалось значительно усовершенствовать эту модель."
+  
+ improved_flying_boat_large: "$improved_flying_boat_medium$"
+ improved_flying_boat_large_desc: "$improved_flying_boat_medium_desc$"
+  
+ amphibious_flying_boat_medium: "Летающая лодка-амфибия"
+ amphibious_flying_boat_medium_desc: "Летающая лодка способна садиться на воду, но почему бы не пойти дальше? Возможность садиться как на воду, так и на сушу делает эту летающую лодку гораздо более универсальной, хотя и несколько более дорогой и менее надёжной..."
+  
+ amphibious_flying_boat_large: "$amphibious_flying_boat_medium$"
+ amphibious_flying_boat_large_desc: "$amphibious_flying_boat_medium_desc$"
+  
+ advanced_supply_ships: "Усовершенствованные суда снабжения"
+ advanced_supply_ships_desc: "Благодаря новейшим технологиям были разработаны суда снабжения, способные быстрее доставлять нашим кораблям в море больше топлива и других необходимых ресурсов, позволяя им действовать на значительно большем удалении."
+  
+ ### Scripted Loc 
+  
+ ### Party Popularity Tooltips ### 
+ popularity_ideology_tooltip: "Текущая правящая партия §H[?current_party_ideology_group.GetTokenLocalizedKey]§!"
+ popularity_ideology_desc: "§L[GetPopularityTooltipDesc]§!"
+ party_popularity_delayed_tooltip: "Популярность партии представляет собой уровень контроля вашего правительства над нацией и поддержку со стороны народа. Политические партии с высокой популярностью могут легче продвигать свою политическую повестку и стабилизировать страну."
+ party_popularity_tooltip: "§HПопулярность партии§![GetPopularityPPGain]"
+ party_popularity_tooltip_long: "§H\n\nЭффекты от текущей популярности партии:§!\n$MODIFIER_POLITICAL_POWER_GAIN$: [GetPopularityPPGainValue][GetHasCoalition][GetCoalitionPartyPop]"
+  
+ party_popularity_dynamic_modifier: "Популярность партии"
+ party_popularity_dynamic_modifier_ideology_mapped: "Популярность партии"
+ party_popularity_dynamic_modifier_coalition: "Коалиции"
+  
+ party_popularity_value_default: "[?party_popularity@ruling_party|%0]"
+ party_popularity_value_mapped: "[?party_popularity@var:temp|%0]"
+  
+ party_popularity_gain_value_default: "[?party_popularity@ruling_party|2=+]"
+ party_popularity_gain_value_mapped: "[?party_popularity@var:temp|2=+]"
+ party_popularity_gain_value_disabled: "[?0|2=+]"
+  
+ party_pop_coalition: "\n\n§HЭффекты от союзников по коалиции:§!\n$MODIFIER_POLITICAL_POWER_GAIN$: [?coalition_pp_gain|+=2]\n"
+ party_pop_coalition_pp_gain: "[?coalition_pp|+2]"
+ party_pop_coalition_stability: "[?coalition_stab|Y0%]"
+  
+ party_pop_coalition_ideology: "- [?global.ideology_groups^ideology_index_current.GetTokenLocalizedKey] ([GetCoalitionStability] - [GetCoalitionPPGain])\n[GetCoalitionPartyPop]"
+  
+  
+ add_to_coalition: "Фракция §[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]§! присоединится к коалиции."
+ remove_from_coalition: "Фракция §[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]§! покинет коалицию."
+ end_coalition_tt: "§YКоалиция§! полностью прекратит существование."
+  
+ is_in_coalition_with: "Находится в коалиции с идеями: §H[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]§!."
+ is_in_coalition_with_NOT: "Не находится в коалиции с идеями: §H[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]§!."
+  
+ coalition_stability_tooltip: "Союзники по коалиции теперь дают $RIGHT|G%0$ их популярности в качестве §Hприроста политической власти§!."
+  
+ coalition_stability_pp_change: "Союзники по коалиции с идеологией §$COLOUR$[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]§! теперь отдают [?coalition_stability_var|Y0%] их популярности для прироста политической власти."
+  
+ controls_any_coastal_state_tt: "Контролирует любой §Yприбрежный регион§!"
+ controls_any_coastal_state_tt_NOT: "§RНЕ§! контролирует любой §Yприбрежный регион§!"
+  
+ colour_vanguardist_red: "o"
+ colour_collectivist_red: "r"
+ colour_libsoc_red: "R"
+ colour_socdem_pink: "S"
+ colour_soclib_orange: "l"
+ colour_marlib_yellow: "m"
+ colour_soccon_blue: "c"
+ colour_dirty_grey: "g"
+ colour_pataut_grey: "P"
+ colour_natpop_brown: "N"
+ colour_green: "G"
+  
+ XXA: "Интегрируемые территории"
+ XXA_ADJ: "Интегрируем"
+ XXA_DEF: "Интегрируемые территории"
