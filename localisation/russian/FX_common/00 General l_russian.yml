@@ -633,6 +633,8 @@
   
  controls_any_coastal_state_tt: "Контролирует любой §Yприбрежный регион§!"
  controls_any_coastal_state_tt_NOT: "§RНЕ§! контролирует любой §Yприбрежный регион§!"
+
+ minister: "Министры"
   
  colour_vanguardist_red: "o"
  colour_collectivist_red: "r"

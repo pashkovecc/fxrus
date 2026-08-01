@@ -2,12 +2,12 @@
  l_english: 
   
  ### Country Names 
- GEO_vanguardist: "Democratic Georgia" #NT!
+ GEO_vanguardist: "Демократическая Грузия" #NT!
  GEO_vanguardist_ADJ: "Georgian" #NT!
- GEO_vanguardist_DEF: "the Georgian People's Republic" #NT!
- GEO_collectivist: "Democratic Georgia" #NT!
- GEO_collectivist_ADJ: "Democratic Georgia" #NT!
- GEO_collectivist_DEF: "the Georgian People's Republic" #NT!
+ GEO_vanguardist_DEF: "Грузинская Народная Республика" #NT!
+ GEO_collectivist: "Демократическая Грузия" #NT!
+ GEO_collectivist_ADJ: "Демократическая Грузия" #NT!
+ GEO_collectivist_DEF: "Грузинская Народная Республика" #NT!
  GEO_libertarian_socialist: "Georgia" #NT!
  GEO_libertarian_socialist_ADJ: "Georgian" #NT!
  GEO_libertarian_socialist_DEF: "the Democratic Republic of Georgia" #NT!
@@ -207,7 +207,7 @@
  ge.100000.a: "Mretsveloba Gadaarchens Sakartvelos!" #NT!
   
  ge.1000.t: "Ioseb Jugashvili Resurfaces" #NT!
- ge.1000.d: "It seemed like after Jugashvili's long disgraceful exile from the Soviet Union due to his "comrades" in the Soviet leadership, he would never return to what he used to be. But it seems that we have misjudged him, since we have received reports of him inciting people against our government and forming a new party. He even tried to adopt his old nickname, 'Stalin', though without much success." #NT!
+ ge.1000.d: "It seemed like after Jugashvili's long disgraceful exile from the Soviet Union due to his «comrades» in the Soviet leadership, he would never return to what he used to be. But it seems that we have misjudged him, since we have received reports of him inciting people against our government and forming a new party. He even tried to adopt his old nickname, 'Stalin', though without much success." #NT!
  ge.1000.a: "Leave him alone" #NT!
  ge.1000.b: "Imprison him for incitement" #NT!
  ge.1000.c: "Bring someone to convince him that he's wrong" #NT!
@@ -950,10 +950,10 @@
   
  GEO_MON_vanguardist: "Democratic Georgia" #NT!
  GEO_MON_vanguardist_ADJ: "Georgian" #NT!
- GEO_MON_vanguardist_DEF: "the Georgian People's Republic" #NT!
+ GEO_MON_vanguardist_DEF: "Грузинская Народная Республика" #NT!
  GEO_MON_collectivist: "Democratic Georgia" #NT!
  GEO_MON_collectivist_ADJ: "Georgian" #NT!
- GEO_MON_collectivist_DEF: "the Georgian People's Republic" #NT!
+ GEO_MON_collectivist_DEF: "Грузинская Народная Республика" #NT!
  GEO_MON_libertarian_socialist: "Georgia" #NT!
  GEO_MON_libertarian_socialist_ADJ: "Georgian" #NT!
  GEO_MON_libertarian_socialist_DEF: "the Democratic Republic of Georgia" #NT!
@@ -1086,10 +1086,10 @@
   
  GEO_GREAT_vanguardist: "Democratic Georgia" #NT!
  GEO_GREAT_vanguardist_ADJ: "Georgian" #NT!
- GEO_GREAT_vanguardist_DEF: "the Georgian People's Republic" #NT!
+ GEO_GREAT_vanguardist_DEF: "Грузинская Народная Республика" #NT!
  GEO_GREAT_collectivist: "Democratic Georgia" #NT!
  GEO_GREAT_collectivist_ADJ: "Georgian" #NT!
- GEO_GREAT_collectivist_DEF: "the Georgian People's Republic" #NT!
+ GEO_GREAT_collectivist_DEF: "Грузинская Народная Республика" #NT!
  GEO_GREAT_libertarian_socialist: "Georgia" #NT!
  GEO_GREAT_libertarian_socialist_ADJ: "Georgian" #NT!
  GEO_GREAT_libertarian_socialist_DEF: "the Democratic Republic of Georgia" #NT!

@@ -37,199 +37,199 @@
  rocket_interceptor_equipment_desc: "Перехватчик малой дальности, использующий химический ракетный двигатель."
  suicide_craft_equipment: "Камикадзе"
  suicide_craft_equipment_desc: "Пилотируемая бомба малой дальности с химическим ракетным двигателем."
- fighter_equipment_0: "Interwar Fighter" #NT!
+ fighter_equipment_0: "Межвоенный истребитель"
  fighter_equipment_0_short: "Истребитель"
  fighter_equipment_0_desc: "Несмотря на все улучшения за время Первой мировой войны и после нее, бипланы уходят в прошлое. Нам нужно использовать новейшие мирные технологии в военных целях."
- early_fighter: "$fighter_equipment_0$" #NT!
- early_fighter_desc: "$fighter_equipment_0_desc$" #NT!
+ early_fighter: "$fighter_equipment_0$"
+ early_fighter_desc: "$fighter_equipment_0_desc$"
  fighter_equipment_1: "Истребитель I"
  fighter_equipment_1_short: "Истреб. I"
- fighter_equipment_1_desc: "Light airframes have been revolutionised with the introduction of radial engines, monoplane designs and all metal skin construction. This design is our attempt at creating our first modern fighter plane." #NT!
- fighter1: "$fighter_equipment_1$" #NT!
- fighter1_desc: "$fighter_equipment_1_desc$" #NT!
+ fighter_equipment_1_desc: "Эскадрильям бомбардировщиков требуется защита от перехватчиков врага Для этого нам нужен истребитель, не уступающий бомбардировщикам по дальности полета. Эти машины крупнее, тяжелее и уступают по маневренности обычным истребителям, но зато превосходят их вооружением."
+ fighter1: "$fighter_equipment_1$"
+ fighter1_desc: "$fighter_equipment_1_desc$"
  fighter_equipment_2: "Истребитель II"
  fighter_equipment_2_short: "Истреб. II"
  fighter_equipment_2_desc: "По мере того как мы применяем новые технологии к уже отработанным схемам, развитие истребителей идет невиданными темпами. Нам нужен истребитель, отличающийся высокой скоростью, маневренностью на больших высотах и максимальной дальностью полета. Кроме того, он должен нести мощное вооружение."
- fighter2: "$fighter_equipment_2$" #NT!
- fighter2_desc: "$fighter_equipment_2_desc$" #NT!
+ fighter2: "$fighter_equipment_2$"
+ fighter2_desc: "$fighter_equipment_2_desc$"
  fighter_equipment_3: "Истребитель III"
  fighter_equipment_3_short: "Истреб. III"
  fighter_equipment_3_desc: "Предыдущие разработки достойно себя проявили, но это не повод отказываться от дополнительных преимуществ. Новый самолет, обладающий непревзойденной мощностью, смертоносным вооружением и высокой дальностью полета, станет вершиной развития поршневой авиации."
- fighter3: "$fighter_equipment_3$" #NT!
- fighter3_desc: "$fighter_equipment_3_desc$" #NT!
+ fighter3: "$fighter_equipment_3$"
+ fighter3_desc: "$fighter_equipment_3_desc$"
  heavy_fighter_equipment: "Тяжелый истребитель"
  heavy_fighter_equipment_1: "Тяжелый истребитель I"
  heavy_fighter_equipment_1_short: "Тяж. истребитель I"
  heavy_fighter_equipment_1_desc: "Эскадрильям бомбардировщиков требуется защита от перехватчиков врага Для этого нам нужен истребитель, не уступающий бомбардировщикам по дальности полета. Эти машины крупнее, тяжелее и уступают по маневренности обычным истребителям, но зато превосходят их вооружением."
- heavy_fighter1: "$heavy_fighter_equipment_1$" #NT!
- heavy_fighter1_desc: "$heavy_fighter_equipment_1_desc$" #NT!
+ heavy_fighter1: "$heavy_fighter_equipment_1$"
+ heavy_fighter1_desc: "$heavy_fighter_equipment_1_desc$"
  heavy_fighter_equipment_2: "Тяжелый истребитель II"
  heavy_fighter_equipment_2_short: "Тяж. истребитель II"
  heavy_fighter_equipment_2_desc: "Война показала, что тяжелые истребители — легкая добыча для более маневренных перехватчиков, однако благодаря вооружению они хорошо проявляют себя в схватке с бомбардировщиками. Следующий вариант будет отличаться повышенной огневой мощью против воздушных и даже наземных целей, а также улучшенными скоростью и дальностью полета."
- heavy_fighter2: "$heavy_fighter_equipment_2$" #NT!
- heavy_fighter2_desc: "$heavy_fighter_equipment_2_desc$" #NT!
+ heavy_fighter2: "$heavy_fighter_equipment_2$"
+ heavy_fighter2_desc: "$heavy_fighter_equipment_2_desc$"
  heavy_fighter_equipment_3: "Тяжелый истребитель III"
  heavy_fighter_equipment_3_short: "Тяж. истребитель III"
  heavy_fighter_equipment_3_desc: "Хотя эскадрильи тяжелых истребителей неплохо действуют в различных ролях, нам следует разработать новые улучшения, которые повысят их шансы в схватках с истребителями, а также позволят перехватывать более быстрые и защищенные бомбардировщики противника."
- heavy_fighter3: "$heavy_fighter_equipment_3$" #NT!
- heavy_fighter3_desc: "$heavy_fighter_equipment_3_desc$" #NT!
+ heavy_fighter3: "$heavy_fighter_equipment_3$"
+ heavy_fighter3_desc: "$heavy_fighter_equipment_3_desc$"
  strat_bomber_equipment_1: "Стратегический бомбардировщик I"
  strat_bomber_equipment_1_short: "Страт. бомбардировщик I"
  strat_bomber_equipment_1_desc: "За время Первой мировой войны и после нее стало ясно, что бомбардировки военных целей и крупных городов — ключ к победе в следующей войне. Как минимум, нам необходимы самолеты, способные наносить подобные удары. Бомбардировщику требуется высокий потолок, хорошая скорость и большая бомбовая нагрузка. Это будет внушительная конструкция с несколькими двигателями, а также оборонительным вооружением."
- strategic_bomber1: "$strat_bomber_equipment_1$" #NT!
- strategic_bomber1_desc: "$strat_bomber_equipment_1_desc$" #NT!
+ strategic_bomber1: "$strat_bomber_equipment_1$"
+ strategic_bomber1_desc: "$strat_bomber_equipment_1_desc$"
  strat_bomber_equipment_2: "Стратегический бомбардировщик II"
  strat_bomber_equipment_2_short: "Страт. бомбардировщик II"
  strat_bomber_equipment_2_desc: "Бомбардировки успешно подрывают способность врага вести боевые действия. Улучшенное оборонительное вооружение и повышенная скорость позволят новым самолетам возвращаться невредимыми, а увеличенные бомбовая нагрузка и дальность полета повысят эффективность ударов."
- strategic_bomber2: "$strat_bomber_equipment_2$" #NT!
- strategic_bomber2_desc: "$strat_bomber_equipment_2_desc$" #NT!
+ strategic_bomber2: "$strat_bomber_equipment_2$"
+ strategic_bomber2_desc: "$strat_bomber_equipment_2_desc$"
  strat_bomber_equipment_3: "Стратегический бомбардировщик III"
  strat_bomber_equipment_3_short: "Страт. бомбардировщик III"
  strat_bomber_equipment_3_desc: "Чтобы снизить потери от огня орудий ПВО и перехватчиков, нужно повысить максимальную высоту полета. Новая модель будет еще крупнее и сможет нести увеличенную бомбовую нагрузку и большой запас топлива, чтобы повысить дальность полета."
- strategic_bomber3: "$strat_bomber_equipment_3$" #NT!
- strategic_bomber3_desc: "$strat_bomber_equipment_3_desc$" #NT!
+ strategic_bomber3: "$strat_bomber_equipment_3$"
+ strategic_bomber3_desc: "$strat_bomber_equipment_3_desc$"
  jet_strat_bomber_equipment_1: "Реактивный стратегический бомбардировщик I"
  jet_strat_bomber_equipment_1_short: "Реакт. страт. бомбардировщик I"
  jet_strat_bomber_equipment_1_desc: "Реактивные двигатели наделят новые образцы непревзойденной скоростью без ущерба для бомбовой нагрузки и дальности полета. Эти самолеты открывают новую эру оружия массового поражения."
- jet_strategic_bomber1: "$jet_strat_bomber_equipment_1$" #NT!
- jet_strategic_bomber1_desc: "$jet_strat_bomber_equipment_1_desc$" #NT!
+ jet_strategic_bomber1: "$jet_strat_bomber_equipment_1$"
+ jet_strategic_bomber1_desc: "$jet_strat_bomber_equipment_1_desc$"
  tac_bomber_equipment: "Тактический бомбардировщик"
- tac_bomber_equipment_0: "Interwar Bomber" #NT!
+ tac_bomber_equipment_0: "Межвоенный бомбардировщик"
  tac_bomber_equipment_0_short: "Бомбардировщик"
  tac_bomber_equipment_0_desc: "Есть мнение, что для победы в следующей войне достаточно бомбить врага до полного уничтожения. Необходимо начать разработку самолета, способного доставлять тяжелые бомбы с приемлемой скоростью."
- early_bomber: "$tac_bomber_equipment_0$" #NT!
- early_bomber_desc: "$tac_bomber_equipment_0_desc$" #NT!
+ early_bomber: "$tac_bomber_equipment_0$"
+ early_bomber_desc: "$tac_bomber_equipment_0_desc$"
  tac_bomber_equipment_1: "Тактический бомбардировщик I"
  tac_bomber_equipment_1_short: "Такт. бомбардировщик I"
  tac_bomber_equipment_1_desc: "Средним бомбардировщикам нужна скорость и способность выполнять различные задачи. Схема с двумя двигателями, позволяющая сохранить относительную легкость, прослужит нам еще многие годы."
- tactical_bomber1: "$tac_bomber_equipment_1$" #NT!
- tactical_bomber1_desc: "$tac_bomber_equipment_1_desc$" #NT!
+ tactical_bomber1: "$tac_bomber_equipment_1$"
+ tactical_bomber1_desc: "$tac_bomber_equipment_1_desc$"
  tac_bomber_equipment_2: "Тактический бомбардировщик II"
  tac_bomber_equipment_2_short: "Такт. бомбардировщик II"
  tac_bomber_equipment_2_desc: "Более тяжелые тактические бомбардировщики отличаются увеличенными дальностью полета, скоростью и бомбовой нагрузкой и при этом не теряют способность выполнять самые разнообразные задачи."
- tactical_bomber2: "$tac_bomber_equipment_2$" #NT!
- tactical_bomber2_desc: "$tac_bomber_equipment_2_desc$" #NT!
+ tactical_bomber2: "$tac_bomber_equipment_2$"
+ tactical_bomber2_desc: "$tac_bomber_equipment_2_desc$"
  tac_bomber_equipment_3: "Тактический бомбардировщик III"
  tac_bomber_equipment_3_short: "Такт. бомбардировщик III"
  tac_bomber_equipment_3_desc: "Взяв лучшие решения от современных истребителей и новейшие материалы, мы сможем создать двухмоторный бомбардировщик, который превзойдет по скорости и эффективности все предыдущие образцы."
- tactical_bomber3: "$tac_bomber_equipment_3$" #NT!
- tactical_bomber3_desc: "$tac_bomber_equipment_3_desc$" #NT!
+ tactical_bomber3: "$tac_bomber_equipment_3$"
+ tactical_bomber3_desc: "$tac_bomber_equipment_3_desc$"
  transport_plane_equipment: "Транспортный самолет"
  transport_plane_equipment_1: "Межвоенный транспортный самолет"
- # transport_plane_equipment_1_short: "Transport I" #NT!
+ # transport_plane_equipment_1_short: "Transport I"
  transport_plane_equipment_1_desc: "Самолеты, доставляющие десант к месту высадки."
  transport_plane_equipment_2: "Улучшенный транспортный самолет"
- # transport_plane_equipment_2_short: "Transport II" #NT!
+ # transport_plane_equipment_2_short: "Transport II"
  transport_plane_equipment_2_desc: "Самолеты, доставляющие десант к месту высадки."
  transport_plane_equipment_3: "Современный транспортный самолет"
- # transport_plane_equipment_3_short: "Transport III" #NT!
+ # transport_plane_equipment_3_short: "Transport III"
  transport_plane_equipment_3_desc: "Самолеты, доставляющие десант к месту высадки."
  nav_bomber_equipment: "Палубный бомбардировщик"
- cv_nav_bomber_equipment: "CV Naval Bomber" #NT!
+ cv_nav_bomber_equipment: "Палубный бомбардировщик"
  cv_nav_bomber_equipment_short: "Палубный бомбардировщик"
  nav_bomber_equipment_1: "Морской бомбардировщик I"
  nav_bomber_equipment_1_short: "Морск. бомбардировщик I"
  nav_bomber_equipment_1_desc: "Морская авиация будет крайне востребована в связи с изменениями в характере войны на море — в частности, усилением роли подводных лодок. Потребуются гидросамолеты, способные выполнять роль разведчиков и пикирующих бомбардировщиков."
- naval_bomber1: "$nav_bomber_equipment_1$" #NT!
- naval_bomber1_desc: "$nav_bomber_equipment_1_desc$" #NT!
+ naval_bomber1: "$nav_bomber_equipment_1$"
+ naval_bomber1_desc: "$nav_bomber_equipment_1_desc$"
  nav_bomber_equipment_2: "Морской бомбардировщик II"
  nav_bomber_equipment_2_short: "Морск. бомбардировщик II"
  nav_bomber_equipment_2_desc: "Улучшенная аэродинамика и новые двигатели заметно повышают скорость и боевую эффективность морской авиации."
- naval_bomber2: "$nav_bomber_equipment_2$" #NT!
- naval_bomber2_desc: "$nav_bomber_equipment_2_desc$" #NT!
+ naval_bomber2: "$nav_bomber_equipment_2$"
+ naval_bomber2_desc: "$nav_bomber_equipment_2_desc$"
  nav_bomber_equipment_3: "Морской бомбардировщик III"
  nav_bomber_equipment_3_short: "Морск. бомбардировщик III"
  nav_bomber_equipment_3_desc: "Цельнометаллические корпуса и аэродинамические тормоза заметно сказываются на летных свойствах. Платить за это приходится увеличенной численностью экипажа."
- naval_bomber3: "$nav_bomber_equipment_3$" #NT!
- naval_bomber3_desc: "$nav_bomber_equipment_3_desc$" #NT!
+ naval_bomber3: "$nav_bomber_equipment_3$"
+ naval_bomber3_desc: "$nav_bomber_equipment_3_desc$"
  CAS_equipment: "Штурмовик"
- cv_CAS_equipment: "Carrier CAS" #NT!
- cv_CAS_equipment_short: "CV CAS" #NT!
+ cv_CAS_equipment: "Палубный штурмовик"
+ cv_CAS_equipment_short: "Палуб. штурмовик"
  CAS_equipment_1: "Штурмовик I"
  CAS_equipment_1_short: "Штурм. I"
  CAS_equipment_1_desc: "Военная доктрина требует наличия самолета, способного поддерживать огнем боевые действия на земле. Такая машина несет меньше вооружения, чем тактический бомбардировщик, но способна при этом атаковать небольшие цели при помощи пушек и бомбардировок в пикировании."
- CAS1: "$CAS_equipment_1$" #NT!
- CAS1_desc: "$CAS_equipment_1_desc$" #NT!
+ CAS1: "$CAS_equipment_1$"
+ CAS1_desc: "$CAS_equipment_1_desc$"
  CAS_equipment_2: "Штурмовик II"
  CAS_equipment_2_short: "Штурм. II"
- CAS_equipment_2_desc: "Early war experiences have shown that increased speed, armour and manoeuvrability are necessary for CAS aircraft survivability against enemy fighters and ground fire. This next generation of ground attack aircraft will also utilise larger bombs, cannons and machineguns to inflict greater damage to their targets." #NT!
- CAS2: "$CAS_equipment_2$" #NT!
- CAS2_desc: "$CAS_equipment_2_desc$" #NT!
+ CAS_equipment_2_desc: "Боевые действия показали, что для выживания под огнем истребителей и ПВО штурмовику требуются высокие скорость, маневренность и бронезащита. Следующее поколение штурмовиков также использует более мощные бомбы, пушки и пулеметы."
+ CAS2: "$CAS_equipment_2$"
+ CAS2_desc: "$CAS_equipment_2_desc$"
  CAS_equipment_3: "Штурмовик III"
  CAS_equipment_3_short: "Штурм. III"
  CAS_equipment_3_desc: "Рост эффективности орудий ПВО и перехватчиков требуют от нас улучшения штурмовиков. Новый образец обладает лучшей защитой, более мощным двигателем и улучшенной конструкцией, а также увеличенной бомбовой нагрузкой."
- CAS3: "$CAS_equipment_3$" #NT!
- CAS3_desc: "$CAS_equipment_3_desc$" #NT!
+ CAS3: "$CAS_equipment_3$"
+ CAS3_desc: "$CAS_equipment_3_desc$"
  jet_fighter_equipment_1: "Реактивный истребитель I"
  jet_fighter_equipment_1_short: "Реакт истребитель I"
  jet_fighter_equipment_1_desc: "Реактивный двигатель позволяет истребителю развивать ранее невиданную скорость. Ранние образцы не очень эффективны, но обычным истребителям за ними не угнаться."
- jet_fighter1: "$jet_fighter_equipment_1$" #NT!
- jet_fighter1_desc: "$jet_fighter_equipment_1_desc$" #NT!
+ jet_fighter1: "$jet_fighter_equipment_1$"
+ jet_fighter1_desc: "$jet_fighter_equipment_1_desc$"
  jet_fighter_equipment_2: "Реактивный истребитель II"
  jet_fighter_equipment_2_short: "Реакт. истребитель II"
  jet_fighter_equipment_2_desc: "Стреловидное крыло и легкие материалы позволили нам еще больше увеличить скорость, а заодно и дальность действия истребителей."
- jet_fighter2: "$jet_fighter_equipment_2$" #NT!
- jet_fighter2_desc: "$jet_fighter_equipment_2_desc$" #NT!
+ jet_fighter2: "$jet_fighter_equipment_2$"
+ jet_fighter2_desc: "$jet_fighter_equipment_2_desc$"
  jet_tac_bomber_equipment_1: "Реактивный тактический бомбардировщик I"
  jet_tac_bomber_equipment_1_short: "Реакт. такт. бомбардировщик I"
  jet_tac_bomber_equipment_1_desc: "Появление реактивных перехватчиков требует создания бомбардировщиков, не уступающих им в скорости. Эта роль отведена средним бомбардировщикам первого поколения, оснащенным реактивными двигателями."
- jet_tactical_bomber1: "$jet_tac_bomber_equipment_1$" #NT!
- jet_tactical_bomber1_desc: "$jet_tac_bomber_equipment_1_desc$" #NT!
+ jet_tactical_bomber1: "$jet_tac_bomber_equipment_1$"
+ jet_tactical_bomber1_desc: "$jet_tac_bomber_equipment_1_desc$"
  jet_tac_bomber_equipment_2: "Реактивный тактический бомбардировщик II"
  jet_tac_bomber_equipment_2_short: "Реакт. такт. бомб. II"
  jet_tac_bomber_equipment_2_desc: "Сверхсовременные реактивные бомбардировщики — рекордсмены по высоте и дальности, они способны проводить разведку и наносить удары на другом континенте."
- jet_tactical_bomber2: "$jet_tac_bomber_equipment_2$" #NT!
- jet_tactical_bomber2_desc: "$jet_tac_bomber_equipment_2_desc$" #NT!
+ jet_tactical_bomber2: "$jet_tac_bomber_equipment_2$"
+ jet_tactical_bomber2_desc: "$jet_tac_bomber_equipment_2_desc$"
  cv_nav_bomber_equipment_1: "Палубный бомбардировщик I"
- cv_nav_bomber_equipment_1_short: "Carrier Bomber I" #NT!
+ cv_nav_bomber_equipment_1_short: "Палуб. бомб. I"
  cv_nav_bomber_equipment_1_desc: "Ранний морской бомбардировщик, модифицированный для взлета с и посадки на авианосец."
- cv_naval_bomber1: "$cv_nav_bomber_equipment_1$" #NT!
- cv_naval_bomber1_desc: "$cv_nav_bomber_equipment_1$" #NT!
+ cv_naval_bomber1: "$cv_nav_bomber_equipment_1$"
+ cv_naval_bomber1_desc: "$cv_nav_bomber_equipment_1$"
  cv_nav_bomber_equipment_2: "Палубный бомбардировщик II"
- cv_nav_bomber_equipment_2_short: "Carrier Bomber II" #NT!
+ cv_nav_bomber_equipment_2_short: "Палуб. бомб. II"
  cv_nav_bomber_equipment_2_desc: "Улучшенный морской бомбардировщик, модифицированный для взлета с и посадки на авианосец."
- cv_naval_bomber2: "$cv_nav_bomber_equipment_2$" #NT!
- cv_naval_bomber2_desc: "$cv_nav_bomber_equipment_2_desc$" #NT!
+ cv_naval_bomber2: "$cv_nav_bomber_equipment_2$"
+ cv_naval_bomber2_desc: "$cv_nav_bomber_equipment_2_desc$"
  cv_nav_bomber_equipment_3: "Палубный бомбардировщик III"
- cv_nav_bomber_equipment_3_short: "Carrier Bomber III" #NT!
+ cv_nav_bomber_equipment_3_short: "Палуб. бомб. III"
  cv_nav_bomber_equipment_3_desc: "Современный морской бомбардировщик, модифицированный для взлета с и посадки на авианосец."
- cv_naval_bomber3: "$cv_nav_bomber_equipment_3$" #NT!
- cv_naval_bomber3_desc: "$cv_nav_bomber_equipment_3_desc$" #NT!
- cv_CAS_equipment_1: "Carrier CAS I" #NT!
- cv_CAS_equipment_1_short: "Carrier CAS I" #NT!
+ cv_naval_bomber3: "$cv_nav_bomber_equipment_3$"
+ cv_naval_bomber3_desc: "$cv_nav_bomber_equipment_3_desc$"
+ cv_CAS_equipment_1: "Палубный штурмовик I"
+ cv_CAS_equipment_1_short: "Палуб. штурм. I"
  cv_CAS_equipment_1_desc: "Ранний штурмовик, модифицированный для взлета с и посадки на авианосец."
- cv_CAS1: "$cv_CAS_equipment_1$" #NT!
- cv_CAS1_desc: "$cv_CAS_equipment_1$" #NT!
- cv_CAS_equipment_2: "Carrier CAS II" #NT!
- cv_CAS_equipment_2_short: "Carrier CAS II" #NT!
+ cv_CAS1: "$cv_CAS_equipment_1$"
+ cv_CAS1_desc: "$cv_CAS_equipment_1$"
+ cv_CAS_equipment_2: "Палубный штурмовик II"
+ cv_CAS_equipment_2_short: "Палуб. штурм. II"
  cv_CAS_equipment_2_desc: "Улучшенный штурмовик, модифицированный для взлета с и посадки на авианосец."
- cv_CAS2: "$cv_CAS_equipment_2$" #NT!
- cv_CAS2_desc: "$cv_CAS_equipment_2_desc$" #NT!
- cv_CAS_equipment_3: "Carrier CAS III" #NT!
- cv_CAS_equipment_3_short: "Carrier CAS III" #NT!
+ cv_CAS2: "$cv_CAS_equipment_2$"
+ cv_CAS2_desc: "$cv_CAS_equipment_2_desc$"
+ cv_CAS_equipment_3: "Палубный штурмовик III"
+ cv_CAS_equipment_3_short: "Палуб. штурм. III"
  cv_CAS_equipment_3_desc: "Современный штурмовик, модифицированный для взлета с и посадки на авианосец."
- cv_CAS3: "$cv_CAS_equipment_3$" #NT!
- cv_CAS3_desc: "$cv_CAS_equipment_3_desc$" #NT!
- cv_fighter_equipment_0: "IW Carrier Fighter" #NT!
- cv_fighter_equipment_0_short: "Carrier Fighter" #NT!
+ cv_CAS3: "$cv_CAS_equipment_3$"
+ cv_CAS3_desc: "$cv_CAS_equipment_3_desc$"
+ cv_fighter_equipment_0: "Межвоенный палубный истребитель"
+ cv_fighter_equipment_0_short: "Палуб. истребитель"
  cv_fighter_equipment_0_desc: "Ранний истребитель, модифицированный для взлета с и посадки на авианосец."
- cv_early_fighter: "$cv_fighter_equipment_0$" #NT!
- cv_early_fighter_desc: "$cv_fighter_equipment_0_desc$" #NT!
+ cv_early_fighter: "$cv_fighter_equipment_0$"
+ cv_early_fighter_desc: "$cv_fighter_equipment_0_desc$"
  cv_fighter_equipment_1: "Палубный истребитель I"
- cv_fighter_equipment_1_short: "Carrier Fighter I" #NT!
+ cv_fighter_equipment_1_short: "Палуб. истребитель I"
  cv_fighter_equipment_1_desc: "Ранний истребитель, модифицированный для взлета с и посадки на авианосец."
- cv_fighter1: "$cv_fighter_equipment_1$" #NT!
- cv_fighter1_desc: "$cv_fighter_equipment_1_desc$" #NT!
+ cv_fighter1: "$cv_fighter_equipment_1$"
+ cv_fighter1_desc: "$cv_fighter_equipment_1_desc$"
  cv_fighter_equipment_2: "Палубный истребитель II"
- cv_fighter_equipment_2_short: "Carrier Fighter II" #NT!
+ cv_fighter_equipment_2_short: "Палуб. истребитель II"
  cv_fighter_equipment_2_desc: "Улучшенный истребитель, модифицированный для взлета с и посадки на авианосец."
- cv_fighter2: "$cv_fighter_equipment_2$" #NT!
- cv_fighter2_desc: "$cv_fighter_equipment_2_desc$" #NT!
+ cv_fighter2: "$cv_fighter_equipment_2$"
+ cv_fighter2_desc: "$cv_fighter_equipment_2_desc$"
  cv_fighter_equipment_3: "Палубный истребитель III"
- cv_fighter_equipment_3_short: "Carrier Fighter III" #NT!
+ cv_fighter_equipment_3_short: "Палуб. истребитель III"
  cv_fighter_equipment_3_desc: "Современный истребитель, модифицированный для взлета с и посадки на авианосец."
- cv_fighter3: "$cv_fighter_equipment_3$" #NT!
- cv_fighter3_desc: "$cv_fighter_equipment_3_desc$" #NT!
+ cv_fighter3: "$cv_fighter_equipment_3$"
+ cv_fighter3_desc: "$cv_fighter_equipment_3_desc$"
  rocket_interceptor_equipment_1: "Реактивный перехватчик I"
  rocket_interceptor_equipment_1_desc: "Перехватчик малой дальности, использующий ненадежный химический ракетный двигатель."
  rocket_interceptor_equipment_1_short: "Реакт. перехватчик I"
@@ -244,7 +244,7 @@
  rocket_suicide_equipment_1_desc: "Держитесь крепче!"
  scout_plane: "Самолёт-разведчик"
  scout_plane_equipment_desc: "Самолёт, спроектированный специально для проведения фоторазведки. Главным образом полагается на скорость и незаметность, для ведения боя не приспособлен."
- scout_plane_equipment: "Scout Planes" #NT!
+ scout_plane_equipment: "Самолет-разведчик"
  scout_plane_equipment_1: "Самолёт-разведчик I"
  scout_plane_equipment_1_desc: "Сбор данных о передвижениях войск и флота противника — важная задача авиации со времён её первого боевого применения в Первой мировой войне и по наше время."
  scout_plane_equipment_2: "Самолёт-разведчик II"
