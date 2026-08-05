@@ -1,24 +1,24 @@
 ﻿l_russian:
   
- autonomy_protectorate: "Protectorate" #NT!
+ autonomy_protectorate: "Протекторат"
  autonomy_puppet: "Марионетка"
- special_autonomous_dependency: "Autonomous Dependency" #NT!
- autonomy_thema: "Théma" #NT!
- autonomy_valkist_protectorate: "Valkist Protectorate" #NT!
- autonomy_mandate: "Mandate" #NT!
- lander: "Länder" #NT!
- lander_less: "$lander$" #NT!
- autonomous_puppet: "Autonomous Puppet" #NT!
- crownland: "Crownland" #NT!
- autonomy_ecclesiastical_domain: "Ecclesiastical Domain" #NT!
- autonomy_reichslander: "Reichsländer" #NT!
- autonomy_occupied_puppet: "Occupied Puppet" #NT!
+ special_autonomous_dependency: "Автономная зависимость"
+ autonomy_thema: "Фема"
+ autonomy_valkist_protectorate: "Валькистский протекторат"
+ autonomy_mandate: "Мандат"
+ lander: "Земли"
+ lander_less: "$lander$"
+ autonomous_puppet: "Автономная марионетка"
+ crownland: "Коронная земля"
+ autonomy_ecclesiastical_domain: "Церковная область"
+ autonomy_reichslander: "Земли Рейха"
+ autonomy_occupied_puppet: "Оккупированная марионетка"
  autonomy_colony: "Колония"
  autonomy_dominion: "Доминион"
  autonomy_integrated_puppet: "Интегрированная марионетка"
- colonial_government: "Colonial Government" #NT!
- autonomy_federated_crownland: "Federated Crownland" #NT!
+ colonial_government: "Колониальное правительство"
+ autonomy_federated_crownland: "Федеративная коронная земля"
   
  ### Tooltips 
- can_lower_autonomy_level: "Can lower autonomy level\n" #NT!
- can_raise_autonomy_level: "Can raise autonomy level\n" #NT!
+ can_lower_autonomy_level: "Может понизить уровень автономии\n"
+ can_raise_autonomy_level: "Может повысить уровень автономии\n"

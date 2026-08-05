@@ -1,8 +1,8 @@
 ﻿l_russian:
- landmark_white_house: "The White House" #NT!
- landmark_white_house_plural: "$landmark_white_house$" #NT!
- landmark_white_house_desc: "§LThe White House represents the seat of American presidency. Standing in the District of Columbia, White House has became the symbol of the republic from its completion in 1800.§!" #NT!
-  
- landmark_winter_palace: "The Winter Palace" #NT!
- landmark_winter_palace_plural: "$landmark_winter_palace$" #NT!
- landmark_winter_palace_desc: "§LThe Winter Palace is a magnificent rococo palace which used to serve as the official residence of the House Romanov until 1917. At the heart of Petrograd, the palace witnessed many key events of Russian revolutions. One part of the palace is housing the Hermitage Museum while the rest is a sprawling administrative complex. The Winter Palace remains symbol of pride for all Russia.§!" #NT!
+ landmark_white_house: "Белый дом"
+ landmark_white_house_plural: "$landmark_white_house$"
+ landmark_white_house_desc: "§LБелый дом является резиденцией американского президента. Расположенный в округе Колумбия, Белый дом стал символом республики с момента завершения его строительства в 1800 году.§!"
+ 
+ landmark_winter_palace: "Зимний дворец"
+ landmark_winter_palace_plural: "$landmark_winter_palace$"
+ landmark_winter_palace_desc: "§LЗимний дворец — великолепный дворец в стиле рококо, служивший официальной резиденцией дома Романовых до 1917 года. Находясь в самом сердце Петрограда, он стал свидетелем многих ключевых событий русских революций. В одной части дворца располагается музей «Эрмитаж», в то время как остальная представляет собой обширный административный комплекс. Зимний дворец остаётся предметом гордости для всей России.§!"

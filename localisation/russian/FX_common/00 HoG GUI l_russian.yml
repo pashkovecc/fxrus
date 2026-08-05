@@ -1,120 +1,119 @@
 ﻿l_russian:
   
  HOGNAMEDELAYED: "§Y[ROOT.GetHogName]§!§L\n--------------\n [ROOT.GetHogDesc]§!" #NT!
- HOGINFOFOR: "§Y[FROM.GetHoGTitle]§! of [FROM.GetNameWithFlag]\n\n\n\n\n\n\n\n £[THIS.GetHogPortrait]\n\n\n\n\n\n\n\n\n §Y[FROM.GetHogName]§!" #NT!
+ HOGINFOFOR: "§Y[FROM.GetHoGTitle]§! государства [FROM.GetNameWithFlag]\n\n\n\n\n\n\n\n £[THIS.GetHogPortrait]\n\n\n\n\n\n\n\n\n §Y[FROM.GetHogName]§!" #NT!
   
- HOGTITLEBASIC: "Click to switch between §G[ROOT.GetHoSTitle]§! and §C[ROOT.GetHoGTitle]§! view" #NT!
+ HOGTITLEBASIC: "Нажмите, чтобы переключить просмотр: §G[ROOT.GetHoSTitle]§! / §C[ROOT.GetHoGTitle]§!" #NT!
   
- HOS_TITLE_PRESIDENT: "President" #NT!
- HOS_TITLE_KING: "King" #NT!
- HOS_TITLE_QUEEN: "Queen" #NT!
- HOS_TITLE_EMPEROR: "Emperor" #NT!
- HOS_TITLE_EMPRESS: "Empress" #NT!
- HOS_TITLE_GOVGENERAL: "Governor-General" #NT!
- HOS_TITLE_CHAIRMAN: "Chairman" #NT!
- HOS_TITLE_SLEADER: "Supreme Leader" #NT!
- HOS_TITLE_GDUKE: "Grand Duke" #NT!
- HOS_TITLE_TSAR: "Tsar" #NT!
- HOS_TITLE_SULTAN: "Sultan" #NT!
-  
- HOS_TITLE_PM: "Prime Minister" #NT!
-  
- HOG_TITLE_PM: "Prime Minister" #NT!
- HOG_TITLE_CHANCELLOR: "Chancellor" #NT!
- HOG_TITLE_VICEP: "Vice-President" #NT!
- HOG_TITLE_PREMIER: "Premier" #NT!
- HOG_TITLE_FMINISTER: "First Minister" #NT!
- HOG_TITLE_GENSEC: "General Secretary" #NT!
- HOG_TITLE_EXECPREMIER: "Executive Premier" #NT!
- HOG_TITLE_PRSECRETARY: "Prime Secretary" #NT!
- HOG_TITLE_SCHANCELLOR: "Supreme Chancellor" #NT!
- HOG_TITLE_HCOUNCILOR: "Head Councilor" #NT!
- HOG_TITLE_MINPRE: "Minister-President" #NT!
-  
- HOG_TITLE_KING: "King" #NT!
-  
-  
+ HOS_TITLE_PRESIDENT: "Президент"
+ HOS_TITLE_KING: "Король"
+ HOS_TITLE_QUEEN: "Королева"
+ HOS_TITLE_EMPEROR: "Император"
+ HOS_TITLE_EMPRESS: "Императрица"
+ HOS_TITLE_GOVGENERAL: "Генерал-губернатор"
+ HOS_TITLE_CHAIRMAN: "Председатель"
+ HOS_TITLE_SLEADER: "Верховный лидер"
+ HOS_TITLE_GDUKE: "Великий герцог"
+ HOS_TITLE_TSAR: "Царь"
+ HOS_TITLE_SULTAN: "Султан"
+ 
+ HOS_TITLE_PM: "Премьер-министр"
+ 
+ HOG_TITLE_PM: "Премьер-министр"
+ HOG_TITLE_CHANCELLOR: "Канцлер"
+ HOG_TITLE_VICEP: "Вице-президент"
+ HOG_TITLE_PREMIER: "Премьер"
+ HOG_TITLE_FMINISTER: "Первый министр"
+ HOG_TITLE_GENSEC: "Генеральный секретарь"
+ HOG_TITLE_EXECPREMIER: "Исполнительный премьер"
+ HOG_TITLE_PRSECRETARY: "Главный секретарь"
+ HOG_TITLE_SCHANCELLOR: "Верховный канцлер"
+ HOG_TITLE_HCOUNCILOR: "Глава совета"
+ HOG_TITLE_MINPRE: "Министр-президент"
+ 
+ HOG_TITLE_KING: "Король"
+ 
  # Country-specific ones 
- GRE_HOS_TITLE_PRESIDENT: "President of the Hellenic Republic" #NT!
- GRE_HOS_TITLE_KING: "Vasiléfs" #NT!
- GRE_HOS_TITLE_EMPEROR: "Aftokrátor" #NT!
+ GRE_HOS_TITLE_PRESIDENT: "Президент Эллинской Республики"
+ GRE_HOS_TITLE_KING: "Василевс"
+ GRE_HOS_TITLE_EMPEROR: "Автократор"
+ 
+ GRE_HOG_TITLE_PM: "Протипургос"
+ GRE_HOG_TITLE_CHANCELLOR: "Архигос"
+ 
+ ICE_HOG_TITLE_PM: "Король"
   
- GRE_HOG_TITLE_PM: "Prothypourgós" #NT!
- GRE_HOG_TITLE_CHANCELLOR: "Archigós" #NT!
+ PM_OR_LEADER: "Нажмите для переключения просмотра: §GКороль§! / §CПремьер-министр§!"
+ KZ_OR_LEADER: "Нажмите для переключения просмотра: §GКайзер§! / §CКанцлер§!"
+ VZ_OR_LEADER: "Нажмите для переключения просмотра: §GЦарь§! / §CВождь§!"
+ BR_OR_LEADER: "Нажмите для переключения просмотра: §GИмператор§! / §CБарон§!"
+ KN_OR_LEADER: "Нажмите для переключения просмотра: §G[SRIGetLeaderTitle]§! / §C[SRIGetPMTitle]§!"
+ CN_OR_LEADER: "Нажмите для переключения просмотра: §GКороль§! / §CКондукэтор§!"
+ RG_OR_LEADER: "Нажмите для переключения просмотра: §GКороль§! / §CРегент§!"
+ RG_OR_KING: "Нажмите для переключения просмотра: §GРегент§! / §CКороль§!"
+ KG_OR_LEADER: "Нажмите для переключения просмотра: §GГенерал-губернатор§! / §CКороль§!"
+ GG_OR_LEADER: "Нажмите для переключения просмотра: §GГенерал-губернатор§! / §CПремьер-министр§!"
+ CC_OR_LEADER: "Нажмите для переключения просмотра: §GСовет§! / §CПредседатель§!"
+ CEO_OR_LEADER: "Нажмите для переключения просмотра: §GCEO§! / §CПрезидент§!"
+ QU_OR_LEADER: "Нажмите для переключения просмотра: §GПрезидент§! / §CКоролева§!"
+ GL_OR_LEADER: "Нажмите для переключения просмотра: §GВеликая ложа§! / §CПрезидент§!"
+ FR_OR_LEADER: "Нажмите для переключения просмотра: §GКороль§! / §C[NORGetLeaderTitle]§!"
+ GN_OR_LEADER: "Нажмите для переключения просмотра: §GГенерал§! / §C[FRAGetLeaderTitle]§!"
+ RB_OR_LEADER: "Нажмите для переключения просмотра: §GБатько§! / §CАнархия§!"
+ KR_OR_HETMAN: "Нажмите для переключения просмотра: §GКороль§! / §CГетман§!"
+ PM_OR_GG: "Нажмите для переключения просмотра: §GПремьер-министр§! / §CШевалье§!"
+ GD_OR_PM: "Нажмите для переключения просмотра: §GВеликая герцогиня§! / §CПремьер-министр§!"
+ KR_OR_CL: "Нажмите для переключения просмотра: §GКайзер§! / §CКанцлер§!"
+ 
+ PM_OR_PR: "Нажмите для переключения просмотра: §GПрезидент§! / §CПремьер-министр§!"
+ VP_LEADER: "Нажмите для переключения просмотра: §GПрезидент§! / §CВице-президент§!"
+ EM_OR_LEADER: "Нажмите для переключения просмотра: §GИмператор§! / §CПремьер-министр§!"
+ BO_OR_LEADER: "Нажмите для переключения просмотра: §GБокор§! / §CПремьер-министр§!"
+ VIZ_OR_SUL: "Нажмите для переключения просмотра: §GСултан§! / §CВеликий визирь§!"
+ EM_OR_PRES: "Нажмите для переключения просмотра: §GИмператор§! / §CПредседатель Ассамблеи§!"
+ EM_OR_CM: "Нажмите для переключения просмотра: §GИмператор§! / §CГлавный министр§!"
+ PR_OR_FC: "Нажмите для переключения просмотра: §GФедеральный совет§! / §CПрезидент§!"
+ VI_OR_PM: "Нажмите для переключения просмотра: §G[DEHGetLeaderTitle]§! / §CПремьер-министр§!"
+ TS_OR_PM: "Нажмите для переключения просмотра: §GЦарь§! / §CПремьер-министр§!"
+ CH_OR_PM: "Нажмите для переключения просмотра: §GЧогьял§! / §CПремьер-министр§!"
+ IMP_OR_NAT: "Нажмите для переключения просмотра: §GНациональный губернатор§! / §CИмперский губернатор§!"
+ SUL_OR_PM: "Нажмите для переключения просмотра: §GСултан§! / §CПремьер-министр§!"
+ DI_OR_DI: "Нажмите для переключения просмотра: §GДиархи§!"
   
- ICE_HOG_TITLE_PM: "King" #NT!
-  
- PM_OR_LEADER: "Click to switch between §GKing§! and §CPrime Minister§! view" #NT!
- KZ_OR_LEADER: "Click to switch between §GKaiser§! and §CKanzler§! view" #NT!
- VZ_OR_LEADER: "Click to switch between §GTsar§! and §CVozhd§! view" #NT!
- BR_OR_LEADER: "Click to switch between §GEmperor§! and §CBaron§! view" #NT!
- KN_OR_LEADER: "Click to switch between §G[SRIGetLeaderTitle]§! and §C[SRIGetPMTitle]§! view" #NT!
- CN_OR_LEADER: "Click to switch between §GKing§! and §CConducâtor§! view" #NT!
- RG_OR_LEADER: "Click to switch between §GKing§! and §CRegent§! view" #NT!
- RG_OR_KING: "Click to switch between §GRegent§! and §CKing§! view" #NT!
- KG_OR_LEADER: "Click to switch between §GGovernor-General§! and §CKing§! view" #NT!
- GG_OR_LEADER: "Click to switch between §GGovernor-General§! and §CPrime Minister§! view" #NT!
- CC_OR_LEADER: "Click to switch between §GCouncil§! and §CChairman§! view" #NT!
- CEO_OR_LEADER: "Click to switch between §GC.E.O.§! and §CPresident§! view" #NT!
- QU_OR_LEADER: "Click to switch between §GPresident§! and §CQueen§! view" #NT!
- GL_OR_LEADER: "Click to switch between §GGrand Lodge§! and §CPresident§! view" #NT!
- FR_OR_LEADER: "Click to switch between §GKing§! and §C[NORGetLeaderTitle]§! view" #NT!
- GN_OR_LEADER: "Click to switch between §GGeneral§! and §C[FRAGetLeaderTitle]§! view" #NT!
- RB_OR_LEADER: "Click to switch between §GBat'ko§! and §CAnarchy§! view" #NT!
- KR_OR_HETMAN: "Click to switch between §GKorol'§! and §CHetman§! view" #NT!
- PM_OR_GG: "Click to switch between §GPrime Minister§! and §CChevalier§! view" #NT!
- GD_OR_PM: "Click to switch between §GGrand Duchess§! and §CPrime Minister§! view" #NT!
- KR_OR_CL: "Click to switch between §GKaiser§! and §CChancellor§! view" #NT!
-  
- PM_OR_PR: "Click to switch between §GPresident§! and §CPrime Minister§! view" #NT!
- VP_LEADER: "Click to switch between §GPresident§! and §CVice-President§! view" #NT!
- EM_OR_LEADER: "Click to switch between §GEmperor§! and §CPrime-Minister§! view" #NT!
- BO_OR_LEADER: "Click to switch between §GBoqor§! and §CPrime-Minister§! view" #NT!
- VIZ_OR_SUL: "Click to switch between §GSultan§! and §CGrand Vizer§! view" #NT!
- EM_OR_PRES: "Click to switch between §GEmperor§! and §CAssembly President§! view" #NT!
- EM_OR_CM: "Click to switch between §GEmperor§! and §CChief Minister§! view" #NT!
- PR_OR_FC: "Click to switch between §GFederal Council§! and §CPresident§! view" #NT!
- VI_OR_PM: "Click to switch between §G[DEHGetLeaderTitle]§! and §CPrime Minister§! view" #NT!
- TS_OR_PM: "Click to switch between §GTsar§! and §CPrime Minister§! view" #NT!
- CH_OR_PM: "Click to switch between §GChogyal§! and §CPrime Minister§! view" #NT!
- IMP_OR_NAT: "Click to switch between §GNational Governor§! and §CImperial Governor§! view" #NT!
- SUL_OR_PM: "Click to switch between §GSultan§! and §CPrime Minister§! view" #NT!
- DI_OR_DI: "Click to switch between §GDiarchs§!" #NT!
-  
- PM_OR_LEADER2: "Prime Minister of [FROM.GetNameWithFlag]" #NT!
- KZ_OR_LEADER2: "Kanzler of [FROM.GetNameWithFlag]" #NT!
- VZ_OR_LEADER2: "Vozhd of [FROM.GetNameWithFlag]" #NT!
- BR_OR_LEADER2: "Baron of [FROM.GetNameWithFlag]" #NT!
- CN_OR_LEADER2: "Conducâtor of [FROM.GetNameWithFlag]" #NT!
- RG_OR_LEADER2: "Regent of [FROM.GetNameWithFlag]" #NT!
- RG_OR_KING2: "King of [FROM.GetNameWithFlag]" #NT!
- KG_OR_LEADER2: "King of [FROM.GetNameWithFlag]" #NT!
- GG_OR_LEADER2: "Prime Minister of [FROM.GetNameWithFlag]" #NT!
- CC_OR_LEADER2: "Chairman of [FROM.GetNameWithFlag]" #NT!
- CEO_OR_LEADER2: "C.E.O. of [FROM.GetNameWithFlag]" #NT!
- QU_OR_LEADER2: "President of [FROM.GetNameWithFlag]" #NT!
- GL_OR_LEADER2: "Grand Lodge of [FROM.GetNameWithFlag]" #NT!
- RB_OR_LEADER2: "Anarchy of [FROM.GetNameWithFlag]" #NT!
- KR_OR_HETMAN2: "Hetman of [FROM.GetNameWithFlag]" #NT!
- PM_OR_GG2: "Prime Minister of [FROM.GetNameWithFlag]" #NT!
- GD_OR_PM2: "Prime Minister of [FROM.GetNameWithFlag]" #NT!
- KR_OR_CL2: "Chancellor of [FROM.GetNameWithFlag]" #NT!
- ES_OR_PM2: "Prime Minister of [FROM.GetNameWithFlag]" #NT!
- NFA_HOG_OR_LEADER2: "Prime Minister of [FROM.GetNameWithFlag]" #NT!
- VP_LEADER2: "Vice-President of [FROM.GetNameWithFlag]" #NT!
- EM_OR_LEADER2: "Prime-Minister of [FROM.GetNameWithFlag]" #NT!
- BO_OR_LEADER2: "Prime-Minister of [FROM.GetNameWithFlag]" #NT!
- VIZ_OR_SUL2: "Grand Vizer of [FROM.GetNameWithFlag]" #NT!
- QU_OR_PM2: "Prime-Minister of [FROM.GetNameWithFlag]" #NT!
- KI_OR_TAO2: "Taoiseach of [FROM.GetNameWithFlag]" #NT!
- DI_OR_DI2: "Diarchs of [FROM.GetNameWithFlag]" #NT!
- EM_OR_PRES2: "Assembly President of [FROM.GetNameWithFlag]" #NT!
- PR_OR_FC2: "President of [FROM.GetNameWithFlag]" #NT!
- EM_OR_CM2: "Chief Minister of [FROM.GetNameWithFlag]" #NT!
- VI_OR_PM2: "Prime Minister of [FROM.GetNameWithFlag]" #NT!
- TS_OR_PM2: "Prime Minister of [FROM.GetNameWithFlag]" #NT!
- CH_OR_PM2: "Prime Minister of [FROM.GetNameWithFlag]" #NT!
- SUL_OR_PM2: "Prime Minister of [FROM.GetNameWithFlag]" #NT!
- IMP_OR_NAT2: "Imperial Governor of [FROM.GetNameWithFlag]" #NT!
- GRE_KING_OR_PM2: "Vasiléfs of [FROM.GetNameWithFlag]" #NT!
- GRE_EM_OR_PM2: "Aftokrátor of [FROM.GetNameWithFlag]" #NT!
+ PM_OR_LEADER2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ KZ_OR_LEADER2: "Канцлер государства [FROM.GetNameWithFlag]"
+ VZ_OR_LEADER2: "Вождь государства [FROM.GetNameWithFlag]"
+ BR_OR_LEADER2: "Барон государства [FROM.GetNameWithFlag]"
+ CN_OR_LEADER2: "Кондукэтор государства [FROM.GetNameWithFlag]"
+ RG_OR_LEADER2: "Регент государства [FROM.GetNameWithFlag]"
+ RG_OR_KING2: "Король государства [FROM.GetNameWithFlag]"
+ KG_OR_LEADER2: "Король государства [FROM.GetNameWithFlag]"
+ GG_OR_LEADER2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ CC_OR_LEADER2: "Председатель государства [FROM.GetNameWithFlag]"
+ CEO_OR_LEADER2: "CEO государства [FROM.GetNameWithFlag]"
+ QU_OR_LEADER2: "Президент государства [FROM.GetNameWithFlag]"
+ GL_OR_LEADER2: "Великая ложа государства [FROM.GetNameWithFlag]"
+ RB_OR_LEADER2: "Анархия государства [FROM.GetNameWithFlag]"
+ KR_OR_HETMAN2: "Гетман государства [FROM.GetNameWithFlag]"
+ PM_OR_GG2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ GD_OR_PM2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ KR_OR_CL2: "Канцлер государства [FROM.GetNameWithFlag]"
+ ES_OR_PM2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ NFA_HOG_OR_LEADER2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ VP_LEADER2: "Вице-президент государства [FROM.GetNameWithFlag]"
+ EM_OR_LEADER2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ BO_OR_LEADER2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ VIZ_OR_SUL2: "Великий визирь государства [FROM.GetNameWithFlag]"
+ QU_OR_PM2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ KI_OR_TAO2: "Тишек государства [FROM.GetNameWithFlag]"
+ DI_OR_DI2: "Диархи государства [FROM.GetNameWithFlag]"
+ EM_OR_PRES2: "Председатель Ассамблеи государства [FROM.GetNameWithFlag]"
+ PR_OR_FC2: "Президент государства [FROM.GetNameWithFlag]"
+ EM_OR_CM2: "Главный министр государства [FROM.GetNameWithFlag]"
+ VI_OR_PM2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ TS_OR_PM2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ CH_OR_PM2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ SUL_OR_PM2: "Премьер-министр государства [FROM.GetNameWithFlag]"
+ IMP_OR_NAT2: "Имперский губернатор государства [FROM.GetNameWithFlag]"
+ GRE_KING_OR_PM2: "Василевс государства [FROM.GetNameWithFlag]"
+ GRE_EM_OR_PM2: "Автократор государства [FROM.GetNameWithFlag]"

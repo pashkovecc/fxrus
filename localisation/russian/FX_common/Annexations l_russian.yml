@@ -15,8 +15,8 @@
  FX_owned_and_controlled_by_ROOT_or_ally_NOT: "is §Rnot§! owned and controlled by §Y[Root.GetNameDef]§! or an ally" #NT!
  new_annexation_decisions_tt: "§YDecisions will appear to decide the fate of the individual regions§!" #NT!
   
- annexation_generic.t: "The Fate of [THIS.GetName]" #NT!
- annexation_generic.d: "The region of [THIS.GetName] is now under our control; thus we must decide what to do with it." #NT!
+ annexation_generic.t: "Судьба региона [THIS.GetName]" #NT!
+ annexation_generic.d: "[THIS.GetName] теперь под нашим контролем, соответственно мы должны решить что дальшеделать с ним." #NT!
  annexation_generic.a: "They shall have their independence" #NT!
  annexation_generic.b: "Release [?tag_for_generic_event_option.GetName] under a friendly government!" #NT!
  annexation_generic.c: "Create a loyal [?tag_for_generic_event_option.GetAdjective] state" #NT!
