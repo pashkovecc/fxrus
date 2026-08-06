@@ -36,9 +36,9 @@
  ALG_valkist_DEF: "Алжирское государство"
   
  ### Cosmetic 
- ALG_ENG_subject: "British North Africa" #NT!
- ALG_ENG_subject_DEF: "British North-African" #NT!
- ALG_ENG_subject_ADJ: "British North Africa" #NT!
- ALG_Mohammed_Saleh_Bendjelloul: "Mohammed Saleh Bendjelloul" #NT!
- ALG_Abdelhamid_Ben_Badis: "Abdelhamid Ben Badis" #NT!
- ALG_Ferhat_Abbas: "Ferhat Abbas" #NT!
+ ALG_ENG_subject: "British North Africa"
+ ALG_ENG_subject_DEF: "British North-African"
+ ALG_ENG_subject_ADJ: "British North Africa"
+ ALG_Mohammed_Saleh_Bendjelloul: "Mohammed Saleh Bendjelloul"
+ ALG_Abdelhamid_Ben_Badis: "Abdelhamid Ben Badis"
+ ALG_Ferhat_Abbas: "Ferhat Abbas"

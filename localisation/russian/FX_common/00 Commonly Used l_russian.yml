@@ -5,103 +5,103 @@
  tooltip_line_break: "\n" #NT!
  tooltip_line_break_2: "$tooltip_line_break$$tooltip_line_break$" #NT!
   
- elections_in_one_months: "§HElections will be held in one month§!" #NT!
- elections_in_three_months: "§HElections will be held in three months§!" #NT!
+ elections_in_one_months: "§HВыборы пройдут через один месяц§!" #NT!
+ elections_in_three_months: "§HВыборы пройдут через три месяца§!" #NT!
   
- characters_will_be_retired: "§RThe following characters will be retired:§!" #NT!
- characters_will_be_recruited: "§GThe following characters will be recruited:§!" #NT!
- character_becomes_a_general: "(Skill [?skill_level]) becomes a General.\nAttributes: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]" #NT!
- character_becomes_a_general_bound: "(Skill $SKILL$) becomes a General.\nAttributes: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$" #NT!
- character_becomes_a_field_marshal: "(Skill [?skill_level]) becomes a Field Marshal.\nAttributes: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]" #NT!
- character_becomes_a_field_marshal_bound: "(Skill $SKILL$) becomes a Field Marshal.\nAttributes: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$" #NT!
- character_becomes_a_naval_commander: "(Skill [?skill_level]) becomes a naval commander.\nAttributes: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]" #NT!
- character_becomes_a_naval_commander_bound: "(Skill $SKILL$) becomes a naval commander.\nAttributes: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$" #NT!
+ characters_will_be_retired: "§RСледующие персонажи уйдут в отставку:§!" #NT!
+ characters_will_be_recruited: "§GСледующие персонажи будут наняты:§!" #NT!
+ character_becomes_a_general: "(Навык [?skill_level]) становится генералом.\nХарактеристики: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]" #NT!
+ character_becomes_a_general_bound: "(Навык $SKILL$) становится генералом.\nХарактеристики: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$" #NT!
+ character_becomes_a_field_marshal: "(Навык [?skill_level]) становится фельдмаршалом.\nХарактеристики: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]" #NT!
+ character_becomes_a_field_marshal_bound: "(Навык $SKILL$) становится фельдмаршалом.\nХарактеристики: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$" #NT!
+ character_becomes_a_naval_commander: "(Навык [?skill_level]) становится адмиралом.\nХарактеристики: £GFX_trait_attack [?attack_level] £GFX_trait_defense [?defense_level] £GFX_trait_planning [?planning_level] £GFX_trait_logistics [?logistics_level]" #NT!
+ character_becomes_a_naval_commander_bound: "(Навык $SKILL$) становится адмиралом.\nХарактеристики: £GFX_trait_attack $ATTACK$ £GFX_trait_defense $DEFENSE$ £GFX_trait_planning $PLANNING$ £GFX_trait_logistics $LOGISTICS$" #NT!
   
- unlock_focuses: "§GThis focus will eventually be automatically bypassed and will unlock the other focuses§!" #NT!
- tooltip_focus_unlocked_by_event: "§GThis focus will be automatically unlocked via event§!" #NT!
- enables_new_focus_branches: "§GEnables new focus branches.§!" #NT!
- unlocks_new_focuses: "§GNew national focuses will be unlocked.§!" #NT!
+ unlock_focuses: "§GЭтот фокус в конечном итоге будет автоматически пропущен и разблокирует остальные фокусы§!" #NT!
+ tooltip_focus_unlocked_by_event: "§GЭтот фокус будет автоматически разблокирован по событию§!" #NT!
+ enables_new_focus_branches: "§GОткрывает новые ветви фокусов.§!" #NT!
+ unlocks_new_focuses: "§GБудут разблокированы новые национальные фокусы.§!" #NT!
   
- merge_national_spirits: "The previously gained §YNational Spirits§! will be merged into a §Gmore powerful§! one!" #NT!
- merge_national_spirits_new: "This will merge several §YNational Spirits§! into one stronger §YNational Spirit!§!\n\n" #NT!
- apply_one_of_effects_depending_on_ruling_party: "§gApply one of the following effects depending on our current ruling party:§!" #NT!
+ merge_national_spirits: "Ранее полученные §Yнациональные духи§! будут объединены в один §Gболее сильный§!" #NT!
+ merge_national_spirits_new: "Это объединит несколько §Yнациональных духов§! в один, более сильный §Yнациональный дух!§!\n\n" #NT!
+ apply_one_of_effects_depending_on_ruling_party: "§gПрименяет один из следующих эффектов в зависимости от нашей текущей правящей партии:§!" #NT!
   
- will_get_event_with_effects: "\n§YEffects on [This.GetName]:§!" #NT!
- immediate_effect_upon_focus_start: "§YImmediate effect upon focus start:§!\n" #NT!
- effect_upon_focus_completion: "\n§GEffect upon focus completion:§!\n" #NT!
- apply_one_of_effects_depending_on_ideas: "§gApply one of the following effects depending on our current National Spirits:§!" #NT!
- apply_one_of_effects_depending_on_event_choice: "§gApply one of the following effects depending on our choice in a previous Event:§!" #NT!
- event_choice_tt: "§CEvent Choice§!: " #NT!
- has_completed_focus: "Has completed focus §H" #NT!
- gets_event_start: "Gets event '§H" #NT!
+ will_get_event_with_effects: "\n§YЭффекты для [This.GetName]:§!" #NT!
+ immediate_effect_upon_focus_start: "§YНемедленный эффект при начале фокуса:§!\n" #NT!
+ effect_upon_focus_completion: "\n§GЭффект по завершении фокуса:§!\n" #NT!
+ apply_one_of_effects_depending_on_ideas: "§gПрименяет один из следующих эффектов в зависимости от наших текущих национальных духов:§!" #NT!
+ apply_one_of_effects_depending_on_event_choice: "§gПрименяет один из следующих эффектов в зависимости от нашего выбора в предыдущем событии:§!" #NT!
+ event_choice_tt: "§CВыбор в событии§!: " #NT!
+ has_completed_focus: "Завершен фокус §H" #NT!
+ gets_event_start: "Получает событие '§H" #NT!
  gets_event_end: "§!'." #NT!
- while_mission_is_active: "§YWhile this mission is active:§!\n" #NT!
- upgrade_effect_tooltip: "§CThe previous national spirits will be merged into a new more powerful one.§!" #NT!
- focus_effect_varies: "Focus reward depends on what prerequesite focus taken" #NT!
+ while_mission_is_active: "§YПока это задание активно:§!\n" #NT!
+ upgrade_effect_tooltip: "§CПредыдущие национальные духи будут объединены в новый, более сильный.§!" #NT!
+ focus_effect_varies: "Награда за фокус зависит от того, какой предварительный фокус был взят" #NT!
   
- increase_state_category_by_one_level_tt: "This provides §G1§! additional base building slot.\n" #NT!
- increase_state_category_by_two_levels_tt: "This provides §G2§! additional base building slots.\n" #NT!
- decrease_state_category_by_one_level_tt: "This §Rremoves§! a building slot from the state.\n" #NT!
+ increase_state_category_by_one_level_tt: "Дает §G1§! дополнительную базовую ячейку для строительства.\n" #NT!
+ increase_state_category_by_two_levels_tt: "Дает §G2§! дополнительные базовые ячейки для строительства.\n" #NT!
+ decrease_state_category_by_one_level_tt: "Это §Rудаляет§! одну ячейку для строительства из региона.\n" #NT!
   
- has_completed_decision: "Has completed decision £decision_icon_small $DECISION|H$" #NT!
- has_completed_decision_NOT: "Has not completed decision £decision_icon_small $DECISION|H$" #NT!
+ has_completed_decision: "Выполнено решение £decision_icon_small $DECISION|H$" #NT!
+ has_completed_decision_NOT: "Не выполнено решение £decision_icon_small $DECISION|H$" #NT!
   
- has_completed_decision_in_focus: "$has_completed_decision$ in focus $FOCUS|H$" #NT!
- has_completed_decision_in_focus_NOT: "$has_completed_decision_NOT$ in focus $FOCUS|H$" #NT!
+ has_completed_decision_in_focus: "$has_completed_decision$ в фокусе $FOCUS|H$" #NT!
+ has_completed_decision_in_focus_NOT: "$has_completed_decision_NOT$ в фокусе $FOCUS|H$" #NT!
   
- has_completed_decision_in_focus_2: "$has_completed_decision$ in focus $FOCUS|H$ or focus $FOCUS_2|H$" #NT!
- has_completed_decision_in_focus_2_NOT: "$has_completed_decision_NOT$ in focus $FOCUS|H$ or focus $FOCUS_2|H$" #NT!
+ has_completed_decision_in_focus_2: "$has_completed_decision$ в фокусе $FOCUS|H$ или фокусе $FOCUS_2|H$" #NT!
+ has_completed_decision_in_focus_2_NOT: "$has_completed_decision_NOT$ в фокусе $FOCUS|H$ или фокусе $FOCUS_2|H$" #NT!
   
- tooltip_unlock_decisions_to: "Unlocks $NAME|Y$ decisions to $EFFECT$." #NT!
+ tooltip_unlock_decisions_to: "Открывает решения $NAME|Y$: $EFFECT$." #NT!
   
- tooltip_create_division_template: "Create $NAME|Y$ template, which has the following composition:$LINE_1$$LINE_2$$LINE_3$$LINE_4$$LINE_5$$LINE_6$$LINE_7$$LINE_8$$LINE_9$$LINE_10$$SUPPORT_1$$SUPPORT_2$$SUPPORT_3$$SUPPORT_4$$SUPPORT_5$[GetTemplateDeletionWarning]" #NT!
- division_template_deletion_warning: "\nAny existing templates with the same name will be §Rdisbanded§!, refunding all manpower and equipment." #NT!
- line_battalion_tt: "\n£indent £$ICON$ §Y$COUNT$ $NAME$§! line battalions" #NT!
+ tooltip_create_division_template: "Создает шаблон $NAME|Y$ со следующим составом:$LINE_1$$LINE_2$$LINE_3$$LINE_4$$LINE_5$$LINE_6$$LINE_7$$LINE_8$$LINE_9$$LINE_10$$SUPPORT_1$$SUPPORT_2$$SUPPORT_3$$SUPPORT_4$$SUPPORT_5$[GetTemplateDeletionWarning]" #NT!
+ division_template_deletion_warning: "\nЛюбые существующие шаблоны с таким же названием будут §Rрасформированы§! с возвратом всех людских ресурсов и снаряжения." #NT!
+ line_battalion_tt: "\n£indent £$ICON$ §Y$COUNT$ $NAME$§! (линейные батальоны)" #NT!
  support_battalion_tt: "\n£indent £$ICON$ §Y$NAME$§!" #NT!
   
  # Tooltips 
- kill_character_tt: "dies." #NT!
+ kill_character_tt: "умирает." #NT!
   
- is_economic_minister_tt: "is the §YEconomic Minister§!" #NT!
- is_economic_minister_tt_NOT: "is §rnot§! the §YEconomic Minister§!" #NT!
+ is_economic_minister_tt: "является §Yминистром экономики§!" #NT!
+ is_economic_minister_tt_NOT: "§rне§! является §Yминистром экономики§!" #NT!
   
- is_foreign_minister_tt: "is the §CForeign Minister§!" #NT!
- is_foreign_minister_tt_NOT: "is §rnot§! the §CForeign Minister§!" #NT!
+ is_foreign_minister_tt: "является §Cминистром иностранных дел§!" #NT!
+ is_foreign_minister_tt_NOT: "§rне§! является §Cминистром иностранных дел§!" #NT!
   
- is_security_minister_tt: "is the §LSecurity Minister§!" #NT!
- is_security_minister_tt_NOT: "is §rnot§! the §LSecurity Minister§!" #NT!
+ is_security_minister_tt: "является §Lминистром безопасности§!" #NT!
+ is_security_minister_tt_NOT: "§rне§! является §Lминистром безопасности§!" #NT!
   
- is_head_of_government_tt: "is the §SHead of Government§!" #NT!
- is_head_of_government_tt_NOT: "is §rnot§! the §SHead of Government§!" #NT!
+ is_head_of_government_tt: "является §Sглавой правительства§!" #NT!
+ is_head_of_government_tt_NOT: "§rне§! является §Sглавой правительства§!" #NT!
   
- opinion_based_chance_tt: "§g§H[THIS.GetNameDefCap]§!'s likelihood of agreeing is based on their §WOpinion§! of §H[ROOT.GetNameDef]§!.§!" #NT!
+ opinion_based_chance_tt: "§gВероятность согласия страны §H[THIS.GetNameDefCap]§! зависит от ее §Wотношения§! к стране §H[ROOT.GetNameDef]§!.§!" #NT!
   
- option_decision_tt: "§GThis option is available because of a §YDecision§! we took§!." #NT!
- option_focus_tt: "§GThis option is available because of a §YNational Focus§! we completed§!." #NT!
- option_idea_tt: "§GThis option is available because of one of our §YIdeas§!§!." #NT!
- option_ideology_tt: "§GThis option is available because of our §YRuling Party§!§!." #NT!
+ option_decision_tt: "§GЭтот вариант доступен благодаря принятому нами §Yрешению§!.§!" #NT!
+ option_focus_tt: "§GЭтот вариант доступен благодаря завершенному §Yнациональному фокусу§!.§!" #NT!
+ option_idea_tt: "§GЭтот вариант доступен благодаря одной из наших §Yидей§!.§!" #NT!
+ option_ideology_tt: "§GЭтот вариант доступен благодаря нашей §Yправящей партии§!.§!" #NT!
   
- option_leader_tt: "§GThis option is available because of our §YCountry Leader§!§!." #NT!
- option_head_of_government_tt: "§GThis option is available because of our §YHead of Government§!§!." #NT!
- option_minister_foreign_tt: "§GThis option is available because of our §YForeign Minister§!§!." #NT!
- option_minister_economic_tt: "§GThis option is available because of our §YEconomic Minister§!§!." #NT!
- option_minister_security_tt: "§GThis option is available because of our §YSecurity Minister§!§!." #NT!
+ option_leader_tt: "§GЭтот вариант доступен благодаря нашему §Yлидеру страны§!.§!" #NT!
+ option_head_of_government_tt: "§GЭтот вариант доступен благодаря нашему §Yглаве правительства§!.§!" #NT!
+ option_minister_foreign_tt: "§GЭтот вариант доступен благодаря нашему §Yминистру иностранных дел§!.§!" #NT!
+ option_minister_economic_tt: "§GЭтот вариант доступен благодаря нашему §Yминистру экономики§!.§!" #NT!
+ option_minister_security_tt: "§GЭтот вариант доступен благодаря нашему §Yминистру безопасности§!.§!" #NT!
   
  # Ideas 
- after_idea_expires: "After the National Spirit expires:" #NT!
+ after_idea_expires: "После того как национальный дух исчезнет:" #NT!
   
  # Modifier Tooltips 
- cannot_enact_conscription_tt: "§RCannot increase conscription laws.§!" #NT!
- cannot_train_units_tt: "§RCannot train units, disband units, or edit unit templates.§!" #NT!
- cannot_mobilise_tt: "§RCannot increase conscription or mobilisation laws.§!" #NT!
- cannot_build_armour_tt: "§RCannot produce armour.§!" #NT!
- cannot_build_aircraft_tt: "§RCannot produce aircraft.§!" #NT!
- cannot_build_ships_tt: "§RCannot produce ships.§!" #NT!
- cannot_build_armor_aircraft_tt: "§RCannot produce armour or aircraft.§!" #NT!
- cannot_build_armor_ships_tt: "§RCannot produce armour or ships.§!" #NT!
- cannot_build_aircraft_ships_tt: "§RCannot produce aircraft or ships.§!" #NT!
- cannot_build_anything_tt: "§RCannot produce armour, aircraft or ships.§!" #NT!
- cannot_produce_armor_and_aircraft: "§RCannot produce armor or aircraft.§!" #NT!
+ cannot_enact_conscription_tt: "§RНельзя ужесточить законы о призыве.§!" #NT!
+ cannot_train_units_tt: "§RНельзя обучать и расформировывать дивизии, а также изменять шаблоны.§!" #NT!
+ cannot_mobilise_tt: "§RНельзя ужесточить законы о призыве или мобилизации экономики.§!" #NT!
+ cannot_build_armour_tt: "§RНельзя производить бронетехнику.§!" #NT!
+ cannot_build_aircraft_tt: "§RНельзя производить авиацию.§!" #NT!
+ cannot_build_ships_tt: "§RНельзя производить корабли.§!" #NT!
+ cannot_build_armor_aircraft_tt: "§RНельзя производить бронетехнику и авиацию.§!" #NT!
+ cannot_build_armor_ships_tt: "§RНельзя производить бронетехнику и корабли.§!" #NT!
+ cannot_build_aircraft_ships_tt: "§RНельзя производить авиацию и корабли.§!" #NT!
+ cannot_build_anything_tt: "§RНельзя производить бронетехнику, авиацию и корабли.§!" #NT!
+ cannot_produce_armor_and_aircraft: "§RНельзя производить бронетехнику или авиацию.§!" #NT!
  closed_economy_TT: "Никакие ресурсы экспортироваться не будут.\n\n"
   
   
@@ -112,66 +112,66 @@
  volunteer_limit_plus_hundred_percent_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?0.1|+=%1]" #NT!
   
  # Custom Modifiers 
- offmap_military_factories_tooltip: "Offmap Military Factories" #NT!
- offmap_civilian_factories_tooltip: "Offmap Civilian Factories" #NT!
- offmap_dockyards_tooltip: "Offmap Dockyards" #NT!
- daily_popularity_drift: "Daily Ruling Party Support" #NT!
- daily_non_ruling_popularity_drift: "Daily Non-Ruling Party Support" #NT!
- cic_from_target_factor_tooltip: "Civilian industry from target country" #NT!
- mic_from_target_factor_tooltip: "Military industry from target country" #NT!
+ offmap_military_factories_tooltip: "Внекарточные военные заводы" #NT!
+ offmap_civilian_factories_tooltip: "Внекарточные фабрики" #NT!
+ offmap_dockyards_tooltip: "Внекарточные верфи" #NT!
+ daily_popularity_drift: "Ежедневная поддержка правящей партии" #NT!
+ daily_non_ruling_popularity_drift: "Ежедневная поддержка неправящих партий" #NT!
+ cic_from_target_factor_tooltip: "Фабрики от целевой страны" #NT!
+ mic_from_target_factor_tooltip: "Военные заводы от целевой страны" #NT!
   
   
  ### Bindable Localisation ### 
- tooltip_unlock_focus: "Unlocks the national focus $FOCUS|Y$." #NT!
- tooltip_unlock_two_focuses: "Unlocks the national focuses $FOCUS1|Y$ and $FOCUS2|Y$." #NT!
- tooltip_if_focus_completed: "§CIf $FOCUS|Y$ was completed:§!" #NT!
- tooltip_if_focus_not_completed: "§CIf $FOCUS|Y$ was §RNOT§! completed:§!" #NT!
- tooltip_if_two_foci_completed: "§CIf $FOCUS1|Y$ or $FOCUS2|Y$ were completed:§!" #NT!
- tooltip_if_two_foci_not_completed: "§CIf $FOCUS1|Y$ and $FOCUS2|Y$ were §RNOT§! completed:§!" #NT!
- tooltip_extra_effect_from_focus_completion: "§CExtra Effect from completion of $FOCUS|Y$:§!" #NT!
- tooltip_if_country_completed_focus: "§CIf $COUNTRY|Y$ has completed $FOCUS|Y$:§!" #NT!
- tooltip_if_country_not_completed_focus: "§CIf $COUNTRY|Y$ has §RNOT§! completed $FOCUS|Y$:§!" #NT!
+ tooltip_unlock_focus: "Открывает национальный фокус $FOCUS|Y$." #NT!
+ tooltip_unlock_two_focuses: "Открывает национальные фокусы $FOCUS1|Y$ и $FOCUS2|Y$." #NT!
+ tooltip_if_focus_completed: "§CЕсли завершен фокус $FOCUS|Y$:§!" #NT!
+ tooltip_if_focus_not_completed: "§CЕсли фокус $FOCUS|Y$ §RНЕ§! завершен:§!" #NT!
+ tooltip_if_two_foci_completed: "§CЕсли завершен фокус $FOCUS1|Y$ или $FOCUS2|Y$:§!" #NT!
+ tooltip_if_two_foci_not_completed: "§CЕсли фокусы $FOCUS1|Y$ и $FOCUS2|Y$ §RНЕ§! завершены:§!" #NT!
+ tooltip_extra_effect_from_focus_completion: "§CДополнительный эффект от завершения фокуса $FOCUS|Y$:§!" #NT!
+ tooltip_if_country_completed_focus: "§CЕсли страна $COUNTRY|Y$ завершила фокус $FOCUS|Y$:§!" #NT!
+ tooltip_if_country_not_completed_focus: "§CЕсли страна $COUNTRY|Y$ §RНЕ§! завершила фокус $FOCUS|Y$:§!" #NT!
   
- tooltip_has_national_spirit: "Has national spirit $IDEA|Y$" #NT!
- tooltip_has_national_spirit_NOT: "Does not have national spirit $IDEA|Y$" #NT!
+ tooltip_has_national_spirit: "Имеет национальный дух $IDEA|Y$" #NT!
+ tooltip_has_national_spirit_NOT: "Не имеет национального духа $IDEA|Y$" #NT!
   
- tooltip_if_national_spirit_is_active: "§CIf $IDEA|Y$ is currently active:§!" #NT!
- tooltip_available_if_not_at_war_with: "§CAvailable only if we are §Rnot§! at war with $COUNTRY|Y$.§!" #NT!
+ tooltip_if_national_spirit_is_active: "§CЕсли в данный момент активен дух $IDEA|Y$:§!" #NT!
+ tooltip_available_if_not_at_war_with: "§CДоступно только в том случае, если мы §Rне§! находимся в состоянии войны со страной $COUNTRY|Y$.§!" #NT!
   
- tooltip_change_law_to: "Change $CATEGORY$ to '$LAW|Y$' which grants:" #NT!
+ tooltip_change_law_to: "Изменяет закон в категории «$CATEGORY$» на «$LAW|Y$», что дает:" #NT!
   
- tooltip_if_political_advisor_is_hired: "§CIf $ADVISOR|Y$ is hired as a §YPolitical Advisor§!:§!" #NT!
- tooltip_improves_advisor_trait: "§GImproves§! the trait of $ADVISOR|Y$:" #NT!
- tooltip_disable_political_advisor: "§R$ADVISOR|Y$ will no longer be available as a §YPolitical Advisor§!§!" #NT!
+ tooltip_if_political_advisor_is_hired: "§CЕсли $ADVISOR|Y$ нанят как §Yполитический советник§!:§!" #NT!
+ tooltip_improves_advisor_trait: "§GУлучшает§! черту советника $ADVISOR|Y$:" #NT!
+ tooltip_disable_political_advisor: "§R$ADVISOR|Y$ больше не будет доступен как §Yполитический советник§!§!" #NT!
   
- tooltip_has_tech: "Has researched $TECH|Y$" #NT!
- tooltip_has_tech_detailed: "Has researched $NAME|Y$ ($TECH|Y$)" #NT!
- tooltip_add_tech: "Add technology: $TECH|Y$." #NT!
- tooltip_add_tech_detailed: "Add technology: $NAME|Y$ ($TECH|Y$)." #NT!
- tooltip_enable_hidden_tech: "Enables $TECH|Y$\n$EFFECT$" #NT!
+ tooltip_has_tech: "Исследовано: $TECH|Y$" #NT!
+ tooltip_has_tech_detailed: "Исследовано: $NAME|Y$ ($TECH|Y$)" #NT!
+ tooltip_add_tech: "Добавляет технологию: $TECH|Y$." #NT!
+ tooltip_add_tech_detailed: "Добавляет технологию: $NAME|Y$ ($TECH|Y$)." #NT!
+ tooltip_enable_hidden_tech: "Открывает $TECH|Y$\n$EFFECT$" #NT!
   
- tooltip_add_dynmod: "Add $DYNMOD|Y$ which grants:" #NT!
+ tooltip_add_dynmod: "Добавляет $DYNMOD|Y$, что дает:" #NT!
   
- tooltip_modify_dynmod: "Modify $DYNMOD|Y$ by" #NT!
- tooltip_modify_two_dynmods: "Modify $DYNMOD1|Y$ or $DYNMOD2|Y$ by" #NT!
- tooltip_modify_three_dynmods: "Modify $DYNMOD1|Y$, $DYNMOD2|Y$ or $DYNMOD3|Y$ by" #NT!
- tooltip_modify_four_dynmods: "Modify $DYNMOD1|Y$, $DYNMOD2|Y$, $DYNMOD3|Y$ or $DYNMOD4|Y$ by" #NT!
+ tooltip_modify_dynmod: "Изменяет $DYNMOD|Y$ на" #NT!
+ tooltip_modify_two_dynmods: "Изменяет $DYNMOD1|Y$ или $DYNMOD2|Y$ на" #NT!
+ tooltip_modify_three_dynmods: "Изменяет $DYNMOD1|Y$, $DYNMOD2|Y$ или $DYNMOD3|Y$ на" #NT!
+ tooltip_modify_four_dynmods: "Изменяет $DYNMOD1|Y$, $DYNMOD2|Y$, $DYNMOD3|Y$ или $DYNMOD4|Y$ на" #NT!
   
- tooltip_enable_spirit: "Enables $IDEA|Y$ as our $SPIRIT|Y$ which gives the following effects:\n  $MODIFIER$" #NT!
+ tooltip_enable_spirit: "Открывает $IDEA|Y$ в качестве нашего $SPIRIT|Y$, что дает следующие эффекты:\n  $MODIFIER$" #NT!
   
- tooltip_spawn_units: "Create $COUNT|Y$ $TYPE|Y$ divisions.\n" #NT!
- tooltip_spawn_unit: "Create a $TYPE|Y$ division.\n" #NT!
+ tooltip_spawn_units: "Создает дивизии ($TYPE|Y$) в количестве: $COUNT|Y$.\n" #NT!
+ tooltip_spawn_unit: "Создает дивизию: $TYPE|Y$.\n" #NT!
   
  tooltip_yellow_text: "$TEXT|Y$" #NT!
  tooltip_red_text: "$TEXT|R$" #NT!
  tooltip_green_text: "$TEXT|E$" #NT!
   
- tooltip_in_days: "In $DAYS|Y0$ days:" #NT!
- tooltip_after_days: "After $DAYS|Y0$ days:" #NT!
+ tooltip_in_days: "Через $DAYS|Y0$ дн.:" #NT!
+ tooltip_after_days: "Спустя $DAYS|Y0$ дн.:" #NT!
   
- tooltip_available_scientist: "$CHARACTER|Y$ becomes available as a §GScientist§!." #NT!
+ tooltip_available_scientist: "$CHARACTER|Y$ становится доступен как §Gученый§!." #NT!
   
- mission_will_have: "We will begin a mission, which we have $DAYS|Y$ days to complete by doing the following:" #NT!
+ mission_will_have: "Мы начнем задание, на выполнение которого у нас есть $DAYS|Y$ дн. Для этого нужно сделать следующее:" #NT!
   
  stability_weekly_tt: " $MODIFIER_STABILITY_WEEKLY$: $RIGHT|+=%1$" #NT!
  war_support_weekly_tt: " $MODIFIER_WAR_SUPPORT_WEEKLY$: $RIGHT|+=%1$" #NT!
@@ -180,278 +180,278 @@
   
  # Companies - MIOs 
   
- improves_designer_tt: "§GImproves§! §YDesign Company§!:" #NT!
- improves_industrial_concern_tt: "§GImproves§! §YIndustrial Concern§!:" #NT!
- improves_mio_tt: "§GImproves§! §YIndustrial Military Organization§!:" #NT!
- immediately_activate_tt: "and immediately activates it." #NT!
+ improves_designer_tt: "§GУлучшает§! §Yконструкторское бюро§!:" #NT!
+ improves_industrial_concern_tt: "§GУлучшает§! §Yпромышленный концерн§!:" #NT!
+ improves_mio_tt: "§GУлучшает§! §Yвоенно-промышленную организацию§!:" #NT!
+ immediately_activate_tt: "и немедленно активирует его." #NT!
   
- add_equipment_to_stockpile_tt: "$UNITS|Y$ units of $EQUIPMENT|Y$ is added to the national stockpile." #NT!
+ add_equipment_to_stockpile_tt: "$UNITS|Y$ ед. снаряжения «$EQUIPMENT|Y$» добавляется на склады." #NT!
   
- MIO_more_than_X_funds: "§Y[THIS.GetName]§! has at least $FUNDS$ §YFunds§!" #NT!
+ MIO_more_than_X_funds: "§Y[THIS.GetName]§! имеет как минимум $FUNDS$ §Yсредств§!" #NT!
   
  # Government 
- FX_approves_of_govt: "Approves of Government" #NT!
- FX_disapproves_of_govt: "Disapproves of Government" #NT!
+ FX_approves_of_govt: "Одобряет правительство" #NT!
+ FX_disapproves_of_govt: "Не одобряет правительство" #NT!
   
  # Custom Cost Tooltips (for decisions) 
  # Command Power 
  CP_5: "£command_power §H5§!" #NT!
  CP_5_blocked: "£command_power §R5§!" #NT!
- CP_5_tooltip: "It costs $CP_5_blocked$ to take the decision" #NT!
+ CP_5_tooltip: "Для принятия решения требуется $CP_5_blocked$" #NT!
  CP_10: "£command_power §H10§!" #NT!
  CP_10_blocked: "£command_power §R10§!" #NT!
- CP_10_tooltip: "It costs $CP_10_blocked$ to take the decision" #NT!
+ CP_10_tooltip: "Для принятия решения требуется $CP_10_blocked$" #NT!
  CP_15: "£command_power §H15§!" #NT!
  CP_15_blocked: "£command_power §R15§!" #NT!
- CP_15_tooltip: "It costs $CP_15_blocked$ to take the decision" #NT!
+ CP_15_tooltip: "Для принятия решения требуется $CP_15_blocked$" #NT!
  CP_20: "£command_power §H20§!" #NT!
  CP_20_blocked: "£command_power §R20§!" #NT!
- CP_20_tooltip: "It costs $CP_20_blocked$ to take the decision" #NT!
+ CP_20_tooltip: "Для принятия решения требуется $CP_20_blocked$" #NT!
  CP_25: "£command_power §H25§!" #NT!
  CP_25_blocked: "£command_power §R25§!" #NT!
- CP_25_tooltip: "It costs $CP_25_blocked$ to take the decision" #NT!
+ CP_25_tooltip: "Для принятия решения требуется $CP_25_blocked$" #NT!
  CP_30: "£command_power §H30§!" #NT!
  CP_30_blocked: "£command_power §R30§!" #NT!
- CP_30_tooltip: "It costs $CP_30_blocked$ to take the decision" #NT!
+ CP_30_tooltip: "Для принятия решения требуется $CP_30_blocked$" #NT!
  CP_35: "£command_power §H35§!" #NT!
  CP_35_blocked: "£command_power §R35§!" #NT!
- CP_35_tooltip: "It costs $CP_35_blocked$ to take the decision" #NT!
+ CP_35_tooltip: "Для принятия решения требуется $CP_35_blocked$" #NT!
  CP_40: "£command_power §H40§!" #NT!
  CP_40_blocked: "£command_power §R40§!" #NT!
- CP_40_tooltip: "It costs $CP_40_blocked$ to take the decision" #NT!
+ CP_40_tooltip: "Для принятия решения требуется $CP_40_blocked$" #NT!
  CP_45: "£command_power §H45§!" #NT!
  CP_45_blocked: "£command_power §R45§!" #NT!
- CP_45_tooltip: "It costs $CP_45_blocked$ to take the decision" #NT!
+ CP_45_tooltip: "Для принятия решения требуется $CP_45_blocked$" #NT!
  CP_50: "£command_power §H50§!" #NT!
  CP_50_blocked: "£command_power §R50§!" #NT!
- CP_50_tooltip: "It costs $CP_50_blocked$ to take the decision" #NT!
+ CP_50_tooltip: "Для принятия решения требуется $CP_50_blocked$" #NT!
  CP_55: "£command_power §H55§!" #NT!
  CP_55_blocked: "£command_power §R55§!" #NT!
- CP_55_tooltip: "It costs $CP_55_blocked$ to take the decision" #NT!
+ CP_55_tooltip: "Для принятия решения требуется $CP_55_blocked$" #NT!
  CP_60: "£command_power §H60§!" #NT!
  CP_60_blocked: "£command_power §R60§!" #NT!
- CP_60_tooltip: "It costs $CP_60_blocked$ to take the decision" #NT!
+ CP_60_tooltip: "Для принятия решения требуется $CP_60_blocked$" #NT!
  CP_65: "£command_power §H65§!" #NT!
  CP_65_blocked: "£command_power §R65§!" #NT!
- CP_65_tooltip: "It costs $CP_65_blocked$ to take the decision" #NT!
+ CP_65_tooltip: "Для принятия решения требуется $CP_65_blocked$" #NT!
  CP_70: "£command_power §H70§!" #NT!
  CP_70_blocked: "£command_power §R70§!" #NT!
- CP_70_tooltip: "It costs $CP_70_blocked$ to take the decision" #NT!
+ CP_70_tooltip: "Для принятия решения требуется $CP_70_blocked$" #NT!
  CP_75: "£command_power §H75§!" #NT!
  CP_75_blocked: "£command_power §R75§!" #NT!
- CP_75_tooltip: "It costs $CP_75_blocked$ to take the decision" #NT!
+ CP_75_tooltip: "Для принятия решения требуется $CP_75_blocked$" #NT!
  CP_80: "£command_power §H80§!" #NT!
  CP_80_blocked: "£command_power §R80§!" #NT!
- CP_80_tooltip: "It costs $CP_80_blocked$ to take the decision" #NT!
+ CP_80_tooltip: "Для принятия решения требуется $CP_80_blocked$" #NT!
  CP_85: "£command_power §H85§!" #NT!
  CP_85_blocked: "£command_power §R85§!" #NT!
- CP_85_tooltip: "It costs $CP_85_blocked$ to take the decision" #NT!
+ CP_85_tooltip: "Для принятия решения требуется $CP_85_blocked$" #NT!
  CP_90: "£command_power §H90§!" #NT!
  CP_90_blocked: "£command_power §R90§!" #NT!
- CP_90_tooltip: "It costs $CP_90_blocked$ to take the decision" #NT!
+ CP_90_tooltip: "Для принятия решения требуется $CP_90_blocked$" #NT!
  CP_95: "£command_power §H95§!" #NT!
  CP_95_blocked: "£command_power §R95§!" #NT!
- CP_95_tooltip: "It costs $CP_95_blocked$ to take the decision" #NT!
+ CP_95_tooltip: "Для принятия решения требуется $CP_95_blocked$" #NT!
  CP_100: "£command_power §H100§!" #NT!
  CP_100_blocked: "£command_power §R100§!" #NT!
- CP_100_tooltip: "It costs $CP_100_blocked$ to take the decision" #NT!
+ CP_100_tooltip: "Для принятия решения требуется $CP_100_blocked$" #NT!
   
  # Command Power & Political Power 
  CP_80_PP_20: "£command_power §H80§! £pol_power §H20§!" #NT!
  CP_80_PP_20_blocked: "£command_power §R80§! £pol_power §R20§!" #NT!
- CP_80_PP_20_tooltip: "It costs $CP_80_PP_20_blocked$ to take the decision" #NT!
+ CP_80_PP_20_tooltip: "Для принятия решения требуется $CP_80_PP_20_blocked$" #NT!
   
  # Army Experience 
  army_xp_5: "£army_experience §H5§!" #NT!
  army_xp_5_blocked: "£army_experience §R5§!" #NT!
- army_xp_5_tooltip: "It costs $army_xp_5_blocked$ to take the decision" #NT!
+ army_xp_5_tooltip: "Для принятия решения требуется $army_xp_5_blocked$" #NT!
  army_xp_10: "£army_experience §H10§!" #NT!
  army_xp_10_blocked: "£army_experience §R10§!" #NT!
- army_xp_10_tooltip: "It costs $army_xp_10_blocked$ to take the decision" #NT!
+ army_xp_10_tooltip: "Для принятия решения требуется $army_xp_10_blocked$" #NT!
  army_xp_15: "£army_experience §H15§!" #NT!
  army_xp_15_blocked: "£army_experience §R15§!" #NT!
- army_xp_15_tooltip: "It costs $army_xp_15_blocked$ to take the decision" #NT!
+ army_xp_15_tooltip: "Для принятия решения требуется $army_xp_15_blocked$" #NT!
  army_xp_20: "£army_experience §H20§!" #NT!
  army_xp_20_blocked: "£army_experience §R20§!" #NT!
- army_xp_20_tooltip: "It costs $army_xp_20_blocked$ to take the decision" #NT!
+ army_xp_20_tooltip: "Для принятия решения требуется $army_xp_20_blocked$" #NT!
  army_xp_25: "£army_experience §H25§!" #NT!
  army_xp_25_blocked: "£army_experience §R25§!" #NT!
- army_xp_25_tooltip: "It costs $army_xp_25_blocked$ to take the decision" #NT!
+ army_xp_25_tooltip: "Для принятия решения требуется $army_xp_25_blocked$" #NT!
  army_xp_30: "£army_experience §H30§!" #NT!
  army_xp_30_blocked: "£army_experience §R30§!" #NT!
- army_xp_30_tooltip: "It costs $army_xp_30_blocked$ to take the decision" #NT!
+ army_xp_30_tooltip: "Для принятия решения требуется $army_xp_30_blocked$" #NT!
  army_xp_35: "£army_experience §H35§!" #NT!
  army_xp_35_blocked: "£army_experience §R35§!" #NT!
- army_xp_35_tooltip: "It costs $army_xp_35_blocked$ to take the decision" #NT!
+ army_xp_35_tooltip: "Для принятия решения требуется $army_xp_35_blocked$" #NT!
  army_xp_40: "£army_experience §H40§!" #NT!
  army_xp_40_blocked: "£army_experience §R40§!" #NT!
- army_xp_40_tooltip: "It costs $army_xp_40_blocked$ to take the decision" #NT!
+ army_xp_40_tooltip: "Для принятия решения требуется $army_xp_40_blocked$" #NT!
  army_xp_45: "£army_experience §H45§!" #NT!
  army_xp_45_blocked: "£army_experience §R45§!" #NT!
- army_xp_45_tooltip: "It costs $army_xp_45_blocked$ to take the decision" #NT!
+ army_xp_45_tooltip: "Для принятия решения требуется $army_xp_45_blocked$" #NT!
  army_xp_50: "£army_experience §H50§!" #NT!
  army_xp_50_blocked: "£army_experience §R50§!" #NT!
- army_xp_50_tooltip: "It costs $army_xp_50_blocked$ to take the decision" #NT!
+ army_xp_50_tooltip: "Для принятия решения требуется $army_xp_50_blocked$" #NT!
  army_xp_55: "£army_experience §H55§!" #NT!
  army_xp_55_blocked: "£army_experience §R55§!" #NT!
- army_xp_55_tooltip: "It costs $army_xp_55_blocked$ to take the decision" #NT!
+ army_xp_55_tooltip: "Для принятия решения требуется $army_xp_55_blocked$" #NT!
  army_xp_60: "£army_experience §H60§!" #NT!
  army_xp_60_blocked: "£army_experience §R60§!" #NT!
- army_xp_60_tooltip: "It costs $army_xp_60_blocked$ to take the decision" #NT!
+ army_xp_60_tooltip: "Для принятия решения требуется $army_xp_60_blocked$" #NT!
  army_xp_65: "£army_experience §H65§!" #NT!
  army_xp_65_blocked: "£army_experience §R65§!" #NT!
- army_xp_65_tooltip: "It costs $army_xp_65_blocked$ to take the decision" #NT!
+ army_xp_65_tooltip: "Для принятия решения требуется $army_xp_65_blocked$" #NT!
  army_xp_70: "£army_experience §H70§!" #NT!
  army_xp_70_blocked: "£army_experience §R70§!" #NT!
- army_xp_70_tooltip: "It costs $army_xp_70_blocked$ to take the decision" #NT!
+ army_xp_70_tooltip: "Для принятия решения требуется $army_xp_70_blocked$" #NT!
  army_xp_75: "£army_experience §H75§!" #NT!
  army_xp_75_blocked: "£army_experience §R75§!" #NT!
- army_xp_75_tooltip: "It costs $army_xp_75_blocked$ to take the decision" #NT!
+ army_xp_75_tooltip: "Для принятия решения требуется $army_xp_75_blocked$" #NT!
  army_xp_80: "£army_experience §H80§!" #NT!
  army_xp_80_blocked: "£army_experience §R80§!" #NT!
- army_xp_80_tooltip: "It costs $army_xp_80_blocked$ to take the decision" #NT!
+ army_xp_80_tooltip: "Для принятия решения требуется $army_xp_80_blocked$" #NT!
  army_xp_85: "£army_experience §H85§!" #NT!
  army_xp_85_blocked: "£army_experience §R85§!" #NT!
- army_xp_85_tooltip: "It costs $army_xp_85_blocked$ to take the decision" #NT!
+ army_xp_85_tooltip: "Для принятия решения требуется $army_xp_85_blocked$" #NT!
  army_xp_90: "£army_experience §H90§!" #NT!
  army_xp_90_blocked: "£army_experience §R90§!" #NT!
- army_xp_90_tooltip: "It costs $army_xp_90_blocked$ to take the decision" #NT!
+ army_xp_90_tooltip: "Для принятия решения требуется $army_xp_90_blocked$" #NT!
  army_xp_95: "£army_experience §H95§!" #NT!
  army_xp_95_blocked: "£army_experience §R95§!" #NT!
- army_xp_95_tooltip: "It costs $army_xp_95_blocked$ to take the decision" #NT!
+ army_xp_95_tooltip: "Для принятия решения требуется $army_xp_95_blocked$" #NT!
  army_xp_100: "£army_experience §H100§!" #NT!
  army_xp_100_blocked: "£army_experience §R100§!" #NT!
- army_xp_100_tooltip: "It costs $army_xp_100_blocked$ to take the decision" #NT!
+ army_xp_100_tooltip: "Для принятия решения требуется $army_xp_100_blocked$" #NT!
  army_xp_125: "£army_experience §H125§!" #NT!
  army_xp_125_blocked: "£army_experience §R125§!" #NT!
- army_xp_125_tooltip: "It costs $army_xp_125_blocked$ to take the decision" #NT!
+ army_xp_125_tooltip: "Для принятия решения требуется $army_xp_125_blocked$" #NT!
  army_xp_150: "£army_experience §H150§!" #NT!
  army_xp_150_blocked: "£army_experience §R150§!" #NT!
- army_xp_150_tooltip: "It costs $army_xp_150_blocked$ to take the decision" #NT!
+ army_xp_150_tooltip: "Для принятия решения требуется $army_xp_150_blocked$" #NT!
  army_xp_175: "£army_experience §H175§!" #NT!
  army_xp_175_blocked: "£army_experience §R175§!" #NT!
- army_xp_175_tooltip: "It costs $army_xp_175_blocked$ to take the decision" #NT!
+ army_xp_175_tooltip: "Для принятия решения требуется $army_xp_175_blocked$" #NT!
  army_xp_200: "£army_experience §H200§!" #NT!
  army_xp_200_blocked: "£army_experience §R200§!" #NT!
- army_xp_200_tooltip: "It costs $army_xp_200_blocked$ to take the decision" #NT!
+ army_xp_200_tooltip: "Для принятия решения требуется $army_xp_200_blocked$" #NT!
   
  # War Support 
  war_support3: "£war_support_texticon §H3%§!" #NT!
  war_support3_blocked: "£war_support_texticon §R3%§!" #NT!
- war_support3_blocked_tooltip: "It costs $war_support3_blocked$ to take the decision" #NT!
+ war_support3_blocked_tooltip: "Для принятия решения требуется $war_support3_blocked$" #NT!
  war_support5: "£war_support_texticon §H5%§!" #NT!
  war_support5_blocked: "£war_support_texticon §R5%§!" #NT!
- war_support5_blocked_tooltip: "It costs $war_support5_blocked$ to take the decision" #NT!
+ war_support5_blocked_tooltip: "Для принятия решения требуется $war_support5_blocked$" #NT!
  war_support10: "£war_support_texticon §H10%§!" #NT!
  war_support10_blocked: "£war_support_texticon §R10%§!" #NT!
- war_support10_blocked_tooltip: "It costs $war_support10_blocked$ to take the decision" #NT!
+ war_support10_blocked_tooltip: "Для принятия решения требуется $war_support10_blocked$" #NT!
  war_support15: "£war_support_texticon §H15%§!" #NT!
  war_support15_blocked: "£war_support_texticon §R15%§!" #NT!
- war_support15_blocked_tooltip: "It costs $war_support15_blocked$ to take the decision" #NT!
+ war_support15_blocked_tooltip: "Для принятия решения требуется $war_support15_blocked$" #NT!
  war_support20: "£war_support_texticon §H20%§!" #NT!
  war_support20_blocked: "£war_support_texticon §R20%§!" #NT!
- war_support20_blocked_tooltip: "It costs $war_support20_blocked$ to take the decision" #NT!
+ war_support20_blocked_tooltip: "Для принятия решения требуется $war_support20_blocked$" #NT!
   
  # Stability 
  stability3: "£GFX_stability_texticon §H3%§!" #NT!
  stability3_blocked: "£GFX_stability_texticon §R3%§!" #NT!
- stability3_blocked_tooltip: "It costs $stability3_blocked$ to take the decision" #NT!
+ stability3_blocked_tooltip: "Для принятия решения требуется $stability3_blocked$" #NT!
  stability5: "£GFX_stability_texticon §H5%§!" #NT!
  stability5_blocked: "£GFX_stability_texticon §R5%§!" #NT!
- stability5_blocked_tooltip: "It costs $stability5_blocked$ to take the decision" #NT!
+ stability5_blocked_tooltip: "Для принятия решения требуется $stability5_blocked$" #NT!
  stability10: "£GFX_stability_texticon §H10%§!" #NT!
  stability10_blocked: "£GFX_stability_texticon §R10%§!" #NT!
- stability10_blocked_tooltip: "It costs $stability10_blocked$ to take the decision" #NT!
+ stability10_blocked_tooltip: "Для принятия решения требуется $stability10_blocked$" #NT!
  stability15: "£GFX_stability_texticon §H15%§!" #NT!
  stability15_blocked: "£GFX_stability_texticon §R15%§!" #NT!
- stability15_blocked_tooltip: "It costs $stability15_blocked$ to take the decision" #NT!
+ stability15_blocked_tooltip: "Для принятия решения требуется $stability15_blocked$" #NT!
  stability20: "£GFX_stability_texticon §H20%§!" #NT!
  stability20_blocked: "£GFX_stability_texticon §R20%§!" #NT!
- stability20_blocked_tooltip: "It costs $stability20_blocked$ to take the decision" #NT!
+ stability20_blocked_tooltip: "Для принятия решения требуется $stability20_blocked$" #NT!
   
  # Guns 
  100_guns: "£rifle_texticon  §H100§!" #NT!
  100_guns_blocked: "£rifle_texticon  §R100§!" #NT!
- 100_guns_tooltip: "It costs $100_guns_blocked$ to take the decision" #NT!
+ 100_guns_tooltip: "Для принятия решения требуется $100_guns_blocked$" #NT!
  150_guns: "£rifle_texticon  §H150§!" #NT!
  150_guns_blocked: "£rifle_texticon  §R150§!" #NT!
- 150_guns_tooltip: "It costs $150_guns_blocked$ to take the decision" #NT!
+ 150_guns_tooltip: "Для принятия решения требуется $150_guns_blocked$" #NT!
  200_guns: "£rifle_texticon  §H200§!" #NT!
  200_guns_blocked: "£rifle_texticon  §R200§!" #NT!
- 200_guns_tooltip: "It costs $200_guns_blocked$ to take the decision" #NT!
+ 200_guns_tooltip: "Для принятия решения требуется $200_guns_blocked$" #NT!
  250_guns: "£rifle_texticon  §H250§!" #NT!
  250_guns_blocked: "£rifle_texticon  §R250§!" #NT!
- 250_guns_tooltip: "It costs $250_guns_blocked$ to take the decision" #NT!
+ 250_guns_tooltip: "Для принятия решения требуется $250_guns_blocked$" #NT!
  300_guns: "£rifle_texticon  §H300§!" #NT!
  300_guns_blocked: "£rifle_texticon  §R300§!" #NT!
- 300_guns_tooltip: "It costs $300_guns_blocked$ to take the decision" #NT!
+ 300_guns_tooltip: "Для принятия решения требуется $300_guns_blocked$" #NT!
  500_guns: "£rifle_texticon  §H500§!" #NT!
  500_guns_blocked: "£rifle_texticon  §R500§!" #NT!
- 500_guns_tooltip: "It costs $500_guns_blocked$ to take the decision" #NT!
+ 500_guns_tooltip: "Для принятия решения требуется $500_guns_blocked$" #NT!
  1000_guns: "£rifle_texticon  §H1000§!" #NT!
  1000_guns_blocked: "£rifle_texticon  §R1000§!" #NT!
- 1000_guns_tooltip: "It costs $1000_guns_blocked$ to take the decision" #NT!
+ 1000_guns_tooltip: "Для принятия решения требуется $1000_guns_blocked$" #NT!
  2000_guns: "£rifle_texticon  §H2000§!" #NT!
  2000_guns_blocked: "£rifle_texticon  §R2000§!" #NT!
- 2000_guns_tooltip: "It costs $2000_guns_blocked$ to take the decision" #NT!
+ 2000_guns_tooltip: "Для принятия решения требуется $2000_guns_blocked$" #NT!
  5000_guns: "£rifle_texticon  §H5000§!" #NT!
  5000_guns_blocked: "£rifle_texticon  §R5000§!" #NT!
- 5000_guns_tooltip: "It costs $5000_guns_blocked$ to take the decision" #NT!
+ 5000_guns_tooltip: "Для принятия решения требуется $5000_guns_blocked$" #NT!
   
  support_100: "£support_texticon  §H100§!" #NT!
  support_100_blocked: "£support_texticon  §R100§!" #NT!
- support_100_tooltip: "It costs $support_100_blocked$ to take the decision" #NT!
+ support_100_tooltip: "Для принятия решения требуется $support_100_blocked$" #NT!
   
  support_150: "£support_texticon  §H150§!" #NT!
  support_150_blocked: "£support_texticon  §R150§!" #NT!
- support_150_tooltip: "It costs $support_150_blocked$ to take the decision" #NT!
+ support_150_tooltip: "Для принятия решения требуется $support_150_blocked$" #NT!
   
  support_200: "£support_texticon  §H200§!" #NT!
  support_200_blocked: "£support_texticon  §R200§!" #NT!
- support_200_tooltip: "It costs $support_200_blocked$ to take the decision" #NT!
+ support_200_tooltip: "Для принятия решения требуется $support_200_blocked$" #NT!
   
  support_250: "£support_texticon  §H250§!" #NT!
  support_250_blocked: "£support_texticon  §R250§!" #NT!
- support_250_tooltip: "It costs $support_250_blocked$ to take the decision" #NT!
+ support_250_tooltip: "Для принятия решения требуется $support_250_blocked$" #NT!
   
  support_500: "£support_texticon  §H500§!" #NT!
  support_500_blocked: "£support_texticon  §R500§!" #NT!
- support_500_tooltip: "It costs $support_500_blocked$ to take the decision" #NT!
+ support_500_tooltip: "Для принятия решения требуется $support_500_blocked$" #NT!
   
  # Ideas 
- generic_research_advances: "Research Advances" #NT!
- generic_neutral_foreign_policy: "Neutral Foreign Policy" #NT!
+ generic_research_advances: "Научные достижения" #NT!
+ generic_neutral_foreign_policy: "Нейтральная внешняя политика" #NT!
  deterrence: "Сдерживание"
   
  # tag tooltips 
- western_european_tag: "§YIs a Western European Country§!" #NT!
- eastern_european_tag: "§YIs a Eastern European Country§!" #NT!
- north_american_tag: "§YIs a North American Country§!" #NT!
- latin_american_tag: "§YIs a Latin American Country§!" #NT!
- central_asian_tag: "§YIs a Central Asian Country§!" #NT!
- middle_eastern_tag: "§YIs a Middle Eastern Country§!" #NT!
- east_asian_tag: "§YIs a East Asian Country§!" #NT!
- south_asian_tag: "§YIs a South Asian Country§!" #NT!
- commonwealth_tag: "§YIs a Commonwealth Country§!" #NT!
- african_tag: "§YIs an African Country§!" #NT!
- oceanian_tag: "§YIs an Oceanian Country§!" #NT!
+ western_european_tag: "§YЗападноевропейская страна§!" #NT!
+ eastern_european_tag: "§YВосточноевропейская страна§!" #NT!
+ north_american_tag: "§YСевероамериканская страна§!" #NT!
+ latin_american_tag: "§YЛатиноамериканская страна§!" #NT!
+ central_asian_tag: "§YЦентральноазиатская страна§!" #NT!
+ middle_eastern_tag: "§YБлижневосточная страна§!" #NT!
+ east_asian_tag: "§YВосточноазиатская страна§!" #NT!
+ south_asian_tag: "§YЮжноазиатская страна§!" #NT!
+ commonwealth_tag: "§YСтрана Содружества§!" #NT!
+ african_tag: "§YАфриканская страна§!" #NT!
+ oceanian_tag: "§YСтрана Океании§!" #NT!
   
  # Scripted Loc... 
   
  empty: "" #NT!
   
- loc_royal: "royal" #NT!
- loc_royal_cap: "Royal" #NT!
+ loc_royal: "королевский" #NT!
+ loc_royal_cap: "Королевский" #NT!
  loc_royal_with_space: "$loc_royal$ " #NT!
  loc_royal_cap_with_space: "$loc_royal_cap$ " #NT!
   
- loc_imperial: "imperial" #NT!
- loc_imperial_cap: "Imperial" #NT!
+ loc_imperial: "имперский" #NT!
+ loc_imperial_cap: "Имперский" #NT!
  loc_imperial_with_space: "$loc_imperial$ " #NT!
  loc_imperial_cap_with_space: "$loc_imperial_cap$ " #NT!
   
- loc_republican: "republican" #NT!
- loc_republican_cap: "Republican" #NT!
+ loc_republican: "республиканский" #NT!
+ loc_republican_cap: "Республиканский" #NT!
  loc_republican_with_space: "$loc_republican$ " #NT!
  loc_republican_cap_with_space: "$loc_republican_cap$ " #NT!
   
@@ -722,7 +722,7 @@
  special_forces_attack_factor_tooltip: "$MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: $RIGHT|+=%1$" #NT!
  special_forces_defence_factor_tooltip: "$MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR$: $RIGHT|+=%1$" #NT!
   
- unit_assault_battalion_design_cost_factor_tooltip: "$blackshirt_assault_battalion$ Unit Design Cost: $RIGHT|-=%2$" #NT!
+ unit_assault_battalion_design_cost_factor_tooltip: "$blackshirt_assault_battalion$ — стоимость создания шаблона: $RIGHT|-=%2$" #NT!
   
  recon_factor_tooltip: "$MODIFIER_RECON_FACTOR$: $RIGHT|+=%1$" #NT!
  recon_factor_while_entrenched_tooltip: "$MODIFIER_RECON_FACTOR_WHILE_ENTRENCHED$: $RIGHT|+=%1$" #NT!
@@ -957,6 +957,6 @@
  national_populist_drift_tooltip: "$national_populist_drift$: $RIGHT|+=$" #NT!
  valkist_drift_tooltip: "$valkist_drift$: $RIGHT|+=$" #NT!
   
- tactic_breakthrough_preferred_weight_factor: "Дополнительный шанс тактики §Y«Прорыв»§!, если эта тактика — предпочитаемая"
- tactic_backhand_blow_preferred_weight_factor: "Additional §YBackhand Blow§! Tactic Chance if it is Preferred tactic" #NT!
- tactic_tactical_withdrawal_preferred_weight_factor: "Дополнительный шанс тактики §Y«Тактическое отступление»§!, если эта тактика — предпочитаемая"
+ tactic_breakthrough_preferred_weight_factor: "Дополнительный шанс тактики §Y«Прорыв»§!, если эта тактика — предпочитаемая"
+ tactic_backhand_blow_preferred_weight_factor: "Дополнительный шанс тактики §Y«Удар наотмашь»§!, если эта тактика — предпочитаемая" #NT!
+ tactic_tactical_withdrawal_preferred_weight_factor: "Дополнительный шанс тактики §Y«Тактическое отступление»§!, если эта тактика — предпочитаемая"
