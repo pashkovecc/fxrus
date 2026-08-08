@@ -1,39 +1,39 @@
 ﻿l_russian:
   
  ### Country Names 
- CAM_vanguardist: "Socialist Republic of Cambodia" #NT!
- CAM_vanguardist_ADJ: "Cambodian" #NT!
- CAM_vanguardist_DEF: "the Cambodian Socialist Republic" #NT!
- CAM_collectivist: "Socialist Republic of Cambodia" #NT!
- CAM_collectivist_ADJ: "Cambodian" #NT!
- CAM_collectivist_DEF: "the Cambodian People's Democratic Republic" #NT!
- CAM_libertarian_socialist: "Cambodian People's Democratic Republic" #NT!
- CAM_libertarian_socialist_ADJ: "Cambodian" #NT!
- CAM_libertarian_socialist_DEF: "the Cambodian People's Democratic Republic" #NT!
- CAM_social_democrat: "Republic of Cambodia" #NT!
- CAM_social_democrat_ADJ: "Cambodian" #NT!
- CAM_social_democrat_DEF: "the Republic of Cambodia" #NT!
- CAM_social_liberal: "Republic of Cambodia" #NT!
- CAM_social_liberal_ADJ: "Cambodian" #NT!
- CAM_social_liberal_DEF: "the Republic of Cambodia" #NT!
- CAM_market_liberal: "Republic of Cambodia" #NT!
- CAM_market_liberal_ADJ: "Cambodian" #NT!
- CAM_market_liberal_DEF: "the Republic of Cambodia" #NT!
- CAM_social_conservative: "Republic of Cambodia" #NT!
- CAM_social_conservative_ADJ: "Cambodian" #NT!
- CAM_social_conservative_DEF: "the Republic of Cambodia" #NT!
- CAM_authoritarian_democrat: "Republic of Cambodia" #NT!
- CAM_authoritarian_democrat_ADJ: "Cambodian" #NT!
- CAM_authoritarian_democrat_DEF: "the Republic of Cambodia" #NT!
- CAM_paternal_autocrat: "Republic of Cambodia" #NT!
- CAM_paternal_autocrat_ADJ: "Cambodian" #NT!
- CAM_paternal_autocrat_DEF: "the Republic of Cambodia" #NT!
- CAM_national_populist: "State of Cambodia" #NT!
- CAM_national_populist_ADJ: "Cambodian" #NT!
- CAM_national_populist_DEF: "the State of Cambodia" #NT!
- CAM_valkist: "State of Cambodia" #NT!
- CAM_valkist_ADJ: "Cambodian" #NT!
- CAM_valkist_DEF: "the State of Cambodia" #NT!
+ CAM_vanguardist: "Социалистическая Республика Камбоджа"
+ CAM_vanguardist_ADJ: "Камбоджийск"
+ CAM_vanguardist_DEF: "Камбоджийская Социалистическая Республика"
+ CAM_collectivist: "Социалистическая Республика Камбоджа"
+ CAM_collectivist_ADJ: "Камбоджийск"
+ CAM_collectivist_DEF: "Камбоджийская Народно-Демократическая Республика"
+ CAM_libertarian_socialist: "Камбоджийская Народно-Демократическая Республика"
+ CAM_libertarian_socialist_ADJ: "Камбоджийск"
+ CAM_libertarian_socialist_DEF: "Камбоджийская Народно-Демократическая Республика"
+ CAM_social_democrat: "Республика Камбоджа"
+ CAM_social_democrat_ADJ: "Камбоджийск"
+ CAM_social_democrat_DEF: "Республика Камбоджа"
+ CAM_social_liberal: "Республика Камбоджа"
+ CAM_social_liberal_ADJ: "Камбоджийск"
+ CAM_social_liberal_DEF: "Республика Камбоджа"
+ CAM_market_liberal: "Республика Камбоджа"
+ CAM_market_liberal_ADJ: "Камбоджийск"
+ CAM_market_liberal_DEF: "Республика Камбоджа"
+ CAM_social_conservative: "Республика Камбоджа"
+ CAM_social_conservative_ADJ: "Камбоджийск"
+ CAM_social_conservative_DEF: "Республика Камбоджа"
+ CAM_authoritarian_democrat: "Республика Камбоджа"
+ CAM_authoritarian_democrat_ADJ: "Камбоджийск"
+ CAM_authoritarian_democrat_DEF: "Республика Камбоджа"
+ CAM_paternal_autocrat: "Республика Камбоджа"
+ CAM_paternal_autocrat_ADJ: "Камбоджийск"
+ CAM_paternal_autocrat_DEF: "Республика Камбоджа"
+ CAM_national_populist: "Государство Камбоджа"
+ CAM_national_populist_ADJ: "Камбоджийск"
+ CAM_national_populist_DEF: "Государство Камбоджа"
+ CAM_valkist: "Государство Камбоджа"
+ CAM_valkist_ADJ: "Камбоджийск"
+ CAM_valkist_DEF: "Государство Камбоджа"
   
  CAM_Pol_Pot: "Pol Pot" #NT!
  CAM_Sisowath_Youtevong: "Sisowath Youtévong" #NT!

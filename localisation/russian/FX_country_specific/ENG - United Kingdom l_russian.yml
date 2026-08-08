@@ -2,105 +2,105 @@
  ENG_FUHRERREICH_DESC: "The Great War lasted for five long years of merciless slaughter and destruction. In the end, Britain stood victorious over the butchered Central Powers, establishing itself once more as the global hegemon. The 1931 Statute of Autonomy would grant the Dominion nations only limited powers, with the original proposals being drastically altered resulting in great resentment towards the mother country. Britain is in a precarious position. The Imperial Conference of 1937 looms ever closer and in the years that follow Britain will be faced with choices that will not only determine the fate of the Empire, but of the future of Britain itself." #NT!
   
  ### Country Names 
- ENG: "United Kingdom" #NT!
+ ENG: "Соединенное Королевство" #NT!
  ENG_ADJ: "Британск"
- ENG_DEF: "the United Kingdom" #NT!
+ ENG_DEF: "Соединенное Королевство" #NT!
   
  ### Protectorates: God Save the King 
- ENG_FRP: "Kingdom of France" #NT!
- ENG_FRP_ADJ: "Anglo-French" #NT!
- ENG_FRP_DEF: "Kingdom of France" #NT!
+ ENG_FRP: "Королевство Франция"
+ ENG_FRP_ADJ: "Англо-французск"
+ ENG_FRP_DEF: "Королевство Франция"
   
- ENG_SAU: "British Arabia" #NT!
- ENG_SAU_ADJ: "Anglo-Arabian" #NT!
- ENG_SAU_DEF: "the British Protectorate of Arabia" #NT!
+ ENG_SAU: "Британская Аравия"
+ ENG_SAU_ADJ: "Англо-арабск"
+ ENG_SAU_DEF: "Британский протекторат Аравия"
   
- ENG_IRQ: "British Mesopotamia" #NT!
- ENG_IRQ_ADJ: "Anglo-Mesopotamian" #NT!
- ENG_IRQ_DEF: "the British Protectorate of Mesopotamia" #NT!
+ ENG_IRQ: "Британская Месопотамия"
+ ENG_IRQ_ADJ: "Англо-месопотамск"
+ ENG_IRQ_DEF: "Британский протекторат Месопотамия"
   
- ENG_PER: "British Persia" #NT!
- ENG_PER_ADJ: "Anglo-Persian" #NT!
- ENG_PER_DEF: "the British Protectorate of Persia" #NT!
+ ENG_PER: "Британская Персия"
+ ENG_PER_ADJ: "Англо-персидск"
+ ENG_PER_DEF: "Британский протекторат Персия"
   
- ENG_NEP: "British Nepal" #NT!
- ENG_NEP_ADJ: "Anglo-Nepalese" #NT!
- ENG_NEP_DEF: "the British Protectorate of Nepal" #NT!
+ ENG_NEP: "Британский Непал"
+ ENG_NEP_ADJ: "Англо-непальск"
+ ENG_NEP_DEF: "Британский протекторат Непал"
   
- ENG_BHU: "British Bhutan" #NT!
- ENG_BHU_ADJ: "Anglo-Bhutanese" #NT!
- ENG_BHU_DEF: "the British Protectorate of Bhutan" #NT!
+ ENG_BHU: "Британский Бутан"
+ ENG_BHU_ADJ: "Англо-бутанск"
+ ENG_BHU_DEF: "Британский протекторат Бутан"
   
- ENG_TIB: "British Tibet" #NT!
- ENG_TIB_ADJ: "Anglo-Tibetan" #NT!
- ENG_TIB_DEF: "the British Protectorate of Tibet" #NT!
+ ENG_TIB: "Британский Тибет"
+ ENG_TIB_ADJ: "Англо-тибетск"
+ ENG_TIB_DEF: "Британский протекторат Тибет"
   
- ENG_SIA: "British Siam" #NT!
- ENG_SIA_ADJ: "Anglo-Siamese" #NT!
- ENG_SIA_DEF: "the British Protectorate of Siam" #NT!
+ ENG_SIA: "Британский Сиам"
+ ENG_SIA_ADJ: "Англо-сиамск"
+ ENG_SIA_DEF: "Британский протекторат Сиам"
   
- ENG_KEN: "British East Africa" #NT!
- ENG_KEN_ADJ: "Anglo-Kenyan" #NT!
- ENG_KEN_DEF: "the British Protectorate of East Africa" #NT!
+ ENG_KEN: "Британская Восточная Африка"
+ ENG_KEN_ADJ: "Англо-кенийск"
+ ENG_KEN_DEF: "Британский протекторат Восточная Африка"
   
- ENG_RHO: "British Rhodesia & Nyasaland" #NT!
- ENG_RHO_ADJ: "Anglo-Rhodesian" #NT!
- ENG_RHO_DEF: "the British Protectorate of Rhodesia & Nyasaland" #NT!
+ ENG_RHO: "Британская Родезия и Ньясаленд"
+ ENG_RHO_ADJ: "Англо-родезийск"
+ ENG_RHO_DEF: "Британский протекторат Родезия и Ньясаленд"
   
- ENG_MAL: "British Malaya" #NT!
- ENG_MAL_ADJ: "AngloMalayan" #NT!
- ENG_MAL_DEF: "the British Protectorate of Malaya" #NT!
+ ENG_MAL: "Британская Малайя"
+ ENG_MAL_ADJ: "Англо-малайск"
+ ENG_MAL_DEF: "Британский протекторат Малайя"
   
- ENG_JOR: "British Transjordan" #NT!
- ENG_JOR_ADJ: "Anglo-Transjordan" #NT!
- ENG_JOR_DEF: "the British Protectorate of Transjordan" #NT!
+ ENG_JOR: "Британский Трансиордан"
+ ENG_JOR_ADJ: "Англо-трансиорданск"
+ ENG_JOR_DEF: "Британский протекторат Трансиордан"
   
- ENG_AFG: "British Afghanistan" #NT!
- ENG_AFG_ADJ: "Anglo-Afghan" #NT!
- ENG_AFG_DEF: "the British Protectorate of Afghanistan" #NT!
+ ENG_AFG: "Британский Афганистан"
+ ENG_AFG_ADJ: "Англо-афганск"
+ ENG_AFG_DEF: "Британский протекторат Афганистан"
   
- ENG_TRK: "British Transcaspia" #NT!
- ENG_TRK_ADJ: "Anglo-Transcapian" #NT!
- ENG_TRK_DEF: "the British Protectorate of Transcaspia" #NT!
+ ENG_TRK: "Британская Закаспия"
+ ENG_TRK_ADJ: "Англо-закаспийск"
+ ENG_TRK_DEF: "Британский протекторат Закаспия"
   
- ENG_USA: "Dominion of North America" #NT!
- ENG_USA_ADJ: "Anglo-American" #NT!
- ENG_USA_DEF: "the Dominion of North America" #NT!
+ ENG_USA: "Доминион Северная Америка"
+ ENG_USA_ADJ: "Англо-американск"
+ ENG_USA_DEF: "Доминион Северная Америка"
   
- IRE_ENG: "Dominion of Ireland" #NT!
- IRE_ENG_ADJ: "Anglo-Irish" #NT!
- IRE_ENG_DEF: "the Dominion of Ireland" #NT!
+ IRE_ENG: "Доминион Ирландия"
+ IRE_ENG_ADJ: "Англо-ирландск"
+ IRE_ENG_DEF: "Доминион Ирландия"
   
- NFL_ENG_subject: "Dominion of Newfoundland" #NT!
- NFL_ENG_subject_DEF: "the Dominion of Newfoundland" #NT!
- NFL_ENG_subject_ADJ: "Newfoundlander" #NT!
- NFL_ENG_autonomy_dominion: "Dominion of Newfoundland" #NT!
- NFL_ENG_autonomy_dominion_DEF: "the Dominion of Newfoundland" #NT!
- NFL_ENG_autonomy_dominion_ADJ: "Newfoundlander" #NT!
- NFL_ENG_autonomy_colony: "Dominion of Newfoundland" #NT!
- NFL_ENG_autonomy_colony_DEF: "the Dominion of Newfoundland" #NT!
- NFL_ENG_autonomy_colony_ADJ: "Newfoundlander" #NT!
+ NFL_ENG_subject: "Доминион Ньюфаундленд"
+ NFL_ENG_subject_DEF: "Доминион Ньюфаундленд"
+ NFL_ENG_subject_ADJ: "Ньюфаундлендск"
+ NFL_ENG_autonomy_dominion: "Доминион Ньюфаундленд"
+ NFL_ENG_autonomy_dominion_DEF: "Доминион Ньюфаундленд"
+ NFL_ENG_autonomy_dominion_ADJ: "Ньюфаундлендск"
+ NFL_ENG_autonomy_colony: "Доминион Ньюфаундленд"
+ NFL_ENG_autonomy_colony_DEF: "Доминион Ньюфаундленд"
+ NFL_ENG_autonomy_colony_ADJ: "Ньюфаундлендск"
   
  ### Imperial Federation 
- IMP_ENG: "Imperial Federation" #NT!
- IMP_ENG_ADJ: "Imperial" #NT!
- IMP_ENG_DEF: "the Imperial Federation" #NT!
+ IMP_ENG: "Имперская Федерация"
+ IMP_ENG_ADJ: "Имперск"
+ IMP_ENG_DEF: "Имперская Федерация"
   
- IMP_CAN: "Imperial Canada" #NT!
- IMP_CAN_ADJ: "Canadian" #NT!
- IMP_CAN_DEF: "Imperial Canada" #NT!
+ IMP_CAN: "Имперская Канада"
+ IMP_CAN_ADJ: "Канадск"
+ IMP_CAN_DEF: "Имперская Канада"
   
- IMP_AST: "Imperial Australia" #NT!
- IMP_AST_ADJ: "Australian" #NT!
- IMP_AST_DEF: "Imperial Australia" #NT!
+ IMP_AST: "Имперская Австралия"
+ IMP_AST_ADJ: "Австралийск"
+ IMP_AST_DEF: "Имперская Австралия"
   
- IMP_NZL: "Imperial New Zealand" #NT!
- IMP_NZL_ADJ: "New Zealander" #NT!
- IMP_NZL_DEF: "Imperial New Zealand" #NT!
+ IMP_NZL: "Имперская Новая Зеландия"
+ IMP_NZL_ADJ: "Новозеландск"
+ IMP_NZL_DEF: "Имперская Новая Зеландия"
   
- IMP_SAF: "Imperial South Africa" #NT!
- IMP_SAF_ADJ: "South African" #NT!
- IMP_SAF_DEF: "Imperial South Africa" #NT!
+ IMP_SAF: "Имперская Южная Африка"
+ IMP_SAF_ADJ: "Южноафриканск"
+ IMP_SAF_DEF: "Имперская Южная Африка"
   
  ### Parties 
  ENG_vanguardist_party: "WIL" #NT!

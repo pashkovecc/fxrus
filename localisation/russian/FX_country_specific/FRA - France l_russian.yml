@@ -4,39 +4,39 @@
  FRA_FUHRERREICH_DESC: "Victorious, but at what cost? Many Frenchmen found themselves asking this in the aftermath of the Great War. France had reclaimed its rightful land, and established a protectorate over the Rheinland to prevent the Germans from ever threatening La Patrie ever again. However as the 1930s come to an end, France's position in Europe and the world is increasingly threatened, with a hostile British Empire threatening France's colonies and a increasingly belligerent Soviet Union, but perhaps of the greatest concern is a resurgent Germany. France will need cunning, bravery, and excellent diplomacy to emerge from the coming storm unscathed." #NT!
   
  ### Country Names 
- FRA_vanguardist: "Commune of France" #NT!
- FRA_vanguardist_ADJ: "French" #NT!
- FRA_vanguardist_DEF: "the Commune of France" #NT!
- FRA_collectivist: "Commune of France" #NT!
- FRA_collectivist_ADJ: "French" #NT!
- FRA_collectivist_DEF: "the Commune of France" #NT!
- FRA_libertarian_socialist: "Commune of France" #NT!
- FRA_libertarian_socialist_ADJ: "French" #NT!
- FRA_libertarian_socialist_DEF: "the Commune of France" #NT!
- FRA_social_democrat: "French Republic" #NT!
- FRA_social_democrat_ADJ: "French" #NT!
- FRA_social_democrat_DEF: "the French Republic" #NT!
- FRA_social_liberal: "French Republic" #NT!
- FRA_social_liberal_ADJ: "French" #NT!
- FRA_social_liberal_DEF: "the French Republic" #NT!
- FRA_market_liberal: "French Republic" #NT!
- FRA_market_liberal_ADJ: "French" #NT!
- FRA_market_liberal_DEF: "the French Republic" #NT!
- FRA_social_conservative: "French Republic" #NT!
- FRA_social_conservative_ADJ: "French" #NT!
- FRA_social_conservative_DEF: "the French Republic" #NT!
- FRA_authoritarian_democrat: "French Republic" #NT!
- FRA_authoritarian_democrat_ADJ: "French" #NT!
- FRA_authoritarian_democrat_DEF: "the French Republic" #NT!
- FRA_paternal_autocrat: "French Republic" #NT!
- FRA_paternal_autocrat_ADJ: "French" #NT!
- FRA_paternal_autocrat_DEF: "the French Republic" #NT!
- FRA_national_populist: "French State" #NT!
- FRA_national_populist_ADJ: "French" #NT!
- FRA_national_populist_DEF: "the French National State" #NT!
- FRA_valkist: "French State" #NT!
- FRA_valkist_ADJ: "French" #NT!
- FRA_valkist_DEF: "the French State" #NT!
+ FRA_vanguardist: "Французская Коммуна"
+ FRA_vanguardist_ADJ: "Французск"
+ FRA_vanguardist_DEF: "Французская Коммуна"
+ FRA_collectivist: "Французская Коммуна"
+ FRA_collectivist_ADJ: "Французск"
+ FRA_collectivist_DEF: "Французская Коммуна"
+ FRA_libertarian_socialist: "Французская Коммуна"
+ FRA_libertarian_socialist_ADJ: "Французск"
+ FRA_libertarian_socialist_DEF: "Французская Коммуна"
+ FRA_social_democrat: "Французская Республика"
+ FRA_social_democrat_ADJ: "Французск"
+ FRA_social_democrat_DEF: "Французская Республика"
+ FRA_social_liberal: "Французская Республика"
+ FRA_social_liberal_ADJ: "Французск"
+ FRA_social_liberal_DEF: "Французская Республика"
+ FRA_market_liberal: "Французская Республика"
+ FRA_market_liberal_ADJ: "Французск"
+ FRA_market_liberal_DEF: "Французская Республика"
+ FRA_social_conservative: "Французская Республика"
+ FRA_social_conservative_ADJ: "Французск"
+ FRA_social_conservative_DEF: "Французская Республика"
+ FRA_authoritarian_democrat: "Французская Республика"
+ FRA_authoritarian_democrat_ADJ: "Французск"
+ FRA_authoritarian_democrat_DEF: "Французская Республика"
+ FRA_paternal_autocrat: "Французская Республика"
+ FRA_paternal_autocrat_ADJ: "Французск"
+ FRA_paternal_autocrat_DEF: "Французская Республика"
+ FRA_national_populist: "Французское Государство"
+ FRA_national_populist_ADJ: "Французск"
+ FRA_national_populist_DEF: "Французское Национальное Государство"
+ FRA_valkist: "Французское Государство"
+ FRA_valkist_ADJ: "Французск"
+ FRA_valkist_DEF: "Французское Государство"
   
  ### Research Groups 
  continental_entente_research_name: "Entente Institute of Research" #NT!

@@ -1,107 +1,107 @@
 ﻿l_russian:
   
  ### Country Names 
- BRM_vanguardist: "Burma" #NT!
- BRM_vanguardist_ADJ: "Burmese" #NT!
- BRM_vanguardist_DEF: "the Burmese People's Republic" #NT!
- BRM_collectivist: "Burma" #NT!
- BRM_collectivist_ADJ: "Burmese" #NT!
- BRM_collectivist_DEF: "the Burmese Workers State" #NT!
- BRM_libertarian_socialist: "Burma" #NT!
- BRM_libertarian_socialist_ADJ: "Burmese" #NT!
- BRM_libertarian_socialist_DEF: "the Burmese Democratic People's Republic" #NT!
- BRM_social_democrat: "Burma" #NT!
- BRM_social_democrat_ADJ: "Burmese" #NT!
- BRM_social_democrat_DEF: "the Republic of Burma" #NT!
- BRM_social_liberal: "Burma" #NT!
- BRM_social_liberal_ADJ: "Burmese" #NT!
- BRM_social_liberal_DEF: "the Republic of Burma" #NT!
- BRM_market_liberal: "Burma" #NT!
- BRM_market_liberal_ADJ: "Burmese" #NT!
- BRM_market_liberal_DEF: "the Republic of Burma" #NT!
- BRM_social_conservative: "Burma" #NT!
- BRM_social_conservative_ADJ: "Burmese" #NT!
- BRM_social_conservative_DEF: "the Republic of Burma" #NT!
- BRM_authoritarian_democrat: "Burma" #NT!
- BRM_authoritarian_democrat_ADJ: "Burmese" #NT!
- BRM_authoritarian_democrat_DEF: "the Republic of Burma" #NT!
- BRM_paternal_autocrat: "Burma" #NT!
- BRM_paternal_autocrat_ADJ: "Burmese" #NT!
- BRM_paternal_autocrat_DEF: "the Burmese State" #NT!
- BRM_national_populist: "Burma" #NT!
- BRM_national_populist_ADJ: "Burmese" #NT!
- BRM_national_populist_DEF: "the Burmese Empire" #NT!
- BRM_valkist: "State of Burma" #NT!
- BRM_valkist_ADJ: "Burmese" #NT!
- BRM_valkist_DEF: "the State of Burma" #NT!
+ BRM_vanguardist: "Бирма"
+ BRM_vanguardist_ADJ: "Бирманск"
+ BRM_vanguardist_DEF: "Бирманская Народная Республика"
+ BRM_collectivist: "Бирма"
+ BRM_collectivist_ADJ: "Бирманск"
+ BRM_collectivist_DEF: "Бирманское Рабочее Государство"
+ BRM_libertarian_socialist: "Бирма"
+ BRM_libertarian_socialist_ADJ: "Бирманск"
+ BRM_libertarian_socialist_DEF: "Бирманская Демократическая Народная Республика"
+ BRM_social_democrat: "Бирма"
+ BRM_social_democrat_ADJ: "Бирманск"
+ BRM_social_democrat_DEF: "Республика Бирма"
+ BRM_social_liberal: "Бирма"
+ BRM_social_liberal_ADJ: "Бирманск"
+ BRM_social_liberal_DEF: "Республика Бирма"
+ BRM_market_liberal: "Бирма"
+ BRM_market_liberal_ADJ: "Бирманск"
+ BRM_market_liberal_DEF: "Республика Бирма"
+ BRM_social_conservative: "Бирма"
+ BRM_social_conservative_ADJ: "Бирманск"
+ BRM_social_conservative_DEF: "Республика Бирма"
+ BRM_authoritarian_democrat: "Бирма"
+ BRM_authoritarian_democrat_ADJ: "Бирманск"
+ BRM_authoritarian_democrat_DEF: "Республика Бирма"
+ BRM_paternal_autocrat: "Бирма"
+ BRM_paternal_autocrat_ADJ: "Бирманск"
+ BRM_paternal_autocrat_DEF: "Бирманское Государство"
+ BRM_national_populist: "Бирма"
+ BRM_national_populist_ADJ: "Бирманск"
+ BRM_national_populist_DEF: "Бирманская Империя"
+ BRM_valkist: "Государство Бирма"
+ BRM_valkist_ADJ: "Бирманск"
+ BRM_valkist_DEF: "Государство Бирма"
   
- BRM_viceroyalty_of_burma_vanguardist: "Burma" #NT!
- BRM_viceroyalty_of_burma_vanguardist_ADJ: "Burmese" #NT!
- BRM_viceroyalty_of_burma_vanguardist_DEF: "the Burmese Soviet Socialist Republic" #NT!
- BRM_viceroyalty_of_burma_collectivist: "Burma" #NT!
- BRM_viceroyalty_of_burma_collectivist_ADJ: "Burmese" #NT!
- BRM_viceroyalty_of_burma_collectivist_DEF: "the Burmese Democratic Socialist Republic" #NT!
- BRM_viceroyalty_of_burma_libertarian_socialist: "Burma" #NT!
- BRM_viceroyalty_of_burma_libertarian_socialist_ADJ: "Burmese" #NT!
- BRM_viceroyalty_of_burma_libertarian_socialist_DEF: "the Burmese Democratic People's Republic" #NT!
- BRM_viceroyalty_of_burma_social_democrat: "Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_social_democrat_ADJ: "Burmese" #NT!
- BRM_viceroyalty_of_burma_social_democrat_DEF: "the Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_social_liberal: "Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_social_liberal_ADJ: "Burmese" #NT!
- BRM_viceroyalty_of_burma_social_liberal_DEF: "the Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_market_liberal: "Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_market_liberal_ADJ: "Burmese" #NT!
- BRM_viceroyalty_of_burma_market_liberal_DEF: "the Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_social_conservative: "Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_social_conservative_ADJ: "Burmese" #NT!
- BRM_viceroyalty_of_burma_social_conservative_DEF: "the Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_authoritarian_democrat: "Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_authoritarian_democrat_ADJ: "Burmese" #NT!
- BRM_viceroyalty_of_burma_authoritarian_democrat_DEF: "the Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_paternal_autocrat: "Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_paternal_autocrat_ADJ: "Burmese" #NT!
- BRM_viceroyalty_of_burma_paternal_autocrat_DEF: "the Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_national_populist: "Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_national_populist_ADJ: "Burmese" #NT!
- BRM_viceroyalty_of_burma_national_populist_DEF: "the Viceroyalty of Burma" #NT!
- BRM_viceroyalty_of_burma_valkist: "State of Burma" #NT!
- BRM_viceroyalty_of_burma_valkist_ADJ: "Burmese" #NT!
- BRM_viceroyalty_of_burma_valkist_DEF: "the State of Burma" #NT!
+ BRM_viceroyalty_of_burma_vanguardist: "Бирма"
+ BRM_viceroyalty_of_burma_vanguardist_ADJ: "Бирманск"
+ BRM_viceroyalty_of_burma_vanguardist_DEF: "Бирманская Советская Социалистическая Республика"
+ BRM_viceroyalty_of_burma_collectivist: "Бирма"
+ BRM_viceroyalty_of_burma_collectivist_ADJ: "Бирманск"
+ BRM_viceroyalty_of_burma_collectivist_DEF: "Бирманская Демократическая Социалистическая Республика"
+ BRM_viceroyalty_of_burma_libertarian_socialist: "Бирма"
+ BRM_viceroyalty_of_burma_libertarian_socialist_ADJ: "Бирманск"
+ BRM_viceroyalty_of_burma_libertarian_socialist_DEF: "Бирманская Демократическая Народная Республика"
+ BRM_viceroyalty_of_burma_social_democrat: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_social_democrat_ADJ: "Бирманск"
+ BRM_viceroyalty_of_burma_social_democrat_DEF: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_social_liberal: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_social_liberal_ADJ: "Бирманск"
+ BRM_viceroyalty_of_burma_social_liberal_DEF: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_market_liberal: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_market_liberal_ADJ: "Бирманск"
+ BRM_viceroyalty_of_burma_market_liberal_DEF: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_social_conservative: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_social_conservative_ADJ: "Бирманск"
+ BRM_viceroyalty_of_burma_social_conservative_DEF: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_authoritarian_democrat: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_authoritarian_democrat_ADJ: "Бирманск"
+ BRM_viceroyalty_of_burma_authoritarian_democrat_DEF: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_paternal_autocrat: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_paternal_autocrat_ADJ: "Бирманск"
+ BRM_viceroyalty_of_burma_paternal_autocrat_DEF: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_national_populist: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_national_populist_ADJ: "Бирманск"
+ BRM_viceroyalty_of_burma_national_populist_DEF: "Вице-королевство Бирма"
+ BRM_viceroyalty_of_burma_valkist: "Государство Бирма"
+ BRM_viceroyalty_of_burma_valkist_ADJ: "Бирманск"
+ BRM_viceroyalty_of_burma_valkist_DEF: "Государство Бирма"
   
- BRM_republic_of_burma_vanguardist: "Burma" #NT!
- BRM_republic_of_burma_vanguardist_ADJ: "Burmese" #NT!
- BRM_republic_of_burma_vanguardist_DEF: "the Burmese Soviet Socialist Republic" #NT!
- BRM_republic_of_burma_collectivist: "Burma" #NT!
- BRM_republic_of_burma_collectivist_ADJ: "Burmese" #NT!
- BRM_republic_of_burma_collectivist_DEF: "the Burmese Democratic Socialist Republic" #NT!
- BRM_republic_of_burma_libertarian_socialist: "Burma" #NT!
- BRM_republic_of_burma_libertarian_socialist_ADJ: "Burmese" #NT!
- BRM_republic_of_burma_libertarian_socialist_DEF: "the Burmese Democratic People's Republic" #NT!
- BRM_republic_of_burma_social_democrat: "Burma" #NT!
- BRM_republic_of_burma_social_democrat_ADJ: "Burmese" #NT!
- BRM_republic_of_burma_social_democrat_DEF: "the Republic of Burma" #NT!
- BRM_republic_of_burma_social_liberal: "Burma" #NT!
- BRM_republic_of_burma_social_liberal_ADJ: "Burmese" #NT!
- BRM_republic_of_burma_social_liberal_DEF: "the Republic of Burma" #NT!
- BRM_republic_of_burma_market_liberal: "Burma" #NT!
- BRM_republic_of_burma_market_liberal_ADJ: "Burmese" #NT!
- BRM_republic_of_burma_market_liberal_DEF: "the Republic of Burma" #NT!
- BRM_republic_of_burma_social_conservative: "Burma" #NT!
- BRM_republic_of_burma_social_conservative_ADJ: "Burmese" #NT!
- BRM_republic_of_burma_social_conservative_DEF: "the Republic of Burma" #NT!
- BRM_republic_of_burma_authoritarian_democrat: "Burma" #NT!
- BRM_republic_of_burma_authoritarian_democrat_ADJ: "Burmese" #NT!
- BRM_republic_of_burma_authoritarian_democrat_DEF: "the Republic of Burma" #NT!
- BRM_republic_of_burma_paternal_autocrat: "Burma" #NT!
- BRM_republic_of_burma_paternal_autocrat_ADJ: "Burmese" #NT!
- BRM_republic_of_burma_paternal_autocrat_DEF: "the Burmese State" #NT!
- BRM_republic_of_burma_national_populist: "Burma" #NT!
- BRM_republic_of_burma_national_populist_ADJ: "Burmese" #NT!
- BRM_republic_of_burma_national_populist_DEF: "the Burmese Empire" #NT!
- BRM_republic_of_burma_valkist: "State of Burma" #NT!
- BRM_republic_of_burma_valkist_ADJ: "Burmese" #NT!
- BRM_republic_of_burma_valkist_DEF: "the State of Burma" #NT!
+ BRM_republic_of_burma_vanguardist: "Бирма"
+ BRM_republic_of_burma_vanguardist_ADJ: "Бирманск"
+ BRM_republic_of_burma_vanguardist_DEF: "Бирманская Советская Социалистическая Республика"
+ BRM_republic_of_burma_collectivist: "Бирма"
+ BRM_republic_of_burma_collectivist_ADJ: "Бирманск"
+ BRM_republic_of_burma_collectivist_DEF: "Бирманская Демократическая Социалистическая Республика"
+ BRM_republic_of_burma_libertarian_socialist: "Бирма"
+ BRM_republic_of_burma_libertarian_socialist_ADJ: "Бирманск"
+ BRM_republic_of_burma_libertarian_socialist_DEF: "Бирманская Демократическая Народная Республика"
+ BRM_republic_of_burma_social_democrat: "Бирма"
+ BRM_republic_of_burma_social_democrat_ADJ: "Бирманск"
+ BRM_republic_of_burma_social_democrat_DEF: "Республика Бирма"
+ BRM_republic_of_burma_social_liberal: "Бирма"
+ BRM_republic_of_burma_social_liberal_ADJ: "Бирманск"
+ BRM_republic_of_burma_social_liberal_DEF: "Республика Бирма"
+ BRM_republic_of_burma_market_liberal: "Бирма"
+ BRM_republic_of_burma_market_liberal_ADJ: "Бирманск"
+ BRM_republic_of_burma_market_liberal_DEF: "Республика Бирма"
+ BRM_republic_of_burma_social_conservative: "Бирма"
+ BRM_republic_of_burma_social_conservative_ADJ: "Бирманск"
+ BRM_republic_of_burma_social_conservative_DEF: "Республика Бирма"
+ BRM_republic_of_burma_authoritarian_democrat: "Бирма"
+ BRM_republic_of_burma_authoritarian_democrat_ADJ: "Бирманск"
+ BRM_republic_of_burma_authoritarian_democrat_DEF: "Республика Бирма"
+ BRM_republic_of_burma_paternal_autocrat: "Бирма"
+ BRM_republic_of_burma_paternal_autocrat_ADJ: "Бирманск"
+ BRM_republic_of_burma_paternal_autocrat_DEF: "Бирманское Государство"
+ BRM_republic_of_burma_national_populist: "Бирма"
+ BRM_republic_of_burma_national_populist_ADJ: "Бирманск"
+ BRM_republic_of_burma_national_populist_DEF: "Бирманская Империя"
+ BRM_republic_of_burma_valkist: "Государство Бирма"
+ BRM_republic_of_burma_valkist_ADJ: "Бирманск"
+ BRM_republic_of_burma_valkist_DEF: "Государство Бирма"
   
  ##BRM## 
  BRM_Than_Tun_hog_van: "Thakin Than Tun" #NT!

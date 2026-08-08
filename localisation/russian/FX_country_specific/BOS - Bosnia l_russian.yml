@@ -1,39 +1,39 @@
 ﻿l_russian:
   
  ### Country Names 
- BOS_vanguardist: "Bosnian Socialist Union" #NT!
- BOS_vanguardist_ADJ: "Bosnian" #NT!
- BOS_vanguardist_DEF: "the Bosnian Socialist Union" #NT!
- BOS_collectivist: "Bosnian Socialist Union" #NT!
- BOS_collectivist_ADJ: "Bosnian" #NT!
- BOS_collectivist_DEF: "the Bosnian Socialist Union" #NT!
- BOS_libertarian_socialist: "Bosnian Socialist Union" #NT!
- BOS_libertarian_socialist_ADJ: "Bosnian" #NT!
- BOS_libertarian_socialist_DEF: "Bosnian Socialist Union" #NT!
- BOS_social_democrat: "Bosnia" #NT!
- BOS_social_democrat_ADJ: "Bosnian" #NT!
- BOS_social_democrat_DEF: "Bosnia" #NT!
- BOS_social_liberal: "Bosnia" #NT!
- BOS_social_liberal_ADJ: "Bosnian" #NT!
- BOS_social_liberal_DEF: "Bosnia" #NT!
- BOS_market_liberal: "Bosnia" #NT!
- BOS_market_liberal_ADJ: "Bosnian" #NT!
- BOS_market_liberal_DEF: "Bosnia" #NT!
- BOS_social_conservative: "Kingdom of Bosnia" #NT!
- BOS_social_conservative_ADJ: "Bosnian" #NT!
- BOS_social_conservative_DEF: "the Kingdom of Bosnia " #NT!
- BOS_authoritarian_democrat: "Bosnian Dictatorship" #NT!
- BOS_authoritarian_democrat_ADJ: "Bosnian" #NT!
- BOS_authoritarian_democrat_DEF: "the Bosnian Dictatorship" #NT!
- BOS_paternal_autocrat: "Kingdom of Bosnia" #NT!
- BOS_paternal_autocrat_ADJ: "Bosnian" #NT!
- BOS_paternal_autocrat_DEF: "the Kingdom of Bosnia" #NT!
- BOS_national_populist: "Kingdom of Bosnia" #NT!
- BOS_national_populist_ADJ: "Bosnian" #NT!
- BOS_national_populist_DEF: "the Kingdom of Bosnia" #NT!
- BOS_valkist: "State of Bosnia" #NT!
- BOS_valkist_ADJ: "Bosnian" #NT!
- BOS_valkist_DEF: "the State of Bosnia" #NT!
+ BOS_vanguardist: "Боснийский Социалистический Союз"
+ BOS_vanguardist_ADJ: "Боснийск"
+ BOS_vanguardist_DEF: "Боснийский Социалистический Союз"
+ BOS_collectivist: "Боснийский Социалистический Союз"
+ BOS_collectivist_ADJ: "Боснийск"
+ BOS_collectivist_DEF: "Боснийский Социалистический Союз"
+ BOS_libertarian_socialist: "Боснийский Социалистический Союз"
+ BOS_libertarian_socialist_ADJ: "Боснийск"
+ BOS_libertarian_socialist_DEF: "Боснийский Социалистический Союз"
+ BOS_social_democrat: "Босния"
+ BOS_social_democrat_ADJ: "Боснийск"
+ BOS_social_democrat_DEF: "Босния"
+ BOS_social_liberal: "Босния"
+ BOS_social_liberal_ADJ: "Боснийск"
+ BOS_social_liberal_DEF: "Босния"
+ BOS_market_liberal: "Босния"
+ BOS_market_liberal_ADJ: "Боснийск"
+ BOS_market_liberal_DEF: "Босния"
+ BOS_social_conservative: "Королевство Босния"
+ BOS_social_conservative_ADJ: "Боснийск"
+ BOS_social_conservative_DEF: "Королевство Босния"
+ BOS_authoritarian_democrat: "Боснийская диктатура"
+ BOS_authoritarian_democrat_ADJ: "Боснийск"
+ BOS_authoritarian_democrat_DEF: "Боснийская диктатура"
+ BOS_paternal_autocrat: "Королевство Босния"
+ BOS_paternal_autocrat_ADJ: "Боснийск"
+ BOS_paternal_autocrat_DEF: "Королевство Босния"
+ BOS_national_populist: "Королевство Босния"
+ BOS_national_populist_ADJ: "Боснийск"
+ BOS_national_populist_DEF: "Королевство Босния"
+ BOS_valkist: "Государство Босния"
+ BOS_valkist_ADJ: "Боснийск"
+ BOS_valkist_DEF: "Государство Босния"
   
  BOS_SER_subject: "Bosnian State" #NT!
  BOS_SER_autonomy_integrated_puppet: "Bosnian State" #NT!

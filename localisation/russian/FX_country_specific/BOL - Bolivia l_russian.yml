@@ -3,39 +3,39 @@
  BOL_FUHRERREICH_DESC: "History hasn't been kind to Bolivia. Struggling as its neighbours took away the little advantages it had, Bolivia has been almost perpetually in decline geopolitically. Turned numb by the repeated failures, the people of Bolivia have suffered a lot and done all they can to go forwards. A chance came during the Chaco War, when they almost defeat Paraguay in a brutal war. However, this chance of redemption was taken away by the Argentinian intervention, and now the Bolivian people can't stand this anymore. The Republic of Bolivia has to die, so the Bolivian people can rise." #NT!
   
  ### Country Names 
- BOL_vanguardist: "People's Republic of Bolivia" #NT!
- BOL_vanguardist_ADJ: "Bolivian" #NT!
- BOL_vanguardist_DEF: "the People's Republic of Bolivia" #NT!
- BOL_collectivist: "Worker's Republic of Bolivia" #NT!
- BOL_collectivist_ADJ: "Bolivian" #NT!
- BOL_collectivist_DEF: "the Workers' Republic of Bolivia" #NT!
- BOL_libertarian_socialist: "Workers' Republic of Bolivia" #NT!
- BOL_libertarian_socialist_ADJ: "Bolivian" #NT!
- BOL_libertarian_socialist_DEF: "the Workers' Republic of Bolivia" #NT!
- BOL_social_democrat: "Republic of Bolivia" #NT!
- BOL_social_democrat_ADJ: "Bolivian" #NT!
- BOL_social_democrat_DEF: "the Republic of Bolivia" #NT!
- BOL_social_liberal: "Republic of Bolivia" #NT!
- BOL_social_liberal_ADJ: "Bolivian" #NT!
- BOL_social_liberal_DEF: "the Republic of Bolivia" #NT!
- BOL_market_liberal: "Republic of Bolivia" #NT!
- BOL_market_liberal_ADJ: "Bolivian" #NT!
- BOL_market_liberal_DEF: "the Republic of Bolivia" #NT!
- BOL_social_conservative: "Republic of Bolivia" #NT!
- BOL_social_conservative_ADJ: "Bolivian" #NT!
- BOL_social_conservative_DEF: "the Republic of Bolivia" #NT!
- BOL_authoritarian_democrat: "Republic of Bolivia" #NT!
- BOL_authoritarian_democrat_ADJ: "Bolivian" #NT!
- BOL_authoritarian_democrat_DEF: "the Republic of Bolivia" #NT!
- BOL_paternal_autocrat: "State of Bolivia" #NT!
- BOL_paternal_autocrat_ADJ: "Bolivian" #NT!
- BOL_paternal_autocrat_DEF: "the State of Bolivia" #NT!
- BOL_national_populist: "State of Bolivia" #NT!
- BOL_national_populist_ADJ: "Bolivian" #NT!
- BOL_national_populist_DEF: "the State of Bolivia" #NT!
- BOL_valkist: "Wuliwya Suyu" #NT!
- BOL_valkist_ADJ: "Bolivian" #NT!
- BOL_valkist_DEF: "Wuliwya Suyu" #NT!
+ BOL_vanguardist: "Народная Республика Боливия"
+ BOL_vanguardist_ADJ: "Боливийск"
+ BOL_vanguardist_DEF: "Народная Республика Боливия"
+ BOL_collectivist: "Рабочая Республика Боливия"
+ BOL_collectivist_ADJ: "Боливийск"
+ BOL_collectivist_DEF: "Рабочая Республика Боливия"
+ BOL_libertarian_socialist: "Рабочая Республика Боливия"
+ BOL_libertarian_socialist_ADJ: "Боливийск"
+ BOL_libertarian_socialist_DEF: "Рабочая Республика Боливия"
+ BOL_social_democrat: "Республика Боливия"
+ BOL_social_democrat_ADJ: "Боливийск"
+ BOL_social_democrat_DEF: "Республика Боливия"
+ BOL_social_liberal: "Республика Боливия"
+ BOL_social_liberal_ADJ: "Боливийск"
+ BOL_social_liberal_DEF: "Республика Боливия"
+ BOL_market_liberal: "Республика Боливия"
+ BOL_market_liberal_ADJ: "Боливийск"
+ BOL_market_liberal_DEF: "Республика Боливия"
+ BOL_social_conservative: "Республика Боливия"
+ BOL_social_conservative_ADJ: "Боливийск"
+ BOL_social_conservative_DEF: "Республика Боливия"
+ BOL_authoritarian_democrat: "Республика Боливия"
+ BOL_authoritarian_democrat_ADJ: "Боливийск"
+ BOL_authoritarian_democrat_DEF: "Республика Боливия"
+ BOL_paternal_autocrat: "Государство Боливия"
+ BOL_paternal_autocrat_ADJ: "Боливийск"
+ BOL_paternal_autocrat_DEF: "Государство Боливия"
+ BOL_national_populist: "Государство Боливия"
+ BOL_national_populist_ADJ: "Боливийск"
+ BOL_national_populist_DEF: "Государство Боливия"
+ BOL_valkist: "Уливья Суйу"
+ BOL_valkist_ADJ: "Боливийск"
+ BOL_valkist_DEF: "Уливья Суйу"
   
   
  BOL_vanguardist_party: "POR" #NT!

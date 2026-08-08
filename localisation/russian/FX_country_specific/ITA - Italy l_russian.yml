@@ -4,178 +4,178 @@
  ITA_FUHRERREICH_DESC: "The Great War pushed Italy to her breaking point. Despite standing as one of the victorious powers following the conflict the nation was on brink of a civil war. Radical groups on both ends of the political spectrum were pushing for conflicting societal changes that threatened to tear the nation apart. Compromise between the Socialists and the newly founded PPI brought much needed reforms to Italy but many of the core conflicts of this era still remain." #NT!
   
  ### Country Names 
- ITA_vanguardist: "Socialist Republic of Italy" #NT!
- ITA_vanguardist_ADJ: "Italian" #NT!
- ITA_vanguardist_DEF: "the Socialist Republic of Italy" #NT!
- ITA_collectivist: "People's Republic of Italy" #NT!
- ITA_collectivist_ADJ: "Italian" #NT!
- ITA_collectivist_DEF: "the Socialist Republic of Italy" #NT!
- ITA_libertarian_socialist: "Socialist Republic of Italy" #NT!
- ITA_libertarian_socialist_ADJ: "Italian" #NT!
- ITA_libertarian_socialist_DEF: "the Socialist Republic of Italy" #NT!
- ITA_social_democrat: "Republic of Italy" #NT!
- ITA_social_democrat_ADJ: "Italian" #NT!
- ITA_social_democrat_DEF: "the Republic of Italy" #NT!
- ITA_social_liberal: "Republic of Italy" #NT!
- ITA_social_liberal_ADJ: "Italian" #NT!
- ITA_social_liberal_DEF: "the Republic of Italy" #NT!
- ITA_market_liberal: "Republic of Italy" #NT!
- ITA_market_liberal_ADJ: "Italian" #NT!
- ITA_market_liberal_DEF: "the Republic of Italy" #NT!
- ITA_social_conservative: "Republic of Italy" #NT!
- ITA_social_conservative_ADJ: "Italian" #NT!
- ITA_social_conservative_DEF: "the Republic of Italy" #NT!
- ITA_authoritarian_democrat: "Republic of Italy" #NT!
- ITA_authoritarian_democrat_ADJ: "Italian" #NT!
- ITA_authoritarian_democrat_DEF: "the Republic of Italy" #NT!
- ITA_paternal_autocrat: "Kingdom of Italy" #NT!
- ITA_paternal_autocrat_ADJ: "Italian" #NT!
- ITA_paternal_autocrat_DEF: "the Kingdom of Italy" #NT!
- ITA_national_populist: "Italian Social Republic" #NT!
- ITA_national_populist_ADJ: "Italian" #NT!
- ITA_national_populist_DEF: "the Italian Social Republic" #NT!
- ITA_valkist: "Italian Social Republic" #NT!
- ITA_valkist_ADJ: "Italian" #NT!
- ITA_valkist_DEF: "the Italian Social Republic" #NT!
+ ITA_vanguardist: "Социалистическая Республика Италия"
+ ITA_vanguardist_ADJ: "Итальянск"
+ ITA_vanguardist_DEF: "Социалистическая Республика Италия"
+ ITA_collectivist: "Народная Республика Италия"
+ ITA_collectivist_ADJ: "Итальянск"
+ ITA_collectivist_DEF: "Социалистическая Республика Италия"
+ ITA_libertarian_socialist: "Социалистическая Республика Италия"
+ ITA_libertarian_socialist_ADJ: "Итальянск"
+ ITA_libertarian_socialist_DEF: "Социалистическая Республика Италия"
+ ITA_social_democrat: "Республика Италия"
+ ITA_social_democrat_ADJ: "Итальянск"
+ ITA_social_democrat_DEF: "Республика Италия"
+ ITA_social_liberal: "Республика Италия"
+ ITA_social_liberal_ADJ: "Итальянск"
+ ITA_social_liberal_DEF: "Республика Италия"
+ ITA_market_liberal: "Республика Италия"
+ ITA_market_liberal_ADJ: "Итальянск"
+ ITA_market_liberal_DEF: "Республика Италия"
+ ITA_social_conservative: "Республика Италия"
+ ITA_social_conservative_ADJ: "Итальянск"
+ ITA_social_conservative_DEF: "Республика Италия"
+ ITA_authoritarian_democrat: "Республика Италия"
+ ITA_authoritarian_democrat_ADJ: "Итальянск"
+ ITA_authoritarian_democrat_DEF: "Республика Италия"
+ ITA_paternal_autocrat: "Королевство Италия"
+ ITA_paternal_autocrat_ADJ: "Итальянск"
+ ITA_paternal_autocrat_DEF: "Королевство Италия"
+ ITA_national_populist: "Итальянская Социальная Республика"
+ ITA_national_populist_ADJ: "Итальянск"
+ ITA_national_populist_DEF: "Итальянская Социальная Республика"
+ ITA_valkist: "Итальянская Социальная Республика"
+ ITA_valkist_ADJ: "Итальянск"
+ ITA_valkist_DEF: "Итальянская Социальная Республика"
   
- PIE_PIE_socialist: "Socialist Republic of Italy" #NT!
- PIE_PIE_socialist_ADJ: "Italian" #NT!
- PIE_PIE_socialist_DEF: "the Socialist Republic of Italy" #NT!
- PIE_socialist_vanguardist: "Socialist Republic of Italy" #NT!
- PIE_socialist_vanguardist_ADJ: "Italian" #NT!
- PIE_socialist_vanguardist_DEF: "the Socialist Republic of Italy" #NT!
- PIE_socialist_collectivist: "Socialist Republic of Italy" #NT!
- PIE_socialist_collectivist_ADJ: "Italian" #NT!
- PIE_socialist_collectivist_DEF: "the Socialist Republic of Italy" #NT!
- PIE_socialist_libertarian_socialist: "Socialist Republic of Italy" #NT!
- PIE_socialist_libertarian_socialist_ADJ: "Italian" #NT!
- PIE_socialist_libertarian_socialist_DEF: "the Socialist Republic of Italy" #NT!
- PIE_socialist_social_democrat: "Socialist Republic of Italy" #NT!
- PIE_socialist_social_democrat_ADJ: "Italian" #NT!
- PIE_socialist_social_democrat_DEF: "the Socialist Republic of Italy" #NT!
- PIE_socialist_social_liberal: "Socialist Republic of Italy" #NT!
- PIE_socialist_social_liberal_ADJ: "Italian" #NT!
- PIE_socialist_social_liberal_DEF: "the Socialist Republic of Italy" #NT!
- PIE_socialist_market_liberal: "Socialist Republic of Italy" #NT!
- PIE_socialist_market_liberal_ADJ: "Italian" #NT!
- PIE_socialist_market_liberal_DEF: "the Socialist Republic of Italy" #NT!
- PIE_socialist_social_conservative: "Socialist Republic of Italy" #NT!
- PIE_socialist_social_conservative_ADJ: "Italian" #NT!
- PIE_socialist_social_conservative_DEF: "the Socialist Republic of Italy" #NT!
- PIE_socialist_authoritarian_democrat: "Socialist Republic of Italy" #NT!
- PIE_socialist_authoritarian_democrat_ADJ: "Italian" #NT!
- PIE_socialist_authoritarian_democrat_DEF: "the Socialist Republic of Italy" #NT!
- PIE_socialist_paternal_autocrat: "Socialist Republic of Italy" #NT!
- PIE_socialist_paternal_autocrat_ADJ: "Italian" #NT!
- PIE_socialist_paternal_autocrat_DEF: "the Socialist Republic of Italy" #NT!
- PIE_socialist_national_populist: "Socialist Republic of Italy" #NT!
- PIE_socialist_national_populist_ADJ: "Italian" #NT!
- PIE_socialist_national_populist_DEF: "the Socialist Republic of Italy" #NT!
- PIE_socialist_valkist: "Socialist Republic of Italy" #NT!
- PIE_socialist_valkist_ADJ: "Italian" #NT!
- PIE_socialist_valkist_DEF: "the Socialist Republic of Italy" #NT!
+ PIE_PIE_socialist: "Социалистическая Республика Италия"
+ PIE_PIE_socialist_ADJ: "Итальянск"
+ PIE_PIE_socialist_DEF: "Социалистическая Республика Италия"
+ PIE_socialist_vanguardist: "Социалистическая Республика Италия"
+ PIE_socialist_vanguardist_ADJ: "Итальянск"
+ PIE_socialist_vanguardist_DEF: "Социалистическая Республика Италия"
+ PIE_socialist_collectivist: "Социалистическая Республика Италия"
+ PIE_socialist_collectivist_ADJ: "Итальянск"
+ PIE_socialist_collectivist_DEF: "Социалистическая Республика Италия"
+ PIE_socialist_libertarian_socialist: "Социалистическая Республика Италия"
+ PIE_socialist_libertarian_socialist_ADJ: "Итальянск"
+ PIE_socialist_libertarian_socialist_DEF: "Социалистическая Республика Италия"
+ PIE_socialist_social_democrat: "Социалистическая Республика Италия"
+ PIE_socialist_social_democrat_ADJ: "Итальянск"
+ PIE_socialist_social_democrat_DEF: "Социалистическая Республика Италия"
+ PIE_socialist_social_liberal: "Социалистическая Республика Италия"
+ PIE_socialist_social_liberal_ADJ: "Итальянск"
+ PIE_socialist_social_liberal_DEF: "Социалистическая Республика Италия"
+ PIE_socialist_market_liberal: "Социалистическая Республика Италия"
+ PIE_socialist_market_liberal_ADJ: "Итальянск"
+ PIE_socialist_market_liberal_DEF: "Социалистическая Республика Италия"
+ PIE_socialist_social_conservative: "Социалистическая Республика Италия"
+ PIE_socialist_social_conservative_ADJ: "Итальянск"
+ PIE_socialist_social_conservative_DEF: "Социалистическая Республика Италия"
+ PIE_socialist_authoritarian_democrat: "Социалистическая Республика Италия"
+ PIE_socialist_authoritarian_democrat_ADJ: "Итальянск"
+ PIE_socialist_authoritarian_democrat_DEF: "Социалистическая Республика Италия"
+ PIE_socialist_paternal_autocrat: "Социалистическая Республика Италия"
+ PIE_socialist_paternal_autocrat_ADJ: "Итальянск"
+ PIE_socialist_paternal_autocrat_DEF: "Социалистическая Республика Италия"
+ PIE_socialist_national_populist: "Социалистическая Республика Италия"
+ PIE_socialist_national_populist_ADJ: "Итальянск"
+ PIE_socialist_national_populist_DEF: "Социалистическая Республика Италия"
+ PIE_socialist_valkist: "Социалистическая Республика Италия"
+ PIE_socialist_valkist_ADJ: "Итальянск"
+ PIE_socialist_valkist_DEF: "Социалистическая Республика Италия"
   
- SCI_nationalist_vanguardist: "Italian Social Republic" #NT!
- SCI_nationalist_vanguardist_ADJ: "Italian" #NT!
- SCI_nationalist_vanguardist_DEF: "the Italian Social Republic" #NT!
- SCI_nationalist_collectivist: "Italian Social Republic" #NT!
- SCI_nationalist_collectivist_ADJ: "Italian" #NT!
- SCI_nationalist_collectivist_DEF: "the Italian Social Republic" #NT!
- SCI_nationalist_libertarian_socialist: "Italian Social Republic" #NT!
- SCI_nationalist_libertarian_socialist_ADJ: "Italian" #NT!
- SCI_nationalist_libertarian_socialist_DEF: "the Italian Social Republic" #NT!
- SCI_nationalist_social_democrat: "Italian Social Republic" #NT!
- SCI_nationalist_social_democrat_ADJ: "Italian" #NT!
- SCI_nationalist_social_democrat_DEF: "the Italian Social Republic" #NT!
- SCI_nationalist_social_liberal: "Italian Social Republic" #NT!
- SCI_nationalist_social_liberal_ADJ: "Italian" #NT!
- SCI_nationalist_social_liberal_DEF: "the Italian Social Republic" #NT!
- SCI_nationalist_market_liberal: "Italian Social Republic" #NT!
- SCI_nationalist_market_liberal_ADJ: "Italian" #NT!
- SCI_nationalist_market_liberal_DEF: "the Italian Social Republic" #NT!
- SCI_nationalist_social_conservative: "Italian Social Republic" #NT!
- SCI_nationalist_social_conservative_ADJ: "Italian" #NT!
- SCI_nationalist_social_conservative_DEF: "the Italian Social Republic" #NT!
- SCI_nationalist_authoritarian_democrat: "Italian Social Republic" #NT!
- SCI_nationalist_authoritarian_democrat_ADJ: "Italian" #NT!
- SCI_nationalist_authoritarian_democrat_DEF: "the Italian Social Republic" #NT!
- SCI_nationalist_paternal_autocrat: "Italian Social Republic" #NT!
- SCI_nationalist_paternal_autocrat_ADJ: "Italian" #NT!
- SCI_nationalist_paternal_autocrat_DEF: "the Italian Social Republic" #NT!
- SCI_nationalist_national_populist: "Italian Social Republic" #NT!
- SCI_nationalist_national_populist_ADJ: "Italian" #NT!
- SCI_nationalist_national_populist_DEF: "the Italian Social Republic" #NT!
- SCI_nationalist_valkist: "Italian Social Republic" #NT!
- SCI_nationalist_valkist_ADJ: "Italian" #NT!
- SCI_nationalist_valkist_DEF: "the Italian Social Republic" #NT!
+ SCI_nationalist_vanguardist: "Итальянская Социальная Республика"
+ SCI_nationalist_vanguardist_ADJ: "Итальянск"
+ SCI_nationalist_vanguardist_DEF: "Итальянская Социальная Республика"
+ SCI_nationalist_collectivist: "Итальянская Социальная Республика"
+ SCI_nationalist_collectivist_ADJ: "Итальянск"
+ SCI_nationalist_collectivist_DEF: "Итальянская Социальная Республика"
+ SCI_nationalist_libertarian_socialist: "Итальянская Социальная Республика"
+ SCI_nationalist_libertarian_socialist_ADJ: "Итальянск"
+ SCI_nationalist_libertarian_socialist_DEF: "Итальянская Социальная Республика"
+ SCI_nationalist_social_democrat: "Итальянская Социальная Республика"
+ SCI_nationalist_social_democrat_ADJ: "Итальянск"
+ SCI_nationalist_social_democrat_DEF: "Итальянская Социальная Республика"
+ SCI_nationalist_social_liberal: "Итальянская Социальная Республика"
+ SCI_nationalist_social_liberal_ADJ: "Итальянск"
+ SCI_nationalist_social_liberal_DEF: "Итальянская Социальная Республика"
+ SCI_nationalist_market_liberal: "Итальянская Социальная Республика"
+ SCI_nationalist_market_liberal_ADJ: "Итальянск"
+ SCI_nationalist_market_liberal_DEF: "Итальянская Социальная Республика"
+ SCI_nationalist_social_conservative: "Итальянская Социальная Республика"
+ SCI_nationalist_social_conservative_ADJ: "Итальянск"
+ SCI_nationalist_social_conservative_DEF: "Итальянская Социальная Республика"
+ SCI_nationalist_authoritarian_democrat: "Итальянская Социальная Республика"
+ SCI_nationalist_authoritarian_democrat_ADJ: "Итальянск"
+ SCI_nationalist_authoritarian_democrat_DEF: "Итальянская Социальная Республика"
+ SCI_nationalist_paternal_autocrat: "Итальянская Социальная Республика"
+ SCI_nationalist_paternal_autocrat_ADJ: "Итальянск"
+ SCI_nationalist_paternal_autocrat_DEF: "Итальянская Социальная Республика"
+ SCI_nationalist_national_populist: "Итальянская Социальная Республика"
+ SCI_nationalist_national_populist_ADJ: "Итальянск"
+ SCI_nationalist_national_populist_DEF: "Итальянская Социальная Республика"
+ SCI_nationalist_valkist: "Итальянская Социальная Республика"
+ SCI_nationalist_valkist_ADJ: "Итальянск"
+ SCI_nationalist_valkist_DEF: "Итальянская Социальная Республика"
   
- ITA_kingdom_vanguardist: "Kingdom of Italy" #NT!
- ITA_kingdom_vanguardist_ADJ: "Italian" #NT!
- ITA_kingdom_vanguardist_DEF: "the Kingdom of Italy" #NT!
- ITA_kingdom_collectivist: "Kingdom of Italy" #NT!
- ITA_kingdom_collectivist_ADJ: "Italian" #NT!
- ITA_kingdom_collectivist_DEF: "the Kingdom of Italy" #NT!
- ITA_kingdom_libertarian_socialist: "Kingdom of Italy" #NT!
- ITA_kingdom_libertarian_socialist_ADJ: "Italian" #NT!
- ITA_kingdom_libertarian_socialist_DEF: "the Kingdom of Italy" #NT!
- ITA_kingdom_social_democrat: "Kingdom of Italy" #NT!
- ITA_kingdom_social_democrat_ADJ: "Italian" #NT!
- ITA_kingdom_social_democrat_DEF: "the Kingdom of Italy" #NT!
- ITA_kingdom_social_liberal: "Kingdom of Italy" #NT!
- ITA_kingdom_social_liberal_ADJ: "Italian" #NT!
- ITA_kingdom_social_liberal_DEF: "the Kingdom of Italy" #NT!
- ITA_kingdom_market_liberal: "Kingdom of Italy" #NT!
- ITA_kingdom_market_liberal_ADJ: "Italian" #NT!
- ITA_kingdom_market_liberal_DEF: "the Kingdom of Italy" #NT!
- ITA_kingdom_social_conservative: "Kingdom of Italy" #NT!
- ITA_kingdom_social_conservative_ADJ: "Italian" #NT!
- ITA_kingdom_social_conservative_DEF: "the Kingdom of Italy" #NT!
- ITA_kingdom_authoritarian_democrat: "Kingdom of Italy" #NT!
- ITA_kingdom_authoritarian_democrat_ADJ: "Italian" #NT!
- ITA_kingdom_authoritarian_democrat_DEF: "the Kingdom of Italy" #NT!
- ITA_kingdom_paternal_autocrat: "Kingdom of Italy" #NT!
- ITA_kingdom_paternal_autocrat_ADJ: "Italian" #NT!
- ITA_kingdom_paternal_autocrat_DEF: "the Kingdom of Italy" #NT!
- ITA_kingdom_national_populist: "Kingdom of Italy" #NT!
- ITA_kingdom_national_populist_ADJ: "Italian" #NT!
- ITA_kingdom_national_populist_DEF: "the Kingdom of Italy" #NT!
- ITA_kingdom_valkist: "Kingdom of Italy" #NT!
- ITA_kingdom_valkist_ADJ: "Italian" #NT!
- ITA_kingdom_valkist_DEF: "the Kingdom of Italy" #NT!
+ ITA_kingdom_vanguardist: "Королевство Италия"
+ ITA_kingdom_vanguardist_ADJ: "Итальянск"
+ ITA_kingdom_vanguardist_DEF: "Королевство Италия"
+ ITA_kingdom_collectivist: "Королевство Италия"
+ ITA_kingdom_collectivist_ADJ: "Итальянск"
+ ITA_kingdom_collectivist_DEF: "Королевство Италия"
+ ITA_kingdom_libertarian_socialist: "Королевство Италия"
+ ITA_kingdom_libertarian_socialist_ADJ: "Итальянск"
+ ITA_kingdom_libertarian_socialist_DEF: "Королевство Италия"
+ ITA_kingdom_social_democrat: "Королевство Италия"
+ ITA_kingdom_social_democrat_ADJ: "Итальянск"
+ ITA_kingdom_social_democrat_DEF: "Королевство Италия"
+ ITA_kingdom_social_liberal: "Королевство Италия"
+ ITA_kingdom_social_liberal_ADJ: "Итальянск"
+ ITA_kingdom_social_liberal_DEF: "Королевство Италия"
+ ITA_kingdom_market_liberal: "Королевство Италия"
+ ITA_kingdom_market_liberal_ADJ: "Итальянск"
+ ITA_kingdom_market_liberal_DEF: "Королевство Италия"
+ ITA_kingdom_social_conservative: "Королевство Италия"
+ ITA_kingdom_social_conservative_ADJ: "Итальянск"
+ ITA_kingdom_social_conservative_DEF: "Королевство Италия"
+ ITA_kingdom_authoritarian_democrat: "Королевство Италия"
+ ITA_kingdom_authoritarian_democrat_ADJ: "Итальянск"
+ ITA_kingdom_authoritarian_democrat_DEF: "Королевство Италия"
+ ITA_kingdom_paternal_autocrat: "Королевство Италия"
+ ITA_kingdom_paternal_autocrat_ADJ: "Итальянск"
+ ITA_kingdom_paternal_autocrat_DEF: "Королевство Италия"
+ ITA_kingdom_national_populist: "Королевство Италия"
+ ITA_kingdom_national_populist_ADJ: "Итальянск"
+ ITA_kingdom_national_populist_DEF: "Королевство Италия"
+ ITA_kingdom_valkist: "Королевство Италия"
+ ITA_kingdom_valkist_ADJ: "Итальянск"
+ ITA_kingdom_valkist_DEF: "Королевство Италия"
   
- LTR_vanguardist: "Italian Commune" #NT!
- LTR_vanguardist_ADJ: "Italian" #NT!
- LTR_vanguardist_DEF: "the Commune of Italy" #NT!
- LTR_collectivist: "Italian Commune" #NT!
- LTR_collectivist_ADJ: "Italian" #NT!
- LTR_collectivist_DEF: "the Commune of Italy" #NT!
- LTR_libertarian_socialist: "Italian People's Republic" #NT!
- LTR_libertarian_socialist_ADJ: "Italian" #NT!
- LTR_libertarian_socialist_DEF: "the People's Republic of Italy" #NT!
- LTR_social_democrat: "Kingdom of Italy" #NT!
- LTR_social_democrat_ADJ: "Italian" #NT!
- LTR_social_democrat_DEF: "the Kingdom of Italy" #NT!
- LTR_social_liberal: "Kingdom of Italy" #NT!
- LTR_social_liberal_ADJ: "Italian" #NT!
- LTR_social_liberal_DEF: "the Kingdom of Italy" #NT!
- LTR_market_liberal: "Kingdom of Italy" #NT!
- LTR_market_liberal_ADJ: "Italian" #NT!
- LTR_market_liberal_DEF: "the Kingdom of Italy" #NT!
- LTR_social_conservative: "Kingdom of Italy" #NT!
- LTR_social_conservative_ADJ: "Italian" #NT!
- LTR_social_conservative_DEF: "the Kingdom of Italy" #NT!
- LTR_authoritarian_democrat: "Italian State" #NT!
- LTR_authoritarian_democrat_ADJ: "Italian" #NT!
- LTR_authoritarian_democrat_DEF: "the State of Italy" #NT!
- LTR_paternal_autocrat: "Greater Italy" #NT!
- LTR_paternal_autocrat_ADJ: "Italian" #NT!
- LTR_paternal_autocrat_DEF: "the Greater Italian State" #NT!
- LTR_national_populist: "Mediterranean Empire" #NT!
- LTR_national_populist_ADJ: "Italian" #NT!
- LTR_national_populist_DEF: "the Mediterranean Empire" #NT!
- LTR_valkist: "Latin Republic" #NT!
- LTR_valkist_ADJ: "Latinus" #NT!
- LTR_valkist_DEF: "the Latin Republic" #NT!
+ LTR_vanguardist: "Итальянская Коммуна"
+ LTR_vanguardist_ADJ: "Итальянск"
+ LTR_vanguardist_DEF: "Коммуна Италии"
+ LTR_collectivist: "Итальянская Коммуна"
+ LTR_collectivist_ADJ: "Итальянск"
+ LTR_collectivist_DEF: "Коммуна Италии"
+ LTR_libertarian_socialist: "Итальянская Народная Республика"
+ LTR_libertarian_socialist_ADJ: "Итальянск"
+ LTR_libertarian_socialist_DEF: "Народная Республика Италия"
+ LTR_social_democrat: "Королевство Италия"
+ LTR_social_democrat_ADJ: "Итальянск"
+ LTR_social_democrat_DEF: "Королевство Италия"
+ LTR_social_liberal: "Королевство Италия"
+ LTR_social_liberal_ADJ: "Итальянск"
+ LTR_social_liberal_DEF: "Королевство Италия"
+ LTR_market_liberal: "Королевство Италия"
+ LTR_market_liberal_ADJ: "Итальянск"
+ LTR_market_liberal_DEF: "Королевство Италия"
+ LTR_social_conservative: "Королевство Италия"
+ LTR_social_conservative_ADJ: "Итальянск"
+ LTR_social_conservative_DEF: "Королевство Италия"
+ LTR_authoritarian_democrat: "Итальянское Государство"
+ LTR_authoritarian_democrat_ADJ: "Итальянск"
+ LTR_authoritarian_democrat_DEF: "Государство Италия"
+ LTR_paternal_autocrat: "Великая Италия"
+ LTR_paternal_autocrat_ADJ: "Итальянск"
+ LTR_paternal_autocrat_DEF: "Великое Итальянское Государство"
+ LTR_national_populist: "Средиземноморская Империя"
+ LTR_national_populist_ADJ: "Итальянск"
+ LTR_national_populist_DEF: "Средиземноморская Империя"
+ LTR_valkist: "Латинская Республика"
+ LTR_valkist_ADJ: "Латинск"
+ LTR_valkist_DEF: "Латинская Республика"
   
  ### Parties 
  ITA_vanguardist_party: "PCI(CN)" #NT!

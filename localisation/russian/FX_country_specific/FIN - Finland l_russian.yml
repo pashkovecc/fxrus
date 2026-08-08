@@ -1,39 +1,39 @@
 ﻿l_russian:
   
  ### Country Names 
- FIN_vanguardist: "Finland" #NT!
- FIN_vanguardist_ADJ: "Finnish" #NT!
- FIN_vanguardist_DEF: "the Finnish Soviet Republic" #NT!
- FIN_collectivist: "Finland" #NT!
- FIN_collectivist_ADJ: "Finnish" #NT!
- FIN_collectivist_DEF: "the Finnish Soviet Republic" #NT!
- FIN_libertarian_socialist: "Finland" #NT!
- FIN_libertarian_socialist_ADJ: "Socialist" #NT!
- FIN_libertarian_socialist_DEF: "the Socialist Republic of Finland" #NT!
- FIN_social_democrat: "Finland" #NT!
- FIN_social_democrat_ADJ: "Finnish" #NT!
- FIN_social_democrat_DEF: "the Republic of Finland" #NT!
- FIN_social_liberal: "Finland" #NT!
- FIN_social_liberal_ADJ: "Finnish" #NT!
- FIN_social_liberal_DEF: "the Republic of Finland" #NT!
- FIN_market_liberal: "Finland" #NT!
- FIN_market_liberal_ADJ: "Finnish" #NT!
- FIN_market_liberal_DEF: "the Republic of Finland" #NT!
- FIN_social_conservative: "Finland" #NT!
- FIN_social_conservative_ADJ: "Finnish" #NT!
- FIN_social_conservative_DEF: "the Republic of Finland" #NT!
- FIN_authoritarian_democrat: "Finland" #NT!
- FIN_authoritarian_democrat_ADJ: "Finnish" #NT!
- FIN_authoritarian_democrat_DEF: "the National Republic of Finland" #NT!
- FIN_paternal_autocrat: "Finland" #NT!
- FIN_paternal_autocrat_ADJ: "Finnish" #NT!
- FIN_paternal_autocrat_DEF: "the Patriotic People's Republic of Finland" #NT!
- FIN_national_populist: "Finland" #NT!
- FIN_national_populist_ADJ: "Finnish" #NT!
- FIN_national_populist_DEF: "the Republic of Finland" #NT!
- FIN_valkist: "Finland" #NT!
- FIN_valkist_ADJ: "Finnish" #NT!
- FIN_valkist_DEF: "the Finnish State" #NT!
+ FIN_vanguardist: "Финляндия"
+ FIN_vanguardist_ADJ: "Финляндск"
+ FIN_vanguardist_DEF: "Финляндская Советская Республика"
+ FIN_collectivist: "Финляндия"
+ FIN_collectivist_ADJ: "Финляндск"
+ FIN_collectivist_DEF: "Финляндская Советская Республика"
+ FIN_libertarian_socialist: "Финляндия"
+ FIN_libertarian_socialist_ADJ: "Социалистическ"
+ FIN_libertarian_socialist_DEF: "Социалистическая Республика Финляндия"
+ FIN_social_democrat: "Финляндия"
+ FIN_social_democrat_ADJ: "Финляндск"
+ FIN_social_democrat_DEF: "Республика Финляндия"
+ FIN_social_liberal: "Финляндия"
+ FIN_social_liberal_ADJ: "Финляндск"
+ FIN_social_liberal_DEF: "Республика Финляндия"
+ FIN_market_liberal: "Финляндия"
+ FIN_market_liberal_ADJ: "Финляндск"
+ FIN_market_liberal_DEF: "Республика Финляндия"
+ FIN_social_conservative: "Финляндия"
+ FIN_social_conservative_ADJ: "Финляндск"
+ FIN_social_conservative_DEF: "Республика Финляндия"
+ FIN_authoritarian_democrat: "Финляндия"
+ FIN_authoritarian_democrat_ADJ: "Финляндск"
+ FIN_authoritarian_democrat_DEF: "Национальная Республика Финляндия"
+ FIN_paternal_autocrat: "Финляндия"
+ FIN_paternal_autocrat_ADJ: "Финляндск"
+ FIN_paternal_autocrat_DEF: "Патриотическая Народная Республика Финляндия"
+ FIN_national_populist: "Финляндия"
+ FIN_national_populist_ADJ: "Финляндск"
+ FIN_national_populist_DEF: "Республика Финляндия"
+ FIN_valkist: "Финляндия"
+ FIN_valkist_ADJ: "Финляндск"
+ FIN_valkist_DEF: "Финляндское Государство"
   
  FIN_socialist_vanguardist: "Finland" #NT!
  FIN_socialist_vanguardist_ADJ: "Finnish" #NT!

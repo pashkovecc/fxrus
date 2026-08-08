@@ -1,39 +1,39 @@
 ﻿l_russian:
   
  ### Country Names 
- BRA_vanguardist: "Republic of Brazil" #NT!
- BRA_vanguardist_ADJ: "Brazilian" #NT!
- BRA_vanguardist_DEF: "the Republic of Brazil" #NT!
- BRA_collectivist: "Republic of Brazil" #NT!
- BRA_collectivist_ADJ: "Brazilian" #NT!
- BRA_collectivist_DEF: "the Republic of Brazil" #NT!
- BRA_libertarian_socialist: "United States of Brazil" #NT!
- BRA_libertarian_socialist_ADJ: "Brazilian" #NT!
- BRA_libertarian_socialist_DEF: "the The United States of Brazil" #NT!
- BRA_social_democrat: "United States of Brazil" #NT!
- BRA_social_democrat_ADJ: "Brazilian" #NT!
- BRA_social_democrat_DEF: "the The United States of Brazil" #NT!
- BRA_social_liberal: "United States of Brazil" #NT!
- BRA_social_liberal_ADJ: "Brazilian" #NT!
- BRA_social_liberal_DEF: "the The United States of Brazil" #NT!
- BRA_market_liberal: "United States of Brazil" #NT!
- BRA_market_liberal_ADJ: "Brazilian" #NT!
- BRA_market_liberal_DEF: "the The United States of Brazil" #NT!
- BRA_social_conservative: "United States of Brazil" #NT!
- BRA_social_conservative_ADJ: "Brazilian" #NT!
- BRA_social_conservative_DEF: "the The United States of Brazil" #NT!
- BRA_authoritarian_democrat: "United States of of Brazil" #NT!
- BRA_authoritarian_democrat_ADJ: "Brazilian" #NT!
- BRA_authoritarian_democrat_DEF: "the The United States of Brazil" #NT!
- BRA_paternal_autocrat: "United States of Brazil" #NT!
- BRA_paternal_autocrat_ADJ: "Brazilian" #NT!
- BRA_paternal_autocrat_DEF: "the United States of Brazil" #NT!
- BRA_national_populist: "Republic of Brazil" #NT!
- BRA_national_populist_ADJ: "Brazilian" #NT!
- BRA_national_populist_DEF: "the Republic of Brazil" #NT!
- BRA_valkist: "Republic of Brazil" #NT!
- BRA_valkist_ADJ: "Brazilian" #NT!
- BRA_valkist_DEF: "the Republic of Brazil" #NT!
+ BRA_vanguardist: "Республика Бразилия"
+ BRA_vanguardist_ADJ: "Бразильск"
+ BRA_vanguardist_DEF: "Республика Бразилия"
+ BRA_collectivist: "Республика Бразилия"
+ BRA_collectivist_ADJ: "Бразильск"
+ BRA_collectivist_DEF: "Республика Бразилия"
+ BRA_libertarian_socialist: "Соединённые Штаты Бразилии"
+ BRA_libertarian_socialist_ADJ: "Бразильск"
+ BRA_libertarian_socialist_DEF: "Соединённые Штаты Бразилии"
+ BRA_social_democrat: "Соединённые Штаты Бразилии"
+ BRA_social_democrat_ADJ: "Бразильск"
+ BRA_social_democrat_DEF: "Соединённые Штаты Бразилии"
+ BRA_social_liberal: "Соединённые Штаты Бразилии"
+ BRA_social_liberal_ADJ: "Бразильск"
+ BRA_social_liberal_DEF: "Соединённые Штаты Бразилии"
+ BRA_market_liberal: "Соединённые Штаты Бразилии"
+ BRA_market_liberal_ADJ: "Бразильск"
+ BRA_market_liberal_DEF: "Соединённые Штаты Бразилии"
+ BRA_social_conservative: "Соединённые Штаты Бразилии"
+ BRA_social_conservative_ADJ: "Бразильск"
+ BRA_social_conservative_DEF: "Соединённые Штаты Бразилии"
+ BRA_authoritarian_democrat: "Соединённые Штаты Бразилии"
+ BRA_authoritarian_democrat_ADJ: "Бразильск"
+ BRA_authoritarian_democrat_DEF: "Соединённые Штаты Бразилии"
+ BRA_paternal_autocrat: "Соединённые Штаты Бразилии"
+ BRA_paternal_autocrat_ADJ: "Бразильск"
+ BRA_paternal_autocrat_DEF: "Соединённые Штаты Бразилии"
+ BRA_national_populist: "Республика Бразилия"
+ BRA_national_populist_ADJ: "Бразильск"
+ BRA_national_populist_DEF: "Республика Бразилия"
+ BRA_valkist: "Республика Бразилия"
+ BRA_valkist_ADJ: "Бразильск"
+ BRA_valkist_DEF: "Республика Бразилия"
   
  BRA_vanguardist_party: "PCB" #NT!
  BRA_vanguardist_party_long: "Partido Comunista Brasileiro\n§gCommunist Party of Brazil§!" #NT!

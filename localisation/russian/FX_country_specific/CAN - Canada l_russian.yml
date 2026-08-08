@@ -3,45 +3,43 @@
  #### Description ##### 
  CAN_FUHRERREICH_DESC: "Canada joined the Great War alongside the rest of the British Empire in the dark year of 1914. Following the Treaty of Versailles, Britain and her Dominions entered an era of economic prosperity which led to massive resource extraction missions in Canada. But not nearly all is well in the Dominion; the Unionist Coalition set up by Great-war Prime Minister Robert Borden was successfully maintained, but Liberal-Tory bickering has resurfaced, causing internal strife within the party. Additionally, many citizens are discontent because of the overwhelming political dominance of the 'Red Tories'... " #NT!
   
- ### Country Names 
- CAN_vanguardist: "Federation of Canadian Socialist States" #NT!
- CAN_vanguardist_ADJ: "Canadian" #NT!
- CAN_vanguardist_DEF: "the Federation of Canadian Socialist States" #NT!
- CAN_collectivist: "Federation of Canadian Socialist States" #NT!
- CAN_collectivist_ADJ: "Canadian" #NT!
- CAN_collectivist_DEF: "the Federation of Canadian Socialist States" #NT!
- CAN_libertarian_socialist: "Federation of Canadian Socialist States" #NT!
- CAN_libertarian_socialist_ADJ: "Canadian" #NT!
- CAN_libertarian_socialist_DEF: "the Federation of Canadian Socialist States" #NT!
- CAN_social_democrat: "Commonwealth of Canada" #NT!
- CAN_social_democrat_ADJ: "Canadian" #NT!
- CAN_social_democrat_DEF: "the Commonwealth of Canada" #NT!
- CAN_social_liberal: "Commonwealth of Canada" #NT!
- CAN_social_liberal_ADJ: "Canadian" #NT!
- CAN_social_liberal_DEF: "the Commonwealth of Canada" #NT!
- CAN_market_liberal: "Commonwealth of Canada" #NT!
- CAN_market_liberal_ADJ: "Canadian" #NT!
- CAN_market_liberal_DEF: "the Commonwealth of Canada" #NT!
- CAN_social_conservative: "Commonwealth of Canada" #NT!
- CAN_social_conservative_ADJ: "Canadian" #NT!
- CAN_social_conservative_DEF: "the Commonwealth of Canada" #NT!
- CAN_authoritarian_democrat: "Canadian State" #NT!
- CAN_authoritarian_democrat_ADJ: "Canadian" #NT!
- CAN_authoritarian_democrat_DEF: "the Canadian State" #NT!
- CAN_paternal_autocrat: "Kingdom of Canada" #NT!
- CAN_paternal_autocrat_ADJ: "Canadian" #NT!
- CAN_paternal_autocrat_DEF: "the Kingdom of Canada" #NT!
- CAN_national_populist: "Commonwealth of Canada" #NT!
- CAN_national_populist_ADJ: "Canadian" #NT!
- CAN_national_populist_DEF: "the Commonwealth of Canada" #NT!
- CAN_valkist: "Republic of Canada" #NT!
- CAN_valkist_ADJ: "Canadian" #NT!
- CAN_valkist_DEF: "the Republic of Canada" #NT!
+ CAN_vanguardist: "Федерация Канадских Социалистических Штатов"
+ CAN_vanguardist_ADJ: "Канадск"
+ CAN_vanguardist_DEF: "Федерация Канадских Социалистических Штатов"
+ CAN_collectivist: "Федерация Канадских Социалистических Штатов"
+ CAN_collectivist_ADJ: "Канадск"
+ CAN_collectivist_DEF: "Федерация Канадских Социалистических Штатов"
+ CAN_libertarian_socialist: "Федерация Канадских Социалистических Штатов"
+ CAN_libertarian_socialist_ADJ: "Канадск"
+ CAN_libertarian_socialist_DEF: "Федерация Канадских Социалистических Штатов"
+ CAN_social_democrat: "Содружество Канада"
+ CAN_social_democrat_ADJ: "Канадск"
+ CAN_social_democrat_DEF: "Содружество Канада"
+ CAN_social_liberal: "Содружество Канада"
+ CAN_social_liberal_ADJ: "Канадск"
+ CAN_social_liberal_DEF: "Содружество Канада"
+ CAN_market_liberal: "Содружество Канада"
+ CAN_market_liberal_ADJ: "Канадск"
+ CAN_market_liberal_DEF: "Содружество Канада"
+ CAN_social_conservative: "Содружество Канада"
+ CAN_social_conservative_ADJ: "Канадск"
+ CAN_social_conservative_DEF: "Содружество Канада"
+ CAN_authoritarian_democrat: "Канадское Государство"
+ CAN_authoritarian_democrat_ADJ: "Канадск"
+ CAN_authoritarian_democrat_DEF: "Канадское Государство"
+ CAN_paternal_autocrat: "Королевство Канада"
+ CAN_paternal_autocrat_ADJ: "Канадск"
+ CAN_paternal_autocrat_DEF: "Королевство Канада"
+ CAN_national_populist: "Содружество Канада"
+ CAN_national_populist_ADJ: "Канадск"
+ CAN_national_populist_DEF: "Содружество Канада"
+ CAN_valkist: "Республика Канада"
+ CAN_valkist_ADJ: "Канадск"
+ CAN_valkist_DEF: "Республика Канада"
   
- #### Cosmetic Tags #### 
- CAN_ENG: "Dominion of Canada" #NT!
- CAN_ENG_DEF: "the Dominion of Canada" #NT!
- CAN_ENG_ADJ: "Canadian" #NT!
+ CAN_ENG: "Доминион Канада"
+ CAN_ENG_DEF: "Доминион Канада"
+ CAN_ENG_ADJ: "Канадск"
   
  #### Focus Tree #### 
   

@@ -5,33 +5,33 @@
  BEA_ADJ: "Ост-индск" #NT!
  BEA_DEF: "Британская Ост-Индия" #NT!
   
- BEA_DUTCH_vanguardist: "Dutch East Indies" #NT!
- BEA_DUTCH_vanguardist_ADJ: "East Indian" #NT!
- BEA_DUTCH_vanguardist_DEF: "the Dutch East Indies" #NT!
- BEA_DUTCH_collectivist: "Dutch East Indies" #NT!
- BEA_DUTCH_collectivist_ADJ: "East Indian" #NT!
- BEA_DUTCH_collectivist_DEF: "the Dutch East Indies" #NT!
- BEA_DUTCH_libertarian_socialist: "Dutch East Indies" #NT!
- BEA_DUTCH_libertarian_socialist_ADJ: "East Indian" #NT!
- BEA_DUTCH_libertarian_socialist_DEF: "the Dutch East Indies" #NT!
- BEA_DUTCH_social_democrat: "Dutch East Indies" #NT!
- BEA_DUTCH_social_democrat_ADJ: "East Indian" #NT!
- BEA_DUTCH_social_democrat_DEF: "the Dutch East Indies" #NT!
- BEA_DUTCH_social_liberal: "Dutch East Indies" #NT!
- BEA_DUTCH_social_liberal_ADJ: "East Indian" #NT!
- BEA_DUTCH_social_liberal_DEF: "the Dutch East Indies" #NT!
- BEA_DUTCH_market_liberal: "Dutch East Indies" #NT!
- BEA_DUTCH_market_liberal_ADJ: "East Indian" #NT!
- BEA_DUTCH_market_liberal_DEF: "the Dutch East Indies" #NT!
- BEA_DUTCH_social_conservative: "Dutch East Indies" #NT!
- BEA_DUTCH_social_conservative_ADJ: "East Indian" #NT!
- BEA_DUTCH_social_conservative_DEF: "the Dutch East Indies" #NT!
- BEA_DUTCH_authoritarian_democrat: "Dutch East Indies" #NT!
- BEA_DUTCH_authoritarian_democrat_ADJ: "East Indian" #NT!
- BEA_DUTCH_authoritarian_democrat_DEF: "the Dutch East Indies" #NT!
- BEA_DUTCH_national_populist: "Dutch East Indies" #NT!
- BEA_DUTCH_national_populist_ADJ: "East Indian" #NT!
- BEA_DUTCH_national_populist_DEF: "the Dutch East Indies" #NT!
+ BEA_DUTCH_vanguardist: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_vanguardist_ADJ: "Ост-индск" #NT!
+ BEA_DUTCH_vanguardist_DEF: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_collectivist: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_collectivist_ADJ: "Ост-индск" #NT!
+ BEA_DUTCH_collectivist_DEF: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_libertarian_socialist: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_libertarian_socialist_ADJ: "Ост-индск" #NT!
+ BEA_DUTCH_libertarian_socialist_DEF: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_social_democrat: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_social_democrat_ADJ: "Ост-индск" #NT!
+ BEA_DUTCH_social_democrat_DEF: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_social_liberal: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_social_liberal_ADJ: "Ост-индск" #NT!
+ BEA_DUTCH_social_liberal_DEF: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_market_liberal: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_market_liberal_ADJ: "Ост-индск" #NT!
+ BEA_DUTCH_market_liberal_DEF: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_social_conservative: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_social_conservative_ADJ: "Ост-индск" #NT!
+ BEA_DUTCH_social_conservative_DEF: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_authoritarian_democrat: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_authoritarian_democrat_ADJ: "Ост-индск" #NT!
+ BEA_DUTCH_authoritarian_democrat_DEF: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_national_populist: "Голландская Ост-Индия" #NT!
+ BEA_DUTCH_national_populist_ADJ: "Ост-индск" #NT!
+ BEA_DUTCH_national_populist_DEF: "Голландская Ост-Индия" #NT!
   
   
  #### Political Parties #### 
@@ -104,7 +104,7 @@
  BEA_establish_servant_caste_idea: "Policy of Exploitation" #NT!
   
  #### Events #### 
- bei.0.t: "The Dutch East Indies" #NT!
+ bei.0.t: "Голландская Ост-Индия" #NT!
  bei.0.d: "Before the coup in the Netherlands - when the Royal Family fled to Suriname and Bernhard assumed control - the East Indies was under the rule of the Dutch and Governor-General Bonifacius Cornelis de Jonge. After the coup, the British took control over these islands, ostensibly to protect the trade through the Straits of Malacca, but in reality to prevent the islands becoming either independent, or under the control or influence of other nations.\n\nWith all this happen very recently, the East Indies, while having former British major-general John Frederick Charles Fuller as Governor-General, has a ruling class that are overwhelmingly Dutch. There is also a growing Insulindian independence movement that has been slowly gaining power since the British took control." #NT!
  bei.0.a: "Long Live the King and the East Indies!" #NT!
   

@@ -3,39 +3,39 @@
  BUL_FUHRERREICH_DESC: "The young Bulgarian nation joined the Central Powers in the Great War, declaring war on Serbia in October 1915; despite achieving its territorial objectives, the capitulation of the German Empire proved to have catastrophic effects as Entente forces took back its hard won gains.\n\nThe monarchy was abolished with the capitulation of Bulgarian forces; and the new Republic finally surrendered to the Entente, humiliated and torn apart in the Treaty of Neuilly-sur-Seine in 1920." #NT!
   
  ### Country Names 
- BUL_vanguardist: "Bulgaria" #NT!
- BUL_vanguardist_ADJ: "Bulgarian" #NT!
- BUL_vanguardist_DEF: "Bulgarian Socialist Republic" #NT!
- BUL_collectivist: "Bulgaria" #NT!
- BUL_collectivist_ADJ: "Bulgarian" #NT!
- BUL_collectivist_DEF: "the Bulgarian Socialist Republic" #NT!
- BUL_libertarian_socialist: "Bulgaria" #NT!
- BUL_libertarian_socialist_ADJ: "Bulgarian" #NT!
- BUL_libertarian_socialist_DEF: "the Bulgarian Socialist Republic" #NT!
- BUL_social_democrat: "Bulgaria" #NT!
- BUL_social_democrat_ADJ: "Bulgarian" #NT!
- BUL_social_democrat_DEF: "the Bulgarian Republic" #NT!
- BUL_social_liberal: "Bulgaria" #NT!
- BUL_social_liberal_ADJ: "Bulgarian" #NT!
- BUL_social_liberal_DEF: "the Bulgarian Republic" #NT!
- BUL_market_liberal: "Bulgaria" #NT!
- BUL_market_liberal_ADJ: "Bulgarian" #NT!
- BUL_market_liberal_DEF: "the Bulgarian Republic" #NT!
- BUL_social_conservative: "Bulgaria" #NT!
- BUL_social_conservative_ADJ: "Bulgarian" #NT!
- BUL_social_conservative_DEF: "the Bulgarian Republic" #NT!
- BUL_authoritarian_democrat: "Bulgaria" #NT!
- BUL_authoritarian_democrat_ADJ: "Bulgarian" #NT!
- BUL_authoritarian_democrat_DEF: "the Tsardom of Bulgaria" #NT!
- BUL_paternal_autocrat: "Bulgaria" #NT!
- BUL_paternal_autocrat_ADJ: "Bulgarian" #NT!
- BUL_paternal_autocrat_DEF: "the Bulgarian State" #NT!
- BUL_national_populist: "Bulgaria" #NT!
- BUL_national_populist_ADJ: "Bulgarian" #NT!
- BUL_national_populist_DEF: "the Bulgarian Republic" #NT!
- BUL_valkist: "Bulgaria" #NT!
- BUL_valkist_ADJ: "Bulgarian" #NT!
- BUL_valkist_DEF: "the Bulgarian National Legionary State" #NT!
+ BUL_vanguardist: "Болгария"
+ BUL_vanguardist_ADJ: "Болгарск"
+ BUL_vanguardist_DEF: "Болгарская Социалистическая Республика"
+ BUL_collectivist: "Болгария"
+ BUL_collectivist_ADJ: "Болгарск"
+ BUL_collectivist_DEF: "Болгарская Социалистическая Республика"
+ BUL_libertarian_socialist: "Болгария"
+ BUL_libertarian_socialist_ADJ: "Болгарск"
+ BUL_libertarian_socialist_DEF: "Болгарская Социалистическая Республика"
+ BUL_social_democrat: "Болгария"
+ BUL_social_democrat_ADJ: "Болгарск"
+ BUL_social_democrat_DEF: "Болгарская Республика"
+ BUL_social_liberal: "Болгария"
+ BUL_social_liberal_ADJ: "Болгарск"
+ BUL_social_liberal_DEF: "Болгарская Республика"
+ BUL_market_liberal: "Болгария"
+ BUL_market_liberal_ADJ: "Болгарск"
+ BUL_market_liberal_DEF: "Болгарская Республика"
+ BUL_social_conservative: "Болгария"
+ BUL_social_conservative_ADJ: "Болгарск"
+ BUL_social_conservative_DEF: "Болгарская Республика"
+ BUL_authoritarian_democrat: "Болгария"
+ BUL_authoritarian_democrat_ADJ: "Болгарск"
+ BUL_authoritarian_democrat_DEF: "Царство Болгария"
+ BUL_paternal_autocrat: "Болгария"
+ BUL_paternal_autocrat_ADJ: "Болгарск"
+ BUL_paternal_autocrat_DEF: "Болгарское Государство"
+ BUL_national_populist: "Болгария"
+ BUL_national_populist_ADJ: "Болгарск"
+ BUL_national_populist_DEF: "Болгарская Республика"
+ BUL_valkist: "Болгария"
+ BUL_valkist_ADJ: "Болгарск"
+ BUL_valkist_DEF: "Болгарское Национально-Легионерское Государство"
  # BUL_authoritarian_democrat: "Third Bulgarian Empire" #NT!
  # BUL_authoritarian_democrat_DEF: "the Third Bulgarian Empire" #NT!
  # BUL_authoritarian_democrat_ADJ: "Bulgarian" #NT!

@@ -1,39 +1,39 @@
 ﻿l_russian:
   
  ### Country Names 
- BPS_vanguardist: "Brazilian People's State" #NT!
- BPS_vanguardist_ADJ: "Direitista" #NT!
- BPS_vanguardist_DEF: "the Brazilian People's State" #NT!
- BPS_collectivist: "Brazilian People's State" #NT!
- BPS_collectivist_ADJ: "Direitista" #NT!
- BPS_collectivist_DEF: "the Brazilian People's State" #NT!
- BPS_libertarian_socialist: "Brazilian People's State" #NT!
- BPS_libertarian_socialist_ADJ: "Direitista" #NT!
- BPS_libertarian_socialist_DEF: "the Brazilian People's State" #NT!
- BPS_social_democrat: "Brazilian People's State" #NT!
- BPS_social_democrat_ADJ: "Direitista" #NT!
- BPS_social_democrat_DEF: "the The Brazilian People's State" #NT!
- BPS_social_liberal: "Brazilian People's State" #NT!
- BPS_social_liberal_ADJ: "Direitista" #NT!
- BPS_social_liberal_DEF: "the The Brazilian People's State" #NT!
- BPS_market_liberal: "Brazilian People's State" #NT!
- BPS_market_liberal_ADJ: "Direitista" #NT!
- BPS_market_liberal_DEF: "the The Brazilian People's State" #NT!
- BPS_social_conservative: "Brazilian People's State" #NT!
- BPS_social_conservative_ADJ: "Direitista" #NT!
- BPS_social_conservative_DEF: "the The Brazilian People's State" #NT!
- BPS_authoritarian_democrat: "Brazilian People's State" #NT!
- BPS_authoritarian_democrat_ADJ: "Direitista" #NT!
- BPS_authoritarian_democrat_DEF: "the The Brazilian People's State" #NT!
- BPS_paternal_autocrat: "Brazilian People's State" #NT!
- BPS_paternal_autocrat_ADJ: "Direitista" #NT!
- BPS_paternal_autocrat_DEF: "the Brazilian People's State" #NT!
- BPS_national_populist: "Brazilian People's State" #NT!
- BPS_national_populist_ADJ: "Direitista" #NT!
- BPS_national_populist_DEF: "the Brazilian People's State" #NT!
- BPS_valkist: "Brazilian People's State" #NT!
- BPS_valkist_ADJ: "Direitista" #NT!
- BPS_valkist_DEF: "the Brazilian People's State" #NT!
+ BPS_vanguardist: "Бразильское Народное Государство"
+ BPS_vanguardist_ADJ: "Бразильск"
+ BPS_vanguardist_DEF: "Бразильское Народное Государство"
+ BPS_collectivist: "Бразильское Народное Государство"
+ BPS_collectivist_ADJ: "Бразильск"
+ BPS_collectivist_DEF: "Бразильское Народное Государство"
+ BPS_libertarian_socialist: "Бразильское Народное Государство"
+ BPS_libertarian_socialist_ADJ: "Бразильск"
+ BPS_libertarian_socialist_DEF: "Бразильское Народное Государство"
+ BPS_social_democrat: "Бразильское Народное Государство"
+ BPS_social_democrat_ADJ: "Бразильск"
+ BPS_social_democrat_DEF: "Бразильское Народное Государство"
+ BPS_social_liberal: "Бразильское Народное Государство"
+ BPS_social_liberal_ADJ: "Бразильск"
+ BPS_social_liberal_DEF: "Бразильское Народное Государство"
+ BPS_market_liberal: "Бразильское Народное Государство"
+ BPS_market_liberal_ADJ: "Бразильск"
+ BPS_market_liberal_DEF: "Бразильское Народное Государство"
+ BPS_social_conservative: "Бразильское Народное Государство"
+ BPS_social_conservative_ADJ: "Бразильск"
+ BPS_social_conservative_DEF: "Бразильское Народное Государство"
+ BPS_authoritarian_democrat: "Бразильское Народное Государство"
+ BPS_authoritarian_democrat_ADJ: "Бразильск"
+ BPS_authoritarian_democrat_DEF: "Бразильское Народное Государство"
+ BPS_paternal_autocrat: "Бразильское Народное Государство"
+ BPS_paternal_autocrat_ADJ: "Бразильск"
+ BPS_paternal_autocrat_DEF: "Бразильское Народное Государство"
+ BPS_national_populist: "Бразильское Народное Государство"
+ BPS_national_populist_ADJ: "Бразильск"
+ BPS_national_populist_DEF: "Бразильское Народное Государство"
+ BPS_valkist: "Бразильское Народное Государство"
+ BPS_valkist_ADJ: "Бразильск"
+ BPS_valkist_DEF: "Бразильское Народное Государство"
   
  ### Parties 
  BPS_vanguardist_party: "PCB" #NT!

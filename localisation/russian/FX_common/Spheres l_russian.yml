@@ -2,17 +2,17 @@
   
   
  #Decisions 
- sphere_decision_group: "Improving Relationships and Sphering" #NT!
- desphere_decision_group: "Removing nations from spheres" #NT!
- desphere_nation: "Remove [From.GetNameDef] from their Sphere of Influence" #NT!
- sphere_information_decision_group: "Sphered Nations" #NT!
- sphered_nations: "[From.GetNameDef]" #NT!
- sphere_nation_1: "Improve our relationship with [From.GetNameDef] to cordial" #NT!
- sphere_nation_1_desc: "Improve our relationship with [From.GetNameDef] to cordial to ensure that we get advantage over this nation compared to the other major powers." #NT!
- sphere_nation_2: "Improve our relationship with [From.GetNameDef] to friendly" #NT!
- sphere_nation_2_desc: "Improve our relationship with [From.GetNameDef] to friendly to ensure that we get advantage over this nation compared to the other major powers." #NT!
- sphere_nation_3: "Sphere [From.GetNameDef]" #NT!
- sphere_nation_3_desc: "Sphere [From.GetNameDef] to friendly to ensure that we get advantage over this nation compared to the other major powers." #NT!
+ sphere_decision_group: "Улучшение отношений и сферы влияния"
+ desphere_decision_group: "Исключение стран из сфер влияния"
+ desphere_nation: "Исключить из сферы влияния: [From.GetNameDef]"
+ sphere_information_decision_group: "Страны в сфере влияния"
+ sphered_nations: "[From.GetNameDef]"
+ sphere_nation_1: "Улучшить отношения до радушных: [From.GetNameDef]"
+ sphere_nation_1_desc: "Улучшить наши отношения со страной [From.GetNameDef] до радушных, чтобы получить преимущество перед другими великими державами."
+ sphere_nation_2: "Улучшить отношения до дружественных: [From.GetNameDef]"
+ sphere_nation_2_desc: "Улучшить наши отношения со страной [From.GetNameDef] до дружественных, чтобы получить преимущество перед другими великими державами."
+ sphere_nation_3: "Включить в сферу влияния: [From.GetNameDef]"
+ sphere_nation_3_desc: "Включить страну [From.GetNameDef] в нашу сферу влияния, чтобы получить преимущество перед другими великими державами."
   
  #Interface 
  sphering_status_1_loc: "[this.sphering_status_1_scripted_loc]" #NT!
@@ -68,28 +68,28 @@
  IMPROVE_INFLUENCE_TOOLTIP: "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest" #NT!
   
  #Events 
- sph.1.t: "[From.GetNameDef] improves relations with us!" #NT!
- sph.1.d: "Our relationship with [From.GetNameDef] has been increased to cordial." #NT!
- sph.1.a: "Okay" #NT!
- sph.2.t: "[From.GetNameDef] improves relations with us!" #NT!
- sph.2.d: "Our relationship with [From.GetNameDef] has been increased to friendly." #NT!
- sph.2.a: "Okay" #NT!
- sph.3.t: "[From.GetNameDef] spheres us!" #NT!
- sph.3.d: "We have been sphered by [From.GetNameDef]." #NT!
- sph.3.a: "Okay" #NT!
- sph.5.t: "Nation removed from sphere!" #NT!
- sph.5.d: "[sphereremover.GetNameDef] has removed [sphereremovegoal.GetNameDef] from our sphere!" #NT!
- sph.5.a: "Okay" #NT!
- sph.6.t: "We have been removed from our sphere" #NT!
- sph.6.d: "[sphereremover.GetNameDef] has removed us from our sphere, we were originally in [originalsphere.GetNameDef]'s sphere!" #NT!
- sph.6.a: "Okay" #NT!
+ sph.1.t: "[From.GetNameDef] улучшает отношения с нами!"
+ sph.1.d: "Наши отношения со страной [From.GetNameDef] улучшились до радушных."
+ sph.1.a: "Понятно"
+ sph.2.t: "[From.GetNameDef] улучшает отношения с нами!"
+ sph.2.d: "Наши отношения со страной [From.GetNameDef] улучшились до дружественных."
+ sph.2.a: "Понятно"
+ sph.3.t: "[From.GetNameDef] включает нас в свою сферу!"
+ sph.3.d: "Мы вошли в сферу влияния государства [From.GetNameDef]."
+ sph.3.a: "Понятно"
+ sph.5.t: "Страна исключена из сферы влияния!"
+ sph.5.d: "Страна [sphereremover.GetNameDef] исключила государство [sphereremovegoal.GetNameDef] из нашей сферы влияния!"
+ sph.5.a: "Понятно"
+ sph.6.t: "Мы исключены из сферы влияния!"
+ sph.6.d: "Страна [sphereremover.GetNameDef] исключила нас из сферы влияния (ранее мы находились в сфере государства [originalsphere.GetNameDef])."
+ sph.6.a: "Понятно"
   
  #Ideas 
- sphered_idea_1: "In [sphereleader1.GetNameDef]'s Sphere of Influence" #NT!
- sphered_idea_2: "In [sphereleader2.GetNameDef]'s Sphere of Influence" #NT!
- sphered_idea_3: "In [sphereleader3.GetNameDef]'s Sphere of Influence" #NT!
- sphered_idea_4: "In [sphereleader4.GetNameDef]'s Sphere of Influence" #NT!
- sphered_idea_5: "In [sphereleader5.GetNameDef]'s Sphere of Influence" #NT!
- sphered_idea_6: "In [sphereleader6.GetNameDef]'s Sphere of Influence" #NT!
- sphered_idea_7: "In [sphereleader7.GetNameDef]'s Sphere of Influence" #NT!
- sphered_idea_8: "In [sphereleader8.GetNameDef]'s Sphere of Influence" #NT!
+ sphered_idea_1: "В [sphereleader1.GetAdjective]ой сфере влияния"
+ sphered_idea_2: "В [sphereleader2.GetAdjective]ой сфере влияния"
+ sphered_idea_3: "В [sphereleader3.GetAdjective]ой сфере влияния"
+ sphered_idea_4: "В [sphereleader4.GetAdjective]ой сфере влияния"
+ sphered_idea_5: "В [sphereleader5.GetAdjective]ой сфере влияния"
+ sphered_idea_6: "В [sphereleader6.GetAdjective]ой сфере влияния"
+ sphered_idea_7: "В [sphereleader7.GetAdjective]ой сфере влияния"
+ sphered_idea_8: "В [sphereleader8.GetAdjective]ой сфере влияния"
