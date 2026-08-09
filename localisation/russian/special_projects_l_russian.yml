@@ -16,7 +16,7 @@
  RECRUIT_SCIENTIST_WINDOW_INSTRUCTIONS: "Выберите §Yученого§!, которого хотите нанять"
  SCIENTIST_ROSTER_SORT_BUTTON_TOOLTIP: "§YЩелкните§!, чтобы отсортировать по $REASON|Y$"
  SCIENTIST_ROSTER_SORT_BY_NAME_REASON: "имени"
- SCIENTIST_ROSTER_SEARCH_FILTER_TEXT: "тексту поиска"
+ SCIENTIST_ROSTER_SEARCH_FILTER_TEXT: "Поиск"
  SCIENTIST_ROSTER_SEARCH_FILTER_TT: "Фильтр §Yученых§! по имени или чертам"
  HISTORY_ROSTER_WINDOW_TITLE: "История"
  PROJECT_SIMPLE_ROSTER_WINDOW_TITLE: "Доступные проекты"
