@@ -19,90 +19,90 @@
  tooltip_stability_very_good: "Countries that are at good stability may upgrade to very good stability" #NT!
   
  ##BOP 
- power_balance_button_disabled: "There is no available balance of power" #NT!
+ power_balance_button_disabled: "Сейчас нет доступного баланса сил" #NT!
   
  ### Popularity ### 
- party_pop_0_00: "0-10% Party Popularity" #NT!
- party_pop_0_10: "10-20% Party Popularity" #NT!
- party_pop_0_20: "20-30% Party Popularity" #NT!
- party_pop_0_30: "30-40% Party Popularity" #NT!
- party_pop_0_40: "40-50% Party Popularity" #NT!
- party_pop_0_50: "50-60% Party Popularity" #NT!
- party_pop_0_60: "60-70% Party Popularity" #NT!
- party_pop_0_70: "70-80% Party Popularity" #NT!
- party_pop_0_80: "80-90% Party Popularity" #NT!
- party_pop_0_90: "90-100% Party Popularity" #NT!
+ party_pop_0_00: "0-10% популярности партии" #NT!
+ party_pop_0_10: "10-20% популярности партии" #NT!
+ party_pop_0_20: "20-30% популярности партии" #NT!
+ party_pop_0_30: "30-40% популярности партии" #NT!
+ party_pop_0_40: "40-50% популярности партии" #NT!
+ party_pop_0_50: "50-60% популярности партии" #NT!
+ party_pop_0_60: "60-70% популярности партии" #NT!
+ party_pop_0_70: "70-80% популярности партии" #NT!
+ party_pop_0_80: "80-90% популярности партии" #NT!
+ party_pop_0_90: "90-100% популярности партии" #NT!
   
  ### Economic Health ### 
- boom_economy: "WIP" #NT!
- good_economy: "WIP" #NT!
- medium_economy: "WIP" #NT!
- bad_economy: "WIP" #NT!
- bust_economy: "WIP" #NT!
- crash_economy: "WIP" #NT!
- economic_health: "Work in progress, don't worry about this" #NT!
+ boom_economy: "В разработке" #NT!
+ good_economy: "В разработке" #NT!
+ medium_economy: "В разработке" #NT!
+ bad_economy: "В разработке" #NT!
+ bust_economy: "В разработке" #NT!
+ crash_economy: "В разработке" #NT!
+ economic_health: "Идет разработка, не обращайте внимания" #NT!
   
  ### Demobilisation ### 
- mobilisation_penalty_modifier: "Above Division Limit" #NT!
+ mobilisation_penalty_modifier: "Превышение лимита дивизий" #NT!
   
- unit_limit_title: "Max Supported Divisions" #NT!
+ unit_limit_title: "Макс. количество дивизий" #NT!
   
  unit_limit_count: "[unit_limit_count_loc]" #NT!
- unit_limit_count_disabled: "UNLIMITED" #NT!
+ unit_limit_count_disabled: "БЕСКОНЕЧНО" #NT!
  unit_limit_count_above: "[?num_actual_divisions|R0]/[?max_divisions|Y0]" #NT!
  unit_limit_count_equal: "[?num_actual_divisions|Y0]/[?max_divisions|Y0]" #NT!
  unit_limit_count_below: "[?num_actual_divisions|G0]/[?max_divisions|Y0]" #NT!
   
- unit_limit_law_bonus: "Division Limit" #NT!
+ unit_limit_law_bonus: "Лимит дивизий" #NT!
   
- unit_limit_bonus: "Division Limit" #NT!
+ unit_limit_bonus: "Лимит дивизий" #NT!
  unit_limit_bonus_tooltip: "$unit_limit_bonus$: $RIGHT|+=0$" #NT!
   
- unit_limit_factor: "Division Limit" #NT!
+ unit_limit_factor: "Лимит дивизий" #NT!
  unit_limit_factor_tooltip: "$unit_limit_factor$: $RIGHT|+=0%$" #NT!
   
- unit_limit_subject_bonus: "Added Division Limit for Overlord" #NT!
+ unit_limit_subject_bonus: "Прибавка к лимиту дивизий метрополии" #NT!
   
  unit_limit_breakdown: "[unit_limit_breakdown]" #NT!
- unit_limit_breakdown_default: "§HMaximum Supported Divisions§!\nCurrent Maximum: [?uncapped_max_divisions|H0][unit_limit_reached_cap]\n[unit_limit_base_value][unit_limit_core_population][unit_limit_noncore_population][unit_limit_subject_population_bonus][unit_limit_states][unit_limit_subject_state_bonus]\n[unit_limit_factory_count_multiplier][unit_limit_additional_modifiers][unit_limit_faction_leader][unit_limit_factor_used][unit_limit_default][unit_limit_economy_law][unit_limit_bonus_used][unit_limit_above_limit]" #NT!
+ unit_limit_breakdown_default: "§HМакс. количество дивизий§!\nТекущий предел: [?uncapped_max_divisions|H0][unit_limit_reached_cap]\n[unit_limit_base_value][unit_limit_core_population][unit_limit_noncore_population][unit_limit_subject_population_bonus][unit_limit_states][unit_limit_subject_state_bonus]\n[unit_limit_factory_count_multiplier][unit_limit_additional_modifiers][unit_limit_faction_leader][unit_limit_factor_used][unit_limit_default][unit_limit_economy_law][unit_limit_bonus_used][unit_limit_above_limit]" #NT!
   
  unit_limit_list_item: "\n   - " #NT!
   
- unit_limit_reached_cap_desc: "\n(Capped to a maximum of [?300|H0])" #NT!
- unit_limit_base_value_desc: "\nBase Value: [?base_units|G1]" #NT!
- unit_limit_core_population_desc: "$unit_limit_list_item$From Core Population: [?core_base|G1]" #NT!
- unit_limit_noncore_population_desc: "$unit_limit_list_item$From Non-Core Population: [?non_core_base|G1]" #NT!
- unit_limit_subject_population_bonus_desc: "$unit_limit_list_item$From §HSubject§! Population: [?subject_base_units|G1]" #NT!
- unit_limit_states_desc: "$unit_limit_list_item$From Owned States: [?num_owned_states|G0]" #NT!
- unit_limit_subject_state_bonus_desc: "$unit_limit_list_item$From §HSubject§! States: [?subject_states|G0]" #NT!
- unit_limit_factory_count_multiplier_desc: "\nFactory Count Multiplier: [?industry_factor|H%]" #NT!
- unit_limit_additional_modifiers_desc: "\n\nAdditional Modifiers:" #NT!
- unit_limit_faction_leader_desc: "$unit_limit_list_item$Faction Leader: §G+15%§!" #NT!
- unit_limit_factor_used_desc: "$unit_limit_list_item$From National Spirits: [?modifier@unit_limit_factor|=+0%]" #NT!
+ unit_limit_reached_cap_desc: "\n(Всегда ограничено до [?300|H0])" #NT!
+ unit_limit_base_value_desc: "\nБазовое значение: [?base_units|G1]" #NT!
+ unit_limit_core_population_desc: "$unit_limit_list_item$От национального населения: [?core_base|G1]" #NT!
+ unit_limit_noncore_population_desc: "$unit_limit_list_item$От НЕнационального населения: [?non_core_base|G1]" #NT!
+ unit_limit_subject_population_bonus_desc: "$unit_limit_list_item$От населения §Hмарионеток§!: [?subject_base_units|G1]" #NT!
+ unit_limit_states_desc: "$unit_limit_list_item$От регионов во владении: [?num_owned_states|G0]" #NT!
+ unit_limit_subject_state_bonus_desc: "$unit_limit_list_item$От регионов §Hмарионеток§!: [?subject_states|G0]" #NT!
+ unit_limit_factory_count_multiplier_desc: "\nМножитель кол-ва фабрик: [?industry_factor|H%]" #NT!
+ unit_limit_additional_modifiers_desc: "\n\nДополнительные модификаторы:" #NT!
+ unit_limit_faction_leader_desc: "$unit_limit_list_item$Лидер альянса: §G+15%§!" #NT!
+ unit_limit_factor_used_desc: "$unit_limit_list_item$От нац. духов: [?modifier@unit_limit_factor|=+0%]" #NT!
  unit_limit_default_desc: "$unit_limit_list_item$Base: [?global.base_unit_limit_bonus|=+0]" #NT!
- unit_limit_bonus_used_desc: "$unit_limit_list_item$From National Spirits: [?modifier@unit_limit_bonus|=+0]" #NT!
+ unit_limit_bonus_used_desc: "$unit_limit_list_item$От нац. духов: [?modifier@unit_limit_bonus|=+0]" #NT!
   
- unit_limit_low_economic_mobilisation: "$unit_limit_list_item$From §H$low_economic_mobilisation$§!: [?modifier@unit_limit_law_bonus|+=0]" #NT!
- unit_limit_partial_economic_mobilisation: "$unit_limit_list_item$From §H$partial_economic_mobilisation$§!: [?modifier@unit_limit_law_bonus|+=0]" #NT!
- unit_limit_war_economy: "$unit_limit_list_item$From §H$war_economy$§!: [?modifier@unit_limit_law_bonus|+=0]" #NT!
- unit_limit_tot_economic_mobilisation: "$unit_limit_list_item$From §H$tot_economic_mobilisation$§!: [?modifier@unit_limit_law_bonus|+=0]" #NT!
+ unit_limit_low_economic_mobilisation: "$unit_limit_list_item$От закона §H$low_economic_mobilisation$§!: [?modifier@unit_limit_law_bonus|+=0]" #NT!
+ unit_limit_partial_economic_mobilisation: "$unit_limit_list_item$От закона §H$partial_economic_mobilisation$§!: [?modifier@unit_limit_law_bonus|+=0]" #NT!
+ unit_limit_war_economy: "$unit_limit_list_item$От закона §H$war_economy$§!: [?modifier@unit_limit_law_bonus|+=0]" #NT!
+ unit_limit_tot_economic_mobilisation: "$unit_limit_list_item$От закона §H$tot_economic_mobilisation$§!: [?modifier@unit_limit_law_bonus|+=0]" #NT!
   
  unit_limit_above_limit_desc: "\n--------------\n$unit_limit_above_limit_text$" #NT!
- unit_limit_above_limit_text: "§RWe have currently exceeded our capacity, and the only way to alleviate the stress on our country will be to remove some of our divisions.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]" #NT!
+ unit_limit_above_limit_text: "§RМы превысили наш предел и единственный путь облегчить бремя нашей страны — расформировать некоторые дивизии.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]" #NT!
   
  unit_limit_breakdown_desc: "[unit_limit_breakdown_desc]" #NT!
- unit_limit_breakdown_desc_enabled: "Every country only has the ability to support a certain number of individual military divisions before their economy and infrastructure struggle to maintain them.\n\nThe maximum number of supported units is based on the country's §Hpopulation§! and §Hnumber of owned states§!, and is then multiplied by a ratio of this value to the §Hnumber of factories§! in the states.\n\nIn §Hcivil wars§!, the base values are calculated from the sum of all states owned by all participants." #NT!
- unit_limit_breakdown_desc_disabled: "§HMaximum Supported Divisions§! has been disabled by game rules." #NT!
+ unit_limit_breakdown_desc_enabled: "Каждая страна способна содержать лишь определённое количество отдельных дивизий, прежде чем её экономика и инфраструктура начнут испытывать трудности с их обеспечением.\n\nМаксимальное количество поддерживаемых дивизий зависит от §Hнаселения§! страны и §Hколичества регионов во владении§!, а затем умножается на отношение этого значения к §Hколичеству фабрик§! в этих регионах.\n\nВ §Hгражданских войнах§! базовые значения рассчитываются исходя из суммы всех регионов, принадлежащих всем участникам." #NT!
+ unit_limit_breakdown_desc_disabled: "§HМакс. количество дивизий§! было отключено правилами игры." #NT!
   
- RULE_UNIT_LIMIT_OPTIONS: "Division Limits" #NT!
- RULE_OPTION_STANDARD: "Applies to All" #NT!
- RULE_UNIT_LIMIT_OPTIONS_STANDARD_DESC: "Limits have been applied to how many divisions the AI can build, based on their factory counts and economy law level. Once the AI hits this limit, they will simply stop building new divisions. This limit also applies to a player, though for them it's a soft cap and they receive a malus based on how far over the limit they build.\n\n§RNote that this is a system put in place to reduce the inevitable slowdown that happens as a game goes on, as the sheer number of divisions in action is the primary cause of system lag.§!" #NT!
- RULE_OPTION_AI_ONLY: "Applies to AI Only" #NT!
- RULE_UNIT_LIMIT_OPTIONS_AI_ONLY_DESC: "Limits have been applied to how many divisions the AI can build, based on their factory counts and economy law level. Once the AI hits this limit, they will simply stop building new divisions. At this setting, there is no limit to how many divisions a player may build other than their ability to supply manpower and equipment.\n\n§RNote that this will put the player at a considerable advantage against AI countries that would otherwise be of comparable strengths.§!" #NT!
- RULE_OPTION_TURN_OFF: "Turn Off" #NT!
- RULE_UNIT_LIMIT_OPTIONS_TURN_OFF_DESC: "This turns off the division limit system completely.\n\n§RIt is suggested you only do this if you either don't mind game speeds getting much slower as the game goes on, or you have a VERY hefty computer to run the game.§!" #NT!
+ RULE_UNIT_LIMIT_OPTIONS: "Лимиты дивизий" #NT!
+ RULE_OPTION_STANDARD: "Применяются ко всем" #NT!
+ RULE_UNIT_LIMIT_OPTIONS_STANDARD_DESC: "Были введены ограничения на количество дивизий, которое может строить ИИ, на основе количества его фабрик и уровня экономического закона. Как только ИИ достигнет этого лимита, он просто прекратит создавать новые дивизии. Это ограничение также распространяется и на игрока, однако для него это мягкий лимит, и он получает штраф в зависимости от того, насколько сильно его превышает.\n\n§RУчтите, что эта система предназначена для смягчения неизбежного замедления игры по ходу партии, так как огромное количество дивизий у ботов является главной причиной лагов.§!" #NT!
+ RULE_OPTION_AI_ONLY: "Применяются только к ИИ" #NT!
+ RULE_UNIT_LIMIT_OPTIONS_AI_ONLY_DESC: "Были введены ограничения на количество дивизий, которое может строить ИИ, на основе количества его фабрик и уровня экономического закона. Как только ИИ достигнет этого лимита, он просто прекратит создавать новые дивизии. При этой настройке нет ограничений на то, сколько дивизий может построить игрок, кроме его способности обеспечивать их людскими ресурсами и снаряжением.\n\n§RУчтите, что это даст игроку значительное преимущество перед странами под управлением ИИ, которые в противном случае обладали бы сопоставимой силой.§!" #NT!
+ RULE_OPTION_TURN_OFF: "Отключены" #NT!
+ RULE_UNIT_LIMIT_OPTIONS_TURN_OFF_DESC: "Это полностью отключает систему лимита дивизий.\n\n§RРекомендуется делать это только в том случае, если вы либо не против сильного замедления игры по ходу партии, либо у вас ОЧЕНЬ мощный компьютер.§!" #NT!
   
- RULE_GROUP_KAISERREICH_RULES: "Kaiserreich Rules" #NT!
+ RULE_GROUP_KAISERREICH_RULES: "Правила Кайзеррейха" #NT!
   
  ### Stability Events ### 
  fx.political.1.t: "Downfall in Stability!" #NT!
