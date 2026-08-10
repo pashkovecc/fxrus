@@ -1,0 +1,788 @@
+@FX_stalhpakt_mechanic_agenda_list_grid_entry_width = 512
+@FX_stalhpakt_mechanic_agenda_list_grid_entry_height = 40
+
+guiTypes = {
+	containerWindowType = {
+		name = "GER_cultural_revolution_decisions"
+		position = { x = 0 y = 0 }
+		size = { width = 514 height = 260 }
+
+		instantTextBoxType = {
+			name = "GER_reich_morale_label"
+			position = { x = 75 y = 20 }
+			font = "hoi_18mbs"
+			text = "GER_national_morale"
+			format = centre
+			maxWidth = 120
+			maxHeight = 34
+			fixedsize = yes
+			borderSize = { x = 0 y = 3 }
+		}
+
+		instantTextBoxType = {
+			name = "GER_reich_outlook_label"
+			position = { x = 250 y = 20 }
+			font = "hoi_18mbs"
+			text = "GER_social_outlook"
+			format = centre
+			maxWidth = 220
+			maxHeight = 34
+			fixedsize = yes
+			borderSize = { x = 0 y = 3 }
+		}
+
+		iconType = {
+			name = "GER_reich_morale_gauge"
+			spriteType = "GFX_GER_gauge"
+			position = { x = 20 y = 40 }
+			pdx_tooltip = "GER_reich_morale_tt"
+			scale = 0.5
+		}
+
+		iconType = {
+			name = "GER_social_outlook_gauge"
+			spriteType = "GFX_GER_gauge"
+			position = { x = 250 y = 40 }
+			pdx_tooltip = "GER_social_outlook_tt"
+			scale = 0.5
+		}
+
+		instantTextBoxType = {
+			name = "GER_reich_morale_value"
+			position = { x = 20 y = 160 }
+			font = "hoi_30header"
+			text = "[This.GermanyGetReichMoraleStatus]"
+			format = centre
+			maxWidth = 220
+			maxHeight = 68
+			fixedsize = yes
+			borderSize = { x = 0 y = 3 }
+		}
+
+		instantTextBoxType = {
+			name = "GER_reich_outlook_value"
+			position = { x = 250 y = 160 }
+			font = "hoi_30header"
+			text = "[This.GermanyGetReichOutlookStatus]"
+			format = centre
+			maxWidth = 220
+			maxHeight = 68
+			fixedsize = yes
+			borderSize = { x = 0 y = 3 }
+		}
+
+		buttonType = {
+			name = "GER_open_map_gui_btn"
+			spriteType = GFX_sort_button_202x29_3_frames
+			buttonText = "Toggle Map GUI"
+			buttonFont = "hoi_16mbs"
+			position = { x = 30 y = 220 }
+		}
+
+		buttonType = {
+			name = "GER_reload_mechanic_btn"
+			spriteType = GFX_sort_button_202x29_3_frames
+			buttonText = "Obtain New Figures"
+			buttonFont = "hoi_16mbs"
+			pdx_tooltip_delayed  = "GER_reload_mechanic_tt"
+			position = { x = 270 y = 220 }
+		}
+	}
+		
+	
+	#containerWindowType = {
+	#	name = "GER_view_region_advisor"
+	#	position = { x = 0 y = -47 }
+	#	size = { width = 53 height = 53 }
+	#	clipping = no
+	#
+	#	
+	#}
+
+	containerWindowType = {
+		name = "FX_GER_map_gui"
+		size = { width = 950 height = 800 }
+		position = { x = 0 y = 0 }
+		moveable = yes
+		orientation = center
+		origo = center
+		#clipping = no
+		fade_time = 50
+		fade_type = linear
+		click_to_front = yes
+
+		background = {
+			name = "GER_map_gui_bg"
+			quadTextureSprite = GFX_tiled_plain_bg2
+		}
+		
+		background = {
+			name = "GER_map_gui_border_bg"
+			quadTextureSprite = GFX_fullborder_tiled
+		}
+		
+		iconType = {
+			name = "GER_GER_symbol"
+			spriteType = "GFX_GER_symbol"
+			position = { x = 800 y = 15 }
+			scale = 0.4
+		}
+
+		buttonType = {
+			name = "GER_map_gui_close_btn"
+			spriteType = GFX_closebutton
+			shortcut = "ESCAPE"
+		}
+		
+		buttonType = {
+			name = "GER_cr_infobox_btn"
+			spriteType = button_left
+			position = { x = 924 y = 413 }
+		}
+		
+		buttonType = {
+			name = "GER_cr_infobox_btn_close"
+			spriteType = button_right
+			position = { x = 613 y = 413 }
+		}
+		
+		buttonType = {
+			name = "GER_cr_infobox_tab_1_btn"
+			position = { x = 642 y = 0 }
+			quadTextureSprite = "GFX_button_148x34_light"
+			clicksound = click_default
+			buttonText = "GER_cr_infobox_tab_1"
+			buttonFont = "hoi_16mbs"
+		}
+		
+		buttonType = {
+			name = "GER_cr_infobox_tab_2_btn"
+			position = { x = 791 y = 0 }
+			quadTextureSprite = "GFX_button_148x34_light"
+			clicksound = click_default
+			buttonText = "GER_cr_infobox_tab_2"
+			buttonFont = "hoi_16mbs"
+		}
+		
+		# map pieces
+		
+		containerWindowType = {
+			name = "FX_GER_map_pieces"
+			position = { x = -495 y = -205 }
+
+
+			gridBoxType = {
+				name = "GER_regions_gridbox"
+			}
+
+			iconType = {
+				name = "GER_map_outline"
+				spriteType = "GFX_GER_map_overlay"
+				position = { x = 476 y = 125 }
+				scale = 0.5
+				alwaystransparent = yes
+			}
+			
+		}
+		
+		# locked state pieces
+		containerWindowType = {
+			name = "GFX_GER_map_locked_state_pieces"
+			position = { x = -100 y = -100 } 
+
+			gridBoxType = {
+				name = "GER_states_locked_gridbox"
+			}
+
+			# buttonType = {
+			# 	name = "GER_map_locked_state"
+			# 	spriteType = "GFX_GER_map_state_746_locked"
+			# 	scale = 0.5
+			# 	pdx_tooltip = GER_map_region_tt
+			# }
+
+			
+			iconType = {
+				name = "GER_map_overlay_subdivisions"
+				spriteType = "GFX_GER_map_overlay_subdivisions"
+				position = { x = 3 y = 119 }
+				scale = 0.5
+				alwaystransparent = yes
+			}
+		}
+		
+		containerWindowType = {
+			name = "FX_GER_map_action_buttons"
+			position = { x = 0 y = 650 }
+			size = { width = 638 height = 150 }
+			
+			background = {
+				name = "FX_GER_map_action_buttons_bg"
+				quadTextureSprite = GFX_tiled_window_thin_border2
+			}
+
+			instantTextBoxType = {
+				name = "GER_map_actions_text"
+				text = "Regional Actions"
+				font = "hoi_24header"
+				position = { x = 16 y = 14 }
+			}
+			
+			buttonType = {
+				name = "GER_crack_down_on_dissident_groups_button"
+				position = { x = 16 y = 40 }
+				spriteType = "GFX_GER_crackdown"
+				buttonText = "GER_crack_down_on_dissident_groups_entry"
+				buttonFont = "hoi_16mbs"
+				pdx_tooltip = "GER_crack_down_on_dissident_groups"
+				pdx_tooltip_delayed = "GER_crack_down_on_dissident_groups_desc"
+			}
+
+			buttonType = {
+				name = "GER_replace_uncooperative_local_officials_button"
+				position = { x = 320 y = 40 }
+				buttonText = "GER_replace_uncooperative_local_officials_entry"
+				buttonFont = "hoi_16mbs"
+				spriteType = "GFX_GER_replace_officials"
+				pdx_tooltip = "GER_replace_uncooperative_local_officials"
+				pdx_tooltip_delayed = "GER_replace_uncooperative_local_officials_desc"
+			}
+
+			buttonType = {
+				name = "GER_organize_a_valkist_parade_button"
+				position = { x = 16 y = 86 }
+				buttonText = "GER_organize_a_valkist_parade_entry"
+				buttonFont = "hoi_16mbs"
+				spriteType = "GFX_GER_organize_parade"
+				pdx_tooltip = "GER_organize_a_valkist_parade"
+				pdx_tooltip_delayed = "GER_organize_a_valkist_parade_desc"
+			}
+
+			buttonType = {
+				name = "GER_fund_valkist_social_clubs_button"
+				position = { x = 320 y = 86 }
+				buttonText = "GER_fund_valkist_social_clubs_entry"
+				buttonFont = "hoi_16mbs"
+				spriteType = "GFX_GER_fund_valkist_groups"
+				pdx_tooltip = "GER_fund_valkist_social_clubs"
+				pdx_tooltip_delayed = "GER_fund_valkist_social_clubs_desc"
+			}
+			
+			 # definitely a better way to do this, but like I am lazy
+			instantTextBoxType = {
+				name = "GER_action_1_cost"
+				text = "GER_action_1_cost_entry"
+				font = "hoi_16mbs"
+				position = { x = 270 y = 55 }
+			}
+			
+			instantTextBoxType = {
+				name = "GER_action_2_cost"
+				text = "GER_action_2_cost_entry"
+				font = "hoi_16mbs"
+				position = { x = 574 y = 55 }
+			}
+			
+			instantTextBoxType = {
+				name = "GER_action_3_cost"
+				text = "GER_action_3_cost_entry"
+				font = "hoi_16mbs"
+				position = { x = 270 y = 99 }
+			}
+			
+			instantTextBoxType = {
+				name = "GER_action_4_cost"
+				text = "GER_action_4_cost_entry"
+				font = "hoi_16mbs"
+				position = { x = 574 y = 99 }
+			}
+			
+			
+		}
+
+		containerWindowType = {
+			name = "GER_cr_region_view"
+			position = { x = 632 y = 431 }
+			size = { width = 317 height = 360 }
+
+			fade_time = 500
+			fade_type = linear
+
+			iconType = {
+				name = "GER_background_panel"
+				position = { x = 0 y = 0 }
+				spriteType = "GFX_GER_culture_state_bg"
+				frame = 1
+			}
+
+			instantTextBoxType = {
+				name = "GER_state_title"
+				position = { x = 14 y = 6 }
+				font = "hoi_24header"
+				text = "GER_map_advisor_view_state_title"
+				format = centre
+				maxWidth = 294
+				maxHeight = 28
+				fixedsize = yes
+				borderSize = { x = 0 y = 3 }
+			}
+
+			instantTextBoxType = {
+				name = "GER_advisor_title"
+				position = { x = 14 y = 35 }
+				font = "hoi_24header"
+				text = "GER_regional_leader_title"
+				format = centre
+				maxWidth = 294
+				maxHeight = 28
+				fixedsize = yes
+				borderSize = { x = 0 y = 3 }
+			}
+
+			buttonType = {
+				name = "GER_cr_region_advisor_btn"
+				position = { x = 125 y = 65 }
+				spriteType = "GFX_add_pol_idea_button"
+				pdx_tooltip = "GER_hover_advisor_info"
+				pdx_tooltip_delayed = "GER_hover_advisor_info_delayed"
+			}
+			
+			iconType = {
+				name = "GER_cr_region_alignment_progress_bar"
+				# spriteType = "GFX_GER_cr_region_alignment_bar"
+				quadTextureSprite = "GFX_GER_cr_region_alignment_bar"
+				position = { x = 35 y = 130 }
+				# size = { width = 250 height = 30 }
+				pdx_tooltip_delayed  = "GER_cr_region_alignment_bar_tt"
+			}
+			
+			iconType = {
+				name = "GER_cr_region_alignment_bar_bg"
+				quadTextureSprite = "GFX_GER_progress_bar_bg"
+				position = { x = 35 y = 130 }
+				alwaystransparent  = yes
+			}
+
+			instantTextBoxType = {
+				name = "GER_cr_region_advisor_select_text"
+				position = { x = 15 y = 105 }
+				font = "hoi_24header"
+				fixedsize = yes
+				text = "GER_no_region_selected_text"
+				format = centre
+				maxWidth = 294
+				maxHeight = 28
+				
+			}
+			
+			iconType = {
+				name = "GER_cr_region_image"
+				position = { x = 17 y = 316 }
+			}
+			
+			iconType = {
+				name = "GER_cr_region_infobox_frame"
+				position = { x = 6 y = 165 }
+				quadTextureSprite = GFX_GER_region_infobox
+			}
+			
+			instantTextBoxType = {
+				name = "GER_cr_region_infobox_text"
+				position = { x = 20 y = 177 }
+				font = "hoi_16mbs"
+				text = "GER_cr_region_infobox_text_tt"
+				maxWidth = 275
+				maxHeight = 135
+				scrollbartype = "standardtext_slider"
+				
+			}
+			
+			#containerWindowType = {
+			#	name = "GER_cr_region_image_frame"	
+			#	position = { x = 6 y = 165 }
+			#	size = { width = 304 height = 198 }
+			#	background = {
+			#		name = "GER_cr_region_test_border"
+			#		quadTextureSprite = GFX_GER_region_infobox
+			#	}
+			#}
+			
+			
+
+		}
+	}
+	
+	containerWindowType = {
+		name = "FX_GER_cr_infobox"
+		position = { x = 632 y = 28 }
+		size = { width = 317 height = 410 }
+		show_position = { x = 632 y = 28 }
+		hide_position = { x = 949 y = 28 }
+		show_animation_type = decelerated
+		hide_animation_type = accelerated
+		animation_time = 300
+
+		show_sound = open_sub_window
+		
+		background = {
+			name = "FX_GER_cr_infobox_border"
+			quadTextureSprite = GFX_tiled_paper_w_frame_bg
+		}
+		
+		instantTextboxType = {
+			name = "GER_cr_infobox_text"
+			position = { x = 20 y = 20 }
+			font = "hoi_16mbs"		
+			text = "GER_cr_infobox_info_entry"
+			maxWidth = 260
+			maxHeight = 374
+			scrollbartype = "standardtext_slider"
+		}
+	}
+	
+	containerWindowType = {
+		name = "GER_cr_region_advisor_select_entry"
+		size = { width = 231 height = 97 }
+		clipping = yes
+	
+		buttonType = {
+			name = "GER_cr_region_advisor_select_btn"
+			spriteType = "GFX_idea_entry_bg_2"
+			clicksound = click_default
+			pdx_tooltip = GER_advisor_tt
+		}
+	
+		iconType = {
+			name = "GER_regional_leader_image"
+			quadTextureSprite ="GFX_idea_unknown"
+			position = { x = 42 y = 48 }
+			centerposition = yes
+			alwaystransparent  = yes
+		}
+		instantTextboxType = {
+			name = "GER_regional_leader_name"
+			position = { x = 78 y = 10 }
+			font = "hoi_18mbs"
+			fixedsize = yes			
+			text = "regional_leader_name"
+			maxWidth = 150
+			maxHeight = 13
+			format = left
+			alwaystransparent = yes			
+		}
+		instantTextboxType = {
+			name = "GER_regional_leader_trait"
+			position = { x = 78 y = 28 }
+			font = "hoi_16mbs"
+			fixedsize = yes			
+			text = "[GetGerAdvisorTrait]"
+			maxWidth = 140
+			maxHeight = 100%%
+			format = left
+			alwaystransparent = yes			
+		}
+		instantTextboxType = {
+			name = "cost"
+			position = { x = 80 y = 70 }
+			font = "hoi_16mbs"
+			text = "regional_leader_cost"
+			maxWidth = 142
+			maxHeight = 10
+			format = right
+			alwaystransparent = yes
+		}
+		
+	}
+	
+	containerWindowType = {
+		name = "GER_cr_region_advisor_view"
+		position = { x = 1420 y = 623 }
+		size = { width=263 height=323 }
+		show_position = { x = 1420 y = 623 }
+		hide_position = { x = 1157 y = 623 }
+
+		show_animation_type = decelerated
+		hide_animation_type = accelerated
+		animation_time = 300
+
+		show_sound = open_sub_window
+
+		background = {
+			name = "GER_cr_region_advisor_view_bg"
+			quadTextureSprite = GFX_tiled_plain_bg
+		}
+	
+		containerWindowType = {
+			name = "GER_cr_region_advisor_gridbox_container"
+			margin = { top = 12 bottom = 12 }
+			size = { width = 100%% height = 100%% }
+
+			verticalScrollbar = "right_vertical_slider"
+			scroll_wheel_factor = 37
+			smooth_scrolling = yes
+		
+			background = {
+				name = "GER_cr_region_advisor_view_border"
+				quadTextureSprite = GFX_tiled_bg_1_scrollbar
+			}
+
+
+			gridBoxType = {
+				name = "GER_cr_region_advisor_gridbox"
+				position = { x = 56 y = 16 }
+				size = { width = 147 height = 100 }
+				add_horizontal = no
+				slotsize = { width = 231 height = 97 }
+				max_slots = { x = 1 y = 10 }
+			}
+		}
+
+	}
+
+	containerWindowType = {
+		name = "FX_GER_map_piece_entry_container"
+		# iconType = {
+		# 	name = "GER_region_selected_outline"
+		# 	# spriteType = "GFX_GER_region_selected_outline"
+		# }
+
+		buttonType = {
+			name = "GER_map_region"
+			spriteType = "GFX_GER_map_wurttemberg"
+			scale = 0.5
+			pdx_tooltip = GER_map_region_tt
+		}
+	}
+
+	containerWindowType = {
+		name = "FX_GER_locked_state_entry_container"
+
+		buttonType = {
+			name = "GER_map_locked_state"
+			spriteType = "GFX_GER_map_state_746_locked"
+			scale = 0.5
+			pdx_tooltip = GER_map_region_tt
+		}
+	}
+
+	# Propaganda Posters Mechanic
+	containerWindowType = {
+		name = "FX_GER_propaganda_campaigns"
+		position = { x = 0 y = 0 }
+		size = { width = 100% height= 250 }
+
+		#BACKGROUND
+		iconType = {
+			name = "propaganda_bg"
+			spriteType = "GFX_propaganda_bg"
+			position = { x = -3 y = 0 }
+		}
+
+		gridBoxType = {
+			name = "GER_propaganda_campaigns_gridbox"
+		}
+	}
+
+	containerWindowType = {
+		name = "FX_GER_propaganda_campaigns_entry_container"
+
+		iconType = {
+			name = "GER_propaganda_poster"
+			position = { x = 10 y = 0 }
+			pdx_tooltip = GER_propaganda_campaign_tt
+		}
+
+		#Days remaining
+		instantTextBoxType = {
+			name = "GER_poster_textbox"
+			position = { x = 15 y = 215 }
+			font = "hoi_18mbs"
+			text = "GER_poster_text"
+			format = center
+			maxWidth = 150
+		}
+
+	}
+
+	containerWindowType = {
+		name = "FX_GER_fake_dynmod_state_display"
+		position = { x = 325 y = 406 }
+
+		iconType = {
+			name = "GER_fake_dynmod_icon"
+			spriteType = "GFX_GER_Arnold_Rechberg"
+			position = { x = 0 y = 0 }
+			scale = 0.75
+			pdx_tooltip = "GER_hover_advisor_info_state_level"
+		}
+
+		# buttonType = {
+		# 	name = "GER_fake_dynmod_dummy_button"
+		# 	position = { x = 0 y = 0 }
+		# }
+	}
+	
+	#containerWindowType = {
+	#	name = "FX_GER_mio_research_workaround_gui"
+	#	
+	#	buttonType = {
+	#		name = "technology_button_dummy"
+	#		alwaystransparent = yes
+	#		position = { x = 0 y = 0 }
+	#	}
+	#}
+}
+
+#containerWindowType = {
+#	name = "GER_cultural_revolution_window"
+#	position = { x = 460 y = 180 }
+#	size = { width = 317 height = 360 }
+#
+#	fade_time = 500
+#	fade_type = linear
+#
+#	# buttonType = {
+#	# 	name = "GER_dummy_button" # you can display effects of buttons, so this is used as a dummy one in order to construct the tooltips
+#	# 	position = {  x = 0 y = 0 }
+#	# }
+#
+#	iconType = {
+#		name = "GER_background_panel"
+#		position = { x = 0 y = 0 }
+#		spriteType = "GFX_GER_culture_state_bg"
+#		frame = 1
+#	}
+#
+#	instantTextBoxType = {
+#		name = "GER_state_title"
+#		position = { x = 14 y = 6 }
+#		font = "hoi_24header"
+#		text = "german_region_title"
+#		format = centre
+#		maxWidth = 294
+#		maxHeight = 28
+#		fixedsize = yes
+#		borderSize = { x = 0 y = 3 }
+#	}
+#
+#	buttonType = {
+#		name = "GER_close_rev_window_btn"
+#		position = { x = 15 y = 5 }
+#		spriteType = GFX_production_line_arrow_left
+#	}
+#
+#	iconType = {
+#		name = "GER_state_attitude_gauge"
+#		spriteType = "GFX_GER_gauge"
+#		position = { x = 50 y = 40 }
+#		pdx_tooltip = "GER_attitude_desc_tt"
+#		scale = 0.5
+#	}
+#	
+#	instantTextBoxType = {
+#		name = "GER_state_attitude_status"
+#		position = { x = 12 y = 168 }
+#		font = "hoi_30header"
+#		text = "[GermanyGetStateAttitudeStatus]"
+#		format = centre
+#		maxWidth = 294
+#		maxHeight = 34
+#		fixedsize = yes
+#		borderSize = { x = 0 y = 3 }
+#	}
+#
+#	instantTextBoxType = {
+#		name = "GER_state_progress_label"
+#		position = { x = 14 y = 218 }
+#		font = "hoi_18mbs"
+#		text = "GER_progress"
+#		format = right
+#		maxWidth = 86
+#		maxHeight = 20
+#		fixedsize = yes
+#		borderSize = { x = 0 y = 3 }
+#	}
+#
+#	iconType = {
+#		name = "GER_state_progress_cultural_revolution_progress_bg"
+#		spriteType = "GFX_GER_progressbar"
+#		position = { x = 106 y = 224 }
+#		pdx_tooltip = "GER_progress_desc_tt"
+#	}
+#
+#	iconType = {
+#		name = "GER_state_cultural_revolution_progress"
+#		spriteType = "GFX_GER_state_progress"
+#		position = { x = 109 y = 226 }
+#		pdx_tooltip = "GER_progress_desc_tt"
+#	}
+#
+#	instantTextBoxType = {
+#		name = "GER_state_cultural_revolution_progress_value"
+#		position = { x = 220 y = 220 }
+#		font = "hoi_18mbs"
+#		text = state_progress
+#		format = left
+#		maxWidth = 70
+#		maxHeight = 20
+#		fixedsize = yes
+#		borderSize = { x = 0 y = 3 }
+#	}
+#
+#	instantTextBoxType = {
+#		name = "GER_regional_actions"
+#		text = "GER_regional_actions"
+#		font = "hoi_18mbs"
+#		position = { x = 12 y = 260 }
+#		format = centre
+#		maxWidth = 294
+#		maxHeight = 20
+#		fixedsize = yes
+#		borderSize = { x = 0 y = 3 }
+#	}
+#
+#	buttonType = {
+#		name = "GER_crack_down_on_dissident_groups_button"
+#		position = { x = 55 y = 290 }
+#		spriteType = "GFX_GER_crackdown"
+#		pdx_tooltip = "GER_crack_down_on_dissident_groups"
+#		pdx_tooltip_delayed = "GER_crack_down_on_dissident_groups_desc"
+#	}
+#
+#	buttonType = {
+#		name = "GER_replace_uncooperative_local_officials_button"
+#		position = { x = 110 y = 290 }
+#		spriteType = "GFX_GER_replace_officials"
+#		pdx_tooltip = "GER_replace_uncooperative_local_officials"
+#		pdx_tooltip_delayed = "GER_replace_uncooperative_local_officials_desc"
+#	}
+#
+#	buttonType = {
+#		name = "GER_organize_a_valkist_parade_button"
+#		position = { x = 165 y = 290 }
+#		spriteType = "GFX_GER_organize_parade"
+#		pdx_tooltip = "GER_organize_a_valkist_parade"
+#		pdx_tooltip_delayed = "GER_organize_a_valkist_parade_desc"
+#	}
+#
+#	buttonType = {
+#		name = "GER_fund_valkist_social_clubs_button"
+#		position = { x = 220 y = 290 }
+#		spriteType = "GFX_GER_fund_valkist_groups"
+#		pdx_tooltip = "GER_fund_valkist_social_clubs"
+#		pdx_tooltip_delayed = "GER_fund_valkist_social_clubs_desc"
+#	}
+#}
+#
+#containerWindowType = {
+#	name = "GER_cultural_revolution_mini_state_view"
+#	position = { x = 460 y = 180 }
+#	
+#	
+#	buttonType = {
+#		name = "GER_open_rev_window_btn"
+#		position = { x = -38 y = -55 }
+#		spriteType = GFX_production_line_arrow_right
+#	}
+#	
+#}

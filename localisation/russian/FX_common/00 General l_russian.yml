@@ -564,7 +564,7 @@
  economic_sphere_default_desc: ""
   
  # Special Units 
- trutzbundischestosstruppe: "Ударные войска Трутцбунда"
+ trutzbundischestosstruppe: "Штурмовики Трутцбунда"
  trutzbundischestosstruppe_special: "$trutzbundischestosstruppe$"
  trutzbundischesicherheitstruppe: "Стража Трутцбунда"
  thuleschutztruppe: "Стража Туле"
