@@ -172,17 +172,17 @@
  SOV_regime_stabilized: "§YНаш режим§! был §Gстабилизирован§!" # §YOur Regime§! has been §GStabilized§!
  SOV_carrot_stick_reforms: "Откроет £decision_icon_small §Hрешения§! по реформированию §Hтрудового законодательства§!" # This will unlock £decision_icon_small §HDecisions§! to reform the §HWorker Legislation§!
  SOV_power_struggle_tooltip: "Между §HКировым§! и §HШляпниковым§! разгорелась §Hборьба за власть§!, им придется бороться за поддержку народа, чтобы стать лидером Советского Союза.§!" # A §HPower Struggle§! has broken out between §HKirov§! and §HShliapnikov§!, they will need to fight for the sympathies of the people so they can become leader of the Soviet Union.§!
- Kirov_15: "Увеличить поддержку §MКирова§! на §Y15§!\n" # Increase §MKirov's Support§! by §Y15§!\n
- Kirov_10: "Увеличить поддержку §MКирова§! на §Y10§!\n" # Increase §MKirov's Support§! by §Y10§!\n
- Kirov_7: "Увеличить поддержку §MКирова§! на §Y7§!\n" # Increase §MKirov's Support§! by §Y7§!\n
- Kirov_5: "Увеличьте поддержку §MКирова§! на §Y5§!\n" # Increase §MKirov's Support§! by §Y5§!\n
- Kirov_3: "Увеличьте поддержку §MКирова§! на §Y3§!\n" # Increase §MKirov's Support§! by §Y3§!\n
- Kirov_1: "Увеличить поддержку §MКирова§! на §Y1§!\n" # Increase §MKirov's Support§! by §Y1§!\n
- Kirov_min_1: "Уменьшает поддержку §MКирова§! на §Y1§!\n" # Decreases §MKirov's Support§! by §Y1§!\n
- Kirov_min_3: "Уменьшает поддержку §MКирова§! на §Y3§!\n" # Decreases §MKirov's Support§! by §Y3§!\n
- Shliapnikov_1: "Увеличить поддержку §RШляпникова§! на §Y1§!" # Increase §RShliapnikov's Support§! by §Y1§!
- Shliapnikov_3: "Увеличить поддержку §RШляпникова§! на §Y3§!" # Increase §RShliapnikov's Support§! by §Y3§!
- Shliapnikov_min_3: "\nУменьшает поддержку §RШляпникова§! на §Y3§!" # \nDecreases §RShliapnikov's Support§! by §Y3§!
+ Kirov_15: "Поддержка §MКирова§! увеличится на §Y15§!\n" # Increase §MKirov's Support§! by §Y15§!\n
+ Kirov_10: "Поддержка §MКирова§! увеличится на §Y10§!\n" # Increase §MKirov's Support§! by §Y10§!\n
+ Kirov_7: "Поддержка §MКирова§! увеличится на §Y7§!\n" # Increase §MKirov's Support§! by §Y7§!\n
+ Kirov_5: "Поддержка §MКирова§! увеличится на §Y5§!\n" # Increase §MKirov's Support§! by §Y5§!\n
+ Kirov_3: "Поддержка §MКирова§! увеличится на §Y3§!\n" # Increase §MKirov's Support§! by §Y3§!\n
+ Kirov_1: "Поддержка §MКирова§! увеличится на §Y1§!\n" # Increase §MKirov's Support§! by §Y1§!\n
+ Kirov_min_1: "Поддержка §MКирова§! уменьшится на §Y1§!\n" # Decreases §MKirov's Support§! by §Y1§!\n
+ Kirov_min_3: "Поддержка §MКирова§! уменьшится на §Y3§!\n" # Decreases §MKirov's Support§! by §Y3§!\n
+ Shliapnikov_1: "Поддержка §RШляпникова§! увеличится на §Y1§!" # Increase §RShliapnikov's Support§! by §Y1§!
+ Shliapnikov_3: "Поддержка §RШляпникова§! увеличится на §Y3§!" # Increase §RShliapnikov's Support§! by §Y3§!
+ Shliapnikov_min_3: "\nПоддержка §RШляпникова§! уменьшится на §Y3§!" # \nDecreases §RShliapnikov's Support§! by §Y3§!
  SOV_Shliapnikov_Supporters_mission: "§YШляпников§! проводит выступления" # §YShliapnikov§! holds speeches
  SOV_kirov_libsoc_fight: "Внутрипартийная борьба за власть" # Inner Party Power Struggle
  SOV_kirov_victory: "§GКиров выиграл борьбу за власть§!" # §GKirov won the Power Struggle§!
@@ -1015,7 +1015,7 @@
  SOV_expel_zinoviev_desc: "Наш оппонент Лев Троцкий служит подрыву не только нас, но и Советского Союза в целом. Мы должны использовать наши полномочия, как предписал Съезд, чтобы изгнать этого диссидента из нашего славного Союза. §RЧтобы принять это решение, вам необходимо 70% военного влияния§!" # Our opponent Leon Trotsky serves to undermine not only us but the Soviet Union as a whole. We must use our powers, as ordained by Congress, to expel this dissident from our glorious Union. §RYou need 70% Military Influence to take this decision§!
   
  SOV_kirov_vs_libsoc: "Борьба за власть" # Power Struggle
- SOV_kirov_vs_libsoc_desc: "Между большевиками во главе с §HКировым§! и рабочей оппозицией во главе с §HШляпниковым§! разгорелась §Hборьба за власть§!. Киров выступает за сохранение текущего курса, преследуя лишь одну цель — воплощение идей Ленина. Шляпников, напротив, выступает за дебюрократизацию экономики, развитие демократии в СССР и продвижение концепций, смежных с синдикализмом. Рабочая оппозиция рассчитывает взять верх на XXVI съезде, однако исход этой борьбы остается неопределенным...\n\n §MКиров§! Поддержка : §Y[?SOV.sov_kirov_factor]§!\n§RШляпников§! Поддержка : §Y[?SOV.sov_shliapnikov_factor]§!" # A §Hpower struggle§! has broken out between the Bolshevists led by §HKirov§! and the Worker's Opposition led by §HShliapnikov§!. Kirov is the status quo candidate whose only ambition is to fullfil Lenin's goals, Shliapnikov on the other hand wants to debureaucratize the economy, increase democracy in the Soviet Union and implement other ideas that are very close to syndicalism. The Worker's Opposition hopes to win the 26th Congress, if they will be succesful is uncertain...\n\n §MKirov's§! Support : §Y[?SOV.sov_kirov_factor]§!\n§RShliapnikov's§! Support : §Y[?SOV.sov_shliapnikov_factor]§!
+ SOV_kirov_vs_libsoc_desc: "Между большевиками во главе с §HКировым§! и рабочей оппозицией во главе с §HШляпниковым§! разгорелась §Hборьба за власть§!. Киров выступает за сохранение текущего курса, преследуя лишь одну цель — воплощение идей Ленина. Шляпников, напротив, выступает за дебюрократизацию экономики, развитие демократии в СССР и продвижение концепций, смежных с синдикализмом. Рабочая оппозиция рассчитывает взять верх на XXVI съезде, однако исход этой борьбы остается неопределенным...\n\nПоддержка §MКирова§! : §Y[?SOV.sov_kirov_factor]§!\nПоддержка §RШляпникова§! : §Y[?SOV.sov_shliapnikov_factor]§!" # A §Hpower struggle§! has broken out between the Bolshevists led by §HKirov§! and the Worker's Opposition led by §HShliapnikov§!. Kirov is the status quo candidate whose only ambition is to fullfil Lenin's goals, Shliapnikov on the other hand wants to debureaucratize the economy, increase democracy in the Soviet Union and implement other ideas that are very close to syndicalism. The Worker's Opposition hopes to win the 26th Congress, if they will be succesful is uncertain...\n\n §MKirov's§! Support : §Y[?SOV.sov_kirov_factor]§!\n§RShliapnikov's§! Support : §Y[?SOV.sov_shliapnikov_factor]§!
  SOV_26_congress_mission: "XXVI съезд" # 26th Congress
  SOV_press_campaign: "Пресс-кампания против Шляпникова" # Press Campaign against Shliapnikov
  SOV_harass: "Преследование Шляпникова" # Harassing Shliapnikov

@@ -74,7 +74,7 @@ guiTypes = {
 		buttonType = {
 			name = "GER_open_map_gui_btn"
 			spriteType = GFX_sort_button_202x29_3_frames
-			buttonText = "Toggle Map GUI"
+			buttonText = "Карта"
 			buttonFont = "hoi_16mbs"
 			position = { x = 30 y = 220 }
 		}
@@ -82,7 +82,7 @@ guiTypes = {
 		buttonType = {
 			name = "GER_reload_mechanic_btn"
 			spriteType = GFX_sort_button_202x29_3_frames
-			buttonText = "Obtain New Figures"
+			buttonText = "Обновить данные"
 			buttonFont = "hoi_16mbs"
 			pdx_tooltip_delayed  = "GER_reload_mechanic_tt"
 			position = { x = 270 y = 220 }
@@ -223,7 +223,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "GER_map_actions_text"
-				text = "Regional Actions"
+				text = "Региональные действия"
 				font = "hoi_24header"
 				position = { x = 16 y = 14 }
 			}

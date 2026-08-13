@@ -45,7 +45,7 @@
  ### Demobilisation ### 
  mobilisation_penalty_modifier: "Превышение лимита дивизий" #NT!
   
- unit_limit_title: "Макс. количество дивизий" #NT!
+ unit_limit_title: "Макс. кол-во дивизий" #NT!
   
  unit_limit_count: "[unit_limit_count_loc]" #NT!
  unit_limit_count_disabled: "БЕСКОНЕЧНО" #NT!
@@ -64,7 +64,7 @@
  unit_limit_subject_bonus: "Прибавка к лимиту дивизий метрополии" #NT!
   
  unit_limit_breakdown: "[unit_limit_breakdown]" #NT!
- unit_limit_breakdown_default: "§HМакс. количество дивизий§!\nТекущий предел: [?uncapped_max_divisions|H0][unit_limit_reached_cap]\n[unit_limit_base_value][unit_limit_core_population][unit_limit_noncore_population][unit_limit_subject_population_bonus][unit_limit_states][unit_limit_subject_state_bonus]\n[unit_limit_factory_count_multiplier][unit_limit_additional_modifiers][unit_limit_faction_leader][unit_limit_factor_used][unit_limit_default][unit_limit_economy_law][unit_limit_bonus_used][unit_limit_above_limit]" #NT!
+ unit_limit_breakdown_default: "§HМаксимальное количество дивизий§!\nТекущий предел: [?uncapped_max_divisions|H0][unit_limit_reached_cap]\n[unit_limit_base_value][unit_limit_core_population][unit_limit_noncore_population][unit_limit_subject_population_bonus][unit_limit_states][unit_limit_subject_state_bonus]\n[unit_limit_factory_count_multiplier][unit_limit_additional_modifiers][unit_limit_faction_leader][unit_limit_factor_used][unit_limit_default][unit_limit_economy_law][unit_limit_bonus_used][unit_limit_above_limit]" #NT!
   
  unit_limit_list_item: "\n   - " #NT!
   
@@ -92,7 +92,7 @@
   
  unit_limit_breakdown_desc: "[unit_limit_breakdown_desc]" #NT!
  unit_limit_breakdown_desc_enabled: "Каждая страна способна содержать лишь определённое количество отдельных дивизий, прежде чем её экономика и инфраструктура начнут испытывать трудности с их обеспечением.\n\nМаксимальное количество поддерживаемых дивизий зависит от §Hнаселения§! страны и §Hколичества регионов во владении§!, а затем умножается на отношение этого значения к §Hколичеству фабрик§! в этих регионах.\n\nВ §Hгражданских войнах§! базовые значения рассчитываются исходя из суммы всех регионов, принадлежащих всем участникам." #NT!
- unit_limit_breakdown_desc_disabled: "§HМакс. количество дивизий§! было отключено правилами игры." #NT!
+ unit_limit_breakdown_desc_disabled: "§HМаксимальное количество дивизий§! было отключено правилами игры." #NT!
   
  RULE_UNIT_LIMIT_OPTIONS: "Лимиты дивизий" #NT!
  RULE_OPTION_STANDARD: "Применяются ко всем" #NT!
