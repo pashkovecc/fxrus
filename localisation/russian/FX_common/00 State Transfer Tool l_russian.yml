@@ -111,7 +111,7 @@
  REMOVE_FACTION_LOC_DELAYED: "[!remove_faction_click]"
   
  ADD_PEACE_LOC: "[THIS.add_peace_tooltip]"
- ADD_PEACE_LOC_TT: "§HЗаключить мир с гос-вом [This.owner.GetNameDef]§!\n\nГосударство §H[marked_country.GetNameWithFlag]§!, включая всех его союзников, закончит войну с государством §H[This.owner.GetNameWithFlag]§! и его союзниками."
+ ADD_PEACE_LOC_TT: "§HЗаключить мир с государством [This.owner.GetNameDef]§!\n\nГосударство §H[marked_country.GetNameWithFlag]§!, включая всех его союзников, закончит войну с государством §H[This.owner.GetNameWithFlag]§! и его союзниками."
  ADD_PEACE_ALL_WARS_LOC_TT: "§HЗакончить все их войны§!\n\nГосударство §H[marked_country.GetNameWithFlag]§! заключит белый мир со всеми странами, с которыми воюет."
  ADD_PEACE_DEFAULT: "§HЗаключить мир§!"
  ADD_PEACE_LOC_DELAYED: "[!add_peace_click]"

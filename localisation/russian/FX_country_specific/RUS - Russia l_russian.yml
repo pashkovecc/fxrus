@@ -235,7 +235,7 @@
  RUS_destroy_ussr: "Уничтожить [SOV.GetNameDef]"
  RUS_destroy_vrs: "Воссоединить наш народ"
  RUS_demand_vrs: "Потребовать объединение с гос-вом [FROM.GetName]"
- RUS_attack_neighbor: "Захватить гос-во [From.GetName]"
+ RUS_attack_neighbor: "Захватить государство [From.GetName]"
   
  RUS_NUS_ROVS_decisions: "Политика НСС и РОВС"
  RUS_NUS_ROVS_decisions_desc: "§YНСС§! и §Yоктябристы§! одержали победу на выборах и теперь проводят масштабные преобразования в стране, включая государственную реформу и прогрессивную социальную политику."
