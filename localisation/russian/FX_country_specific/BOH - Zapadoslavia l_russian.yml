@@ -37,26 +37,26 @@
  BOH_valkist_ADJ: "Славянск"
  BOH_valkist_DEF: "Славянская империя"
   
- #PARTIES 
- BOH_vanguardist_party: "KSZ" #NT!
- BOH_vanguardist_party_long: "Komunistická Strana Západoslovanská\n§gCommunist Party of Zapadoslavia§!" #NT!
- BOH_collectivist_party: "LSZ" #NT!
- BOH_collectivist_party_long: "Leninské Strana Západoslovanská\n§gLeninist Party of Zapadoslavia§!" #NT!
- BOH_libertarian_socialist_party: "SS" #NT!
- BOH_libertarian_socialist_party_long: "Socialistické Sjednocení\n§gSocialist Unification§!" #NT!
- BOH_social_democrat_party: "ZSSD" #NT!
- BOH_social_democrat_party_long: "Západoslovanská Strana Sociálně Demokratická\n§gZapadoslav Social-Democratic Party§!" #NT!
- BOH_social_liberal_party: "RSZML" #NT!
- BOH_social_liberal_party_long: "Republikánská Strana Zemědělského a Malorolnického Lidu\n§gRepublican Party of the Agricultural and Small-Peasant People§!" #NT!
- BOH_market_liberal_party: "NSP" #NT!
- BOH_market_liberal_party_long: "Národní Strana Práce\n§gNational Labor Party§!" #NT!
- BOH_social_conservative_party: "ZND" #NT!
- BOH_social_conservative_party_long: "Západoslovanská Národní Demokracie\n§gZapadoslav People's Democracy§!" #NT!
- BOH_authoritarian_democrat_party: "Hacha's Junta" #NT!
- BOH_authoritarian_democrat_party_long: "Hacha's Junta" #NT!
- BOH_paternal_autocrat_party: "Hacha's Junta" #NT!
- BOH_paternal_autocrat_party_long: "Hacha's Junta" #NT!
- BOH_national_populist_party: "NOF" #NT!
- BOH_national_populist_party_long: "Národní Obec Falangistická\n§gNational Falangist Community§!" #NT!
- BOH_valkist_party: "HZLS" #NT!
- BOH_valkist_party_long: "Hlinkova Západoslovanská Ludová Strana\n§gHlinka's Zapadoslav People's Party§!" #NT!
+ #PARTIES
+ BOH_vanguardist_party: "КСЗ" # KSZ
+ BOH_vanguardist_party_long: "Коммунистическая партия Западославии\n§gКоммунистическая партия Западославии§!" # Komunistická Strana Západoslovanská\n§gCommunist Party of Zapadoslavia§!
+ BOH_collectivist_party: "ЛСЗ" # LSZ
+ BOH_collectivist_party_long: "Ленинская партия Западославии\n§gЛенинская партия Западославии§!" # Leninské Strana Západoslovanská\n§gLeninist Party of Zapadoslavia§!
+ BOH_libertarian_socialist_party: "SS" # SS
+ BOH_libertarian_socialist_party_long: "Социалистическое объединение\n§gСоциалистическое объединение§!" # Socialistické Sjednocení\n§gSocialist Unification§!
+ BOH_social_democrat_party: "ЗССД" # ZSSD
+ BOH_social_democrat_party_long: "Западнославянская социал-демократическая партия\n§gЗападославская социал-демократическая партия§!" # Západoslovanská Strana Sociálně Demokratická\n§gZapadoslav Social-Democratic Party§!
+ BOH_social_liberal_party: "РСЗМЛ" # RSZML
+ BOH_social_liberal_party_long: "Республиканская партия земледельческого и мелкокрестьянского народа\n§gРеспубликанская партия земледельческого и мелкокрестьянского народа§!" # Republikánská Strana Zemědělského a Malorolnického Lidu\n§gRepublican Party of the Agricultural and Small-Peasant People§!
+ BOH_market_liberal_party: "НСП" # NSP
+ BOH_market_liberal_party_long: "Национальная лейбористская партия\n§gНациональная лейбористская партия§!" # Národní Strana Práce\n§gNational Labor Party§!
+ BOH_social_conservative_party: "ЗНД" # ZND
+ BOH_social_conservative_party_long: "Западнославянская национальная демократия\n§gЗападославская народная демократия§!"  # Západoslovanská Národní Demokracie\n§gZapadoslav People's Democracy§!
+ BOH_authoritarian_democrat_party: "Совет Топора" # Hacha's Junta
+ BOH_authoritarian_democrat_party_long: "Совет Топора" # Hacha's Junta
+ BOH_paternal_autocrat_party: "Совет Топора" # Hacha's Junta
+ BOH_paternal_autocrat_party_long: "Совет Топора" # Hacha's Junta
+ BOH_national_populist_party: "НОФ" # NOF
+ BOH_national_populist_party_long: "Национальное сообщество фалангистов\n§gНациональное сообщество фалангистов§!" # Národní Obec Falangistická\n§gNational Falangist Community§!
+ BOH_valkist_party: "ХЗЛС" # HZLS
+ BOH_valkist_party_long: "Западнославская народная партия Глинки\n§gЗападославская народная партия Глинки§!" # Hlinkova Západoslovanská Ludová Strana\n§gHlinka's Zapadoslav People's Party§!

@@ -1,102 +1,102 @@
 ﻿l_russian:
-  
- ### Country Names 
- LIT_vanguardist: "Lithuanian Socialist Republic" #NT!
- LIT_vanguardist_ADJ: "Lithuanian" #NT!
- LIT_vanguardist_DEF: "the Lithuanian Socialist Republic" #NT!
- LIT_collectivist: "Lithuanian Socialist Republic" #NT!
- LIT_collectivist_ADJ: "Lithuanian" #NT!
- LIT_collectivist_DEF: "the Lithuanian Socialist Republic" #NT!
- LIT_libertarian_socialist: "Lithuanian Socialist Republic" #NT!
- LIT_libertarian_socialist_ADJ: "Lithuanian" #NT!
- LIT_libertarian_socialist_DEF: "the Lithuanian Socialist Republic" #NT!
- LIT_social_democrat: "Lithuania" #NT!
- LIT_social_democrat_ADJ: "Lithuanian" #NT!
- LIT_social_democrat_DEF: "the Kingdom of Lithuania" #NT!
- LIT_social_liberal: "Lithuania" #NT!
- LIT_social_liberal_ADJ: "Lithuanian" #NT!
- LIT_social_liberal_DEF: "the Kingdom of Lithuania" #NT!
- LIT_market_liberal: "Lithuania" #NT!
- LIT_market_liberal_ADJ: "Lithuanian" #NT!
- LIT_market_liberal_DEF: "the Kingdom of Lithuania" #NT!
- LIT_social_conservative: "Lithuania" #NT!
- LIT_social_conservative_ADJ: "Lithuanian" #NT!
- LIT_social_conservative_DEF: "the Kingdom of Lithuania" #NT!
- LIT_authoritarian_democrat: "Lithuania" #NT!
- LIT_authoritarian_democrat_ADJ: "Lithuanian" #NT!
- LIT_authoritarian_democrat_DEF: "the Kingdom of Lithuania" #NT!
- LIT_paternal_autocrat: "Lithuania" #NT!
- LIT_paternal_autocrat_ADJ: "Lithuanian" #NT!
- LIT_paternal_autocrat_DEF: "the Kingdom of Lithuania" #NT!
- LIT_national_populist: "Lithuania" #NT!
- LIT_national_populist_ADJ: "Lithuanian" #NT!
- LIT_national_populist_DEF: "the Kingdom of Lithuania" #NT!
- LIT_valkist: "Lithuania" #NT!
- LIT_valkist_ADJ: "Lithuanian" #NT!
- LIT_valkist_DEF: "the State of Lithuania" #NT!
-  
- LIT_REP_vanguardist: "Lithuanian Socialist Republic" #NT!
- LIT_REP_vanguardist_ADJ: "Lithuanian" #NT!
- LIT_REP_vanguardist_DEF: "the The Lithuanian Socialist Republic" #NT!
- LIT_REP_collectivist: "Lithuanian Socialist Republic" #NT!
- LIT_REP_collectivist_ADJ: "Lithuanian" #NT!
- LIT_REP_collectivist_DEF: "the Lithuanian Socialist Republic" #NT!
- LIT_REP_libertarian_socialist: "Lithuanian Socialist Republic" #NT!
- LIT_REP_libertarian_socialist_ADJ: "Lithuanian" #NT!
- LIT_REP_libertarian_socialist_DEF: "the Lithuanian Socialist Republic" #NT!
- LIT_REP_social_democrat: "Lithuania" #NT!
- LIT_REP_social_democrat_ADJ: "Lithuanian" #NT!
- LIT_REP_social_democrat_DEF: "the Republic of Lithuania" #NT!
- LIT_REP_social_liberal: "Lithuania" #NT!
- LIT_REP_social_liberal_ADJ: "Lithuanian" #NT!
- LIT_REP_social_liberal_DEF: "the Republic of Lithuania" #NT!
- LIT_REP_market_liberal: "Lithuania" #NT!
- LIT_REP_market_liberal_ADJ: "Lithuanian" #NT!
- LIT_REP_market_liberal_DEF: "the Republic of Lithuania" #NT!
- LIT_REP_social_conservative: "Lithuania" #NT!
- LIT_REP_social_conservative_ADJ: "Lithuanian" #NT!
- LIT_REP_social_conservative_DEF: "the Republic of Lithuania" #NT!
- LIT_REP_authoritarian_democrat: "Lithuania" #NT!
- LIT_REP_authoritarian_democrat_ADJ: "Lithuanian" #NT!
- LIT_REP_authoritarian_democrat_DEF: "the Republic of Lithuania" #NT!
- LIT_REP_paternal_autocrat: "Lithuania" #NT!
- LIT_REP_paternal_autocrat_ADJ: "Lithuanian" #NT!
- LIT_REP_paternal_autocrat_DEF: "the Republic of Lithuania" #NT!
- LIT_REP_national_populist: "Lithuania" #NT!
- LIT_REP_national_populist_ADJ: "Lithuanian" #NT!
- LIT_REP_national_populist_DEF: "the National Republic of Lithuania" #NT!
- LIT_REP_valkist: "Lithuania" #NT!
- LIT_REP_valkist_ADJ: "Lithuanian" #NT!
- LIT_REP_valkist_DEF: "the National Republic of Lithuania" #NT!
-  
- LIT_puppet_authoritarian_democrat: "Protectorate of Lithuania" #NT!
- LIT_puppet_authoritarian_democrat_ADJ: "Lithuanian" #NT!
- LIT_puppet_authoritarian_democrat_DEF: "the Protectorate of Lithuania" #NT!
- LIT_puppet_national_populist: "Protectorate of Lithuania" #NT!
- LIT_puppet_national_populist_ADJ: "Lithuanian" #NT!
- LIT_puppet_national_populist_DEF: "the Protectorate of Lithuania" #NT!
- LIT_puppet_valkist: "R.K. Litauen" #NT!
- LIT_puppet_valkist_ADJ: "Litauisch" #NT!
- LIT_puppet_valkist_DEF: "Das Protektorat Litauen" #NT!
-  
- #Decisions 
- LIT_Augenis_Wetdream: "Augenis's Wetdream" #NT!
- LIT_Augenis_Wetdream_desc: "Speak Lithuanian" #NT!
- LIT_Sigismund_Wetdream: "Sigismund's Wetdream" #NT!
- LIT_Sigismund_Wetdream_desc: "Cores on everything" #NT!
-  
- #Naval shit 
- FLEET_NAME_LIT: "Karališkoji Lietuvos flotilė" #NT!
-  
- ### Parties 
- LIT_paternal_autocrat_party: "TPP-N" #NT!
- LIT_paternal_autocrat_party_long: "Naujoji Tautos pažangos partija\n§gNew Party of National Progress§!\n§LAs the extreme members of the Lithuanian Nationalist Union have seized control of the party, moderate members of the party from an older extraction have chosen to split, restoring what they describe as the more moderate and aristocratic roots of the party - the Party of National Progress. Though still ethnic Lithuanian nationalist, it holds more moderate stances.§!" #NT!
-  
- LIT_Vytautas_II: "Vytautas II" #NT!
- LIT_Stanislaw_Narutowicz: "Stanisław Narutowicz" #NT!
- LIT_Augustinas_Voldemaras: "Augustinas Voldemaras" #NT!
- LIT_Antanas_Kaskelis: "Antanas Kaskelis" #NT!
-  
-  
-  
- LIT_Antanas_Gustaitis: "Antanas Gustaitis" #NT!
+
+### Country Names
+ LIT_vanguardist: "Литовская Социалистическая Республика" # Lithuanian Socialist Republic
+ LIT_vanguardist_ADJ: "литовский" # Lithuanian
+ LIT_vanguardist_DEF: "Литовская Социалистическая Республика" # the Lithuanian Socialist Republic
+ LIT_collectivist: "Литовская Социалистическая Республика" # Lithuanian Socialist Republic
+ LIT_collectivist_ADJ: "литовский" # Lithuanian
+ LIT_collectivist_DEF: "Литовская Социалистическая Республика" # the Lithuanian Socialist Republic
+ LIT_libertarian_socialist: "Литовская Социалистическая Республика" # Lithuanian Socialist Republic
+ LIT_libertarian_socialist_ADJ: "литовский" # Lithuanian
+ LIT_libertarian_socialist_DEF: "Литовская Социалистическая Республика" # the Lithuanian Socialist Republic
+ LIT_social_democrat: "Литва" # Lithuania
+ LIT_social_democrat_ADJ: "литовский" # Lithuanian
+ LIT_social_democrat_DEF: "Королевство Литва" # the Kingdom of Lithuania
+ LIT_social_liberal: "Литва" # Lithuania
+ LIT_social_liberal_ADJ: "литовский" # Lithuanian
+ LIT_social_liberal_DEF: "Королевство Литва" # the Kingdom of Lithuania
+ LIT_market_liberal: "Литва" # Lithuania
+ LIT_market_liberal_ADJ: "литовский" # Lithuanian
+ LIT_market_liberal_DEF: "Королевство Литва" # the Kingdom of Lithuania
+ LIT_social_conservative: "Литва" # Lithuania
+ LIT_social_conservative_ADJ: "литовский" # Lithuanian
+ LIT_social_conservative_DEF: "Королевство Литва" # the Kingdom of Lithuania
+ LIT_authoritarian_democrat: "Литва" # Lithuania
+ LIT_authoritarian_democrat_ADJ: "литовский" # Lithuanian
+ LIT_authoritarian_democrat_DEF: "Королевство Литва" # the Kingdom of Lithuania
+ LIT_paternal_autocrat: "Литва" # Lithuania
+ LIT_paternal_autocrat_ADJ: "литовский" # Lithuanian
+ LIT_paternal_autocrat_DEF: "Королевство Литва" # the Kingdom of Lithuania
+ LIT_national_populist: "Литва" # Lithuania
+ LIT_national_populist_ADJ: "литовский" # Lithuanian
+ LIT_national_populist_DEF: "Королевство Литва" # the Kingdom of Lithuania
+ LIT_valkist: "Литва" # Lithuania
+ LIT_valkist_ADJ: "литовский" # Lithuanian
+ LIT_valkist_DEF: "Литовское государство" # the State of Lithuania
+
+ LIT_REP_vanguardist: "Литовская Социалистическая Республика" # Lithuanian Socialist Republic
+ LIT_REP_vanguardist_ADJ: "литовский" # Lithuanian
+ LIT_REP_vanguardist_DEF: "Литовская Социалистическая Республика" # the The Lithuanian Socialist Republic
+ LIT_REP_collectivist: "Литовская Социалистическая Республика" # Lithuanian Socialist Republic
+ LIT_REP_collectivist_ADJ: "литовский" # Lithuanian
+ LIT_REP_collectivist_DEF: "Литовская Социалистическая Республика" # the Lithuanian Socialist Republic
+ LIT_REP_libertarian_socialist: "Литовская Социалистическая Республика" # Lithuanian Socialist Republic
+ LIT_REP_libertarian_socialist_ADJ: "литовский" # Lithuanian
+ LIT_REP_libertarian_socialist_DEF: "Литовская Социалистическая Республика" # the Lithuanian Socialist Republic
+ LIT_REP_social_democrat: "Литва" # Lithuania
+ LIT_REP_social_democrat_ADJ: "литовский" # Lithuanian
+ LIT_REP_social_democrat_DEF: "Литовская Республика" # the Republic of Lithuania
+ LIT_REP_social_liberal: "Литва" # Lithuania
+ LIT_REP_social_liberal_ADJ: "литовский" # Lithuanian
+ LIT_REP_social_liberal_DEF: "Литовская Республика" # the Republic of Lithuania
+ LIT_REP_market_liberal: "Литва" # Lithuania
+ LIT_REP_market_liberal_ADJ: "литовский" # Lithuanian
+ LIT_REP_market_liberal_DEF: "Литовская Республика" # the Republic of Lithuania
+ LIT_REP_social_conservative: "Литва" # Lithuania
+ LIT_REP_social_conservative_ADJ: "литовский" # Lithuanian
+ LIT_REP_social_conservative_DEF: "Литовская Республика" # the Republic of Lithuania
+ LIT_REP_authoritarian_democrat: "Литва" # Lithuania
+ LIT_REP_authoritarian_democrat_ADJ: "литовский" # Lithuanian
+ LIT_REP_authoritarian_democrat_DEF: "Литовская Республика" # the Republic of Lithuania
+ LIT_REP_paternal_autocrat: "Литва" # Lithuania
+ LIT_REP_paternal_autocrat_ADJ: "литовский" # Lithuanian
+ LIT_REP_paternal_autocrat_DEF: "Литовская Республика" # the Republic of Lithuania
+ LIT_REP_national_populist: "Литва" # Lithuania
+ LIT_REP_national_populist_ADJ: "литовский" # Lithuanian
+ LIT_REP_national_populist_DEF: "Литовская Народная Республика" # the National Republic of Lithuania
+ LIT_REP_valkist: "Литва" # Lithuania
+ LIT_REP_valkist_ADJ: "литовский" # Lithuanian
+ LIT_REP_valkist_DEF: "Литовская Народная Республика" # the National Republic of Lithuania
+
+ LIT_puppet_authoritarian_democrat: "Протекторат Литвы" # Protectorate of Lithuania
+ LIT_puppet_authoritarian_democrat_ADJ: "литовский" # Lithuanian
+ LIT_puppet_authoritarian_democrat_DEF: "Протекторат Литвы" # the Protectorate of Lithuania
+ LIT_puppet_national_populist: "Протекторат Литвы" # Protectorate of Lithuania
+ LIT_puppet_national_populist_ADJ: "литовский" # Lithuanian
+ LIT_puppet_national_populist_DEF: "Протекторат Литвы" # the Protectorate of Lithuania
+ LIT_puppet_valkist: "Р.К. Литва" # R.K. Litauen
+ LIT_puppet_valkist_ADJ: "литовский" # Litauisch
+ LIT_puppet_valkist_DEF: "Протекторат Литвы" # Das Protektorat Litauen
+
+#Decisions
+ LIT_Augenis_Wetdream: "Мокрая мечта Аугениса" # Augenis's Wetdream
+ LIT_Augenis_Wetdream_desc: "Говорить по-литовски" # Speak Lithuanian
+ LIT_Sigismund_Wetdream: "Мокрая мечта Сигизмунда" # Sigismund's Wetdream
+ LIT_Sigismund_Wetdream_desc: "Ядра во всем" # Cores on everything
+
+#Naval shit
+ FLEET_NAME_LIT: "Королевская Литовская флотилия" # Karališkoji Lietuvos flotilė
+
+### Parties
+ LIT_paternal_autocrat_party: "ТЭЦ-Н" # TPP-N
+ LIT_paternal_autocrat_party_long: "Naujoji Tautos pažangos partija\n§gНовая партия национального прогресса§!\n§LПоскольку крайние члены Литовского националистического союза захватили контроль над партией, умеренные члены партии из более старого происхождения решили расколоться, восстановив то, что они называют более умеренными и аристократическими корнями партии - Партией национального прогресса. Хотя он по-прежнему является этническим литовским националистом, он придерживается более умеренных позиций.§!" # Naujoji Tautos pažangos partija\n§gNew Party of National Progress§!\n§LAs the extreme members of the Lithuanian Nationalist Union have seized control of the party, moderate members of the party from an older extraction have chosen to split, restoring what they describe as the more moderate and aristocratic roots of the party - the Party of National Progress. Though still ethnic Lithuanian nationalist, it holds more moderate stances.§!
+
+ LIT_Vytautas_II: "Витаутас II" # Vytautas II
+ LIT_Stanislaw_Narutowicz: "Станислав Нарутович" # Stanisław Narutowicz
+ LIT_Augustinas_Voldemaras: "Огюстен Вольдемар" # Augustinas Voldemaras
+ LIT_Antanas_Kaskelis: "Антанас Каскелис" # Antanas Kaskelis
+
+
+
+ LIT_Antanas_Gustaitis: "Антанас Густайтис" # Antanas Gustaitis

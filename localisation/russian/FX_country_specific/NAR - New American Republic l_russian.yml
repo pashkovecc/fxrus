@@ -1,784 +1,784 @@
 ﻿l_russian:
-  
- ### Country Names 
- NAR_vanguardist: "New American Republic" #NT!
- NAR_vanguardist_ADJ: "American" #NT!
- NAR_vanguardist_DEF: "the New American Republic" #NT!
- NAR_collectivist: "New American Republic" #NT!
- NAR_collectivist_ADJ: "American" #NT!
- NAR_collectivist_DEF: "the New American Republic" #NT!
- NAR_libertarian_socialist: "New American Republic" #NT!
- NAR_libertarian_socialist_ADJ: "American" #NT!
- NAR_libertarian_socialist_DEF: "the New American Republic" #NT!
- NAR_social_democrat: "New American Republic" #NT!
- NAR_social_democrat_ADJ: "American" #NT!
- NAR_social_democrat_DEF: "the New American Republic" #NT!
- NAR_social_liberal: "New American Republic" #NT!
- NAR_social_liberal_ADJ: "American" #NT!
- NAR_social_liberal_DEF: "the New American Republic" #NT!
- NAR_market_liberal: "New American Republic" #NT!
- NAR_market_liberal_ADJ: "American" #NT!
- NAR_market_liberal_DEF: "the New American Republic" #NT!
- NAR_social_conservative: "New American Republic" #NT!
- NAR_social_conservative_ADJ: "American" #NT!
- NAR_social_conservative_DEF: "the New American Republic" #NT!
- NAR_authoritarian_democrat: "New American Republic" #NT!
- NAR_authoritarian_democrat_ADJ: "American" #NT!
- NAR_authoritarian_democrat_DEF: "the New American Republic" #NT!
- NAR_paternal_autocrat: "New American Republic" #NT!
- NAR_paternal_autocrat_ADJ: "American" #NT!
- NAR_paternal_autocrat_DEF: "the New American Republic" #NT!
- NAR_national_populist: "New American Republic" #NT!
- NAR_national_populist_ADJ: "American" #NT!
- NAR_national_populist_DEF: "the New American Republic" #NT!
- NAR_valkist: "New American Republic" #NT!
- NAR_valkist_ADJ: "American" #NT!
- NAR_valkist_DEF: "the New American Republic" #NT!
-  
- ### Cosmetic 
- # Balkanized 
- NAR_rust_belt_vanguardist: "Great Lakes Republic" #NT!
- NAR_rust_belt_vanguardist_ADJ: "American" #NT!
- NAR_rust_belt_vanguardist_DEF: "the Great Lakes Republic" #NT!
- NAR_rust_belt_collectivist: "Great Lakes Republic" #NT!
- NAR_rust_belt_collectivist_ADJ: "American" #NT!
- NAR_rust_belt_collectivist_DEF: "the Great Lakes Republic" #NT!
- NAR_rust_belt_libertarian_socialist: "Great Lakes Republic" #NT!
- NAR_rust_belt_libertarian_socialist_ADJ: "American" #NT!
- NAR_rust_belt_libertarian_socialist_DEF: "the Great Lakes Republic" #NT!
- NAR_rust_belt_social_democrat: "Great Lakes Republic" #NT!
- NAR_rust_belt_social_democrat_ADJ: "American" #NT!
- NAR_rust_belt_social_democrat_DEF: "the Great Lakes Republic" #NT!
- NAR_rust_belt_social_liberal: "Great Lakes Republic" #NT!
- NAR_rust_belt_social_liberal_ADJ: "American" #NT!
- NAR_rust_belt_social_liberal_DEF: "the Great Lakes Republic" #NT!
- NAR_rust_belt_market_liberal: "Great Lakes Republic" #NT!
- NAR_rust_belt_market_liberal_ADJ: "American" #NT!
- NAR_rust_belt_market_liberal_DEF: "the Great Lakes Republic" #NT!
- NAR_rust_belt_social_conservative: "Great Lakes Republic" #NT!
- NAR_rust_belt_social_conservative_ADJ: "American" #NT!
- NAR_rust_belt_social_conservative_DEF: "the Great Lakes Republic" #NT!
- NAR_rust_belt_authoritarian_democrat: "Great Lakes Republic" #NT!
- NAR_rust_belt_authoritarian_democrat_ADJ: "American" #NT!
- NAR_rust_belt_authoritarian_democrat_DEF: "the Great Lakes Republic" #NT!
- NAR_rust_belt_paternal_autocrat: "Great Lakes Republic" #NT!
- NAR_rust_belt_paternal_autocrat_ADJ: "American" #NT!
- NAR_rust_belt_paternal_autocrat_DEF: "the Great Lakes Republic" #NT!
- NAR_rust_belt_national_populist: "Great Lakes Republic" #NT!
- NAR_rust_belt_national_populist_ADJ: "American" #NT!
- NAR_rust_belt_national_populist_DEF: "the Great Lakes Republic" #NT!
- NAR_rust_belt_valkist: "Great Lakes Republic" #NT!
- NAR_rust_belt_valkist_ADJ: "American" #NT!
- NAR_rust_belt_valkist_DEF: "the Great Lakes Republic" #NT!
- # Fordist 
- NAR_ford_vanguardist: "New American Republic" #NT!
- NAR_ford_vanguardist_ADJ: "Fordist" #NT!
- NAR_ford_vanguardist_DEF: "the New American Republic" #NT!
- NAR_ford_collectivist: "New American Republic" #NT!
- NAR_ford_collectivist_ADJ: "Fordist" #NT!
- NAR_ford_collectivist_DEF: "the New American Republic" #NT!
- NAR_ford_libertarian_socialist: "New American Republic" #NT!
- NAR_ford_libertarian_socialist_ADJ: "Fordist" #NT!
- NAR_ford_libertarian_socialist_DEF: "the New American Republic" #NT!
- NAR_ford_social_democrat: "New American Republic" #NT!
- NAR_ford_social_democrat_ADJ: "Fordist" #NT!
- NAR_ford_social_democrat_DEF: "the New American Republic" #NT!
- NAR_ford_social_liberal: "New American Republic" #NT!
- NAR_ford_social_liberal_ADJ: "Fordist" #NT!
- NAR_ford_social_liberal_DEF: "the New American Republic" #NT!
- NAR_ford_market_liberal: "New American Republic" #NT!
- NAR_ford_market_liberal_ADJ: "Fordist" #NT!
- NAR_ford_market_liberal_DEF: "the New American Republic" #NT!
- NAR_ford_social_conservative: "New American Republic" #NT!
- NAR_ford_social_conservative_ADJ: "Fordist" #NT!
- NAR_ford_social_conservative_DEF: "the New American Republic" #NT!
- NAR_ford_authoritarian_democrat: "New American Republic" #NT!
- NAR_ford_authoritarian_democrat_ADJ: "Fordist" #NT!
- NAR_ford_authoritarian_democrat_DEF: "the New American Republic" #NT!
- NAR_ford_paternal_autocrat: "New American Republic" #NT!
- NAR_ford_paternal_autocrat_ADJ: "Fordist" #NT!
- NAR_ford_paternal_autocrat_DEF: "the New American Republic" #NT!
- NAR_ford_national_populist: "New American Republic" #NT!
- NAR_ford_national_populist_ADJ: "Fordist" #NT!
- NAR_ford_national_populist_DEF: "the New American Republic" #NT!
- NAR_ford_valkist: "New American Republic" #NT!
- NAR_ford_valkist_ADJ: "Fordist" #NT!
- NAR_ford_valkist_DEF: "the New American Republic" #NT!
- # Corporatist 
- NAR_corporate_vanguardist: "New American Republic" #NT!
- NAR_corporate_vanguardist_ADJ: "Corporatist" #NT!
- NAR_corporate_vanguardist_DEF: "the New American Republic" #NT!
- NAR_corporate_collectivist: "New American Republic" #NT!
- NAR_corporate_collectivist_ADJ: "Corporatist" #NT!
- NAR_corporate_collectivist_DEF: "the New American Republic" #NT!
- NAR_corporate_libertarian_socialist: "New American Republic" #NT!
- NAR_corporate_libertarian_socialist_ADJ: "Corporatist" #NT!
- NAR_corporate_libertarian_socialist_DEF: "the New American Republic" #NT!
- NAR_corporate_social_democrat: "New American Republic" #NT!
- NAR_corporate_social_democrat_ADJ: "Corporatist" #NT!
- NAR_corporate_social_democrat_DEF: "the New American Republic" #NT!
- NAR_corporate_social_liberal: "New American Republic" #NT!
- NAR_corporate_social_liberal_ADJ: "Corporatist" #NT!
- NAR_corporate_social_liberal_DEF: "the New American Republic" #NT!
- NAR_corporate_market_liberal: "New American Republic" #NT!
- NAR_corporate_market_liberal_ADJ: "Corporatist" #NT!
- NAR_corporate_market_liberal_DEF: "the New American Republic" #NT!
- NAR_corporate_social_conservative: "New American Republic" #NT!
- NAR_corporate_social_conservative_ADJ: "Corporatist" #NT!
- NAR_corporate_social_conservative_DEF: "the New American Republic" #NT!
- NAR_corporate_authoritarian_democrat: "New American Republic" #NT!
- NAR_corporate_authoritarian_democrat_ADJ: "Corporatist" #NT!
- NAR_corporate_authoritarian_democrat_DEF: "the New American Republic" #NT!
- NAR_corporate_paternal_autocrat: "New American Republic" #NT!
- NAR_corporate_paternal_autocrat_ADJ: "Corporatist" #NT!
- NAR_corporate_paternal_autocrat_DEF: "the New American Republic" #NT!
- NAR_corporate_national_populist: "New American Republic" #NT!
- NAR_corporate_national_populist_ADJ: "Corporatist" #NT!
- NAR_corporate_national_populist_DEF: "the New American Republic" #NT!
- NAR_corporate_valkist: "New American Republic" #NT!
- NAR_corporate_valkist_ADJ: "Corporatist" #NT!
- NAR_corporate_valkist_DEF: "the New American Republic" #NT!
- # Cursed 
- NAR_sacred_vanguardist: "American Sacred Republic" #NT!
- NAR_sacred_vanguardist_ADJ: "Nationalist" #NT!
- NAR_sacred_vanguardist_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_collectivist: "American Sacred Republic" #NT!
- NAR_sacred_collectivist_ADJ: "Nationalist" #NT!
- NAR_sacred_collectivist_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_libertarian_socialist: "American Sacred Republic" #NT!
- NAR_sacred_libertarian_socialist_ADJ: "Nationalist" #NT!
- NAR_sacred_libertarian_socialist_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_social_democrat: "American Sacred Republic" #NT!
- NAR_sacred_social_democrat_ADJ: "Nationalist" #NT!
- NAR_sacred_social_democrat_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_social_liberal: "American Sacred Republic" #NT!
- NAR_sacred_social_liberal_ADJ: "Nationalist" #NT!
- NAR_sacred_social_liberal_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_market_liberal: "American Sacred Republic" #NT!
- NAR_sacred_market_liberal_ADJ: "Nationalist" #NT!
- NAR_sacred_market_liberal_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_social_conservative: "American Sacred Republic" #NT!
- NAR_sacred_social_conservative_ADJ: "Nationalist" #NT!
- NAR_sacred_social_conservative_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_authoritarian_democrat: "American Sacred Republic" #NT!
- NAR_sacred_authoritarian_democrat_ADJ: "Nationalist" #NT!
- NAR_sacred_authoritarian_democrat_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_paternal_autocrat: "American Sacred Republic" #NT!
- NAR_sacred_paternal_autocrat_ADJ: "Nationalist" #NT!
- NAR_sacred_paternal_autocrat_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_national_populist: "American Sacred Republic" #NT!
- NAR_sacred_national_populist_ADJ: "Nationalist" #NT!
- NAR_sacred_national_populist_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_valkist: "American Sacred Republic" #NT!
- NAR_sacred_valkist_ADJ: "Nationalist" #NT!
- NAR_sacred_valkist_DEF: "the Sacred Republic of America" #NT!
- # Cursed but Unified America 
- NAR_sacred_unified_vanguardist: "American Sacred Republic" #NT!
- NAR_sacred_unified_vanguardist_ADJ: "American" #NT!
- NAR_sacred_unified_vanguardist_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_unified_collectivist: "American Sacred Republic" #NT!
- NAR_sacred_unified_collectivist_ADJ: "American" #NT!
- NAR_sacred_unified_collectivist_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_unified_libertarian_socialist: "American Sacred Republic" #NT!
- NAR_sacred_unified_libertarian_socialist_ADJ: "American" #NT!
- NAR_sacred_unified_libertarian_socialist_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_unified_social_democrat: "American Sacred Republic" #NT!
- NAR_sacred_unified_social_democrat_ADJ: "American" #NT!
- NAR_sacred_unified_social_democrat_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_unified_social_liberal: "American Sacred Republic" #NT!
- NAR_sacred_unified_social_liberal_ADJ: "American" #NT!
- NAR_sacred_unified_social_liberal_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_unified_market_liberal: "American Sacred Republic" #NT!
- NAR_sacred_unified_market_liberal_ADJ: "American" #NT!
- NAR_sacred_unified_market_liberal_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_unified_social_conservative: "American Sacred Republic" #NT!
- NAR_sacred_unified_social_conservative_ADJ: "American" #NT!
- NAR_sacred_unified_social_conservative_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_unified_authoritarian_democrat: "American Sacred Republic" #NT!
- NAR_sacred_unified_authoritarian_democrat_ADJ: "American" #NT!
- NAR_sacred_unified_authoritarian_democrat_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_unified_paternal_autocrat: "American Sacred Republic" #NT!
- NAR_sacred_unified_paternal_autocrat_ADJ: "American" #NT!
- NAR_sacred_unified_paternal_autocrat_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_unified_national_populist: "American Sacred Republic" #NT!
- NAR_sacred_unified_national_populist_ADJ: "American" #NT!
- NAR_sacred_unified_national_populist_DEF: "the Sacred Republic of America" #NT!
- NAR_sacred_unified_valkist: "American Sacred Republic" #NT!
- NAR_sacred_unified_valkist_ADJ: "American" #NT!
- NAR_sacred_unified_valkist_DEF: "the Sacred Republic of America" #NT!
-  
- ### Parties 
- NAR_vanguardist_party: "CPUSA" #NT!
- NAR_vanguardist_party_long: "Communist Party of the United States" #NT!
- NAR_collectivist_party: "IWW" #NT!
- NAR_collectivist_party_long: "International Workers of the World" #NT!
- NAR_libertarian_socialist_party: "Socialists" #NT!
- NAR_libertarian_socialist_party_long: "Socialist Party" #NT!
- NAR_social_democrat_party: "Progressive Democrats" #NT!
- NAR_social_democrat_party_long: "Democratic Party" #NT!
- NAR_social_liberal_party: "Liberal Republicans" #NT!
- NAR_social_liberal_party_long: "Republican Party" #NT!
- NAR_market_liberal_party: "Moderate Republicans" #NT!
- NAR_market_liberal_party_long: "Republican Party" #NT!
- NAR_social_conservative_party: "Conservative Democrats" #NT!
- NAR_social_conservative_party_long: "Democratic Party" #NT!
- NAR_authoritarian_democrat_party: "Corporate" #NT!
- NAR_authoritarian_democrat_party_long: "Corporate Administration" #NT!
- NAR_paternal_autocrat_party: "Corporate" #NT!
- NAR_paternal_autocrat_party_long: "Corporate Administration" #NT!
- NAR_national_populist_party: "APP (Moderates)" #NT!
- NAR_national_populist_party_long: "American Purity Party" #NT!
- NAR_valkist_party: "APP (Hardliners)" #NT!
- NAR_valkist_party_long: "American Purity Party" #NT!
-  
- ### Triggers 
- NAR_cemented_our_authority: "We have cemented our authority" #NT!
- NAR_chosen_support: "§gWe have chosen the§! §YBattlefield Support§! §gdoctrine§!" #NT!
- NAR_chosen_destruction: "§gWe have chosen the§! §YStrategic Destruction§! §gdoctrine§!" #NT!
- NAR_operation_in_progress_tt: "We are currently conducting any operations" #NT!
- NAR_operation_in_progress_tt_NOT: "We are §Rnot§! currently conducting any operations" #NT!
-  
- ### Decisions 
- NAR_invade_country: "Invade §Y[From.GetName]§!" #NT!
- NAR_unification_of_america: "Unification of America" #NT!
- NAR_attack_traitors: "Attack §Y[From.GetName]§!" #NT!
- NAR_demand_territory: "Demand American Territory from §Y[From.GetName]§!" #NT!
- NAR_state_reintegration: "State Reintegration" #NT!
- NAR_integrate_state: "Restore Order in §Y[From.GetName]§!" #NT!
- NAR_formalize_the_new_republic: "Formalize the New Republic" #NT!
- NAR_the_racial_issue: "The Racial Issue" #NT!
- NAR_the_racial_issue_desc: "While the last few decades the Federal Government effectively abolished slavery, many minorities, especially blacks doesn't enjoy the same benefits as white citizens. Under the legal status, they are technically free, but are segregated in public society.\n\nCurrent Status of Minorities: [NAR_minority_status]\nOppression Level: [?minority_suppression|0-]" #NT!
- NAR_the_racial_issue_oppressed: "§ROppressed§!" #NT!
- NAR_the_racial_issue_suppressed: "§OSuppressed§!" #NT!
- NAR_the_racial_issue_normal: "§GNormal§!" #NT!
- NAR_send_them_to_the_mines: "Send them to the Mines" #NT!
- NAR_send_them_to_the_factories: "Send them to the Factories" #NT!
- NAR_send_them_to_the_dockyards: "Send them to the Dockyards" #NT!
- NAR_send_them_to_the_refineries: "Send them to the Refineries" #NT!
- NAR_make_them_build_our_defences: "Make them Build our Defences" #NT!
- NAR_make_them_build_industries: "Make them Build our Industries" #NT!
- NAR_make_them_build_factories: "Make them Build our Factories" #NT!
- NAR_make_them_build_dockyards: "Make them Build our Dockyards" #NT!
- NAR_make_them_build_infrastructure: "Make them Build our Infrastructure" #NT!
- NAR_make_them_repair_damaged_industry: "Make them Repair damaged Industry" #NT!
- NAR_make_them_repair_damaged_factories: "Make them Repair damaged Factories" #NT!
- NAR_make_them_repair_damaged_dockyards: "Make them Repair damaged Dockyards" #NT!
- NAR_make_them_repair_damaged_infrastructure: "Make them Repair damaged Infrastructure" #NT!
-  
- ### Ideas 
- NAR_racial_issue: "The Racial Issue" #NT!
- NAR_racial_issue_desc: "Leaders of this nation have a bias on their own race; and since they run this nation with no consequences of their actions; many minorities are oppressed and fleeing to other progressive nations.\n\n§WPolitical Power Gain:§! [?minority_pp|%+2]\n§WStability:§! [?minority_stability|%+2]\n§WRecruitable Population Factor:§! [?minority_conscription|%+2]\n§WConstruction Speed:§! [?minority_construction|%+2]" #NT!
- NAR_economic_downtrum: "Economic Downtrum" #NT!
- NAR_economic_downtrum_desc: "The recent collapse of the former United States have caused chaos among many foreign and domestic investors, pulling out their investments from the economy; and thus resulted in an economic recession." #NT!
- NAR_economic_downtrum_1: "Economic Downtrum" #NT!
- NAR_economic_downtrum_1_desc: "The recent collapse of the former United States have caused chaos among many foreign and domestic investors, pulling out their investments from the economy; and thus resulted in an economic recession." #NT!
- NAR_economic_downtrum_2: "Economic Downtrum" #NT!
- NAR_economic_downtrum_2_desc: "The recent collapse of the former United States have caused chaos among many foreign and domestic investors, pulling out their investments from the economy; and thus resulted in an economic recession." #NT!
- NAR_economic_downtrum_3: "Economic Downtrum" #NT!
- NAR_economic_downtrum_3_desc: "The recent collapse of the former United States have caused chaos among many foreign and domestic investors, pulling out their investments from the economy; and thus resulted in an economic recession." #NT!
- NAR_recovering_from_recession: "Recovering from Recession" #NT!
- NAR_unstable_bureaucracy: "Unstable Bureaucracy" #NT!
- NAR_unstable_bureaucracy_desc: "The current government is directly managed by corporations that seized control when the Union has collapsed. It is the capitalists' interests on what runs this state." #NT!
- NAR_illegitimate_government: "Illegitimate Government" #NT!
- NAR_illegitimate_government_desc: "Since we have ceded from the Union and form our own nation; many countries have not recognized our independence, and as such still treated as a breakaway state of the former United States." #NT!
- NAR_church_support: "Church Support" #NT!
- NAR_social_reforms_idea: "Social Reforms" #NT!
- NAR_restricted_press_freedom: "Restricted Press Freedom" #NT!
- NAR_civilian_heroism_idea: "Civilian Heroism" #NT!
- NAR_instituting_propaganda: "Instituting Propaganda" #NT!
- NAR_labour_agreement: "Labour Agreement" #NT!
- NAR_union_suppression: "Union Suppression" #NT!
- NAR_armed_and_ready: "Armed and Ready" #NT!
- NAR_american_boy_scouts: "American Boy Scouts" #NT!
- NAR_research_boost: "Research Boost" #NT!
- NAR_the_great_purge: "The Great Purge" #NT!
- NAR_cointelpro: "Counter Intelligence Program" #NT!
- NAR_war_bonds_idea: "War Bonds" #NT!
- NAR_military_research_prioritization: "Military Research Prioritization" #NT!
- NAR_chiefs_of_staff: "Chiefs of Staff" #NT!
- NAR_chiefs_of_staff_1: "Chiefs of Staff" #NT!
- NAR_production_boost: "Production Boost" #NT!
- NAR_new_waves: "The New WAVES" #NT!
- NAR_maritime_industry_idea: "Maritime Industry" #NT!
- NAR_liberty_ships_idea: "Liberty Ships" #NT!
- NAR_rules_the_waves_idea: "America Rules the Waves" #NT!
- NAR_aviation_industry: "Aviation Industry" #NT!
- NAR_worker_and_minority_strikes: "Worker and Minority Strikes" #NT!
- NAR_using_cheap_labour: "Using Cheap Labour" #NT!
- NAR_lowered_corporate_tax: "Low Corporate Tax" #NT!
- NAR_financial_reforms_idea: "Financial Reforms" #NT!
- NAR_thriving_economy: "Thriving Economy" #NT!
- NAR_militaristic_education: "Militaristic Education" #NT!
- NAR_civilian_conservation_corps_idea: "Civilian Conservation Corps" #NT!
- NAR_farming_subsidies: "Farming Subsidies" #NT!
- NAR_american_oil: "American Oil" #NT!
- NAR_white_welfare_idea: "White Welfare" #NT!
- NAR_christian_work_ethics_idea: "Christian Work Ethics" #NT!
- NAR_forced_labour_idea: "Forced Labour" #NT!
- NAR_great_migration: "Great Migration" #NT!
- NAR_american_refugees: "American Refugees" #NT!
- NAR_american_refugees_desc: "American Refugees" #NT!
-  
- ### Focus 
- # Political 
- NAR_political_stabilization: "Political Stabilization" #NT!
- NAR_political_stabilization_desc: "" #NT!
- NAR_the_corporate_remains: "The Corporate Remains" #NT!
- NAR_the_corporate_remains_desc: "" #NT!
- NAR_found_new_universities: "Found New Universities" #NT!
- NAR_found_new_universities_desc: "" #NT!
- NAR_focus_on_agricultural_expansion: "Focus on Agricultural Expansion" #NT!
- NAR_focus_on_agricultural_expansion_desc: "" #NT!
- NAR_focus_on_industrial_expansion: "Focus on Industrial Expansion" #NT!
- NAR_focus_on_industrial_expansion_desc: "" #NT!
- NAR_use_cheap_labour: "Use Cheap Labour" #NT!
- NAR_use_cheap_labour_desc: "" #NT!
- NAR_lower_the_corporate_tax: "Lower the Corporate Tax" #NT!
- NAR_lower_the_corporate_tax_desc: "" #NT!
- NAR_financial_reform: "Financial Reform" #NT!
- NAR_financial_reform_desc: "" #NT!
- NAR_the_thriving_economy: "The Thriving Economy" #NT!
- NAR_the_thriving_economy_desc: "" #NT!
- NAR_the_iron_hand: "The Iron Hand" #NT!
- NAR_the_iron_hand_desc: "" #NT!
- NAR_reinforce_business_ties: "Reinforce Business Ties" #NT!
- NAR_reinforce_business_ties_desc: "" #NT!
- NAR_fund_new_weapons_manufacturers: "Fund New Weapons Manufacturers" #NT!
- NAR_fund_new_weapons_manufacturers_desc: "" #NT!
- NAR_militaristic_schools: "Militaristic Schools" #NT!
- NAR_militaristic_schools_desc: "" #NT!
- NAR_civilian_conservation_corps: "Civilian Conservation Corps" #NT!
- NAR_civilian_conservation_corps_desc: "" #NT!
- NAR_subsidized_farming: "Subsidized Farming" #NT!
- NAR_subsidized_farming_desc: "" #NT!
- NAR_americas_oil: "America's Oil" #NT!
- NAR_americas_oil_desc: "" #NT!
- NAR_stability_forever: "Stability Forever" #NT!
- NAR_stability_forever_desc: "" #NT!
- NAR_a_dark_path: "A Dark Path" #NT!
- NAR_a_dark_path_desc: "" #NT!
- NAR_white_welfare: "White Welfare" #NT!
- NAR_white_welfare_desc: "" #NT!
- NAR_christian_education: "Christian Education" #NT!
- NAR_christian_education_desc: "" #NT!
- NAR_forced_labour: "Forced Labour" #NT!
- NAR_forced_labour_desc: "" #NT!
- NAR_absorb_the_black_legion: "Absorb the Black Legion" #NT!
- NAR_absorb_the_black_legion_desc: "" #NT!
- NAR_christian_work_ethics: "Christian Work Ethics" #NT!
- NAR_christian_work_ethics_desc: "" #NT!
- NAR_crackdown_on_undesirables: "Crackdown on Undesirables" #NT!
- NAR_crackdown_on_undesirables_desc: "" #NT!
- NAR_enforce_segregation: "Enforce Segregation" #NT!
- NAR_enforce_segregation_desc: "" #NT!
- # Primary 
- NAR_cement_our_authority: "Cement our Authority" #NT!
- NAR_cement_our_authority_desc: "" #NT!
- NAR_housing_programs: "Housing Programs" #NT!
- NAR_housing_programs_desc: "" #NT!
- NAR_new_education_curriculum: "New Education Curriculum" #NT!
- NAR_new_education_curriculum_desc: "" #NT!
- NAR_get_church_support: "Get Church Support" #NT!
- NAR_get_church_support_desc: "" #NT!
- NAR_social_reforms: "Social Reforms" #NT!
- NAR_social_reforms_desc: "" #NT!
- NAR_control_the_newspapers: "Control the Newspapers" #NT!
- NAR_control_the_newspapers_desc: "" #NT!
- NAR_banking_deregulation: "Banking Deregulation" #NT!
- NAR_banking_deregulation_desc: "" #NT!
- NAR_bailout_american_companies: "Bailout American Companies" #NT!
- NAR_bailout_american_companies_desc: "" #NT!
- NAR_tax_reforms: "Tax Reforms" #NT!
- NAR_tax_reforms_desc: "" #NT!
- NAR_electrification_campaigns: "Electrification Campaigns" #NT!
- NAR_electrification_campaigns_desc: "" #NT!
- NAR_economic_recovery: "Economic Recovery" #NT!
- NAR_economic_recovery_desc: "" #NT!
- NAR_start_privatization_of_services: "Start Privatization of Services" #NT!
- NAR_start_privatization_of_services_desc: "" #NT!
- NAR_new_segregation_laws: "New Segregation Laws" #NT!
- NAR_new_segregation_laws_desc: "" #NT!
- NAR_suppress_the_minorities: "Suppress the Minorities" #NT!
- NAR_suppress_the_minorities_desc: "" #NT!
- NAR_limited_rights_for_minorities: "Limited Rights for Minorities" #NT!
- NAR_limited_rights_for_minorities_desc: "" #NT!
- NAR_civilian_heroism: "Civilian Heroism" #NT!
- NAR_civilian_heroism_desc: "" #NT!
- NAR_promote_technocratic_management: "Promote Technocratic Management" #NT!
- NAR_promote_technocratic_management_desc: "" #NT!
- NAR_begin_civilian_mobilization: "Begin Civilian Mobilization" #NT!
- NAR_begin_civilian_mobilization_desc: "" #NT!
- NAR_propaganda_campaigns: "Propaganda Campaigns" #NT!
- NAR_propaganda_campaigns_desc: "" #NT!
- NAR_counter_intelligence_program: "Counter Intelligence Program" #NT!
- NAR_counter_intelligence_program_desc: "" #NT!
- NAR_ensure_bureaucratic_loyalty: "Ensure Bureaucratic Loyalty" #NT!
- NAR_ensure_bureaucratic_loyalty_desc: "" #NT!
- NAR_secure_labour_agreements: "Secure Labour Agreements" #NT!
- NAR_secure_labour_agreements_desc: "" #NT!
- NAR_crush_the_unions: "Crush the Unions" #NT!
- NAR_crush_the_unions_desc: "" #NT!
- NAR_army_supervision: "Army Supervision" #NT!
- NAR_army_supervision_desc: "" #NT!
- NAR_reform_the_boy_scouts: "Reform the Boy Scouts" #NT!
- NAR_reform_the_boy_scouts_desc: "" #NT!
- NAR_subsidize_research_institutions: "Subsidize Research Institutions" #NT!
- NAR_subsidize_research_institutions_desc: "" #NT!
- NAR_fordism: "Fordism" #NT!
- NAR_fordism_desc: "" #NT!
- NAR_purge_opposition: "Purge Opposition" #NT!
- NAR_purge_opposition_desc: "" #NT!
- NAR_tackle_our_legitimacy: "Tackle our Legitimacy" #NT!
- NAR_tackle_our_legitimacy_desc: "" #NT!
- NAR_republic_without_democracy: "Republic without Democracy" #NT!
- NAR_republic_without_democracy_desc: "" #NT!
- # Army 
- NAR_the_new_american_army: "The New American Army" #NT!
- NAR_the_new_american_army_desc: "" #NT!
- NAR_new_army_doctrines: "New Army Doctrines" #NT!
- NAR_new_army_doctrines_desc: "" #NT!
- NAR_expand_the_national_guard: "Expand the National Guard" #NT!
- NAR_expand_the_national_guard_desc: "" #NT!
- NAR_expand_the_national_guard_tt: "§CWe will raise new divisions using the National Guard template.§!" #NT!
- NAR_war_bonds: "War Bonds" #NT!
- NAR_war_bonds_desc: "" #NT!
- NAR_army_bonus_bill: "Army Bonus Bill" #NT!
- NAR_army_bonus_bill_desc: "" #NT!
- NAR_walkie_takies: "Walkie-Takies" #NT!
- NAR_walkie_takies_desc: "" #NT!
- NAR_new_equipment: "New Equipment" #NT!
- NAR_new_equipment_desc: "" #NT!
- NAR_american_motor_industry: "American Motor Industry" #NT!
- NAR_american_motor_industry_desc: "" #NT!
- NAR_firearm_manufacturers: "Firearm Manufacturers" #NT!
- NAR_firearm_manufacturers_desc: "" #NT!
- NAR_armoured_research: "Armoured Research" #NT!
- NAR_armoured_research_desc: "" #NT!
- NAR_mechanized_experimentations: "Mechanized Experimentations" #NT!
- NAR_mechanized_experimentations_desc: "" #NT!
- NAR_mechanized_experimentations_tt: "§CNew divisions with Mechanized template and equipment will be raised.§!" #NT!
- NAR_military_research: "Military Research" #NT!
- NAR_military_research_desc: "" #NT!
- NAR_joint_chiefs_of_staff: "Joint Chiefs of Staff" #NT!
- NAR_joint_chiefs_of_staff_desc: "" #NT!
- NAR_trained_officers: "Trained Officers" #NT!
- NAR_trained_officers_desc: "" #NT!
- NAR_rouse_the_people: "Rouse the People" #NT!
- NAR_rouse_the_people_desc: "" #NT!
- NAR_support_brigades: "Support Brigades" #NT!
- NAR_support_brigades_desc: "" #NT!
- NAR_army_ranger_corps: "Army Ranger Corps" #NT!
- NAR_army_ranger_corps_desc: "" #NT!
- NAR_increased_weapons_production: "Increased Weapons Production" #NT!
- NAR_increased_weapons_production_desc: "" #NT!
- NAR_defend_the_new_america: "Defend the New America" #NT!
- NAR_defend_the_new_america_desc: "" #NT!
- # Navy 
- NAR_the_new_american_navy: "The New American Navy" #NT!
- NAR_the_new_american_navy_desc: "" #NT!
- NAR_construct_more_ports: "Construct More Ports" #NT!
- NAR_construct_more_ports_desc: "" #NT!
- NAR_the_waves: "The WAVES" #NT!
- NAR_the_waves_desc: "" #NT!
- NAR_transport_equipment: "Transport Equipment" #NT!
- NAR_transport_equipment_desc: "" #NT!
- NAR_maritime_industry: "Maritime Industry" #NT!
- NAR_maritime_industry_desc: "" #NT!
- NAR_expand_the_marine_corps: "Expand the Marine Corps" #NT!
- NAR_expand_the_marine_corps_desc: "" #NT!
- NAR_coastal_bunkers: "Coastal Bunkers" #NT!
- NAR_coastal_bunkers_desc: "" #NT!
- NAR_new_tactics: "New Tactics" #NT!
- NAR_new_tactics_desc: "" #NT!
- NAR_the_american_coast_guard: "The American Coast Guard" #NT!
- NAR_the_american_coast_guard_desc: "" #NT!
- NAR_submarine_modernization: "Submarine Modernization" #NT!
- NAR_submarine_modernization_desc: "" #NT!
- NAR_cruiser_modernization: "Cruiser Modernization" #NT!
- NAR_cruiser_modernization_desc: "" #NT!
- NAR_battlecruiser_development: "Battlecruiser Development" #NT!
- NAR_battlecruiser_development_desc: "" #NT!
- NAR_carrier_research: "Carrier Research" #NT!
- NAR_carrier_research_desc: "" #NT!
- NAR_naval_aviation: "Naval Aviation" #NT!
- NAR_naval_aviation_desc: "" #NT!
- NAR_battleship_development: "Battleship Development" #NT!
- NAR_battleship_development_desc: "" #NT!
- NAR_new_sailors: "New Sailors" #NT!
- NAR_new_sailors_desc: "" #NT!
- NAR_liberty_ships: "Liberty Ships" #NT!
- NAR_liberty_ships_desc: "" #NT!
- NAR_america_rules_the_waves: "America Rules the Waves" #NT!
- NAR_america_rules_the_waves_desc: "" #NT!
- # Air Force 
- NAR_the_new_american_air_force: "The New American Air Force" #NT!
- NAR_the_new_american_air_force_desc: "" #NT!
- NAR_prioritize_support: "Prioritize Support" #NT!
- NAR_prioritize_support_desc: "" #NT!
- NAR_construct_air_bases: "Construct Air Bases" #NT!
- NAR_construct_air_bases_desc: "" #NT!
- NAR_embrace_destruction: "Embrace Destruction" #NT!
- NAR_embrace_destruction_desc: "" #NT!
- NAR_fighter_modernization: "Fighter Modernization" #NT!
- NAR_fighter_modernization_desc: "" #NT!
- NAR_cas_modernization: "CAS Modernization" #NT!
- NAR_cas_modernization_desc: "" #NT!
- NAR_heavy_fighter_research: "Heavy Fighter Research" #NT!
- NAR_heavy_fighter_research_desc: "" #NT!
- NAR_strategic_bomber_research: "Strategic Bomber Research" #NT!
- NAR_strategic_bomber_research_desc: "" #NT!
- NAR_new_pilots: "New Pilots" #NT!
- NAR_new_pilots_desc: "" #NT!
- NAR_air_defenses: "Air Defenses" #NT!
- NAR_air_defenses_desc: "" #NT!
- NAR_subsidize_the_aviation_industry: "Subsidize the Aviation Industry" #NT!
- NAR_subsidize_the_aviation_industry_desc: "" #NT!
- NAR_improve_current_strategies: "Improve Current Strategies" #NT!
- NAR_improve_current_strategies_desc: "" #NT!
- # Foreign 
- NAR_choose_the_entente: "Choose the Entente" #NT!
- NAR_choose_the_entente_desc: "" #NT!
- NAR_our_own_domain: "Our Own Domain" #NT!
- NAR_our_own_domain_desc: "" #NT!
- NAR_favour_the_reich: "Favour the Reich" #NT!
- NAR_favour_the_reich_desc: "" #NT!
- NAR_approach_the_philippines: "Approach the Philippines" #NT!
- NAR_approach_the_philippines_desc: "" #NT!
- NAR_tackle_the_japanese_threat: "Tackle the Japanese Threat" #NT!
- NAR_tackle_the_japanese_threat_desc: "" #NT!
- NAR_choosing_a_side: "Choosing a Side" #NT!
- NAR_choosing_a_side_desc: "" #NT!
- NAR_crush_the_southern_serpent: "Crush the Southern Serpent" #NT!
- NAR_crush_the_southern_serpent_desc: "" #NT!
- NAR_reclaim_corporate_lands: "Reclaim Corporate Lands" #NT!
- NAR_reclaim_corporate_lands_desc: "" #NT!
- NAR_reclaim_corporate_lands_tt: "£decision_icon_small Unlocks decision: §YInvade [YUC.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [GUA.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [HON.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [ELS.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [NIC.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [COS.GetName]§!" #NT!
- NAR_the_coffee_plantations: "The Coffee Plantations" #NT!
- NAR_the_coffee_plantations_desc: "" #NT!
- NAR_the_coffee_plantations_tt: "£decision_icon_small Unlocks decision: §YInvade [ECU.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [COL.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [VEN.GetName]§!" #NT!
- NAR_the_carribean_shipyards: "The Carribean Shipyards" #NT!
- NAR_the_carribean_shipyards_desc: "" #NT!
- NAR_the_carribean_shipyards_tt: "£decision_icon_small Unlocks decision: §YInvade [CUB.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [HAI.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [DOM.GetName]§!" #NT!
- NAR_attack_the_marxists: "Attack the Marxists" #NT!
- NAR_attack_the_marxists_desc: "" #NT!
- NAR_support_the_state: "Support the State" #NT!
- NAR_support_the_state_desc: "" #NT!
- NAR_continue_the_cleansing: "Continue the Cleansing" #NT!
- NAR_continue_the_cleansing_desc: "" #NT!
- NAR_continue_the_cleansing_tt: "£decision_icon_small Unlocks decision: §YInvade [BOL.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [ARG.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [CHL.GetName]§!\n" #NT!
-  
- ### Events 
- newamerica.1.t: "Cementing Our Authority" #NT!
- newamerica.1.d: "The New American Republic is a young republic brought upon the destruction of the old and corrupt United States. The governors have been discontented with the policies of the Federal Government and have outright seceeded from the union and have formed the New American Republic. While some of our citizens our respecting our authority; some do not, specially those who are in the lower classes and the minorities. They see as a mere puppet of the Corpoate Council; and not a legitimate government like those in Washington. Many have been proposing that we conduct some sort of a relations with the minorities and the working classes, however, there are also some, that don't want a compromise with them; as we have the troops that can pacify future threats if necessary." #NT!
- newamerica.1.a: "Our authority comes from the guns of the army" #NT!
- newamerica.1.b: "Try having relations with the minorities" #NT!
- newamerica.2.t: "Compromise with Simmons?" #NT!
- newamerica.2.d: "William Joseph Simmons, the leader for the APP, or the American Purity Party, with its paramilitary wing, the Black Legion. In order, to fully cement our power in the state, some in the government proposes a compromise with Simmons. However, if they get too much power on the government, who knows what will happen to the Republic." #NT!
- newamerica.2.a: "As long as it will solidify our power" #NT!
- newamerica.2.b: "They give me the creeps, but do nothing" #NT!
- newamerica.2.c: "Ban them outright" #NT!
- newamerica.3.t: "Reviewing the Unemployment Benefits" #NT!
- newamerica.3.d: "In hopes of alleviating some of the effects of the economic recession, there have been the proposal of reviewing the unemployment benefits that can be used as funds in case of it being revoked. However, revoking these benefits can surely make our administration popular, and thus, some within the government have the idea of only revoking the benfits of those who are classified as minorities which can free up some funding at the same time, avoiding being unpopular onto our citizens." #NT!
- newamerica.3.a: "Revoke for the minorities" #NT!
- newamerica.3.b: "Revoke it for all" #NT!
- newamerica.4.t: "Garrisons in Detriot?" #NT!
- newamerica.4.d: "On the meeting with [Root.GetLeader], General Moseley have proposed to deploy garrisons throughout the city of Detriot; in order to secure the heart of the Republic and also to lessen the henious activities commited by the criminals. While the proposal of General Moseley have been quite sensible to say the least; we can also deploy those garrisons on other parts of the nation; effectively securing our control outside of the urban areas." #NT!
- newamerica.4.a: "Deploy the garrisons" #NT!
- newamerica.4.b: "They are more needed elsewhere" #NT!
- newamerica.5.t: "The Minimum Wage Issue" #NT!
- newamerica.5.d: "The idea of an standardized minimum wage has not been quite in the government's concerns recently. However, unions and labour leaders have been quite vocal about it since, and they have gained the momentum recently; as officials in the government have proposed a minimum wage for the workers throughout the nation. The resolution is already in the legislative body of the government and is being reviewed." #NT!
- newamerica.5.a: "What an absurd demand" #NT!
- newamerica.5.b: "It is only for the privileged ones" #NT!
- newamerica.5.c: "Just accept it, it's only money" #NT!
- newamerica.6.t: "Recruitments in the Black Legion" #NT!
- newamerica.6.d: "There have been intelligence reports from our security forces that the Black Legion, the paramilitary wing of the APP have been conducting recruitment campaigns all over Detriot and its surronding areas. Current members of the legion will kidnap potential members to force their entry onto the organization. These activities by the APP has been a worrysome for many; and there are officers in the security forces that demands their arrest; however, many within the civilian government wishes to leave them alone." #NT!
- newamerica.6.a: "Leave them alone" #NT!
- newamerica.6.b: "Order their arrests" #NT!
- newamerica.7.t: "Clash at Chicago" #NT!
- newamerica.7.d: "In response to the recent policies of the government in various aspects of life throughout the republic; many dissatisfied groups have gathered around the city of Chicago organizing a protest in hopes of reversing some, if not all of the controversial politicies.\n\nThe deployed security forces however, were eager to disperse the protesters, that resulted in a heated conversation that ultimately ended in a clash between the protesting minorities and our security forces." #NT!
- newamerica.7.a: "Oh no..." #NT!
- newamerica.8.t: "Tragedy at Western Avenue" #NT!
- newamerica.8.d: "During the clash between our security forces and the minorities who are protesting our decision to further limit their activities; a teenage girl with a non-white ancestry was accidentaly shot by our forces, who then died from the injury. Reports have claimed that our forces have mistakenly relate the teenage girl from the protesters who are en route to run some errands. " #NT!
- newamerica.8.a: "We send our condolences" #NT!
- newamerica.9.t: "The Investigation" #NT!
- newamerica.9.d: "The controversial death of a teenage girl during the clash at the city of Chicago have amplified the voices of those who wanted the government to conduct investigations on those who are responsible for the tragedy that have happened during the clash.\n\nWe ourselves, controls what will be the outcome of this investigation; while we can blame everything that has happened on the protesters, we can also blame the unfortunate event on some of our officers; however no matter what our decision will be; the consequences are inevitable." #NT!
- newamerica.9.a: "The protesters are at fault" #NT!
- newamerica.9.b: "The officers are at fault" #NT!
- newamerica.10.t: "The March at Detriot" #NT!
- newamerica.10.d: "With the growing popularity of the American Purity Party, headed by William J. Simmons; paramilitary forces and military units sympathetic to the cause have marched onto the capital, securing important government facilities and installations. The whereabouts of [Root.GetLeader] is still unknown; but it doesn't matter, as the APP have taken control of the apparatus of state; installing Simmons as the new President of the New American Republic." #NT!
- newamerica.10.a: "A new era for America!" #NT!
- newamerica.11.t: "In the Name of Stability" #NT!
- newamerica.11.d: "The controversial policies of the Ford administration have left the military to seize control of themselves, in the name of securing the stability of the state. Important government installations and facilities have been secured by military units and General Moseley have been installed as temporary President of the New American Republic." #NT!
- newamerica.11.a: "A new era for America!" #NT!
- newamerica.12.t: "Ford Secures Corporate Backing" #NT!
- newamerica.12.d: "In response to his more hardline reforms throughout the New Republic, [Root.GetLeader] was voted out of office by the Corporate Council. It seems that the council has lost confidence on Teagle's leadership and has installed the famed Henry Ford as the new President." #NT!
- newamerica.12.a: "Good luck, Mr. Ford!" #NT!
- newamerica.13.t: "Workers Join the Protesters" #NT!
- newamerica.13.d: "In supporting their fellow oppressed \"comrades\" the workers in various locations in the state have joined the minorities in their protests.Union leaders and prominent activists have organized a worker strike that have effectively paralyzed our economy.\n\nThere are some in the government, specially in the security forces that proposes to arrest the organisers of the strikes. However this action can even escelate the tension and might make things worse; there are also those who proposes to ignore the current situation mainly believing that it will resolve onto itself. However, whatever we might do, there will be consequences." #NT!
- newamerica.13.a: "Order the arrest of their leaders!" #NT!
- newamerica.13.b: "Ignore them and carry on" #NT!
- newamerica.14.t: "Revolt!" #NT!
- newamerica.14.d: "On this day, early in the morning, an unthinkable has happened, the protesters and rioters have overpowered our security forces in the city of Chicago and have seized control of important government offices and buildings. Many of our troops and units have either joined the protesters or have been locked up; and the anarchist's leaders have proclaimed an armed conflict against our government, may God help us in this difficult times." #NT!
- newamerica.14.a: "We will crush these traitors!" #NT!
- newamerica.15.t: "Victory in Chicago" #NT!
- newamerica.15.d: "Our forces were once again marching in the city of Chicago, before it is seized by the anarchist trying to declare an independent state of their own.\n\nHowever, due to our military might and industrial capabilities, we have defeated them and made sure that their ideas are with them on their graves." #NT!
- newamerica.15.a: "As expected." #NT!
- newamerica.16.t: "The Air Force Doctrine" #NT!
- newamerica.16.d: "The newly created New American Air Force has been debating on what doctrine should the institution will focus on, there are voices that persue the supporting role of the air force for the army, in chance of giving our troops the better edge in combat; however, there are also voices that advocates in focusing on destruction of enemy industry and infrastructure, to halt their war machine." #NT!
- newamerica.16.a: "They need support the army on the field" #NT!
- newamerica.16.b: "They need to unleash fire onto the enemy territory" #NT!
- newamerica.17.t: "The Second Great Migration" #NT!
- newamerica.17.d: "As we have attempted to force the minorities to stay in our territories; there have been reports of a overwhelming number of Black Americans, Asians and Native Americans fleeing into the south and east, territories controlled by the old federal Government and the newly established state of New England." #NT!
- newamerica.17.a: "Interesting..." #NT!
- newamerica.18.t: "Refugees from [NAR.GetNameDef]" #NT!
- newamerica.18.d: "Despite the attempts of [NAR.GetNameDef] to force its minorities to stay in their territory, an increasingly large number of black Americans are ironically fleeing to the South and East. The total is likely numbering in at least a million, with many seeking to settle in our territory due to its obvious proximity. In particular, the urban regions of New Orleans are seeing an inflow of migrants. White populists such as Virgil Effinger suggest also stopping anymore blacks from entering so as to not threaten the white working class. However, much of the Republicans and Progressives disagree with this and alongside our generals see an opportunity for recruitment and potential factory workers. They recommend allowing the migrants to settle and recruiting them at once." #NT!
- newamerica.18.a: "Let them in" #NT!
- newamerica.18.b: "Announce we won't be taking in anymore" #NT!
- newamerica.19.t: "Archbishops seek support" #NT!
- newamerica.19.d: "Perceving [Root.GetLeader] as a useful ally against both the Klan and socialists, many archbishops are coming around to the new policies after previously being hostile to Charles Coughlin's influence among the Catholic population, with the most notable being Archbishop Edward Aloysius Mooney whom is now openly embracing to the new regime. Privately, the Archbishop desires increased funding for Catholic diocoses, for [Root.GetLeader] to endorse friendship with Catholic nations and for it to be easier to Catholic immigrants to become naturalized immigrants. However, some in the government do not desire any such agreement, thinking [Root.GetLeader] should do it without their approval since they view the clericy with suspicion for not endorsing them sooner. However, the Archbishops promise increased support for the regime if he agrees." #NT!
- newamerica.19.a: "Agree" #NT!
- newamerica.19.b: "No, we are beholden to Catholic supporters not the Church" #NT!
- newamerica.20.t: "The Jewish Question" #NT!
- newamerica.20.d: "As all of the NDWL factions have long invariably believed, the Jewish population of America and the world is a subversive and self-interested element, uniterested in contributing to American society and linked to Bolshevism and cultural degeneracy.\nNow that we have secured our hold on power, it falls to President [Root.GetLeader] to settle the matter of our future policy towards the Jews. The moderates in our government want to revive Henry Fords's plans of Jewish segregation, ensuring that Jews across America are placed in their own self-contained communities within designated cities.\nWithin the hardliner opposition to this, there are many nativists who would like to see Jews repatriated from America, across the Canadian border and on to destinations of their choosing far from our pleasant land. Meanwhile, there are those who believe that Yockey should not underestimate the lucrative possibility of cheap Jewish labor." #NT!
- newamerica.20.a: "Extend Jim Crow to the Jews" #NT!
- newamerica.20.b: "Repatriate them en masse" #NT!
- newamerica.20.c: "They will redeem themselves through labour" #NT!
- newamerica.21.t: "Fighting Crime" #NT!
- newamerica.22.d: "Security Minister Thompson has announced a new struggle against "the criminal population" of America and those who have reasonable suspicion to commit crimes in the future due to "ancestral ties to crime and degeneracy". Following these announcements, there was a significant increase in policing budgets, particularly for police and national guard stations in the Deep South and Black Belt of America. These efforts have led to a noticeable increase in the police presence in Black neighborhoods in cities and the rural parts of the South, with even national guard troops forming patrols in areas such as Tulsa, Oklahoma. With the restoration of order in mind, police departments have been increasing arrests for breaking Jim Crow laws and fining African-Americans with charges of "causing a commotion at late times" even for those simply walking out past 5 P.M. Even the death penalty has been increasingly used in state’s prisons against prisoners who have already been imprisoned for years before the new crime fighting bills." #NT!
- newamerica.22.a: "Finally, the White man can sleep peacefully!" #NT!
- newamerica.23.t: "Black Education Act" #NT!
- newamerica.23.d: "The wave of public education changes implemented by Simmons in order to solidify Christian Identity into the youth of America is nearly complete. His final act, which passed with unanimous approval by the delegates, is the Black Education Act. The Black Education Act totally redefines education practices for ethnic minority communities and, in particular, African-Americans. Notably it makes it illegal to teach education to African-Americans divorced from their role as laborers, distances them from older notions of religious unity across races and slashes already minor public spending on Black Schools. As part of his speech announcing the law, Simmons stated, 'There is no place for the Negro in the Anglo Saxon community above the level of laborer. What is the use of teaching the Negro child mathematics, when it cannot use it in practice?'." #NT!
- newamerica.23.a: "It's for the best" #NT!
- newamerica.24.t: "The Pass Laws" #NT!
- newamerica.24.d: "The new government has begun issuing a passbook to African-Americans throughout the Commonwealth in anticipation of the Pass Laws taking effect next year. This law is similar to older internal passport used during the time of the Confederacy to identify freemen and slaves. This has resulted in numerous African-Americans being forbidden from traveling outside of the south with plans to extend zoning into the rest of the Republic in order to intensify segregation, a policy in-line with [Root.GetLeader]'s fervent opposition to race-mixing in most forms." #NT!
- newamerica.24.a: "Papers Please." #NT!
- newamerica.25.t: "The Third Great Migration" #NT!
- newamerica.25.d: "Those thousands of African-Americans that left America before the civil war are being joined by hundreds of thousands more fleeing White Leaguer terror. Groups like the International Labor Defense and the NAACP are now working together with the Red Cross to evacuate masses of people struggling to remain free. To the White Defense Leagues and their leaders, this plays into a long-standing fear of a united front against their rule. At the same time, the fewer the dissidents internally, the safer loyalists can sleep." #NT!
- newamerica.25.a: "America is expelling toxins." #NT!
- newamerica.26.t: "American Refugees Arrive" #NT!
- newamerica.26.d.can: "A vast number of Americans, many of them African-Americans have fled across here in the North fleeing Simmon's men. We have officially welcomed them as Canadians and many of them want to settle in our country." #NT!
- newamerica.26.d.usa: "A vast number of Americans, many of them African-Americans have fled into the south fleeing Simmons's goons. We have officially welcomed them as true Americans and more then a few are ready and willing to fight against Simmons." #NT!
- newamerica.26.d.nee: "A vast number of Americans, many of them African-Americans have fled into New England fleeing Simmons's goons. We have officially welcomed them as true Americans and more then a few are ready and willing to fight against Simmons." #NT!
- newamerica.26.d.lib: "The thousands that arrived with Marcus Garvey in the early 1930s anticipated that more refugees would come. Even the strongest pessimist could not anticipate the overflow of refugees the Black Star Line has picked up and dropped off in Monrovia. Families are reunited, and the Grain Coast now swells with thousands more Americo Liberians. Those more concerned with food production however have noted that we can't really handle a growing population at this time." #NT!
- newamerica.26.d.mex: "The existence of American refugees in Mexico has generally been ignored by the Central Government, as we have had amicable relations with America in the past. However, this Simmons is a threat to the entire continent, and the thousands more refugees crossing the Rio Grande tell of the Silver Legion's horrors. These refugees are far different from the Ambrose Bierce's' looking to retire, they are scarred and determined to end the Legionary regime of America." #NT!
- newamerica.26.d.cub: "Just a 300 mile boat trip separated the thousands of American refugees from Cuba. Families in Cuba have been calling for months to their families to escape the very real threat of a nationalist takeover. None of them anticipated that the bottleneck in Florida would be opened all at once, causing hundreds of boats to show up at Varadero today. The flood of refugees from America has clogged up our ports, tied up or landlines, and put strain on the government ministry to respond. What should be our answer?" #NT!
- newamerica.26.d.hai: "Haiti has always portrayed themselves as the second home for African-Americans. A common story to tell was that the first Haitian was a refugee of Ethiopia that ran with such force that he only stopped when he fell into Haiti. Now we see this again coming out of the USA. The sinister Simmons should not have the right to do this to American people! We feel the refugees outrage, at the same time we struggle to determine whether our fragile economy can handle a labor surplus of this magnitude." #NT!
- newamerica.26.a: "You are welcome to stay" #NT!
- newamerica.27.t: "The \"Other Minories\"" #NT!
- newamerica.27.d: "A session between the senior members of the APP or the American Purity Party have discussed a couple of new policies that may change the lives other undeemed non-white citizens such as the remaining Indians and with Asian-descent. In the case of native Americans; some within the party have proposed to seize their properties and relocate them in some sort of villages away from the urban districts of the country.\n\nWhile in the case of the people with Asian ethnicity, some proposed to deport them back to Asia; such as China and Japan where they can be do no more damage in the American society. However, there are other radical members within the party that advocates that people with native Indian and Asian decent should be contained within a labour camp; where they can work for the state in exchange for some basic goods." #NT!
- newamerica.27.a: "We'll proceed with the more moderate approach." #NT!
- newamerica.27.b: "Free labour is good right?" #NT!
- newamerica.28.t: "The APP Question" #NT!
- newamerica.28.d: "The American Purity Party is a white-supremacist organization that advocates for the purification of the American state; expelling the deemed undesirables from the cities and lands of America. While they are not hostile to our own government, this can not mean that they cannot be a threat to our power in the near future. They are recruiting for their own paramilitary organization; in hopes of eliminating their undeemed undesirables. The government has conveyed to this question; and have decided to..." #NT!
- newamerica.28.a: "...ban then and arrest their leaders" #NT!
- newamerica.28.b: "...let them be" #NT!
-  
- newamerica.100.t: "[BPS.GetName] Entry to the Accord" #NT!
- newamerica.100.d: "The [NAR.GetAdjective] Government have approached us today, proposing a formal alliance between our two nations; in hopes of crushing the communist threat in the region, after all, we are in a strategic advanNAR_rust_belte in defeating the marxists." #NT!
- newamerica.100.a: "Of course we accept" #NT!
- newamerica.100.b: "We are not interested" #NT!
- newamerica.101.t: "[From.GetName] Accepts" #NT!
- newamerica.101.d: "The [From.GetAdjective] Government have seen the wisdom in our proposal, and have accepted our invitation of a formal alliance; and together we shall defeat the communist menace." #NT!
- newamerica.101.a: "Good." #NT!
- newamerica.102.t: "[From.GetName] Refuses" #NT!
- newamerica.102.d: "The [From.GetAdjective] Government is stubborn as we have anticipated, they have refused our invitation for an alliance in defeating the communist menace." #NT!
- newamerica.102.a: "To War!" #NT!
- newamerica.102.b: "They will crumble alone." #NT!
- newamerica.103.t: "[NAR.GetName] Entry to the [This.GetFactionName]" #NT!
- newamerica.103.d: "An [NAR.GetAdjective] delegation have arrived here in [Root.Capital.GetName] to discuss the entry of the [NAR.GetName] in the [Root.GetFaction]. The [NAR.GetAdjective] Government is seeking to establish a formal alliance with us. Should we accept their offer?" #NT!
- newamerica.103.a: "We'd be fools not to accept" #NT!
- newamerica.103.b: "We don't need them..." #NT!
- newamerica.104.t: "[From.GetFaction] Entry Denied" #NT!
- newamerica.104.d: "The [From.GetAdjective] Government have refused our offer of our formal alliance with them. We may have to look elsewhere." #NT!
- newamerica.104.a: "A tragedy to be sure, otherwise an opportunity..." #NT!
- newamerica.105.t: "Supporting a Side" #NT!
- newamerica.105.d: "Ever since the collapse of the Qing dynasty, China have been quite under chaos and anarchy. There are multiple competing governments that claims the legitimate government of the Chinese nation.\n\nThere is the so called, \"Democratic\" forces under the Kuomintang, founded by Sun Yat Sen and currently lead by [KMT.GetLeader]; then there is the Beiyang Government that have defeated the Kuomintang in their \"Northern Expedition\" but have lost to the Fengtian Government in Manchuria currently lead by [MAN.GetLeader]." #NT!
- newamerica.105.a: "@KMT Kuomintang Government" #NT!
- newamerica.105.b: "@ZHI Beiyang Government" #NT!
- newamerica.105.c: "@MAN Fengtian Government" #NT!
- newamerica.106.t: "[NAR.GetAdjective] Support" #NT!
- newamerica.106.d: "The new [NAR.GetAdjective] Government in Washington have chosen us, as the legitimate government in China, and thus they are supporting us militarily, materially, and financially in defeating the other warlords." #NT!
- newamerica.106.a: "Great!" #NT!
- newamerica.107.t: "Washington Requests [PHI.GetAdjective] Entry to the [FRA.GetFaction]" #NT!
- newamerica.107.d: "The delegates from Washington are requesting that we also invite the [PHI.GetAdjective] Government in the [Root.GetFaction]. This may can be an advanNAR_rust_belte as the location of [PHI.GetNameDef] is strategically viable." #NT!
- newamerica.107.a: "Send out the invite" #NT!
- newamerica.107.b: "We don't need them" #NT!
- newamerica.108.t: "[FRA.GetName] Invites us to [FRA.GetFaction]" #NT!
- newamerica.108.d: "In response to the [NAR.GetAdjective] request of inviting us into their faction; the [FRA.GetAdjective] is formally sending out the invite in order for us to join their alliance. Should we accept?" #NT!
- newamerica.108.a: "Of course we accept" #NT!
- newamerica.108.b: "We have other plans in mind" #NT!
- newamerica.109.t: "[From.GetName] Accepts to Join [FRA.GetFaction]" #NT!
- newamerica.109.d: "The [From.GetAdjective] Government have accepted the invitation and have formally joined our alliance." #NT!
- newamerica.109.a: "Together we are strong!" #NT!
- newamerica.110.t: "[From.GetName] Refuses to Join [FRA.GetFaction]" #NT!
- newamerica.110.d: "The [From.GetAdjective] Government have refused the invitation to formally join our alliance." #NT!
- newamerica.110.a: "Dissapointing..." #NT!
- newamerica.111.t: "The [FRA.GetAdjective] Refuses to Invite [PHI.GetName]" #NT!
- newamerica.111.d: "The [FRA.GetAdjective] Government have outright refused our demand in inviting [PHI.GetNameDef] into the alliance. It is not the end of the world however, as we can leave the alliance in retaliation or just accept their decision and leave [PHI.GetNameDef] behind." #NT!
- newamerica.111.a: "Threten them that we will leave the faction" #NT!
- newamerica.111.b: "They may need to stand up on their own feet" #NT!
- newamerica.112.t: "Washington Threatens to Leave" #NT!
- newamerica.112.d: "The [From.GetAdjective] Government, have shown their arrogance and have threathened us to leave the alliance. If the [From.GetAdjective] leave the alliance, they may be our future enemy; but we will cave in into their demands; we may be dragged onto a pointless war." #NT!
- newamerica.112.a: "Accept their demands; they are too valuable." #NT!
- newamerica.112.b: "So what?" #NT!
- newamerica.113.t: "[FRA.GetName] Caves into our Demands" #NT!
- newamerica.113.d: "The [FRA.GetAdjective] Government, stubborn as they were, have finally caved in into our demands, inviting [PHI.GetName] into our alliance." #NT!
- newamerica.113.a: "Great!" #NT!
- newamerica.114.t: "The [FRA.GetAdjective] is Stubborn" #NT!
- newamerica.114.d: "The stubborness of the [FRA.GetAdjective] and their outright refusal to invite [PHI.GetName] into the faction is the final call that Teddy Roosevelt is right; we need to find better friends in Europe." #NT!
- newamerica.114.a: "Shame." #NT!
-  
- NAR_Maria_Spiridonova: "Maria Spiridonova" #NT!
- NAR_Henry_Ford: "Henry Ford" #NT!
- NAR_Walter_C_Teagle: "Walter C. Teagle" #NT!
- NAR_William_Joseph_Simmons: "William Joseph Simmons" #NT!
- NAR_David_Curtis_Stephenson: "David Curtis Stephenson" #NT!
- NAR_George_Van_Horn_Moseley: "George Van Horn Moseley" #NT!
- NAR_Matthew_Ridgway: "Matthew Ridgway" #NT!
- NAR_Bruce_C_Clarke: "Bruce C. Clarke" #NT!
- NAR_Fox_Conner: "Fox Conner" #NT!
- NAR_Arthur_L_Bristol: "Arthur L. Bristol" #NT!
- NAR_Francis_L_Garrett: "Francis L. Garrett" #NT!
- NAR_Mickey_Cochrane: "Mickey Cochrane" #NT!
- NAR_James_Francis_Byrnes: "James Francis Byrnes" #NT!
- NAR_John_Elliott_Rankin: "John Elliott Rankin" #NT!
- NAR_Edward_L_Jackson: "Edward L. Jackson" #NT!
- NAR_Herbert_W_Armstrong: "Herbert W. Armstrong" #NT!
- NAR_Richard_Girnt_Butler: "Richard Girnt Butler" #NT!
- NAR_Arthur_Cherep_Spiridovich: "Arthur Cherep Spiridovich" #NT!
- NAR_William_Bell_Riley: "William Bell Riley" #NT!
- NAR_George_Sylvester_Viereck: "George Sylvester Viereck" #NT!
- NAR_Alma_Bridwell_White: "Alma Bridwell White" #NT!
- NAR_Arthur_J_Smith: "Arthur J. Smith" #NT!
- NAR_Arthur_Raymond_Robinson: "Arthur Raymond Robinson" #NT!
- NAR_AN_Dugger: "A.N. Dugger" #NT!
- NAR_Fred_Koch: "Fred Koch" #NT!
- NAR_Ellison_Smith: "Ellison Smith" #NT!
- NAR_Charles_Emil_Sorensen: "Charles Emil Sorensen" #NT!
- NAR_Louis_Thomas_McFadden: "Louis Thomas McFadden" #NT!
- NAR_William_H_Murray: "William H. Murray" #NT!
- NAR_Arthur_Kent_White: "Arthur Kent White" #NT!
- NAR_George_W_Christians: "George W. Christians" #NT!
- NAR_Gerald_Burton_Winrod: "Gerald Burton Winrod" #NT!
- NAR_John_Geraerdt_Crommelin_Jr: "John Geraerdt Crommelin Jr." #NT!
- NAR_Robert_Rice_Reynolds: "Robert Rice Reynolds" #NT!
- NAR_Clare_E_Hoffman: "Clare E. Hoffman" #NT!
- NAR_DW_Griffith: "D.W. Griffith" #NT!
- NAR_Eugene_Talmadge: "Eugene Talmadge" #NT!
- NAR_Theophilus_Eugene_Connor: "Theophilus Eugene Connor" #NT!
- NAR_William_David_Upshaw: "William David Upshaw" #NT!
- NAR_Addison_Thompson: "Addison Thompson" #NT!
- NAR_Arlene_White_Lawrence: "Arlene White Lawrence" #NT!
- NAR_CO_Dodd: "C.O. Dodd" #NT!
- NAR_Coleman_Livingston_Blease: "Coleman Livingston Blease" #NT!
- NAR_Elizabeth_Eloise_Kirkpatrick_Dilling: "Elizabeth Eloise Kirkpatrick Dilling" #NT!
- NAR_George_Edward_Deatherage: "George Edward Deatherage" #NT!
- NAR_John_Franklyn_Norris: "John Franklyn Norris" #NT!
- NAR_Samuel_Green: "Samuel Green" #NT!
- NAR_Theodore_G_Bilbo: "Theodore G. Bilbo" #NT!
- NAR_William_Shephard: "William Shephard" #NT!
- NAR_Arthur_Hornbui_Bell: "Arthur Hornbui Bell" #NT!
- NAR_Bert_Hall: "Bert Hall" #NT!
- NAR_Charles_Lindbergh: "Charles Lindbergh" #NT!
- NAR_Martin_James_Monti: "Martin James Monti" #NT!
- NAR_Robert_Melville_Danford: "Robert Melville Danford" #NT!
+
+### Country Names
+ NAR_vanguardist: "Новая Американская Республика" # New American Republic
+ NAR_vanguardist_ADJ: "Американский" # American
+ NAR_vanguardist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_collectivist: "Новая Американская Республика" # New American Republic
+ NAR_collectivist_ADJ: "Американский" # American
+ NAR_collectivist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_libertarian_socialist: "Новая Американская Республика" # New American Republic
+ NAR_libertarian_socialist_ADJ: "Американский" # American
+ NAR_libertarian_socialist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_social_democrat: "Новая Американская Республика" # New American Republic
+ NAR_social_democrat_ADJ: "Американский" # American
+ NAR_social_democrat_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_social_liberal: "Новая Американская Республика" # New American Republic
+ NAR_social_liberal_ADJ: "Американский" # American
+ NAR_social_liberal_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_market_liberal: "Новая Американская Республика" # New American Republic
+ NAR_market_liberal_ADJ: "Американский" # American
+ NAR_market_liberal_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_social_conservative: "Новая Американская Республика" # New American Republic
+ NAR_social_conservative_ADJ: "Американский" # American
+ NAR_social_conservative_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_authoritarian_democrat: "Новая Американская Республика" # New American Republic
+ NAR_authoritarian_democrat_ADJ: "Американский" # American
+ NAR_authoritarian_democrat_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_paternal_autocrat: "Новая Американская Республика" # New American Republic
+ NAR_paternal_autocrat_ADJ: "Американский" # American
+ NAR_paternal_autocrat_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_national_populist: "Новая Американская Республика" # New American Republic
+ NAR_national_populist_ADJ: "Американский" # American
+ NAR_national_populist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_valkist: "Новая Американская Республика" # New American Republic
+ NAR_valkist_ADJ: "Американский" # American
+ NAR_valkist_DEF: "Новая Американская Республика" # the New American Republic
+
+### Cosmetic
+# Balkanized
+ NAR_rust_belt_vanguardist: "Республика Великих озер" # Great Lakes Republic
+ NAR_rust_belt_vanguardist_ADJ: "Американский" # American
+ NAR_rust_belt_vanguardist_DEF: "Республика Великих озер" # the Great Lakes Republic
+ NAR_rust_belt_collectivist: "Республика Великих озер" # Great Lakes Republic
+ NAR_rust_belt_collectivist_ADJ: "Американский" # American
+ NAR_rust_belt_collectivist_DEF: "Республика Великих озер" # the Great Lakes Republic
+ NAR_rust_belt_libertarian_socialist: "Республика Великих озер" # Great Lakes Republic
+ NAR_rust_belt_libertarian_socialist_ADJ: "Американский" # American
+ NAR_rust_belt_libertarian_socialist_DEF: "Республика Великих озер" # the Great Lakes Republic
+ NAR_rust_belt_social_democrat: "Республика Великих озер" # Great Lakes Republic
+ NAR_rust_belt_social_democrat_ADJ: "Американский" # American
+ NAR_rust_belt_social_democrat_DEF: "Республика Великих озер" # the Great Lakes Republic
+ NAR_rust_belt_social_liberal: "Республика Великих озер" # Great Lakes Republic
+ NAR_rust_belt_social_liberal_ADJ: "Американский" # American
+ NAR_rust_belt_social_liberal_DEF: "Республика Великих озер" # the Great Lakes Republic
+ NAR_rust_belt_market_liberal: "Республика Великих озер" # Great Lakes Republic
+ NAR_rust_belt_market_liberal_ADJ: "Американский" # American
+ NAR_rust_belt_market_liberal_DEF: "Республика Великих озер" # the Great Lakes Republic
+ NAR_rust_belt_social_conservative: "Республика Великих озер" # Great Lakes Republic
+ NAR_rust_belt_social_conservative_ADJ: "Американский" # American
+ NAR_rust_belt_social_conservative_DEF: "Республика Великих озер" # the Great Lakes Republic
+ NAR_rust_belt_authoritarian_democrat: "Республика Великих озер" # Great Lakes Republic
+ NAR_rust_belt_authoritarian_democrat_ADJ: "Американский" # American
+ NAR_rust_belt_authoritarian_democrat_DEF: "Республика Великих озер" # the Great Lakes Republic
+ NAR_rust_belt_paternal_autocrat: "Республика Великих озер" # Great Lakes Republic
+ NAR_rust_belt_paternal_autocrat_ADJ: "Американский" # American
+ NAR_rust_belt_paternal_autocrat_DEF: "Республика Великих озер" # the Great Lakes Republic
+ NAR_rust_belt_national_populist: "Республика Великих озер" # Great Lakes Republic
+ NAR_rust_belt_national_populist_ADJ: "Американский" # American
+ NAR_rust_belt_national_populist_DEF: "Республика Великих озер" # the Great Lakes Republic
+ NAR_rust_belt_valkist: "Республика Великих озер" # Great Lakes Republic
+ NAR_rust_belt_valkist_ADJ: "Американский" # American
+ NAR_rust_belt_valkist_DEF: "Республика Великих озер" # the Great Lakes Republic
+# Fordist
+ NAR_ford_vanguardist: "Новая Американская Республика" # New American Republic
+ NAR_ford_vanguardist_ADJ: "Фордист" # Fordist
+ NAR_ford_vanguardist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_ford_collectivist: "Новая Американская Республика" # New American Republic
+ NAR_ford_collectivist_ADJ: "Фордист" # Fordist
+ NAR_ford_collectivist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_ford_libertarian_socialist: "Новая Американская Республика" # New American Republic
+ NAR_ford_libertarian_socialist_ADJ: "Фордист" # Fordist
+ NAR_ford_libertarian_socialist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_ford_social_democrat: "Новая Американская Республика" # New American Republic
+ NAR_ford_social_democrat_ADJ: "Фордист" # Fordist
+ NAR_ford_social_democrat_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_ford_social_liberal: "Новая Американская Республика" # New American Republic
+ NAR_ford_social_liberal_ADJ: "Фордист" # Fordist
+ NAR_ford_social_liberal_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_ford_market_liberal: "Новая Американская Республика" # New American Republic
+ NAR_ford_market_liberal_ADJ: "Фордист" # Fordist
+ NAR_ford_market_liberal_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_ford_social_conservative: "Новая Американская Республика" # New American Republic
+ NAR_ford_social_conservative_ADJ: "Фордист" # Fordist
+ NAR_ford_social_conservative_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_ford_authoritarian_democrat: "Новая Американская Республика" # New American Republic
+ NAR_ford_authoritarian_democrat_ADJ: "Фордист" # Fordist
+ NAR_ford_authoritarian_democrat_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_ford_paternal_autocrat: "Новая Американская Республика" # New American Republic
+ NAR_ford_paternal_autocrat_ADJ: "Фордист" # Fordist
+ NAR_ford_paternal_autocrat_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_ford_national_populist: "Новая Американская Республика" # New American Republic
+ NAR_ford_national_populist_ADJ: "Фордист" # Fordist
+ NAR_ford_national_populist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_ford_valkist: "Новая Американская Республика" # New American Republic
+ NAR_ford_valkist_ADJ: "Фордист" # Fordist
+ NAR_ford_valkist_DEF: "Новая Американская Республика" # the New American Republic
+# Corporatist
+ NAR_corporate_vanguardist: "Новая Американская Республика" # New American Republic
+ NAR_corporate_vanguardist_ADJ: "Корпоративист" # Corporatist
+ NAR_corporate_vanguardist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_corporate_collectivist: "Новая Американская Республика" # New American Republic
+ NAR_corporate_collectivist_ADJ: "Корпоративист" # Corporatist
+ NAR_corporate_collectivist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_corporate_libertarian_socialist: "Новая Американская Республика" # New American Republic
+ NAR_corporate_libertarian_socialist_ADJ: "Корпоративист" # Corporatist
+ NAR_corporate_libertarian_socialist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_corporate_social_democrat: "Новая Американская Республика" # New American Republic
+ NAR_corporate_social_democrat_ADJ: "Корпоративист" # Corporatist
+ NAR_corporate_social_democrat_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_corporate_social_liberal: "Новая Американская Республика" # New American Republic
+ NAR_corporate_social_liberal_ADJ: "Корпоративист" # Corporatist
+ NAR_corporate_social_liberal_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_corporate_market_liberal: "Новая Американская Республика" # New American Republic
+ NAR_corporate_market_liberal_ADJ: "Корпоративист" # Corporatist
+ NAR_corporate_market_liberal_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_corporate_social_conservative: "Новая Американская Республика" # New American Republic
+ NAR_corporate_social_conservative_ADJ: "Корпоративист" # Corporatist
+ NAR_corporate_social_conservative_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_corporate_authoritarian_democrat: "Новая Американская Республика" # New American Republic
+ NAR_corporate_authoritarian_democrat_ADJ: "Корпоративист" # Corporatist
+ NAR_corporate_authoritarian_democrat_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_corporate_paternal_autocrat: "Новая Американская Республика" # New American Republic
+ NAR_corporate_paternal_autocrat_ADJ: "Корпоративист" # Corporatist
+ NAR_corporate_paternal_autocrat_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_corporate_national_populist: "Новая Американская Республика" # New American Republic
+ NAR_corporate_national_populist_ADJ: "Корпоративист" # Corporatist
+ NAR_corporate_national_populist_DEF: "Новая Американская Республика" # the New American Republic
+ NAR_corporate_valkist: "Новая Американская Республика" # New American Republic
+ NAR_corporate_valkist_ADJ: "Корпоративист" # Corporatist
+ NAR_corporate_valkist_DEF: "Новая Американская Республика" # the New American Republic
+# Cursed
+ NAR_sacred_vanguardist: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_vanguardist_ADJ: "националист" # Nationalist
+ NAR_sacred_vanguardist_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_collectivist: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_collectivist_ADJ: "националист" # Nationalist
+ NAR_sacred_collectivist_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_libertarian_socialist: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_libertarian_socialist_ADJ: "националист" # Nationalist
+ NAR_sacred_libertarian_socialist_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_social_democrat: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_social_democrat_ADJ: "националист" # Nationalist
+ NAR_sacred_social_democrat_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_social_liberal: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_social_liberal_ADJ: "националист" # Nationalist
+ NAR_sacred_social_liberal_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_market_liberal: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_market_liberal_ADJ: "националист" # Nationalist
+ NAR_sacred_market_liberal_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_social_conservative: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_social_conservative_ADJ: "националист" # Nationalist
+ NAR_sacred_social_conservative_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_authoritarian_democrat: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_authoritarian_democrat_ADJ: "националист" # Nationalist
+ NAR_sacred_authoritarian_democrat_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_paternal_autocrat: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_paternal_autocrat_ADJ: "националист" # Nationalist
+ NAR_sacred_paternal_autocrat_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_national_populist: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_national_populist_ADJ: "националист" # Nationalist
+ NAR_sacred_national_populist_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_valkist: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_valkist_ADJ: "националист" # Nationalist
+ NAR_sacred_valkist_DEF: "Священная Республика Америки" # the Sacred Republic of America
+# Cursed but Unified America
+ NAR_sacred_unified_vanguardist: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_unified_vanguardist_ADJ: "Американский" # American
+ NAR_sacred_unified_vanguardist_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_unified_collectivist: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_unified_collectivist_ADJ: "Американский" # American
+ NAR_sacred_unified_collectivist_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_unified_libertarian_socialist: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_unified_libertarian_socialist_ADJ: "Американский" # American
+ NAR_sacred_unified_libertarian_socialist_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_unified_social_democrat: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_unified_social_democrat_ADJ: "Американский" # American
+ NAR_sacred_unified_social_democrat_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_unified_social_liberal: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_unified_social_liberal_ADJ: "Американский" # American
+ NAR_sacred_unified_social_liberal_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_unified_market_liberal: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_unified_market_liberal_ADJ: "Американский" # American
+ NAR_sacred_unified_market_liberal_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_unified_social_conservative: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_unified_social_conservative_ADJ: "Американский" # American
+ NAR_sacred_unified_social_conservative_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_unified_authoritarian_democrat: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_unified_authoritarian_democrat_ADJ: "Американский" # American
+ NAR_sacred_unified_authoritarian_democrat_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_unified_paternal_autocrat: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_unified_paternal_autocrat_ADJ: "Американский" # American
+ NAR_sacred_unified_paternal_autocrat_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_unified_national_populist: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_unified_national_populist_ADJ: "Американский" # American
+ NAR_sacred_unified_national_populist_DEF: "Священная Республика Америки" # the Sacred Republic of America
+ NAR_sacred_unified_valkist: "Американская Священная Республика" # American Sacred Republic
+ NAR_sacred_unified_valkist_ADJ: "Американский" # American
+ NAR_sacred_unified_valkist_DEF: "Священная Республика Америки" # the Sacred Republic of America
+
+### Parties
+ NAR_vanguardist_party: "КП США" # CPUSA
+ NAR_vanguardist_party_long: "Коммунистическая партия США" # Communist Party of the United States
+ NAR_collectivist_party: "ИВВ" # IWW
+ NAR_collectivist_party_long: "Международные рабочие мира" # International Workers of the World
+ NAR_libertarian_socialist_party: "Социалисты" # Socialists
+ NAR_libertarian_socialist_party_long: "Социалистическая партия" # Socialist Party
+ NAR_social_democrat_party: "Прогрессивные демократы" # Progressive Democrats
+ NAR_social_democrat_party_long: "Демократическая партия" # Democratic Party
+ NAR_social_liberal_party: "Либеральные республиканцы" # Liberal Republicans
+ NAR_social_liberal_party_long: "Республиканская партия" # Republican Party
+ NAR_market_liberal_party: "Умеренные республиканцы" # Moderate Republicans
+ NAR_market_liberal_party_long: "Республиканская партия" # Republican Party
+ NAR_social_conservative_party: "Консервативные демократы" # Conservative Democrats
+ NAR_social_conservative_party_long: "Демократическая партия" # Democratic Party
+ NAR_authoritarian_democrat_party: "Корпоративный" # Corporate
+ NAR_authoritarian_democrat_party_long: "Корпоративное администрирование" # Corporate Administration
+ NAR_paternal_autocrat_party: "Корпоративный" # Corporate
+ NAR_paternal_autocrat_party_long: "Корпоративное администрирование" # Corporate Administration
+ NAR_national_populist_party: "Приложение (умеренные)" # APP (Moderates)
+ NAR_national_populist_party_long: "Американская партия чистоты" # American Purity Party
+ NAR_valkist_party: "APP (сторонники жесткой линии)" # APP (Hardliners)
+ NAR_valkist_party_long: "Американская партия чистоты" # American Purity Party
+
+### Triggers
+ NAR_cemented_our_authority: "Мы укрепили свой авторитет" # We have cemented our authority
+ NAR_chosen_support: "§gМы выбрали§! §YПоддержка на поле боя§! §gдоктрину§!" # §gWe have chosen the§! §YBattlefield Support§! §gdoctrine§!
+ NAR_chosen_destruction: "§gМы выбрали §! §YСтратегическое разрушение§! §gдоктрину§!" # §gWe have chosen the§! §YStrategic Destruction§! §gdoctrine§!
+ NAR_operation_in_progress_tt: "В настоящее время мы проводим любые операции" # We are currently conducting any operations
+ NAR_operation_in_progress_tt_NOT: "Мы §Rnot§! в настоящее время проводим какие-либо операции" # We are §Rnot§! currently conducting any operations
+
+### Decisions
+ NAR_invade_country: "Вторжение §Y[From.GetName]§!" # Invade §Y[From.GetName]§!
+ NAR_unification_of_america: "Объединение Америки" # Unification of America
+ NAR_attack_traitors: "Атака §Y[From.GetName]§!" # Attack §Y[From.GetName]§!
+ NAR_demand_territory: "Требуйте американскую территорию от §Y[From.GetName]§!" # Demand American Territory from §Y[From.GetName]§!
+ NAR_state_reintegration: "Государственная реинтеграция" # State Reintegration
+ NAR_integrate_state: "Восстановить порядок в §Y[From.GetName]§!" # Restore Order in §Y[From.GetName]§!
+ NAR_formalize_the_new_republic: "Оформить Новую Республику" # Formalize the New Republic
+ NAR_the_racial_issue: "Расовая проблема" # The Racial Issue
+ NAR_the_racial_issue_desc: "Хотя за последние несколько десятилетий федеральное правительство фактически отменило рабство, многие меньшинства, особенно чернокожие, не пользуются теми же преимуществами, что и белые граждане. По правовому статусу они технически свободны, но сегрегированы в обществе.\n\nТекущий статус меньшинств: [NAR_minority_status]\nУровень притеснения: [?minority_suppression|0-]" # While the last few decades the Federal Government effectively abolished slavery, many minorities, especially blacks doesn't enjoy the same benefits as white citizens. Under the legal status, they are technically free, but are segregated in public society.\n\nCurrent Status of Minorities: [NAR_minority_status]\nOppression Level: [?minority_suppression|0-]
+ NAR_the_racial_issue_oppressed: "§RПодавлен§!" # §ROppressed§!
+ NAR_the_racial_issue_suppressed: "§OПодавлено§!" # §OSuppressed§!
+ NAR_the_racial_issue_normal: "§GНормальный§!" # §GNormal§!
+ NAR_send_them_to_the_mines: "Отправьте их в шахты" # Send them to the Mines
+ NAR_send_them_to_the_factories: "Отправьте их на фабрики" # Send them to the Factories
+ NAR_send_them_to_the_dockyards: "Отправьте их на верфи" # Send them to the Dockyards
+ NAR_send_them_to_the_refineries: "Отправьте их на нефтеперерабатывающие заводы" # Send them to the Refineries
+ NAR_make_them_build_our_defences: "Заставьте их строить нашу оборону" # Make them Build our Defences
+ NAR_make_them_build_industries: "Заставьте их строить нашу промышленность" # Make them Build our Industries
+ NAR_make_them_build_factories: "Заставьте их строить наши заводы" # Make them Build our Factories
+ NAR_make_them_build_dockyards: "Заставьте их строить наши верфи" # Make them Build our Dockyards
+ NAR_make_them_build_infrastructure: "Заставьте их строить нашу инфраструктуру" # Make them Build our Infrastructure
+ NAR_make_them_repair_damaged_industry: "Заставьте их восстановить поврежденную промышленность" # Make them Repair damaged Industry
+ NAR_make_them_repair_damaged_factories: "Заставьте их восстанавливать поврежденные фабрики." # Make them Repair damaged Factories
+ NAR_make_them_repair_damaged_dockyards: "Заставьте их восстановить поврежденные верфи." # Make them Repair damaged Dockyards
+ NAR_make_them_repair_damaged_infrastructure: "Заставьте их восстановить поврежденную инфраструктуру" # Make them Repair damaged Infrastructure
+
+### Ideas
+ NAR_racial_issue: "Расовая проблема" # The Racial Issue
+ NAR_racial_issue_desc: "Лидеры этой страны имеют предвзятое отношение к своей расе; и поскольку они управляют этой страной без каких-либо последствий своих действий; многие меньшинства угнетаются и бегут в другие прогрессивные страны.\n\n§WПрирост политической власти:§! [?minority_pp|%+2]\n§WСтабильность:§! [?minority_stability|%+2]\n§WКоэффициент рекрутируемого населения:§! [?minority_conscription|%+2]\n§WСкорость строительства:§! [?minority_construction|%+2]" # Leaders of this nation have a bias on their own race; and since they run this nation with no consequences of their actions; many minorities are oppressed and fleeing to other progressive nations.\n\n§WPolitical Power Gain:§! [?minority_pp|%+2]\n§WStability:§! [?minority_stability|%+2]\n§WRecruitable Population Factor:§! [?minority_conscription|%+2]\n§WConstruction Speed:§! [?minority_construction|%+2]
+ NAR_economic_downtrum: "Экономический спад" # Economic Downtrum
+ NAR_economic_downtrum_desc: "Недавний крах бывших Соединенных Штатов вызвал хаос среди многих иностранных и отечественных инвесторов, выведя их инвестиции из экономики; и, таким образом, привело к экономическому спаду." # The recent collapse of the former United States have caused chaos among many foreign and domestic investors, pulling out their investments from the economy; and thus resulted in an economic recession.
+ NAR_economic_downtrum_1: "Экономический спад" # Economic Downtrum
+ NAR_economic_downtrum_1_desc: "Недавний крах бывших Соединенных Штатов вызвал хаос среди многих иностранных и отечественных инвесторов, выведя их инвестиции из экономики; и, таким образом, привело к экономическому спаду." # The recent collapse of the former United States have caused chaos among many foreign and domestic investors, pulling out their investments from the economy; and thus resulted in an economic recession.
+ NAR_economic_downtrum_2: "Экономический спад" # Economic Downtrum
+ NAR_economic_downtrum_2_desc: "Недавний крах бывших Соединенных Штатов вызвал хаос среди многих иностранных и отечественных инвесторов, выведя их инвестиции из экономики; и, таким образом, привело к экономическому спаду." # The recent collapse of the former United States have caused chaos among many foreign and domestic investors, pulling out their investments from the economy; and thus resulted in an economic recession.
+ NAR_economic_downtrum_3: "Экономический спад" # Economic Downtrum
+ NAR_economic_downtrum_3_desc: "Недавний крах бывших Соединенных Штатов вызвал хаос среди многих иностранных и отечественных инвесторов, выведя их инвестиции из экономики; и, таким образом, привело к экономическому спаду." # The recent collapse of the former United States have caused chaos among many foreign and domestic investors, pulling out their investments from the economy; and thus resulted in an economic recession.
+ NAR_recovering_from_recession: "Восстановление после рецессии" # Recovering from Recession
+ NAR_unstable_bureaucracy: "Нестабильная бюрократия" # Unstable Bureaucracy
+ NAR_unstable_bureaucracy_desc: "Нынешнее правительство напрямую управляется корпорациями, захватившими контроль после распада Союза. Это интересы капиталистов в том, как управлять этим государством." # The current government is directly managed by corporations that seized control when the Union has collapsed. It is the capitalists' interests on what runs this state.
+ NAR_illegitimate_government: "Нелегитимное правительство" # Illegitimate Government
+ NAR_illegitimate_government_desc: "Поскольку мы вышли из Союза и образовали собственную нацию; многие страны не признали нашу независимость и поэтому до сих пор считаются отколовшимся государством бывших Соединенных Штатов." # Since we have ceded from the Union and form our own nation; many countries have not recognized our independence, and as such still treated as a breakaway state of the former United States.
+ NAR_church_support: "Церковная поддержка" # Church Support
+ NAR_social_reforms_idea: "Социальные реформы" # Social Reforms
+ NAR_restricted_press_freedom: "Ограниченная свобода прессы" # Restricted Press Freedom
+ NAR_civilian_heroism_idea: "Гражданский героизм" # Civilian Heroism
+ NAR_instituting_propaganda: "Учреждение пропаганды" # Instituting Propaganda
+ NAR_labour_agreement: "Трудовое соглашение" # Labour Agreement
+ NAR_union_suppression: "Подавление профсоюзов" # Union Suppression
+ NAR_armed_and_ready: "Вооружен и готов" # Armed and Ready
+ NAR_american_boy_scouts: "Американские бойскауты" # American Boy Scouts
+ NAR_research_boost: "Повышение уровня исследований" # Research Boost
+ NAR_the_great_purge: "Великая чистка" # The Great Purge
+ NAR_cointelpro: "Программа контрразведки" # Counter Intelligence Program
+ NAR_war_bonds_idea: "Военные облигации" # War Bonds
+ NAR_military_research_prioritization: "Приоритеты военных исследований" # Military Research Prioritization
+ NAR_chiefs_of_staff: "Начальники штабов" # Chiefs of Staff
+ NAR_chiefs_of_staff_1: "Начальники штабов" # Chiefs of Staff
+ NAR_production_boost: "Увеличение производства" # Production Boost
+ NAR_new_waves: "Новые ВОЛНЫ" # The New WAVES
+ NAR_maritime_industry_idea: "Морская индустрия" # Maritime Industry
+ NAR_liberty_ships_idea: "Свобода Корабли" # Liberty Ships
+ NAR_rules_the_waves_idea: "Америка управляет волнами" # America Rules the Waves
+ NAR_aviation_industry: "Авиационная промышленность" # Aviation Industry
+ NAR_worker_and_minority_strikes: "Забастовки рабочих и меньшинств" # Worker and Minority Strikes
+ NAR_using_cheap_labour: "Использование дешевой рабочей силы" # Using Cheap Labour
+ NAR_lowered_corporate_tax: "Низкий корпоративный налог" # Low Corporate Tax
+ NAR_financial_reforms_idea: "Финансовые реформы" # Financial Reforms
+ NAR_thriving_economy: "Процветающая экономика" # Thriving Economy
+ NAR_militaristic_education: "Милитаристское образование" # Militaristic Education
+ NAR_civilian_conservation_corps_idea: "Гражданский корпус охраны природы" # Civilian Conservation Corps
+ NAR_farming_subsidies: "Сельскохозяйственные субсидии" # Farming Subsidies
+ NAR_american_oil: "Американская нефть" # American Oil
+ NAR_white_welfare_idea: "Белое благосостояние" # White Welfare
+ NAR_christian_work_ethics_idea: "Христианская трудовая этика" # Christian Work Ethics
+ NAR_forced_labour_idea: "Принудительный труд" # Forced Labour
+ NAR_great_migration: "Великая миграция" # Great Migration
+ NAR_american_refugees: "Американские беженцы" # American Refugees
+ NAR_american_refugees_desc: "Американские беженцы" # American Refugees
+
+### Focus
+# Political
+ NAR_political_stabilization: "Политическая стабилизация" # Political Stabilization
+ NAR_political_stabilization_desc: ""
+ NAR_the_corporate_remains: "Корпоративные останки" # The Corporate Remains
+ NAR_the_corporate_remains_desc: ""
+ NAR_found_new_universities: "Нашел новые университеты" # Found New Universities
+ NAR_found_new_universities_desc: ""
+ NAR_focus_on_agricultural_expansion: "Сосредоточьтесь на расширении сельского хозяйства" # Focus on Agricultural Expansion
+ NAR_focus_on_agricultural_expansion_desc: ""
+ NAR_focus_on_industrial_expansion: "Сосредоточьтесь на промышленном расширении" # Focus on Industrial Expansion
+ NAR_focus_on_industrial_expansion_desc: ""
+ NAR_use_cheap_labour: "Используйте дешевую рабочую силу" # Use Cheap Labour
+ NAR_use_cheap_labour_desc: ""
+ NAR_lower_the_corporate_tax: "Снизьте корпоративный налог" # Lower the Corporate Tax
+ NAR_lower_the_corporate_tax_desc: ""
+ NAR_financial_reform: "Финансовая реформа" # Financial Reform
+ NAR_financial_reform_desc: ""
+ NAR_the_thriving_economy: "Процветающая экономика" # The Thriving Economy
+ NAR_the_thriving_economy_desc: ""
+ NAR_the_iron_hand: "Железная рука" # The Iron Hand
+ NAR_the_iron_hand_desc: ""
+ NAR_reinforce_business_ties: "Укрепить деловые связи" # Reinforce Business Ties
+ NAR_reinforce_business_ties_desc: ""
+ NAR_fund_new_weapons_manufacturers: "Финансировать производителей нового оружия" # Fund New Weapons Manufacturers
+ NAR_fund_new_weapons_manufacturers_desc: ""
+ NAR_militaristic_schools: "Милитаристские школы" # Militaristic Schools
+ NAR_militaristic_schools_desc: ""
+ NAR_civilian_conservation_corps: "Гражданский корпус охраны природы" # Civilian Conservation Corps
+ NAR_civilian_conservation_corps_desc: ""
+ NAR_subsidized_farming: "Субсидируемое сельское хозяйство" # Subsidized Farming
+ NAR_subsidized_farming_desc: ""
+ NAR_americas_oil: "Американская нефть" # America's Oil
+ NAR_americas_oil_desc: ""
+ NAR_stability_forever: "Стабильность навсегда" # Stability Forever
+ NAR_stability_forever_desc: ""
+ NAR_a_dark_path: "Темный путь" # A Dark Path
+ NAR_a_dark_path_desc: ""
+ NAR_white_welfare: "Белое благосостояние" # White Welfare
+ NAR_white_welfare_desc: ""
+ NAR_christian_education: "Христианское образование" # Christian Education
+ NAR_christian_education_desc: ""
+ NAR_forced_labour: "Принудительный труд" # Forced Labour
+ NAR_forced_labour_desc: ""
+ NAR_absorb_the_black_legion: "Поглотите Черный Легион" # Absorb the Black Legion
+ NAR_absorb_the_black_legion_desc: ""
+ NAR_christian_work_ethics: "Христианская трудовая этика" # Christian Work Ethics
+ NAR_christian_work_ethics_desc: ""
+ NAR_crackdown_on_undesirables: "Репрессии против нежелательных лиц" # Crackdown on Undesirables
+ NAR_crackdown_on_undesirables_desc: ""
+ NAR_enforce_segregation: "Принудить к сегрегации" # Enforce Segregation
+ NAR_enforce_segregation_desc: ""
+# Primary
+ NAR_cement_our_authority: "Укрепите наш авторитет" # Cement our Authority
+ NAR_cement_our_authority_desc: ""
+ NAR_housing_programs: "Жилищные программы" # Housing Programs
+ NAR_housing_programs_desc: ""
+ NAR_new_education_curriculum: "Новая учебная программа" # New Education Curriculum
+ NAR_new_education_curriculum_desc: ""
+ NAR_get_church_support: "Получите церковную поддержку" # Get Church Support
+ NAR_get_church_support_desc: ""
+ NAR_social_reforms: "Социальные реформы" # Social Reforms
+ NAR_social_reforms_desc: ""
+ NAR_control_the_newspapers: "Контролируйте газеты" # Control the Newspapers
+ NAR_control_the_newspapers_desc: ""
+ NAR_banking_deregulation: "Дерегуляция банковской деятельности" # Banking Deregulation
+ NAR_banking_deregulation_desc: ""
+ NAR_bailout_american_companies: "Спасение американских компаний" # Bailout American Companies
+ NAR_bailout_american_companies_desc: ""
+ NAR_tax_reforms: "Налоговые реформы" # Tax Reforms
+ NAR_tax_reforms_desc: ""
+ NAR_electrification_campaigns: "Кампании по электрификации" # Electrification Campaigns
+ NAR_electrification_campaigns_desc: ""
+ NAR_economic_recovery: "Экономическое восстановление" # Economic Recovery
+ NAR_economic_recovery_desc: ""
+ NAR_start_privatization_of_services: "Начать приватизацию услуг" # Start Privatization of Services
+ NAR_start_privatization_of_services_desc: ""
+ NAR_new_segregation_laws: "Новые законы о сегрегации" # New Segregation Laws
+ NAR_new_segregation_laws_desc: ""
+ NAR_suppress_the_minorities: "Подавлять меньшинства" # Suppress the Minorities
+ NAR_suppress_the_minorities_desc: ""
+ NAR_limited_rights_for_minorities: "Ограниченные права меньшинств" # Limited Rights for Minorities
+ NAR_limited_rights_for_minorities_desc: ""
+ NAR_civilian_heroism: "Гражданский героизм" # Civilian Heroism
+ NAR_civilian_heroism_desc: ""
+ NAR_promote_technocratic_management: "Продвигайте технократический менеджмент" # Promote Technocratic Management
+ NAR_promote_technocratic_management_desc: ""
+ NAR_begin_civilian_mobilization: "Начать гражданскую мобилизацию" # Begin Civilian Mobilization
+ NAR_begin_civilian_mobilization_desc: ""
+ NAR_propaganda_campaigns: "Пропагандистские кампании" # Propaganda Campaigns
+ NAR_propaganda_campaigns_desc: ""
+ NAR_counter_intelligence_program: "Программа контрразведки" # Counter Intelligence Program
+ NAR_counter_intelligence_program_desc: ""
+ NAR_ensure_bureaucratic_loyalty: "Обеспечьте бюрократическую лояльность" # Ensure Bureaucratic Loyalty
+ NAR_ensure_bureaucratic_loyalty_desc: ""
+ NAR_secure_labour_agreements: "Безопасные трудовые соглашения" # Secure Labour Agreements
+ NAR_secure_labour_agreements_desc: ""
+ NAR_crush_the_unions: "Раздавить профсоюзы" # Crush the Unions
+ NAR_crush_the_unions_desc: ""
+ NAR_army_supervision: "Армейский надзор" # Army Supervision
+ NAR_army_supervision_desc: ""
+ NAR_reform_the_boy_scouts: "Реформировать бойскаутов" # Reform the Boy Scouts
+ NAR_reform_the_boy_scouts_desc: ""
+ NAR_subsidize_research_institutions: "Субсидировать научно-исследовательские институты" # Subsidize Research Institutions
+ NAR_subsidize_research_institutions_desc: ""
+ NAR_fordism: "Фордизм" # Fordism
+ NAR_fordism_desc: ""
+ NAR_purge_opposition: "Чистка оппозиции" # Purge Opposition
+ NAR_purge_opposition_desc: ""
+ NAR_tackle_our_legitimacy: "Займитесь нашей легитимностью" # Tackle our Legitimacy
+ NAR_tackle_our_legitimacy_desc: ""
+ NAR_republic_without_democracy: "Республика без демократии" # Republic without Democracy
+ NAR_republic_without_democracy_desc: ""
+# Army
+ NAR_the_new_american_army: "Новая американская армия" # The New American Army
+ NAR_the_new_american_army_desc: ""
+ NAR_new_army_doctrines: "Новые армейские доктрины" # New Army Doctrines
+ NAR_new_army_doctrines_desc: ""
+ NAR_expand_the_national_guard: "Расширить Национальную гвардию" # Expand the National Guard
+ NAR_expand_the_national_guard_desc: ""
+ NAR_expand_the_national_guard_tt: "§CМы будем формировать новые дивизии по шаблону Национальной гвардии.§!" # §CWe will raise new divisions using the National Guard template.§!
+ NAR_war_bonds: "Военные облигации" # War Bonds
+ NAR_war_bonds_desc: ""
+ NAR_army_bonus_bill: "Армейский бонусный счет" # Army Bonus Bill
+ NAR_army_bonus_bill_desc: ""
+ NAR_walkie_takies: "рации" # Walkie-Takies
+ NAR_walkie_takies_desc: ""
+ NAR_new_equipment: "Новое оборудование" # New Equipment
+ NAR_new_equipment_desc: ""
+ NAR_american_motor_industry: "Американская автомобильная промышленность" # American Motor Industry
+ NAR_american_motor_industry_desc: ""
+ NAR_firearm_manufacturers: "Производители огнестрельного оружия" # Firearm Manufacturers
+ NAR_firearm_manufacturers_desc: ""
+ NAR_armoured_research: "Бронированные исследования" # Armoured Research
+ NAR_armoured_research_desc: ""
+ NAR_mechanized_experimentations: "Механизированные эксперименты" # Mechanized Experimentations
+ NAR_mechanized_experimentations_desc: ""
+ NAR_mechanized_experimentations_tt: "§CБудут созданы новые дивизии с механизированным шаблоном и оборудованием.§!" # §CNew divisions with Mechanized template and equipment will be raised.§!
+ NAR_military_research: "Военные исследования" # Military Research
+ NAR_military_research_desc: ""
+ NAR_joint_chiefs_of_staff: "Объединенный комитет начальников штабов" # Joint Chiefs of Staff
+ NAR_joint_chiefs_of_staff_desc: ""
+ NAR_trained_officers: "Обученные офицеры" # Trained Officers
+ NAR_trained_officers_desc: ""
+ NAR_rouse_the_people: "Разбудите людей" # Rouse the People
+ NAR_rouse_the_people_desc: ""
+ NAR_support_brigades: "Бригады поддержки" # Support Brigades
+ NAR_support_brigades_desc: ""
+ NAR_army_ranger_corps: "Корпус армейских рейнджеров" # Army Ranger Corps
+ NAR_army_ranger_corps_desc: ""
+ NAR_increased_weapons_production: "Увеличение производства оружия" # Increased Weapons Production
+ NAR_increased_weapons_production_desc: ""
+ NAR_defend_the_new_america: "Защити новую Америку" # Defend the New America
+ NAR_defend_the_new_america_desc: ""
+# Navy
+ NAR_the_new_american_navy: "Новый американский флот" # The New American Navy
+ NAR_the_new_american_navy_desc: ""
+ NAR_construct_more_ports: "Постройте больше портов" # Construct More Ports
+ NAR_construct_more_ports_desc: ""
+ NAR_the_waves: "ВОЛНЫ" # The WAVES
+ NAR_the_waves_desc: ""
+ NAR_transport_equipment: "Транспортное оборудование" # Transport Equipment
+ NAR_transport_equipment_desc: ""
+ NAR_maritime_industry: "Морская индустрия" # Maritime Industry
+ NAR_maritime_industry_desc: ""
+ NAR_expand_the_marine_corps: "Расширить корпус морской пехоты" # Expand the Marine Corps
+ NAR_expand_the_marine_corps_desc: ""
+ NAR_coastal_bunkers: "Прибрежные бункеры" # Coastal Bunkers
+ NAR_coastal_bunkers_desc: ""
+ NAR_new_tactics: "Новая Тактика" # New Tactics
+ NAR_new_tactics_desc: ""
+ NAR_the_american_coast_guard: "Американская береговая охрана" # The American Coast Guard
+ NAR_the_american_coast_guard_desc: ""
+ NAR_submarine_modernization: "Модернизация подводных лодок" # Submarine Modernization
+ NAR_submarine_modernization_desc: ""
+ NAR_cruiser_modernization: "Модернизация крейсера" # Cruiser Modernization
+ NAR_cruiser_modernization_desc: ""
+ NAR_battlecruiser_development: "Разработка линейного крейсера" # Battlecruiser Development
+ NAR_battlecruiser_development_desc: ""
+ NAR_carrier_research: "Исследование перевозчиков" # Carrier Research
+ NAR_carrier_research_desc: ""
+ NAR_naval_aviation: "Морская авиация" # Naval Aviation
+ NAR_naval_aviation_desc: ""
+ NAR_battleship_development: "Развитие линкора" # Battleship Development
+ NAR_battleship_development_desc: ""
+ NAR_new_sailors: "Новые моряки" # New Sailors
+ NAR_new_sailors_desc: ""
+ NAR_liberty_ships: "Свобода Корабли" # Liberty Ships
+ NAR_liberty_ships_desc: ""
+ NAR_america_rules_the_waves: "Америка управляет волнами" # America Rules the Waves
+ NAR_america_rules_the_waves_desc: ""
+# Air Force
+ NAR_the_new_american_air_force: "Новые американские ВВС" # The New American Air Force
+ NAR_the_new_american_air_force_desc: ""
+ NAR_prioritize_support: "Расставьте приоритеты в поддержке" # Prioritize Support
+ NAR_prioritize_support_desc: ""
+ NAR_construct_air_bases: "Стройте авиабазы" # Construct Air Bases
+ NAR_construct_air_bases_desc: ""
+ NAR_embrace_destruction: "Примите разрушение" # Embrace Destruction
+ NAR_embrace_destruction_desc: ""
+ NAR_fighter_modernization: "Модернизация истребителя" # Fighter Modernization
+ NAR_fighter_modernization_desc: ""
+ NAR_cas_modernization: "Модернизация CAS" # CAS Modernization
+ NAR_cas_modernization_desc: ""
+ NAR_heavy_fighter_research: "Исследования тяжелых истребителей" # Heavy Fighter Research
+ NAR_heavy_fighter_research_desc: ""
+ NAR_strategic_bomber_research: "Исследования стратегических бомбардировщиков" # Strategic Bomber Research
+ NAR_strategic_bomber_research_desc: ""
+ NAR_new_pilots: "Новые пилоты" # New Pilots
+ NAR_new_pilots_desc: ""
+ NAR_air_defenses: "ПВО" # Air Defenses
+ NAR_air_defenses_desc: ""
+ NAR_subsidize_the_aviation_industry: "Субсидировать авиационную промышленность" # Subsidize the Aviation Industry
+ NAR_subsidize_the_aviation_industry_desc: ""
+ NAR_improve_current_strategies: "Улучшить текущие стратегии" # Improve Current Strategies
+ NAR_improve_current_strategies_desc: ""
+# Foreign
+ NAR_choose_the_entente: "Выбирайте Антанту" # Choose the Entente
+ NAR_choose_the_entente_desc: ""
+ NAR_our_own_domain: "Наш собственный домен" # Our Own Domain
+ NAR_our_own_domain_desc: ""
+ NAR_favour_the_reich: "В пользу Рейха" # Favour the Reich
+ NAR_favour_the_reich_desc: ""
+ NAR_approach_the_philippines: "Подойти к Филиппинам" # Approach the Philippines
+ NAR_approach_the_philippines_desc: ""
+ NAR_tackle_the_japanese_threat: "Борьба с японской угрозой" # Tackle the Japanese Threat
+ NAR_tackle_the_japanese_threat_desc: ""
+ NAR_choosing_a_side: "Выбор стороны" # Choosing a Side
+ NAR_choosing_a_side_desc: ""
+ NAR_crush_the_southern_serpent: "Сокрушить Южного Змея" # Crush the Southern Serpent
+ NAR_crush_the_southern_serpent_desc: ""
+ NAR_reclaim_corporate_lands: "Вернуть корпоративные земли" # Reclaim Corporate Lands
+ NAR_reclaim_corporate_lands_desc: ""
+ NAR_reclaim_corporate_lands_tt: "£decision_icon_small Разблокирует решение: §YInvade [YUC.GetName]§!\n£decision_icon_small Разблокирует решение: §YInvade [GUA.GetName]§!\n£decision_icon_small Разблокирует решение: §YInvade [HON.GetName]§!\n£decision_icon_small Разблокирует решение: §YInvade [ELS.GetName]§!\n£decision_icon_small Разблокирует решение: §YInvade [NIC.GetName]§!\n£decision_icon_small Разблокирует решение: §YInvade __ВАР16____ВАР2__" # £decision_icon_small Unlocks decision: §YInvade [YUC.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [GUA.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [HON.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [ELS.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [NIC.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [COS.GetName]§!
+ NAR_the_coffee_plantations: "Кофейные плантации" # The Coffee Plantations
+ NAR_the_coffee_plantations_desc: ""
+ NAR_the_coffee_plantations_tt: "£decision_icon_small Разблокирует решение: §YInvade [ECU.GetName]§!\n£decision_icon_small Разблокирует решение: §YInvade [COL.GetName]§!\n£decision_icon_small Разблокирует решение: §YInvade [VEN.GetName]§!" # £decision_icon_small Unlocks decision: §YInvade [ECU.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [COL.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [VEN.GetName]§!
+ NAR_the_carribean_shipyards: "Карибские верфи" # The Carribean Shipyards
+ NAR_the_carribean_shipyards_desc: ""
+ NAR_the_carribean_shipyards_tt: "£decision_icon_small Разблокирует решение: §YInvade [CUB.GetName]§!\n£decision_icon_small Разблокирует решение: §YInvade [HAI.GetName]§!\n£decision_icon_small Разблокирует решение: §YInvade [DOM.GetName]§!" # £decision_icon_small Unlocks decision: §YInvade [CUB.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [HAI.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [DOM.GetName]§!
+ NAR_attack_the_marxists: "Нападение на марксистов" # Attack the Marxists
+ NAR_attack_the_marxists_desc: ""
+ NAR_support_the_state: "Поддержите государство" # Support the State
+ NAR_support_the_state_desc: ""
+ NAR_continue_the_cleansing: "Продолжить очищение" # Continue the Cleansing
+ NAR_continue_the_cleansing_desc: ""
+ NAR_continue_the_cleansing_tt: "£decision_icon_small Разблокирует решение: §YInvade [BOL.GetName]§!\n£decision_icon_small Разблокирует решение: §YInvade [ARG.GetName]§!\n£decision_icon_small Разблокирует решение: §YInvade [CHL.GetName]§!\n" # £decision_icon_small Unlocks decision: §YInvade [BOL.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [ARG.GetName]§!\n£decision_icon_small Unlocks decision: §YInvade [CHL.GetName]§!\n
+
+### Events
+ newamerica.1.t: "Укрепление нашего авторитета" # Cementing Our Authority
+ newamerica.1.d: "Новая Американская Республика — молодая республика, возникшая после разрушения старых и коррумпированных Соединенных Штатов. Губернаторы были недовольны политикой федерального правительства, полностью вышли из союза и образовали Новую Американскую Республику. Хотя некоторые наши граждане уважают нашу власть; некоторые этого не делают, особенно те, кто принадлежит к низшим классам и меньшинствам. Они считают их простой марионеткой Корпоративного Совета; а не законное правительство, подобное правительству в Вашингтоне. Многие предлагали нам установить какие-то отношения с меньшинствами и рабочим классом, однако есть и те, кто не хочет с ними компромисса; поскольку у нас есть войска, которые могут при необходимости усмирить будущие угрозы." # The New American Republic is a young republic brought upon the destruction of the old and corrupt United States. The governors have been discontented with the policies of the Federal Government and have outright seceeded from the union and have formed the New American Republic. While some of our citizens our respecting our authority; some do not, specially those who are in the lower classes and the minorities. They see as a mere puppet of the Corpoate Council; and not a legitimate government like those in Washington. Many have been proposing that we conduct some sort of a relations with the minorities and the working classes, however, there are also some, that don't want a compromise with them; as we have the troops that can pacify future threats if necessary.
+ newamerica.1.a: "Наш авторитет исходит от оружия армии" # Our authority comes from the guns of the army
+ newamerica.1.b: "Попробуйте наладить отношения с меньшинствами" # Try having relations with the minorities
+ newamerica.2.t: "Компромисс с Симмонсом?" # Compromise with Simmons?
+ newamerica.2.d: "Уильям Джозеф Симмонс, лидер АНП, или Американской партии чистоты, с ее военизированным крылом «Черный легион». Чтобы полностью укрепить нашу власть в штате, некоторые в правительстве предлагают компромисс с Симмонсом. Однако, если они получат слишком много власти в правительстве, кто знает, что произойдет с Республикой." # William Joseph Simmons, the leader for the APP, or the American Purity Party, with its paramilitary wing, the Black Legion. In order, to fully cement our power in the state, some in the government proposes a compromise with Simmons. However, if they get too much power on the government, who knows what will happen to the Republic.
+ newamerica.2.a: "Пока это укрепит нашу власть" # As long as it will solidify our power
+ newamerica.2.b: "Они меня пугают, но ничего не делают" # They give me the creeps, but do nothing
+ newamerica.2.c: "Запретить их полностью" # Ban them outright
+ newamerica.3.t: "Обзор пособий по безработице" # Reviewing the Unemployment Benefits
+ newamerica.3.d: "В надежде смягчить некоторые последствия экономического спада было предложено пересмотреть пособия по безработице, которые могут быть использованы в качестве фондов в случае их отмены. Однако отмена этих льгот, безусловно, может сделать нашу администрацию популярной, и поэтому у некоторых в правительстве есть идея отменить льготы только для тех, кто классифицируется как меньшинства, что может в то же время высвободить некоторое финансирование, избегая непопулярности среди наших граждан." # In hopes of alleviating some of the effects of the economic recession, there have been the proposal of reviewing the unemployment benefits that can be used as funds in case of it being revoked. However, revoking these benefits can surely make our administration popular, and thus, some within the government have the idea of only revoking the benfits of those who are classified as minorities which can free up some funding at the same time, avoiding being unpopular onto our citizens.
+ newamerica.3.a: "Отзыв для меньшинств" # Revoke for the minorities
+ newamerica.3.b: "Отменить его для всех" # Revoke it for all
+ newamerica.4.t: "Гарнизоны в Детриоте?" # Garrisons in Detriot?
+ newamerica.4.d: "На встрече с [Root.GetLeader] генерал Мозли предложил разместить гарнизоны по всему городу Детриот; чтобы обезопасить сердце Республики, а также уменьшить отвратительные действия, совершаемые преступниками. Хотя предложение генерала Мозли было, мягко говоря, вполне разумным; мы также можем разместить эти гарнизоны в других частях страны; эффективно обеспечивая наш контроль за пределами городских территорий." # On the meeting with [Root.GetLeader], General Moseley have proposed to deploy garrisons throughout the city of Detriot; in order to secure the heart of the Republic and also to lessen the henious activities commited by the criminals. While the proposal of General Moseley have been quite sensible to say the least; we can also deploy those garrisons on other parts of the nation; effectively securing our control outside of the urban areas.
+ newamerica.4.a: "Развертывание гарнизонов" # Deploy the garrisons
+ newamerica.4.b: "Они нужнее в другом месте" # They are more needed elsewhere
+ newamerica.5.t: "Проблема минимальной заработной платы" # The Minimum Wage Issue
+ newamerica.5.d: "Идея стандартизированной минимальной заработной платы в последнее время не вызывала особого беспокойства у правительства. Однако с тех пор профсоюзы и профсоюзные лидеры довольно громко заявляли об этом, и в последнее время они набрали обороты; поскольку чиновники в правительстве предложили минимальную заработную плату для рабочих по всей стране. Постановление уже находится в законодательном органе правительства и находится на рассмотрении." # The idea of an standardized minimum wage has not been quite in the government's concerns recently. However, unions and labour leaders have been quite vocal about it since, and they have gained the momentum recently; as officials in the government have proposed a minimum wage for the workers throughout the nation. The resolution is already in the legislative body of the government and is being reviewed.
+ newamerica.5.a: "Какое абсурдное требование" # What an absurd demand
+ newamerica.5.b: "Это только для избранных" # It is only for the privileged ones
+ newamerica.5.c: "Просто прими это, это всего лишь деньги" # Just accept it, it's only money
+ newamerica.6.t: "Вербовка в Черный Легион" # Recruitments in the Black Legion
+ newamerica.6.d: "Наши силы безопасности получили разведывательные сообщения о том, что Черный Легион, военизированное крыло АПП, проводит вербовочные кампании по всему Детриоту и прилегающим к нему районам. Действующие члены легиона будут похищать потенциальных членов, чтобы заставить их войти в организацию. Эта деятельность АПП вызвала беспокойство у многих; и в силовых структурах есть офицеры, которые требуют их ареста; однако многие в гражданском правительстве желают оставить их в покое." # There have been intelligence reports from our security forces that the Black Legion, the paramilitary wing of the APP have been conducting recruitment campaigns all over Detriot and its surronding areas. Current members of the legion will kidnap potential members to force their entry onto the organization. These activities by the APP has been a worrysome for many; and there are officers in the security forces that demands their arrest; however, many within the civilian government wishes to leave them alone.
+ newamerica.6.a: "Оставь их в покое" # Leave them alone
+ newamerica.6.b: "Прикажите их арестовать" # Order their arrests
+ newamerica.7.t: "Столкновение в Чикаго" # Clash at Chicago
+ newamerica.7.d: "В ответ на недавнюю политику правительства в различных аспектах жизни по всей республике; Многие недовольные группы собрались вокруг города Чикаго, организовав акцию протеста в надежде обратить вспять некоторые, если не все, противоречивые политические решения.\n\nОднако задействованные силы безопасности стремились разогнать протестующих, что привело к ожесточенному разговору, который в конечном итоге закончился столкновением между протестующими меньшинствами и нашими силами безопасности." # In response to the recent policies of the government in various aspects of life throughout the republic; many dissatisfied groups have gathered around the city of Chicago organizing a protest in hopes of reversing some, if not all of the controversial politicies.\n\nThe deployed security forces however, were eager to disperse the protesters, that resulted in a heated conversation that ultimately ended in a clash between the protesting minorities and our security forces.
+ newamerica.7.a: "О, нет..." # Oh no...
+ newamerica.8.t: "Трагедия на Вестерн-авеню" # Tragedy at Western Avenue
+ newamerica.8.d: "Во время столкновения между нашими силами безопасности и меньшинствами, протестующими против нашего решения о дальнейшем ограничении их деятельности; наши силы случайно застрелили девочку-подростка небелого происхождения, которая затем скончалась от ран. В сообщениях утверждается, что наши силы ошибочно отождествили девочку-подростка с протестующими, которые направлялись по каким-то делам." # During the clash between our security forces and the minorities who are protesting our decision to further limit their activities; a teenage girl with a non-white ancestry was accidentaly shot by our forces, who then died from the injury. Reports have claimed that our forces have mistakenly relate the teenage girl from the protesters who are en route to run some errands. 
+ newamerica.8.a: "Мы выражаем наши соболезнования" # We send our condolences
+ newamerica.9.t: "Расследование" # The Investigation
+ newamerica.9.d: "Спорная смерть девочки-подростка во время столкновения в городе Чикаго усилила голоса тех, кто хотел, чтобы правительство провело расследование в отношении тех, кто несет ответственность за трагедию, произошедшую во время столкновения.\n\nМы сами контролируем, каким будет результат этого расследования; хотя мы можем винить во всем, что произошло, протестующих, мы также можем винить в неудачном событии некоторых наших офицеров; однако каким бы ни было наше решение; последствия неизбежны." # The controversial death of a teenage girl during the clash at the city of Chicago have amplified the voices of those who wanted the government to conduct investigations on those who are responsible for the tragedy that have happened during the clash.\n\nWe ourselves, controls what will be the outcome of this investigation; while we can blame everything that has happened on the protesters, we can also blame the unfortunate event on some of our officers; however no matter what our decision will be; the consequences are inevitable.
+ newamerica.9.a: "Протестующие виноваты" # The protesters are at fault
+ newamerica.9.b: "Офицеры виноваты" # The officers are at fault
+ newamerica.10.t: "Марш в Детриоте" # The March at Detriot
+ newamerica.10.d: "С ростом популярности Американской партии чистоты, возглавляемой Уильямом Дж. Симмонсом; военизированные формирования и воинские части, сочувствующие этому делу, вошли в столицу, захватив важные правительственные объекты и объекты. Местонахождение [Root.GetLeader] до сих пор неизвестно; но это не имеет значения, поскольку АНП взяла под свой контроль государственный аппарат; назначение Симмонса новым президентом Новой Американской Республики." # With the growing popularity of the American Purity Party, headed by William J. Simmons; paramilitary forces and military units sympathetic to the cause have marched onto the capital, securing important government facilities and installations. The whereabouts of [Root.GetLeader] is still unknown; but it doesn't matter, as the APP have taken control of the apparatus of state; installing Simmons as the new President of the New American Republic.
+ newamerica.10.a: "Новая эра для Америки!" # A new era for America!
+ newamerica.11.t: "Во имя стабильности" # In the Name of Stability
+ newamerica.11.d: "Спорная политика администрации Форда заставила военных взять контроль над собой во имя обеспечения стабильности государства. Важные правительственные объекты и объекты были взяты под охрану воинскими частями, а генерал Мозли был назначен временным президентом Новой Американской Республики." # The controversial policies of the Ford administration have left the military to seize control of themselves, in the name of securing the stability of the state. Important government installations and facilities have been secured by military units and General Moseley have been installed as temporary President of the New American Republic.
+ newamerica.11.a: "Новая эра для Америки!" # A new era for America!
+ newamerica.12.t: "Ford заручается корпоративной поддержкой" # Ford Secures Corporate Backing
+ newamerica.12.d: "В ответ на его более жесткие реформы по всей Новой Республике Корпоративный совет проголосовал за отстранение [Root.GetLeader] от должности. Похоже, что совет утратил доверие к руководству Тигла и назначил новым президентом знаменитого Генри Форда." # In response to his more hardline reforms throughout the New Republic, [Root.GetLeader] was voted out of office by the Corporate Council. It seems that the council has lost confidence on Teagle's leadership and has installed the famed Henry Ford as the new President.
+ newamerica.12.a: "Удачи, мистер Форд!" # Good luck, Mr. Ford!
+ newamerica.13.t: "Рабочие присоединяются к протестующим" # Workers Join the Protesters
+ newamerica.13.d: "Поддерживая своих угнетенных «товарищей», рабочие в различных частях штата присоединились к меньшинствам в их протестах. Профсоюзные лидеры и видные активисты организовали забастовку рабочих, которая фактически парализовала нашу экономику.\n\nВ правительстве есть люди, особенно в силах безопасности, которые предлагают арестовать организаторов забастовок. Однако это действие может даже усилить напряжение и усугубить ситуацию; есть и те, кто предлагает игнорировать сложившуюся ситуацию, главным образом полагая, что она разрешится сама собой. Однако, что бы мы ни сделали, последствия будут." # In supporting their fellow oppressed \"comrades\" the workers in various locations in the state have joined the minorities in their protests.Union leaders and prominent activists have organized a worker strike that have effectively paralyzed our economy.\n\nThere are some in the government, specially in the security forces that proposes to arrest the organisers of the strikes. However this action can even escelate the tension and might make things worse; there are also those who proposes to ignore the current situation mainly believing that it will resolve onto itself. However, whatever we might do, there will be consequences.
+ newamerica.13.a: "Прикажите арестовать их лидеров!" # Order the arrest of their leaders!
+ newamerica.13.b: "Не обращайте на них внимания и продолжайте" # Ignore them and carry on
+ newamerica.14.t: "Бунт!" # Revolt!
+ newamerica.14.d: "В этот день рано утром произошло немыслимое: протестующие и участники беспорядков одолели наши силы безопасности в городе Чикаго и захватили контроль над важными правительственными учреждениями и зданиями. Многие наши войска и части либо присоединились к протестующим, либо оказались взаперти; и лидеры анархистов объявили вооруженный конфликт против нашего правительства, да поможет нам Бог в это трудное время." # On this day, early in the morning, an unthinkable has happened, the protesters and rioters have overpowered our security forces in the city of Chicago and have seized control of important government offices and buildings. Many of our troops and units have either joined the protesters or have been locked up; and the anarchist's leaders have proclaimed an armed conflict against our government, may God help us in this difficult times.
+ newamerica.14.a: "Мы сокрушим этих предателей!" # We will crush these traitors!
+ newamerica.15.t: "Победа в Чикаго" # Victory in Chicago
+ newamerica.15.d: "Наши войска снова маршировали по городу Чикаго, прежде чем он был захвачен анархистами, пытавшимися провозгласить собственное независимое государство.\n\nОднако, благодаря нашей военной мощи и промышленному потенциалу, мы победили их и убедились, что их идеи находятся с ними на их могилах." # Our forces were once again marching in the city of Chicago, before it is seized by the anarchist trying to declare an independent state of their own.\n\nHowever, due to our military might and industrial capabilities, we have defeated them and made sure that their ideas are with them on their graves.
+ newamerica.15.a: "Как и ожидалось." # As expected.
+ newamerica.16.t: "Доктрина ВВС" # The Air Force Doctrine
+ newamerica.16.d: "Недавно созданные Новые американские ВВС обсуждают, на какой доктрине следует сосредоточить внимание этому учреждению. Есть голоса, которые настаивают на вспомогательной роли ВВС для армии, чтобы дать нашим войскам лучшее преимущество в бою; однако есть также голоса, которые выступают за сосредоточение внимания на разрушении промышленности и инфраструктуры противника, чтобы остановить их военную машину." # The newly created New American Air Force has been debating on what doctrine should the institution will focus on, there are voices that persue the supporting role of the air force for the army, in chance of giving our troops the better edge in combat; however, there are also voices that advocates in focusing on destruction of enemy industry and infrastructure, to halt their war machine.
+ newamerica.16.a: "Им нужна поддержка армии на поле боя" # They need support the army on the field
+ newamerica.16.b: "Им необходимо обрушить огонь на территорию противника." # They need to unleash fire onto the enemy territory
+ newamerica.17.t: "Вторая Великая Миграция" # The Second Great Migration
+ newamerica.17.d: "Поскольку мы пытались заставить меньшинства оставаться на наших территориях; поступали сообщения о том, что подавляющее число чернокожих американцев, азиатов и коренных американцев бежало на юг и восток, на территории, контролируемые старым федеральным правительством и недавно созданным штатом Новая Англия." # As we have attempted to force the minorities to stay in our territories; there have been reports of a overwhelming number of Black Americans, Asians and Native Americans fleeing into the south and east, territories controlled by the old federal Government and the newly established state of New England.
+ newamerica.17.a: "Интересный..." # Interesting...
+ newamerica.18.t: "Беженцы из [NAR.GetNameDef]" # Refugees from [NAR.GetNameDef]
+ newamerica.18.d: "Несмотря на попытки [NAR.GetNameDef] заставить свои меньшинства остаться на своей территории, все большее число чернокожих американцев по иронии судьбы бегут на юг и восток. Общее число, вероятно, насчитывает не менее миллиона человек, причем многие стремятся поселиться на нашей территории из-за ее очевидной близости. В частности, в городских районах Нового Орлеана наблюдается приток мигрантов. Белые популисты, такие как Вирджил Эффингер, предлагают также прекратить въезд чернокожих, чтобы не угрожать белому рабочему классу. Однако большая часть республиканцев и прогрессистов с этим не согласна и наряду с нашими генералами видят возможность вербовки и потенциальных фабричных рабочих. Они рекомендуют разрешить мигрантам обосноваться и сразу же принять их на работу." # Despite the attempts of [NAR.GetNameDef] to force its minorities to stay in their territory, an increasingly large number of black Americans are ironically fleeing to the South and East. The total is likely numbering in at least a million, with many seeking to settle in our territory due to its obvious proximity. In particular, the urban regions of New Orleans are seeing an inflow of migrants. White populists such as Virgil Effinger suggest also stopping anymore blacks from entering so as to not threaten the white working class. However, much of the Republicans and Progressives disagree with this and alongside our generals see an opportunity for recruitment and potential factory workers. They recommend allowing the migrants to settle and recruiting them at once.
+ newamerica.18.a: "Впусти их" # Let them in
+ newamerica.18.b: "Объявляем, что больше не будем принимать" # Announce we won't be taking in anymore
+ newamerica.19.t: "Архиепископы просят поддержки" # Archbishops seek support
+ newamerica.19.d: "Считая [Root.GetLeader] полезным союзником как против Клана, так и против социалистов, многие архиепископы склоняются к новой политике после того, как ранее были враждебно настроены по отношению к влиянию Чарльза Кафлина среди католического населения, наиболее заметным из которых является архиепископ Эдвард Алоизиус Муни, который теперь открыто поддерживает новый режим. В частном порядке архиепископ желает увеличить финансирование католических епархий, чтобы [Root.GetLeader] поддерживал дружбу с католическими народами и чтобы иммигрантам-католикам было легче стать натурализованными иммигрантами. Однако некоторые в правительстве не желают такого соглашения, полагая, что [Root.GetLeader] должен сделать это без их одобрения, поскольку они относятся к духовенству с подозрением за то, что оно не поддержало их раньше. Однако архиепископы обещают усиление поддержки режима, если он согласится." # Perceving [Root.GetLeader] as a useful ally against both the Klan and socialists, many archbishops are coming around to the new policies after previously being hostile to Charles Coughlin's influence among the Catholic population, with the most notable being Archbishop Edward Aloysius Mooney whom is now openly embracing to the new regime. Privately, the Archbishop desires increased funding for Catholic diocoses, for [Root.GetLeader] to endorse friendship with Catholic nations and for it to be easier to Catholic immigrants to become naturalized immigrants. However, some in the government do not desire any such agreement, thinking [Root.GetLeader] should do it without their approval since they view the clericy with suspicion for not endorsing them sooner. However, the Archbishops promise increased support for the regime if he agrees.
+ newamerica.19.a: "Соглашаться" # Agree
+ newamerica.19.b: "Нет, мы обязаны сторонникам католиков, а не Церкви."  # No, we are beholden to Catholic supporters not the Church
+ newamerica.20.t: "Еврейский вопрос" # The Jewish Question
+ newamerica.20.d: "Как давно неизменно считали все фракции NDWL, еврейское население Америки и мира представляет собой подрывной и корыстный элемент, объединенный стремлением внести свой вклад в развитие американского общества и связанный с большевизмом и культурным вырождением.\nТеперь, когда мы укрепили свою власть, президенту [Root.GetLeader] предстоит решить вопрос нашей будущей политики по отношению к евреям. Умеренные в нашем правительстве хотят возродить планы Генри Форда по еврейской сегрегации, гарантируя, что евреи по всей Америке будут размещены в своих собственных автономных общинах в определенных городах.\nВ рамках жесткой оппозиции этому есть много нативистов, которые хотели бы, чтобы евреи были репатриированы из Америки, через канадскую границу и в места назначения по их выбору, вдали от нашей приятной земли. Между тем, есть те, кто считает, что Йоки не следует недооценивать прибыльную возможность дешевой еврейской рабочей силы." # As all of the NDWL factions have long invariably believed, the Jewish population of America and the world is a subversive and self-interested element, uniterested in contributing to American society and linked to Bolshevism and cultural degeneracy.\nNow that we have secured our hold on power, it falls to President [Root.GetLeader] to settle the matter of our future policy towards the Jews. The moderates in our government want to revive Henry Fords's plans of Jewish segregation, ensuring that Jews across America are placed in their own self-contained communities within designated cities.\nWithin the hardliner opposition to this, there are many nativists who would like to see Jews repatriated from America, across the Canadian border and on to destinations of their choosing far from our pleasant land. Meanwhile, there are those who believe that Yockey should not underestimate the lucrative possibility of cheap Jewish labor.
+ newamerica.20.a: "Распространить Джима Кроу на евреев" # Extend Jim Crow to the Jews
+ newamerica.20.b: "Репатриировать их массово" # Repatriate them en masse
+ newamerica.20.c: "Они искупят себя трудом" # They will redeem themselves through labour
+ newamerica.21.t: "Борьба с преступностью" # Fighting Crime
+ newamerica.22.d: "Министр безопасности Томпсон объявил о новой борьбе с «преступным населением» Америки и теми, у кого есть обоснованные подозрения в совершении преступлений в будущем из-за «наследственных связей с преступностью и вырождения». После этих объявлений произошло значительное увеличение бюджетов полиции, особенно полиции и участков национальной гвардии на Глубоком Юге и в Черном поясе Америки. Эти усилия привели к заметному увеличению присутствия полиции в черных кварталах городов и сельских районах Юга, причем даже войска национальной гвардии формируют патрули в таких районах, как Талса, Оклахома. Помня о восстановлении порядка, полицейские управления увеличивают количество арестов за нарушение законов Джима Кроу и штрафуют афроамериканцев по обвинению в «вызове беспорядков в позднее время» даже для тех, кто просто выходит из дома после 5 часов вечера. Даже смертная казнь все чаще применялась в тюрьмах штата против заключенных, которые уже находились в заключении в течение многих лет до принятия новых законов о борьбе с преступностью." # Security Minister Thompson has announced a new struggle against "the criminal population" of America and those who have reasonable suspicion to commit crimes in the future due to "ancestral ties to crime and degeneracy". Following these announcements, there was a significant increase in policing budgets, particularly for police and national guard stations in the Deep South and Black Belt of America. These efforts have led to a noticeable increase in the police presence in Black neighborhoods in cities and the rural parts of the South, with even national guard troops forming patrols in areas such as Tulsa, Oklahoma. With the restoration of order in mind, police departments have been increasing arrests for breaking Jim Crow laws and fining African-Americans with charges of "causing a commotion at late times" even for those simply walking out past 5 P.M. Even the death penalty has been increasingly used in state’s prisons against prisoners who have already been imprisoned for years before the new crime fighting bills.
+ newamerica.22.a: "Наконец-то Белый человек может спать спокойно!" # Finally, the White man can sleep peacefully!
+ newamerica.23.t: "Закон об образовании чернокожих" # Black Education Act
+ newamerica.23.d: "Волна изменений в государственном образовании, осуществленная Симмонсом с целью укрепить христианскую идентичность среди молодежи Америки, почти завершена. Его последним актом, принятым единогласно делегатами, стал Закон об образовании чернокожих. Закон об образовании чернокожих полностью пересматривает практику образования для общин этнических меньшинств и, в частности, афроамериканцев. В частности, он делает незаконным преподавание образования афроамериканцам, оторвавшимся от своей роли рабочих, отдаляет их от старых представлений о религиозном единстве между расами и сокращает и без того незначительные государственные расходы на школы для чернокожих. В своей речи, анонсирующей закон, Симмонс заявил: «В англосаксонском сообществе нет места неграм выше уровня рабочего». Какой смысл учить негритянских детей математике, если они не могут применять ее на практике?»." # The wave of public education changes implemented by Simmons in order to solidify Christian Identity into the youth of America is nearly complete. His final act, which passed with unanimous approval by the delegates, is the Black Education Act. The Black Education Act totally redefines education practices for ethnic minority communities and, in particular, African-Americans. Notably it makes it illegal to teach education to African-Americans divorced from their role as laborers, distances them from older notions of religious unity across races and slashes already minor public spending on Black Schools. As part of his speech announcing the law, Simmons stated, 'There is no place for the Negro in the Anglo Saxon community above the level of laborer. What is the use of teaching the Negro child mathematics, when it cannot use it in practice?'.
+ newamerica.23.a: "Это к лучшему" # It's for the best
+ newamerica.24.t: "Законы о пропусках" # The Pass Laws
+ newamerica.24.d: "Новое правительство начало выдавать сберегательные книжки афроамериканцам по всему Содружеству в ожидании вступления в силу Закона о пропусках в следующем году. Этот закон аналогичен старому внутреннему паспорту, который использовался во времена Конфедерации для идентификации свободных и рабов. Это привело к тому, что многочисленным афроамериканцам было запрещено выезжать за пределы юга с планами расширить зонирование на остальную часть Республики, чтобы усилить сегрегацию, - политика, соответствующая ярому противодействию [Root.GetLeader] расовому смешению в большинстве форм." # The new government has begun issuing a passbook to African-Americans throughout the Commonwealth in anticipation of the Pass Laws taking effect next year. This law is similar to older internal passport used during the time of the Confederacy to identify freemen and slaves. This has resulted in numerous African-Americans being forbidden from traveling outside of the south with plans to extend zoning into the rest of the Republic in order to intensify segregation, a policy in-line with [Root.GetLeader]'s fervent opposition to race-mixing in most forms.
+ newamerica.24.a: "Документы, пожалуйста." # Papers Please.
+ newamerica.25.t: "Третья Великая Миграция" # The Third Great Migration
+ newamerica.25.d: "К тысячам афроамериканцев, покинувшим Америку до гражданской войны, присоединились еще сотни тысяч, спасающихся от террора Белой лиги. Такие группы, как Международная защита труда и NAACP, теперь работают вместе с Красным Крестом, чтобы эвакуировать массы людей, борющихся за то, чтобы остаться свободными. Для Лиги защиты белых и их лидеров это играет на фоне давнего страха перед единым фронтом против их правления. В то же время, чем меньше диссидентов внутри страны, тем спокойнее могут спать лоялисты." # Those thousands of African-Americans that left America before the civil war are being joined by hundreds of thousands more fleeing White Leaguer terror. Groups like the International Labor Defense and the NAACP are now working together with the Red Cross to evacuate masses of people struggling to remain free. To the White Defense Leagues and their leaders, this plays into a long-standing fear of a united front against their rule. At the same time, the fewer the dissidents internally, the safer loyalists can sleep.
+ newamerica.25.a: "Америка выводит токсины." # America is expelling toxins.
+ newamerica.26.t: "Прибытие американских беженцев" # American Refugees Arrive
+ newamerica.26.d.can: "Огромное количество американцев, многие из которых афроамериканцы, бежали сюда, на Север, спасаясь от людей Симмона. Мы официально приветствовали их как канадцев, и многие из них хотят поселиться в нашей стране." # A vast number of Americans, many of them African-Americans have fled across here in the North fleeing Simmon's men. We have officially welcomed them as Canadians and many of them want to settle in our country.
+ newamerica.26.d.usa: "Огромное количество американцев, многие из которых афроамериканцы, бежали на юг, спасаясь от головорезов Симмонса. Мы официально приветствовали их как истинных американцев, и многие из них готовы сражаться против Симмонса." # A vast number of Americans, many of them African-Americans have fled into the south fleeing Simmons's goons. We have officially welcomed them as true Americans and more then a few are ready and willing to fight against Simmons.
+ newamerica.26.d.nee: "Огромное количество американцев, многие из которых афроамериканцы, бежали в Новую Англию, спасаясь от головорезов Симмонса. Мы официально приветствовали их как истинных американцев, и многие из них готовы сражаться против Симмонса." # A vast number of Americans, many of them African-Americans have fled into New England fleeing Simmons's goons. We have officially welcomed them as true Americans and more then a few are ready and willing to fight against Simmons.
+ newamerica.26.d.lib: "Тысячи людей, прибывших вместе с Маркусом Гарви в начале 1930-х годов, ожидали, что прибудет еще больше беженцев. Даже самый сильный пессимист не мог предвидеть наплыв беженцев, которых «Блэк Стар Лайн» подобрала и высадила в Монровии. Семьи воссоединяются, и Зерновой Берег теперь наполняется тысячами новых либерийцев Америки. Однако те, кто больше озабочен производством продуктов питания, отмечают, что в настоящее время мы не можем справиться с растущим населением." # The thousands that arrived with Marcus Garvey in the early 1930s anticipated that more refugees would come. Even the strongest pessimist could not anticipate the overflow of refugees the Black Star Line has picked up and dropped off in Monrovia. Families are reunited, and the Grain Coast now swells with thousands more Americo Liberians. Those more concerned with food production however have noted that we can't really handle a growing population at this time.
+ newamerica.26.d.mex: "Центральное правительство обычно игнорировало существование американских беженцев в Мексике, поскольку в прошлом у нас были дружеские отношения с Америкой. Однако этот Симмонс представляет угрозу для всего континента, и еще тысячи беженцев, пересекающих Рио-Гранде, рассказывают об ужасах Серебряного Легиона. Эти беженцы сильно отличаются от тех, кто хочет уйти на пенсию Эмброуза Бирса, они изранены и полны решимости положить конец легионерскому режиму Америки." # The existence of American refugees in Mexico has generally been ignored by the Central Government, as we have had amicable relations with America in the past. However, this Simmons is a threat to the entire continent, and the thousands more refugees crossing the Rio Grande tell of the Silver Legion's horrors. These refugees are far different from the Ambrose Bierce's' looking to retire, they are scarred and determined to end the Legionary regime of America.
+ newamerica.26.d.cub: "Всего лишь 300-мильная прогулка на лодке отделяла тысячи американских беженцев от Кубы. Семьи на Кубе месяцами звонили своим семьям, чтобы избежать вполне реальной угрозы националистического переворота. Никто из них не ожидал, что узкое место во Флориде откроется сразу, в результате чего сегодня в Варадеро появятся сотни лодок. Поток беженцев из Америки забил наши порты, заблокировал стационарные линии связи и затруднил правительственное министерство реагирования. Каким должен быть наш ответ?" # Just a 300 mile boat trip separated the thousands of American refugees from Cuba. Families in Cuba have been calling for months to their families to escape the very real threat of a nationalist takeover. None of them anticipated that the bottleneck in Florida would be opened all at once, causing hundreds of boats to show up at Varadero today. The flood of refugees from America has clogged up our ports, tied up or landlines, and put strain on the government ministry to respond. What should be our answer?
+ newamerica.26.d.hai: "Гаити всегда позиционировала себя как второй дом для афроамериканцев. Распространенной историей было то, что первым гаитянином был беженец из Эфиопии, который бежал с такой силой, что остановился только тогда, когда упал на Гаити. Теперь мы видим, как это снова выходит из США. Зловещий Симмонс не должен иметь права поступать так с американским народом! Мы чувствуем возмущение беженцев, в то же время мы пытаемся определить, сможет ли наша хрупкая экономика справиться с избытком рабочей силы такого масштаба." # Haiti has always portrayed themselves as the second home for African-Americans. A common story to tell was that the first Haitian was a refugee of Ethiopia that ran with such force that he only stopped when he fell into Haiti. Now we see this again coming out of the USA. The sinister Simmons should not have the right to do this to American people! We feel the refugees outrage, at the same time we struggle to determine whether our fragile economy can handle a labor surplus of this magnitude.
+ newamerica.26.a: "Добро пожаловать, чтобы остаться" # You are welcome to stay
+ newamerica.27.t: "«Другие меньшинства»" # The \"Other Minories\"
+ newamerica.27.d: "На заседании между высокопоставленными членами АНП и Американской партии чистоты обсуждались несколько новых политических мер, которые могут изменить жизнь других непризнанных небелых граждан, таких как оставшиеся индейцы и выходцы из Азии. В случае коренных американцев; некоторые члены партии предложили конфисковать их собственность и переместить ее в какие-то деревни подальше от городских округов страны.\n\nВ то время как в случае людей азиатской национальности некоторые предлагали депортировать их обратно в Азию; такие как Китай и Япония, где они больше не смогут нанести вред американскому обществу. Однако в партии есть и другие радикальные члены, которые выступают за то, чтобы людей с коренным индийским и азиатским происхождением содержали в трудовых лагерях; где они могут работать на государство в обмен на некоторые основные товары." # A session between the senior members of the APP or the American Purity Party have discussed a couple of new policies that may change the lives other undeemed non-white citizens such as the remaining Indians and with Asian-descent. In the case of native Americans; some within the party have proposed to seize their properties and relocate them in some sort of villages away from the urban districts of the country.\n\nWhile in the case of the people with Asian ethnicity, some proposed to deport them back to Asia; such as China and Japan where they can be do no more damage in the American society. However, there are other radical members within the party that advocates that people with native Indian and Asian decent should be contained within a labour camp; where they can work for the state in exchange for some basic goods.
+ newamerica.27.a: "Мы продолжим более умеренный подход." # We'll proceed with the more moderate approach.
+ newamerica.27.b: "Бесплатная рабочая сила – это хорошо, правда?" # Free labour is good right?
+ newamerica.28.t: "Вопрос о приложении" # The APP Question
+ newamerica.28.d: "Американская партия чистоты — это организация сторонников превосходства белой расы, выступающая за очищение американского государства; изгнание тех, кого считают нежелательными, из городов и земель Америки. Хотя они не враждебны нашему собственному правительству, это не может означать, что они не могут представлять угрозу нашей власти в ближайшем будущем. Они вербуют людей в свою военизированную организацию; в надежде устранить своих неугодных неугодных. Правительство поставило на этот вопрос; и решили..." # The American Purity Party is a white-supremacist organization that advocates for the purification of the American state; expelling the deemed undesirables from the cities and lands of America. While they are not hostile to our own government, this can not mean that they cannot be a threat to our power in the near future. They are recruiting for their own paramilitary organization; in hopes of eliminating their undeemed undesirables. The government has conveyed to this question; and have decided to...
+ newamerica.28.a: "...забанить тогда и арестовать их лидеров" # ...ban then and arrest their leaders
+ newamerica.28.b: "...пусть они будут" # ...let them be
+
+ newamerica.100.t: "[BPS.GetName] Вступление в Соглашение" # [BPS.GetName] Entry to the Accord
+ newamerica.100.d: "Правительство [NAR.GetAdjective] обратилось к нам сегодня с предложением заключить официальный союз между нашими двумя странами; в надежде сокрушить коммунистическую угрозу в регионе, в конце концов, мы находимся в стратегическом продвижении в победе над марксистами." # The [NAR.GetAdjective] Government have approached us today, proposing a formal alliance between our two nations; in hopes of crushing the communist threat in the region, after all, we are in a strategic advanNAR_rust_belte in defeating the marxists.
+ newamerica.100.a: "Конечно, мы принимаем" # Of course we accept
+ newamerica.100.b: "Мы не заинтересованы" # We are not interested
+ newamerica.101.t: "[From.GetName] принимает" # [From.GetName] Accepts
+ newamerica.101.d: "Правительство [From.GetAdjective] увидело мудрость в нашем предложении и приняло наше приглашение к официальному союзу; и вместе мы победим коммунистическую угрозу." # The [From.GetAdjective] Government have seen the wisdom in our proposal, and have accepted our invitation of a formal alliance; and together we shall defeat the communist menace.
+ newamerica.101.a: "Хороший." # Good.
+ newamerica.102.t: "[From.GetName] отказывается" # [From.GetName] Refuses
+ newamerica.102.d: "Правительство [From.GetAdjective] упрямо, как мы и ожидали, оно отклонило наше приглашение заключить союз в борьбе с коммунистической угрозой." # The [From.GetAdjective] Government is stubborn as we have anticipated, they have refused our invitation for an alliance in defeating the communist menace.
+ newamerica.102.a: "На войну!" # To War!
+ newamerica.102.b: "Они развалятся в одиночку." # They will crumble alone.
+ newamerica.103.t: "[NAR.GetName] Вход в [This.GetFactionName]" # [NAR.GetName] Entry to the [This.GetFactionName]
+ newamerica.103.d: "Делегация [NAR.GetAdjective] прибыла сюда, в [Root.Capital.GetName], чтобы обсудить вхождение [NAR.GetName] в [Root.GetFaction]. Правительство [NAR.GetAdjective] стремится установить с нами официальный союз. Должны ли мы принять их предложение?" # An [NAR.GetAdjective] delegation have arrived here in [Root.Capital.GetName] to discuss the entry of the [NAR.GetName] in the [Root.GetFaction]. The [NAR.GetAdjective] Government is seeking to establish a formal alliance with us. Should we accept their offer?
+ newamerica.103.a: "Мы были бы дураками, если бы не приняли" # We'd be fools not to accept
+ newamerica.103.b: "Они нам не нужны..." # We don't need them...
+ newamerica.104.t: "[From.GetFaction] Вход запрещен" # [From.GetFaction] Entry Denied
+ newamerica.104.d: "Правительство [From.GetAdjective] отклонило наше предложение об официальном союзе с ними. Возможно, нам придется поискать в другом месте." # The [From.GetAdjective] Government have refused our offer of our formal alliance with them. We may have to look elsewhere.
+ newamerica.104.a: "Трагедия, конечно, иначе возможность..." # A tragedy to be sure, otherwise an opportunity...
+ newamerica.105.t: "Поддержка стороны" # Supporting a Side
+ newamerica.105.d: "С момента падения династии Цин Китай находился в состоянии хаоса и анархии. Существует множество конкурирующих правительств, которые претендуют на законное правительство китайской нации.\n\nСуществуют так называемые «демократические» силы под руководством Гоминьдана, основанные Сунь Ятом Сеном и в настоящее время возглавляемые [KMT.GetLeader]; затем есть правительство Бэйян, которое победило Гоминьдан в их «Северной экспедиции», но проиграло правительству Фэнтянь в Маньчжурии, которое в настоящее время возглавляет [MAN.GetLeader]." # Ever since the collapse of the Qing dynasty, China have been quite under chaos and anarchy. There are multiple competing governments that claims the legitimate government of the Chinese nation.\n\nThere is the so called, \"Democratic\" forces under the Kuomintang, founded by Sun Yat Sen and currently lead by [KMT.GetLeader]; then there is the Beiyang Government that have defeated the Kuomintang in their \"Northern Expedition\" but have lost to the Fengtian Government in Manchuria currently lead by [MAN.GetLeader].
+ newamerica.105.a: "@Гоминьдан Правительство Гоминьдана" # @KMT Kuomintang Government
+ newamerica.105.b: "@ZHI Правительство Бэйяна" # @ZHI Beiyang Government
+ newamerica.105.c: "@MAN Правительство Фэнтяня" # @MAN Fengtian Government
+ newamerica.106.t: "[NAR.GetAdjective] Поддержка" # [NAR.GetAdjective] Support
+ newamerica.106.d: "Новое правительство [NAR.GetAdjective] в Вашингтоне выбрало нас как законное правительство Китая и, таким образом, поддерживает нас в военном, материальном и финансовом отношении в победе над другими полевыми командирами." # The new [NAR.GetAdjective] Government in Washington have chosen us, as the legitimate government in China, and thus they are supporting us militarily, materially, and financially in defeating the other warlords.
+ newamerica.106.a: "Большой!" # Great!
+ newamerica.107.t: "Вашингтон запрашивает [PHI.GetAdjective] вход в [FRA.GetFaction]" # Washington Requests [PHI.GetAdjective] Entry to the [FRA.GetFaction]
+ newamerica.107.d: "Делегаты из Вашингтона просят нас также пригласить правительство [PHI.GetAdjective] в [Root.GetFaction]. Это может быть advanNAR_rust_belte, поскольку расположение [PHI.GetNameDef] является стратегически выгодным." # The delegates from Washington are requesting that we also invite the [PHI.GetAdjective] Government in the [Root.GetFaction]. This may can be an advanNAR_rust_belte as the location of [PHI.GetNameDef] is strategically viable.
+ newamerica.107.a: "Отправьте приглашение" # Send out the invite
+ newamerica.107.b: "Они нам не нужны" # We don't need them
+ newamerica.108.t: "[FRA.GetName] приглашает нас на [FRA.GetFaction]" # [FRA.GetName] Invites us to [FRA.GetFaction]
+ newamerica.108.d: "В ответ на просьбу [NAR.GetAdjective] пригласить нас в свою фракцию; [FRA.GetAdjective] официально рассылает нам приглашение присоединиться к их альянсу. Должны ли мы принять?" # In response to the [NAR.GetAdjective] request of inviting us into their faction; the [FRA.GetAdjective] is formally sending out the invite in order for us to join their alliance. Should we accept?
+ newamerica.108.a: "Конечно, мы принимаем" # Of course we accept
+ newamerica.108.b: "У нас на уме другие планы" # We have other plans in mind
+ newamerica.109.t: "[From.GetName] соглашается присоединиться к [FRA.GetFaction]" # [From.GetName] Accepts to Join [FRA.GetFaction]
+ newamerica.109.d: "Правительство [From.GetAdjective] приняло приглашение и официально присоединилось к нашему альянсу." # The [From.GetAdjective] Government have accepted the invitation and have formally joined our alliance.
+ newamerica.109.a: "Вместе мы сила!" # Together we are strong!
+ newamerica.110.t: "[From.GetName] отказывается присоединиться к [FRA.GetFaction]" # [From.GetName] Refuses to Join [FRA.GetFaction]
+ newamerica.110.d: "Правительство [From.GetAdjective] отклонило приглашение официально присоединиться к нашему альянсу." # The [From.GetAdjective] Government have refused the invitation to formally join our alliance.
+ newamerica.110.a: "Разочарование..." # Dissapointing...
+ newamerica.111.t: "[FRA.GetAdjective] отказывается пригласить [PHI.GetName]" # The [FRA.GetAdjective] Refuses to Invite [PHI.GetName]
+ newamerica.111.d: "Правительство [FRA.GetAdjective] категорически отклонило наше требование о приглашении [PHI.GetNameDef] в альянс. Однако это не конец света, поскольку мы можем в отместку выйти из альянса или просто принять их решение и оставить [PHI.GetNameDef] позади." # The [FRA.GetAdjective] Government have outright refused our demand in inviting [PHI.GetNameDef] into the alliance. It is not the end of the world however, as we can leave the alliance in retaliation or just accept their decision and leave [PHI.GetNameDef] behind.
+ newamerica.111.a: "Пригрозите им, что мы выйдем из фракции" # Threten them that we will leave the faction
+ newamerica.111.b: "Возможно, им придется встать на ноги" # They may need to stand up on their own feet
+ newamerica.112.t: "Вашингтон угрожает уйти" # Washington Threatens to Leave
+ newamerica.112.d: "Правительство [From.GetAdjective] проявило свое высокомерие и пригрозило нам выйти из альянса. Если [From.GetAdjective] покинут альянс, они могут стать нашими будущими врагами; но мы уступим их требованиям; нас могут втянуть в бессмысленную войну." # The [From.GetAdjective] Government, have shown their arrogance and have threathened us to leave the alliance. If the [From.GetAdjective] leave the alliance, they may be our future enemy; but we will cave in into their demands; we may be dragged onto a pointless war.
+ newamerica.112.a: "Примите их требования; они слишком ценны." # Accept their demands; they are too valuable.
+ newamerica.112.b: "Ну и что?" # So what?
+ newamerica.113.t: "[FRA.GetName] уступает нашим требованиям" # [FRA.GetName] Caves into our Demands
+ newamerica.113.d: "Правительство [FRA.GetAdjective], каким бы упрямым оно ни было, наконец-то уступило нашим требованиям, пригласив [PHI.GetName] в наш альянс." # The [FRA.GetAdjective] Government, stubborn as they were, have finally caved in into our demands, inviting [PHI.GetName] into our alliance.
+ newamerica.113.a: "Большой!" # Great!
+ newamerica.114.t: "[FRA.GetAdjective] упрям" # The [FRA.GetAdjective] is Stubborn
+ newamerica.114.d: "Упрямство [FRA.GetAdjective] и их прямой отказ пригласить [PHI.GetName] во фракцию — это последний аргумент в пользу того, что Тедди Рузвельт прав; нам нужно найти лучших друзей в Европе." # The stubborness of the [FRA.GetAdjective] and their outright refusal to invite [PHI.GetName] into the faction is the final call that Teddy Roosevelt is right; we need to find better friends in Europe.
+ newamerica.114.a: "Стыд." # Shame.
+
+ NAR_Maria_Spiridonova: "Мария Спиридонова" # Maria Spiridonova
+ NAR_Henry_Ford: "Генри Форд" # Henry Ford
+ NAR_Walter_C_Teagle: "Уолтер К. Тигл" # Walter C. Teagle
+ NAR_William_Joseph_Simmons: "Уильям Джозеф Симмонс" # William Joseph Simmons
+ NAR_David_Curtis_Stephenson: "Дэвид Кертис Стивенсон" # David Curtis Stephenson
+ NAR_George_Van_Horn_Moseley: "Джордж Ван Хорн Мозли" # George Van Horn Moseley
+ NAR_Matthew_Ridgway: "Мэтью Риджуэй" # Matthew Ridgway
+ NAR_Bruce_C_Clarke: "Брюс С. Кларк" # Bruce C. Clarke
+ NAR_Fox_Conner: "Фокс Коннер" # Fox Conner
+ NAR_Arthur_L_Bristol: "Артур Л. Бристоль" # Arthur L. Bristol
+ NAR_Francis_L_Garrett: "Фрэнсис Л. Гарретт" # Francis L. Garrett
+ NAR_Mickey_Cochrane: "Микки Кокрейн" # Mickey Cochrane
+ NAR_James_Francis_Byrnes: "Джеймс Фрэнсис Бирнс" # James Francis Byrnes
+ NAR_John_Elliott_Rankin: "Джон Эллиот Рэнкин" # John Elliott Rankin
+ NAR_Edward_L_Jackson: "Эдвард Л. Джексон" # Edward L. Jackson
+ NAR_Herbert_W_Armstrong: "Герберт В. Армстронг" # Herbert W. Armstrong
+ NAR_Richard_Girnt_Butler: "Ричард Гирт Батлер" # Richard Girnt Butler
+ NAR_Arthur_Cherep_Spiridovich: "Артур Череп Спиридович" # Arthur Cherep Spiridovich
+ NAR_William_Bell_Riley: "Уильям Белл Райли" # William Bell Riley
+ NAR_George_Sylvester_Viereck: "Четырехугольник Джорджа Сильвестра" # George Sylvester Viereck
+ NAR_Alma_Bridwell_White: "Альма Бридвелл Уайт" # Alma Bridwell White
+ NAR_Arthur_J_Smith: "Артур Дж. Смит" # Arthur J. Smith
+ NAR_Arthur_Raymond_Robinson: "Артур Рэймонд Робинсон" # Arthur Raymond Robinson
+ NAR_AN_Dugger: "А.Н. Даггер" # A.N. Dugger
+ NAR_Fred_Koch: "Фред Кох" # Fred Koch
+ NAR_Ellison_Smith: "Эллисон Смит" # Ellison Smith
+ NAR_Charles_Emil_Sorensen: "Чарльз Эмиль Соренсен" # Charles Emil Sorensen
+ NAR_Louis_Thomas_McFadden: "Луи Томас Макфадден" # Louis Thomas McFadden
+ NAR_William_H_Murray: "Уильям Х. Мюррей" # William H. Murray
+ NAR_Arthur_Kent_White: "Артур Кент Уайт" # Arthur Kent White
+ NAR_George_W_Christians: "Джордж В. Христиане" # George W. Christians
+ NAR_Gerald_Burton_Winrod: "Джеральд Бертон Уинрод" # Gerald Burton Winrod
+ NAR_John_Geraerdt_Crommelin_Jr: "Джон Герардт Кроммелин мл." # John Geraerdt Crommelin Jr.
+ NAR_Robert_Rice_Reynolds: "Роберт Райс Рейнольдс" # Robert Rice Reynolds
+ NAR_Clare_E_Hoffman: "Клэр Э. Хоффман" # Clare E. Hoffman
+ NAR_DW_Griffith: "Д.В. Гриффит" # D.W. Griffith
+ NAR_Eugene_Talmadge: "Юджин Талмадж" # Eugene Talmadge
+ NAR_Theophilus_Eugene_Connor: "Теофил Юджин Коннор" # Theophilus Eugene Connor
+ NAR_William_David_Upshaw: "Уильям Дэвид Апшоу" # William David Upshaw
+ NAR_Addison_Thompson: "Эддисон Томпсон" # Addison Thompson
+ NAR_Arlene_White_Lawrence: "Арлин Уайт Лоуренс" # Arlene White Lawrence
+ NAR_CO_Dodd: "CO Додд" # C.O. Dodd
+ NAR_Coleman_Livingston_Blease: "Коулман Ливингстон Близ" # Coleman Livingston Blease
+ NAR_Elizabeth_Eloise_Kirkpatrick_Dilling: "Элизабет Элоиза Киркпатрик Диллинг" # Elizabeth Eloise Kirkpatrick Dilling
+ NAR_George_Edward_Deatherage: "Джордж Эдвард Детерадж" # George Edward Deatherage
+ NAR_John_Franklyn_Norris: "Джон Франклин Норрис" # John Franklyn Norris
+ NAR_Samuel_Green: "Сэмюэл Грин" # Samuel Green
+ NAR_Theodore_G_Bilbo: "Теодор Дж. Бильбо" # Theodore G. Bilbo
+ NAR_William_Shephard: "Уильям Шепард" # William Shephard
+ NAR_Arthur_Hornbui_Bell: "Артур Хорнбуи Белл" # Arthur Hornbui Bell
+ NAR_Bert_Hall: "Берт Холл" # Bert Hall
+ NAR_Charles_Lindbergh: "Чарльз Линдберг" # Charles Lindbergh
+ NAR_Martin_James_Monti: "Мартин Джеймс Монти" # Martin James Monti
+ NAR_Robert_Melville_Danford: "Роберт Мелвилл Дэнфорд" # Robert Melville Danford

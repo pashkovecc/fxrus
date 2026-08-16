@@ -1,131 +1,131 @@
 ﻿l_russian:
-  
- ### Country Names 
- IRQ_vanguardist: "Mesopotamian Socialist Republic" #NT!
- IRQ_vanguardist_ADJ: "Mesopotamian" #NT!
- IRQ_vanguardist_DEF: "the Mesopotamnian Socialist Republic" #NT!
- IRQ_collectivist: "Mesopotamian Socialist Republic" #NT!
- IRQ_collectivist_ADJ: "Mesopotamian" #NT!
- IRQ_collectivist_DEF: "the Mesopotamnian Socialist Republic" #NT!
- IRQ_libertarian_socialist: "Mesopotamian Socialist Republic" #NT!
- IRQ_libertarian_socialist_ADJ: "Mesopotamian" #NT!
- IRQ_libertarian_socialist_DEF: "the Mesopotamnian Socialist Republic" #NT!
- IRQ_social_democrat: "Kingdom of Mesopotamia" #NT!
- IRQ_social_democrat_ADJ: "Mesopotamian" #NT!
- IRQ_social_democrat_DEF: "the Kingdom of Mesopotamia" #NT!
- IRQ_social_liberal: "Kingdom of Mesopotamia" #NT!
- IRQ_social_liberal_ADJ: "Mesopotamian" #NT!
- IRQ_social_liberal_DEF: "the Kingdom of Mesopotamia" #NT!
- IRQ_market_liberal: "Kingdom of Mesopotamia" #NT!
- IRQ_market_liberal_ADJ: "Mesopotamian" #NT!
- IRQ_market_liberal_DEF: "the Kingdom of Mesopotamia" #NT!
- IRQ_social_conservative: "Kingdom of Mesopotamia" #NT!
- IRQ_social_conservative_ADJ: "Mesopotamian" #NT!
- IRQ_social_conservative_DEF: "the Kingdom of Mesopotamia" #NT!
- IRQ_authoritarian_democrat: "Kingdom of Mesopotamia" #NT!
- IRQ_authoritarian_democrat_ADJ: "Mesopotamian" #NT!
- IRQ_authoritarian_democrat_DEF: "the Kingdom of Mesopotamia" #NT!
- IRQ_paternal_autocrat: "Kingdom of Mesopotamia" #NT!
- IRQ_paternal_autocrat_ADJ: "Mesopotamian" #NT!
- IRQ_paternal_autocrat_DEF: "the Kingdom of Mesopotamia" #NT!
- IRQ_national_populist: "Kingdom of Mesopotamia" #NT!
- IRQ_national_populist_ADJ: "Mesopotamian" #NT!
- IRQ_national_populist_DEF: "the Kingdom of Mesopotamia" #NT!
- IRQ_valkist: "Mesopotamian State" #NT!
- IRQ_valkist_ADJ: "Mesopotamian" #NT!
- IRQ_valkist_DEF: "the State of Mesopotamia" #NT!
-  
- IRQ_vanguardist_party: "HS-B" #NT!
- IRQ_vanguardist_party_long: "Hizb Al Shuyi'i - Baghdadyeen\n§gCommunist Party - Baghdad Branch§!" #NT!
- IRQ_collectivist_party: "HS-D" #NT!
- IRQ_collectivist_party_long: "Hizb Al Shuyi'i - Damshaqiyeen\n§gCommunist Party - Damascus Branch§!" #NT!
- IRQ_libertarian_socialist_party: "HUI" #NT!
- IRQ_libertarian_socialist_party_long: "Hizb Al Umma Al Ishtirakyah\n§gSocialist Nation Party§!" #NT!
- IRQ_social_democrat_party: "HWD" #NT!
- IRQ_social_democrat_party_long: "Hizb Al Watani Al Dimqrati\n§gNational Democratic Party§!" #NT!
- IRQ_social_liberal_party: "Jamat Al Ahali" #NT!
- IRQ_social_liberal_party_long: "Jamat Al Ahali\n§gPeople's Assembly§!" #NT!
- IRQ_market_liberal_party: "HS" #NT!
- IRQ_market_liberal_party_long: "Hizb Al Sha'ab\n§gPeople's Party§!" #NT!
- IRQ_social_conservative_party: "HIW" #NT!
- IRQ_social_conservative_party_long: "Hizb al-Ikha'a al-'Watani\n§gParty of National Brotherhood§!" #NT!
- IRQ_authoritarian_democrat_party: "al-Hashimi" #NT!
- IRQ_authoritarian_democrat_party_long: "al-Hashimi\n§gHouse of Hashim§!" #NT!
- IRQ_paternal_autocrat_party: "al-Hashimi" #NT!
- IRQ_paternal_autocrat_party_long: "al-Hashimi\n§gHouse of Hashim§!" #NT!
- IRQ_national_populist_party: "HI" #NT!
- IRQ_national_populist_party_long: "Hizb Al Istiqlal\n§gIndependence Party§!" #NT!
- IRQ_valkist_party: "Hizb Assur" #NT!
- IRQ_valkist_party_long: "Hizb Assur\n§gAssyria Party§!" #NT!
-  
- irq.11.t: "The Mashriqi Kingdom breaks free!" #NT!
- irq.11.d: "Ever since the Great War, the Mashriqi Kingdom was firmly under our influence. But after we were struck by the London Stock Market Crash, the scoundrels in the Mashriqi parliament have voted to terminate our protectorate over them, and have kicked out our High Commissioner without any respect." #NT!
- irq.11.a: "They can do this?" #NT!
-  
- IRQ_divided_nation: "Divided Nation" #NT!
- IRQ_divided_nation_desc: "The Mashriq is a vast region, containing many tribes, ethnicities and religions within it. Ruling over them and trying to unite them under Pan-Arabism has been difficult, and they don't share the same enthusiasm as the Syrians in opposing the Phoenicians. Our nation suffers deeply as a result." #NT!
-  
- IRQ_hashmite_dynasty: "The Hasmite Dynasty" #NT!
- IRQ_hashmite_dynasty_desc: "The Hashemite Dynasty has ruled over a Thosand years in Mecca and now rules our country, one of the numerous states that they had ruled over, like the Ummyad and Abbasid Caliphates, the Idrised Kingdoms and the Hejazi Sharifates, the Hashemites are the living embodiment of Arabism and Arab History." #NT!
- IRQ_semi_democratic_state: "Semi-Democratic State" #NT!
- IRQ_semi_democratic_state_desc: "There is a Parliament, There is Elections and there is all kinds of freedoms but the King is still the one who appoints prime ministers and sentors and disband parliament, even if he rarely used his powers, the King still have it." #NT!
- IRQ_british_protection: "British Protection" #NT!
- IRQ_british_protection_desc: "Like most places on this planet, the Mashriq is still under vile British "protection". That's the right that Britain gives it self to exploit and extract the nations resources and build bases for the sake of their majesties, the Monarchs of England." #NT!
- IRQ_nationalist_unrest: "Nationalist Unrest" #NT!
- IRQ_nationalist_unrest_desc: "The Mashriq is an occupied state even with a loved national figurehead, democratic elections and development projects, the people still want it gone even if it's only on paper" #NT!
- IRQ_coalition_fraternal_communique: "The Coalition "Fraternal" Communiqué" #NT!
- IRQ_coalition_fraternal_communique_desc: "In the last parliamentary elections held in August of 1935, the Social Democrat, National Democratic Party and Social Conservative National Brotherhood Party allied to form a majority government led by social democrat Kamel Al Chaderchi" #NT!
-  
- # Opinion Modifiers 
- IRQ_the_hashmite_dynasty_ARB: "The Hashemite dynasty" #NT!
- IRQ_the_hashmite_dynasty_TUR: "The Hashemite dynasty" #NT!
-  
- # Tooltips 
- IRQ_OPINION_hasmite_tt: "(§Y[TUR.GetFlag][TUR.GetNameDef]§!)\n   Opinion of §Y[IRQ.GetFlag][IRQ.GetNameDef]§! §R-50§!\n(§Y[HEJ.GetFlag][HEJ.GetNameDef]§!)\n    Opinion of §Y[IRQ.GetFlag][IRQ.GetNameDef]§! §G+10§!" #NT!
-  
- ### Characters 
- IRQ_Kamil_Al_Chaderchi: "Kamil Al-Chaderchi" #NT!
-  
-  
-  
- ### Cosmetic Tags 
- IRQ_mashriq_vanguardist: "Mashriqi Soviet" #NT!
- IRQ_mashriq_vanguardist_ADJ: "Mashriqi" #NT!
- IRQ_mashriq_vanguardist_DEF: "The Mashriqi Soviet" #NT!
- IRQ_mashriq_collectivist: "Mashriqi Soviet" #NT!
- IRQ_mashriq_collectivist_ADJ: "Mashriqi" #NT!
- IRQ_mashriq_collectivist_DEF: "The Mashriqi Soviet" #NT!
- IRQ_mashriq_libertarian_socialist: "Mashriqi Commune" #NT!
- IRQ_mashriq_libertarian_socialist_ADJ: "Mashriqi" #NT!
- IRQ_mashriq_libertarian_socialist_DEF: "The Mashriqi Commune" #NT!
- IRQ_mashriq_social_democrat: "Mashriqi Kingdom" #NT!
- IRQ_mashriq_social_democrat_ADJ: "Mashriqi" #NT!
- IRQ_mashriq_social_democrat_DEF: "The Arab Mashriqi Kingdom" #NT!
- IRQ_mashriq_social_liberal: "Mashriqi Kingdom" #NT!
- IRQ_mashriq_social_liberal_ADJ: "Mashriqi" #NT!
- IRQ_mashriq_social_liberal_DEF: "The Arab Mashriqi Kingdom" #NT!
- IRQ_mashriq_market_liberal: "Mashriqi Kingdom" #NT!
- IRQ_mashriq_market_liberal_ADJ: "Mashriqi" #NT!
- IRQ_mashriq_market_liberal_DEF: "The Arab Mashriqi Kingdom" #NT!
- IRQ_mashriq_social_conservative: "Mashriqi Kingdom" #NT!
- IRQ_mashriq_social_conservative_ADJ: "Mashriqi" #NT!
- IRQ_mashriq_social_conservative_DEF: "The Arab Mashriqi Kingdom" #NT!
- IRQ_mashriq_authoritarian_democrat: "Mashriqi Kingdom" #NT!
- IRQ_mashriq_authoritarian_democrat_ADJ: "Mashriqi" #NT!
- IRQ_mashriq_authoritarian_democrat_DEF: "The Arab Mashriqi Kingdom" #NT!
- IRQ_mashriq_paternal_autocrat: "Mashriqi Kingdom" #NT!
- IRQ_mashriq_paternal_autocrat_ADJ: "Mashriqi" #NT!
- IRQ_mashriq_paternal_autocrat_DEF: "The Arab Mashriqi Kingdom" #NT!
- IRQ_mashriq_national_populist: "Mashriqi Kingdom" #NT!
- IRQ_mashriq_national_populist_ADJ: "Mashriqi" #NT!
- IRQ_mashriq_national_populist_DEF: "The Arab Mashriqi Kingdom" #NT!
- IRQ_mashriq_valkist: "Mashriqi Republic" #NT!
- IRQ_mashriq_valkist_ADJ: "Mashriqi" #NT!
- IRQ_mashriq_valkist_DEF: "The Arab Republic of Mashriq" #NT!
- IRQ_Faisal_I: "Faisal I" #NT!
- IRQ_Arshad_al_Umari: "Arshad al-Umari" #NT!
- IRQ_Yusuf_Salman_Yusuf: "Yusuf Salman Yusuf" #NT!
- IRQ_Rashid_Ali_al_Gaylani: "Rashid Ali al-Gaylani" #NT!
- IRQ_Saeed_Qazaz: "Saeed Qazaz" #NT!
- IRQ_Dhia_Jafar: "Dhia Jafar" #NT!
- IRQ_Musa_Al_Shabander: "Musa Al Shabander" #NT!
+
+### Country Names
+ IRQ_vanguardist: "Месопотамская Социалистическая Республика" # Mesopotamian Socialist Republic
+ IRQ_vanguardist_ADJ: "Месопотамский" # Mesopotamian
+ IRQ_vanguardist_DEF: "Месопотамнская Социалистическая Республика" # the Mesopotamnian Socialist Republic
+ IRQ_collectivist: "Месопотамская Социалистическая Республика" # Mesopotamian Socialist Republic
+ IRQ_collectivist_ADJ: "Месопотамский" # Mesopotamian
+ IRQ_collectivist_DEF: "Месопотамнская Социалистическая Республика" # the Mesopotamnian Socialist Republic
+ IRQ_libertarian_socialist: "Месопотамская Социалистическая Республика" # Mesopotamian Socialist Republic
+ IRQ_libertarian_socialist_ADJ: "Месопотамский" # Mesopotamian
+ IRQ_libertarian_socialist_DEF: "Месопотамнская Социалистическая Республика" # the Mesopotamnian Socialist Republic
+ IRQ_social_democrat: "Королевство Месопотамия" # Kingdom of Mesopotamia
+ IRQ_social_democrat_ADJ: "Месопотамский" # Mesopotamian
+ IRQ_social_democrat_DEF: "Королевство Месопотамия" # the Kingdom of Mesopotamia
+ IRQ_social_liberal: "Королевство Месопотамия" # Kingdom of Mesopotamia
+ IRQ_social_liberal_ADJ: "Месопотамский" # Mesopotamian
+ IRQ_social_liberal_DEF: "Королевство Месопотамия" # the Kingdom of Mesopotamia
+ IRQ_market_liberal: "Королевство Месопотамия" # Kingdom of Mesopotamia
+ IRQ_market_liberal_ADJ: "Месопотамский" # Mesopotamian
+ IRQ_market_liberal_DEF: "Королевство Месопотамия" # the Kingdom of Mesopotamia
+ IRQ_social_conservative: "Королевство Месопотамия" # Kingdom of Mesopotamia
+ IRQ_social_conservative_ADJ: "Месопотамский" # Mesopotamian
+ IRQ_social_conservative_DEF: "Королевство Месопотамия" # the Kingdom of Mesopotamia
+ IRQ_authoritarian_democrat: "Королевство Месопотамия" # Kingdom of Mesopotamia
+ IRQ_authoritarian_democrat_ADJ: "Месопотамский" # Mesopotamian
+ IRQ_authoritarian_democrat_DEF: "Королевство Месопотамия" # the Kingdom of Mesopotamia
+ IRQ_paternal_autocrat: "Королевство Месопотамия" # Kingdom of Mesopotamia
+ IRQ_paternal_autocrat_ADJ: "Месопотамский" # Mesopotamian
+ IRQ_paternal_autocrat_DEF: "Королевство Месопотамия" # the Kingdom of Mesopotamia
+ IRQ_national_populist: "Королевство Месопотамия" # Kingdom of Mesopotamia
+ IRQ_national_populist_ADJ: "Месопотамский" # Mesopotamian
+ IRQ_national_populist_DEF: "Королевство Месопотамия" # the Kingdom of Mesopotamia
+ IRQ_valkist: "Месопотамское государство" # Mesopotamian State
+ IRQ_valkist_ADJ: "Месопотамский" # Mesopotamian
+ IRQ_valkist_DEF: "Государство Месопотамия" # the State of Mesopotamia
+
+ IRQ_vanguardist_party: "ХС-Б" #Iraqi Branch - Yusuf Salman # HS-B
+ IRQ_vanguardist_party_long: "Хизб аль-Шуйи - Багдадин\n§gКоммунистическая партия - Багдадское отделение§!" # Hizb Al Shuyi'i - Baghdadyeen\n§gCommunist Party - Baghdad Branch§!
+ IRQ_collectivist_party: "ХС-Д" #Syrian Branch - Khalid Bakdash # HS-D
+ IRQ_collectivist_party_long: "Хизб аль-Шуйи - Дамшакиин\n§gКоммунистическая партия - Дамасское отделение§!" # Hizb Al Shuyi'i - Damshaqiyeen\n§gCommunist Party - Damascus Branch§!
+ IRQ_libertarian_socialist_party: "ХУИ" #Salih Jabr # HUI
+ IRQ_libertarian_socialist_party_long: "Хизб Аль Умма Аль Иштиракья\n§gПартия Социалистической Нации§!" # Hizb Al Umma Al Ishtirakyah\n§gSocialist Nation Party§!
+ IRQ_social_democrat_party: "HWD" #Chaderchi # HWD
+ IRQ_social_democrat_party_long: "Хизб Аль Ватани Аль Димкрати\n§gНационально-демократическая партия§!" # Hizb Al Watani Al Dimqrati\n§gNational Democratic Party§!
+ IRQ_social_liberal_party: "Джамат Аль Ахали" # Abu Al Timmen # Jamat Al Ahali
+ IRQ_social_liberal_party_long: "Джамат Аль-Ахали\n§gНародная ассамблея§!" # Jamat Al Ahali\n§gPeople's Assembly§!
+ IRQ_market_liberal_party: "HS" #Muhammad Said Al Jazairi # HS
+ IRQ_market_liberal_party_long: "Хизб Аль-Шааб\n§gНародная партия§!" # Hizb Al Sha'ab\n§gPeople's Party§!
+ IRQ_social_conservative_party: "HIW" #Nuri Al Said # HIW
+ IRQ_social_conservative_party_long: "Хизб аль-Ихаа аль-Ватани\n§gПартия национального братства§!" # Hizb al-Ikha'a al-'Watani\n§gParty of National Brotherhood§!
+ IRQ_authoritarian_democrat_party: "аль-Хашими" # al-Hashimi
+ IRQ_authoritarian_democrat_party_long: "аль-Хашими\n§gДом Хашима§!" # al-Hashimi\n§gHouse of Hashim§!
+ IRQ_paternal_autocrat_party: "аль-Хашими" # al-Hashimi
+ IRQ_paternal_autocrat_party_long: "аль-Хашими\n§gДом Хашима§!" # al-Hashimi\n§gHouse of Hashim§!
+ IRQ_national_populist_party: "ПРИВЕТ" #Muhammad Naguib # HI
+ IRQ_national_populist_party_long: "Хизб Аль Истикляль\n§gПартия Независимости§!" # Hizb Al Istiqlal\n§gIndependence Party§!
+ IRQ_valkist_party: "Хизб Ассур" # Malik Khushaba # Hizb Assur
+ IRQ_valkist_party_long: "Хизб Ассур\n§gПартия Ассирия§!" # Hizb Assur\n§gAssyria Party§!
+
+ irq.11.t: "Королевство Машрики вырывается на свободу!" # The Mashriqi Kingdom breaks free!
+ irq.11.d: "Со времен Великой войны Королевство Машрики находилось под нашим влиянием. Но после того, как мы пострадали от краха лондонской фондовой биржи, негодяи в парламенте Машрики проголосовали за прекращение нашего протектората над ними и без всякого уважения выгнали нашего Верховного комиссара." # Ever since the Great War, the Mashriqi Kingdom was firmly under our influence. But after we were struck by the London Stock Market Crash, the scoundrels in the Mashriqi parliament have voted to terminate our protectorate over them, and have kicked out our High Commissioner without any respect.
+ irq.11.a: "Они могут это сделать?" # They can do this?
+
+ IRQ_divided_nation: "Разделенная нация" # Divided Nation
+ IRQ_divided_nation_desc: "Машрик — это обширный регион, в котором проживает множество племен, этнических групп и религий. Управлять ими и пытаться объединить их в рамках панарабизма было сложно, и они не разделяют такого же энтузиазма, как сирийцы, в противостоянии финикийцам. В результате наша нация глубоко страдает." # The Mashriq is a vast region, containing many tribes, ethnicities and religions within it. Ruling over them and trying to unite them under Pan-Arabism has been difficult, and they don't share the same enthusiasm as the Syrians in opposing the Phoenicians. Our nation suffers deeply as a result.
+
+ IRQ_hashmite_dynasty: "Хасмитская династия" # The Hasmite Dynasty
+ IRQ_hashmite_dynasty_desc: "Династия Хашимитов правила в Мекке более тысячи лет и теперь правит нашей страной, одним из многочисленных государств, которыми они управляли, таких как халифаты Омьядов и Аббасидов, королевства Идрисид и шарифаты Хиджази. Хашимиты являются живым воплощением арабизма и арабской истории." # The Hashemite Dynasty has ruled over a Thosand years in Mecca and now rules our country, one of the numerous states that they had ruled over, like the Ummyad and Abbasid Caliphates, the Idrised Kingdoms and the Hejazi Sharifates, the Hashemites are the living embodiment of Arabism and Arab History.
+ IRQ_semi_democratic_state: "Полудемократическое государство" # Semi-Democratic State
+ IRQ_semi_democratic_state_desc: "Есть парламент, есть выборы и есть все виды свобод, но король по-прежнему является тем, кто назначает премьер-министров и советников и распускает парламент, даже если он редко использовал свои полномочия, они все равно есть у короля." # There is a Parliament, There is Elections and there is all kinds of freedoms but the King is still the one who appoints prime ministers and sentors and disband parliament, even if he rarely used his powers, the King still have it.
+ IRQ_british_protection: "Британская защита" # British Protection
+ IRQ_british_protection_desc: "Как и большинство мест на этой планете, Машрик до сих пор находится под гнусной британской «защитой». Это право, которое Британия дает себе, чтобы эксплуатировать и добывать ресурсы страны и строить базы ради их величеств, монархов Англии." # Like most places on this planet, the Mashriq is still under vile British "protection". That's the right that Britain gives it self to exploit and extract the nations resources and build bases for the sake of their majesties, the Monarchs of England.
+ IRQ_nationalist_unrest: "Националистические беспорядки" # Nationalist Unrest
+ IRQ_nationalist_unrest_desc: "Машрик — оккупированное государство, даже с любимым национальным лидером, демократическими выборами и проектами развития, но люди по-прежнему хотят его устранения, даже если это только на бумаге." # The Mashriq is an occupied state even with a loved national figurehead, democratic elections and development projects, the people still want it gone even if it's only on paper
+ IRQ_coalition_fraternal_communique: "Коалиционное «Братское» коммюнике" # The Coalition "Fraternal" Communiqué
+ IRQ_coalition_fraternal_communique_desc: "На последних парламентских выборах, состоявшихся в августе 1935 года, Социал-демократическая партия, Национально-демократическая партия и Социал-консервативная партия национального братства объединились, чтобы сформировать правительство большинства во главе с социал-демократом Камелем Аль-Чадерчи." # In the last parliamentary elections held in August of 1935, the Social Democrat, National Democratic Party and Social Conservative National Brotherhood Party allied to form a majority government led by social democrat Kamel Al Chaderchi
+
+# Opinion Modifiers
+ IRQ_the_hashmite_dynasty_ARB: "Династия Хашимитов" # The Hashemite dynasty
+ IRQ_the_hashmite_dynasty_TUR: "Династия Хашимитов" # The Hashemite dynasty
+
+# Tooltips 
+ IRQ_OPINION_hasmite_tt: "(§Y[TUR.GetFlag][TUR.GetNameDef]§!)\n Мнение §Y[IRQ.GetFlag][IRQ.GetNameDef]§! §R-50§!\n(§Y[HEJ.GetFlag][HEJ.GetNameDef]§!)\n Мнение §Y[IRQ.GetFlag][IRQ.GetNameDef]§! §G+10§!" # (§Y[TUR.GetFlag][TUR.GetNameDef]§!)\n   Opinion of §Y[IRQ.GetFlag][IRQ.GetNameDef]§! §R-50§!\n(§Y[HEJ.GetFlag][HEJ.GetNameDef]§!)\n    Opinion of §Y[IRQ.GetFlag][IRQ.GetNameDef]§! §G+10§!
+
+### Characters
+ IRQ_Kamil_Al_Chaderchi: "Камил Аль-Чадерчи" # Kamil Al-Chaderchi
+
+
+
+### Cosmetic Tags
+ IRQ_mashriq_vanguardist: "Восточный Советский" # Mashriqi Soviet
+ IRQ_mashriq_vanguardist_ADJ: "Машрики" # Mashriqi
+ IRQ_mashriq_vanguardist_DEF: "Совет Машрики" # The Mashriqi Soviet
+ IRQ_mashriq_collectivist: "Восточный Советский" # Mashriqi Soviet
+ IRQ_mashriq_collectivist_ADJ: "Машрики" # Mashriqi
+ IRQ_mashriq_collectivist_DEF: "Совет Машрики" # The Mashriqi Soviet
+ IRQ_mashriq_libertarian_socialist: "Коммуна Машрики" # Mashriqi Commune
+ IRQ_mashriq_libertarian_socialist_ADJ: "Машрики" # Mashriqi
+ IRQ_mashriq_libertarian_socialist_DEF: "Коммуна Машрики" # The Mashriqi Commune
+ IRQ_mashriq_social_democrat: "Королевство Машрики" # Mashriqi Kingdom
+ IRQ_mashriq_social_democrat_ADJ: "Машрики" # Mashriqi
+ IRQ_mashriq_social_democrat_DEF: "Арабское королевство Машрики" # The Arab Mashriqi Kingdom
+ IRQ_mashriq_social_liberal: "Королевство Машрики" # Mashriqi Kingdom
+ IRQ_mashriq_social_liberal_ADJ: "Машрики" # Mashriqi
+ IRQ_mashriq_social_liberal_DEF: "Арабское королевство Машрики" # The Arab Mashriqi Kingdom
+ IRQ_mashriq_market_liberal: "Королевство Машрики" # Mashriqi Kingdom
+ IRQ_mashriq_market_liberal_ADJ: "Машрики" # Mashriqi
+ IRQ_mashriq_market_liberal_DEF: "Арабское королевство Машрики" # The Arab Mashriqi Kingdom
+ IRQ_mashriq_social_conservative: "Королевство Машрики" # Mashriqi Kingdom
+ IRQ_mashriq_social_conservative_ADJ: "Машрики" # Mashriqi
+ IRQ_mashriq_social_conservative_DEF: "Арабское королевство Машрики" # The Arab Mashriqi Kingdom
+ IRQ_mashriq_authoritarian_democrat: "Королевство Машрики" # Mashriqi Kingdom
+ IRQ_mashriq_authoritarian_democrat_ADJ: "Машрики" # Mashriqi
+ IRQ_mashriq_authoritarian_democrat_DEF: "Арабское королевство Машрики" # The Arab Mashriqi Kingdom
+ IRQ_mashriq_paternal_autocrat: "Королевство Машрики" # Mashriqi Kingdom
+ IRQ_mashriq_paternal_autocrat_ADJ: "Машрики" # Mashriqi
+ IRQ_mashriq_paternal_autocrat_DEF: "Арабское королевство Машрики" # The Arab Mashriqi Kingdom
+ IRQ_mashriq_national_populist: "Королевство Машрики" # Mashriqi Kingdom
+ IRQ_mashriq_national_populist_ADJ: "Машрики" # Mashriqi
+ IRQ_mashriq_national_populist_DEF: "Арабское королевство Машрики" # The Arab Mashriqi Kingdom
+ IRQ_mashriq_valkist: "Республика Машрики" # Mashriqi Republic
+ IRQ_mashriq_valkist_ADJ: "Машрики" # Mashriqi
+ IRQ_mashriq_valkist_DEF: "Арабская Республика Машрик" # The Arab Republic of Mashriq
+ IRQ_Faisal_I: "Фейсал I" # Faisal I
+ IRQ_Arshad_al_Umari: "Аршад аль-Умари" # Arshad al-Umari
+ IRQ_Yusuf_Salman_Yusuf: "Юсуф Салман Юсуф" # Yusuf Salman Yusuf
+ IRQ_Rashid_Ali_al_Gaylani: "Рашид Али аль-Гайлани" # Rashid Ali al-Gaylani
+ IRQ_Saeed_Qazaz: "Саид Казаз" # Saeed Qazaz
+ IRQ_Dhia_Jafar: "Бог Джафара" # Dhia Jafar
+ IRQ_Musa_Al_Shabander: "Муса Аль-Шабандер" # Musa Al Shabander

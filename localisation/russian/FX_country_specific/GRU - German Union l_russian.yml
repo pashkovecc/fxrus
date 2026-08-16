@@ -1,228 +1,228 @@
 ﻿l_russian:
-  
- ### Country Names 
-  
- NGF_lander: "Free State of Hannover" #NT!
- NGF_lander_ADJ: "Hannoverian" #NT!
- NGF_lander_DEF: "the Free State of Hannover" #NT!
-  
- NGF_lander_ls: "Free State of Lower Saxony" #NT!
- NGF_lander_ls_ADJ: "Hannoverian" #NT!
- NGF_lander_ls_DEF: "the Free State of Lower Saxony" #NT!
-  
- PRS_lander: "East German Confederation" #NT!
- PRS_lander_ADJ: "East German" #NT!
- PRS_lander_DEF: "the East German Confederation" #NT!
-  
- BAY_lander: "South German Confederation" #NT!
- BAY_lander_ADJ: "South German" #NT!
- BAY_lander_DEF: "the South German Confederation" #NT!
-  
- ### Focus Names + Descriptions(and whatever else is here) 
-  
- GRU_the_new_confederation: "The New Confederation" #NT!
- GRU_the_new_confederation_desc: "" #NT!
-  
- # Generic tree 
-  
- GRU_autonomy_for_states: "Autonomy for the States" #NT!
- GRU_autonomy_for_states_desc: "" #NT!
-  
- GRU_rebuild_army: "The [ROOT.GetAdjectiveCap] Landwehr" #NT!
- GRU_rebuild_army_desc: "" #NT!
-  
- GRU_joint_training_development: "Joint Military Development" #NT!
- GRU_joint_training_development_desc: "" #NT!
-  
- GRU_fortify_the_borders: "Fortify Germany's Borders" #NT!
- GRU_fortify_the_borders_desc: "" #NT!
-  
- GRU_break_prussian_hold: "Break the Centralist Ghost" #NT!
- GRU_break_prussian_hold_desc: "" #NT!
-  
- GRU_reform_rail: "Reform the Railways" #NT!
- GRU_reform_rail_desc: "" #NT!
-  
- GRU_militarisation_question: "The Question of Militarisation" #NT!
- GRU_militarisation_question_desc: "" #NT!
-  
- GRU_joint_economic_planning_council: "Coordinate Economic Matters" #NT!
- GRU_joint_economic_planning_council_desc: "" #NT!
- GRU_joint_economic_planning_council_tt: "£decision_icon_small  §YDecisions§! concerning provided §ceconomic assistance§! to our allies will be §Yunlocked§!" #NT!
-  
- # north germany(NGF) 
- GRU_north_german_union: "Suscipere et Finire" #NT!
- GRU_north_german_union_desc: "" #NT!
-  
- GRU_beyond_the_guelphs: "Beyond the Guelphs" #NT!
- GRU_beyond_the_guelphs_desc: "" #NT!
-  
- GRU_work_with_city_states: "Work with the City States" #NT!
- GRU_work_with_city_states_desc: "" #NT!
-  
- GRU_break_the_valkists: "Break the Valkists" #NT!
- GRU_break_the_valkists_desc: "" #NT!
-  
- GRU_the_guelph_tradition: "The Guelph Tradition" #NT!
- GRU_the_guelph_tradition_desc: "" #NT!
-  
- GRU_soft_devalkification: "The Valkist Question" #NT!
- GRU_soft_devalkification_desc: "" #NT!
-  
- GRU_reassure_upper_class: "Reassure the Nobility" #NT!
- GRU_reassure_upper_class_desc: "" #NT!
-  
- GRU_brave_hannover: "Brave Hannover" #NT!
- GRU_brave_hannover_desc: "" #NT!
-  
- GRU_lower_saxony: "Declare Lower Saxony" #NT!
- GRU_lower_saxony_desc: "" #NT!
-  
- # bavaria(BAY) 
- GRU_south_german_union: "Unsere Heimaterde" #NT!
- GRU_south_german_union_desc: "" #NT!
-  
- GRU_burn_the_cradle: "Burning the Cradle" #NT!
- GRU_burn_the_cradle_desc: "" #NT!
-  
- GRU_appeal_tradition: "Appeal to Tradition" #NT!
- GRU_appeal_tradition_desc: "" #NT!
-  
- GRU_south_german_values: "South German Values" #NT!
- GRU_south_german_values_desc: "" #NT!
-  
- GRU_monarchist_referendum: "A Monarchist Referendum?" #NT!
- GRU_monarchist_referendum_desc: "" #NT!
-  
- GRU_peace_with_social_democracy: "Entrench the Grand Coalition" #NT!
- GRU_peace_with_social_democracy_desc: "" #NT!
- GRU_peace_with_social_democracy_tt: "The §SSocial Democrats§! will join our government and form a §Ycoalition§!\n\n" #NT!
-  
- GRU_educate_former_valkists: "Educate Former Valkists" #NT!
- GRU_educate_former_valkists_desc: "" #NT!
-  
- GRU_south_german_republic: "The Southern Confederation" #NT!
- GRU_south_german_republic_desc: "" #NT!
-  
- # east germany/prussia(PRS) 
- GRU_east_german_union: "The Legacy of Prussia" #NT!
- GRU_east_german_union_desc: "" #NT!
-  
- GRU_destroy_prussian_legacy: "End Prussianism" #NT!
- GRU_destroy_prussian_legacy_desc: "" #NT!
-  
- GRU_topple_aristocrats: "Topple Aristocrats" #NT!
- GRU_topple_aristocrats_desc: "" #NT!
-  
- GRU_grant_polish_autonomy: "Grant Polish Autonomy" #NT!
- GRU_grant_polish_autonomy_desc: "" #NT!
-  
- GRU_the_status_of_berlin: "The Status of Berlin" #NT!
- GRU_the_status_of_berlin_desc: "" #NT!
-  
- GRU_inheritors_of_prussia: "Protect the Prussian Legacy" #NT!
- GRU_inheritors_of_prussia_desc: "" #NT!
-  
- GRU_assert_prussian_nature: "Assert Prussian Heritage" #NT!
- GRU_assert_prussian_nature_desc: "" #NT!
-  
- GRU_eastern_watch: "The Eastern Frontier" #NT!
- GRU_eastern_watch_desc: "" #NT!
-  
-  
- GRU_help_integrate_state: "Aid [FROM.owner.GetNameDef] in [FROM.GetName]'s Integration" #NT!
-  
- GRU_trigger_lander: "Is a §YLänder§! of the §YGerman Union§!" #NT!
-  
- GRU_zollverein_spirit: "The Reborn Confederation" #NT!
- GRU_radio: "Union Broadcasting Corporation" #NT!
- GRU_bundesrat: "Bundesrat" #NT!
- GRU_court: "Bundesgericht" #NT!
- GRU_national_army: "Provisional Military Support" #NT!
- GRU_lander_military_help: "Prioritized Manufacturing Aid" #NT!
- GRU_lander_civilian_help: "Prioritized Economic Aid" #NT!
- GRU_crisis_leader: "Executive Crisis Powers" #NT!
- GRU_under_bundesexekution: "Under Federal Control" #NT!
- GRU_landergewerkschaften: "[ROOT.GetAdjectiveCap] Landergewerkschaften" #NT!
- GRU_transition_banking: "Banking Reform" #NT!
- GRU_local_banking: "Reformed German Banking" #NT!
- GRU_transition_banking_tt: "§OOnce this spirit expires, we will receive the following:§!" #NT!
- GRU_zentralbehorde: "Bundeszentralbehörde" #NT!
- RHI_GRU_law_code: "Federal Law Code" #NT!
- RHI_GRU_law_code_upgraded: "$RHI_GRU_law_code$" #NT!
-  
- PRS_zol_trade: "[PRS.GetNameDef] Membership in the Zollverein" #NT!
- NGF_zol_trade: "[NGF.GetNameDef] Membership in the Zollverein" #NT!
- BAY_zol_trade: "[BAY.GetNameDef] Membership in the Zollverein" #NT!
- RHI_zol_trade: "[RHI.GetNameDef] Membership in the Zollverein" #NT!
-  
- GRU_decision_cat: "Affairs of the Union" #NT!
-  
- GRU_bundesexekution: "Bundesexekution in [FROM.GetNameDef]" #NT!
-  
- GRU_aid_lander_civilian: "Prioritize Growth in [FROM.GetNameDef]" #NT!
- GRU_already_aiding_civ: "We are not already prioritizing civilian aid for another Länder" #NT!
-  
- GRU_aid_lander_military: "Prioritize Manufacturing in [FROM.GetNameDef]" #NT!
- GRU_already_aiding_mil: "We are not already prioritizing military aid for another Länder" #NT!
-  
- GRU_alpine_defense: "Alpine Defense" #NT!
- GRU_defend_frontier: "Fortify [FROM.GetName]" #NT!
- GRU_fortify_kiel: "Secure [FROM.GetName]" #NT!
-  
- ### Ideas 
-  
- GRU_guelph_tradition: "Guelph Tradition" #NT!
- GRU_decentralized_autonomy: "Decentralization Policy" #NT!
- GRU_regional_militias: "Regional Militias" #NT!
- GRU_fort_construction: "Border Projects" #NT!
- GRU_unified_command_doctrine: "Unified Command Doctrine" #NT!
- GRU_devalkification: "Devalkification Programs" #NT!
- GRU_devalkification_finished: "Devalkification Finished" #NT!
- GRU_prussian_heritage: "Prussian Heritage" #NT!
-  
- ### Dynamic Modifiers 
- GRU_state_autonomy: "Local Autonomy for City-States" #NT!
- GRU_polish_autonomy: "Polish Autonomy" #NT!
-  
- ### Decisions 
- GRU_economic_assistance: "Economic Assistance to [From.GetName]" #NT!
- GRU_eastern_watch_cat: "Protecting the Eastern Frontier" #NT!
- GRU_east_prussian_forts: "Construct Fortifications in East Prussia" #NT!
- GRU_west_prussian_forts: "Construct Fortifications in West Prussia" #NT!
- GRU_silesian_forts: "Construct Fortifications in Silesia" #NT!
-  
- ### Events 
- gerunion.2.t: "[From.GetName] Provides Economic Assistance" #NT!
- gerunion.2.d: "As we are in a union, it is our duty to support each other to the best of our abilities. As we are currently in an unviable economic position, [FROM.GetNameDef] has thankfully reached out to grant us economic assistance in our times of need." #NT!
- gerunion.2.a: "To German brotherhood!" #NT!
-  
- gerunion.3.t: "Militarization Question" #NT!
- gerunion.3.d: "With the defeat of the militaristic and evil Prussian Reich, many had thought that we would be free from the menace of war. Now however, the question of remilitarization has come onto the horizon. With turmoil still prevailing worldwide, many wonder if it is time that we remilitarize in order to secure ourselves." #NT!
- gerunion.3.a: "Yes, the time is now!" #NT!
- gerunion.3.b: "No - peace shall triumph!" #NT!
-  
- gerunion.4.t: "Devalkification" #NT!
- gerunion.4.d: "The matter of Valkism and its lingering elements is one that haunts our government. While we may be free, many still mistakenly cling to the idea of Valkism. This must be dealt with, although we can choose to be harsh or to be kind." #NT!
- gerunion.4.a: "Mercy is a virtue..." #NT!
- gerunion.4.b: "...that we shall not exercise." #NT!
-  
- gerunion.5.t: "The Monarchy?" #NT!
- gerunion.5.d: "The House of Wittelsbach have always been celebrities of Bavaria and a symbol of South German resistance to centralizing Prussian tendencies. There are now calls for a South German monarchy to solidify our South German identity - though naturally it will be via democratic referendum." #NT!
- gerunion.5.a: "There is no harm." #NT!
- gerunion.5.b: "No!" #NT!
-  
- gerunion.6.t: "The Monarchist Referendum" #NT!
- gerunion.6.d: "As campaigning for whether the House of Wittelsbach is to be restored wraps up, many await with both giddy excitement and ample anxiety at the prospect of a monarchist return. Do the people vote to restore the monarchy?" #NT!
- gerunion.6.a: "The people vote for Rupprecht!" #NT!
- gerunion.6.b: "The people vote for the Republic!" #NT!
-  
- gerunion.7.t: "Status of Berlin" #NT!
- gerunion.7.d: "Berlin is a special city within Germany, as the seat of power of both the old Kaiserreich and the republic that came after. It was the site at which the whole world bore witness to Dressler’s rise to power. Some believe that it does not deserve any autonomy as it is simply another part of the state, although others urge that we must take a lighter hand unlike the Prussians that precede us." #NT!
- gerunion.7.a: "Grant them autonomy" #NT!
- gerunion.7.b: "There is no need for such a thing." #NT!
-  
-  
- ### Tooltip 
- GRU_BAY_monarchist_referendum_will_be_held_tt: "§YWe will prepare for a monarchist referendum, which is scheduled to take place in three months.§!" #NT!
- GRU_BAY_rupprecht_is_king_tt: "§G$BAY_Rupprecht_von_Bayern$§! will be crowned king of the §Y[Root.GetName]§!" #NT!
+
+### Country Names
+
+ NGF_lander: "Свободное государство Ганновер" # Free State of Hannover
+ NGF_lander_ADJ: "Ганноверский" # Hannoverian
+ NGF_lander_DEF: "Свободное государство Ганновер" # the Free State of Hannover
+
+ NGF_lander_ls: "Свободное государство Нижняя Саксония" # Free State of Lower Saxony
+ NGF_lander_ls_ADJ: "Ганноверский" # Hannoverian
+ NGF_lander_ls_DEF: "Свободное государство Нижняя Саксония" # the Free State of Lower Saxony
+
+ PRS_lander: "Восточногерманская Конфедерация" # East German Confederation
+ PRS_lander_ADJ: "Восточно-немецкий" # East German
+ PRS_lander_DEF: "Восточногерманская Конфедерация" # the East German Confederation
+
+ BAY_lander: "Южно-Германская Конфедерация" # South German Confederation
+ BAY_lander_ADJ: "Южно-немецкий" # South German
+ BAY_lander_DEF: "Южно-Германская Конфедерация" # the South German Confederation
+
+### Focus Names + Descriptions(and whatever else is here)
+
+ GRU_the_new_confederation: "Новая Конфедерация" # The New Confederation
+ GRU_the_new_confederation_desc: ""
+
+# Generic tree
+
+ GRU_autonomy_for_states: "Автономия штатов" # Autonomy for the States
+ GRU_autonomy_for_states_desc: ""
+
+ GRU_rebuild_army: "[ROOT.GetAdjectiveCap] Ландвер" # quick note, should need dynamic = yes for this focus name to work(I think?) # The [ROOT.GetAdjectiveCap] Landwehr
+ GRU_rebuild_army_desc: ""
+
+ GRU_joint_training_development: "Совместное военное развитие" # Joint Military Development
+ GRU_joint_training_development_desc: ""
+
+ GRU_fortify_the_borders: "Укрепите границы Германии" # Fortify Germany's Borders
+ GRU_fortify_the_borders_desc: ""
+
+ GRU_break_prussian_hold: "Сломить централистский призрак" # Break the Centralist Ghost
+ GRU_break_prussian_hold_desc: ""
+
+ GRU_reform_rail: "Реформа железных дорог" # Reform the Railways
+ GRU_reform_rail_desc: ""
+
+ GRU_militarisation_question: "Вопрос о милитаризации" # The Question of Militarisation
+ GRU_militarisation_question_desc: ""
+
+ GRU_joint_economic_planning_council: "Координировать экономические вопросы" # Coordinate Economic Matters
+ GRU_joint_economic_planning_council_desc: ""
+ GRU_joint_economic_planning_council_tt: "£decision_icon_small §YРешения§! относительно предоставленной §cэкономической помощи§! нашим союзникам будут §Yразблокированы§!" # £decision_icon_small  §YDecisions§! concerning provided §ceconomic assistance§! to our allies will be §Yunlocked§!
+
+# north germany(NGF)
+ GRU_north_german_union: "Чтобы начать и закончить" # Suscipere et Finire
+ GRU_north_german_union_desc: ""
+
+ GRU_beyond_the_guelphs: "За пределами гвельфов" # Beyond the Guelphs
+ GRU_beyond_the_guelphs_desc: ""
+
+ GRU_work_with_city_states: "Работа с городом-государством" # Work with the City States
+ GRU_work_with_city_states_desc: ""
+
+ GRU_break_the_valkists: "Сломить валкистов" # Break the Valkists
+ GRU_break_the_valkists_desc: ""
+
+ GRU_the_guelph_tradition: "Традиция гвельфов" # The Guelph Tradition
+ GRU_the_guelph_tradition_desc: ""
+
+ GRU_soft_devalkification: "Валкистский вопрос" # The Valkist Question
+ GRU_soft_devalkification_desc: ""
+
+ GRU_reassure_upper_class: "Успокоить дворянство" # Reassure the Nobility
+ GRU_reassure_upper_class_desc: ""
+
+ GRU_brave_hannover: "Храбрый Ганновер" # Brave Hannover
+ GRU_brave_hannover_desc: ""
+
+ GRU_lower_saxony: "Объявить Нижнюю Саксонию" # Declare Lower Saxony
+ GRU_lower_saxony_desc: ""
+
+# bavaria(BAY)
+ GRU_south_german_union: "Наша родная земля" # Unsere Heimaterde
+ GRU_south_german_union_desc: ""
+
+ GRU_burn_the_cradle: "Сжигание колыбели" # Burning the Cradle
+ GRU_burn_the_cradle_desc: ""
+
+ GRU_appeal_tradition: "Обращение к традиции" # Appeal to Tradition
+ GRU_appeal_tradition_desc: ""
+
+ GRU_south_german_values: "Южногерманские ценности" # South German Values
+ GRU_south_german_values_desc: ""
+
+ GRU_monarchist_referendum: "Монархический референдум?" # A Monarchist Referendum?
+ GRU_monarchist_referendum_desc: ""
+
+ GRU_peace_with_social_democracy: "Укрепить Большую коалицию" # Entrench the Grand Coalition
+ GRU_peace_with_social_democracy_desc: ""
+ GRU_peace_with_social_democracy_tt: "§SСоциал-демократы§! присоединятся к нашему правительству и сформируют §Yкоалицию§!\n\n" # The §SSocial Democrats§! will join our government and form a §Ycoalition§!\n\n
+
+ GRU_educate_former_valkists: "Воспитывать бывших валкистов" # Educate Former Valkists
+ GRU_educate_former_valkists_desc: ""
+
+ GRU_south_german_republic: "Южная Конфедерация" # The Southern Confederation
+ GRU_south_german_republic_desc: ""
+
+# east germany/prussia(PRS)
+ GRU_east_german_union: "Наследие Пруссии" # The Legacy of Prussia
+ GRU_east_german_union_desc: ""
+
+ GRU_destroy_prussian_legacy: "Покончить с пруссачеством" # End Prussianism
+ GRU_destroy_prussian_legacy_desc: ""
+
+ GRU_topple_aristocrats: "Свергнуть аристократов" # Topple Aristocrats
+ GRU_topple_aristocrats_desc: ""
+
+ GRU_grant_polish_autonomy: "Предоставить Польше автономию" # Grant Polish Autonomy
+ GRU_grant_polish_autonomy_desc: ""
+
+ GRU_the_status_of_berlin: "Статус Берлина" # The Status of Berlin
+ GRU_the_status_of_berlin_desc: ""
+
+ GRU_inheritors_of_prussia: "Защитите прусское наследие" # Protect the Prussian Legacy
+ GRU_inheritors_of_prussia_desc: ""
+
+ GRU_assert_prussian_nature: "Утвердить прусское наследие" # Assert Prussian Heritage
+ GRU_assert_prussian_nature_desc: ""
+
+ GRU_eastern_watch: "Восточная граница" # The Eastern Frontier
+ GRU_eastern_watch_desc: ""
+
+
+ GRU_help_integrate_state: "Помощь [FROM.owner.GetNameDef] в интеграции [FROM.GetName]" # Aid [FROM.owner.GetNameDef] in [FROM.GetName]'s Integration
+
+ GRU_trigger_lander: "Является §YLänder§! §YНемецкого Союза§!" # Is a §YLänder§! of the §YGerman Union§!
+
+ GRU_zollverein_spirit: "Возрожденная Конфедерация" # The Reborn Confederation
+ GRU_radio: "Союзная радиовещательная корпорация" # Union Broadcasting Corporation
+ GRU_bundesrat: "Федеральный совет" # Bundesrat
+ GRU_court: "Федеральный суд" # Bundesgericht
+ GRU_national_army: "Временная военная поддержка" # Provisional Military Support
+ GRU_lander_military_help: "Приоритетная помощь производству" # Prioritized Manufacturing Aid
+ GRU_lander_civilian_help: "Приоритетная экономическая помощь" # Prioritized Economic Aid
+ GRU_crisis_leader: "Исполнительные полномочия в кризисных ситуациях" # Executive Crisis Powers
+ GRU_under_bundesexekution: "Под федеральным контролем" # Under Federal Control
+ GRU_landergewerkschaften: "[ROOT.GetAdjectiveCap] Союзы штатов" # [ROOT.GetAdjectiveCap] Landergewerkschaften
+ GRU_transition_banking: "Банковская реформа" # Banking Reform
+ GRU_local_banking: "Реформированная немецкая банковская система" # Reformed German Banking
+ GRU_transition_banking_tt: "§OПосле истечения срока действия этого духа мы получим следующее:§!" # §OOnce this spirit expires, we will receive the following:§!
+ GRU_zentralbehorde: "Федеральный центральный орган власти" # Bundeszentralbehörde
+ RHI_GRU_law_code: "Кодекс Федерального Закона" # Federal Law Code
+ RHI_GRU_law_code_upgraded: "$RHI_GRU_law_code$" # $RHI_GRU_law_code$
+
+ PRS_zol_trade: "[PRS.GetNameDef] Членство в Zollverein" # [PRS.GetNameDef] Membership in the Zollverein
+ NGF_zol_trade: "[NGF.GetNameDef] Членство в Zollverein" # [NGF.GetNameDef] Membership in the Zollverein
+ BAY_zol_trade: "[BAY.GetNameDef] Членство в Zollverein" # [BAY.GetNameDef] Membership in the Zollverein
+ RHI_zol_trade: "[RHI.GetNameDef] Членство в Zollverein" # [RHI.GetNameDef] Membership in the Zollverein
+
+ GRU_decision_cat: "Дела Союза" # Affairs of the Union
+
+ GRU_bundesexekution: "Федеральное исполнение в [FROM.GetNameDef]" # Bundesexekution in [FROM.GetNameDef]
+
+ GRU_aid_lander_civilian: "Приоритизация роста в [FROM.GetNameDef]" # Prioritize Growth in [FROM.GetNameDef]
+ GRU_already_aiding_civ: "Мы еще не уделяем приоритетное внимание гражданской помощи другим землям" # We are not already prioritizing civilian aid for another Länder
+
+ GRU_aid_lander_military: "Расставьте приоритеты производства в [FROM.GetNameDef]" # Prioritize Manufacturing in [FROM.GetNameDef]
+ GRU_already_aiding_mil: "Мы еще не отдаем приоритет военной помощи другим землям" # We are not already prioritizing military aid for another Länder
+
+ GRU_alpine_defense: "Альпийская оборона" # Alpine Defense
+ GRU_defend_frontier: "Укрепить [FROM.GetName]" # Fortify [FROM.GetName]
+ GRU_fortify_kiel: "Безопасный [FROM.GetName]" # Secure [FROM.GetName]
+
+### Ideas
+
+ GRU_guelph_tradition: "Гвельфийская традиция" # Guelph Tradition
+ GRU_decentralized_autonomy: "Политика децентрализации" # Decentralization Policy
+ GRU_regional_militias: "Региональные ополчения" # Regional Militias
+ GRU_fort_construction: "Пограничные проекты" # Border Projects
+ GRU_unified_command_doctrine: "Доктрина единого командования" # Unified Command Doctrine
+ GRU_devalkification: "Программы девалкификации" # Devalkification Programs
+ GRU_devalkification_finished: "Девалькификация завершена" # Devalkification Finished
+ GRU_prussian_heritage: "Прусское наследие" # Prussian Heritage
+
+### Dynamic Modifiers
+ GRU_state_autonomy: "Местная автономия городов-государств" # Local Autonomy for City-States
+ GRU_polish_autonomy: "Польская автономия" # Polish Autonomy
+
+### Decisions
+ GRU_economic_assistance: "Экономическая помощь [From.GetName]" # Economic Assistance to [From.GetName]
+ GRU_eastern_watch_cat: "Защита восточной границы" # Protecting the Eastern Frontier
+ GRU_east_prussian_forts: "Построить укрепления в Восточной Пруссии" # Construct Fortifications in East Prussia
+ GRU_west_prussian_forts: "Построить укрепления в Западной Пруссии" # Construct Fortifications in West Prussia
+ GRU_silesian_forts: "Построить укрепления в Силезии" # Construct Fortifications in Silesia
+
+### Events
+ gerunion.2.t: "[From.GetName] оказывает экономическую помощь" # [From.GetName] Provides Economic Assistance
+ gerunion.2.d: "Поскольку мы состоим в союзе, наш долг — поддерживать друг друга в меру своих возможностей. Поскольку в настоящее время мы находимся в нежизнеспособном экономическом положении, [FROM.GetNameDef] к счастью обратился к нам и предоставил нам экономическую помощь в трудные времена." # As we are in a union, it is our duty to support each other to the best of our abilities. As we are currently in an unviable economic position, [FROM.GetNameDef] has thankfully reached out to grant us economic assistance in our times of need.
+ gerunion.2.a: "За немецкое братство!" # To German brotherhood!
+
+ gerunion.3.t: "Вопрос милитаризации" # Militarization Question
+ gerunion.3.d: "После поражения милитаристского и злобного прусского рейха многие думали, что мы освободимся от угрозы войны. Однако теперь на горизонте встал вопрос о ремилитаризации. Поскольку во всем мире все еще царят беспорядки, многие задаются вопросом, не пришло ли время нам провести ремилитаризацию, чтобы обезопасить себя." # With the defeat of the militaristic and evil Prussian Reich, many had thought that we would be free from the menace of war. Now however, the question of remilitarization has come onto the horizon. With turmoil still prevailing worldwide, many wonder if it is time that we remilitarize in order to secure ourselves.
+ gerunion.3.a: "Да, время пришло!" # Yes, the time is now!
+ gerunion.3.b: "Нет, мир восторжествует!" # No - peace shall triumph!
+
+ gerunion.4.t: "Девалькификация" # Devalkification
+ gerunion.4.d: "Вопрос валкизма и его сохраняющихся элементов не дает покоя нашему правительству. Хоть мы и свободны, многие все еще ошибочно цепляются за идею валкизма. С этим необходимо разобраться, хотя мы можем выбирать: быть суровыми или добрыми." # The matter of Valkism and its lingering elements is one that haunts our government. While we may be free, many still mistakenly cling to the idea of Valkism. This must be dealt with, although we can choose to be harsh or to be kind.
+ gerunion.4.a: "Милосердие - это добродетель..." # Mercy is a virtue...
+ gerunion.4.b: "...что мы не будем осуществлять." # ...that we shall not exercise.
+
+ gerunion.5.t: "Монархия?" # The Monarchy?
+ gerunion.5.d: "Дом Виттельсбахов всегда был знаменитостью Баварии и символом южногерманского сопротивления централизации прусских тенденций. Сейчас раздаются призывы к созданию южногерманской монархии, чтобы укрепить нашу южногерманскую идентичность – хотя, естественно, это будет происходить посредством демократического референдума." # The House of Wittelsbach have always been celebrities of Bavaria and a symbol of South German resistance to centralizing Prussian tendencies. There are now calls for a South German monarchy to solidify our South German identity - though naturally it will be via democratic referendum.
+ gerunion.5.a: "Вреда нет." # There is no harm.
+ gerunion.5.b: "Нет!" # No!
+
+ gerunion.6.t: "Монархический референдум" # The Monarchist Referendum
+ gerunion.6.d: "Когда кампания за восстановление дома Виттельсбахов завершается, многие ждут с головокружительным волнением и огромной тревогой перспективу возвращения монархии. Голосует ли народ за восстановление монархии?" # As campaigning for whether the House of Wittelsbach is to be restored wraps up, many await with both giddy excitement and ample anxiety at the prospect of a monarchist return. Do the people vote to restore the monarchy?
+ gerunion.6.a: "Народ голосует за Рупрехта!" # The people vote for Rupprecht!
+ gerunion.6.b: "Народ голосует за Республику!" # The people vote for the Republic!
+
+ gerunion.7.t: "Статус Берлина" # Status of Berlin
+ gerunion.7.d: "Берлин — особый город в Германии, резиденция власти как старого Кайзеррайха, так и последующей республики. Это было место, где весь мир стал свидетелем прихода к власти Дресслера. Некоторые считают, что он не заслуживает никакой автономии, поскольку это просто еще одна часть государства, хотя другие утверждают, что мы должны проявить более легкую позицию, в отличие от пруссаков, которые были до нас." # Berlin is a special city within Germany, as the seat of power of both the old Kaiserreich and the republic that came after. It was the site at which the whole world bore witness to Dressler’s rise to power. Some believe that it does not deserve any autonomy as it is simply another part of the state, although others urge that we must take a lighter hand unlike the Prussians that precede us.
+ gerunion.7.a: "Предоставьте им автономию" # Grant them autonomy
+ gerunion.7.b: "В этом нет необходимости." # There is no need for such a thing.
+
+
+### Tooltip
+ GRU_BAY_monarchist_referendum_will_be_held_tt: "§YМы будем готовиться к монархическому референдуму, который состоится через три месяца.§!" # §YWe will prepare for a monarchist referendum, which is scheduled to take place in three months.§!
+ GRU_BAY_rupprecht_is_king_tt: "§G$BAY_Rupprecht_von_Bayern$§! будет коронован королем §Y[Root.GetName]§!" # §G$BAY_Rupprecht_von_Bayern$§! will be crowned king of the §Y[Root.GetName]§!

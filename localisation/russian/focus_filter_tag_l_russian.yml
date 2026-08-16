@@ -3,7 +3,7 @@
  FOCUS_FILTER_POLITICAL: "Политика"
  FOCUS_FILTER_RESEARCH: "Исследования"
  FOCUS_FILTER_INDUSTRY: "Промышленность"
- FOCUS_FILTER_REARMAMENT: "Rearmament" #NT!
+ FOCUS_FILTER_REARMAMENT: "Перевооружение"
  FOCUS_FILTER_STABILITY: "Стабильность"
  FOCUS_FILTER_WAR_SUPPORT: "Поддержка войны"
  FOCUS_FILTER_MANPOWER: "Людские ресурсы"
@@ -18,5 +18,5 @@
  FOCUS_FILTER_POLITICAL_CHARACTER: "Политический персонаж"
  FOCUS_FILTER_MILITARY_CHARACTER: "Военный персонаж"
  FOCUS_FILTER_INTERNATIONAL_TRADE: "Международная торговля"
- FOCUS_FILTER_ECONOMIC_RECOVERY: "Economic Recovery" #NT!
+ FOCUS_FILTER_ECONOMIC_RECOVERY: "Восстановление экономики"
  FOCUS_FILTER_COMPLETED_BY_EVENT: "Завершенные события"

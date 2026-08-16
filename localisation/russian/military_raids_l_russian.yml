@@ -12,11 +12,11 @@
  raid_category_header_paratrooper_raids: "Десантные налеты"
  raid_category_header_naval_commando_raids: "Морские налеты"
  raid_category_header_land_infiltration_raids: "Наземные налеты"
- tooltip_raid_category_air_raids: "§HAir Bombing raids§!\nAir strikes by a single air wing aimed at striking a specific target." #NT!
- tooltip_raid_category_nuclear_raids: "§HNuclear raids§!\nStrikes carried out by strategic bombers or ballistic missiles carrying nuclear weapons." #NT!
- tooltip_raid_category_paratrooper_raids: "§HParatrooper raids§!\nSmall scale raids performed by Paradropping special forces dropping behind enemy lines, to conduct dangerous sabotage missions." #NT!
- tooltip_raid_category_naval_commando_raids: "§HMarine Commandos raids§!\nSmall scale raids performed by Marines on coastal areas, using small speedboats and similar equipment to make a quick strike and then disappear before the enemy has time to react." #NT!
- tooltip_raid_category_land_infiltration_raids: "§HLand raids§! \nSmall scale raids performed by land forces behind enemy lines, using stealth and subterfudge to conduct quick hit and run tactics." #NT!
+ tooltip_raid_category_air_raids: "§HБомбардировочные налеты§! \nВоздушные удары одного авиакрыла, направленные на поражение конкретной цели."
+ tooltip_raid_category_nuclear_raids: "§HЯдерные налёты§! \nУдары с использованием стратегических бомбардировщиков или баллистических ракет, несущих ядерный заряд."
+ tooltip_raid_category_paratrooper_raids: "§HДесантные налеты§! \nНебольшие рейды, проводимые парашютно-десантными подразделениями специального назначения, высаживающимися в тылу противника для выполнения опасных диверсионных заданий."
+ tooltip_raid_category_naval_commando_raids: "§HРейды коммандос§! \nМелкие рейды в прибрежных провинциях силами легковооруженных отрядов коммандос морской пехоты на быстроходных катерах с целью нанести внезапный удар и скрыться до подхода основных сил противника."
+ tooltip_raid_category_land_infiltration_raids: "§HСухопутные рейды§! \nМелкие рейды, выполняемые сухопутными силами с целью незаметно проникнуть в тыл противника, нанести удар и скрыться."
  tooltip_launch_all_button_first: "§GЩелкните§!, чтобы начать все подготовленные налёты"
  tooltip_launch_all_button_second: "Кол-во подготовленных налётов: $NUM|H$"
  tooltip_launch_button_enabled: "§GЩелкните§!, чтобы начать рейд"
@@ -48,12 +48,12 @@
  raid_type_mega_gun_emplacement_strike_no_bba_desc: "$raid_type_mega_gun_emplacement_strike_desc$"
   
  raid_type_oilfield_raid: "Налет на месторождение нефти"
- raid_type_oilfield_raid_desc: "An Airstrike aimed at knocking a major oil field and it's connected Refineries out, in order to seriously disrupt enemy fuel production for an extended period of time." #NT!
+ raid_type_oilfield_raid_desc: "Авиаудар, направленный на выведение из строя крупного нефтяного месторождения и связанных с ним нефтеперерабатывающих заводов, с целью серьезно нарушить процесс производства топлива противником на длительный период времени."
  raid_type_nuclear_strike: "Ядерный удар"
  raid_type_nuclear_strike_desc: "Стратегический бомбардировщик и сопровождающие его самолеты полетят к указанной цели и сбросят атомную бомбу. Затем бомбардировщик попытается покинуть зону, чтобы не попасть под ударную волну."
  raid_type_nuclear_missile_strike: "Ракетно-ядерный удар"
  raid_type_nuclear_missile_strike_desc: "Ракета большой дальности пролетит по суборбитальной баллистической траектории от назначенного места запуска к намеченной цели. В подходящий момент боеголовка на ее борту произведет атомный взрыв."
- raid_type_nuclear_missile_strike_submarine: "$raid_type_nuclear_missile_strike$" #NT!
+ raid_type_nuclear_missile_strike_submarine: "Подводная лодка: $raid_type_nuclear_missile_strike$"
  raid_type_nuclear_missile_strike_submarine_desc: "$raid_type_nuclear_missile_strike_desc$"
  raid_type_paratrooper_facility_sabotage: "Налет с саботажем комплекса"
  raid_type_paratrooper_facility_sabotage_desc: "Отряд парашютистов высадится у вражеского комплекса и попытается уничтожить важное оборудование с помощью взрывчатки, чтобы замедлить научные разработки противника."
@@ -72,7 +72,7 @@
  raid_type_thermonuclear_strike_desc: "Стратегический бомбардировщик и сопровождающие его самолеты полетят к указанной цели и сбросят термоядерную бомбу. Затем бомбардировщик попытается покинуть зону, чтобы не попасть под ударную волну."
  raid_type_thermonuclear_missile_strike: "Термоядерный ракетный удар"
  raid_type_thermonuclear_missile_strike_desc: "Ракета большой дальности пролетит по суборбитальной баллистической траектории от назначенного места запуска к намеченной цели. В подходящий момент боеголовка на ее борту произведет термоядерный взрыв."
- raid_type_thermonuclear_missile_strike_submarine: "$raid_type_thermonuclear_missile_strike$" #NT!
+ raid_type_thermonuclear_missile_strike_submarine: "Подводная лодка: $raid_type_thermonuclear_missile_strike$"
  raid_type_thermonuclear_missile_strike_submarine_desc: "$raid_type_thermonuclear_missile_strike_desc$"
  raid_type_CHI_huansheng_raid: "Операция «Хуаньшэн»"
  raid_type_CHI_huansheng_raid_desc: "Наша разведка сообщает, что сталелитейные заводы в Явате и военно-морской арсенал в Сасебо являются важными целями, однако в данный момент наши ВВС не способны нанести им серьезный ущерб. Вместо этого мы можем попытаться остановить войну, рассказав японскому народу о зверствах, совершаемых Императорской армией в Китае. Наиболее эффективный способ этого добиться — сбросить антивоенные листовки над такими крупными японскими городами, как Нагасаки, Фукуока, Сага и Осака."
@@ -152,8 +152,8 @@
  EFFECT_RAID_GIVE_UNIT_EXPERIENCE: "Участник налета получает $VAL|H0%$ ед. опыта, приближаясь к максимальному уровню."
  EFFECT_RAID_DAMAGE_UNIT_STRENGTH: "Участники налета получают §R$VAL|0$§! ед. урона"
  EFFECT_RAID_DAMAGE_UNIT_STRENGTH_RATIO: "Участники налета получают §R$VAL|%0$§! урона"
- EFFECT_RAID_DAMAGE_UNIT_ORG: "Raid units lose §R$VAL|0$§! organisation" #NT!
- EFFECT_RAID_DAMAGE_UNIT_ORG_RATIO: "Raid units lose §R$VAL|%0$§! organisation" #NT!
+ EFFECT_RAID_DAMAGE_UNIT_ORG: "Участники налета теряют §R$VAL|0$§! ед. организации"
+ EFFECT_RAID_DAMAGE_UNIT_ORG_RATIO: "Участники налета теряют §R$VAL|%0$§! организации"
  EFFECT_RAID_DAMAGE_UNIT_STRENGTH_ORG: "Участник рейда получает §R$STR_VAL|0$§! ед. урона и теряет §R$ORG_VAL|0$§! ед. организации."
  EFFECT_RAID_DAMAGE_UNIT_STRENGTH_ORG_RATIO: "Участник рейда получает §R$STR_VAL|%0$§! урона и теряет §R$ORG_VAL|%0$§! организации."
  EFFECT_RAID_DAMAGE_PLANE: "Потерянные самолеты: §R$VAL|0$§!"
@@ -214,7 +214,7 @@
  dud_missile_tt: "Ракета не взорвалась"
  missile_hit_wrong_target_tt: "Ракета попала не в ту цель"
  raid_nuclear_strike_tt: "Поражено ядерным ударом"
- raid_nuclear_secondary_target_tt: "Failed to properly hit intented target" #NT!
+ raid_nuclear_secondary_target_tt: "Не удалось полноценно поразить цель"
   
  raid_repair_speed_tt: "[THIS.GETName]: скорость ремонта кораблей снижена на 30 дней"
  raid_damage_to_ships_tt: "Все корабли в порту получают §R$DAMAGE$%§! ед. урона"
@@ -362,7 +362,7 @@
  raid_canceled_title: "Рейд отменен"
  raid_canceled_cannot_unassign_unit: "$UNIT|H$ в настоящее время выполняет другие приказы и не может принять участие в этом задании.\n\nЗадание отменено: $RAID|H$."
  raid_canceled_cannot_reach_source: "Подразделению «$UNIT|H$» не удалось добраться до точки назначения: $SOURCE$.\n\nЗадание отменено: $RAID|H$."
- raid_canceled_source_moved_out_of_range: "$SOURCE|H$ was moved out of range of its raid target.\n\n$RAID|H$ has been canceled." #NT!
+ raid_canceled_source_moved_out_of_range: "$SOURCE|H$ теперь находится вне зоны досягаемости цели рейда. \n\nЗадание отменено: $RAID|H$."
  raid_canceled_no_unit: "Подразделение, назначенное на задание «$RAID|H$», больше не существует."
   
  raid_unit_not_yet_at_source: "$UNIT|H$ направляется в точку назначения: $SOURCE$."
@@ -370,7 +370,7 @@
  nuclear_bomb: "Атомная бомба"
  thermonuclear_bomb: "Термоядерная бомба"
   
- raid_target_name_probe_defenses: "Defences in $LOCATION|H$" #NT!
+ raid_target_name_probe_defenses: "Укрепления в регионе $LOCATION|H$"
  raid_target_name_victory_point: "$VICTORY_POINT|H$"
  raid_target_name_mine: "£resources_strip|5 §HШахта§! в регионе $LOCATION|H$"
  raid_target_name_oil_field: "£resources_strip|1 §HМесторождение нефти§! в регионе $LOCATION|H$"

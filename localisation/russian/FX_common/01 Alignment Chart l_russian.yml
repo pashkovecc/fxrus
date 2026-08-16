@@ -1,9 +1,9 @@
 ﻿l_russian:
- chart_button_label: "Alignment Chart" #NT!
+ chart_button_label: "Диаграмма идеологий" #NT!
   
  flag_alignment_tip: "[THIS.GetName]" #NT!
   
- main_factions_tip: "Ruling Party: [THIS.GetRulingParty]\nParty's Ideology: [THIS.GetRulingIdeology]\nParty's Support: [THIS.GetPartySupport]%" #NT!
+ main_factions_tip: "Правящая партия: [THIS.GetRulingParty]\nИдеология партии: [THIS.GetRulingIdeology]\nПоддержка партии: [THIS.GetPartySupport]%" #NT!
   
  ideology_tip: "[THIS.GetRulingIdeology]" #NT!
   

@@ -11,7 +11,7 @@
  STATE_BUILDING_SOME_KNOWN_FACTORIES: "По данным разведки, в этом регионе — как минимум $AMOUNT|H$ фабрик(и)"
  STATE_CONVERT_BUILDING: "Преобразовать $FACTOR|H$ ед. сооружений $BUILDING_FROM$ в §H1§! сооружение $BUILDING_TO$."
  STATE_CONTROLLER: "Контролирующее государство: @$TAG$$COUNTRY|H$"
- STATE_CONTROLLER_DELAYED: "§GClick to open up Diplomacy.§!" #NT!
+ STATE_CONTROLLER_DELAYED: "§GЩелкните, чтобы открыть дипломатию.§!"
  STATE_OWNER: "Владелец: @$TAG$$COUNTRY|H$"
  STATE_OWNER_CORE: "§GНациональная территория§!"
  STATE_OWNER_NON_CORE: "§YКолония§!"
@@ -24,7 +24,7 @@
  STATE_CONTESTED_OWNER: "§T$COUNTRY|H$ — оспариваемый владелец региона $STATE|H$.§!"
  STATE_POPULATION: "§HПризывники§!: $AVAIL|*Y$/$MAXAVAIL|*Y$\n§HГражданское население§!: $LOCKED|*Y$/$MAXLOCKED|*Y$\n"
  MONTHLY_BASE_GROWTH: "Базовое значение: $VALUE|H%2$"
- STATE_POPULATION_GROWTH: "§HMonthly growth§!: $VALUE|%2$ ( $AVAIL|*+$ recruitable, $LOCKED|*+$ civilian )" #NT!
+ STATE_POPULATION_GROWTH: "§HЕжемесячный рост§!: $VALUE|%2$ ( $AVAIL|*+$ призывников, $LOCKED|*+$ гражданских )"
  LOCAL_MANPOWER_ACCESSIBLE_FACTOR: "Базовое значение годных к несению службы: §R-$VAL|%$§!"
  LOCAL_MANPOWER_ACCESSIBLE_NON_CORE_FACTOR: "Базовое значение годных к несению службы (не национальная территория): §R-$VAL|%$§!"
  LOCAL_MANPOWER_ACCESSIBLE_NON_CORE_TOTAL: "Общее значение годных к несению службы (не национальная территория): §R-$VAL|%$§!"
@@ -49,20 +49,20 @@
  PROVINCE_STATE_CATERGORY_TOOLTIP: "Категория: $CATEGORY|Y$"
  PROVINCE_STATE_IMPASSABLE: "Непроходимо: §Rвойскам вход запрещен§!"
  wasteland: "Пустошь"
- six: "Urban Region" #NT!
- eight: "Dense Urban Region" #NT!
- ten: "Metropolis Region" #NT!
+ six: "Городской регион"
+ eight: "Густонаселенный городской регион"
+ ten: "Регион мегаполиса"
  megalopolis: "Мегалополис"
- four: "Dense Rural Region" #NT!
- five: "Sparse Urban Region" #NT!
- two: "Rural Region" #NT!
+ four: "Густонаселенный сельский регион"
+ five: "Малонаселенный городской регион"
+ two: "Сельский регион"
  enclave: "Анклав"
  small_island: "Маленький остров"
  tiny_island: "Крохотный остров"
- one: "Pastoral Region" #NT!
- three: "Developed Rural Region" #NT!
- major_port: "Major Treaty Port" #NT!
- port: "Minor Treaty Port" #NT!
+ one: "Пасторальный регион"
+ three: "Развитый сельский регион"
+ major_port: "Крупный договорной порт"
+ port: "Малый договорной порт"
  STATE_CATEGORY_twelve: "$twelve$" #NT!
  STATE_CATEGORY_eleven: "$eleven$" #NT!
  STATE_CATEGORY_ten: "$ten$" #NT!

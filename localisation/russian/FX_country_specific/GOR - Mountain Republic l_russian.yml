@@ -1,99 +1,99 @@
 ﻿l_russian:
-  
- ### Country Names 
- GOR_vanguardist: "Mountain People's Republic" #NT!
- GOR_vanguardist_ADJ: "North Caucasian" #NT!
- GOR_vanguardist_DEF: "the Mountain People's Republic" #NT!
- GOR_collectivist: "Mountain People's Republic" #NT!
- GOR_collectivist_ADJ: "North Caucasian" #NT!
- GOR_collectivist_DEF: "the Mountain People's Republic" #NT!
- GOR_libertarian_socialist: "Mountain SR" #NT!
- GOR_libertarian_socialist_ADJ: "North Caucasian" #NT!
- GOR_libertarian_socialist_DEF: "the Mountain Socialist Republic" #NT!
- GOR_social_democrat: "Mountain Republic" #NT!
- GOR_social_democrat_ADJ: "North Caucasian" #NT!
- GOR_social_democrat_DEF: "the Mountainous Republic of the Northern Caucasus" #NT!
- GOR_social_liberal: "Mountain Republic" #NT!
- GOR_social_liberal_ADJ: "North Caucasian" #NT!
- GOR_social_liberal_DEF: "the Mountainous Republic of the Northern Caucasus" #NT!
- GOR_market_liberal: "Mountain Republic" #NT!
- GOR_market_liberal_ADJ: "North Caucasian" #NT!
- GOR_market_liberal_DEF: "the Mountainous Republic of the Northern Caucasus" #NT!
- GOR_social_conservative: "Mountain Republic" #NT!
- GOR_social_conservative_ADJ: "North Caucasian" #NT!
- GOR_social_conservative_DEF: "the Mountainous Republic of the Northern Caucasus" #NT!
- GOR_authoritarian_democrat: "Mountain Republic" #NT!
- GOR_authoritarian_democrat_ADJ: "North Caucasian" #NT!
- GOR_authoritarian_democrat_DEF: "the Mountainous Republic of the Northern Caucasus" #NT!
- GOR_paternal_autocrat: "Mountain Republic" #NT!
- GOR_paternal_autocrat_ADJ: "North Caucasian" #NT!
- GOR_paternal_autocrat_DEF: "the Mountainous Republic of the Northern Caucasus" #NT!
- GOR_national_populist: "Mountain Republic" #NT!
- GOR_national_populist_ADJ: "North Caucasian" #NT!
- GOR_national_populist_DEF: "the Mountainous Republic of the Northern Caucasus" #NT!
- GOR_valkist: "Mountain Republic" #NT!
- GOR_valkist_ADJ: "North Caucasian" #NT!
- GOR_valkist_DEF: "the Mountainous Republic of the Northern Caucasus" #NT!
-  
- GOR_IND_vanguardist: "Mountain People's Republic" #NT!
- GOR_IND_vanguardist_ADJ: "North Caucasian" #NT!
- GOR_IND_vanguardist_DEF: "the Mountain People's Republic" #NT!
- GOR_IND_collectivist: "Mountain People's Republic" #NT!
- GOR_IND_collectivist_ADJ: "North Caucasian" #NT!
- GOR_IND_collectivist_DEF: "the Mountain People's Republic" #NT!
- GOR_IND_libertarian_socialist: "Mountain SR" #NT!
- GOR_IND_libertarian_socialist_ADJ: "North Caucasian" #NT!
- GOR_IND_libertarian_socialist_DEF: "the Mountain Socialist Republic" #NT!
- GOR_IND_social_democrat: "Mountain Republic" #NT!
- GOR_IND_social_democrat_ADJ: "North Caucasian" #NT!
- GOR_IND_social_democrat_DEF: "the Mountain Republic" #NT!
- GOR_IND_social_liberal: "Mountain Republic" #NT!
- GOR_IND_social_liberal_ADJ: "North Caucasian" #NT!
- GOR_IND_social_liberal_DEF: "the Mountain Republic" #NT!
- GOR_IND_market_liberal: "Mountain Republic" #NT!
- GOR_IND_market_liberal_ADJ: "North Caucasian" #NT!
- GOR_IND_market_liberal_DEF: "the Mountain Republic" #NT!
- GOR_IND_social_conservative: "Mountain Republic" #NT!
- GOR_IND_social_conservative_ADJ: "North Caucasian" #NT!
- GOR_IND_social_conservative_DEF: "the Mountain Republic" #NT!
- GOR_IND_authoritarian_democrat: "Mountain Republic" #NT!
- GOR_IND_authoritarian_democrat_ADJ: "North Caucasian" #NT!
- GOR_IND_authoritarian_democrat_DEF: "the Mountain Republic" #NT!
- GOR_IND_paternal_autocrat: "Mountain Republic" #NT!
- GOR_IND_paternal_autocrat_ADJ: "North Caucasian" #NT!
- GOR_IND_paternal_autocrat_DEF: "the Mountain Republic" #NT!
- GOR_IND_national_populist: "Mountain Republic" #NT!
- GOR_IND_national_populist_ADJ: "North Caucasian" #NT!
- GOR_IND_national_populist_DEF: "the Mountain Republic" #NT!
- GOR_IND_valkist: "Mountain Republic" #NT!
- GOR_IND_valkist_ADJ: "North Caucasian" #NT!
- GOR_IND_valkist_DEF: "the Mountain Republic" #NT!
-  
- GOR_SOV_subject: "Mountain Soviet Republic" #NT!
- GOR_SOV_subject_DEF: "the Mountain Soviet Socialist Republic" #NT!
- GOR_SOV_subject_ADJ: "North Caucasian" #NT!
-  
- ### Parties 
- GOR_vanguardist_party: "OKSP" #NT!
- GOR_vanguardist_party_long: "Ob'yedinionniy Komitet Sotsialisticheskikh Partiy" #NT!
- GOR_collectivist_party: "OKSP" #NT!
- GOR_collectivist_party_long: "Ob'yedinionniy Komitet Sotsialisticheskikh Partiy" #NT!
- GOR_libertarian_socialist_party: "OKSP" #NT!
- GOR_libertarian_socialist_party_long: "Ob'yedinionniy Komitet Sotsialisticheskikh Partiy" #NT!
- GOR_social_democrat_party: "SOG" #NT!
- GOR_social_democrat_party_long: "Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)" #NT!
- GOR_social_liberal_party: "SOG" #NT!
- GOR_social_liberal_party_long: "Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)" #NT!
- GOR_market_liberal_party: "SOG" #NT!
- GOR_market_liberal_party_long: "Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)" #NT!
- GOR_social_conservative_party: "SOG" #NT!
- GOR_social_conservative_party_long: "Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)" #NT!
- GOR_authoritarian_democrat_party: "Chechen Elites" #NT!
- GOR_authoritarian_democrat_party_long: "Chechen Elites" #NT!
- GOR_paternal_autocrat_party: "Shamkhal Council" #NT!
- GOR_paternal_autocrat_party_long: "Shamkhal Council" #NT!
- GOR_national_populist_party: "Dukhovny Sovet" #NT!
- GOR_national_populist_party_long: "Spiritual Council of the North Caucasus" #NT!
-  
- GOR_Sakhanjeri_Mamsurov: "Sakhanjeri Mamsurov" #NT!
- GOR_Said_Shamil: "Said Shamil" #NT!
+
+### Country Names
+ GOR_vanguardist: "Горная Народная Республика" # Mountain People's Republic
+ GOR_vanguardist_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_vanguardist_DEF: "Горская Народная Республика" # the Mountain People's Republic
+ GOR_collectivist: "Горная Народная Республика" # Mountain People's Republic
+ GOR_collectivist_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_collectivist_DEF: "Горская Народная Республика" # the Mountain People's Republic
+ GOR_libertarian_socialist: "Горный СР" # Mountain SR
+ GOR_libertarian_socialist_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_libertarian_socialist_DEF: "Горская Социалистическая Республика" # the Mountain Socialist Republic
+ GOR_social_democrat: "Горная Республика" # Mountain Republic
+ GOR_social_democrat_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_social_democrat_DEF: "Горная Республика Северного Кавказа" # the Mountainous Republic of the Northern Caucasus
+ GOR_social_liberal: "Горная Республика" # Mountain Republic
+ GOR_social_liberal_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_social_liberal_DEF: "Горная Республика Северного Кавказа" # the Mountainous Republic of the Northern Caucasus
+ GOR_market_liberal: "Горная Республика" # Mountain Republic
+ GOR_market_liberal_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_market_liberal_DEF: "Горная Республика Северного Кавказа" # the Mountainous Republic of the Northern Caucasus
+ GOR_social_conservative: "Горная Республика" # Mountain Republic
+ GOR_social_conservative_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_social_conservative_DEF: "Горная Республика Северного Кавказа" # the Mountainous Republic of the Northern Caucasus
+ GOR_authoritarian_democrat: "Горная Республика" # Mountain Republic
+ GOR_authoritarian_democrat_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_authoritarian_democrat_DEF: "Горная Республика Северного Кавказа" # the Mountainous Republic of the Northern Caucasus
+ GOR_paternal_autocrat: "Горная Республика" # Mountain Republic
+ GOR_paternal_autocrat_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_paternal_autocrat_DEF: "Горная Республика Северного Кавказа" # the Mountainous Republic of the Northern Caucasus
+ GOR_national_populist: "Горная Республика" # Mountain Republic
+ GOR_national_populist_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_national_populist_DEF: "Горная Республика Северного Кавказа" # the Mountainous Republic of the Northern Caucasus
+ GOR_valkist: "Горная Республика" # Mountain Republic
+ GOR_valkist_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_valkist_DEF: "Горная Республика Северного Кавказа" # the Mountainous Republic of the Northern Caucasus
+
+ GOR_IND_vanguardist: "Горная Народная Республика" # Mountain People's Republic
+ GOR_IND_vanguardist_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_IND_vanguardist_DEF: "Горская Народная Республика" # the Mountain People's Republic
+ GOR_IND_collectivist: "Горная Народная Республика" # Mountain People's Republic
+ GOR_IND_collectivist_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_IND_collectivist_DEF: "Горская Народная Республика" # the Mountain People's Republic
+ GOR_IND_libertarian_socialist: "Горный СР" # Mountain SR
+ GOR_IND_libertarian_socialist_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_IND_libertarian_socialist_DEF: "Горская Социалистическая Республика" # the Mountain Socialist Republic
+ GOR_IND_social_democrat: "Горная Республика" # Mountain Republic
+ GOR_IND_social_democrat_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_IND_social_democrat_DEF: "Горная Республика" # the Mountain Republic
+ GOR_IND_social_liberal: "Горная Республика" # Mountain Republic
+ GOR_IND_social_liberal_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_IND_social_liberal_DEF: "Горная Республика" # the Mountain Republic
+ GOR_IND_market_liberal: "Горная Республика" # Mountain Republic
+ GOR_IND_market_liberal_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_IND_market_liberal_DEF: "Горная Республика" # the Mountain Republic
+ GOR_IND_social_conservative: "Горная Республика" # Mountain Republic
+ GOR_IND_social_conservative_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_IND_social_conservative_DEF: "Горная Республика" # the Mountain Republic
+ GOR_IND_authoritarian_democrat: "Горная Республика" # Mountain Republic
+ GOR_IND_authoritarian_democrat_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_IND_authoritarian_democrat_DEF: "Горная Республика" # the Mountain Republic
+ GOR_IND_paternal_autocrat: "Горная Республика" # Mountain Republic
+ GOR_IND_paternal_autocrat_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_IND_paternal_autocrat_DEF: "Горная Республика" # the Mountain Republic
+ GOR_IND_national_populist: "Горная Республика" # Mountain Republic
+ GOR_IND_national_populist_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_IND_national_populist_DEF: "Горная Республика" # the Mountain Republic
+ GOR_IND_valkist: "Горная Республика" # Mountain Republic
+ GOR_IND_valkist_ADJ: "Северо-Кавказский" # North Caucasian
+ GOR_IND_valkist_DEF: "Горная Республика" # the Mountain Republic
+
+ GOR_SOV_subject: "Горная Советская Республика" # Mountain Soviet Republic
+ GOR_SOV_subject_DEF: "Горская Советская Социалистическая Республика" # the Mountain Soviet Socialist Republic
+ GOR_SOV_subject_ADJ: "Северо-Кавказский" # North Caucasian
+
+### Parties
+ GOR_vanguardist_party: "ОКСП" # OKSP
+ GOR_vanguardist_party_long: "Ob'yedinionniy Komitet Sotsialisticheskikh Partiy" # Ob'yedinionniy Komitet Sotsialisticheskikh Partiy
+ GOR_collectivist_party: "ОКСП" # OKSP
+ GOR_collectivist_party_long: "Ob'yedinionniy Komitet Sotsialisticheskikh Partiy" # Ob'yedinionniy Komitet Sotsialisticheskikh Partiy
+ GOR_libertarian_socialist_party: "ОКСП" # OKSP
+ GOR_libertarian_socialist_party_long: "Ob'yedinionniy Komitet Sotsialisticheskikh Partiy" # Ob'yedinionniy Komitet Sotsialisticheskikh Partiy
+ GOR_social_democrat_party: "СОГ" # SOG
+ GOR_social_democrat_party_long: "Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)" # Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)
+ GOR_social_liberal_party: "СОГ" # SOG
+ GOR_social_liberal_party_long: "Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)" # Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)
+ GOR_market_liberal_party: "СОГ" # SOG
+ GOR_market_liberal_party_long: "Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)" # Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)
+ GOR_social_conservative_party: "СОГ" # SOG
+ GOR_social_conservative_party_long: "Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)" # Soyuz Ob'yedinnyonykh Gortsev Severnogo Kavkaza i Dagestana (Union of the United Mountainers of North Caucasus and Dagestan)
+ GOR_authoritarian_democrat_party: "Чеченские элиты" # Chechen Elites
+ GOR_authoritarian_democrat_party_long: "Чеченские элиты" # Chechen Elites
+ GOR_paternal_autocrat_party: "Шамхальский Совет" # Shamkhal Council
+ GOR_paternal_autocrat_party_long: "Шамхальский Совет" # Shamkhal Council
+ GOR_national_populist_party: "Dukhovny Sovet" # Dukhovny Sovet
+ GOR_national_populist_party_long: "Духовный совет Северного Кавказа" # Spiritual Council of the North Caucasus
+
+ GOR_Sakhanjeri_Mamsurov: "Саханджери Мамсуров" # Sakhanjeri Mamsurov
+ GOR_Said_Shamil: "Саид Шамиль" # Said Shamil

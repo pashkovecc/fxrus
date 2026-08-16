@@ -5,3 +5,4 @@ tags={
 picture="thumbnail.png"
 name="Führerreich: Русская локализация"
 supported_version="1.19.2.0"
+remote_file_id="3784718705"

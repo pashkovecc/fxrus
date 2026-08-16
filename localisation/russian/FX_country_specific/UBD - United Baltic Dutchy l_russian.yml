@@ -1,36 +1,36 @@
 ﻿l_russian:
-  
- ### Country Names 
- UBD_vanguardist: "Baltic Soviet Republic" #NT!
- UBD_vanguardist_ADJ: "Baltic" #NT!
- UBD_vanguardist_DEF: "the Baltic Soviet Socialist Republic" #NT!
- UBD_collectivist: "Baltic Soviet Republic" #NT!
- UBD_collectivist_ADJ: "Baltic" #NT!
- UBD_collectivist_DEF: "the Baltic Soviet Socialist Republic" #NT!
- UBD_libertarian_socialist: "Baltic Soviet Republic" #NT!
- UBD_libertarian_socialist_ADJ: "Baltic" #NT!
- UBD_libertarian_socialist_DEF: "the Baltic Soviet Socialist Republic" #NT!
- UBD_social_democrat: "United Baltic Duchy" #NT!
- UBD_social_democrat_ADJ: "Baltic" #NT!
- UBD_social_democrat_DEF: "the United Baltic Duchy" #NT!
- UBD_social_liberal: "United Baltic Duchy" #NT!
- UBD_social_liberal_ADJ: "Baltic" #NT!
- UBD_social_liberal_DEF: "the United Baltic Duchy" #NT!
- UBD_market_liberal: "United Baltic Duchy" #NT!
- UBD_market_liberal_ADJ: "Baltic" #NT!
- UBD_market_liberal_DEF: "the United Baltic Duchy" #NT!
- UBD_social_conservative: "United Baltic Duchy" #NT!
- UBD_social_conservative_ADJ: "Baltic" #NT!
- UBD_social_conservative_DEF: "the United Baltic Duchy" #NT!
- UBD_authoritarian_democrat: "United Baltic Duchy" #NT!
- UBD_authoritarian_democrat_ADJ: "Baltic" #NT!
- UBD_authoritarian_democrat_DEF: "the United Baltic Duchy" #NT!
- UBD_paternal_autocrat: "United Baltic Duchy" #NT!
- UBD_paternal_autocrat_ADJ: "Baltic" #NT!
- UBD_paternal_autocrat_DEF: "the United Baltic Duchy" #NT!
- UBD_national_populist: "United Baltic Duchy" #NT!
- UBD_national_populist_ADJ: "Baltic" #NT!
- UBD_national_populist_DEF: "the United Baltic Duchy" #NT!
- UBD_valkist: "United Baltic Duchy" #NT!
- UBD_valkist_ADJ: "Baltic" #NT!
- UBD_valkist_DEF: "the United Baltic Duchy" #NT!
+
+### Country Names
+ UBD_vanguardist: "Балтийская Советская Республика" # Baltic Soviet Republic
+ UBD_vanguardist_ADJ: "Балтика" # Baltic
+ UBD_vanguardist_DEF: "Балтийская Советская Социалистическая Республика" # the Baltic Soviet Socialist Republic
+ UBD_collectivist: "Балтийская Советская Республика" # Baltic Soviet Republic
+ UBD_collectivist_ADJ: "Балтика" # Baltic
+ UBD_collectivist_DEF: "Балтийская Советская Социалистическая Республика" # the Baltic Soviet Socialist Republic
+ UBD_libertarian_socialist: "Балтийская Советская Республика" # Baltic Soviet Republic
+ UBD_libertarian_socialist_ADJ: "Балтика" # Baltic
+ UBD_libertarian_socialist_DEF: "Балтийская Советская Социалистическая Республика" # the Baltic Soviet Socialist Republic
+ UBD_social_democrat: "Объединенное Балтийское Герцогство" # United Baltic Duchy
+ UBD_social_democrat_ADJ: "Балтика" # Baltic
+ UBD_social_democrat_DEF: "Объединенное Балтийское Герцогство" # the United Baltic Duchy
+ UBD_social_liberal: "Объединенное Балтийское Герцогство" # United Baltic Duchy
+ UBD_social_liberal_ADJ: "Балтика" # Baltic
+ UBD_social_liberal_DEF: "Объединенное Балтийское Герцогство" # the United Baltic Duchy
+ UBD_market_liberal: "Объединенное Балтийское Герцогство" # United Baltic Duchy
+ UBD_market_liberal_ADJ: "Балтика" # Baltic
+ UBD_market_liberal_DEF: "Объединенное Балтийское Герцогство" # the United Baltic Duchy
+ UBD_social_conservative: "Объединенное Балтийское Герцогство" # United Baltic Duchy
+ UBD_social_conservative_ADJ: "Балтика" # Baltic
+ UBD_social_conservative_DEF: "Объединенное Балтийское Герцогство" # the United Baltic Duchy
+ UBD_authoritarian_democrat: "Объединенное Балтийское Герцогство" # United Baltic Duchy
+ UBD_authoritarian_democrat_ADJ: "Балтика" # Baltic
+ UBD_authoritarian_democrat_DEF: "Объединенное Балтийское Герцогство" # the United Baltic Duchy
+ UBD_paternal_autocrat: "Объединенное Балтийское Герцогство" # United Baltic Duchy
+ UBD_paternal_autocrat_ADJ: "Балтика" # Baltic
+ UBD_paternal_autocrat_DEF: "Объединенное Балтийское Герцогство" # the United Baltic Duchy
+ UBD_national_populist: "Объединенное Балтийское Герцогство" # United Baltic Duchy
+ UBD_national_populist_ADJ: "Балтика" # Baltic
+ UBD_national_populist_DEF: "Объединенное Балтийское Герцогство" # the United Baltic Duchy
+ UBD_valkist: "Объединенное Балтийское Герцогство" # United Baltic Duchy
+ UBD_valkist_ADJ: "Балтика" # Baltic
+ UBD_valkist_DEF: "Объединенное Балтийское Герцогство" # the United Baltic Duchy

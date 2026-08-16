@@ -1,38 +1,38 @@
 ﻿l_russian:
-  
- ### Country Names 
- RJH_vanguardist: "Rajahstan" #NT!
- RJH_vanguardist_ADJ: "Rajahstani" #NT!
- RJH_vanguardist_DEF: "Rajahstan" #NT!
- RJH_collectivist: "Rajahstan" #NT!
- RJH_collectivist_ADJ: "Rajahstani" #NT!
- RJH_collectivist_DEF: "Rajahstan" #NT!
- RJH_libertarian_socialist: "Rajahstan" #NT!
- RJH_libertarian_socialist_ADJ: "Rajahstani" #NT!
- RJH_libertarian_socialist_DEF: "Rajahstan" #NT!
- RJH_social_democrat: "Rajahstan" #NT!
- RJH_social_democrat_ADJ: "Rajahstani" #NT!
- RJH_social_democrat_DEF: "Rajahstan" #NT!
- RJH_social_liberal: "Rajahstan" #NT!
- RJH_social_liberal_ADJ: "Rajahstani" #NT!
- RJH_social_liberal_DEF: "Rajahstan" #NT!
- RJH_market_liberal: "Rajahstan" #NT!
- RJH_market_liberal_ADJ: "Rajahstani" #NT!
- RJH_market_liberal_DEF: "Rajahstan" #NT!
- RJH_social_conservative: "Rajahstan" #NT!
- RJH_social_conservative_ADJ: "Rajahstani" #NT!
- RJH_social_conservative_DEF: "Rajahstan" #NT!
- RJH_authoritarian_democrat: "Rajahstan" #NT!
- RJH_authoritarian_democrat_ADJ: "Rajahstani" #NT!
- RJH_authoritarian_democrat_DEF: "Rajahstan" #NT!
- RJH_paternal_autocrat: "Rajahstan" #NT!
- RJH_paternal_autocrat_ADJ: "Rajahstani" #NT!
- RJH_paternal_autocrat_DEF: "Rajahstan" #NT!
- RJH_national_populist: "Rajahstan" #NT!
- RJH_national_populist_ADJ: "Rajahstani" #NT!
- RJH_national_populist_DEF: "Rajahstan" #NT!
- RJH_valkist: "Rajahstan" #NT!
- RJH_valkist_ADJ: "Rajahstani" #NT!
- RJH_valkist_DEF: "Rajahstan" #NT!
-  
- RJH_Man_Singh_II: "Man Singh II" #NT!
+
+### Country Names
+ RJH_vanguardist: "Раджастан" # Rajahstan
+ RJH_vanguardist_ADJ: "Раджастхани" # Rajahstani
+ RJH_vanguardist_DEF: "Раджастан" # Rajahstan
+ RJH_collectivist: "Раджастан" # Rajahstan
+ RJH_collectivist_ADJ: "Раджастхани" # Rajahstani
+ RJH_collectivist_DEF: "Раджастан" # Rajahstan
+ RJH_libertarian_socialist: "Раджастан" # Rajahstan
+ RJH_libertarian_socialist_ADJ: "Раджастхани" # Rajahstani
+ RJH_libertarian_socialist_DEF: "Раджастан" # Rajahstan
+ RJH_social_democrat: "Раджастан" # Rajahstan
+ RJH_social_democrat_ADJ: "Раджастхани" # Rajahstani
+ RJH_social_democrat_DEF: "Раджастан" # Rajahstan
+ RJH_social_liberal: "Раджастан" # Rajahstan
+ RJH_social_liberal_ADJ: "Раджастхани" # Rajahstani
+ RJH_social_liberal_DEF: "Раджастан" # Rajahstan
+ RJH_market_liberal: "Раджастан" # Rajahstan
+ RJH_market_liberal_ADJ: "Раджастхани" # Rajahstani
+ RJH_market_liberal_DEF: "Раджастан" # Rajahstan
+ RJH_social_conservative: "Раджастан" # Rajahstan
+ RJH_social_conservative_ADJ: "Раджастхани" # Rajahstani
+ RJH_social_conservative_DEF: "Раджастан" # Rajahstan
+ RJH_authoritarian_democrat: "Раджастан" # Rajahstan
+ RJH_authoritarian_democrat_ADJ: "Раджастхани" # Rajahstani
+ RJH_authoritarian_democrat_DEF: "Раджастан" # Rajahstan
+ RJH_paternal_autocrat: "Раджастан" # Rajahstan
+ RJH_paternal_autocrat_ADJ: "Раджастхани" # Rajahstani
+ RJH_paternal_autocrat_DEF: "Раджастан" # Rajahstan
+ RJH_national_populist: "Раджастан" # Rajahstan
+ RJH_national_populist_ADJ: "Раджастхани" # Rajahstani
+ RJH_national_populist_DEF: "Раджастан" # Rajahstan
+ RJH_valkist: "Раджастан" # Rajahstan
+ RJH_valkist_ADJ: "Раджастхани" # Rajahstani
+ RJH_valkist_DEF: "Раджастан" # Rajahstan
+
+ RJH_Man_Singh_II: "Ман Сингх II" # Man Singh II

@@ -1,66 +1,66 @@
 ﻿l_russian:
-  
- ### Communist India 
- INC: "Indian People's Front" #NT!
- INC_ADJ: "Indian" #NT!
- INC_DEF: "the Indian People's Front" #NT!
-  
- ### Parties 
- INC_vanguardist_party: "$IND_vanguardist_party$" #NT!
- INC_vanguardist_party_long: "$IND_vanguardist_party_long$" #NT!
- INC_collectivist_party: "$IND_collectivist_party$" #NT!
- INC_collectivist_party_long: "$IND_collectivist_party_long$" #NT!
- INC_libertarian_socialist_party: "$IND_libertarian_socialist_party$" #NT!
- INC_libertarian_socialist_party_long: "$IND_libertarian_socialist_party_long$" #NT!
- INC_social_democrat_party: "$IND_social_democrat_party$" #NT!
- INC_social_democrat_party_long: "$IND_social_democrat_party_long$" #NT!
- INC_social_liberal_party: "$IND_social_liberal_party$" #NT!
- INC_social_liberal_party_long: "$IND_social_liberal_party_long$" #NT!
- INC_market_liberal_party: "$IND_market_liberal_party$" #NT!
- INC_market_liberal_party_long: "$IND_market_liberal_party_long$" #NT!
- INC_social_conservative_party: "$IND_social_conservative_party$" #NT!
- INC_social_conservative_party_long: "$IND_social_conservative_party_long$" #NT!
- INC_authoritarian_democrat_party: "$IND_inc_nationalist_party$" #NT!
- INC_authoritarian_democrat_party_long: "$IND_inc_nationalist_party_long$" #NT!
- INC_paternal_autocrat_party: "$IND_paternal_autocrat_party$" #NT!
- INC_paternal_autocrat_party_long: "$IND_paternal_autocrat_party_long$" #NT!
- INC_national_populist_party: "$IND_national_populist_party$" #NT!
- INC_national_populist_party_long: "$IND_national_populist_party_long$" #NT!
- INC_valkist_party: "$IND_valkist_party$" #NT!
- INC_valkist_party_long: "$IND_valkist_party_long$" #NT!
-  
- ### Events 
- inc.01.t: "The People's Front" #NT!
- inc.01.d: "We must move quickly. There are many forces at play in India now, and even as we break away from those who have sought to oppress us, the entire subcontinent has been thrown into uncertainty. The Raj is fracturing; the people it has abused for so long are finally taking back what is theirs. Where the nationalistic rebellion failed, the political and military power they willingly gave us will not. Millions upon millions have already flocked to our flag, and we can be happy to say that all of Bengal is now under our control. This may not last for long, though. The Raj is still dealing with its own collapse, but should it survive, it will seek revenge. And that will mean war against us. Likewise, whatever else births itself from the Raj's corpse will undoubtebly contest our claim to the country. But they forget themselves. This land belongs to the People, not to any foreign empire or economic magnate. The People will guide our reconquest, and lead India into a bright new future." #NT!
- inc.01.a: "Glory to the People!" #NT!
-  
- inc.02.t: "The First People's Congress" #NT!
- inc.02.d: "The greatest socialist figures from across India have gathered today in Dhaka for the first inaugural People's Congress. It might not be accompanied by as much grandeur as we might hope, but these are pressing times. Vultures remain on our doorstep, ready to attack as soon as we show the first sign of weakness. This Congress will be essential to preserving the will of the People and planning our ultimate reconquest of the subcontinent. Its importance cannot be overstated." #NT!
- inc.02.a: "Let the Congress begin!" #NT!
-  
- inc.10.t: "The People's Reconquest of India" #NT!
- inc.10.d: "With India fractured, the empires of the world pick at us like vultures. Only their own infighting has prevented them from seizing the moment to attack and conquer us once more. Divided, India will not stand a chance. But united...we could become the most powerful nation of workers the world has ever seen! The people shall no longer be held down by the chains of their conquerors. Let us mobilize our army, and load our rifles. The Princes that claim dominion over the peoples of India will soon know our wrath, and before long...the people's reconquest of India will succeed." #NT!
- inc.10.a: "Long live India!" #NT!
-  
- ### Decisions 
- INC_orissa_time: "Reconquer Orissa" #NT!
- INC_bihar_time: "Reconquer Bihar" #NT!
- INC_india_time: "Destroy the Provisional Government" #NT!
- INC_hyderabad_time: "Smash the Princes" #NT!
- INC_rajahstan_time: "Reconquer Rajahstan" #NT!
- INC_madras_time: "Reconquer Madras" #NT!
- INC_bombay_time: "Take the West Coast" #NT!
- INC_baluchistan_time: "Reconquer Baluchistan" #NT!
- INC_punjab_time: "Crush the Punjab State" #NT!
- INC_kashmir_time: "Conquer Kashmir" #NT!
- INC_tranvacore_time: "Push to Sri Lanka" #NT!
- INC_raj_time: "End the British Raj" #NT!
-  
- ### Characters 
- INC_Abani_Mukherji: "Abani Mukherji" #NT!
- INC_Swami_Satyabhakta: "Swami Satyabhakta" #NT!
- INC_Nawab_Khwaja_Habibullah: "Nawab Khwaja Habibullah" #NT!
- INC_Iskander_Mirza: "Iskander Mirza" #NT!
- INC_Naseem_Haider: "Naseem Haider" #NT!
- INC_Mahendra_Pratap: "Mahendra Pratap" #NT!
- INC_Kalyani_Sen: "Kalyani Sen" #NT!
+
+### Communist India
+ INC: "Индийский народный фронт" # Indian People's Front
+ INC_ADJ: "Индийский" # Indian
+ INC_DEF: "Индийский народный фронт" # the Indian People's Front
+
+### Parties
+ INC_vanguardist_party: "$IND_vanguardist_party$" # $IND_vanguardist_party$
+ INC_vanguardist_party_long: "$IND_vanguardist_party_long$" # $IND_vanguardist_party_long$
+ INC_collectivist_party: "$IND_collectivist_party$" # $IND_collectivist_party$
+ INC_collectivist_party_long: "$IND_collectivist_party_long$" # $IND_collectivist_party_long$
+ INC_libertarian_socialist_party: "$IND_libertarian_socialist_party$" # $IND_libertarian_socialist_party$
+ INC_libertarian_socialist_party_long: "$IND_libertarian_socialist_party_long$" # $IND_libertarian_socialist_party_long$
+ INC_social_democrat_party: "$IND_social_democrat_party$" # $IND_social_democrat_party$
+ INC_social_democrat_party_long: "$IND_social_democrat_party_long$" # $IND_social_democrat_party_long$
+ INC_social_liberal_party: "$IND_social_liberal_party$" # $IND_social_liberal_party$
+ INC_social_liberal_party_long: "$IND_social_liberal_party_long$" # $IND_social_liberal_party_long$
+ INC_market_liberal_party: "$IND_market_liberal_party$" # $IND_market_liberal_party$
+ INC_market_liberal_party_long: "$IND_market_liberal_party_long$" # $IND_market_liberal_party_long$
+ INC_social_conservative_party: "$IND_social_conservative_party$" # $IND_social_conservative_party$
+ INC_social_conservative_party_long: "$IND_social_conservative_party_long$" # $IND_social_conservative_party_long$
+ INC_authoritarian_democrat_party: "$IND_inc_nationalist_party$" # $IND_inc_nationalist_party$
+ INC_authoritarian_democrat_party_long: "$IND_inc_nationalist_party_long$" # $IND_inc_nationalist_party_long$
+ INC_paternal_autocrat_party: "$IND_paternal_autocrat_party$" # $IND_paternal_autocrat_party$
+ INC_paternal_autocrat_party_long: "$IND_paternal_autocrat_party_long$" # $IND_paternal_autocrat_party_long$
+ INC_national_populist_party: "$IND_national_populist_party$" # $IND_national_populist_party$
+ INC_national_populist_party_long: "$IND_national_populist_party_long$" # $IND_national_populist_party_long$
+ INC_valkist_party: "$IND_valkist_party$" # $IND_valkist_party$
+ INC_valkist_party_long: "$IND_valkist_party_long$" # $IND_valkist_party_long$
+
+### Events
+ inc.01.t: "Народный фронт" # The People's Front
+ inc.01.d: "Мы должны действовать быстро. Сейчас в Индии действует множество сил, и даже когда мы отделяемся от тех, кто пытался нас угнетать, весь субконтинент оказался в состоянии неопределенности. Радж распадается; люди, над которыми он так долго издевался, наконец-то забирают обратно то, что принадлежит им. Там, где националистическое восстание потерпело неудачу, политическая и военная власть, которую они нам добровольно дали, не исчезнет. Миллионы и миллионы людей уже собрались под нашим флагом, и мы можем с радостью сообщить, что вся Бенгалия теперь находится под нашим контролем. Однако это может длиться недолго. Радж все еще переживает свой крах, но если он выживет, он будет жаждать мести. А это будет означать войну против нас. Точно так же, что бы ни родилось из трупа Раджа, несомненно, будет оспаривать наши претензии на страну. Но они забывают себя. Эта земля принадлежит Народу, а не какой-либо иностранной империи или экономическому магнату. Народ будет руководить нашим завоеванием и поведет Индию в новое светлое будущее." # We must move quickly. There are many forces at play in India now, and even as we break away from those who have sought to oppress us, the entire subcontinent has been thrown into uncertainty. The Raj is fracturing; the people it has abused for so long are finally taking back what is theirs. Where the nationalistic rebellion failed, the political and military power they willingly gave us will not. Millions upon millions have already flocked to our flag, and we can be happy to say that all of Bengal is now under our control. This may not last for long, though. The Raj is still dealing with its own collapse, but should it survive, it will seek revenge. And that will mean war against us. Likewise, whatever else births itself from the Raj's corpse will undoubtebly contest our claim to the country. But they forget themselves. This land belongs to the People, not to any foreign empire or economic magnate. The People will guide our reconquest, and lead India into a bright new future.
+ inc.01.a: "Слава Народу!" # Glory to the People!
+
+ inc.02.t: "Первый Народный Конгресс" # The First People's Congress
+ inc.02.d: "Величайшие социалистические деятели со всей Индии собрались сегодня в Дакке на первый первый Народный Конгресс. Возможно, оно не будет сопровождаться таким величием, как мы могли бы надеяться, но сейчас наступили неотложные времена. Стервятники остаются на нашем пороге, готовые напасть, как только мы проявим первые признаки слабости. Этот Конгресс будет иметь важное значение для сохранения воли народа и планирования нашего окончательного завоевания субконтинента. Ее важность невозможно переоценить." # The greatest socialist figures from across India have gathered today in Dhaka for the first inaugural People's Congress. It might not be accompanied by as much grandeur as we might hope, but these are pressing times. Vultures remain on our doorstep, ready to attack as soon as we show the first sign of weakness. This Congress will be essential to preserving the will of the People and planning our ultimate reconquest of the subcontinent. Its importance cannot be overstated.
+ inc.02.a: "Пусть Конгресс начнется!" # Let the Congress begin!
+
+ inc.10.t: "Народное завоевание Индии" # The People's Reconquest of India
+ inc.10.d: "Поскольку Индия расколота, империи мира клюют на нас, как стервятники. Только их собственные распри не позволили им воспользоваться моментом, чтобы снова напасть на нас и завоевать нас. Разделенная Индия не будет иметь шансов. Но объединившись... мы могли бы стать самой могущественной нацией рабочих, которую когда-либо видел мир! Народ больше не будет скован цепями своих завоевателей. Давайте мобилизуем нашу армию и зарядим винтовки. Принцы, претендующие на господство над народами Индии, скоро познают наш гнев, и вскоре... народное завоевание Индии увенчается успехом." # With India fractured, the empires of the world pick at us like vultures. Only their own infighting has prevented them from seizing the moment to attack and conquer us once more. Divided, India will not stand a chance. But united...we could become the most powerful nation of workers the world has ever seen! The people shall no longer be held down by the chains of their conquerors. Let us mobilize our army, and load our rifles. The Princes that claim dominion over the peoples of India will soon know our wrath, and before long...the people's reconquest of India will succeed.
+ inc.10.a: "Да здравствует Индия!" # Long live India!
+
+### Decisions
+ INC_orissa_time: "Отвоевать Ориссу" # Reconquer Orissa
+ INC_bihar_time: "Отвоевать Бихар" # Reconquer Bihar
+ INC_india_time: "Уничтожить Временное правительство" # Destroy the Provisional Government
+ INC_hyderabad_time: "Разбить принцев" # Smash the Princes
+ INC_rajahstan_time: "Отвоевать Раджастан" # Reconquer Rajahstan
+ INC_madras_time: "Отвоевать Мадрас" # Reconquer Madras
+ INC_bombay_time: "Взять западное побережье" # Take the West Coast
+ INC_baluchistan_time: "Отвоевать Белуджистан" # Reconquer Baluchistan
+ INC_punjab_time: "Разгромить штат Пенджаб" # Crush the Punjab State
+ INC_kashmir_time: "Покорить Кашмир" # Conquer Kashmir
+ INC_tranvacore_time: "Отправить в Шри-Ланку" # Push to Sri Lanka
+ INC_raj_time: "Покончить с британским владычеством" # End the British Raj
+
+### Characters
+ INC_Abani_Mukherji: "Абани Мукерджи" # Abani Mukherji
+ INC_Swami_Satyabhakta: "Свами Сатьябхакт" # Swami Satyabhakta
+ INC_Nawab_Khwaja_Habibullah: "Наваб Ходжа Хабибулла" # Nawab Khwaja Habibullah
+ INC_Iskander_Mirza: "Искандер Мирза" # Iskander Mirza
+ INC_Naseem_Haider: "Насим Хайдер" # Naseem Haider
+ INC_Mahendra_Pratap: "Махендра Пратап" # Mahendra Pratap
+ INC_Kalyani_Sen: "Кальяни Ю" # Kalyani Sen

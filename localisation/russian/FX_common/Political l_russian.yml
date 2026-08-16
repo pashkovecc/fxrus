@@ -1,22 +1,22 @@
 ﻿l_russian:
   
  ### Stability ### 
- disaster: "Disaster" #NT!
- disaster_desc: "You'll end up in a disaster if you let your political power go under §Y-500§!, you'll have to pass above §Y-500§! to go up to very low stability." #NT!
- very_low_stability: "Very Low Stability" #NT!
- very_low_stability_desc: "You'll end up at very low stability if you let your political power go under §Y-250§!, you'll have to pass above §Y-250§! to go up to low stability." #NT!
- low_stability: "Low Stability" #NT!
- low_stability_desc: "You'll end up at low stability if you let your political power go under §Y-50§!, you'll have to pass above §Y-50§! to go up to average stability." #NT!
- normal_stability: "Average Stability" #NT!
- normal_stability_desc: "The basic level of stability.\n\n" #NT!
- good_stability: "Good Stability" #NT!
- good_stability_desc: "If your political power is above §Y150§! you will be able to go up to Good Stability. You'll go down to average stability if you let your political power go under §Y0§!." #NT!
- very_good_stability: "Very Good Stability" #NT!
- very_good_stability_desc: "If your political power is above §Y150§! and you are at Good Stability you will be able to go up to Very Good Stability. You'll go straight down to average stability if you let your political power go under §Y0§!." #NT!
- stability: "Stability" #NT!
- EFFECT_CHANGE_LAW_stability: "Change our country's stability to '$NAME|Y$' which grants ($DESC$)." #NT!
- tooltip_stability_good: "Countries that are at average stability may upgrade to good stability" #NT!
- tooltip_stability_very_good: "Countries that are at good stability may upgrade to very good stability" #NT!
+ disaster: "Катастрофа"
+ disaster_desc: "Вы окажетесь в состоянии катастрофы, если ваша политическая власть опустится ниже §Y-500§!. Чтобы подняться до очень низкой стабильности, вам нужно превысить значение §Y-500§!."
+ very_low_stability: "Очень низкая стабильность"
+ very_low_stability_desc: "У вас будет очень низкая стабильность, если ваша политическая власть опустится ниже §Y-250§!. Чтобы подняться до низкой стабильности, вам нужно превысить значение §Y-250§!."
+ low_stability: "Низкая стабильность"
+ low_stability_desc: "У вас будет низкая стабильность, если ваша политическая власть опустится ниже §Y-50§!. Чтобы подняться до средней стабильности, вам нужно превысить значение §Y-50§!."
+ normal_stability: "Средняя стабильность"
+ normal_stability_desc: "Базовый уровень стабильности.\n\n"
+ good_stability: "Хорошая стабильность"
+ good_stability_desc: "Если ваша политическая власть выше §Y150§!, вы сможете подняться до хорошей стабильности. Вы опуститесь до средней стабильности, если ваша политическая власть опустится ниже §Y0§!."
+ very_good_stability: "Очень хорошая стабильность"
+ very_good_stability_desc: "Если ваша политическая власть выше §Y150§! и у вас хорошая стабильность, вы сможете подняться до очень хорошей стабильности. Вы сразу опуститесь до средней стабильности, если ваша политическая власть опустится ниже §Y0§!."
+ stability: "Стабильность"
+ EFFECT_CHANGE_LAW_stability: "Изменит стабильность нашей страны на «$NAME|Y$», что дает ($DESC$)."
+ tooltip_stability_good: "Страны со средней стабильностью могут повысить ее до хорошей стабильности"
+ tooltip_stability_very_good: "Страны с хорошей стабильностью могут повысить ее до очень хорошей стабильности"
   
  ##BOP 
  power_balance_button_disabled: "Сейчас нет доступного баланса сил" #NT!
@@ -105,170 +105,170 @@
  RULE_GROUP_KAISERREICH_RULES: "Правила Кайзеррейха" #NT!
   
  ### Stability Events ### 
- fx.political.1.t: "Downfall in Stability!" #NT!
- fx.political.1.d: "With our recent lack of political power, our country's stability has been weakened, no longer are we very stable. Once again doubt starts to seep into the political discourse." #NT!
- fx.political.1.a: "All good things must come to an end." #NT!
+ fx.political.1.t: "Падение стабильности!"
+ fx.political.1.d: "Из-за недавней нехватки политической власти стабильность нашей страны ослабла, мы больше не являемся очень стабильным государством. В политический дискурс снова начинают проникать сомнения."
+ fx.political.1.a: "Всё хорошее когда-нибудь заканчивается."
   
- fx.political.2.t: "Downfall in Stability!" #NT!
- fx.political.2.d: "With our recent lack of political power, our country's stability has been weakened, we're now on the brink of instability. Few are those who are still perfectly content with our policy." #NT!
- fx.political.2.a: "This is concerning." #NT!
+ fx.political.2.t: "Падение стабильности!"
+ fx.political.2.d: "Из-за недавней нехватки политической власти стабильность нашей страны ослабла, теперь мы находимся на грани нестабильности. Мало кто всё еще полностью доволен нашей политикой."
+ fx.political.2.a: "Это вызывает беспокойство."
   
- fx.political.3.t: "Downfall in Stability!" #NT!
- fx.political.3.d: "With our recent lack of political power, our country's stability has been weakened, we are now widely considered to be unstable. Fears about the future of our country are starting to be widespread." #NT!
- fx.political.3.a: "This is only a temporary situation." #NT!
+ fx.political.3.t: "Падение стабильности!"
+ fx.political.3.d: "Из-за недавней нехватки политической власти стабильность нашей страны ослабла, теперь мы повсеместно считаемся нестабильным государством. Страхи за будущее нашей страны становятся всё более распространенными."
+ fx.political.3.a: "Это лишь временное положение дел."
   
- fx.political.4.t: "Downfall in Stability!" #NT!
- fx.political.4.d: "With our recent lack of political power, our country's stability has been weakened even more. Riots and strikes are now common place and our government is struggling to assert its authority." #NT!
- fx.political.4.a: "This doesn't bode well." #NT!
+ fx.political.4.t: "Падение стабильности!"
+ fx.political.4.d: "Из-за недавней нехватки политической власти стабильность нашей страны ослабла еще сильнее. Бунты и забастовки стали обычным делом, а наше правительство изо всех сил пытается утвердить свой авторитет."
+ fx.political.4.a: "Это не сулит ничего хорошего."
   
- fx.political.5.t: "Downfall in Stability!" #NT!
- fx.political.5.d: "With our recent lack of political power, our country has plunged into a disaster. The situation is, by any measure, catastrophic. There is talk of revolution and coups on the streets and people have lost faith in our government. We are struggling to keep our grasp on the country." #NT!
- fx.political.5.a: "This is a disaster!" #NT!
+ fx.political.5.t: "Падение стабильности!"
+ fx.political.5.d: "Из-за недавней нехватки политической власти наша страна погрузилась в катастрофу. Ситуация во всех отношениях катастрофическая. На улицах говорят о революции и переворотах, а люди потеряли веру в наше правительство. Мы изо всех сил пытаемся удержать контроль над страной."
+ fx.political.5.a: "Это настоящая катастрофа!"
   
- fx.political.6.t: "Increase in Stability!" #NT!
- fx.political.6.d: "With our recent increase of political power, we are finally beginning to regain control on the situation. However, we are still far from safe. At least the major riots and talk of revolution have turned back into civil strikes." #NT!
- fx.political.6.a: "The worst is over!" #NT!
+ fx.political.6.t: "Рост стабильности!"
+ fx.political.6.d: "Благодаря недавнему росту политической власти мы наконец начинаем возвращать контроль над ситуацией. Однако мы всё еще далеки от безопасности. По крайней мере, крупные бунты и разговоры о революции снова сменились гражданскими забастовками."
+ fx.political.6.a: "Худшее позади!"
   
- fx.political.7.t: "Increase in Stability!" #NT!
- fx.political.7.d: "With our recent increase of political power, the end is in sight; we are nearly a stable State. If the people still don't trust us fully, at least they don't feel compelled to violence and anger anymore." #NT!
- fx.political.7.a: "We are almost back to normal." #NT!
+ fx.political.7.t: "Рост стабильности!"
+ fx.political.7.d: "Благодаря недавнему росту политической власти конец кризиса уже близок; мы практически стали стабильным государством. Если народ всё еще не доверяет нам полностью, то, по крайней мере, он больше не испытывает склонности к насилию и гневу."
+ fx.political.7.a: "Мы почти вернулись к норме."
   
- fx.political.8.t: "Increase in Stability!" #NT!
- fx.political.8.d: "With our recent increase of political power, we are finally stable once more. The people trust us to run daily business again, and calm returns to the streets, hopefully this won't happen again." #NT!
- fx.political.8.a: "[Root.GetNameDef] is strong." #NT!
+ fx.political.8.t: "Рост стабильности!"
+ fx.political.8.d: "Благодаря недавнему росту политической власти мы наконец снова обрели стабильность. Народ вновь доверяет нам управление повседневными делами, и на улицы возвращается спокойствие. Будем надеяться, это больше не повторится."
+ fx.political.8.a: "[Root.GetNameDef] сильна."
   
- fx.political.9.t: "Potential Increase in Stability" #NT!
- fx.political.9.d: "With our recent increase in political power, we now have the chance to improve our stability. However, we must do so manually.\n\nTo go up to Good Stability or Very Good Stability, you will need to take the corresponding law in the Stability Tab under Laws & Government in the Political Screen, the cost is displayed under the option.\n\nDo note that you risk rapidly losing all your positive Stability levels if you ever go under 0 Political Power, so make sure that your country is actually going to stay stable on the short to medium term being making the investment.\n\nThis message won't fire again, so don't forget." #NT!
- fx.political.9.a: "I understand how to raise my stability." #NT!
+ fx.political.9.t: "Возможный рост стабильности"
+ fx.political.9.d: "Благодаря недавнему росту политической власти у нас появилась возможность повысить нашу стабильность. Однако это нужно сделать вручную.\n\nЧтобы подняться до Хорошей стабильности или Очень хорошей стабильности, вам нужно выбрать соответствующий закон на вкладке «Стабильность» в разделе «Законы и правительство» на политическом экране. Стоимость указана под выбранным вариантом.\n\nОбратите внимание: вы рискуете быстро потерять все положительные уровни стабильности, если ваша политическая власть опустится ниже 0. Поэтому убедитесь, что ваша страна действительно останется стабильной в краткосрочной и среднесрочной перспективе, прежде чем делать вложения.\n\nЭто сообщение больше не появится, так что не забудьте."
+ fx.political.9.a: "Я понимаю, как повысить стабильность."
   
  ### Popularity Events ### 
- fx.political.11.t: "Very High Popularity" #NT!
- fx.political.11.d: "The civilian support for the ruling party has reached a very high level, which influences our political power. Our political opposition is nearly nonexistent and we stand in position to push any reform we please." #NT!
- fx.political.11.a: "Great!" #NT!
+ fx.political.11.t: "Очень высокая популярность"
+ fx.political.11.d: "Поддержка правящей партии среди населения достигла очень высокого уровня, что влияет на нашу политическую власть. Наша политическая оппозиция практически отсутствует, и мы в состоянии провести любую реформу, какую пожелаем."
+ fx.political.11.a: "Отлично!"
   
- fx.political.12.t: "High Popularity" #NT!
- fx.political.12.d: "The civilian support for the ruling party has reached a high level, which influences our political power. Our political opposition is entrenched and only the most divisive reforms need our personal investment." #NT!
- fx.political.12.a: "Nice!" #NT!
+ fx.political.12.t: "Высокая популярность"
+ fx.political.12.d: "Поддержка правящей партии среди населения достигла высокого уровня, что влияет на нашу политическую власть. Наша политическая оппозиция закрепилась, и только самые спорные реформы требуют нашего личного участия."
+ fx.political.12.a: "Прекрасно!"
   
- fx.political.13.t: "Average Popularity" #NT!
- fx.political.13.d: "The civilian support for the ruling party has reached an average level, which influences our political power. While we may need to consult our opposition for some reforms, we can still govern well." #NT!
- fx.political.13.a: "Good." #NT!
+ fx.political.13.t: "Средняя популярность"
+ fx.political.13.d: "Поддержка правящей партии среди населения достигла среднего уровня, что влияет на нашу политическую власть. Хотя по некоторым реформам нам, возможно, придется консультироваться с оппозицией, мы все еще можем эффективно управлять страной."
+ fx.political.13.a: "Хорошо."
   
- fx.political.14.t: "Low Popularity" #NT!
- fx.political.14.d: "The civilian support for the ruling party has reached a low level, which influences our political power. Our opposition is strong enough to form coalitions against us, forcing us to consult and compromise with them often." #NT!
- fx.political.14.a: "This is bad." #NT!
+ fx.political.14.t: "Низкая популярность"
+ fx.political.14.d: "Поддержка правящей партии среди населения опустилась до низкого уровня, что влияет на нашу политическую власть. Наша оппозиция достаточно сильна, чтобы формировать против нас коалиции, заставляя нас часто консультироваться с ней и идти на компромиссы."
+ fx.political.14.a: "Это плохо."
   
- fx.political.15.t: "Very Low Popularity" #NT!
- fx.political.15.d: "The civilian support for the ruling party has reached a very low level, which influences our political power. Our party is nearly nonexistent, and our reforms live or die on the whims of the opposition." #NT!
- fx.political.15.a: "It's a catastrophe!" #NT!
+ fx.political.15.t: "Очень низкая популярность"
+ fx.political.15.d: "Поддержка правящей партии среди населения опустилась до очень низкого уровня, что влияет на нашу политическую власть. Наша партия практически не имеет влияния, а судьба наших реформ целиком зависит от прихотей оппозиции."
+ fx.political.15.a: "Это катастрофа!"
   
  ### Minister Influences Ruling Party Events ### 
- fx.political.16.t: "A Minister Supports His Ideology" #NT!
- fx.political.16.d: "Our current government contains a Minister of a different ideology. He has started supporting his own ideology which is damaging our party popularity. We must act now if we are to reverse his actions." #NT!
- fx.political.16.a: "There is nothing we can do." #NT!
- fx.political.16.b: "Use our influence to revert his efforts." #NT!
+ fx.political.16.t: "Министр поддерживает свою идеологию"
+ fx.political.16.d: "В нашем нынешнем правительстве есть министр иной идеологии. Он начал продвигать собственную идеологию, что наносит вред популярности нашей партии. Мы должны действовать прямо сейчас, чтобы свести на нет его усилия."
+ fx.political.16.a: "Мы ничего не можем сделать."
+ fx.political.16.b: "Использовать наше влияние, чтобы свести на нет его усилия."
   
- fx.political.17.t: "Our Ideology Has Grown" #NT!
- fx.political.17.d: "Due to his popular policies, one of our loyal ministers has managed to strengthen our ideology. With some additional influence we could use this to increase our popularity." #NT!
- fx.political.17.a: "Excellent." #NT!
- fx.political.17.b: "We don't need this." #NT!
+ fx.political.17.t: "Наша идеология усилилась"
+ fx.political.17.d: "Благодаря своей популярной политике один из наших лояльных министров сумел укрепить позиции нашей идеологии. Применив дополнительное влияние, мы могли бы использовать это для роста нашей популярности."
+ fx.political.17.a: "Отлично."
+ fx.political.17.b: "Нам это не нужно."
   
- fx.political.18.t: "Our Ideology Has Grown" #NT!
- fx.political.18.d: "Due to his popular policies, one of our loyal ministers has managed to strengthen our ideology. With some additional influence we could use this to increase our popularity." #NT!
- fx.political.18.a: "Excellent." #NT!
- fx.political.18.b: "We don't need this." #NT!
+ fx.political.18.t: "Наша идеология усилилась"
+ fx.political.18.d: "Благодаря своей популярной политике один из наших лояльных министров сумел укрепить позиции нашей идеологии. Применив дополнительное влияние, мы могли бы использовать это для роста нашей популярности."
+ fx.political.18.a: "Отлично."
+ fx.political.18.b: "Нам это не нужно."
   
- fx.political.19.t: "Our Ideology Has Grown" #NT!
- fx.political.19.d: "Due to his popular policies, one of our loyal ministers has managed to strengthen our ideology. With some additional influence we could use this to increase our popularity." #NT!
- fx.political.19.a: "Excellent." #NT!
- fx.political.19.b: "We don't need this." #NT!
+ fx.political.19.t: "Наша идеология усилилась"
+ fx.political.19.d: "Благодаря своей популярной политике один из наших лояльных министров сумел укрепить позиции нашей идеологии. Применив дополнительное влияние, мы могли бы использовать это для роста нашей популярности."
+ fx.political.19.a: "Отлично."
+ fx.political.19.b: "Нам это не нужно."
   
- fx.political.20.t: "Our Ideology Has Grown" #NT!
- fx.political.20.d: "Due to his popular policies, one of our loyal ministers has managed to strengthen our ideology. With some additional influence we could use this to increase our popularity." #NT!
- fx.political.20.a: "Excellent." #NT!
- fx.political.20.b: "We don't need this." #NT!
+ fx.political.20.t: "Наша идеология усилилась"
+ fx.political.20.d: "Благодаря своей популярной политике один из наших лояльных министров сумел укрепить позиции нашей идеологии. Применив дополнительное влияние, мы могли бы использовать это для роста нашей популярности."
+ fx.political.20.a: "Отлично."
+ fx.political.20.b: "Нам это не нужно."
   
- fx.political.21.t: "A Minister supports his Ideology" #NT!
- fx.political.21.d: "Our current government contains a Minister of a different ideology. He has started supporting his own ideology which is damaging our party popularity. We must act now if we are to reverse his actions." #NT!
- fx.political.21.a: "There is nothing we can do." #NT!
- fx.political.21.b: "Use our influence to revert his efforts." #NT!
+ fx.political.21.t: "Министр поддерживает свою идеологию"
+ fx.political.21.d: "В нашем нынешнем правительстве есть министр иной идеологии. Он начал продвигать собственную идеологию, что наносит вред популярности нашей партии. Мы должны действовать прямо сейчас, чтобы свести на нет его усилия."
+ fx.political.21.a: "Мы ничего не можем сделать."
+ fx.political.21.b: "Использовать наше влияние, чтобы свести на нет его усилия."
   
- fx.political.22.t: "A Minister supports his Ideology" #NT!
- fx.political.22.d: "Our current government contains a Minister of a different ideology. He has started supporting his own ideology which is damaging our party popularity. We must act now if we are to reverse his actions." #NT!
- fx.political.22.a: "There is nothing we can do." #NT!
- fx.political.22.b: "Use our influence to revert his efforts." #NT!
+ fx.political.22.t: "Министр поддерживает свою идеологию"
+ fx.political.22.d: "В нашем нынешнем правительстве есть министр иной идеологии. Он начал продвигать собственную идеологию, что наносит вред популярности нашей партии. Мы должны действовать прямо сейчас, чтобы свести на нет его усилия."
+ fx.political.22.a: "Мы ничего не можем сделать."
+ fx.political.22.b: "Использовать наше влияние, чтобы свести на нет его усилия."
   
- fx.political.23.t: "A Minister supports his Ideology" #NT!
- fx.political.23.d: "Our current government contains a Minister of a different ideology. He has started supporting his own ideology which is damaging our party popularity. We must act now if we are to reverse his actions." #NT!
- fx.political.23.a: "There is nothing we can do." #NT!
- fx.political.23.b: "Use our influence to revert his efforts." #NT!
+ fx.political.23.t: "Министр поддерживает свою идеологию"
+ fx.political.23.d: "В нашем нынешнем правительстве есть министр иной идеологии. Он начал продвигать собственную идеологию, что наносит вред популярности нашей партии. Мы должны действовать прямо сейчас, чтобы свести на нет его усилия."
+ fx.political.23.a: "Мы ничего не можем сделать."
+ fx.political.23.b: "Использовать наше влияние, чтобы свести на нет его усилия."
   
  ### Remove Independent War Event ### 
- fx.political.30.t: "End of Our Independent War" #NT!
- fx.political.30.d: "Now that our independent war is over we can call our allies to war again." #NT!
- fx.political.30.a: "Understood" #NT!
+ fx.political.30.t: "Завершение нашей независимой войны"
+ fx.political.30.d: "Теперь, когда наша независимая война окончена, мы снова можем призывать союзников к войне."
+ fx.political.30.a: "Понятно"
   
  ### Gamestart Opinion Modifiers ### 
- fx.political.40.t: "Setting Opinion Modifiers" #NT!
- fx.political.40.d: "If you can see this, make a bug report!" #NT!
- fx.political.40.a: "Seriously, report it." #NT!
+ fx.political.40.t: "Настройка модификаторов отношения"
+ fx.political.40.d: "Если вы видите это, отправьте багрепорт!"
+ fx.political.40.a: "Серьезно, сообщите об этом."
   
- FX_different_ideology: "Different Ideology" #NT!
- FX_different_ideology_close: "Different Ideology" #NT!
- FX_similar_ideology: "Similar Ideology" #NT!
- FX_similar_ideology_close: "Similar Ideology" #NT!
- FX_similar_ideology_distant: "Similar Ideology" #NT!
- FX_same_ideology: "Same Ideology" #NT!
- FX_factional_rivalry: "Factional Rivalry" #NT!
+ FX_different_ideology: "Другая идеология"
+ FX_different_ideology_close: "Другая идеология"
+ FX_similar_ideology: "Похожая идеология"
+ FX_similar_ideology_close: "Похожая идеология"
+ FX_similar_ideology_distant: "Похожая идеология"
+ FX_same_ideology: "Та же идеология"
+ FX_factional_rivalry: "Фракционное соперничество"
   
- same_ruling_party: "Base" #NT!
- different_party_types: "Base" #NT!
+ same_ruling_party: "Базовый"
+ different_party_types: "Базовый"
   
   
  ### State Transfer Tool ### 
   
- fx.political.250.t: "Puppet [marked_country.GetNameDef]?" #NT!
- fx.political.250.d: "This will turn [marked_country.GetNameDef] into a subject of [to_be_overlord.GetNameDef], using the default Occupied Puppet autonomous state. If they're in a different faction, they will leave it, but this won't end any of the current wars they're in. If you want to do that, you should do it separately.\n\n§RNOTE: This may very well break Führerreich content! Use at your own risk!!§!" #NT!
- fx.political.250.a: "Do it" #NT!
- fx.political.250.b: "Do it, but let them keep their current government" #NT!
- fx.political.250.c: "On second thought..." #NT!
+ fx.political.250.t: "Сделать [marked_country.GetNameDef] марионеткой?"
+ fx.political.250.d: "Это превратит [marked_country.GetNameDef] в субъекта государства [to_be_overlord.GetNameDef] со стандартным уровнем автономии «Оккупированная марионетка». Если страна состоит в другом альянсе, она покинет его, но это не прекратит ни одну из текущих войн, в которых она участвует. Если вы хотите сделать это, вам следует прекратить войны отдельно.\n\n§RПРИМЕЧАНИЕ: Это может сломать контент Фюреррейха! Используйте на свой страх и риск!§!"
+ fx.political.250.a: "Сделать это"
+ fx.political.250.b: "Сделать это, но оставить им текущее правительство"
+ fx.political.250.c: "Хотя, если подумать..."
   
- fx.political.251.t: "Free [marked_country.GetNameDef]?" #NT!
- fx.political.251.d: "This will make [marked_country.GetNameDef] completely independent. It will not change their current government (unless the mod has content to do so automatically), not remove [marked_country.GetNameDef] from their faction, if they're in one, nor take them out of any wars.\n\n§RNOTE: This may very well break Führerreich content! Use at your own risk!!§!" #NT!
+ fx.political.251.t: "Освободить [marked_country.GetNameDef]?"
+ fx.political.251.d: "Это сделает [marked_country.GetNameDef] полностью независимым государством. Это не изменит их текущее правительство (если только в моде нет контента для автоматической смены), не исключит [marked_country.GetNameDef] из альянса, если страна в нем состоит, и не выведет её из текущих войн.\n\n§RПРИМЕЧАНИЕ: Это может сломать контент Фюреррейха! Используйте на свой страх и риск!§!"
   
- fx.political.252.t: "Join the [to_be_faction_leader.GetFactionName]?" #NT!
- fx.political.252.d: "This will make [marked_country.GetNameDef] join the [to_be_faction_leader.GetFactionName], dismantling their own faction if they're a faction leader or simply leaving their current faction if they're in one. This won't change any wars they're currently in.\n\n§RNOTE: This may very well break Führerreich content! Use at your own risk!!§!" #NT!
+ fx.political.252.t: "Вступить в [to_be_faction_leader.GetFactionName]?"
+ fx.political.252.d: "Это заставит [marked_country.GetNameDef] вступить в альянс [to_be_faction_leader.GetFactionName], распустив свой собственный альянс, если страна является его лидером, или просто покинув текущий альянс. Это не повлияет на текущие войны.\n\n§RПРИМЕЧАНИЕ: Это может сломать контент Фюреррейха! Используйте на свой страх и риск!§!"
   
- fx.political.253.t: "Lead the [marked_country.GetFactionName]?" #NT!
- fx.political.253.d: "This will make [marked_country.GetNameDef] faction leader for the [marked_country.GetFactionName].\n\n§RNOTE: This may very well break Führerreich content! Use at your own risk!!§!" #NT!
+ fx.political.253.t: "Возглавить [marked_country.GetFactionName]?"
+ fx.political.253.d: "Это сделает [marked_country.GetNameDef] лидером альянса [marked_country.GetFactionName].\n\n§RПРИМЕЧАНИЕ: Это может сломать контент Фюреррейха! Используйте на свой страх и риск!§!"
   
- fx.political.254.t: "Leave the [marked_country.GetFactionName]?" #NT!
- fx.political.254.d: "This will make [marked_country.GetNameDef] leave the [marked_country.GetFactionName], dismantling the faction if they are the leader. It will not affect any wars they are currently in.\n\n§RNOTE: This may very well break Führerreich content! Use at your own risk!!§!" #NT!
+ fx.political.254.t: "Покинуть [marked_country.GetFactionName]?"
+ fx.political.254.d: "Это заставит [marked_country.GetNameDef] покинуть альянс [marked_country.GetFactionName], что приведет к распуску альянса, если страна является его лидером. Это не повлияет на текущие войны.\n\n§RПРИМЕЧАНИЕ: Это может сломать контент Фюреррейха! Используйте на свой страх и риск!§!"
   
- fx.political.255.t: "Peace with [peace_target.GetNameDef]?" #NT!
- fx.political.255.d: "[marked_country.GetNameDefCap], along with all its allies, will white peace with [peace_target.GetNameDef] and all of their allies.\n\n§RNOTE: This may very well break Führerreich content! Use at your own risk!!§!" #NT!
- fx.political.255.b: "Separate [marked_country.GetNameDef] from its allies, then peace out" #NT!
+ fx.political.255.t: "Мир с [peace_target.GetNameDef]?"
+ fx.political.255.d: "[marked_country.GetNameDefCap] вместе со всеми своими союзниками заключит белый мир с [peace_target.GetNameDef] и всеми их союзниками.\n\n§RПРИМЕЧАНИЕ: Это может сломать контент Фюреррейха! Используйте на свой страх и риск!§!"
+ fx.political.255.b: "Отделить [marked_country.GetNameDef] от союзников, затем заключить мир"
   
- fx.political.256.t: "Peace out of all wars?" #NT!
- fx.political.256.d: "[marked_country.GetNameDefCap] will make a separate white peace for all its current wars. If it is a subject, it will first be freed, and if it is in a faction, it must first leave it.\n\n§RNOTE: This may very well break Führerreich content! Use at your own risk!!§!" #NT!
- fx.political.257.t: "War with [war_target.GetNameDef]?" #NT!
- fx.political.257.d: "[marked_country.GetNameDefCap] will declare war on [war_target.GetNameDef]. There are no checks to see if this is a valid declaration, other than the two countries are not allies and not already at war.\n\n§RNOTE: This may very well break Führerreich content! Use at your own risk!!§!" #NT!
+ fx.political.256.t: "Выйти из всех войн?"
+ fx.political.256.d: "[marked_country.GetNameDefCap] заключит сепаратный белый мир во всех текущих войнах. Если страна является субъектом, она сначала будет освобождена, а если состоит в альянсе — покинет его.\n\n§RПРИМЕЧАНИЕ: Это может сломать контент Фюреррейха! Используйте на свой страх и риск!§!"
+ fx.political.257.t: "Война с [war_target.GetNameDef]?"
+ fx.political.257.d: "[marked_country.GetNameDefCap] объявит войну [war_target.GetNameDef]. Никаких проверок валидности объявления войны не проводится, кроме того, что две страны не являются союзниками и еще не воюют.\n\n§RПРИМЕЧАНИЕ: Это может сломать контент Фюреррейха! Используйте на свой страх и риск!§!"
   
  # Debug Decisions 
- debug_decisions: "Debug Decisions" #NT!
- turn_off_plpc_debug: "Turn Off Player-Led Conferences" #NT!
- turn_off_plpc_debug_desc: "This will temporarily turn off player-led peace conferences -- meaning peace conferences will proceed as normal, and AI countries will not drop out if a player is involved." #NT!
- turn_on_plpc_debug: "Turn On Player-Led Conferences" #NT!
- turn_on_plpc_debug_desc: "This will restore the normal functionality of player-led peace conferences. AI countries will always drop out of peace conferences if a player is involved on the winning side." #NT!
- turn_off_stt_debug: "Turn Off the State & Country Transfer Tool" #NT!
- turn_off_stt_debug_desc: "\n§RPressing §Y'ctrl-h'§! can also be used to disable the interface, if you'd rather not turn it off completely.§!" #NT!
- turn_on_stt_debug: "Turn On the State & Country Transfer Tool" #NT!
- FR_player_leads_conferences: "§YPlayer Primacy§! game rule for Peace Conferences is active and §Genabled§!\n" #NT!
- FR_plpc_disable_tt: "§YPlayer Primacy§! game rule will be temporarily §Rdisabled§!\n" #NT!
- FR_plpc_enable_tt: "§YPlayer Primacy§! game rule will be once again §Genabled§!\n" #NT!
- FR_plpc_turned_off: "§YPlayer Primacy§! game rule for Peace Conferences is active but is currently §Rdisabled§!\n" #NT!
- stt_highlight_states: "Marked States" #NT!
- trigger_american_collapse: "Trigger American Collapse" #NT!
- fr_colorcodes: "FR's Textcolors" #NT!
- fr_colorcodes_desc: "A collection of all color codes and how they look like in-game for coders" #NT!
- fr_colorcodes_tt: "C: §C Cyan§!\nL: §L Lilac§!\nW: §W White§!\nB: §B Blue§!\nG: §G Green§!\nR: §R Red§!\nb: §b Black§!\ng: §g Grey§!\nY: §Y Yellow§!\nH: §H Header§!\nT: §T Title§!\nO: §O Orange§!\n0: §0 GS 0 - purple§!\n1: §1 GS 1 - lilac§!\n2: §2 GS 2 - blue§!\n3: §3 GS 3 - navy blue§!\n4: §4 GS 4 - light blue§!\n5: §5 GS 5 - cyan§!\n6: §6 GS 6 - turquoise§!\n7: §7 GS 7 - light green§!\n8: §8 GS 8 - mustard§!\n9: §9 GS 9 - orange§!\nt: §t GS 10 - red§!\no: §o Totalist Dark Red§!\nr: §r Syndicalist Bright Red§!\nS: §S SocDem Magenta§!\nl: §l SocLib Orange§!\nm: §m MarkLib Yellow§!\nc: §c Conservative Blue§!\nP: §P PatAut Dark Grey§!\nN: §N NatPop Brown§!\nn: §n Alternate paler Green§!\nM: §M Mustard§!\nV: §V Valkist Green§!\nE: §E lime Green§!\ns: §s Conservative blue§!\np: §p pinkish red§!\nD: §D golD§!\ne: §e steel blue§!\nX: §X saddle brown§!\nQ: §Q deep pink§!\nK: §K indigo§!\nU: §U teal§!\n" #NT!
+ debug_decisions: "Отладочные решения"
+ turn_off_plpc_debug: "Отключить мирные конференции под руководством игрока"
+ turn_off_plpc_debug_desc: "Это временно отключит мирные конференции под руководством игрока. Конференции будут проходить в обычном режиме, а ИИ-страны не будут уступать права, если участвует игрок."
+ turn_on_plpc_debug: "Включить мирные конференции под руководством игрока"
+ turn_on_plpc_debug_desc: "Это восстановит стандартную функцию мирных конференций под руководством игрока. ИИ-страны всегда будут уступать права на мирных конференциях, если игрок находится на стороне победителей."
+ turn_off_stt_debug: "Отключить инструмент передачи регионов и стран"
+ turn_off_stt_debug_desc: "\n§RНажатие §Y'ctrl-h'§! также позволяет скрыть интерфейс, если вы не хотите отключать его полностью.§!"
+ turn_on_stt_debug: "Включить инструмент передачи регионов и стран"
+ FR_player_leads_conferences: "Игровое правило §Y«Приоритет игрока»§! для мирных конференций активно и §Gвключено§!\n"
+ FR_plpc_disable_tt: "Игровое правило §Y«Приоритет игрока»§! будет временно §Rотключено§!\n"
+ FR_plpc_enable_tt: "Игровое правило §Y«Приоритет игрока»§! снова будет §Gвключено§!\n"
+ FR_plpc_turned_off: "Игровое правило §Y«Приоритет игрока»§! для мирных конференций активно, но в данный момент §Rотключено§!\n"
+ stt_highlight_states: "Отмеченные регионы"
+ trigger_american_collapse: "Запустить коллапс США"
+ fr_colorcodes: "Цвета текста FR"
+ fr_colorcodes_desc: "Коллекция всех цветовых кодов и их отображение в игре для кодеров"
+ fr_colorcodes_tt: "C: §C Голубой§!\nL: §L Сиреневый§!\nW: §W Белый§!\nB: §B Синий§!\nG: §G Зеленый§!\nR: §R Красный§!\nb: §b Черный§!\ng: §g Серый§!\nY: §Y Желтый§!\nH: §H Заголовок§!\nT: §T Название§!\nO: §O Оранжевый§!\n0: §0 GS 0 - фиолетовый§!\n1: §1 GS 1 - сиреневый§!\n2: §2 GS 2 - синий§!\n3: §3 GS 3 - темно-синий§!\n4: §4 GS 4 - светло-синий§!\n5: §5 GS 5 - голубой§!\n6: §6 GS 6 - бирюзовый§!\n7: §7 GS 7 - светло-зеленый§!\n8: §8 GS 8 - горчичный§!\n9: §9 GS 9 - оранжевый§!\nt: §t GS 10 - красный§!\no: §o Темно-красный тоталистский§!\nr: §r Ярко-красный синдикалистский§!\nS: §S Пурпурный соц-дем§!\nl: §l Оранжевый соц-либ§!\nm: §m Желтый марк-либ§!\nc: §c Синий консервативный§!\nP: §P Темно-серый пат-авт§!\nN: §N Коричневый нац-поп§!\nn: §n Альтернативный бледный зеленый§!\nM: §M Горчичный§!\nV: §V Зеленый валькистский§!\nE: §E Лаймовый зеленый§!\ns: §s Синий консервативный§!\np: §p Розовато-красный§!\nD: §D Золотой§!\ne: §e Стальной синий§!\nX: §X Красновато-коричневый§!\nQ: §Q Насыщенный розовый§!\nK: §K Индиго§!\nU: §U Чироковый§!\n"

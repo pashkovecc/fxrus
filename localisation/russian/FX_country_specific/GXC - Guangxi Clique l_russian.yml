@@ -1,56 +1,56 @@
 ﻿l_russian:
-  
- ### Country Names 
- GXC_vanguardist: "Guangxi Clique" #NT!
- GXC_vanguardist_ADJ: "Guangxi" #NT!
- GXC_vanguardist_DEF: "the Guangxi Clique" #NT!
- GXC_collectivist: "Guangxi Clique" #NT!
- GXC_collectivist_ADJ: "Guangxi" #NT!
- GXC_collectivist_DEF: "the Guangxi Clique" #NT!
- GXC_libertarian_socialist: "Guangxi Clique" #NT!
- GXC_libertarian_socialist_ADJ: "Guangxi" #NT!
- GXC_libertarian_socialist_DEF: "the Guangxi Clique" #NT!
- GXC_social_democrat: "Guangxi Clique" #NT!
- GXC_social_democrat_ADJ: "Guangxi" #NT!
- GXC_social_democrat_DEF: "the Guangxi Clique" #NT!
- GXC_social_liberal: "Guangxi Clique" #NT!
- GXC_social_liberal_ADJ: "Guangxi" #NT!
- GXC_social_liberal_DEF: "the Guangxi Clique" #NT!
- GXC_market_liberal: "Guangxi Clique" #NT!
- GXC_market_liberal_ADJ: "Guangxi" #NT!
- GXC_market_liberal_DEF: "the Guangxi Clique" #NT!
- GXC_social_conservative: "Guangxi Clique" #NT!
- GXC_social_conservative_ADJ: "Guangxi" #NT!
- GXC_social_conservative_DEF: "the Guangxi Clique" #NT!
- GXC_authoritarian_democrat: "Guangxi Clique" #NT!
- GXC_authoritarian_democrat_ADJ: "Guangxi" #NT!
- GXC_authoritarian_democrat_DEF: "the Guangxi Clique" #NT!
- GXC_paternal_autocrat: "Guangxi Clique" #NT!
- GXC_paternal_autocrat_ADJ: "Guangxi" #NT!
- GXC_paternal_autocrat_DEF: "the Guangxi Clique" #NT!
- GXC_national_populist: "Guangxi Clique" #NT!
- GXC_national_populist_ADJ: "Guangxi" #NT!
- GXC_national_populist_DEF: "the Guangxi Clique" #NT!
- GXC_valkist: "Guangxi Clique" #NT!
- GXC_valkist_ADJ: "Guangxi" #NT!
- GXC_valkist_DEF: "the Guangxi Clique" #NT!
-  
- ### DECISIONS ### 
- GXC_war_decisions: "War decisions" #NT!
- GXC_invade_tibet: "Invade Tibet" #NT!
- GXC_invade_mongolia: "Invade Great Mongolian State" #NT!
- GXC_invade_yunnan: "Invade Yunnan Clique" #NT!
- GXC_invade_sichuan: "Invade Sichuan Clique" #NT!
- GXC_invade_xinjiang: "Invade Xinjiang Clique" #NT!
- GXC_invade_ma: "Invade Ma Clique" #NT!
- GXC_invade_kuomintang: "Invade Kuomintang Government" #NT!
- GXC_invade_zhili: "Invade Zhili Clique" #NT!
- GXC_invade_fengtian: "Invade Fengtian Governancy" #NT!
- GXC_invade_guominjun: "Invade Guominjun" #NT!
- GXC_invade_shanxi: "Invade Shanxi Clique" #NT!
- GXC_invade_guandong: "Invade Guandong Clique" #NT!
- GXC_invade_national_revoliutionary_army: "Invade National Revoliutionary Army" #NT!
- GXC_chinese_unification_decisions: "Chinese Unification Decisions" #NT!
- GXC_claim_to_be_Beijing_government: "Proclaim the new Beijing Government" #NT!
- GXC_unite_china: "Unite China" #NT!
- GXC_Li_Zongren: "Li Zongren" #NT!
+
+### Country Names
+ GXC_vanguardist: "Клика Гуанси" # Guangxi Clique
+ GXC_vanguardist_ADJ: "Гуанси" # Guangxi
+ GXC_vanguardist_DEF: "клика Гуанси" # the Guangxi Clique
+ GXC_collectivist: "Клика Гуанси" # Guangxi Clique
+ GXC_collectivist_ADJ: "Гуанси" # Guangxi
+ GXC_collectivist_DEF: "клика Гуанси" # the Guangxi Clique
+ GXC_libertarian_socialist: "Клика Гуанси" # Guangxi Clique
+ GXC_libertarian_socialist_ADJ: "Гуанси" # Guangxi
+ GXC_libertarian_socialist_DEF: "клика Гуанси" # the Guangxi Clique
+ GXC_social_democrat: "Клика Гуанси" # Guangxi Clique
+ GXC_social_democrat_ADJ: "Гуанси" # Guangxi
+ GXC_social_democrat_DEF: "клика Гуанси" # the Guangxi Clique
+ GXC_social_liberal: "Клика Гуанси" # Guangxi Clique
+ GXC_social_liberal_ADJ: "Гуанси" # Guangxi
+ GXC_social_liberal_DEF: "клика Гуанси" # the Guangxi Clique
+ GXC_market_liberal: "Клика Гуанси" # Guangxi Clique
+ GXC_market_liberal_ADJ: "Гуанси" # Guangxi
+ GXC_market_liberal_DEF: "клика Гуанси" # the Guangxi Clique
+ GXC_social_conservative: "Клика Гуанси" # Guangxi Clique
+ GXC_social_conservative_ADJ: "Гуанси" # Guangxi
+ GXC_social_conservative_DEF: "клика Гуанси" # the Guangxi Clique
+ GXC_authoritarian_democrat: "Клика Гуанси" # Guangxi Clique
+ GXC_authoritarian_democrat_ADJ: "Гуанси" # Guangxi
+ GXC_authoritarian_democrat_DEF: "клика Гуанси" # the Guangxi Clique
+ GXC_paternal_autocrat: "Клика Гуанси" # Guangxi Clique
+ GXC_paternal_autocrat_ADJ: "Гуанси" # Guangxi
+ GXC_paternal_autocrat_DEF: "клика Гуанси" # the Guangxi Clique
+ GXC_national_populist: "Клика Гуанси" # Guangxi Clique
+ GXC_national_populist_ADJ: "Гуанси" # Guangxi
+ GXC_national_populist_DEF: "клика Гуанси" # the Guangxi Clique
+ GXC_valkist: "Клика Гуанси" # Guangxi Clique
+ GXC_valkist_ADJ: "Гуанси" # Guangxi
+ GXC_valkist_DEF: "клика Гуанси" # the Guangxi Clique
+
+### DECISIONS ###
+ GXC_war_decisions: "Военные решения" # War decisions
+ GXC_invade_tibet: "Вторжение в Тибет" # Invade Tibet
+ GXC_invade_mongolia: "Вторжение в Великое Монгольское государство" # Invade Great Mongolian State
+ GXC_invade_yunnan: "Вторжение клики Юньнани" # Invade Yunnan Clique
+ GXC_invade_sichuan: "Вторжение в Сычуаньскую клику" # Invade Sichuan Clique
+ GXC_invade_xinjiang: "Вторжение клики Синьцзяна" # Invade Xinjiang Clique
+ GXC_invade_ma: "Вторгнись в мою клику" # Invade Ma Clique
+ GXC_invade_kuomintang: "Вторжение в правительство Гоминьдана" # Invade Kuomintang Government
+ GXC_invade_zhili: "Invade Zhili Clique" # Invade Zhili Clique
+ GXC_invade_fengtian: "Вторжение в управление Фэнтянь" # Invade Fengtian Governancy
+ GXC_invade_guominjun: "Вторжение в Гоминьцзюнь" # Invade Guominjun
+ GXC_invade_shanxi: "Вторжение в клику Шаньси" # Invade Shanxi Clique
+ GXC_invade_guandong: "Вторжение в клику Гуандун" # Invade Guandong Clique
+ GXC_invade_national_revoliutionary_army: "Вторжение Национальной революционной армии" # Invade National Revoliutionary Army
+ GXC_chinese_unification_decisions: "Решения об объединении Китая" # Chinese Unification Decisions
+ GXC_claim_to_be_Beijing_government: "Провозгласить новое правительство Пекина" # Proclaim the new Beijing Government
+ GXC_unite_china: "Объединить Китай" # Unite China
+ GXC_Li_Zongren: "Ли Цзунжэнь" # Li Zongren

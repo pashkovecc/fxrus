@@ -1,42 +1,42 @@
 ﻿l_russian:
-  
- ### Country Names 
- NEP: "Непал"
- NEP_ADJ: "Nepalese" #NT!
- NEP_DEF: "the Kingdom of Nepal" #NT!
- NEP_vanguardist: "Nepal" #NT!
- NEP_vanguardist_ADJ: "Nepalese" #NT!
- NEP_vanguardist_DEF: "the People's Republic of Nepal" #NT!
- NEP_collectivist: "Nepal" #NT!
- NEP_collectivist_ADJ: "Nepalese" #NT!
- NEP_collectivist_DEF: "the People's Republic of Nepal" #NT!
- NEP_libertarian_socialist: "Nepal" #NT!
- NEP_libertarian_socialist_ADJ: "Nepalese" #NT!
- NEP_libertarian_socialist_DEF: "the People's Republic of Nepal" #NT!
-  
-  
- ### Parties 
- NEP_vanguardist_party: "NPC" #NT!
- NEP_vanguardist_party_long: "Nepala praja parisada\n§gNepal People's Council§!" #NT!
- NEP_collectivist_party: "NPC" #NT!
- NEP_collectivist_party_long: "Nepala praja parisada\n§gNepal People's Council§!" #NT!
- NEP_libertarian_socialist_party: "NPC" #NT!
- NEP_libertarian_socialist_party_long: "Nepala praja parisada\n§gNepal People's Council§!" #NT!
- NEP_social_democrat_party: "NPC" #NT!
- NEP_social_democrat_party_long: "Nepala praja parisada\n§gNepal People's Council§!" #NT!
- NEP_social_liberal_party: "NPC" #NT!
- NEP_social_liberal_party_long: "Nepala praja parisada\n§gNepal People's Council§!" #NT!
- NEP_market_liberal_party: "NPP" #NT!
- NEP_market_liberal_party_long: "Rastriya praja parti\n§gNational People's Party§!" #NT!
- NEP_social_conservative_party: "GP" #NT!
- NEP_social_conservative_party_long: "Gorkha Dala\n§gGurkha Party§!" #NT!
- NEP_authoritarian_democrat_party: "Rana Dynasty" #NT!
- NEP_authoritarian_democrat_party_long: "Rana Dynasty" #NT!
- NEP_paternal_autocrat_party: "Rana Dynasty" #NT!
- NEP_paternal_autocrat_party_long: "Rana Dynasty" #NT!
- NEP_national_populist_party: "PIA" #NT!
- NEP_national_populist_party_long: "Jana Hit Sangh\n§gPublic Interest Association§!" #NT!
- NEP_valkist_party: "PIA" #NT!
- NEP_valkist_party_long: "Jana Hit Sangh\n§gPublic Interest Association§!" #NT!
-  
- NEP_Tribhuvana: "Tribhuvana" #NT!
+
+### Country Names
+ NEP: "Непал" # Nepal
+ NEP_ADJ: "непальский" # Nepalese
+ NEP_DEF: "Королевство Непал" # the Kingdom of Nepal
+ NEP_vanguardist: "Непал" # Nepal
+ NEP_vanguardist_ADJ: "непальский" # Nepalese
+ NEP_vanguardist_DEF: "Народная Республика Непал" # the People's Republic of Nepal
+ NEP_collectivist: "Непал" # Nepal
+ NEP_collectivist_ADJ: "непальский" # Nepalese
+ NEP_collectivist_DEF: "Народная Республика Непал" # the People's Republic of Nepal
+ NEP_libertarian_socialist: "Непал" # Nepal
+ NEP_libertarian_socialist_ADJ: "непальский" # Nepalese
+ NEP_libertarian_socialist_DEF: "Народная Республика Непал" # the People's Republic of Nepal
+
+
+### Parties
+ NEP_vanguardist_party: "НПС" # NPC
+ NEP_vanguardist_party_long: "Непала праджа парисада\n§gНародный совет Непала§!" # Nepala praja parisada\n§gNepal People's Council§!
+ NEP_collectivist_party: "НПС" # NPC
+ NEP_collectivist_party_long: "Непала праджа парисада\n§gНародный совет Непала§!" # Nepala praja parisada\n§gNepal People's Council§!
+ NEP_libertarian_socialist_party: "НПС" # NPC
+ NEP_libertarian_socialist_party_long: "Непала праджа парисада\n§gНародный совет Непала§!" # Nepala praja parisada\n§gNepal People's Council§!
+ NEP_social_democrat_party: "НПС" # NPC
+ NEP_social_democrat_party_long: "Непала праджа парисада\n§gНародный совет Непала§!" # Nepala praja parisada\n§gNepal People's Council§!
+ NEP_social_liberal_party: "НПС" # NPC
+ NEP_social_liberal_party_long: "Непала праджа парисада\n§gНародный совет Непала§!" # Nepala praja parisada\n§gNepal People's Council§!
+ NEP_market_liberal_party: "АЭС" # NPP
+ NEP_market_liberal_party_long: "Растрия праджа партия\n§gНациональная народная партия§!" # Rastriya praja parti\n§gNational People's Party§!
+ NEP_social_conservative_party: "врач общей практики" # GP
+ NEP_social_conservative_party_long: "Gorkha Dala\n§gGurkha Party§!" # Gorkha Dala\n§gGurkha Party§!
+ NEP_authoritarian_democrat_party: "Династия Рана" # Rana Dynasty
+ NEP_authoritarian_democrat_party_long: "Династия Рана" # Rana Dynasty
+ NEP_paternal_autocrat_party: "Династия Рана" # Rana Dynasty
+ NEP_paternal_autocrat_party_long: "Династия Рана" # Rana Dynasty
+ NEP_national_populist_party: "ПИА" # PIA
+ NEP_national_populist_party_long: "Джана Хит Сангх\n§gАссоциация общественных интересов§!" # Jana Hit Sangh\n§gPublic Interest Association§!
+ NEP_valkist_party: "ПИА" # PIA
+ NEP_valkist_party_long: "Джана Хит Сангх\n§gАссоциация общественных интересов§!" # Jana Hit Sangh\n§gPublic Interest Association§!
+
+ NEP_Tribhuvana: "Трибхувана" # Tribhuvana

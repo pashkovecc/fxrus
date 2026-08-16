@@ -1,394 +1,394 @@
 ﻿l_russian:
-  
- ### History 
- YUC_FUHRERREICH_DESC: "Subsequent attacks on Catholics by Calles' paramilitaries have sparked a Mayan nationalism in the Yucatan peninsula. As chaos in Mexico engulfs the nation; these Mayan nationalists whom are Catholics have seized the opportunity and have declared their independence from the Mexicans.\n\nHowever, as the Mexican state fixes itself; they are eyeing the former breakaway state, and once their preparations are complete, conflict looms larger and larger..." #NT!
-  
- ### Country Names 
- YUC: "Yucatan" #NT!
- YUC_ADJ: "юкатекск"
- YUC_DEF: "the State of Yucatan" #NT!
- YUC_valkist: "Cruzoob" #NT!
- YUC_valkist_ADJ: "Yucateco" #NT!
- YUC_valkist_DEF: "the State of Cruzoob" #NT!
-  
- ### Cosmetic 
- YUC_empire: "Holy Empire of Cruzoob" #NT!
- YUC_empire_ADJ: "Yucateco" #NT!
- YUC_empire_DEF: "the Holy Empire of Cruzoob" #NT!
-  
- ### Parties 
- YUC_vanguardist_party: "Comunistas" #NT!
- YUC_vanguardist_party_long: "Comunistas\n§gCommunists§!" #NT!
- YUC_collectivist_party: "Neo-Villistas" #NT!
- YUC_collectivist_party_long: "Neo-Villistas\n§gNew Villa Followers§!" #NT!
- YUC_libertarian_socialist_party: "LMAS" #NT!
- YUC_libertarian_socialist_party_long: "Liga Mexicana de Anarcho-Socialistas\n§gLeague of Mexican Anarcho-Socialists§!" #NT!
- YUC_social_democrat_party: "ERI" #NT!
- YUC_social_democrat_party_long: "Ejército Revolucionario Institucional\n§gInstitutional Revolutionary Army§!" #NT!
- YUC_social_liberal_party: "PRM" #NT!
- YUC_social_liberal_party_long: "Partido de la Revolución Mexicana\n§gParty of the Mexican Revolution§!" #NT!
- YUC_market_liberal_party: "PLRM" #NT!
- YUC_market_liberal_party_long: "Partido Liberal de la Revolución Mexicana\n§gLiberal Party of the Mexican Revolution§!" #NT!
- YUC_social_conservative_party: "PAN" #NT!
- YUC_social_conservative_party_long: "Partido Acción Nacional\n§gNational Action Party§!" #NT!
- YUC_authoritarian_democrat_party: "Cristeros" #NT!
- YUC_authoritarian_democrat_party_long: "Movimiento Cristero\n§gChristian Movement§!" #NT!
- YUC_paternal_autocrat_party: "GM" #NT!
- YUC_paternal_autocrat_party_long: "Gobierno Militar\n§gMilitary Government§!" #NT!
- YUC_national_populist_party: "AY" #NT!
- YUC_national_populist_party_long: "Arquidiócesis de Yucatán\n§gArchdiocese of Yucatan§!" #NT!
- YUC_valkist_party: "Lealistas" #NT!
- YUC_valkist_party_long: "Lealistas a la Revolución Maya\n§gLoyal to the Mayan Revolution!" #NT!
-  
- ### Faction 
- YUC_BOL_accord: "Pact of Indigenous Rejuvenation" #NT!
-  
- ### Tooltips 
- YUC_support_a_side_tt: "We will support §Y[From.GetName]§! in their war.\n" #NT!
- YUC_can_integrate_states: "§GWe can now integrate states from occupied territories§!" #NT!
- YUC_infiltrating_mexico: "Currently conducting operations in @MEX §YMexico§!" #NT!
- YUC_defence_tt: "§GWe will now deploy the reserve divisions.§!" #NT!
- YUC_ger_focus_finished_tt: "If the focus \"§n$YUC_friends_in_europe$§!\" is completed:" #NT!
- YUC_bol_focus_finished_tt: "If the focus \"§n$YUC_friends_in_the_south$§!\" is completed:" #NT!
-  
- ### Decisions 
- YUC_mexican_infiltration: "Mexican Infiltration" #NT!
- YUC_fund_worker_strikes: "Fund Worker Strikes" #NT!
- YUC_fund_worker_strikes_tt: "§gWe will try to sabotage the industrial output of [MEX.GetName]§!" #NT!
- YUC_siphon_state_funds: "Siphon State Funds" #NT!
- YUC_siphon_state_funds_tt: "§gWe will try to transfer some funding from the [MEX.GetAdjective] treasury§!" #NT!
- YUC_promote_anti_government_propaganda: "Promote Anti-Government Propaganda" #NT!
- YUC_promote_anti_government_propaganda_tt: "§gWe will try to destablize the [MEX.GetAdjective] nation§!" #NT!
- YUC_steal_stockpiled_equipment: "Steal Stockpiled Equipment" #NT!
- YUC_steal_stockpiled_equipment_tt: "§gWe will try to steal some equipment from the [MEX.GetAdjective] stockpile§!" #NT!
- YUC_mexican_yucateco_war: "Mexican-Yucateco War" #NT!
- YUC_mexican_yucateco_war_desc: "Thousands of miles away from our homeland is a growing conflict in the Central American region. The state of Cruzoob, a splinter state that rests on the Yucatan peninsula is fighting against the reclamation of Mexico. Mexico, on the other land sees the state of Cruzoob, as a breakaway state rules by Cristero rebels. We can support either side; and provide limited aide to our chosen side, or do nothing at all." #NT!
- YUC_support_a_side: "Support [From.GetName]" #NT!
- YUC_send_financial_aid: "Send Financial Aid to [From.GetName]" #NT!
- YUC_send_industrial_aid: "Send Industrial Aid to [From.GetName]" #NT!
-  
- YUC_spreading_our_culture: "Spreading our Culture" #NT!
- YUC_integrate_state: "Integrate §Y[From.GetName]§!" #NT!
-  
- ### Opinion Modifiers 
- YUC_improved_relations: "Improved Relations" #NT!
- YUC_seized_our_investments: "Seized our Investments" #NT!
-  
- ### Ideas 
- YUC_spirit_of_the_faithful1: "Spirit of the Faithful" #NT!
- YUC_spirit_of_the_faithful1_desc: "No matter what they will do, they won't extinguish our Christian faith. The challenges that we will face will not extinguish our belief in God, but will make it more strong!" #NT!
- YUC_spirit_of_the_faithful2: "Spirit of the Faithful" #NT!
- YUC_spirit_of_the_faithful2_desc: "No matter what they will do, they won't extinguish our Christian faith. The challenges that we will face will not extinguish our belief in God, but will make it more strong!" #NT!
- YUC_mayan_ascension1: "Mayan Ascension" #NT!
- YUC_mayan_ascension1_desc: "The arrival of the Spaniards nearly wiped our culture and existence. But we have risen again, and never again will such foreign invader will oppress us. We will defend our culture and land until death!" #NT!
- YUC_mayan_ascension2: "Mayan Ascension" #NT!
- YUC_mayan_ascension2_desc: "The arrival of the Spaniards nearly wiped our culture and existence. But we have risen again, and never again will such foreign invader will oppress us. We will defend our culture and land until death!" #NT!
- YUC_mayan_ascension3: "Mayan Ascension" #NT!
- YUC_mayan_ascension3_desc: "The arrival of the Spaniards nearly wiped our culture and existence. But we have risen again, and never again will such foreign invader will oppress us. We will defend our culture and land until death!" #NT!
- YUC_non_existent_industry: "Non-Existent Industry" #NT!
- YUC_non_existent_industry_desc: "The areas of Yucatan have never been seen as an importance by the Mexicans, and thus remained underdeveloped." #NT!
- YUC_general_staff: "General Staff" #NT!
- YUC_training_school: "Training School" #NT!
- YUC_cristero_exodus: "Cristero Exodus" #NT!
- YUC_aircraft_purchase: "Aircraft Purchase" #NT!
- YUC_naval_purchase: "Naval Purchase" #NT!
- YUC_tourism: "Tourism" #NT!
- YUC_german_advisors: "German Advisors" #NT!
- YUC_german_advisors_desc: "The [GER.GetName] have sent advisors that aims to improve and modernize our army's capability." #NT!
- YUC_labour_regulations: "Labour Regulations" #NT!
- YUC_reformed_bureaucracy: "Reformed Bureaucracy" #NT!
- YUC_christian_curriculum: "Christian Curriculum" #NT!
- YUC_mayan_curriculum: "Mayan Curriculum" #NT!
- YUC_waiting_and_preparing_idea: "Waiting and Preparing" #NT!
- YUC_worker_strikes: "Worker Strikes" #NT!
- YUC_siphoned_funds: "Siphoned Funds" #NT!
- YUC_anti_government_propaganda: "Anti-Government Propaganda" #NT!
-  
- ### Focus 
- YUC_stabilization_of_the_state: "Stabilization of the State" #NT!
- YUC_stabilization_of_the_state_desc: "The chaos in Mexico have allowed us to proclaim our own independence and be seperate with the atheist bastards. However, our recent independence also brought instability to the region, many within the state are vying for power and many are in opposition in our own government. We must do something about that." #NT!
- YUC_economic_investments: "Economic Investments" #NT!
- YUC_economic_investments_desc: "One way in improving the quality of life here in our nation is to develop the economy. The government itself will provide investments to the state's economy to produce more opportunities to our people." #NT!
- YUC_industry_construction: "Industry Construction" #NT!
- YUC_industry_construction_desc: "Investing in the economy is not enough to develop the Yucatan region, that why we need to construct industries to efficiently develop our economic capabilities in the region, and also bring us profit." #NT!
- YUC_factory_construction: "Factory Construction" #NT!
- YUC_factory_construction_desc: "Weapons production can also bring more profit in the economy, and with that additional armaments that can be produced by them can be useful in case of a skirmish." #NT!
- YUC_roads_and_highways: "Roads and Highways" #NT!
- YUC_roads_and_highways_desc: "In developing the Yucatan region, we must also prioritize the construction of infrastructure, one that can be used by our people, the industries and also the army." #NT!
- YUC_encourage_tourism: "Encourage Tourism" #NT!
- YUC_encourage_tourism_desc: "The Yucatan region is home to some ruins of the ancient world, and with that, some in the government proposes that we conduct tourism campaigns to bolster our economic capability." #NT!
- YUC_prioritize_mining: "Prioritize Mining" #NT!
- YUC_prioritize_mining_desc: "While developing the rural areas of our region, our engineers have found many raw mineral deposits that can be exploited. We must conduct operations that can make use of this gift our our land." #NT!
- YUC_stable_economy: "Stable Economy" #NT!
- YUC_stable_economy_desc: "Our economy might not be growing as we expected but we have improved our industrial capabilities to further stabilize our economy." #NT!
- YUC_rural_development: "Rural Development" #NT!
- YUC_rural_development_desc: "In order to further modernize our nation, we must conduct developmental schemes of unused rural land that can be used for industrial purposes; that way, the land isn't wasted and the economy will grow." #NT!
- YUC_invite_german_advisors: "Invite German Advisors" #NT!
- YUC_invite_german_advisors_desc: "The Germans in the other side of the world can be a great benefit to our nation, and thus some officials are proposing to invite some advisors to assist us in managing our state." #NT!
- YUC_seize_american_capital: "Seize American Capital" #NT!
- YUC_seize_american_capital_desc: "The Americans have left a significant amount of investment in our region before that Mexican Nationalists seized control of Mexico. We can seize that capital and effectively use it for our own purposes." #NT!
- YUC_border_fortifications: "Border Fortifications" #NT!
- YUC_border_fortifications_desc: "A storm is coming, and thus we must be prepared, fortifications in our borders must be constructed in order to defend our home." #NT!
- YUC_coastal_fortifications: "Coastal Fortifications" #NT!
- YUC_coastal_fortifications_desc: "In defending our home, we must not also forgot in fortifying our coastline, because if we do not, the enemy might attack us from behind." #NT!
- YUC_the_question_of_the_church: "The Question of the Church" #NT!
- YUC_the_question_of_the_church_desc: "The role of the Church has been quite in question in the recent months, and now we will formalize it." #NT!
- YUC_education_and_propaganda: "Education and Propaganda" #NT!
- YUC_education_and_propaganda_desc: "The Education Ministry have been quite in confusion in implementing curricular reforms in our state. We will help them make a decision." #NT!
- YUC_labour_codes: "Labour Codes" #NT!
- YUC_labour_codes_desc: "In truly modernizing our state, we must implement reforms that can benefit our workers, because without them, the economy will explode and the state will fall." #NT!
- YUC_restructure_the_bureaucracy: "Restructure the Bureaucracy" #NT!
- YUC_restructure_the_bureaucracy_desc: "Our bureaucratic process have been inherited from the past governments and is quite slow and bloated. Reforms are needed to make the bureaucracy in our state fast and efficient." #NT!
- YUC_waiting_and_preparing: "Waiting and Preparing" #NT!
- YUC_waiting_and_preparing_desc: "In this difficult times, we must be prepared for anything. A storm is coming, and only those who are prepared and the strongest will survive it." #NT!
- YUC_watch_the_mexicans: "Watch the Mexicans" #NT!
- YUC_watch_the_mexicans_desc: "In case of conflict, we must have the advantage, and to accomplish that, some in the government proposes to infiltrate Mexico itself, to gather intelligence and perform subversive operations." #NT!
- YUC_the_tables_have_turned: "The Tables Have Turned" #NT!
- YUC_the_tables_have_turned_desc: "At last! The forces of the atheist bastards have been taken care of and with that, we must annex the region completely, and itegrate it with our state." #NT!
- # Expansion and Foreign Affairs 
- YUC_spread_our_spirit: "Spread our Spirit" #NT!
- YUC_spread_our_spirit_desc: "Despite being the same Christian brothers, it seems some of our neighbors are forgetting their faith. However, we shall spread our sprit in worshipping the one true God, either by diplomacy or force." #NT!
- YUC_seeking_new_friends: "Seeking New Friends" #NT!
- YUC_seeking_new_friends_desc: "In order to survive in this age, we must find friends and allies to help us overcome challenges that we must face." #NT!
- YUC_friends_in_europe: "Friends in Europe" #NT!
- YUC_friends_in_europe_desc: "A New Germany is rising, and with that we must be on their good side. Having formal diplomatic relations with them must be our top priority." #NT!
- YUC_friends_in_the_south: "Friends in the South" #NT!
- YUC_friends_in_the_south_desc: "The recent events in Bolivia have allowed the indigenous people to seize control and take care of their own country. We should establish diplomatic relations with them to ensure that we have friends in the region." #NT!
- YUC_joint_army_exercises: "Joint Army Exercises" #NT!
- YUC_joint_army_exercises_desc: "Since we have established diplomatic relations with our targeted allies, we should propose to them some kind of joint army exercises to better coordinate our troops in case of conflict." #NT!
- YUC_intelligence_sharing: "Intelligence Sharing" #NT!
- YUC_intelligence_sharing_desc: "As we have the same interests as Bolivia, there are some in the government that proposes to share intelligence data between us and them. That way, we can determine our next step in conduct in the region." #NT!
- YUC_join_the_stahlpakt: "Join the Stahlpakt" #NT!
- YUC_join_the_stahlpakt_desc: "It is time, although the Germans are quite alone in ideological terms in Western Europe, they might evenly match the French and British in terms of military; a formal alliance with them can benefit us in the long run." #NT!
- YUC_a_native_alliance: "A Native Alliance" #NT!
- YUC_a_native_alliance_desc: "The indigenous peoples in the South has established a great deal of influence in the region; we will seek an alliance with them, to further ensure that our culture and heritage is protected." #NT!
- YUC_establish_relations_in_the_pacific: "Establish Relations in the Pacific" #NT!
- YUC_establish_relations_in_the_pacific_desc: "The rise of the Sakdalistas in the Philippine Republic has suprised many foreign powers. But with that event, it is an opportunity for us to have a friend in the East." #NT!
- YUC_trade_opportunities_in_asia: "Trade Opportunities in Asia" #NT!
- YUC_trade_opportunities_in_asia_desc: "We have managed to establish relations with the Filipinos, and both governments are interested in having each other as a trading partner. We shall formally propose this to the Filipinos, for the natural resources in the East, can be beneficial for us in the long run." #NT!
- YUC_creating_our_new_generation: "Creating our New Generation" #NT!
- YUC_creating_our_new_generation_desc: "The old empire that has been eradicated by the Spaniards hundreds of years ago have are still found here in our nation. However, times had passed and we must create a new empire that fits our faith and especially our culture." #NT!
- YUC_reclaim_the_south: "Reclaim the South" #NT!
- YUC_reclaim_the_south_desc: "The old empire stretches from the Yucatan region to the lands in the coast of Pacific. We must annex it back to our state." #NT!
- YUC_drift_to_the_north: "Drift to the North" #NT!
- YUC_drift_to_the_north_desc: "Same with the Mexicans, the Yankees in the north are currently forgetting their faith. We must remind them by force." #NT!
- YUC_continue_south: "Continue South" #NT!
- YUC_continue_south_desc: "Our great empire now stretches wide as the sun have never seen before. But that will not stop us, we will continue expanding southward, and with that continue spreading our culture and faith to the occupied people." #NT!
- YUC_expanding_our_borders: "Expanding our Borders" #NT!
- YUC_expanding_our_borders_desc: "We have faced fierced resistance to the people in the states we have currently occupying; so we need to integrate these lands to further stablize the region." #NT!
- YUC_our_rise_is_their_downfall: "Our Rise is their Downfall" #NT!
- YUC_our_rise_is_their_downfall_desc: "The Empire have risen again, and with that the downfall of failed states that is integrated into the empire. No one can challenge the might of our empire, because God is on our side." #NT!
- # Army 
- YUC_the_warriors_of_tomorrow: "The Warriors of Tomorrow" #NT!
- YUC_the_warriors_of_tomorrow_desc: "Nowadays, wars are not fought with primitive weapons such as spears and swords, the modern age have brought newer weapons that allowed man to kill tens or hundreds of people instantly. We must not fall behind." #NT!
- YUC_adopt_modern_doctrines: "Adopt Modern Doctrines" #NT!
- YUC_adopt_modern_doctrines_desc: "With the ascention of the modern age, battleplans and doctrines have evolved too. We will study and adopt these modern doctrines to ensure that we will not be defeated in battle." #NT!
- YUC_standardization_of_equipment: "Standardization of Equipment" #NT!
- YUC_standardization_of_equipment_desc: "Our troops are currently using different kinds of equipment; this is a major problems are different equipment requires different ammunitions and different methods of maintainance. We will prioritize to standardize the equipment of our troops." #NT!
- YUC_communication_improvements: "Communication Improvements" #NT!
- YUC_communication_improvements_desc: "Good communication between our units and divisions are an essential factor of winning battles. Improving these capability of the army can have us the advantage in case of conflict." #NT!
- YUC_firepower_research: "Firepower Research" #NT!
- YUC_firepower_research_desc: "We will continue our efforts to ensure our infantry and support troops are armed with the best possible equipment of our time." #NT!
- YUC_logistics_support: "Logistics Support" #NT!
- YUC_logistics_support_desc: "Our men is useless without supplies. The logistics in warfare is important, we must not neglect it." #NT!
- YUC_repurpose_civilian_trucks: "Repurpose Civilian Trucks" #NT!
- YUC_repurpose_civilian_trucks_desc: "There are quite a handful of civilian trucks that are either unused or being maintained. We should repurpose them for military use." #NT!
- YUC_coordinated_strikes: "Coordinated Strikes" #NT!
- YUC_coordinated_strikes_desc: "Coordinated strikes in enemy positions can effectively dislodge their units and sometimes cause chaos in the command structure. This effective strategy can be quite useful in battle." #NT!
- YUC_fund_yucatan_arsenal: "Fund Yucatan Arsenal" #NT!
- YUC_fund_yucatan_arsenal_desc: "Continued efforts to expand our military factories are necessary to meet the demands for new equipment." #NT!
- YUC_form_a_general_staff: "Form a General Staff" #NT!
- YUC_form_a_general_staff_desc: "The General Staff is responsible for extensive planning of military operations in the Army." #NT!
- YUC_found_a_training_school: "Found a Training School" #NT!
- YUC_found_a_training_school_desc: "A training school is an institution that trains our future troops. Their skills and minds will be effectively trained for future combat operations." #NT!
- YUC_recruitment_campaigns: "Recruitment Campaigns" #NT!
- YUC_recruitment_campaigns_desc: "Some in the general staff proposes that we conduct recruitment campaigns in the rural parts of the state, as we need manpower to build a proper army." #NT!
- YUC_attract_the_cristeros: "Attract the Cristeros" #NT!
- YUC_attract_the_cristeros_desc: "The Cristeros were a group of people whose faith is tested and with the same as ours. It will be good to make them on our side." #NT!
- YUC_form_reserves: "Form Reserves" #NT!
- YUC_form_reserves_desc: "For the preparation of the incoming conflict, we must form reserve units that can be called when the situation is dire." #NT!
- YUC_the_new_kind_of_warfare: "The New Kind of Warfare" #NT!
- YUC_the_new_kind_of_warfare_desc: "In modern age has brought many innovations, and one is warfare not on land but on air and sea." #NT!
- YUC_air_warriors: "Air Warriors" #NT!
- YUC_air_warriors_desc: "The battle on the air requires aircraft and man to operate those aircraft. We will train pilots to effectively win the battle in the air." #NT!
- YUC_sea_warriors: "Sea Warriors" #NT!
- YUC_sea_warriors_desc: "Marines is required in fighting the battle in the sea. These formidable sailors are trained in land and sea combat. They will be quite useful in the future conflicts." #NT!
- YUC_purchase_foreign_aircraft: "Purchase Foreign Aircraft" #NT!
- YUC_purchase_foreign_aircraft_desc: "We do not have the capacity to produce our own aircraft, we can however, purchase it from countries that has the capability is producing them in large scale." #NT!
- YUC_air_bases_and_defenses: "Air Bases and Defenses" #NT!
- YUC_air_bases_and_defenses_desc: "Having an aircraft and pilots are not enough in winning the battle in the air, we should also conduct defenses that can hinder enemy aircraft in creating damages in our territories." #NT!
- YUC_purchase_foreign_ships: "Purchase Foreign Ships" #NT!
- YUC_purchase_foreign_ships_desc: "Ships can be quite complicated to produce one, however, we can always purchase some in countries that has stockpiles of them." #NT!
- YUC_naval_bases: "Naval Bases" #NT!
- YUC_naval_bases_desc: "These ships requires more than wooden dockyards to be properly maintained or anchored. A construction of a naval base is neeed in repairing these formidable fortresses." #NT!
- YUC_naval_and_air_coordinations: "Naval and Air Coordination" #NT!
- YUC_naval_and_air_coordinations_desc: "In the battle of the seas, the coordination between our air units and naval units is essential in dealing a great blow to our enemy." #NT!
- YUC_defend_our_faith_and_culture: "Defend Our Faith and Culture" #NT!
- YUC_defend_our_faith_and_culture_desc: "We have risen again and we will never allow anyone to erase us again from history. We will defend our faith and culture to the end." #NT!
-  
- ### Companies 
- YUC_yucatan_arsenal: "Yucatan Arsenal" #NT!
-  
- ### Events 
- cruzoob.0.t: "The Risen Phoenix" #NT!
- cruzoob.0.d: "The State of Cruzoob was a breakaway state in the Yucatan Peninsula; proclaimed independence after the crushing defeat of the Mexicans after the Great War. Our leader, [Root.GetLeader] founded our nation with the aim of preserving our Christian faith with the traditional Mayan culture that once roam around these lands before the Spanish arrived. However, the [MEX.GetAdjective]s claims that our state is nothing more of an rebellious state; trying to stay afloat using the Monroe Doctrine by the United States; and with that we must be cautious as the influence of the United States dwindle; and the [MEX.GetAdjective]s prepare for another conflict against us and Columbia, because if they succeed, we may never rise again." #NT!
- cruzoob.0.a: "For God and Country!" #NT!
- cruzoob.1.t: "The Role of the Catholic Church" #NT!
- cruzoob.1.d: "For centuries, since the middle ages in Europe and the colonial period here in the New World, the Catholic Church have not afraid to voice our their concerns over the affairs over the government. Their influence have stretched out from the ordinary bureaucrats to the important positions in the government itself. However, there are no official policies that can limit or expand these influence of the Church as our state was fairly new. Because of this, some in the government are proposing to formalize on what the Church's role must be in our new state." #NT!
- cruzoob.1.a: "Their opinions matter as the representatives of the creator himself." #NT!
- cruzoob.1.b: "They have no place in the Government" #NT!
- cruzoob.2.t: "Our Education Curriculum" #NT!
- cruzoob.2.d: "While the Education Ministry is preparing to reform the education system in our state, there have been disagreements on what this new curriculum must prioritize. Some argued that we should prioritize a Christian curriculum to mold the youth into Christian values and discipline. However, some argued that our tradition and culture should be the main prioritization of the new curriclum to further boost the knowledge and not to hinder the exploration of our research capabilities." #NT!
- cruzoob.2.a: "Prioritize a Christian curriculum" #NT!
- cruzoob.2.b: "Prioritize a curriculum based on our roots!" #NT!
- cruzoob.3.t: "Arrival of the Cristero Exiles" #NT!
- cruzoob.3.d: "As [MEX.GetLeader] have risen into power, many opposed to him in [MEX.GetName] have seek refuge in our state. This was due to [MEX.GetLeader]'s Anti-Catholic policies that suppressed the more religious sects in the country." #NT!
- cruzoob.3.a: "Come and join us, brothers!" #NT!
- cruzoob.4.t: "Strikes in [MEX.Capital.GetName]" #NT!
- cruzoob.4.d: "Our little plot in sabotaging the [MEX.GetAdjective] economy have been quite successful. There are reports of worker strikes in their capital, [MEX.Capital.GetName]." #NT!
- cruzoob.4.a: "It has started it seems" #NT!
- cruzoob.5.t: "Plans of Strikes Failed" #NT!
- cruzoob.5.d: "The [MEX.GetAdjective] Government have intercepted our plans and have swiftly took action, various union leaders have been arrested and the plan has collapsed." #NT!
- cruzoob.5.a: "Deny every connection possible!" #NT!
- cruzoob.6.t: "Funds Transferred to the Treasury" #NT!
- cruzoob.6.d: "Our planned operation has proved to be a success as their have been significant amount of fund that has been siphoned from the [MEX.GetAdjective] treasury." #NT!
- cruzoob.6.a: "Good.." #NT!
- cruzoob.7.t: "Funds Not Transferred" #NT!
- cruzoob.7.d: "Our planned operation have failed as [MEX.GetAdjective] authorities have intercepted our plans and have secured their funds stored in their treasury." #NT!
- cruzoob.7.a: "Shame..." #NT!
- cruzoob.8.t: "Anti-Government Sentiments Soared in [MEX.GetName]" #NT!
- cruzoob.8.d: "We have payed a couple of respectable journalists in [MEX.GetName] to critic the government in mishandling the Great War and other internal issues. It seems that the public have bought their works in now there have been anti-government sentiments in [MEX.GetName]." #NT!
- cruzoob.8.a: "Good." #NT!
- cruzoob.9.t: "Destablization Plot Failed" #NT!
- cruzoob.9.d: "Our little destabilization plot in [MEX.GetName] have been a failure. The journalists have reported our agents in contacting them to promote Anti-Government Propaganda and have been arrested. It seems that the [MEX.GetAdjective] nationalism is still alive." #NT!
- cruzoob.9.a: "Oh no." #NT!
- cruzoob.10.t: "[MEX.GetAdjective] stockpiles raided!" #NT!
- cruzoob.10.d: "Our little plot in stealing [MEX.GetAdjective] equipment from their own stockpiles have proved to be quite a success as there are now crates filled with equipment in trucks that have arrived here in [Root.Capital.GetName]." #NT!
- cruzoob.10.a: "We might need this for later" #NT!
- cruzoob.11.t: "No equipment will arrive" #NT!
- cruzoob.11.d: "Our little plot in stealing [MEX.GetAdjective] equipment from their own stockpiles have failed, the guards have apprehended our mercenaries and now currently being interrogated." #NT!
- cruzoob.11.a: "That's unfortunate..." #NT!
- cruzoob.12.t: "Snatching Chiapas?" #NT!
- cruzoob.12.d: "With the [MEX.GetAdjective]s and the [USA.GetAdjective]s are tearing each others' throats out, we have now the opportunity to snatch our old claim territory of Chiapas; of course, a war with the [MEX.GetAdjective] is possible, but its up to the [MEX.GetAdjective] to open up another front." #NT!
- cruzoob.12.a: "That's not even a question..." #NT!
- cruzoob.12.b: "We can wait a little bit longer" #NT!
- cruzoob.13.t: "Chiapas Captured" #NT!
- cruzoob.13.d: "Our troops have succesfully marched in Chiapas, and are now dealing in stablizing our control in the region. However, with the fierce resistance of the local citizens, we might need a couple more manpower to effectively deal with the local resistance." #NT!
- cruzoob.13.a: "And we wait for the Mexican response..." #NT!
- cruzoob.14.t: "[YUC.GetName] snatched Chiapas!" #NT!
- cruzoob.14.d: "Our war with the Yankees have made Cruzoob the opportunity to grab the defended territory of Chiapas. Our local garrisons have been overpowered by their divisions and are now dealing with local resistance. Some in the government are arguing to deal with this crisis now, but some wants to deal with Cruzoob after we deal with the Yanks." #NT!
- cruzoob.14.a: "Punish them for this..." #NT!
- cruzoob.14.b: "They can wait after we deal with the Yankees" #NT!
- cruzoob.15.t: "The Great Patriotic War" #NT!
- cruzoob.15.d: "This morning, the foreign office received a not so shocking announcement from the northern bastards. They have formalized war between our our nations and such [MEX.GetAdjective] forces between crossing the border. However, this did nothing to weaken our people's spirit and as such only made it stronger." #NT!
- cruzoob.15.a: "God is with us." #NT!
- cruzoob.16.t: "[YUC.GetLeader] Inspects the Troops" #NT!
- cruzoob.16.d: "Preferring to be hands-on, on the affairs of our military; [YUC.GetLeader] have arrived a base near the outskirts of the capital city of Merida, inspecting a couple of bridages stationed there. While visiting the base; the leader also talked to the more lower ranked soldiers who he deemed the foundation of the military." #NT!
- cruzoob.16.a: "God Bless his soul..." #NT!
-  
- cruzoob.100.t: "Invitation from [YUC.GetName]" #NT!
- cruzoob.100.d: "A telegram was received in the Foreign Ministry, from a quite peculiar country or state of Cruzoob. They have requested that we send military advisors to aid and train their army for defensive purposes. What shall we respond?" #NT!
- cruzoob.100.a: "Send the advisors" #NT!
- cruzoob.100.b: "We'd rather decline" #NT!
- cruzoob.101.t: "[From.GetAdjective] Advisors are Coming!" #NT!
- cruzoob.101.d: "We have received a telegram from [From.GetNameDef] confirming that they have accepted our request in sending some military advisors to aid in modernizing our army's capabilities." #NT!
- cruzoob.101.a: "Sehr Gut." #NT!
- cruzoob.102.t: "[From.GetName] Refuses" #NT!
- cruzoob.102.d: "We have received confirmation from [From.GetName] confirming that they won't be sending any military advisors for us." #NT!
- cruzoob.102.a: "How unfortunate..." #NT!
- cruzoob.103.t: "Stolen [MEX.GetAdjective] Equipment" #NT!
- cruzoob.103.d: "This morning, there have been an arrival of quite unusal crates that found out to be [MEX.GetAdjective] equipment stolen from their stockpile. No one knows how it has arrived in our ports but one thing is certain, they might be [Root.GetAdjective] symphatizers inside [MEX.GetName] itself." #NT!
- cruzoob.103.a: "We might need it for later." #NT!
- cruzoob.104.t: "Proposal for Joint Army Exercises" #NT!
- cruzoob.104.d: "The [From.GetAdjective] Ambassor have arrived here in [Root.Capital.GetName] to propose a \"Joint Army Exercise\" to improve both our military's coordination." #NT!
- cruzoob.104.a: "Let's do it" #NT!
- cruzoob.104.b: "They might steal our military secrets" #NT!
- cruzoob.105.t: "[From.GetName] Agrees for a Joint Army Exercise" #NT!
- cruzoob.105.d: "The [From.GetAdjective] Government have agreed to conduct Joint Army Exercises here in our territories. Our officers will now be learning from them their experiences that can in turn improve the defense of our state." #NT!
- cruzoob.105.a: "That's good!" #NT!
- cruzoob.106.t: "[From.GetName] Refuses for a Joint Army Exercise" #NT!
- cruzoob.106.d: "The [From.GetAdjective] Government have refused to conduct Joint Army Exercises here in our territories." #NT!
- cruzoob.106.a: "Shame." #NT!
- cruzoob.107.t: "[From.GetName] Proposes Intelligence Sharing" #NT!
- cruzoob.107.d: "[From.GetNameDef], a state in Central America, have sent delegations here in [Root.Capital.GetName] to propose intelligence sharing against all possible threats on our culture. They have outlined that, as the two remaining bastions of the indigenous cultures, we must help each other to survive this new era. Of course, it is up to us whether to accept this proposal or to ignore it completely and send their delegations back to them." #NT!
- cruzoob.107.a: "They have a point." #NT!
- cruzoob.107.b: "Just send them back." #NT!
- cruzoob.108.t: "[From.GetName] Agrees on Intelligence Sharing" #NT!
- cruzoob.108.d: "The [From.GetAdjective] Government have seen the wisdom in our proposal and have signed in mutally sharing intelligence that can bolster our defenses and espionage operations." #NT!
- cruzoob.108.a: "Great!" #NT!
- cruzoob.109.t: "[From.GetName] Refuses Intelligence Sharing" #NT!
- cruzoob.109.d: "The [From.GetAdjective] Government have ultimately refused our proposal in sharing intelligence." #NT!
- cruzoob.109.a: "Unfortunate." #NT!
- cruzoob.110.t: "[From.GetName] on the [Root.GetFactionName]" #NT!
- cruzoob.110.d: "[From.GetNameDef], a state in Central America, have sent delegations here in [Root.Capital.GetName] to request the entry of their nation in the [Root.GetFactionName]. What shall be our response?" #NT!
- cruzoob.110.a: "The more the better" #NT!
- cruzoob.110.b: "Why we should deal with this puny nation?" #NT!
- cruzoob.111.t: "[From.GetName] Welcomes us to the [Root.GetFactionName]!" #NT!
- cruzoob.111.d: "The [GER.GetAdjective] Government have accepted our request and have formalized our entry into their faction." #NT!
- cruzoob.111.a: "Great!" #NT!
- cruzoob.112.t: "[From.GetName] Refuses our Entry to the [Root.GetFactionName]!" #NT!
- cruzoob.112.d: "The [GER.GetAdjective] Government have refused our request of entry into their [Root.GetFactionName] faction. We need to find allies elsewhere" #NT!
- cruzoob.112.a: "How unfortunate..." #NT!
- cruzoob.113.t: "Alliance with [From.GetName]?" #NT!
- cruzoob.113.d: "We have received a request from the [From.GetAdjective] state, they have proposed an alliance. What should be our response?" #NT!
- cruzoob.113.a: "Great idea!" #NT!
- cruzoob.113.b: "We are not interested." #NT!
- cruzoob.114.t: "[From.GetName] Agrees on an Alliance!" #NT!
- cruzoob.114.d: "The [From.GetAdjective] Government have agreed on a formal alliance with us." #NT!
- cruzoob.114.a: "Great!" #NT!
- cruzoob.115.t: "[From.GetName] Refuses an Alliance!" #NT!
- cruzoob.115.d: "The [From.GetAdjective] Government have refused on formal alliance with us." #NT!
- cruzoob.115.a: "They will crumble alone..." #NT!
- cruzoob.116.t: "[From.GetName] Proposes Trade Agreements" #NT!
- cruzoob.116.d: "A certain nation on the other side of the world, [From.GetName] have approached us in hopes of opening a new trade partner here in the Pacific. They have specifically chosen us, as we have the same ideology as theirs. Should we take this opportunity and open up a trade partner on the New World?" #NT!
- cruzoob.116.a: "Great idea!" #NT!
- cruzoob.116.b: "We have other things to attend to" #NT!
- cruzoob.117.t: "[From.GetName] Agrees on Trade" #NT!
- cruzoob.117.d: "The [From.GetAdjective] Government have agreed on being our trade partner in the Pacific." #NT!
- cruzoob.117.a: "Great!" #NT!
- cruzoob.118.t: "[From.GetName] Refuses!" #NT!
- cruzoob.118.d: "The [From.GetAdjective] Government have refused on being our trade partner in the Pacific. We might need to look somewhere else." #NT!
- cruzoob.118.a: "Shame." #NT!
- cruzoob.119.t: "[From.GetAdjective] Financial Aid Arrives" #NT!
- cruzoob.119.d: "In hopes of us winning our crusade against our enemies; the [From.GetAdjective] Government have sent financial aid for our war effort." #NT!
- cruzoob.119.a: "That is appreciated" #NT!
- cruzoob.120.t: "[From.GetAdjective] Industrial Aid Arrives" #NT!
- cruzoob.120.d: "In hopes of us winning our crusade against our enemies; the [From.GetAdjective] Government have sent industrial aid for our war effort." #NT!
- cruzoob.120.a: "That is appreciated" #NT!
- cruzoob.121.t: "The Defeat of Mexico" #NT!
- cruzoob.121.d: "We have done it. The [MEX.GetAdjective] Army have collapsed. The [MEX.GetAdjective] War Ministry have accepted our terms of unconditional surrender." #NT!
- cruzoob.121.a: "Viva la Revolución Maya" #NT!
- cruzoob.122.t: "The Defeat of Cruzoob" #NT!
- cruzoob.122.d: "Our troops are now marching in the streets of Merida; the capital of the former breakaway state of Cruzoob. Total victory is now imminent." #NT!
- cruzoob.122.a: "Viva México" #NT!
-  
- YUC_Elvia_Carrillo_Puerto: "Elvia Carrillo Puerto" #NT!
- YUC_Felipe_Carrillo_Puerto: "Felipe Carrillo Puerto" #NT!
- YUC_Alvaro_Torre_Diaz: "Álvaro Torre Díaz" #NT!
- YUC_Rafael_E_Melgar: "Rafael E. Melgar" #NT!
- YUC_Alfredo_Barrera_Vasquez: "Alfredo Barrera Vásquez" #NT!
- YUC_Arturo_Campillo_Seyde: "Arturo Campillo Seyde" #NT!
- YUC_Carlos_R_Menendez: "Carlos R. Menéndez" #NT!
- YUC_Gustavo_Arce_Correa: "Gustavo Arce Correa" #NT!
- YUC_Manuel_Gomez_Morin: "Manuel Gómez Morin" #NT!
- YUC_Salvador_Alvarado_Rubio: "Salvador Alvarado Rubio" #NT!
- YUC_Tomas_Garrido_Canabal: "Tomás Garrido Canabal" #NT!
- YUC_Luis_Maria_Martinez: "Luis Maria Martinez" #NT!
- YUC_Francisco_May_Pech: "Francisco May Pech" #NT!
- YUC_Alma_Marie_Sullivan_Reed: "Alma Marie Sullivan Reed" #NT!
- YUC_Jose_Clemente_Orozco: "José Clemente Orozco" #NT!
- YUC_Carlos_Jesus_Torre_Repetto: "Carlos Jesús Torre Repetto" #NT!
- YUC_Ermilo_Abreu_Gomez: "Ermilo Abreu Gómez" #NT!
- YUC_Miguel_Alonzo_Romero: "Miguel Alonzo Romero" #NT!
- YUC_Roberto_Reyes_Barreiro: "Roberto Reyes Barreiro" #NT!
- YUC_Nicolas_Camara_Vales: "Nicolás Cámara Vales" #NT!
- YUC_Rodolfo_Menendez_Mena: "Rodolfo Menéndez Mena" #NT!
- YUC_Raquel_Dzib_Cicero: "Raquel Dzib Cicero" #NT!
- YUC_Augusto_Harold_Alvarez_Garcia: "Augusto Harold Álvarez García" #NT!
- YUC_Consuelo_Zavala_Castillo: "Consuelo Zavala Castillo" #NT!
- YUC_Eleuterio_Avila: "Eleuterio Ávila" #NT!
- YUC_Mauro_Graciano_Ricalde_Gamboa: "Mauro Graciano Ricalde Gamboa" #NT!
- YUC_Ricardo_Lopez_Mendez: "Ricardo López Méndez" #NT!
- YUC_Maria_Rosa_Torre_Gonzalez: "María Rosa Torre González" #NT!
- YUC_Enrique_Goroztieta_Velarde: "Enrique Goroztieta Velarde" #NT!
- YUC_Manuel_Castilla_Brito: "Manuel Castilla Brito" #NT!
+
+### History
+ YUC_FUHRERREICH_DESC: "Последующие нападения на католиков со стороны военизированных формирований Кальеса вызвали национализм майя на полуострове Юкатан. Хаос в Мексике охватывает страну; эти националисты майя, являющиеся католиками, воспользовались этой возможностью и заявили о своей независимости от мексиканцев.\n\nОднако по мере того, как мексиканское государство исправляется; они присматриваются к бывшему отколовшемуся государству, и как только их приготовления будут завершены, конфликт станет приобретать все больший и больший масштаб..." # Subsequent attacks on Catholics by Calles' paramilitaries have sparked a Mayan nationalism in the Yucatan peninsula. As chaos in Mexico engulfs the nation; these Mayan nationalists whom are Catholics have seized the opportunity and have declared their independence from the Mexicans.\n\nHowever, as the Mexican state fixes itself; they are eyeing the former breakaway state, and once their preparations are complete, conflict looms larger and larger...
+
+### Country Names
+ YUC: "Юкатан" # Yucatan
+ YUC_ADJ: "Юкатеко" # Yucateco
+ YUC_DEF: "штат Юкатан" # the State of Yucatan
+ YUC_valkist: "Крузуб" # Cruzoob
+ YUC_valkist_ADJ: "Юкатеко" # Yucateco
+ YUC_valkist_DEF: "штат Крузуб" # the State of Cruzoob
+
+### Cosmetic
+ YUC_empire: "Священная Империя Крузуба" # Holy Empire of Cruzoob
+ YUC_empire_ADJ: "Юкатеко" # Yucateco
+ YUC_empire_DEF: "Священная Империя Крузуба" # the Holy Empire of Cruzoob
+
+### Parties
+ YUC_vanguardist_party: "Коммунисты" # Comunistas
+ YUC_vanguardist_party_long: "Коммунисты\n§gКоммунисты§!" # Comunistas\n§gCommunists§!
+ YUC_collectivist_party: "Нео-Виллистас" # Neo-Villistas
+ YUC_collectivist_party_long: "Нео-Виллисты\n§gНовые последователи вилл§!" # Neo-Villistas\n§gNew Villa Followers§!
+ YUC_libertarian_socialist_party: "ЛМАС" # LMAS
+ YUC_libertarian_socialist_party_long: "Мексиканская лига анархо-социалистов\n§gЛига мексиканских анархо-социалистов§!" # Liga Mexicana de Anarcho-Socialistas\n§gLeague of Mexican Anarcho-Socialists§!
+ YUC_social_democrat_party: "ДРУГОЙ" # ERI
+ YUC_social_democrat_party_long: "Институциональная революционная армия\n§gИнституциональная революционная армия§!" # Ejército Revolucionario Institucional\n§gInstitutional Revolutionary Army§!
+ YUC_social_liberal_party: "ФРМ" # PRM
+ YUC_social_liberal_party_long: "Партия мексиканской революции\n§gПартия мексиканской революции§!" # Partido de la Revolución Mexicana\n§gParty of the Mexican Revolution§!
+ YUC_market_liberal_party: "ПЛРМ" # PLRM
+ YUC_market_liberal_party_long: "Либеральная партия мексиканской революции\n§gЛиберальная партия мексиканской революции§!" # Partido Liberal de la Revolución Mexicana\n§gLiberal Party of the Mexican Revolution§!
+ YUC_social_conservative_party: "КАСТРЮЛЯ" # PAN
+ YUC_social_conservative_party_long: "Партия национального действия\n§gПартия национального действия§!" # Partido Acción Nacional\n§gNational Action Party§!
+ YUC_authoritarian_democrat_party: "Кристерос" # Cristeros
+ YUC_authoritarian_democrat_party_long: "Движение Кристеро\n§gХристианское движение§!" # Movimiento Cristero\n§gChristian Movement§!
+ YUC_paternal_autocrat_party: "ГМ" # GM
+ YUC_paternal_autocrat_party_long: "Военное правительство\n§gВоенное правительство§!" # Gobierno Militar\n§gMilitary Government§!
+ YUC_national_populist_party: "ЯВЛЯЕТСЯ" # AY
+ YUC_national_populist_party_long: "Архиепископия Юкатана\n§gАрхиепископия Юкатана§!" # Arquidiócesis de Yucatán\n§gArchdiocese of Yucatan§!
+ YUC_valkist_party: "Лоялисты" # Lealistas
+ YUC_valkist_party_long: "Верны революции майя\n§gВерны революции майя!" # Lealistas a la Revolución Maya\n§gLoyal to the Mayan Revolution!
+
+### Faction
+ YUC_BOL_accord: "Пакт возрождения коренных народов" # Pact of Indigenous Rejuvenation
+
+### Tooltips
+ YUC_support_a_side_tt: "Мы поддержим §Y[From.GetName]§! в их войне.\n" # We will support §Y[From.GetName]§! in their war.\n
+ YUC_can_integrate_states: "§GТеперь мы можем интегрировать государства с оккупированных территорий§!" # §GWe can now integrate states from occupied territories§!
+ YUC_infiltrating_mexico: "В настоящее время осуществляет операции на @MEX §YMexico§!." # Currently conducting operations in @MEX §YMexico§!
+ YUC_defence_tt: "§GСейчас мы развернем резервные дивизии.§!" # §GWe will now deploy the reserve divisions.§!
+ YUC_ger_focus_finished_tt: "Если фокус «§n$YUC_friends_in_europe$§!» завершен:" # If the focus \"§n$YUC_friends_in_europe$§!\" is completed:
+ YUC_bol_focus_finished_tt: "Если фокус «§n$YUC_friends_in_the_south$§!» завершен:" # If the focus \"§n$YUC_friends_in_the_south$§!\" is completed:
+
+### Decisions
+ YUC_mexican_infiltration: "Мексиканское проникновение" # Mexican Infiltration
+ YUC_fund_worker_strikes: "Забастовки работников фонда" # Fund Worker Strikes
+ YUC_fund_worker_strikes_tt: "§gМы попытаемся саботировать промышленное производство [MEX.GetName]§!." # §gWe will try to sabotage the industrial output of [MEX.GetName]§!
+ YUC_siphon_state_funds: "Выкачивать государственные фонды" # Siphon State Funds
+ YUC_siphon_state_funds_tt: "§gМы попытаемся перевести часть средств из казны [MEX.GetAdjective]§!" # §gWe will try to transfer some funding from the [MEX.GetAdjective] treasury§!
+ YUC_promote_anti_government_propaganda: "Продвигайте антиправительственную пропаганду" # Promote Anti-Government Propaganda
+ YUC_promote_anti_government_propaganda_tt: "§gМы попытаемся дестабилизировать нацию [MEX.GetAdjective]§!" # §gWe will try to destablize the [MEX.GetAdjective] nation§!
+ YUC_steal_stockpiled_equipment: "Украсть складированное оборудование" # Steal Stockpiled Equipment
+ YUC_steal_stockpiled_equipment_tt: "§gМы попытаемся украсть некоторое оборудование из склада [MEX.GetAdjective]§!" # §gWe will try to steal some equipment from the [MEX.GetAdjective] stockpile§!
+ YUC_mexican_yucateco_war: "Мексикано-юкатекская война" # Mexican-Yucateco War
+ YUC_mexican_yucateco_war_desc: "В тысячах миль от нашей родины в регионе Центральной Америки разгорается конфликт. Штат Крузуб, отколовшийся штат, расположенный на полуострове Юкатан, борется против освоения Мексики. Мексика, на другой земле, рассматривает штат Крузуб как отколовшееся государство, которым правят повстанцы Кристеро. Мы можем поддержать любую сторону; и оказывать ограниченную помощь избранной нами стороне или вообще ничего не делать." # Thousands of miles away from our homeland is a growing conflict in the Central American region. The state of Cruzoob, a splinter state that rests on the Yucatan peninsula is fighting against the reclamation of Mexico. Mexico, on the other land sees the state of Cruzoob, as a breakaway state rules by Cristero rebels. We can support either side; and provide limited aide to our chosen side, or do nothing at all.
+ YUC_support_a_side: "Поддержка [From.GetName]" # Support [From.GetName]
+ YUC_send_financial_aid: "Отправьте финансовую помощь на адрес [From.GetName]" # Send Financial Aid to [From.GetName]
+ YUC_send_industrial_aid: "Отправьте промышленную помощь на адрес [From.GetName]" # Send Industrial Aid to [From.GetName]
+
+ YUC_spreading_our_culture: "Распространение нашей культуры" # Spreading our Culture
+ YUC_integrate_state: "Интегрируйте §Y[From.GetName]§!" # Integrate §Y[From.GetName]§!
+
+### Opinion Modifiers
+ YUC_improved_relations: "Улучшение отношений" # Improved Relations
+ YUC_seized_our_investments: "Конфисковали наши инвестиции" # Seized our Investments
+
+### Ideas
+ YUC_spirit_of_the_faithful1: "Дух верных" # Spirit of the Faithful
+ YUC_spirit_of_the_faithful1_desc: "Что бы они ни делали, они не уничтожат нашу христианскую веру. Проблемы, с которыми мы столкнемся, не погасят нашу веру в Бога, а сделают ее еще сильнее!" # No matter what they will do, they won't extinguish our Christian faith. The challenges that we will face will not extinguish our belief in God, but will make it more strong!
+ YUC_spirit_of_the_faithful2: "Дух верных" # Spirit of the Faithful
+ YUC_spirit_of_the_faithful2_desc: "Что бы они ни делали, они не уничтожат нашу христианскую веру. Проблемы, с которыми мы столкнемся, не погасят нашу веру в Бога, а сделают ее еще сильнее!" # No matter what they will do, they won't extinguish our Christian faith. The challenges that we will face will not extinguish our belief in God, but will make it more strong!
+ YUC_mayan_ascension1: "Вознесение Майя" # Mayan Ascension
+ YUC_mayan_ascension1_desc: "Приход испанцев почти уничтожил нашу культуру и существование. Но мы снова восстали, и никогда больше такой иностранный захватчик не будет нас угнетать. Мы будем защищать нашу культуру и землю до самой смерти!" # The arrival of the Spaniards nearly wiped our culture and existence. But we have risen again, and never again will such foreign invader will oppress us. We will defend our culture and land until death!
+ YUC_mayan_ascension2: "Вознесение Майя" # Mayan Ascension
+ YUC_mayan_ascension2_desc: "Приход испанцев почти уничтожил нашу культуру и существование. Но мы снова восстали, и никогда больше такой иностранный захватчик не будет нас угнетать. Мы будем защищать нашу культуру и землю до самой смерти!" # The arrival of the Spaniards nearly wiped our culture and existence. But we have risen again, and never again will such foreign invader will oppress us. We will defend our culture and land until death!
+ YUC_mayan_ascension3: "Вознесение Майя" # Mayan Ascension
+ YUC_mayan_ascension3_desc: "Приход испанцев почти уничтожил нашу культуру и существование. Но мы снова восстали, и никогда больше такой иностранный захватчик не будет нас угнетать. Мы будем защищать нашу культуру и землю до самой смерти!" # The arrival of the Spaniards nearly wiped our culture and existence. But we have risen again, and never again will such foreign invader will oppress us. We will defend our culture and land until death!
+ YUC_non_existent_industry: "Несуществующая промышленность" # Non-Existent Industry
+ YUC_non_existent_industry_desc: "Мексиканцы никогда не считали районы Юкатана важными и поэтому оставались слаборазвитыми." # The areas of Yucatan have never been seen as an importance by the Mexicans, and thus remained underdeveloped.
+ YUC_general_staff: "Генеральный штаб" # General Staff
+ YUC_training_school: "Учебная школа" # Training School
+ YUC_cristero_exodus: "Кристеро Исход" # Cristero Exodus
+ YUC_aircraft_purchase: "Покупка самолетов" # Aircraft Purchase
+ YUC_naval_purchase: "Военно-морская покупка" # Naval Purchase
+ YUC_tourism: "Туризм" # Tourism
+ YUC_german_advisors: "Немецкие консультанты" # German Advisors
+ YUC_german_advisors_desc: "[GER.GetName] прислали советников с целью улучшить и модернизировать возможности нашей армии." # The [GER.GetName] have sent advisors that aims to improve and modernize our army's capability.
+ YUC_labour_regulations: "Трудовое законодательство" # Labour Regulations
+ YUC_reformed_bureaucracy: "Реформированная бюрократия" # Reformed Bureaucracy
+ YUC_christian_curriculum: "Христианская учебная программа" # Christian Curriculum
+ YUC_mayan_curriculum: "Учебная программа майя" # Mayan Curriculum
+ YUC_waiting_and_preparing_idea: "Ожидание и подготовка" # Waiting and Preparing
+ YUC_worker_strikes: "Забастовки рабочих" # Worker Strikes
+ YUC_siphoned_funds: "Выкачанные средства" # Siphoned Funds
+ YUC_anti_government_propaganda: "Антиправительственная пропаганда" # Anti-Government Propaganda
+
+### Focus
+ YUC_stabilization_of_the_state: "Стабилизация государства" # Stabilization of the State
+ YUC_stabilization_of_the_state_desc: "Хаос в Мексике позволил нам провозгласить нашу независимость и отделиться от ублюдков-атеистов. Однако наша недавняя независимость также принесла нестабильность в регион: многие жители штата борются за власть, а многие находятся в оппозиции в нашем собственном правительстве. Мы должны что-то с этим сделать." # The chaos in Mexico have allowed us to proclaim our own independence and be seperate with the atheist bastards. However, our recent independence also brought instability to the region, many within the state are vying for power and many are in opposition in our own government. We must do something about that.
+ YUC_economic_investments: "Экономические инвестиции" # Economic Investments
+ YUC_economic_investments_desc: "Одним из способов улучшения качества жизни здесь, в нашей стране, является развитие экономики. Правительство само предоставит инвестиции в экономику штата, чтобы предоставить больше возможностей нашему народу." # One way in improving the quality of life here in our nation is to develop the economy. The government itself will provide investments to the state's economy to produce more opportunities to our people.
+ YUC_industry_construction: "Промышленность Строительство" # Industry Construction
+ YUC_industry_construction_desc: "Инвестиций в экономику недостаточно для развития региона Юкатан, поэтому нам необходимо строить отрасли, которые будут эффективно развивать наши экономические возможности в регионе, а также приносить нам прибыль." # Investing in the economy is not enough to develop the Yucatan region, that why we need to construct industries to efficiently develop our economic capabilities in the region, and also bring us profit.
+ YUC_factory_construction: "Строительство завода" # Factory Construction
+ YUC_factory_construction_desc: "Производство оружия также может принести больше прибыли в экономику, и при этом дополнительные вооружения, которые можно произвести с его помощью, могут пригодиться в случае стычки." # Weapons production can also bring more profit in the economy, and with that additional armaments that can be produced by them can be useful in case of a skirmish.
+ YUC_roads_and_highways: "Дороги и шоссе" # Roads and Highways
+ YUC_roads_and_highways_desc: "При развитии региона Юкатан мы также должны уделить приоритетное внимание строительству инфраструктуры, которая может быть использована нашим народом, промышленностью, а также армией." # In developing the Yucatan region, we must also prioritize the construction of infrastructure, one that can be used by our people, the industries and also the army.
+ YUC_encourage_tourism: "Поощряйте туризм" # Encourage Tourism
+ YUC_encourage_tourism_desc: "В регионе Юкатана находятся руины древнего мира, и поэтому некоторые в правительстве предлагают нам проводить туристические кампании, чтобы укрепить наш экономический потенциал." # The Yucatan region is home to some ruins of the ancient world, and with that, some in the government proposes that we conduct tourism campaigns to bolster our economic capability.
+ YUC_prioritize_mining: "Расставьте приоритеты в майнинге" # Prioritize Mining
+ YUC_prioritize_mining_desc: "Осваивая сельские районы нашего региона, наши инженеры обнаружили множество месторождений полезных ископаемых, которые можно разрабатывать. Мы должны провести операции, которые позволят использовать этот дар нашей земле." # While developing the rural areas of our region, our engineers have found many raw mineral deposits that can be exploited. We must conduct operations that can make use of this gift our our land.
+ YUC_stable_economy: "Стабильная экономика" # Stable Economy
+ YUC_stable_economy_desc: "Наша экономика, возможно, не растет так, как мы ожидали, но мы улучшили наши промышленные возможности для дальнейшей стабилизации нашей экономики." # Our economy might not be growing as we expected but we have improved our industrial capabilities to further stabilize our economy.
+ YUC_rural_development: "Сельское развитие" # Rural Development
+ YUC_rural_development_desc: "Чтобы продолжить модернизацию нашей страны, мы должны реализовать схемы развития неиспользуемых сельских земель, которые можно использовать в промышленных целях; Таким образом, земля не будет потрачена впустую, и экономика будет расти." # In order to further modernize our nation, we must conduct developmental schemes of unused rural land that can be used for industrial purposes; that way, the land isn't wasted and the economy will grow.
+ YUC_invite_german_advisors: "Пригласить немецких консультантов" # Invite German Advisors
+ YUC_invite_german_advisors_desc: "Немцы на другом конце света могут принести большую пользу нашей стране, и поэтому некоторые чиновники предлагают пригласить советников для помощи нам в управлении нашим государством." # The Germans in the other side of the world can be a great benefit to our nation, and thus some officials are proposing to invite some advisors to assist us in managing our state.
+ YUC_seize_american_capital: "Захватить американскую столицу" # Seize American Capital
+ YUC_seize_american_capital_desc: "Американцы оставили значительный объем инвестиций в нашем регионе до того, как мексиканские националисты захватили контроль над Мексикой. Мы можем захватить этот капитал и эффективно использовать его в своих целях." # The Americans have left a significant amount of investment in our region before that Mexican Nationalists seized control of Mexico. We can seize that capital and effectively use it for our own purposes.
+ YUC_border_fortifications: "Пограничные укрепления" # Border Fortifications
+ YUC_border_fortifications_desc: "Надвигается буря, и поэтому мы должны быть готовы, необходимо построить укрепления на наших границах, чтобы защитить наш дом." # A storm is coming, and thus we must be prepared, fortifications in our borders must be constructed in order to defend our home.
+ YUC_coastal_fortifications: "Береговые укрепления" # Coastal Fortifications
+ YUC_coastal_fortifications_desc: "Защищая наш дом, мы не должны забывать и об укреплении нашей береговой линии, потому что, если мы этого не сделаем, враг может напасть на нас сзади." # In defending our home, we must not also forgot in fortifying our coastline, because if we do not, the enemy might attack us from behind.
+ YUC_the_question_of_the_church: "Вопрос Церкви" # The Question of the Church
+ YUC_the_question_of_the_church_desc: "Роль Церкви в последние месяцы была под большим вопросом, и сейчас мы ее формализуем." # The role of the Church has been quite in question in the recent months, and now we will formalize it.
+ YUC_education_and_propaganda: "Образование и пропаганда" # Education and Propaganda
+ YUC_education_and_propaganda_desc: "Министерство образования было в замешательстве при проведении реформы учебных программ в нашем штате. Мы поможем им принять решение." # The Education Ministry have been quite in confusion in implementing curricular reforms in our state. We will help them make a decision.
+ YUC_labour_codes: "Трудовой Кодекс" # Labour Codes
+ YUC_labour_codes_desc: "По-настоящему модернизируя наше государство, мы должны провести реформы, которые принесут пользу нашим работникам, потому что без них экономика взорвется, а государство падет." # In truly modernizing our state, we must implement reforms that can benefit our workers, because without them, the economy will explode and the state will fall.
+ YUC_restructure_the_bureaucracy: "Реструктуризация бюрократии" # Restructure the Bureaucracy
+ YUC_restructure_the_bureaucracy_desc: "Наш бюрократический процесс был унаследован от прошлых правительств и довольно медленный и раздутый. Реформы необходимы, чтобы сделать бюрократию в нашем государстве быстрой и эффективной." # Our bureaucratic process have been inherited from the past governments and is quite slow and bloated. Reforms are needed to make the bureaucracy in our state fast and efficient.
+ YUC_waiting_and_preparing: "Ожидание и подготовка" # Waiting and Preparing
+ YUC_waiting_and_preparing_desc: "В это непростое время мы должны быть готовы ко всему. Надвигается буря, и переживут ее только те, кто подготовлен и сильнейший." # In this difficult times, we must be prepared for anything. A storm is coming, and only those who are prepared and the strongest will survive it.
+ YUC_watch_the_mexicans: "Наблюдайте за мексиканцами" # Watch the Mexicans
+ YUC_watch_the_mexicans_desc: "В случае конфликта мы должны иметь преимущество, и для этого некоторые в правительстве предлагают проникнуть в саму Мексику, собрать разведданные и провести подрывные операции." # In case of conflict, we must have the advantage, and to accomplish that, some in the government proposes to infiltrate Mexico itself, to gather intelligence and perform subversive operations.
+ YUC_the_tables_have_turned: "Столы изменились" # The Tables Have Turned
+ YUC_the_tables_have_turned_desc: "Наконец! С силами ублюдков-атеистов покончено, и поэтому мы должны полностью аннексировать регион и интегрировать его в наше государство." # At last! The forces of the atheist bastards have been taken care of and with that, we must annex the region completely, and itegrate it with our state.
+# Expansion and Foreign Affairs
+ YUC_spread_our_spirit: "Распространяйте наш дух" # Spread our Spirit
+ YUC_spread_our_spirit_desc: "Несмотря на то, что мы такие же братья-христиане, некоторые из наших соседей, похоже, забывают свою веру. Однако мы будем распространять свой дух в поклонении единому истинному Богу либо посредством дипломатии, либо силой." # Despite being the same Christian brothers, it seems some of our neighbors are forgetting their faith. However, we shall spread our sprit in worshipping the one true God, either by diplomacy or force.
+ YUC_seeking_new_friends: "Ищу новых друзей" # Seeking New Friends
+ YUC_seeking_new_friends_desc: "Чтобы выжить в этот век, мы должны найти друзей и союзников, которые помогут нам преодолеть трудности, с которыми нам предстоит столкнуться." # In order to survive in this age, we must find friends and allies to help us overcome challenges that we must face.
+ YUC_friends_in_europe: "Друзья в Европе" # Friends in Europe
+ YUC_friends_in_europe_desc: "Новая Германия поднимается, и при этом мы должны быть на их стороне. Установление официальных дипломатических отношений с ними должно быть нашим главным приоритетом." # A New Germany is rising, and with that we must be on their good side. Having formal diplomatic relations with them must be our top priority.
+ YUC_friends_in_the_south: "Друзья на юге" # Friends in the South
+ YUC_friends_in_the_south_desc: "Недавние события в Боливии позволили коренному населению взять под свой контроль и позаботиться о своей стране. Мы должны установить с ними дипломатические отношения, чтобы гарантировать, что у нас есть друзья в регионе." # The recent events in Bolivia have allowed the indigenous people to seize control and take care of their own country. We should establish diplomatic relations with them to ensure that we have friends in the region.
+ YUC_joint_army_exercises: "Совместные армейские учения" # Joint Army Exercises
+ YUC_joint_army_exercises_desc: "Поскольку мы установили дипломатические отношения с нашими целевыми союзниками, мы должны предложить им какие-то совместные армейские учения, чтобы лучше координировать наши войска в случае конфликта." # Since we have established diplomatic relations with our targeted allies, we should propose to them some kind of joint army exercises to better coordinate our troops in case of conflict.
+ YUC_intelligence_sharing: "Обмен разведданными" # Intelligence Sharing
+ YUC_intelligence_sharing_desc: "Поскольку у нас те же интересы, что и у Боливии, некоторые в правительстве предлагают обмениваться разведывательными данными между нами и ними. Таким образом, мы сможем определить наш следующий шаг в поведении в регионе." # As we have the same interests as Bolivia, there are some in the government that proposes to share intelligence data between us and them. That way, we can determine our next step in conduct in the region.
+ YUC_join_the_stahlpakt: "Присоединяйтесь к Штальпакту" # Join the Stahlpakt
+ YUC_join_the_stahlpakt_desc: "Пришло время, хотя немцы в идеологическом отношении совершенно одиноки в Западной Европе, они могут сравняться с французами и британцами в военном отношении; формальный союз с ними может принести нам пользу в долгосрочной перспективе." # It is time, although the Germans are quite alone in ideological terms in Western Europe, they might evenly match the French and British in terms of military; a formal alliance with them can benefit us in the long run.
+ YUC_a_native_alliance: "Родной Альянс" # A Native Alliance
+ YUC_a_native_alliance_desc: "Коренные народы Юга приобрели большое влияние в регионе; мы будем стремиться к союзу с ними, чтобы и в дальнейшем гарантировать защиту нашей культуры и наследия." # The indigenous peoples in the South has established a great deal of influence in the region; we will seek an alliance with them, to further ensure that our culture and heritage is protected.
+ YUC_establish_relations_in_the_pacific: "Установить отношения в Тихом океане" # Establish Relations in the Pacific
+ YUC_establish_relations_in_the_pacific_desc: "Возвышение сакдалистов в Филиппинской республике удивило многие иностранные державы. Но это событие дает нам возможность обрести друга на Востоке." # The rise of the Sakdalistas in the Philippine Republic has suprised many foreign powers. But with that event, it is an opportunity for us to have a friend in the East.
+ YUC_trade_opportunities_in_asia: "Торговые возможности в Азии" # Trade Opportunities in Asia
+ YUC_trade_opportunities_in_asia_desc: "Нам удалось установить отношения с филиппинцами, и оба правительства заинтересованы в том, чтобы друг друга стали торговыми партнерами. Мы официально предложим это филиппинцам, поскольку природные ресурсы Востока могут быть полезны для нас в долгосрочной перспективе." # We have managed to establish relations with the Filipinos, and both governments are interested in having each other as a trading partner. We shall formally propose this to the Filipinos, for the natural resources in the East, can be beneficial for us in the long run.
+ YUC_creating_our_new_generation: "Создание нашего нового поколения" # Creating our New Generation
+ YUC_creating_our_new_generation_desc: "Старая империя, уничтоженная испанцами сотни лет назад, все еще существует здесь, в нашей стране. Однако времена прошли, и мы должны создать новую империю, соответствующую нашей вере и особенно нашей культуре." # The old empire that has been eradicated by the Spaniards hundreds of years ago have are still found here in our nation. However, times had passed and we must create a new empire that fits our faith and especially our culture.
+ YUC_reclaim_the_south: "Вернуть Юг" # Reclaim the South
+ YUC_reclaim_the_south_desc: "Старая империя простирается от региона Юкатана до земель на побережье Тихого океана. Мы должны присоединить его обратно к нашему государству." # The old empire stretches from the Yucatan region to the lands in the coast of Pacific. We must annex it back to our state.
+ YUC_drift_to_the_north: "Дрейф на север" # Drift to the North
+ YUC_drift_to_the_north_desc: "То же самое и с мексиканцами, янки на севере сейчас забывают свою веру. Мы должны напомнить им силой." # Same with the Mexicans, the Yankees in the north are currently forgetting their faith. We must remind them by force.
+ YUC_continue_south: "Продолжайте движение на юг" # Continue South
+ YUC_continue_south_desc: "Наша великая империя теперь простирается так широко, как никогда прежде не видело солнце. Но это нас не остановит, мы продолжим экспансию на юг и тем самым продолжим распространять нашу культуру и веру среди оккупированных людей." # Our great empire now stretches wide as the sun have never seen before. But that will not stop us, we will continue expanding southward, and with that continue spreading our culture and faith to the occupied people.
+ YUC_expanding_our_borders: "Расширяем наши границы" # Expanding our Borders
+ YUC_expanding_our_borders_desc: "Мы столкнулись с ожесточенным сопротивлением людей в государствах, которые мы сейчас оккупируем; поэтому нам необходимо интегрировать эти земли для дальнейшей стабилизации региона." # We have faced fierced resistance to the people in the states we have currently occupying; so we need to integrate these lands to further stablize the region.
+ YUC_our_rise_is_their_downfall: "Наш взлет – это их падение" # Our Rise is their Downfall
+ YUC_our_rise_is_their_downfall_desc: "Империя снова возродилась, а вместе с ней и падение несостоявшихся государств, интегрированных в империю. Никто не может бросить вызов мощи нашей империи, потому что Бог на нашей стороне." # The Empire have risen again, and with that the downfall of failed states that is integrated into the empire. No one can challenge the might of our empire, because God is on our side.
+# Army
+ YUC_the_warriors_of_tomorrow: "Воины завтрашнего дня" # The Warriors of Tomorrow
+ YUC_the_warriors_of_tomorrow_desc: "В наши дни войны ведутся не с помощью примитивного оружия, такого как копья и мечи, современность принесла с собой новое оружие, которое позволило человеку мгновенно убить десятки или сотни людей. Мы не должны отставать." # Nowadays, wars are not fought with primitive weapons such as spears and swords, the modern age have brought newer weapons that allowed man to kill tens or hundreds of people instantly. We must not fall behind.
+ YUC_adopt_modern_doctrines: "Примите современные доктрины" # Adopt Modern Doctrines
+ YUC_adopt_modern_doctrines_desc: "С наступлением современной эпохи эволюционировали также планы боевых действий и доктрины. Мы изучим и примем эти современные доктрины, чтобы гарантировать, что мы не потерпим поражение в бою." # With the ascention of the modern age, battleplans and doctrines have evolved too. We will study and adopt these modern doctrines to ensure that we will not be defeated in battle.
+ YUC_standardization_of_equipment: "Стандартизация оборудования" # Standardization of Equipment
+ YUC_standardization_of_equipment_desc: "Наши войска в настоящее время используют различную технику; Это серьезная проблема, поскольку разное оборудование требует разных боеприпасов и разных методов обслуживания. Мы будем уделять приоритетное внимание стандартизации оснащения наших войск." # Our troops are currently using different kinds of equipment; this is a major problems are different equipment requires different ammunitions and different methods of maintainance. We will prioritize to standardize the equipment of our troops.
+ YUC_communication_improvements: "Улучшения связи" # Communication Improvements
+ YUC_communication_improvements_desc: "Хорошая связь между нашими частями и дивизиями — важнейший фактор победы в боях. Улучшение этих возможностей армии может дать нам преимущество в случае конфликта." # Good communication between our units and divisions are an essential factor of winning battles. Improving these capability of the army can have us the advantage in case of conflict.
+ YUC_firepower_research: "Исследование огневой мощи" # Firepower Research
+ YUC_firepower_research_desc: "Мы продолжим наши усилия по обеспечению нашей пехоты и войск поддержки самым лучшим оборудованием современности." # We will continue our efforts to ensure our infantry and support troops are armed with the best possible equipment of our time.
+ YUC_logistics_support: "Логистическая поддержка" # Logistics Support
+ YUC_logistics_support_desc: "Наши люди бесполезны без припасов. Логистика в войне важна, мы не должны ею пренебрегать." # Our men is useless without supplies. The logistics in warfare is important, we must not neglect it.
+ YUC_repurpose_civilian_trucks: "Перепрофилирование гражданских грузовиков" # Repurpose Civilian Trucks
+ YUC_repurpose_civilian_trucks_desc: "Есть немало гражданских грузовиков, которые либо не используются, либо обслуживаются. Мы должны перепрофилировать их для использования в военных целях." # There are quite a handful of civilian trucks that are either unused or being maintained. We should repurpose them for military use.
+ YUC_coordinated_strikes: "Скоординированные удары" # Coordinated Strikes
+ YUC_coordinated_strikes_desc: "Скоординированные удары по позициям противника могут эффективно выбить его подразделения, а иногда и вызвать хаос в структуре управления. Эта эффективная стратегия может оказаться весьма полезной в бою." # Coordinated strikes in enemy positions can effectively dislodge their units and sometimes cause chaos in the command structure. This effective strategy can be quite useful in battle.
+ YUC_fund_yucatan_arsenal: "Фонд Юкатан Арсенал" # Fund Yucatan Arsenal
+ YUC_fund_yucatan_arsenal_desc: "Для удовлетворения спроса на новую технику необходимы дальнейшие усилия по расширению наших военных заводов." # Continued efforts to expand our military factories are necessary to meet the demands for new equipment.
+ YUC_form_a_general_staff: "Сформировать Генеральный штаб" # Form a General Staff
+ YUC_form_a_general_staff_desc: "Генеральный штаб отвечает за обширное планирование военных операций в армии." # The General Staff is responsible for extensive planning of military operations in the Army.
+ YUC_found_a_training_school: "Нашел учебную школу" # Found a Training School
+ YUC_found_a_training_school_desc: "Учебная школа – это учреждение, которое готовит наши будущие войска. Их навыки и ум будут эффективно подготовлены к будущим боевым действиям." # A training school is an institution that trains our future troops. Their skills and minds will be effectively trained for future combat operations.
+ YUC_recruitment_campaigns: "Кампании по набору персонала" # Recruitment Campaigns
+ YUC_recruitment_campaigns_desc: "Некоторые в генеральном штабе предлагают провести кампании по набору персонала в сельских районах штата, поскольку нам нужны кадры для создания полноценной армии." # Some in the general staff proposes that we conduct recruitment campaigns in the rural parts of the state, as we need manpower to build a proper army.
+ YUC_attract_the_cristeros: "Привлечь кристерос" # Attract the Cristeros
+ YUC_attract_the_cristeros_desc: "Кристерос были группой людей, чья вера подвергалась таким же испытаниям, как и наша. Будет хорошо, если они будут на нашей стороне." # The Cristeros were a group of people whose faith is tested and with the same as ours. It will be good to make them on our side.
+ YUC_form_reserves: "Формировать резервы" # Form Reserves
+ YUC_form_reserves_desc: "Для подготовки к предстоящему конфликту мы должны сформировать резервные подразделения, которые можно будет вызвать в случае острой ситуации." # For the preparation of the incoming conflict, we must form reserve units that can be called when the situation is dire.
+ YUC_the_new_kind_of_warfare: "Новый вид войны" # The New Kind of Warfare
+ YUC_the_new_kind_of_warfare_desc: "Современная эпоха принесла множество инноваций, в том числе войну не на суше, а в воздухе и на море." # In modern age has brought many innovations, and one is warfare not on land but on air and sea.
+ YUC_air_warriors: "Воздушные воины" # Air Warriors
+ YUC_air_warriors_desc: "Битва в воздухе требует самолетов и людей для управления этими самолетами. Мы будем обучать пилотов эффективно побеждать в воздушном бою." # The battle on the air requires aircraft and man to operate those aircraft. We will train pilots to effectively win the battle in the air.
+ YUC_sea_warriors: "Морские воины" # Sea Warriors
+ YUC_sea_warriors_desc: "Морские пехотинцы необходимы для ведения боя на море. Эти грозные моряки обучены сухопутному и морскому бою. Они будут весьма полезны в будущих конфликтах." # Marines is required in fighting the battle in the sea. These formidable sailors are trained in land and sea combat. They will be quite useful in the future conflicts.
+ YUC_purchase_foreign_aircraft: "Покупка иностранных самолетов" # Purchase Foreign Aircraft
+ YUC_purchase_foreign_aircraft_desc: "У нас нет возможности производить собственные самолеты, однако мы можем закупать их у стран, которые имеют возможности производить их в больших масштабах." # We do not have the capacity to produce our own aircraft, we can however, purchase it from countries that has the capability is producing them in large scale.
+ YUC_air_bases_and_defenses: "Авиабазы ​​и оборона" # Air Bases and Defenses
+ YUC_air_bases_and_defenses_desc: "Для победы в воздушном бою недостаточно иметь самолет и пилотов, мы также должны вести оборону, которая может помешать авиации противника нанести ущерб на наших территориях." # Having an aircraft and pilots are not enough in winning the battle in the air, we should also conduct defenses that can hinder enemy aircraft in creating damages in our territories.
+ YUC_purchase_foreign_ships: "Покупка иностранных кораблей" # Purchase Foreign Ships
+ YUC_purchase_foreign_ships_desc: "Производство кораблей может быть довольно сложным, однако мы всегда можем приобрести их в странах, где есть их запасы." # Ships can be quite complicated to produce one, however, we can always purchase some in countries that has stockpiles of them.
+ YUC_naval_bases: "Военно-морские базы" # Naval Bases
+ YUC_naval_bases_desc: "Для надлежащего обслуживания и стоянки этих кораблей требуется нечто большее, чем просто деревянные верфи. Для ремонта этих грозных крепостей необходимо строительство военно-морской базы." # These ships requires more than wooden dockyards to be properly maintained or anchored. A construction of a naval base is neeed in repairing these formidable fortresses.
+ YUC_naval_and_air_coordinations: "Координация ВМФ и авиации" # Naval and Air Coordination
+ YUC_naval_and_air_coordinations_desc: "В морской битве для нанесения сильного удара по противнику необходима координация действий наших авиационных и морских частей." # In the battle of the seas, the coordination between our air units and naval units is essential in dealing a great blow to our enemy.
+ YUC_defend_our_faith_and_culture: "Защитите нашу веру и культуру" # Defend Our Faith and Culture
+ YUC_defend_our_faith_and_culture_desc: "Мы снова восстали и никогда никому не позволим снова стереть нас из истории. Мы будем защищать нашу веру и культуру до конца." # We have risen again and we will never allow anyone to erase us again from history. We will defend our faith and culture to the end.
+
+### Companies
+ YUC_yucatan_arsenal: "Юкатан Арсенал" # Yucatan Arsenal
+
+### Events
+ cruzoob.0.t: "Воскресший Феникс" # The Risen Phoenix
+ cruzoob.0.d: "Штат Крузуб был отколовшимся государством на полуострове Юкатан; провозгласила независимость после сокрушительного поражения мексиканцев в Великой войне. Наш лидер [Root.GetLeader] основал нашу нацию с целью сохранить нашу христианскую веру вместе с традиционной культурой майя, которая когда-то бродила по этим землям до прихода испанцев. Однако [MEX.GetAdjective]s утверждают, что наше государство — не что иное, как мятежное государство; попытка удержаться на плаву с помощью доктрины Монро со стороны США; и при этом мы должны быть осторожны, поскольку влияние Соединенных Штатов ослабевает; и [MEX.GetAdjective] готовятся к новому конфликту против нас и Колумбии, потому что, если они добьются успеха, мы, возможно, никогда больше не восстанем." # The State of Cruzoob was a breakaway state in the Yucatan Peninsula; proclaimed independence after the crushing defeat of the Mexicans after the Great War. Our leader, [Root.GetLeader] founded our nation with the aim of preserving our Christian faith with the traditional Mayan culture that once roam around these lands before the Spanish arrived. However, the [MEX.GetAdjective]s claims that our state is nothing more of an rebellious state; trying to stay afloat using the Monroe Doctrine by the United States; and with that we must be cautious as the influence of the United States dwindle; and the [MEX.GetAdjective]s prepare for another conflict against us and Columbia, because if they succeed, we may never rise again.
+ cruzoob.0.a: "За Бога и Родину!" # For God and Country!
+ cruzoob.1.t: "Роль католической церкви" # The Role of the Catholic Church
+ cruzoob.1.d: "На протяжении веков, начиная со средневековья в Европе и колониального периода здесь, в Новом Свете, католическая церковь не боялась выражать свою обеспокоенность по поводу дел, связанных с правительством. Их влияние распространилось от рядовых бюрократов до важных постов в самом правительстве. Однако официальной политики, которая могла бы ограничить или расширить это влияние Церкви, не существует, поскольку наше государство было довольно новым. По этой причине некоторые в правительстве предлагают официально определить, какой должна быть роль Церкви в нашем новом государстве." # For centuries, since the middle ages in Europe and the colonial period here in the New World, the Catholic Church have not afraid to voice our their concerns over the affairs over the government. Their influence have stretched out from the ordinary bureaucrats to the important positions in the government itself. However, there are no official policies that can limit or expand these influence of the Church as our state was fairly new. Because of this, some in the government are proposing to formalize on what the Church's role must be in our new state.
+ cruzoob.1.a: "Их мнение имеет значение, как и мнение самого создателя." # Their opinions matter as the representatives of the creator himself.
+ cruzoob.1.b: "Им нет места в правительстве" # They have no place in the Government
+ cruzoob.2.t: "Наша учебная программа" # Our Education Curriculum
+ cruzoob.2.d: "В то время как Министерство образования готовится реформировать систему образования в нашем штате, существуют разногласия по поводу того, что должно быть приоритетным в этой новой учебной программе. Некоторые утверждали, что нам следует уделить приоритетное внимание христианской учебной программе, чтобы привить молодежи христианские ценности и дисциплину. Однако некоторые утверждали, что наши традиции и культура должны стать главным приоритетом новой учебной программы, чтобы еще больше расширить знания, а не препятствовать исследованию наших исследовательских возможностей." # While the Education Ministry is preparing to reform the education system in our state, there have been disagreements on what this new curriculum must prioritize. Some argued that we should prioritize a Christian curriculum to mold the youth into Christian values and discipline. However, some argued that our tradition and culture should be the main prioritization of the new curriclum to further boost the knowledge and not to hinder the exploration of our research capabilities.
+ cruzoob.2.a: "Отдайте предпочтение христианской учебной программе" # Prioritize a Christian curriculum
+ cruzoob.2.b: "Расставьте приоритеты в учебной программе, основанной на наших корнях!" # Prioritize a curriculum based on our roots!
+ cruzoob.3.t: "Прибытие изгнанников Кристеро" # Arrival of the Cristero Exiles
+ cruzoob.3.d: "Когда [MEX.GetLeader] пришел к власти, многие противники него в [MEX.GetName] стали искать убежища в нашем штате. Это произошло из-за антикатолической политики [MEX.GetLeader], которая подавляла наиболее религиозные секты в стране." # As [MEX.GetLeader] have risen into power, many opposed to him in [MEX.GetName] have seek refuge in our state. This was due to [MEX.GetLeader]'s Anti-Catholic policies that suppressed the more religious sects in the country.
+ cruzoob.3.a: "Приходите и присоединяйтесь к нам, братья!" # Come and join us, brothers!
+ cruzoob.4.t: "Забастовки в [MEX.Capital.GetName]" # Strikes in [MEX.Capital.GetName]
+ cruzoob.4.d: "Наш небольшой заговор по саботажу экономики [MEX.GetAdjective] оказался весьма успешным. Есть сообщения о забастовках рабочих в их столице [MEX.Capital.GetName]." # Our little plot in sabotaging the [MEX.GetAdjective] economy have been quite successful. There are reports of worker strikes in their capital, [MEX.Capital.GetName].
+ cruzoob.4.a: "Кажется, началось" # It has started it seems
+ cruzoob.5.t: "Планы забастовок провалились" # Plans of Strikes Failed
+ cruzoob.5.d: "Правительство [MEX.GetAdjective] перехватило наши планы и быстро приняло меры, различные профсоюзные лидеры были арестованы, а план провалился." # The [MEX.GetAdjective] Government have intercepted our plans and have swiftly took action, various union leaders have been arrested and the plan has collapsed.
+ cruzoob.5.a: "Запретите все возможные соединения!" # Deny every connection possible!
+ cruzoob.6.t: "Средства, переданные в казначейство" # Funds Transferred to the Treasury
+ cruzoob.6.d: "Наша запланированная операция оказалась успешной, поскольку значительная сумма средств была выкачана из казны [MEX.GetAdjective]." # Our planned operation has proved to be a success as their have been significant amount of fund that has been siphoned from the [MEX.GetAdjective] treasury.
+ cruzoob.6.a: "Хороший.." # Good..
+ cruzoob.7.t: "Средства не переведены" # Funds Not Transferred
+ cruzoob.7.d: "Наша запланированная операция провалилась, поскольку власти [MEX.GetAdjective] перехватили наши планы и захватили средства, хранящиеся в их казначействе." # Our planned operation have failed as [MEX.GetAdjective] authorities have intercepted our plans and have secured their funds stored in their treasury.
+ cruzoob.7.a: "Стыд..." # Shame...
+ cruzoob.8.t: "В [MEX.GetName] резко возросли антиправительственные настроения" # Anti-Government Sentiments Soared in [MEX.GetName]
+ cruzoob.8.d: "Мы заплатили паре уважаемых журналистов в [MEX.GetName], чтобы они раскритиковали правительство за неправильное решение Великой войны и других внутренних проблем. Похоже, что публика раскупила их работы, сейчас в [MEX.GetName] появились антиправительственные настроения." # We have payed a couple of respectable journalists in [MEX.GetName] to critic the government in mishandling the Great War and other internal issues. It seems that the public have bought their works in now there have been anti-government sentiments in [MEX.GetName].
+ cruzoob.8.a: "Хороший." # Good.
+ cruzoob.9.t: "Заговор по дестабилизации провалился" # Destablization Plot Failed
+ cruzoob.9.d: "Наш небольшой заговор по дестабилизации в [MEX.GetName] провалился. Журналисты сообщили, что наши агенты связались с ними с целью пропаганды антиправительственной пропаганды, и были арестованы. Кажется, [MEX.GetAdjective] национализм все еще жив." # Our little destabilization plot in [MEX.GetName] have been a failure. The journalists have reported our agents in contacting them to promote Anti-Government Propaganda and have been arrested. It seems that the [MEX.GetAdjective] nationalism is still alive.
+ cruzoob.9.a: "О, нет." # Oh no.
+ cruzoob.10.t: "Запасы [MEX.GetAdjective] разграблены!" # [MEX.GetAdjective] stockpiles raided!
+ cruzoob.10.d: "Наш небольшой заговор по краже оборудования [MEX.GetAdjective] из их собственных запасов оказался вполне успешным, поскольку теперь в грузовиках, прибывших сюда в [Root.Capital.GetName], стоят ящики с оборудованием." # Our little plot in stealing [MEX.GetAdjective] equipment from their own stockpiles have proved to be quite a success as there are now crates filled with equipment in trucks that have arrived here in [Root.Capital.GetName].
+ cruzoob.10.a: "Возможно, нам это понадобится позже." # We might need this for later
+ cruzoob.11.t: "Никакое оборудование не прибудет" # No equipment will arrive
+ cruzoob.11.d: "Наш небольшой заговор по краже оборудования [MEX.GetAdjective] из собственных запасов провалился, охрана задержала наших наемников и сейчас их допрашивают." # Our little plot in stealing [MEX.GetAdjective] equipment from their own stockpiles have failed, the guards have apprehended our mercenaries and now currently being interrogated.
+ cruzoob.11.a: "Это прискорбно..." # That's unfortunate...
+ cruzoob.12.t: "Похитить Чьяпас?" # Snatching Chiapas?
+ cruzoob.12.d: "Поскольку [MEX.GetAdjective] и [USA.GetAdjective] рвут друг другу глотки, у нас теперь есть возможность захватить нашу старую территорию Чьяпаса; конечно, война с [MEX.GetAdjective] возможна, но [MEX.GetAdjective] должен открыть еще один фронт." # With the [MEX.GetAdjective]s and the [USA.GetAdjective]s are tearing each others' throats out, we have now the opportunity to snatch our old claim territory of Chiapas; of course, a war with the [MEX.GetAdjective] is possible, but its up to the [MEX.GetAdjective] to open up another front.
+ cruzoob.12.a: "Это даже не вопрос..." # That's not even a question...
+ cruzoob.12.b: "Мы можем подождать еще немного" # We can wait a little bit longer
+ cruzoob.13.t: "Чьяпас захвачен" # Chiapas Captured
+ cruzoob.13.d: "Наши войска успешно прошли марш в Чьяпасе и сейчас занимаются стабилизацией нашего контроля в регионе. Однако, учитывая ожесточенное сопротивление местных жителей, нам может понадобиться еще пара человек, чтобы эффективно справиться с местным сопротивлением." # Our troops have succesfully marched in Chiapas, and are now dealing in stablizing our control in the region. However, with the fierce resistance of the local citizens, we might need a couple more manpower to effectively deal with the local resistance.
+ cruzoob.13.a: "И ждем ответа Мексики..." # And we wait for the Mexican response...
+ cruzoob.14.t: "[YUC.GetName] похитил Чьяпас!" # [YUC.GetName] snatched Chiapas!
+ cruzoob.14.d: "Наша война с янки дала Крузубу возможность захватить обороняемую территорию Чьяпаса. Наши местные гарнизоны были разбиты своими дивизиями и теперь борются с местным сопротивлением. Некоторые в правительстве выступают за то, чтобы справиться с этим кризисом сейчас, но некоторые хотят разобраться с Крузубом после того, как мы разберемся с янксами." # Our war with the Yankees have made Cruzoob the opportunity to grab the defended territory of Chiapas. Our local garrisons have been overpowered by their divisions and are now dealing with local resistance. Some in the government are arguing to deal with this crisis now, but some wants to deal with Cruzoob after we deal with the Yanks.
+ cruzoob.14.a: "Накажите их за это..." # Punish them for this...
+ cruzoob.14.b: "Они могут подождать, когда мы разберемся с Янки." # They can wait after we deal with the Yankees
+ cruzoob.15.t: "Великая Отечественная война" # The Great Patriotic War
+ cruzoob.15.d: "Сегодня утром министерство иностранных дел получило не столь шокирующее заявление от северных ублюдков. Они официально оформили войну между нашими народами и такими [MEX.GetAdjective] силами, пересекающими границу. Однако это не ослабило дух нашего народа, а лишь укрепило его." # This morning, the foreign office received a not so shocking announcement from the northern bastards. They have formalized war between our our nations and such [MEX.GetAdjective] forces between crossing the border. However, this did nothing to weaken our people's spirit and as such only made it stronger.
+ cruzoob.15.a: "Бог с нами." # God is with us.
+ cruzoob.16.t: "[YUC.GetLeader] осматривает войска" # [YUC.GetLeader] Inspects the Troops
+ cruzoob.16.d: "Предпочитая непосредственно участвовать в делах наших вооруженных сил; [YUC.GetLeader] прибыли на базу недалеко от окраины столицы Мериды, чтобы осмотреть пару расположенных там мостов. Во время посещения базы; лидер также поговорил с солдатами более низкого ранга, которых он считал основой армии." # Preferring to be hands-on, on the affairs of our military; [YUC.GetLeader] have arrived a base near the outskirts of the capital city of Merida, inspecting a couple of bridages stationed there. While visiting the base; the leader also talked to the more lower ranked soldiers who he deemed the foundation of the military.
+ cruzoob.16.a: "Дай Бог ему здоровья..." # God Bless his soul...
+
+ cruzoob.100.t: "Приглашение от [YUC.GetName]" # Invitation from [YUC.GetName]
+ cruzoob.100.d: "В министерство иностранных дел была получена телеграмма из весьма своеобразной страны или штата Крузуб. Они попросили нас прислать военных советников для оказания помощи и обучения их армии оборонительным целям. Что нам ответить?" # A telegram was received in the Foreign Ministry, from a quite peculiar country or state of Cruzoob. They have requested that we send military advisors to aid and train their army for defensive purposes. What shall we respond?
+ cruzoob.100.a: "Отправьте советников" # Send the advisors
+ cruzoob.100.b: "Мы предпочли бы отказаться" # We'd rather decline
+ cruzoob.101.t: "[From.GetAdjective] Советники идут!" # [From.GetAdjective] Advisors are Coming!
+ cruzoob.101.d: "Мы получили телеграмму от [From.GetNameDef], подтверждающую, что они приняли нашу просьбу направить нескольких военных советников для помощи в модернизации возможностей нашей армии." # We have received a telegram from [From.GetNameDef] confirming that they have accepted our request in sending some military advisors to aid in modernizing our army's capabilities.
+ cruzoob.101.a: "Очень хороший." # Sehr Gut.
+ cruzoob.102.t: "[From.GetName] отказывается" # [From.GetName] Refuses
+ cruzoob.102.d: "Мы получили подтверждение от [From.GetName], подтверждающее, что они не будут присылать к нам военных советников." # We have received confirmation from [From.GetName] confirming that they won't be sending any military advisors for us.
+ cruzoob.102.a: "Как жаль..." # How unfortunate...
+ cruzoob.103.t: "Украдено оборудование [MEX.GetAdjective]" # Stolen [MEX.GetAdjective] Equipment
+ cruzoob.103.d: "Сегодня утром прибыли весьма необычные ящики, в которых оказалось оборудование [MEX.GetAdjective], украденное со склада. Никто не знает, как он попал в наши порты, но одно можно сказать наверняка: они могут быть сторонниками [Root.GetAdjective] внутри самого [MEX.GetName]." # This morning, there have been an arrival of quite unusal crates that found out to be [MEX.GetAdjective] equipment stolen from their stockpile. No one knows how it has arrived in our ports but one thing is certain, they might be [Root.GetAdjective] symphatizers inside [MEX.GetName] itself.
+ cruzoob.103.a: "Возможно, оно понадобится нам позже." # We might need it for later.
+ cruzoob.104.t: "Предложение о совместных армейских учениях" # Proposal for Joint Army Exercises
+ cruzoob.104.d: "Посол [From.GetAdjective] прибыл сюда, в [Root.Capital.GetName], чтобы предложить «Совместные армейские учения» для улучшения координации наших вооруженных сил." # The [From.GetAdjective] Ambassor have arrived here in [Root.Capital.GetName] to propose a \"Joint Army Exercise\" to improve both our military's coordination.
+ cruzoob.104.a: "Давай сделаем это" # Let's do it
+ cruzoob.104.b: "Они могут украсть наши военные секреты" # They might steal our military secrets
+ cruzoob.105.t: "[From.GetName] соглашается на совместные армейские учения" # [From.GetName] Agrees for a Joint Army Exercise
+ cruzoob.105.d: "Правительство [From.GetAdjective] согласилось провести совместные армейские учения здесь, на наших территориях. Наши офицеры теперь будут перенимать у них свой опыт, который, в свою очередь, может улучшить оборону нашего государства." # The [From.GetAdjective] Government have agreed to conduct Joint Army Exercises here in our territories. Our officers will now be learning from them their experiences that can in turn improve the defense of our state.
+ cruzoob.105.a: "Это хорошо!" # That's good!
+ cruzoob.106.t: "[From.GetName] отказывается от совместных армейских учений" # [From.GetName] Refuses for a Joint Army Exercise
+ cruzoob.106.d: "Правительство [From.GetAdjective] отказалось проводить совместные армейские учения здесь, на наших территориях." # The [From.GetAdjective] Government have refused to conduct Joint Army Exercises here in our territories.
+ cruzoob.106.a: "Стыд." # Shame.
+ cruzoob.107.t: "[From.GetName] предлагает обмен разведданными" # [From.GetName] Proposes Intelligence Sharing
+ cruzoob.107.d: "[From.GetNameDef], штат в Центральной Америке, направил сюда, в [Root.Capital.GetName], делегацию, чтобы предложить обмен разведывательными данными против всех возможных угроз нашей культуре. Они подчеркнули, что, будучи двумя оставшимися бастионами коренных культур, мы должны помочь друг другу пережить эту новую эпоху. Конечно, от нас зависит, принять это предложение или полностью проигнорировать его и отправить к себе свои делегации." # [From.GetNameDef], a state in Central America, have sent delegations here in [Root.Capital.GetName] to propose intelligence sharing against all possible threats on our culture. They have outlined that, as the two remaining bastions of the indigenous cultures, we must help each other to survive this new era. Of course, it is up to us whether to accept this proposal or to ignore it completely and send their delegations back to them.
+ cruzoob.107.a: "Они правы." # They have a point.
+ cruzoob.107.b: "Просто отправьте их обратно." # Just send them back.
+ cruzoob.108.t: "[From.GetName] соглашается на обмен разведданными" # [From.GetName] Agrees on Intelligence Sharing
+ cruzoob.108.d: "Правительство [From.GetAdjective] увидело мудрость в нашем предложении и подписало соглашение о взаимном обмене разведданными, которые могут укрепить нашу оборону и шпионские операции." # The [From.GetAdjective] Government have seen the wisdom in our proposal and have signed in mutally sharing intelligence that can bolster our defenses and espionage operations.
+ cruzoob.108.a: "Большой!" # Great!
+ cruzoob.109.t: "[From.GetName] отказывается делиться разведданными" # [From.GetName] Refuses Intelligence Sharing
+ cruzoob.109.d: "Правительство [From.GetAdjective] в конечном итоге отклонило наше предложение поделиться разведданными." # The [From.GetAdjective] Government have ultimately refused our proposal in sharing intelligence.
+ cruzoob.109.a: "Неудачно." # Unfortunate.
+ cruzoob.110.t: "[From.GetName] на [Root.GetFactionName]" # [From.GetName] on the [Root.GetFactionName]
+ cruzoob.110.d: "[From.GetNameDef], штат в Центральной Америке, направил сюда, в [Root.Capital.GetName], делегацию с просьбой о включении своей страны в [Root.GetFactionName]. Каков будет наш ответ?" # [From.GetNameDef], a state in Central America, have sent delegations here in [Root.Capital.GetName] to request the entry of their nation in the [Root.GetFactionName]. What shall be our response?
+ cruzoob.110.a: "Чем больше, тем лучше" # The more the better
+ cruzoob.110.b: "Почему мы должны иметь дело с этой тщедушной нацией?" # Why we should deal with this puny nation?
+ cruzoob.111.t: "[From.GetName] приветствует нас в [Root.GetFactionName]!" # [From.GetName] Welcomes us to the [Root.GetFactionName]!
+ cruzoob.111.d: "Правительство [GER.GetAdjective] приняло нашу просьбу и официально оформило наше вступление в свою фракцию." # The [GER.GetAdjective] Government have accepted our request and have formalized our entry into their faction.
+ cruzoob.111.a: "Большой!" # Great!
+ cruzoob.112.t: "[From.GetName] отказывается войти в [Root.GetFactionName]!" # [From.GetName] Refuses our Entry to the [Root.GetFactionName]!
+ cruzoob.112.d: "Правительство [GER.GetAdjective] отклонило нашу просьбу о вступлении во фракцию [Root.GetFactionName]. Нам нужно найти союзников в другом месте" # The [GER.GetAdjective] Government have refused our request of entry into their [Root.GetFactionName] faction. We need to find allies elsewhere
+ cruzoob.112.a: "Как жаль..." # How unfortunate...
+ cruzoob.113.t: "Альянс с [From.GetName]?" # Alliance with [From.GetName]?
+ cruzoob.113.d: "К нам поступил запрос от государства [From.GetAdjective], они предложили альянс. Каким должен быть наш ответ?" # We have received a request from the [From.GetAdjective] state, they have proposed an alliance. What should be our response?
+ cruzoob.113.a: "Отличная идея!" # Great idea!
+ cruzoob.113.b: "Нам это не интересно." # We are not interested.
+ cruzoob.114.t: "[From.GetName] соглашается на союз!" # [From.GetName] Agrees on an Alliance!
+ cruzoob.114.d: "Правительство [From.GetAdjective] договорилось с нами об официальном союзе." # The [From.GetAdjective] Government have agreed on a formal alliance with us.
+ cruzoob.114.a: "Большой!" # Great!
+ cruzoob.115.t: "[From.GetName] отказывается от союза!" # [From.GetName] Refuses an Alliance!
+ cruzoob.115.d: "Правительство [From.GetAdjective] отказалось от формального союза с нами." # The [From.GetAdjective] Government have refused on formal alliance with us.
+ cruzoob.115.a: "Они развалятся одни..." # They will crumble alone...
+ cruzoob.116.t: "[From.GetName] предлагает торговые соглашения" # [From.GetName] Proposes Trade Agreements
+ cruzoob.116.d: "Некая страна на другом конце света, [From.GetName], обратилась к нам в надежде открыть нового торгового партнера здесь, в Тихом океане. Они специально выбрали нас, так как у нас та же идеология, что и у них. Должны ли мы воспользоваться этой возможностью и открыть торгового партнера в Новом Свете?" # A certain nation on the other side of the world, [From.GetName] have approached us in hopes of opening a new trade partner here in the Pacific. They have specifically chosen us, as we have the same ideology as theirs. Should we take this opportunity and open up a trade partner on the New World?
+ cruzoob.116.a: "Отличная идея!" # Great idea!
+ cruzoob.116.b: "У нас есть другие дела, которыми нужно заняться" # We have other things to attend to
+ cruzoob.117.t: "[From.GetName] соглашается на обмен" # [From.GetName] Agrees on Trade
+ cruzoob.117.d: "Правительство [From.GetAdjective] согласилось стать нашим торговым партнером в Тихоокеанском регионе." # The [From.GetAdjective] Government have agreed on being our trade partner in the Pacific.
+ cruzoob.117.a: "Большой!" # Great!
+ cruzoob.118.t: "[From.GetName] Отказывается!" # [From.GetName] Refuses!
+ cruzoob.118.d: "Правительство [From.GetAdjective] отказалось быть нашим торговым партнером в Тихоокеанском регионе. Возможно, нам придется поискать где-нибудь еще." # The [From.GetAdjective] Government have refused on being our trade partner in the Pacific. We might need to look somewhere else.
+ cruzoob.118.a: "Стыд." # Shame.
+ cruzoob.119.t: "[From.GetAdjective] Прибытие финансовой помощи" # [From.GetAdjective] Financial Aid Arrives
+ cruzoob.119.d: "В надежде, что мы выиграем наш крестовый поход против наших врагов; Правительство [From.GetAdjective] направило финансовую помощь для наших военных действий." # In hopes of us winning our crusade against our enemies; the [From.GetAdjective] Government have sent financial aid for our war effort.
+ cruzoob.119.a: "Это ценится" # That is appreciated
+ cruzoob.120.t: "[From.GetAdjective] Прибытие промышленной помощи" # [From.GetAdjective] Industrial Aid Arrives
+ cruzoob.120.d: "В надежде, что мы выиграем наш крестовый поход против наших врагов; Правительство [From.GetAdjective] направило промышленную помощь для наших военных нужд." # In hopes of us winning our crusade against our enemies; the [From.GetAdjective] Government have sent industrial aid for our war effort.
+ cruzoob.120.a: "Это ценится" # That is appreciated
+ cruzoob.121.t: "Поражение Мексики" # The Defeat of Mexico
+ cruzoob.121.d: "Мы сделали это. Армия [MEX.GetAdjective] развалилась. Военное министерство [MEX.GetAdjective] приняло наши условия безоговорочной капитуляции." # We have done it. The [MEX.GetAdjective] Army have collapsed. The [MEX.GetAdjective] War Ministry have accepted our terms of unconditional surrender.
+ cruzoob.121.a: "Да здравствует революция Майя!" # Viva la Revolución Maya
+ cruzoob.122.t: "Поражение Крузуба" # The Defeat of Cruzoob
+ cruzoob.122.d: "Наши войска сейчас маршируют по улицам Мериды; столица бывшего отколовшегося штата Крузуб. Полная победа теперь неизбежна." # Our troops are now marching in the streets of Merida; the capital of the former breakaway state of Cruzoob. Total victory is now imminent.
+ cruzoob.122.a: "Да здравствует Мексика" # Viva México
+
+ YUC_Elvia_Carrillo_Puerto: "Эльвия Каррильо Пуэрто" # Elvia Carrillo Puerto
+ YUC_Felipe_Carrillo_Puerto: "Фелипе Каррильо Пуэрто" # Felipe Carrillo Puerto
+ YUC_Alvaro_Torre_Diaz: "Альваро Торре Диас" # Álvaro Torre Díaz
+ YUC_Rafael_E_Melgar: "Рафаэль Э. Мельгар" # Rafael E. Melgar
+ YUC_Alfredo_Barrera_Vasquez: "Альфредо Баррера Васкес" # Alfredo Barrera Vásquez
+ YUC_Arturo_Campillo_Seyde: "Артуро Кампильо Сейде" # Arturo Campillo Seyde
+ YUC_Carlos_R_Menendez: "Карлос Р. Менендес" # Carlos R. Menéndez
+ YUC_Gustavo_Arce_Correa: "Густаво Арсе Корреа" # Gustavo Arce Correa
+ YUC_Manuel_Gomez_Morin: "Мануэль Гомес Морин" # Manuel Gómez Morin
+ YUC_Salvador_Alvarado_Rubio: "Сальвадор Альварадо Рубио" # Salvador Alvarado Rubio
+ YUC_Tomas_Garrido_Canabal: "Томас Гарридо Канабал" # Tomás Garrido Canabal
+ YUC_Luis_Maria_Martinez: "Луис Мария Мартинес" # Luis Maria Martinez
+ YUC_Francisco_May_Pech: "Фрэнсис Мэй Печ" # Francisco May Pech
+ YUC_Alma_Marie_Sullivan_Reed: "Альма Мари Салливан Рид" # Alma Marie Sullivan Reed
+ YUC_Jose_Clemente_Orozco: "Хосе Клементе Ороско" # José Clemente Orozco
+ YUC_Carlos_Jesus_Torre_Repetto: "Карлос Хесус Торре Репетто" # Carlos Jesús Torre Repetto
+ YUC_Ermilo_Abreu_Gomez: "Эрмило Абреу Гомес" # Ermilo Abreu Gómez
+ YUC_Miguel_Alonzo_Romero: "Мигель Алонсо Ромеро" # Miguel Alonzo Romero
+ YUC_Roberto_Reyes_Barreiro: "Роберто Рейес Баррейро" # Roberto Reyes Barreiro
+ YUC_Nicolas_Camara_Vales: "Николас Камара Валес" # Nicolás Cámara Vales
+ YUC_Rodolfo_Menendez_Mena: "Родольфо Менендес Мена" # Rodolfo Menéndez Mena
+ YUC_Raquel_Dzib_Cicero: "Ракель Дзиб Цицерон" # Raquel Dzib Cicero
+ YUC_Augusto_Harold_Alvarez_Garcia: "Аугусто Гарольд Альварес Гарсия" # Augusto Harold Álvarez García
+ YUC_Consuelo_Zavala_Castillo: "Консуэло Савала Кастильо" # Consuelo Zavala Castillo
+ YUC_Eleuterio_Avila: "Элеутерио Авила" # Eleuterio Ávila
+ YUC_Mauro_Graciano_Ricalde_Gamboa: "Мауро Грасиано Рикальде Гамбоа" # Mauro Graciano Ricalde Gamboa
+ YUC_Ricardo_Lopez_Mendez: "Рикардо Лопес Мендес" # Ricardo López Méndez
+ YUC_Maria_Rosa_Torre_Gonzalez: "Мария Роза Торре Гонсалес" # María Rosa Torre González
+ YUC_Enrique_Goroztieta_Velarde: "Энрике Горозиета Веларде" # Enrique Goroztieta Velarde
+ YUC_Manuel_Castilla_Brito: "Мануэль Кастилья Брито" # Manuel Castilla Brito

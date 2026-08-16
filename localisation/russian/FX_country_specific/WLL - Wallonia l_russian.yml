@@ -1,6 +1,6 @@
 ﻿l_russian:
-  
- ### Country Names 
- WLL: "Wallonia" #NT!
- WLL_ADJ: "Walloon" #NT!
- WLL_DEF: "Wallonia" #NT!
+
+### Country Names
+ WLL: "Валлония" # Wallonia
+ WLL_ADJ: "валлонский" # Walloon
+ WLL_DEF: "Валлония" # Wallonia

@@ -1,37 +1,37 @@
 ﻿l_russian:
-  
- TRU_vanguardist: "Trucial States" #NT!
- TRU_vanguardist_ADJ: "Arab" #NT!
- TRU_vanguardist_DEF: "the Trucial States" #NT!
- TRU_collectivist: "Trucial States" #NT!
- TRU_collectivist_ADJ: "Arab" #NT!
- TRU_collectivist_DEF: "the Trucial States" #NT!
- TRU_libertarian_socialist: "Trucial States" #NT!
- TRU_libertarian_socialist_ADJ: "Arab" #NT!
- TRU_libertarian_socialist_DEF: "the Trucial States" #NT!
- TRU_social_democrat: "Trucial States" #NT!
- TRU_social_democrat_ADJ: "Arab" #NT!
- TRU_social_democrat_DEF: "the Trucial States" #NT!
- TRU_social_liberal: "Trucial States" #NT!
- TRU_social_liberal_ADJ: "Arab" #NT!
- TRU_social_liberal_DEF: "the Trucial States" #NT!
- TRU_market_liberal: "Trucial States" #NT!
- TRU_market_liberal_ADJ: "Arab" #NT!
- TRU_market_liberal_DEF: "the Trucial States" #NT!
- TRU_social_conservative: "Trucial States" #NT!
- TRU_social_conservative_ADJ: "Arab" #NT!
- TRU_social_conservative_DEF: "the Trucial States" #NT!
- TRU_authoritarian_democrat: "Trucial States" #NT!
- TRU_authoritarian_democrat_ADJ: "Arab" #NT!
- TRU_authoritarian_democrat_DEF: "the Trucial States" #NT!
- TRU_paternal_autocrat: "Trucial States" #NT!
- TRU_paternal_autocrat_ADJ: "Arab" #NT!
- TRU_paternal_autocrat_DEF: "the Trucial States" #NT!
- TRU_national_populist: "Trucial States" #NT!
- TRU_national_populist_ADJ: "Arab" #NT!
- TRU_national_populist_DEF: "the Trucial States" #NT!
- TRU_valkist: "Trucial States" #NT!
- TRU_valkist_ADJ: "Arab" #NT!
- TRU_valkist_DEF: "the Trucial States" #NT!
-  
- TRU_Trenchard_William_Fowle: "Trenchard Craven William Fowle" #NT!
+
+ TRU_vanguardist: "Договорные государства" # Trucial States
+ TRU_vanguardist_ADJ: "араб" # Arab
+ TRU_vanguardist_DEF: "мирные государства" # the Trucial States
+ TRU_collectivist: "Договорные государства" # Trucial States
+ TRU_collectivist_ADJ: "араб" # Arab
+ TRU_collectivist_DEF: "мирные государства" # the Trucial States
+ TRU_libertarian_socialist: "Договорные государства" # Trucial States
+ TRU_libertarian_socialist_ADJ: "араб" # Arab
+ TRU_libertarian_socialist_DEF: "мирные государства" # the Trucial States
+ TRU_social_democrat: "Договорные государства" # Trucial States
+ TRU_social_democrat_ADJ: "араб" # Arab
+ TRU_social_democrat_DEF: "мирные государства" # the Trucial States
+ TRU_social_liberal: "Договорные государства" # Trucial States
+ TRU_social_liberal_ADJ: "араб" # Arab
+ TRU_social_liberal_DEF: "мирные государства" # the Trucial States
+ TRU_market_liberal: "Договорные государства" # Trucial States
+ TRU_market_liberal_ADJ: "араб" # Arab
+ TRU_market_liberal_DEF: "мирные государства" # the Trucial States
+ TRU_social_conservative: "Договорные государства" # Trucial States
+ TRU_social_conservative_ADJ: "араб" # Arab
+ TRU_social_conservative_DEF: "мирные государства" # the Trucial States
+ TRU_authoritarian_democrat: "Договорные государства" # Trucial States
+ TRU_authoritarian_democrat_ADJ: "араб" # Arab
+ TRU_authoritarian_democrat_DEF: "мирные государства" # the Trucial States
+ TRU_paternal_autocrat: "Договорные государства" # Trucial States
+ TRU_paternal_autocrat_ADJ: "араб" # Arab
+ TRU_paternal_autocrat_DEF: "мирные государства" # the Trucial States
+ TRU_national_populist: "Договорные государства" # Trucial States
+ TRU_national_populist_ADJ: "араб" # Arab
+ TRU_national_populist_DEF: "мирные государства" # the Trucial States
+ TRU_valkist: "Договорные государства" # Trucial States
+ TRU_valkist_ADJ: "араб" # Arab
+ TRU_valkist_DEF: "мирные государства" # the Trucial States
+
+ TRU_Trenchard_William_Fowle: "Тренчард Крэйвен Уильям Фаул" # Trenchard Craven William Fowle

@@ -5,43 +5,43 @@
  ######################################################## 
   
  #changed to British spelling 
- armour_folder: "Armour" #NT!
- nsb_armour_folder: "Armour" #NT!
+ armour_folder: "Броня"
+ nsb_armour_folder: "Броня"
   
- #infantry_weapons2_desc: "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. Improved weapon models and more specialised equipment." #NT!
- #improved_infantry_weapons_2_desc: "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. Improved weapon models and more specialised equipment." #NT!
- #advanced_infantry_weapons2_desc: "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. Further Modernised to include personal Assault Rifles and anti-tank rockets. Improved availability of weapons previously distributed to a limited extent." #NT!
- #infantry_at_desc: "Arming our infantry units with anti-tank rifles will allow them to take out lighter armoured vehicles while maintaining mobility." #NT!
- #infantry_at2_desc: "For infantry to effectively engage heavier armoured units, high-explosive anti-tank weapons need to be made smaller and lighter." #NT!
- paratroopers3_desc: "Learning to adapt para-drop operations according to weather, standardising equipment such as jump boots and extended specialised training will minimise the confusion and risks involved in these dangerous missions." #NT!
- marines_desc: "Troops specialising in amphibious warfare are growing ever more indispensable. Improvised methods and equipment become things of the past as our naval infantry is supported by specialised landing craft and training." #NT!
- marines2_desc: "Amphibious warfare requires constant innovation. Improved logistical support and portable harbours can enable our marines to perform landings that may otherwise have been impossible." #NT!
- marines3_desc: "Marines can be more than just amphibious infantry. In the future, our marine corps will be among the most disciplined and organised special forces." #NT!
- tech_mountaineers_desc: "Combat in mountain ranges exposes troops to many perils, but sometimes cannot be avoided. We can minimise these risks by providing our soldiers with specialised training for this environment." #NT!
- tech_mountaineers2_desc: "Going beyond survival, our forces can be trained to use mountains to their advantage. With light equipment and mule transports, they can manoeuvre this terrain better than other infantry." #NT!
- rangers_tech_desc: "By specialising in woodland combat, training our light infantry in adapting to terrain and vegetation, we can use less troops to hold some front areas, or even push trough enemy lines where they least expect us to do so." #NT!
- tech_recon4_desc: "Deep reconnaissance operations, mixing espionage, guerrilla operations and commando training, will aid our tactical choices and allow us to adapt our decision-making rapidly." #NT!
- tech_logistics_company_desc: "Having specialised Logistics Officers among our ranks will ensure that support networks are leveraged to minimise waste." #NT!
- tech_logistics_company3_desc: "Continued statistical evaluation of troop supply needs contribute to maximising the utility of our resources." #NT!
- tech_logistics_company4_desc: "Developing standardised classifications for supplies will minimise confusion and make planning more efficient." #NT!
- tech_military_police2_desc: "By engaging in regular police duties in occupied territories, such as traffic control and maintaining public order, our military police can minimise the chaos and confusion which partisan movements thrive in." #NT!
+ #infantry_weapons2_desc: "Индивидуальное и коллективное стрелковое оружие, а также прочие элементы экипировки пехотинца. Улучшенные модели оружия и более специализированная экипировка."
+ #improved_infantry_weapons_2_desc: "Индивидуальное и коллективное стрелковое оружие, а также прочие элементы экипировки пехотинца. Улучшенные модели оружия и более специализированная экипировка."
+ #advanced_infantry_weapons2_desc: "Индивидуальное и коллективное стрелковое оружие, а также прочие элементы экипировки пехотинца. Включает штурмовые винтовки и противотанковые гранатометы. Оружие, ранее поставлявшееся в ограниченном количестве, теперь более доступно."
+ #infantry_at_desc: "Оснастив нашу пехоту противотанковыми ружьями, мы позволим ей уничтожать легкую бронетехнику, не теряя мобильности."
+ #infantry_at2_desc: "Чтобы пехота могла эффективнее вести бой с тяжелой бронетехникой, противотанковые ружья должны стать меньше и легче."
+ paratroopers3_desc: "Обучение адаптации парашютно-десантных операций в зависимости от погодных условий, стандартизация снаряжения, такого как десантные ботинки, и расширенная специализированная подготовка позволят свести к минимуму неразбериху и риски, связанные с этими опасными миссиями."
+ marines_desc: "Войска, специализирующиеся на десантных операциях, становятся всё более незаменимыми. Импровизированные методы и снаряжение уходят в прошлое, поскольку наша морская пехота получает поддержку в виде специализированных десантных катеров и подготовки."
+ marines2_desc: "Десантные операции требуют постоянных инноваций. Улучшенная логистическая поддержка и портативные гавани могут позволить нашим морским пехотинцам проводить высадки, которые в противном случае были бы невозможны."
+ marines3_desc: "Морская пехота может быть не просто десантной пехотой. В будущем наш корпус морской пехоты станет одной из самых дисциплинированных и организованных сил специального назначения."
+ tech_mountaineers_desc: "Ведение боя в горных районах подвергает войска множеству опасностей, но иногда его невозможно избежать. Мы можем свести эти риски к минимуму, обеспечив наших солдат специальной подготовкой для этой местности."
+ tech_mountaineers2_desc: "Выйдя за рамки выживания, наши силы могут быть обучены использовать горы в своих интересах. С лёгким снаряжением и мулами они могут маневрировать на этой местности лучше, чем другие пехотные подразделения."
+ rangers_tech_desc: "Специализируясь на боях в лесистой местности и обучая нашу лёгкую пехоту адаптироваться к ландшафту и растительности, мы можем использовать меньше войск для удержания некоторых участков фронта или даже прорывать вражеские линии там, где нас меньше всего ждут."
+ tech_recon4_desc: "Глубокие разведывательные операции, сочетающие шпионаж, партизанские действия и подготовку коммандос, помогут нашему тактическому выбору и позволят быстро адаптировать наши решения."
+ tech_logistics_company_desc: "Наличие в наших рядах специально подготовленных офицеров по логистике обеспечит использование сетей поддержки для минимизации потерь."
+ tech_logistics_company3_desc: "Постоянная статистическая оценка потребностей войск в снабжении способствует максимальному использованию наших ресурсов."
+ tech_logistics_company4_desc: "Разработка стандартизированных классификаций для поставок позволит свести к минимуму путаницу и сделать планирование более эффективным."
+ tech_military_police2_desc: "Выполняя регулярные полицейские обязанности на оккупированных территориях, такие как регулирование дорожного движения и поддержание общественного порядка, наша военная полиция может свести к минимуму хаос и неразбериху, в которых процветают партизанские движения."
  tech_signal_company_desc: "Для установления и поддержания связи на поле боя всегда требовались особые навыки. С возникновением новых средств связи и обнаружения в ходе Великой войны открылись новые практические возможности."
- tech_signal_company3_desc: "Increasingly portable communications technology is more viable to be personally carried as a backpack. This increased mobility of signal corps must be utilised." #NT!
- tech_maintenance_company2_desc: "Routine operational maintenance procedures minimise the risks of equipment breaking down and alerts troops to replace it before it does." #NT!
+ tech_signal_company3_desc: "Всё более портативные средства связи теперь можно носить с собой в ранце. Эту повышенную мобильность войск связи необходимо использовать."
+ tech_maintenance_company2_desc: "Регулярные процедуры эксплуатационного обслуживания минимизируют риски поломки оборудования и предупреждают войска о необходимости его замены до того, как оно выйдет из строя."
  tech_maintenance_company4_desc: "Опыт создания техники с нагруженным резервом, накопленный в Великую войну, можно применить, чтобы упростить процедуру ремонта более современной техники."
- motorised_infantry: "Motorised Infantry" #NT!
- streamlined_line_desc: "The standardisation and rigid structure of the assembly line are keys to its efficiency and safety. These should be the key aspects to develop in our industrial production." #NT!
- improved_equipment_conversion: "Pulverised Coal-Firing Boilers" #NT!
- concentrated_industry5_desc: "Major industrial complexes now combine many parts of our industry, minimising the costs of transports and labour." #NT!
- dispersed_industry2_desc: "Further decentralising our manufacturing makes it harder to strike at specific parts of it." #NT!
- construction2_desc: "Modernising our tools and equipment will further aid our construction efforts." #NT!
- construction4_desc: "A higher degree of mechanisation and better routines further improves building construction speeds." #NT!
- construction5_desc: "The future of efficient construction will require more extensive planning for individual projects as well as standardised solutions wherever possible." #NT!
- improved_cavity_magnatron_desc: "The use of radar has already proven crucial, but our decimetric radar sets are too few to ensure good coverage. Fitting more units with radar will allow us to maximise our technological edge." #NT!
- improved_encryption_desc: "Limitation in the randomisation of cipher machines can be exploited to break the ciphers. By improving the randomness of the rotor mechanics, we can make this kind of cryptanalysis more difficult." #NT!
- basic_decryption_desc: "Cryptanalysis is increasingly becoming an advanced mathematical science. Systems like card catalogues and devices like cyclometers can aid the necessary work." #NT!
- improved_decryption_desc: "The development of more sophisticated computers allows for new applications of cryptanalysis methods like differencing, which can be used to break advanced ciphers when combined with new hand code-breaking methods." #NT!
- rocket_interceptor_2_desc: "Still considered extremely dangerous to operate, the rocket-powered fighters are now aided by auto-pilots and towing by other aircraft to maximise the use of their extreme speed but short fuel window." #NT!
+ motorised_infantry: "Моторизированная пехота"
+ streamlined_line_desc: "Стандартизация и жёсткая структура сборочной линии являются ключами к её эффективности и безопасности. Именно эти аспекты следует развивать в нашем промышленном производстве."
+ improved_equipment_conversion: "Котлы с пылеугольным отоплением"
+ concentrated_industry5_desc: "Крупные промышленные комплексы теперь объединяют многие части нашей промышленности, сводя к минимуму затраты на транспортировку и рабочую силу."
+ dispersed_industry2_desc: "Дальнейшее рассредоточение нашего производства затрудняет нанесение ударов по его отдельным частям."
+ construction2_desc: "Модернизация наших инструментов и оборудования ещё больше поможет нашим строительным усилиям."
+ construction4_desc: "Более высокая степень механизации и лучшие стандартные процедуры ещё больше ускоряют строительство."
+ construction5_desc: "Будущее эффективного строительства потребует более тщательного планирования отдельных проектов, а также стандартизированных решений, где это возможно."
+ improved_cavity_magnatron_desc: "Использование радаров уже доказало свою важность, но наших дециметровых радаров слишком мало для хорошего покрытия. Установка радаров на большее количество единиц техники позволит нам максимально использовать наше технологическое преимущество."
+ improved_encryption_desc: "Ограничения в рандомизации шифровальных машин могут быть использованы для взлома шифров. Улучшив случайность механики роторов, мы можем затруднить этот вид криптоанализа."
+ basic_decryption_desc: "Криптоанализ всё чаще становится передовой математической наукой. Системы, такие как карточные каталоги, и устройства, такие как циклометры, могут помочь в необходимой работе."
+ improved_decryption_desc: "Разработка более сложных компьютеров позволяет применять новые методы криптоанализа, такие как дифференциальный анализ, которые можно использовать для взлома передовых шифров в сочетании с новыми ручными методами взлома кодов."
+ rocket_interceptor_2_desc: "По-прежнему считающиеся чрезвычайно опасными в эксплуатации, ракетные истребители теперь используют автопилоты и буксировку другими самолётами, чтобы максимально использовать их высокую скорость, но небольшой запас топлива."
  #artillery1_desc: "With more modern materials and mechanisms, howitzers and field guns from the Great War can be re-chambered and modernised for modern warfare." #NT!
  #mountain_gun_desc: "The mountainous terrain of Northern India led to the development of an artillery piece that could be dismantled and carried on mule back to wherever it was needed." #NT!
  #rocket_artillery2_desc: "Self-propelled artillery utilising multiple rockets will be able to cause large-scale destruction rapidly, while maintaining mobility to avoid counter-fire." #NT!
@@ -51,56 +51,56 @@
  #antitank2_desc: "Most anti-tank guns are so far fairly light. Larger calibre guns will be required to combat heavier tanks with sloped armour." #NT!
  #antitank4_desc: "New versatile anti-tank guns employing armour-piercing discarding sabot shots can penetrate the armour of nearly any tank." #NT!
  #antitank5_desc: "By combining different kinds of new ammunition technology with guns with higher muzzle velocities, we can be prepared for whatever new armour our enemies may develop." #NT!
- air_defence: "Air Defence" #NT!
- bomber_ace_initiative_desc: "Formally recognising and rewarding Ace bomber pilots encourages daring and initiative." #NT!
- cas_ace_initiative_desc: "Formally recognising and rewarding Ace CAS pilots encourages daring and initiative." #NT!
+ air_defence: "ПВО"
+ bomber_ace_initiative_desc: "Официальное признание и поощрение лётчиков-бомбардировщиков, получивших статус аса, поощряет смелость и инициативу."
+ cas_ace_initiative_desc: "Официальное признание и поощрение лётчиков-штурмовиков, получивших статус аса, поощряет смелость и инициативу."
   
- cat_mechanized_equipment: "Mechanised models" #NT!
- armor: "Armour" #NT!
- motorized_rocket_unit: "Motorised Rocket Artillery" #NT!
- mot_rockets_research: "Motorised Rocket Artillery Research Speed" #NT!
+ cat_mechanized_equipment: "Модели бронетранспортёров"
+ armor: "Броня"
+ motorized_rocket_unit: "Моторизированная реактивная артиллерия"
+ mot_rockets_research: "Скорость исследования моторизированной реактивной артиллерии"
   
  #missing in vanilla 
- early_ship_hull_light: "$ship_hull_light_1$" #NT!
- basic_ship_hull_light: "$ship_hull_light_2$" #NT!
- improved_ship_hull_light: "$ship_hull_light_3$" #NT!
- advanced_ship_hull_light: "$ship_hull_light_4$" #NT!
- early_ship_hull_cruiser: "$ship_hull_cruiser_1$" #NT!
- basic_ship_hull_cruiser: "$ship_hull_cruiser_2$" #NT!
- improved_ship_hull_cruiser: "$ship_hull_cruiser_3$" #NT!
- advanced_ship_hull_cruiser: "$ship_hull_cruiser_4$" #NT!
- early_ship_hull_heavy: "$ship_hull_heavy_1$" #NT!
- basic_ship_hull_heavy: "$ship_hull_heavy_2$" #NT!
- improved_ship_hull_heavy: "$ship_hull_heavy_3$" #NT!
- advanced_ship_hull_heavy: "$ship_hull_heavy_4$" #NT!
- basic_ship_hull_carrier: "$ship_hull_carrier_1$" #NT!
- improved_ship_hull_carrier: "$ship_hull_carrier_2$" #NT!
- advanced_ship_hull_carrier: "$ship_hull_carrier_3$" #NT!
+ early_ship_hull_light: "$ship_hull_light_1$"
+ basic_ship_hull_light: "$ship_hull_light_2$"
+ improved_ship_hull_light: "$ship_hull_light_3$"
+ advanced_ship_hull_light: "$ship_hull_light_4$"
+ early_ship_hull_cruiser: "$ship_hull_cruiser_1$"
+ basic_ship_hull_cruiser: "$ship_hull_cruiser_2$"
+ improved_ship_hull_cruiser: "$ship_hull_cruiser_3$"
+ advanced_ship_hull_cruiser: "$ship_hull_cruiser_4$"
+ early_ship_hull_heavy: "$ship_hull_heavy_1$"
+ basic_ship_hull_heavy: "$ship_hull_heavy_2$"
+ improved_ship_hull_heavy: "$ship_hull_heavy_3$"
+ advanced_ship_hull_heavy: "$ship_hull_heavy_4$"
+ basic_ship_hull_carrier: "$ship_hull_carrier_1$"
+ improved_ship_hull_carrier: "$ship_hull_carrier_2$"
+ advanced_ship_hull_carrier: "$ship_hull_carrier_3$"
  early_ship_hull_submarine: "$ship_hull_submarine_1$"
  basic_ship_hull_submarine: "$ship_hull_submarine_2$"
  improved_ship_hull_submarine: "$ship_hull_submarine_3$"
  advanced_ship_hull_submarine: "$ship_hull_submarine_4$"
   
  #changed to British spelling 
- heavy_armor_advice_tt: "\nMounting a better §YArmour§! module on §YHeavy Ships§! improves their ability to withstand damage. §YBattleships§! and §YBattlecruisers§! are defined by their different §YArmour Schemes§!, with Battlecruisers generally having worse armour." #NT!
- basic_heavy_armor_scheme: "Inclined Belt Armour Scheme" #NT!
- basic_heavy_armor_scheme_desc: "By placing the belt armour at an angle, the same weight and thickness of armour are much harder to pierce.\n\nMounting this module on §YHeavy Ships§! improves their ability to §Ywithstand enemy damage§!. §YBattleships§! and §YBattlecruisers§! are defined by their different §YArmour Schemes§!." #NT!
- improved_heavy_armor_scheme: "All-or-Nothing Armour Scheme" #NT!
- improved_heavy_armor_scheme_desc: "This scheme focuses on only protecting the most vital areas of the ship, while ignoring the unimportant parts.\n\nMounting this module on §YHeavy Ships§! improves their ability to §Ywithstand enemy damage§!. §YBattleships§! and §YBattlecruisers§! are defined by their different §YArmour Schemes§!." #NT!
+ heavy_armor_advice_tt: "\nУстановка более совершенного модуля §YБрони§! на §YТяжёлые корабли§! улучшает их способность выдерживать повреждения. §YЛинкоры§! и §YЛинейные крейсеры§! различаются своими §YСхемами бронирования§!, при этом линейные крейсеры обычно имеют худшую броню."
+ basic_heavy_armor_scheme: "Наклонная схема бронирования пояса"
+ basic_heavy_armor_scheme_desc: "Располагая поясную броню под углом, ту же массу и толщину брони становится гораздо труднее пробить.\n\nУстановка этого модуля на §YТяжёлые корабли§! улучшает их способность §Yвыдерживать повреждения§!. §YЛинкоры§! и §YЛинейные крейсеры§! различаются своими §YСхемами бронирования§!."
+ improved_heavy_armor_scheme: "Схема бронирования «всё или ничего»"
+ improved_heavy_armor_scheme_desc: "Эта схема фокусируется на защите только самых жизненно важных частей корабля, игнорируя неважные.\n\nУстановка этого модуля на §YТяжёлые корабли§! улучшает их способность §Yвыдерживать повреждения§!. §YЛинкоры§! и §YЛинейные крейсеры§! различаются своими §YСхемами бронирования§!."
   
- MOUNTAINEERS_DOCTRINE_DESC: "A strong military focus on regiments accustomed to adverse terrain will give us the edge in outmanoeuvring and denying our opponents." #NT!
- RANGERS_DOCTRINE_DESC: "By being able to operate with large forces in densely wooded areas our army can outflank and outmanoeuvre the enemy forces." #NT!
- special_forces_paratroopers_desc: "There's nothing quite as terrifying as the skies going dark with the sight of a thousand troop-filled transport planes. Our doctrinal philosophy must take advantage of the shock and awe that the airborne instils." #NT!
- ski_troops_desc: "Cold weather specialists are vital to our battlefield tactics. By formally recognising these experts in our military constitution, we can free up resources and training to elevate them even further." #NT!
- mountaineers_combat_1_desc: "Our elite forces must focus their efforts on holding the areas in which they specialise. A combination of ambush tactics and improved regimental organisation ensure that our special forces present a significant defence-in-depth against invading forces." #NT!
- mountaineers_combat_2_desc: "Mountain Artillery regiments are specialised forces designed for the rapid long range support of our elite divisions, having trained and operated in difficult terrain. Their presence significantly enhances the combat capabilities of our special forces." #NT!
- mountaineers_keystone_1_desc: "The success of our elite special forces mandates a reorganisation of our military philosophy around their presence." #NT!
- paras_dispersed_drop_desc: "The nature of our operations mandates that our airborne troops specialise in highly dispersed airdrops, allowing for significant sabotage to take place before the enemy are even aware of our presence." #NT!
- SF_PARAS_combat_effect_tt: "Enemy divisions in states we §HParadrop§! into will have their current §HOrganisation§! reduced.\n\n$PARA_EFFECT_TIMER$" #NT!
- paras_airborne_light_armor: "Airborne Armour" #NT!
+ MOUNTAINEERS_DOCTRINE_DESC: "Особое внимание армии к полкам, привыкшим к суровой местности, даст нам преимущество в манёвренности и позволит лишить противника свободы действий."
+ RANGERS_DOCTRINE_DESC: "Возможность действовать крупными силами в густонаселённых лесистых районах позволит нашей армии обходить и переигрывать силы противника."
+ special_forces_paratroopers_desc: "Нет ничего страшнее, чем небо, темнеющее от вида тысячи транспортных самолётов, полных войск. Наша доктринальная философия должна использовать эффект шока и трепета, который внушает воздушный десант."
+ ski_troops_desc: "Специалисты по ведению боя в холодных условиях жизненно важны для нашей полевой тактики. Официально признав этих экспертов в нашей военной доктрине, мы сможем высвободить ресурсы и время для их дальнейшего обучения."
+ mountaineers_combat_1_desc: "Наши элитные силы должны сосредоточить свои усилия на удержании районов, в которых они специализируются. Сочетание тактики засад и улучшенной полковой организации гарантирует, что наши спецвойска создадут значительную эшелонированную оборону против вторгающихся сил."
+ mountaineers_combat_2_desc: "Горные артиллерийские полки — это специализированные силы, предназначенные для быстрой поддержки наших элитных дивизий на дальних дистанциях, прошедшие подготовку и действовавшие в сложной местности. Их присутствие значительно повышает боевые возможности наших спецвойск."
+ mountaineers_keystone_1_desc: "Успех наших элитных спецвойск требует перестройки нашей военной философии вокруг их присутствия."
+ paras_dispersed_drop_desc: "Характер наших операций требует, чтобы наши воздушно-десантные войска специализировались на высоко рассредоточенных высадках, позволяя проводить значительные диверсии до того, как враг вообще узнает о нашем присутствии."
+ SF_PARAS_combat_effect_tt: "Вражеские дивизии в регионах, куда мы §HВысаживаем десант§!, получат снижение текущей §HОрганизации§!.\n\n$PARA_EFFECT_TIMER$"
+ paras_airborne_light_armor: "Воздушно-десантная броня"
  paras_bonus_1_desc: "Даже тщательно подготовленная высадка может пойти не по плану. Нужно сделать все, чтобы наши бойцы умели ориентироваться на местности."
- rangers_guerilla_doctrine: "Forest Guerrillas" #NT!
- rangers_backbone_doctrine: "Light Infantry Specialisation" #NT!
+ rangers_guerilla_doctrine: "Лесные партизаны"
+ rangers_backbone_doctrine: "Специализация лёгкой пехоты"
   
  ### missing in vanilla 
- armored_car_at_upgrade: "$armored_car_at_equipment$" #NT!
+ armored_car_at_upgrade: "$armored_car_at_equipment$"

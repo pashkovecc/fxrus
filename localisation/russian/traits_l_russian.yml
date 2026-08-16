@@ -27,15 +27,15 @@
  trait_engineer_desc: "§LМастер по форсированию рек и строительству полевых укреплений.§!"
  fortress_buster: "Мастер штурма"
  fortress_buster_desc: "§LЭтот офицер не боится взять укрепление штурмом.§!"
- panzer_leader: "Armour Leader" #NT!
- panzer_leader_desc: "§LA natural with Tanks and Mechanised forces.§!" #NT!
+ panzer_leader: "Командир бронетанковых войск"
+ panzer_leader_desc: "§LОдаренный специалист по танкам и механизированной пехоте.§!"
  commando: "Коммандо"
  commando_desc: "§LУ коммандо немало талантов: он разбирается в морском десанте, воздушном десанте и операциях в холодную погоду.§!"
  fast_planner: "Быстрый стратег"
  fast_planner_desc: "§LЗнает все хитрости подготовки к битве – эффективность решает все!§!"
  thorough_planner: "Аккуратный стратег"
  thorough_planner_desc: "§LСтратегический гений. Дайте ему время, и он предложит самый надежный план.§!"
- organisational_leader: "Organisation First" #NT!
+ organisational_leader: "Организация — превыше всего"
  organisational_leader_desc: "§LЛучше других знает, как быстрее всего получить подкрепления.§!"
  inspirational_leader: "Яркий полководец"
  inspirational_leader_desc: "§LПрирожденный лидер. Под его командованием люди пойдут в бой против любого врага.§!"
@@ -58,7 +58,7 @@
  spotter: "Наблюдатель"
  spotter_desc: "§LНаблюдатель всегда начеку: он постоянно ищет вражеские флотилии.§!"
  fly_swatter: "Мухобойка"
- fly_swatter_desc: "§LRealising the danger posed to even our most powerful ships by airplanes, the Fly Swatter swiftly disposes of anything that flies.§!" #NT!
+ fly_swatter_desc: "§LХорошо понимает, что даже крупные корабли уязвимы перед самолетами, и быстро уничтожает все, что летает.§!"
  ironside: "Железняк"
  ironside_desc: "§LПолон решимости защитить родные берега самыми мощными кораблями, что есть в нашем флоте.§!"
  air_controller: "Авиадиспетчер"
@@ -69,17 +69,17 @@
  exiled: "Сосланный"
  exiled_desc: "§LИз-за угрозы преследования большую часть периода политической нестабильности он провел за рубежом.§!"
   
- organizer: "Organiser" #NT!
- organizer_desc: "§LAble to plan and organise the movement of large armies.§!" #NT!
+ organizer: "Организатор"
+ organizer_desc: "§LУмеет планировать и осуществлять переброску крупных армий.§!"
   
  nationalist_symbol: "Символ национализма"
  dealbroker: "Посредник"
  dealbroker_desc: "§LЛюди не хотят знать, как на свет появляются сосиски и законы. Он знает почему.§!"
- panzer_expert: "Armour Expert" #NT!
+ panzer_expert: "Эксперт по бронетанковым войскам"
  panzer_expert_desc: "§LОпыт и подготовка позволяют этому лидеру эффективно командовать танковыми войсками.§!"
  combined_arms_expert: "Эксперт по общевойсковым операциям"
  combined_arms_expert_short: "Эксперт по общевойсковым операциям"
- combined_arms_expert_desc: "§LAble to combine the strengths of both armour and infantry.§!" #NT!
+ combined_arms_expert_desc: "§LУмеет использовать лучшие качества бронетанковых и пехотных войск.§!"
  cavalry_leader: "Командующий кавалерией"
  cavalry_leader_desc: "§LДобивается победы с помощью мобильных частей.§!"
  cavalry_expert: "Эксперт по кавалерии"
@@ -109,7 +109,7 @@
  winter_expert: "Эксперт по зиме"
  winter_expert_desc: "§LЭтот лидер не понаслышке знает, как сражаться в условиях суровой зимы.§!"
  skilled_staffer: "Умелый штабист"
- skilled_staffer_desc: "§LSurrounded by some of the best staff, this leader is able to organise and manage a larger number of units.§!" #NT!
+ skilled_staffer_desc: "§LОкруженный талантливыми помощниками, этот лидер эффективно контролирует большие скопления войск.§!"
  adaptable: "Приспособленец"
  adaptable_desc: "§LУмеет воевать на любой местности и приспосабливается к самым разным климатическим условиям.§!"
  terrain_traits: "Черты местности"
@@ -129,49 +129,49 @@
  ABILITY_DESC: "$NAME|H$: $DETAILS$"
  TRAIT_NOT_ASSIGNABLE: "Доступ к приобретенным чертам открывается с получением опыта или событиями.\n"
  TRAIT_ASSIGNABLE_TO_UNIT_MARSHALS: "Черты фельдмаршала можно назначить только для фельдмаршалов.\n"
- ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS: "The general already has maximum amount of assignable traits.\n" #NT!
+ ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS: "У командира выбрано максимальное число доступных черт.\n"
  TRAIT_NOT_ALLOWED: "Эта черта недопустима.\n"
  TRAIT_NO_PREREQUISITES: "Не выполнены все условия.\n"
  MUTUALLY_EXCLUSIVE_TRAIT_ALREADY_ASSIGNED: "Уже выбрана другая из взаимоисключающих черт.\n"
  TRAIT_NEED_ALL_PARENTS: "Чтобы выбрать эту черту, нужен доступ ко всем предыдущим чертам.\n"
  TRAIT_NEED_SOME_PARENTS: "Чтобы выбрать эту черту, нужен доступ к предыдущим чертам ($NUM$).\n"
  SKILL_ATTACK: "§HАтака§!"
- SKILL_ATTACK_DESC: "§LAttack skill boosts offensive stats of the units that are being led by the general.§!" #NT!
- SKILL_DEFENSE: "§HDefence§!" #NT!
- SKILL_DEFENSE_DESC: "§LDefence skill boosts defensive stats of the units that are being led by the general.§!" #NT!
+ SKILL_ATTACK_DESC: "§LНавык наступления повышает эффективность атаки всех частей под руководством командира.§!"
+ SKILL_DEFENSE: "§HОборона§!"
+ SKILL_DEFENSE_DESC: "§LПознания этого командира в обороне повышают эффективность обороны всех частей под его руководством.§!"
  SKILL_PLANNING: "§HПланирование§!"
- SKILL_PLANNING_DESC: "§LPlanning skill boosts planning speed of the units that are being led by the general.§!" #NT!
+ SKILL_PLANNING_DESC: "§LПознания этого командира ускоряют планирование всех частей под его руководством.§!"
  SKILL_LOGISTICS: "§HЛогистика§!"
- SKILL_LOGISTICS_DESC: "§LLogistics skill reduces the supply usage of the units that are being led by the general.§!" #NT!
+ SKILL_LOGISTICS_DESC: "§LПознания этого командира в логистике снижают расход припасов во всех частях под его руководством.§!"
  SKILL_NAVY_LEADER_ATTACK: "§HАтака§!"
  SKILL_NAVY_LEADER_ATTACK_DESC: "§LНавык наступления увеличивает эффективность в атаке кораблей под командованием адмирала.§!"
- SKILL_NAVY_LEADER_DEFENSE: "§HDefence§!" #NT!
- SKILL_NAVY_LEADER_DEFENSE_DESC: "§LDefence skill boosts defensive stats of the ships that are being led by the admiral.§!" #NT!
- SKILL_NAVY_LEADER_MANEUVERING: "§HManoeuvre§!" #NT!
- SKILL_NAVY_LEADER_MANEUVERING_DESC: "§LManoeuvre skill boosts combat capabilities of the ships that are being led by the admiral.§!" #NT!
+ SKILL_NAVY_LEADER_DEFENSE: "§HОборона§!"
+ SKILL_NAVY_LEADER_DEFENSE_DESC: "§LНавык обороны увеличивает эффективность в обороне кораблей под командованием адмирала.§!"
+ SKILL_NAVY_LEADER_MANEUVERING: "§HМаневренность§!"
+ SKILL_NAVY_LEADER_MANEUVERING_DESC: "§LНавык маневренности увеличивает боевую эффективность кораблей под командованием адмирала.§!"
  SKILL_NAVY_LEADER_COORDINATION: "§HКоординация§!"
  SKILL_NAVY_LEADER_COORDINATION_DESC: "§LНавык координации увеличивает дальность и эффективность заданий кораблей под командованием адмирала. Он также позволяет адмиралу командовать более крупными флотами.§!"
  SKILL_LEVEL_MAX: "Военачальник уже максимального уровня."
- SKILL_LEVEL_NEXT_AMOUNT: "Your general needs $VALUE|H$ experience to advance next level." #NT!
+ SKILL_LEVEL_NEXT_AMOUNT: "Вашему командиру требуется $VALUE|H$ оч. опыта до следующего уровня."
  SKILL_NAVY_LEADER_LEVEL_NEXT_AMOUNT: "Вашему адмиралу требуется $VALUE|H$ опыта до следующего уровня."
  SKILL_LEVEL_CURRENT_PROGRESS: "Текущий прогресс: $VALUE|H%0$"
- SKILL_LEVEL_DETAILS: "After leveling up, a general gains 3 random stat points. The type of the traits that a general has increases the chances of gaining a point in relevant stats." #NT!
+ SKILL_LEVEL_DETAILS: "С каждым новым уровнем командир получает три очка случайных параметров. Выбранные черты повышают вероятность повышения связанных параметров."
  SKILL_NAVY_LEADER_LEVEL_DETAILS: "С каждым новым уровнем адмирал получает 3 очка случайных параметров. Выбранные черты повышают вероятность повышения связанных параметров."
  PICK_TRAIT: "Выбор черты"
  BASIC_TRAITS_DESC: "Приобретенные черты нельзя выбрать вручную. Они открываются при наборе опыта в соответствующих областях или благодаря событиям."
  ASSIGNABLE_TRAITS_DESC: "Основные черты — черты, которые можно назначить генералу самостоятельно."
  FIELD_MARSHAL_TRAITS_DESC: "Черты фельдмаршалов можно назначать только фельдмаршалам. Фельдмаршалы могут при этом выбирать и обычные черты, но их эффект будет значительно меньше, если под командованием больше одной армии."
- TERRAIN_TRAITS_DESC: "Terrain Traits give bonuses to generals that fights in specific terrains. They can be manually assigned or gained through experience like Earned Traits." #NT!
+ TERRAIN_TRAITS_DESC: "Черты местности дают командирам бонусы в зависимости от особенностей ландшафта. Эти черты можно выбрать вручную или получить с опытом."
  CONFIRMTRAITASSIGNMENT: "$TITLE$ — назначить черту"
  CONFIRMTRAITASSIGNMENT_DESC: "Вы действительно хотите назначить черту «$TRAIT|H$» генералу $LEADER|H$?"
  CONFIRMTRAITASSIGNMENT_DESC_REMAINING: "После назначения этой черты $TITLE$ будет располагать еще несколькими ячейками ($NUM|H$) для черт."
  CONFIRMTRAITASSIGNMENT_DESC_REMAINING_NONE: "После назначения этой черты $TITLE$ §Rне§! будет располагать ячейками для черт."
   
  BOOST_ATTACK_FACTOR: "Вероятнее всего получение навыка §HАтака§! при повышении уровня"
- BOOST_DEFENCE_FACTOR: "More likely to gain §HDefence§! skill on level up" #NT!
+ BOOST_DEFENCE_FACTOR: "Вероятнее всего получение навыка §HОборона§! при повышении уровня"
  BOOST_LOGISTICS_FACTOR: "Вероятнее всего получение навыка §HЛогистика§! при повышении уровня"
  BOOST_PLANNING_FACTOR: "Вероятнее всего получение навыка §HПланирование§! при повышении уровня"
- BOOST_MANEUVERING_FACTOR: "More likely to gain §HManoeuvre§! skill on level up" #NT!
+ BOOST_MANEUVERING_FACTOR: "Вероятнее всего получение навыка §HМаневренность§! при повышении уровня"
  BOOST_COORDINATION_FACTOR: "Вероятнее всего получение навыка §HКоординация§! при повышении уровня"
  INCREASED_BLITZ_AND_ENCIRCLEMENT_CHANCE: "Повышенный шанс тактик §Hблицкриг§! и §Hокружение§!"
  INCREASED_COUNTERATTACK_CHANCE: "Повышенный шанс тактики §Hконтратака§!"
@@ -186,10 +186,10 @@
  expert_delegator_desc: "§LУмело распределяя полномочия, этот лидер эффективно командует сразу несколькими армиями.§!"
  trait_bonus_all: "Все параметры: $VAL|+=0$"
  trait_bonus_attack: "Атака: $VAL|+=0$"
- trait_bonus_defense: "Defence: $VAL|+=0$" #NT!
+ trait_bonus_defense: "Защита: $VAL|+=0$"
  trait_bonus_planning: "Планирование: $VAL|+=0$"
  trait_bonus_logistics: "Логистика: $VAL|+=0$"
- trait_bonus_maneuvering: "Manoeuvre: $VAL|+=0$" #NT!
+ trait_bonus_maneuvering: "Маневренность: $VAL|+=0$"
  trait_bonus_coordination: "Координация: $VAL|+=0$"
  sick: "Болезнь"
  sick_desc: "§LТяжелая болезнь приковала его к постели.§!"
@@ -207,7 +207,7 @@
  substance_addict_desc: "§LПристрастие к наркотикам явно изменило его рассудок, причем не в лучшую сторону.§!"
  brilliant_strategist: "Блестящий стратег"
  brilliant_strategist_desc: "§LПрирожденный стратег, умеет быстро подстраиваться под ситуацию на поле боя.§!"
- inflexible_strategist: "Inflexible Strategist" #NT!
+ inflexible_strategist: "Негибкий стратег"
  inflexible_strategist_desc: "§LТалантливый, но упрямый. Его планы достаточно хороши, чтобы выдержать проверку боем.§!"
  politically_connected: "Политические связи"
  politically_connected_desc: "§LИспользуя свои политические связи, этот лидер быстро сделал карьеру. Пожалуй, даже чересчур быстро.§!"
@@ -220,33 +220,33 @@
  trait_reckless: "Авантюрист"
  trait_reckless_desc: "§LХороший офицер должен быть на передовой.§!"
  media_personality: "Медийная знаменитость"
- media_personality_desc: "§LThis general will go out of his way to talk to the media and will always try to be in the limelight.§!" #NT!
+ media_personality_desc: "§LЭтот командир лезет из кожи вон, чтобы оказаться в лучах внимания прессы, и часто общается с журналистами.§!"
  harsh_leader: "Строгий лидер"
  harsh_leader_desc: "§LВ армии необходима строгая дисциплина, но некоторые лидеры заходят слишком далеко.§!"
  infantry_officer: "Пехотный офицер"
  infantry_officer_desc: "§LЗавершил курс подготовки пехотных офицеров.§!"
  cavalry_officer: "Кавалерийский офицер"
  cavalry_officer_desc: "§LКавалерийский офицер по образованию.§!"
- armor_officer: "Armour Officer" #NT!
- armor_officer_desc: "§LTrained as an armour officer.§!" #NT!
+ armor_officer: "Бронетанковый офицер"
+ armor_officer_desc: "§LЗавершил курс подготовки бронетанковых офицеров.§!"
  engineer_officer: "Машиностроение"
  engineer_officer_desc: "§LЗавершен курс подготовки военных инженеров.§!"
  irregulars_officer: "Офицер нерегулярных войск"
  irregulars_officer_desc: "§LОбладает большим опытом командования нерегулярными войсками.§!"
- ascari_officer: "Colonial Officer" #NT!
+ ascari_officer: "Офицер колониальных войск"
  ascari_officer_desc: "§LОбучен вести в бой колониальные войска.§!"
  militias_officer: "Офицер ополчения"
  militias_officer_desc: "§LОбучен вести в бой войска ополчения.§!"
- just_visiting: "Civilian Leader" #NT!
+ just_visiting: "Гражданский лидер"
  UNIT_LEADER_ASSIGN_TRAIT_COST_TOOLTIP: "Стоимость назначения этой черты: $VAL|R$ £command_power."
  UNIT_LEADER_TRAIT_XP: "§HОпыт: §! $CUR|.0$/$MAX|.0$"
  UNIT_LEADER_TRAIT_GAIN_XP_WHEN: "§HОпыт, полученный при:§!"
  hidden_sympathies: "Тайная поддержка"
- hidden_sympathies_desc: "§LThis general has voiced some disloyal opinions in private spheres, and will most likely lend his support to insurrections started by subversive elements.§!" #NT!
+ hidden_sympathies_desc: "§LЭтот командир допускает нелояльные высказывания в частных беседах и, скорее всего, поддержит мятеж, организованный изменниками родины.§!"
  is_using_battle_plans: "Использует планы операций"
- cavalary_ratio_over_40: "Cavalry, motorised and mechanised ratio > §H40%§!" #NT!
+ cavalary_ratio_over_40: "Соотношение кавалерии, моторизированной и механизированной пехоты > §H40%§!"
  infantry_ratio_over_80: "Соотношение пехоты > §H80%§!"
- armored_ratio_over_40: "Armoured ratio > §H40%§!" #NT!
+ armored_ratio_over_40: "Соотношение бронетехники > §H40%§!"
  has_flanked: "Заходит противнику во фланг или атакован с фланга"
  fighting_with_enough_units: "Управляет как минимум §H24§! дивизиями"
  fighting_with_enough_units_field_marshal: "Управляет как минимум §H100§! дивизиями"
@@ -260,7 +260,7 @@
  TRAIT_NOT_ACTIVE_WHEN_COMMANDING_AN_ARMY: "§RЧерта не действует, когда лидер командует армией§!"
  TRAIT_TITLE: "§Y$TRAITNAME$§!"
  TRAIT_UNLOCKED_BY: "Открывается с помощью: §Y$TRAITNAME$§!\n\n"
- TRAIT_UNLOCKED_BY_MIN_RANK: "\n\nRequires a Skill level of at least §Y$RANK$§! to become an advisor." #NT!
+ TRAIT_UNLOCKED_BY_MIN_RANK: "Чтобы стать советником, нужен уровень навыка не ниже §Y$RANK$§!."
  TRAIT_UNLOCKS_ADVISOR_ROLE: "Открывает роль §Y$ADVISORSLOT$§!: §Y$ADVISORNAME$§!\n"
  TRAIT_MODIFIER_FOR_ADVISOR_RANK: "При навыке §Y$RANK$§!:\n\n$TEXT$"
  TRAIT_PARENT_PRECONDITION_ALL_OF_TITLE: "§YНеобходимо все из этого:§!"
@@ -294,7 +294,7 @@
  concealment_expert_desc: "§LЭтот офицер прошел обязательный курс подготовки для тех, кто не хочет попадаться врагу на глаза.§!"
  mine_craft: "Минное дело"
  mine_craft_desc: "§LКаждый моряк знает, насколько страшны эти тихо подкрадывающиеся и затем внезапно взрывающиеся убийцы!§!"
- cruiser_captain: "Cruiser Captain" #NT!
+ cruiser_captain: "Капитан крейсера"
  cruiser_captain_desc: "§LЭтот офицер умело командует крейсерами.§!"
  big_guns_expert: "Специалист по большим орудиям"
  big_guns_expert_desc: "§LЭтот офицер обожает большие пушки.§!"
@@ -307,13 +307,13 @@
  smoke_screen_expert: "Специалист по дымовым завесам"
  smoke_screen_expert_desc: "§LКурение убивает, а вот дым иногда спасает.§!"
  torpedo_expert: "Эксперт по торпедам"
- torpedo_expert_desc: "§LHitting a ship moving at a speed of 25 knots with a relative angle of 72 degrees at a distance of 8 kilometres is really just a bit of simple math.§!" #NT!
+ torpedo_expert_desc: "§LЧтобы поразить корабль, движущийся со скоростью 25 узлов под относительным углом 72 градуса на расстоянии 8 км, нужно просто решить легкую задачку по математике.§!"
  loading_drill_master: "Инструктор по загрузке торпед"
  loading_drill_master_desc: "§L«Стреляйте снова, они еще не сдохли!»§!"
  hunter_killer: "Охотник за подлодками"
  hunter_killer_desc: "§LВ смертельной игре в «кошки-мышки» этот офицер определенно кошка.§!"
  marksman: "Меткий стрелок"
- marksman_desc: "§L"Put the next salvo half a metre aft, right into their magazine."§!" #NT!
+ marksman_desc: "§L«Целься следующим залпом на полметра от кормы прямо в их боезапас».§!"
  crisis_magician: "Кризисный волшебник"
  crisis_magician_desc: "§L«Трубы конденсатора повреждены, капитан. На ремонт уйдет как минимум 6 недель, но я справлюсь за 3 часа».§!"
  fighter_director: "Главный по истребителям"
@@ -355,7 +355,7 @@
  SPOTTER_TRIGGER_TT: "Обнаруживает врага"
  FLY_SWATTER_TRIGGER_TT: "Сражается с вражескими авиачастями"
  IRONSIDE_TRIGGER_TT: "Командует или сражается с крупными кораблями"
- BLOCKADE_RUNNER_TRIGGER_TT: "Have a task force in combat where every ship in it has over 37 knots speed" #NT!
+ BLOCKADE_RUNNER_TRIGGER_TT: "Вывести в бой оперативное соединение, где у каждого корабля скорость выше 37 узлов"
   
  operative_commando: "Коммандо"
  operative_commando_desc: "Этот агент прошёл курсы подготовки коммандос."
@@ -383,11 +383,11 @@
  operative_demolition_expert_desc: "Этот агент отлично владеет разными способами устраивать взрывы."
   
  peasant_sympathiser: "Симпатизирует крестьянам"
- peasant_sympathiser_desc: "§LHolds sympathies for the peasants and working class of the nation.§!" #NT!
+ peasant_sympathiser_desc: "§LСимпатизирует крестьянам и рабочему классу страны.§!"
   
- trait_determined: "Determined" #NT!
- trait_foreign_military_advisor: "Foreign Military Advisor" #NT!
- trait_foreign_military_advisor_desc: "Time spent abroad is an opportunity to study tactics we may one day find ourselves pitted against." #NT!
+ trait_determined: "Решительный"
+ trait_foreign_military_advisor: "Иностранный военный советник"
+ trait_foreign_military_advisor_desc: "Время, проведенное за границей, — это возможность изучить тактику, с которой нам, возможно, однажды придется столкнуться."
   
  regular_trait_tab_title: "Черты"
  advisor_trait_tab_title: "Роли в офицерском корпусе"
@@ -401,5 +401,5 @@
  promoted_from_the_ranks: "Выдвижение из рядов"
  promoted_from_the_ranks_desc: "Этот персонаж повышен благодаря своим навыкам, отличному планированию и инициативности."
   
- light_infantry_officer: "Light Infantry Officer" #NT!
- light_infantry_officer_desc: "§LExpert in asymmetric warfare and sabotage operations behind enemy lines.§!" #NT!
+ light_infantry_officer: "Офицер легкой пехоты"
+ light_infantry_officer_desc: "§LЭксперт в асимметричной войне и диверсионных операциях в тылу врага.§!"

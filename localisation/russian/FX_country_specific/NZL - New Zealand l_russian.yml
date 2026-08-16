@@ -1,74 +1,74 @@
 ﻿l_russian:
-  
- ### Country Names 
- NZL_vanguardist: "New Zealand Commune" #NT!
- NZL_vanguardist_ADJ: "New Zealander" #NT!
- NZL_vanguardist_DEF: "the New Zealand Commune" #NT!
- NZL_collectivist: "New Zealand Commune" #NT!
- NZL_collectivist_ADJ: "New Zealander" #NT!
- NZL_collectivist_DEF: "the New Zealand Commune" #NT!
- NZL_libertarian_socialist: "New Zealand Workers Republic" #NT!
- NZL_libertarian_socialist_ADJ: "New Zealander" #NT!
- NZL_libertarian_socialist_DEF: "the New Zealand Workers Republic" #NT!
-  
- NZL: "Новая Зеландия"
- NZL_ADJ: "New Zealander" #NT!
- NZL_DEF: "the Republic of New Zealand" #NT!
-  
- ### Cosmetic Tags 
- NZL_ENG: "Dominion of New Zealand" #NT!
- NZL_ENG_ADJ: "New Zealander" #NT!
- NZL_ENG_DEF: "the Dominion of New Zealand" #NT!
-  
- ### Parties 
- NZL_vanguardist_party: "NZCP" #NT!
- NZL_vanguardist_party_long: "New Zealand Communist Party" #NT!
- NZL_collectivist_party: "NZRL" #NT!
- NZL_collectivist_party_long: "New Zealand Radical Labour" #NT!
- NZL_libertarian_socialist_party: "Socialist Party NZ" #NT!
- NZL_libertarian_socialist_party_long: "SP" #NT!
- NZL_social_democrat_party: "NZL" #NT!
- NZL_social_democrat_party_long: "Labour" #NT!
- NZL_social_liberal_party: "Liberal Party" #NT!
- NZL_social_liberal_party_long: "Liberal Party" #NT!
- NZL_market_liberal_party: "New Zealand New Nationals" #NT!
- NZL_market_liberal_party_long: "New Nationals" #NT!
- NZL_social_conservative_party: "National Party" #NT!
- NZL_social_conservative_party_long: "National Party" #NT!
- NZL_authoritarian_democrat_party: "Nationalists' League" #NT!
- NZL_authoritarian_democrat_party_long: "Nationalists' League" #NT!
- NZL_paternal_autocrat_party: "MPA" #NT!
- NZL_paternal_autocrat_party_long: "Military Provisional Authority" #NT!
- NZL_national_populist_party: "NZAAP" #NT!
- NZL_national_populist_party_long: "New Zealand Above All Party" #NT!
- NZL_valkist_party: "NSRP" #NT!
- NZL_valkist_party_long: "Native Settlement and Rehabilition Party" #NT!
-  
- NZL_Alexander_Galbraith: "Alexander Galbraith" #NT!
- NZL_Elsie_Violet_Farrelly: "Elsie Violet Farrelly" #NT!
- NZL_Fintan_Patrick_Walsh: "Fintan Patrick Walsh" #NT!
- NZL_Michael_Joseph_Savage: "Michael Joseph Savage" #NT!
- NZL_Eruera_Tirikatene: "Eruera Tirikatene" #NT!
- NZL_Albert_Ernest_Davy: "Albert Ernest Davy" #NT!
- NZL_Adam_Hamilton: "Adam Hamilton" #NT!
- NZL_Sidney_Holland: "Sidney Holland" #NT!
- NZL_Robert_Begg: "Robert Begg" #NT!
- NZL_John_Ormond: "John Ormond" #NT!
- NZL_Lord_Monckton_Arundell: "Lord Monckton-Arundell" #NT!
- NZL_Bernard_Freyberg: "Bernard Freyberg" #NT!
- NZL_William_Stevens: "William Stevens" #NT!
- NZL_John_Evelyn_Duigan: "John Evelyn Duigan" #NT!
- NZL_William_George_Gentry: "William George Gentry" #NT!
- NZL_James_Hargest: "James Hargest" #NT!
- NZL_Edward_Puttick: "Edward Puttick" #NT!
- NZL_Andrew_Hamilton_Russell: "Andrew Hamilton Russell" #NT!
- NZL_Harold_Eric_Barrowclough: "Harold Eric Barrowclough" #NT!
- NZL_Peter_Phipps: "Peter Phipps" #NT!
- NZL_James_William_Rivett_Carnac: "James William Rivett Carnac" #NT!
- NZL_George_Haines_Faulkner: "George Haines Faulkner" #NT!
- NZL_John_G_Pattison: "John Gordon Pattison" #NT!
- NZL_Robert_V_Goddard: "Robert Victor Goddard" #NT!
- NZL_George_B_Bolt: "George B. Bolt" #NT!
- NZL_Frank_Langstone: "Frank Langstone" #NT!
- NZL_Arnold_H_Nordmeyer: "Arnold H. Nordmeyer" #NT!
- NZL_Henry_G_R_Mason: "Henry G.R. Mason" #NT!
+
+### Country Names
+ NZL_vanguardist: "Новозеландская коммуна" # New Zealand Commune
+ NZL_vanguardist_ADJ: "Новозеландец" # New Zealander
+ NZL_vanguardist_DEF: "Новозеландская коммуна" # the New Zealand Commune
+ NZL_collectivist: "Новозеландская коммуна" # New Zealand Commune
+ NZL_collectivist_ADJ: "Новозеландец" # New Zealander
+ NZL_collectivist_DEF: "Новозеландская коммуна" # the New Zealand Commune
+ NZL_libertarian_socialist: "Новозеландская Рабочая Республика" # New Zealand Workers Republic
+ NZL_libertarian_socialist_ADJ: "Новозеландец" # New Zealander
+ NZL_libertarian_socialist_DEF: "Новозеландская Рабочая Республика" # the New Zealand Workers Republic
+
+ NZL: "Новая Зеландия" # New Zealand
+ NZL_ADJ: "Новозеландец" # New Zealander
+ NZL_DEF: "Республика Новая Зеландия" # the Republic of New Zealand
+
+### Cosmetic Tags
+ NZL_ENG: "Доминион Новой Зеландии" # Dominion of New Zealand
+ NZL_ENG_ADJ: "Новозеландец" # New Zealander
+ NZL_ENG_DEF: "Доминион Новой Зеландии" # the Dominion of New Zealand
+
+### Parties
+ NZL_vanguardist_party: "НЗКП" # NZCP
+ NZL_vanguardist_party_long: "Коммунистическая партия Новой Зеландии" # New Zealand Communist Party
+ NZL_collectivist_party: "НЗРЛ" # NZRL
+ NZL_collectivist_party_long: "Новозеландские радикальные лейбористы" # New Zealand Radical Labour
+ NZL_libertarian_socialist_party: "Социалистическая партия Новой Зеландии" # Socialist Party NZ
+ NZL_libertarian_socialist_party_long: "СП" # SP
+ NZL_social_democrat_party: "Новая Зеландия" # NZL
+ NZL_social_democrat_party_long: "Труд" # Labour
+ NZL_social_liberal_party: "Либеральная партия" # Liberal Party
+ NZL_social_liberal_party_long: "Либеральная партия" # Liberal Party
+ NZL_market_liberal_party: "Новые граждане Новой Зеландии" # New Zealand New Nationals
+ NZL_market_liberal_party_long: "Новые граждане" # New Nationals
+ NZL_social_conservative_party: "Национальная партия" # National Party
+ NZL_social_conservative_party_long: "Национальная партия" # National Party
+ NZL_authoritarian_democrat_party: "Лига националистов" # Nationalists' League
+ NZL_authoritarian_democrat_party_long: "Лига националистов" # Nationalists' League
+ NZL_paternal_autocrat_party: "МПА" # MPA
+ NZL_paternal_autocrat_party_long: "Временная военная администрация" # Military Provisional Authority
+ NZL_national_populist_party: "НЗААП" # NZAAP
+ NZL_national_populist_party_long: "Новая Зеландия превыше всего" # New Zealand Above All Party
+ NZL_valkist_party: "НСРП" # NSRP
+ NZL_valkist_party_long: "Партия местного поселения и реабилитации" # Native Settlement and Rehabilition Party
+
+ NZL_Alexander_Galbraith: "Александр Гэлбрейт" # Alexander Galbraith
+ NZL_Elsie_Violet_Farrelly: "Элси Вайолет Фаррелли" # Elsie Violet Farrelly
+ NZL_Fintan_Patrick_Walsh: "Финтан Патрик Уолш" # Fintan Patrick Walsh
+ NZL_Michael_Joseph_Savage: "Майкл Джозеф Сэвидж" # Michael Joseph Savage
+ NZL_Eruera_Tirikatene: "Эдвард Тиркатене" # Eruera Tirikatene
+ NZL_Albert_Ernest_Davy: "Альберт Эрнест Дэви" # Albert Ernest Davy
+ NZL_Adam_Hamilton: "Адам Хэмилтон" # Adam Hamilton
+ NZL_Sidney_Holland: "Сидни Холланд" # Sidney Holland
+ NZL_Robert_Begg: "Роберт Бегг" # Robert Begg
+ NZL_John_Ormond: "Джон Ормонд" # John Ormond
+ NZL_Lord_Monckton_Arundell: "Лорд Монктон-Аранделл" # Lord Monckton-Arundell
+ NZL_Bernard_Freyberg: "Бернард Фрейберг" # Bernard Freyberg
+ NZL_William_Stevens: "Уильям Стивенс" # William Stevens
+ NZL_John_Evelyn_Duigan: "Джон Эвелин Дуиган" # John Evelyn Duigan
+ NZL_William_George_Gentry: "Уильям Джордж Джентри" # William George Gentry
+ NZL_James_Hargest: "Джеймс Харгест" # James Hargest
+ NZL_Edward_Puttick: "Эдвард Путтик" # Edward Puttick
+ NZL_Andrew_Hamilton_Russell: "Эндрю Гамильтон Рассел" # Andrew Hamilton Russell
+ NZL_Harold_Eric_Barrowclough: "Гарольд Эрик Барроуклаф" # Harold Eric Barrowclough
+ NZL_Peter_Phipps: "Питер Фиппс" # Peter Phipps
+ NZL_James_William_Rivett_Carnac: "Джеймс Уильям Риветт Карнак" # James William Rivett Carnac
+ NZL_George_Haines_Faulkner: "Джордж Хейнс Фолкнер" # George Haines Faulkner
+ NZL_John_G_Pattison: "Джон Гордон Паттисон" # John Gordon Pattison
+ NZL_Robert_V_Goddard: "Роберт Виктор Годдард" # Robert Victor Goddard
+ NZL_George_B_Bolt: "Джордж Б. Болт" # George B. Bolt
+ NZL_Frank_Langstone: "Фрэнк Лэнгстон" # Frank Langstone
+ NZL_Arnold_H_Nordmeyer: "Арнольд Х. Нордмейер" # Arnold H. Nordmeyer
+ NZL_Henry_G_R_Mason: "Генри Г.Р. Мейсон" # Henry G.R. Mason

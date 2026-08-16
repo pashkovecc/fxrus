@@ -34,552 +34,551 @@
  BEL_valkist: "Бельгийская национальная республика" #NT!
  BEL_valkist_ADJ: "Бельгийск" #NT!
  BEL_valkist_DEF: "Бельгийская национальная республика" #NT!
- # капиб утен кошеч серая, нерпу, лама, хомяка
- ### Parties 
- BEL_vanguardist_party: "BWP/POB" #NT!
- BEL_vanguardist_party_long: "Belgische Werkliedenpartij/Parti Ouvrier Belge\n§gBelgian Labor Party§!" #NT!
- BEL_collectivist_party: "KPB/PCB" #NT!
- BEL_collectivist_party_long: "Kommunistische Partij van België/Parti Communiste de Belgique\n§gCommunist Party of Belgium§!" #NT!
- BEL_libertarian_socialist_party: "KPB/PCB" #NT!
- BEL_libertarian_socialist_party_long: "Kommunistische Partij van België/Parti Communiste de Belgique\n§gCommunist Party of Belgium§!" #NT!
- BEL_social_democrat_party: "BWP/POB" #NT!
- BEL_social_democrat_party_long: "Belgische Werkliedenpartij/Parti Ouvrier Belge\n§gBelgian Labor Party§!" #NT!
- BEL_social_liberal_party: "PP" #NT!
- BEL_social_liberal_party_long: "Progressistische Partij/Parti Progressist\n§gProgressive Party§!" #NT!
- BEL_market_liberal_party: "LP/PL" #NT!
- BEL_market_liberal_party_long: "Liberale Partij/Parti Libéral\n§gLiberal Party§!" #NT!
- BEL_social_conservative_party: "KP/PC" #NT!
- BEL_social_conservative_party_long: "Katholieke Partij/Parti Catholique\n§gCatholic Party§!" #NT!
- BEL_authoritarian_democrat_party: "MP/PM" #NT!
- BEL_authoritarian_democrat_party_long: "Monarchistische Partij/Parti Monarchiste\n§gMonarchist Party§!" #NT!
- BEL_paternal_autocrat_party: "Verdinaso" #NT!
- BEL_paternal_autocrat_party_long: "Verdinaso" #NT!
- BEL_national_populist_party: "VNV" #NT!
- BEL_national_populist_party_long: "Vlaams Nationaal Verbond\n§gFlemish National Union§!" #NT!
- BEL_valkist_party: "PB" #NT!
- BEL_valkist_party_long: "Parti Bourguignon\n§gBurgundian Party§!" #NT!
-  
- #####Ideas##### 
- BEL_pillarized_society: "Pillarized Society" #NT!
- BEL_national_unity_government: "Government of National Unity" #NT!
- BEL_linguistic_debacle: "Linguistic Debacle in the Army" #NT!
- BEL_improved_working_conditions: "Improved Working Conditions" #NT!
- BEL_subsidized_boerenbond: "Subsidized Boerenbond" #NT!
- BEL_conge_paye: "Payed Vacations" #NT!
- BEL_large_state_investments: "Large State Investments" #NT!
- BEL_deregulated_industry: "Deregulated Industry" #NT!
- BEL_strong_middle_class: "Strong Middle Class" #NT!
- BEL_women_suffrage: "Women's Suffrage" #NT!
- BEL_debased_currency: "Debased Currency" #NT!
- BEL_vlaamse_wacht: "Vlaamse Wacht" #NT!
- BEL_purging_opposition: "Purging Opposition" #NT!
- BEL_diamond_trade: "Diamond Trade" #NT!
- BEL_small_arms_factory: "Small Arms Factory" #NT!
- BEL_bilingualism: "Bilingualism in the Army" #NT!
- BEL_separate_divisions: "Language Separated Divisions" #NT!
- BEL_black_wednesday: "Black Wednesday Effects" #NT!
- BEL_better_research: "Improved Research" #NT!
- BEL_armed_neutrality: "Armed Neutrality" #NT!
- BEL_profits_from_congo: "Profits from the Congo" #NT!
- BEL_economic_secretariats: "Economic Secretariats" #NT!
- BEL_union_of_craftsmen_and_intellectuals: "Union of Craftsmen and Intellectuals" #NT!
- BEL_bwp_integrated: "Integrated BWP/POB" #NT!
- BEL_communist_brigades: "Communist Brigades" #NT!
- BEL_nationalizing_pillars: "Nationalizing Pillars" #NT!
- BEL_dominer_pour_servir: "Dominer pour Servir" #NT!
- BEL_brussels_academy: "Brussels Academy" #NT!
-  
- #####Tooltips##### 
-  
- #####Focus##### 
- BEL_goal_elections: "1936 Elections" #NT!
- BEL_goal_elections_desc: "The elections of May 1936 will determine which political parties will govern Belgium for the next four years." #NT!
- BEL_goal_elections_tt: "§GThis focus will be automatically bypassed once the 1936 elections has been concluded.§!" #NT!
- BEL_goal_KPB: "Communist Victory" #NT!
- BEL_goal_KPB_desc: "After the communists successfully defeated the King's army in the recent civil war, it is now up to them to rebuild the country and make Belgium great again." #NT!
- BEL_goal_KPB_tt: "§GThis focus will be automatically bypass once the Communists has taken control of the government.§!" #NT!
- BEL_goal_de_man: "Choose De Man" #NT!
- BEL_goal_de_man_desc: "Hendrik De Man, who has recently took control of the vanguardist faction within the BWP, is a viable contender for control over Belgium after the civil war." #NT!
- BEL_goal_economic_secretariats: "Economic Secretariats" #NT!
- BEL_goal_economic_secretariats_desc: "Economic secretariats, led by technocrats not bound by any party, are the way forward if we want to lead our country away from the economic crisis." #NT!
- BEL_goal_nationalize_industries: "Nationalize Industries" #NT!
- BEL_goal_nationalize_industries_desc: "Nationalizing the industries is vital to end the so called marketmonopolies that some companies have managed to take from the government." #NT!
- BEL_goal_union_of_craftsmen_and_intellectuals: "Union of Craftsmen and Intellectuals" #NT!
- BEL_goal_union_of_craftsmen_and_intellectuals_desc: "The Union of Craftsmen and Intellectuals creates a strong bond between the working classes of our country and the intellectuals who are leading the country." #NT!
- BEL_goal_head_office_worker_education: "Head Office for Worker's Education" #NT!
- BEL_goal_head_office_worker_education_desc: "The Head Office for Worker's Education is an institution which will help educate the working classes of Belgium." #NT!
- BEL_goal_choose_KPB: "Choose KPB/PCB" #NT!
- BEL_goal_choose_KPB_desc: "The Communist Party of Belgium has succeeded in taking control of the country after the recent civil war. Their marxist programme will now dictate the future of Belgium." #NT!
- BEL_goal_integrate_bwp: "Integrate the BWP/POB" #NT!
- BEL_goal_integrate_bwp_desc: "Integrating the vanguardist and social democrat factions of the BWP/POB will improve the country's stability." #NT!
- BEL_goal_economic_planning: "Economic Planning" #NT!
- BEL_goal_economic_planning_desc: "A planned economy is one of the headliners of the KPB/PCB and vital to the revival of the country's economy." #NT!
- BEL_goal_worker_universities: "Worker's Universities" #NT!
- BEL_goal_worker_universities_desc: "Making universities more accessible for the lower classes will greatly improve the wealth and knowledge in the country." #NT!
- BEL_goal_communist_brigades: "Communist Brigades" #NT!
- BEL_goal_communist_brigades_desc: "Setting up communist brigades will improve the status of our army and the loyalty of soldiers to the government." #NT!
- BEL_goal_BWP_KP_coalition: "BWP/POB - KP/PC Coalition" #NT!
- BEL_goal_BWP_KP_coalition_tt: "§GThis focus will be automatically bypass once the BWP has taken control of the government.§!" #NT!
- BEL_goal_BWP_KP_coalition_desc: "After the most recent election, a coalition of Catholics and Social Democrats have formed a new majority government. It is now up to them to govern the country for the next four years." #NT!
- BEL_goal_improve_working_conditions: "Improve Working Conditions" #NT!
- BEL_goal_improve_working_conditions_desc: "Improving working conditions should be a priority for this government, which swore to serve the Belgian people. That includes the thousands of workers who have to work in horrible conditions each day. It is time the government does something to change that." #NT!
- BEL_goal_subsidize_the_boerenbond_1: "Subsidize the Boerenbond" #NT!
- BEL_goal_subsidize_the_boerenbond_1_desc: "The Boerenbond, a Catholic pillar organisation which represents the country's farmers, should be subsidized in order that they can continue their good work." #NT!
- BEL_goal_introduce_conge_paye: "Introduce the Congé Payé" #NT!
- BEL_goal_introduce_conge_paye_desc: "By introducing payed vacations for our working classes, productivity could increase and their consumption of Belgian goods should also increase." #NT!
- BEL_goal_expand_national_industries: "Expand National Industries" #NT!
- BEL_goal_expand_national_industries_desc: "Expanding the national industries like the railway infrastructure and the power grid would greatly improve our industrial capacities." #NT!
- BEL_goal_invest_in_education: "Invest in Education" #NT!
- BEL_goal_invest_in_education_desc: "The education of the country's youth is a priority. Investing in local schools and the major universities of the country would greatly improve education for the masses." #NT!
- BEL_goal_large_state_investments: "Large State Investments" #NT!
- BEL_goal_large_state_investments_desc: "The state should take measure into its own hands and invest heavily in the industry of our country. It might be the only way to solve the current economical crisis." #NT!
- BEL_goal_KP_LP_PP_coalition: "KP/PC - LP/PL - PP Coalition" #NT!
- BEL_goal_KP_LP_PP_coalition_tt: "§GThis focus will be automatically bypass once the KP-LP-PP coalition has taken control of the government.§!" #NT!
- BEL_goal_KP_LP_PP_coalition_desc: "After the most recent elections, a coalition of Catholics and Liberals have formed a new majority government. It is now up to them to govern the country for the next four years." #NT!
- BEL_goal_deregulate_industries: "Deregulate Industries" #NT!
- BEL_goal_deregulate_industries_desc: "Deregulating the industries would give private owned companies more room to expand. Given the current unstable global economy, it may be risky to do this, but it might prove successful in the end." #NT!
- BEL_goal_subsidize_the_boerenbond_2: "Subsidize the Boerenbond" #NT!
- BEL_goal_subsidize_the_boerenbond_2_desc: "The Boerenbond, a Catholic pillar organisation which represents the country's farmers, should be subsidized in order that they can continue their good work." #NT!
- BEL_goal_encourage_the_middle_class: "Encourage the Middle Class" #NT!
- BEL_goal_encourage_the_middle_class_desc: "The middle class is an important part of our country and the government should encourage private owned businesses in every way it can." #NT!
- BEL_goal_women_suffrage: "Women's Suffrage" #NT!
- BEL_goal_women_suffrage_desc: "Extending voting rights to women was the headliner of the Progressive Party, which managed to enter the government coalition with the Catholics and the Market Liberals. As promised, they will now grant every woman above the age of 21 the same voting rights as men. This is an important step in our history and will bring all Belgians closer together." #NT!
- BEL_goal_fund_scientific_research: "Fund Scientific Research" #NT!
- BEL_goal_fund_scientific_research_desc: "Funding scientific research could prove very useful to the industries of our country. The more projects the government can support, the more chance there is major breakthroughs will be made. These breakthroughs could be applied in our army or in our industry." #NT!
- BEL_goal_debase_belgian_frank: "Debase the Belgian Frank" #NT!
- BEL_goal_debase_belgian_frank_desc: "Debasing the Belgian Frank, our national currency, is maybe the only way we can deal with the current economic crisis." #NT!
- BEL_goal_royal_coup: "Royal Coup Succeeds" #NT!
- BEL_goal_royal_coup_desc: "The Coup of King Leopold III has succeeded and his cabinet will now work on the future of Belgium. It is uncertain which way he will lead the country into, but some say it might be the only way our country can survive the future." #NT!
- BEL_goal_royal_coup_tt: "§GThis focus will be automatically bypass once the Royalist coup is successful.§!" #NT!
- BEL_goal_politique_des_mains_libres: "Politique des Mains Libres" #NT!
- BEL_goal_politique_des_mains_libres_desc: "Politique des Mains Libres, or Politics of Free Hands, is a policy where Belgium doesn't take any sides on the world stage, appeasing stronger nations hoping that they will leave us alone." #NT!
- BEL_goal_armed_neutrality: "Armed Neutrality" #NT!
- BEL_goal_armed_neutrality_desc: "Armed neutrality is the idea that a country should be neutral in international conflicts, but also should heavily invest in its army to defend itself in case of a war." #NT!
- BEL_goal_develop_royal_domains: "Develop Royal Domains" #NT!
- BEL_goal_develop_royal_domains_desc: "The King is in possession of a lot of land in the Ardennes which are currently not being used in the local industry. Developing those domains will help the local population and improve the economy in the area." #NT!
- BEL_goal_fund_royal_academy: "Fund Royal Academy" #NT!
- BEL_goal_fund_royal_academy_desc: "Currently the Royal Academy is lacking funds to properly operate. Providing the institution with more funding would greatly improve its ability to conduct research." #NT!
- BEL_goal_profits_from_congo: "Profits from the Congo" #NT!
- BEL_goal_profits_from_congo_desc: "The King still holds an important position in the Belgian Congo. Profits from the country's only colony could be used to improve the industry and economy of Belgium and may help solve the current crisis." #NT!
- BEL_goal_VNV: "VNV Victory" #NT!
- BEL_goal_VNV_tt: "§GThis focus will be automatically bypass once the BWP has taken control of the government.§!" #NT!
- BEL_goal_VNV_desc: "Vlaamsch Nationaal Verbond, or VNV, has succeeded to provide a Prime Minister in the new minority government. They will surely lead Belgium to a confederation, or even an independent Flanders." #NT!
- BEL_goal_vlaamse_wacht: "Establish the Vlaamse Wacht" #NT!
- BEL_goal_vlaamse_wacht_desc: "Establishing a loyal paramilitary guard called the Vlaamse Wacht will ensure the success of future policies implemented by the government." #NT!
- BEL_goal_cultural_communities: "Found Cultural Communities" #NT!
- BEL_goal_cultural_communities_desc: "Designating cultural policies to separate Flemish and Walloon bodies would be the first step towards a confederation or an independent Flanders. Domains like education are more efficient if they are organised by regional councils." #NT!
- BEL_goal_flemish_independence: "Flemish Independence" #NT!
- BEL_goal_flemish_independence_desc: "The Flemish nationalists have worked so long for independence. Now is finally the opportunity to proclaim independence and move forward without the French-speaking Walloons." #NT!
- BEL_goal_PB: "PB Victory" #NT!
- BEL_goal_PB_tt: "§GThis focus will be automatically bypass once the BWP has taken control of the government.§!" #NT!
- BEL_goal_PB_desc: "The Parti Bourguignon, or PB, has succeeded to provide a Prime Minister in the new minority government. Their version of German Valkism has seen a rapid increase in popularity in recent months, probably due to its leader, Léon Degrelle, who is known for his very sharp tongue." #NT!
- BEL_goal_purge_opposition: "Purge Opposition" #NT!
- BEL_goal_purge_opposition_desc: "To strengthen Degrelle's position in the government, the other parties and the opposition must be purged." #NT!
- BEL_goal_burgundian_inheritence: "Burgundian Inheritence" #NT!
- BEL_goal_burgundian_inheritence_desc: "Belgium is the only true successor of Burgundy, therefore we must claim our long lost territories and our Burgundian homeland in France." #NT!
- BEL_goal_ultimatum_luxembourg: "Luxembourg Ultimatum" #NT!
- BEL_goal_ultimatum_luxembourg_desc: "Luxembourg is an easy target and a first point of expansion for our future empire. We must act quickly and demand that they join us." #NT!
- BEL_goal_ambiorix_legacy: "The Legacy of Ambiorix" #NT!
- BEL_goal_ambiorix_legacy_desc: "In Belgian Valkism, Ambiorix is considered to be the first in a long list of strong and brave leaders who have led the Belgae, Carolingians and Burgundians to glory in the past. To many, Léon Degrelle is a modern Ambiorix. The brave Belgae once fought against the Latins of Rome, now it is time to fight against the Latins of France and prove once more that the Belgians are the bravest of all." #NT!
- BEL_goal_Verdinaso: "Verdinaso Victory" #NT!
- BEL_goal_Verdinaso_desc: "Verdinaso, a paternal autocrat party which seeks reunification with the Dutch, has succeeded to provide a Prime Minister in the new minority government. For the next four years, their policies will determine the future of Belgium." #NT!
- BEL_goal_Verdinaso_tt: "§GThis focus will be automatically bypass once the BWP has taken control of the government.§!" #NT!
- BEL_goal_nieuwe_marsrichting: "Nieuwe Marsrichting" #NT!
- BEL_goal_nieuwe_marsrichting_desc: "Instead of uniting only Flanders and the Netherlands, we should unite the whole of Belgium with our Dutch neighbors. Only then can we call ourselves a true Dietsland." #NT!
- BEL_goal_proclaim_south_dietsland: "Proclaim South Dietsland" #NT!
- BEL_goal_proclaim_south_dietsland_desc: "If we want to unite the Diets people, we must start by transforming Belgium into South Dietsland. The namechange will express our political point of view and the future we want for all Diets people." #NT!
- BEL_goal_pacification_of_ghent: "Pacification of Ghent" #NT!
- BEL_goal_pacification_of_ghent_desc: "The Pacification of Ghent was an event during the Dutch revolt against the Spanish in which the Spanish Low Countries came together for the first time as a united front, after the Spanish Fury. If we invite the Dutch government in Ghent for a new Pacification which calls for the unification of our two nations, we can unite all Diets people in the Low Countries under one banner." #NT!
- BEL_goal_depillarize: "Depillarize Society" #NT!
- BEL_goal_depillarize_desc: "Belgium's society is heavily determined by the Liberal, Catholic and Social Democrat pillars. Destroying those pillars is necessary for the future success of our marginal parties." #NT!
- BEL_goal_aftermath_london: "Aftermath of Black Wednesday" #NT!
- BEL_goal_aftermath_london_desc: "Belgium has unfortunately been hit by the economic crisis that followed the stock market crash in London. We must act now if we want to solve the problems." #NT!
- BEL_goal_aftermath_london_tt: "§GThis focus will be automatically bypass once the London Stock Market Crash has reached Belgium.§!" #NT!
- BEL_goal_expand_iron_rhine: "Expand the Iron Rhine" #NT!
- BEL_goal_expand_iron_rhine_desc: "The Iron Rhine is the name for the railway infrastructure connecting the port of Antwerp with the important industrial centers of the Rhine. Now that we control Maastricht and Dutch Limburg, we can expand the network even closer to the Rhine." #NT!
- BEL_goal_expand_antwerp_harbour: "Expand the Port of Antwerp" #NT!
- BEL_goal_expand_antwerp_harbour_desc: "Now that we've improved the railways connecting Antwerp to the Rhine, it is time that we modernize the port of Antwerp to accomodate with the new influx of goods." #NT!
- BEL_goal_antwerp_oil_refinery: "Antwerp Oil Refineries" #NT!
- BEL_goal_antwerp_oil_refinery_desc: "Antwerp is the ideal location for a new and experimental industry involving oil refineries. We should invest in building a new industrial center around the port." #NT!
- BEL_goal_invest_diamond_trade: "Invest in Diamond Trade" #NT!
- BEL_goal_invest_diamond_trade_desc: "Antwerp is the largest hub for diamond trade in the world and maybe our country can profit more from it than it does now. Investing in the industry will grant us huge benefits." #NT!
- BEL_goal_invest_sillon_industriel: "Invest in the Sillon industriel" #NT!
- BEL_goal_invest_sillon_industriel_desc: "The Sillon industriel is the biggest industriel area of Belgium, located in Wallonia. Investing in the area may prove vital to solving the current crisis." #NT!
- BEL_goal_expand_fn_herstal: "Expand FN Herstal" #NT!
- BEL_goal_expand_fn_herstal_desc: "Located in Liège, Wallonia, FN Herstal is the biggest weapons manufacturer of the country. Expanding it would result in more employment and a better equipped Belgian army." #NT!
- BEL_goal_expand_brussels_industry: "Expand Brussels Industry" #NT!
- BEL_goal_expand_brussels_industry_desc: "Our capital has little industry around it compared to the other industrial hubs of our country. Maybe it is time we think about expanding it to stimulate the local economy." #NT!
- BEL_goal_solvay_institute: "Found Solvay Institute" #NT!
- BEL_goal_solvay_institute_desc: "The Solvay Institute, named after Ernest Solvay, will research technologies which will help turn our factories in modern and efficient production houses." #NT!
- BEL_goal_reinforce_colonial_government: "Reinforce the Colonial Government" #NT!
- BEL_goal_reinforce_colonial_government_desc: "If we reinforce the colonial government and the governor of Congo, Belgium may be able to control more of the resources and profits in the area." #NT!
- BEL_goal_more_autonomy: "Grant More Autonomy" #NT!
- BEL_goal_more_autonomy_desc: "Granting more autonomy to the Belgian Congo will benefit both the natives and Belgium. More autonomy means the colony can develop itself without using Belgian resources." #NT!
- BEL_goal_dominer_pour_servir: "Dominer pour Servir" #NT!
- BEL_goal_dominer_pour_servir_desc: "'Dominer pour servir' or 'to dominate to serve' is the ideology of governor Pierre Ryckmans. His devotion to the Belgian colony is not only to the country, but also to its people and everything he does is to civilize the Congolese people." #NT!
- BEL_goal_expand_conscription: "Expand Force Publique Conscription" #NT!
- BEL_goal_expand_conscription_desc: "Expanding the local Congolese garrisons, the Force Publique, is trivial to maintaining order in the colony." #NT!
- BEL_goal_office_transports_coloniaux: "Office des Transports Coloniaux" #NT!
- BEL_goal_office_transports_coloniaux_desc: "The Office of Colonial Transports will improve the infrastructure in our colony, making exploitation of the natural resources easier and more accessible." #NT!
- BEL_goal_resource_extraction: "Resource Extraction" #NT!
- BEL_goal_resource_extraction_desc: "By funding research into resource extraction, profits from the Congo will skyrocket and benefit our factories at home." #NT!
- BEL_goal_tungsten: "Tungsten Mines in Kivu" #NT!
- BEL_goal_tungsten_desc: "The province of Kivu is rich in Wolframite, the natural resource used to make tungsten. Expanding the mines in Kivu will give us access to more tungsten for our factories." #NT!
- BEL_goal_copper: "Copper Mines in Katanga" #NT!
- BEL_goal_copper_desc: "The province of Katanga is rich in Copper, expanding the mines there will give us access to valuable resources which we can use to make more steel in the area." #NT!
- BEL_goal_rubber: "Rubber Plantations in Équateur" #NT!
- BEL_goal_rubber_desc: "The province of Équateur is full of rubber plantations with an ominous past. If we focus on modernizing these plantations and teach the locals how to use modern tools, we might get more rubber for our factories and get rid of the brutal ways of our past." #NT!
- BEL_goal_uranium: "Dig for Uranium" #NT!
- BEL_goal_uranium_desc: "Prospectors have returned from the Congo with reports of a new ore called uranium being spread throughout the Congo. Digging for this material, we might be able to use it in experimental research." #NT!
- BEL_goal_boma_harbour: "Expand the Boma Harbour" #NT!
- BEL_goal_boma_harbour_desc: "Boma has always been an important stopping point for ships travelling to and from the Congo. Expanding and modernizing the Boma harbour will improve our efforts in our colony." #NT!
- BEL_goal_leopoldville_industry: "Industrialize Léopoldville" #NT!
- BEL_goal_leopoldville_industry_desc: "Industrializing the city of Léopoldville will give Congo a center of commerce and industry and will improve our ability to modernize our colony." #NT!
- BEL_goal_educate_heart_of_darkness: "Educate the Heart of Darkness" #NT!
- BEL_goal_educate_heart_of_darkness_desc: "Educating the Congolese masses is something our government should focus on if we want to provide a bright future for our colony." #NT!
- BEL_goal_bcsc: "Belgo-Congolese Scientific Cooperation" #NT!
- BEL_goal_bcsc_desc: "Establishing an organisation which leads our nation and its colony to scientific cooperation will greatly benefit the progress made to modernize the Congo." #NT!
- BEL_goal_lessons_great_war: "Lessons of the Great War" #NT!
- BEL_goal_lessons_great_war_desc: "By studying the Great War, we may be able to better understand warfare in modern times and prepare for future wars." #NT!
- BEL_goal_mobile_defence: "Fund Minerva Research" #NT!
- BEL_goal_mobile_defence_desc: "Mobile defence is the key to holding the line in future defensive wars and the car manufacturing company Minerva could benefit from funded research into these modern marvels." #NT!
- BEL_goal_bicycle_divisions: "Bicycle Divisions" #NT!
- BEL_goal_bicycle_divisions_desc: "Reviving the bicycle divisions we used in the Great War may prove useful in future wars." #NT!
- BEL_goal_bilingualism: "Bilingualism in the Army" #NT!
- BEL_goal_bilingualism_desc: "Language divisions have run through our army for far too long. It is time we solve the issue or our forces might be to unprepared for a next war. Teaching our soldiers both Dutch and French is the way to go. Not only will that improve communication in the army, but it will also bring Flemish and Walloon soldiers closer together." #NT!
- BEL_goal_separate_divisions: "Separate Flemish and Walloon Divisions" #NT!
- BEL_goal_separate_divisions_desc: "Separating our army into Flemish and Walloon divisions might be the only way to solve the language divide that runs through our army. Flemish divisions would get their orders in Dutch and Walloon divisions in French. Central Command would take up the task of writing orders in both languages." #NT!
- BEL_goal_defensive_doctrine: "Defensive Doctrine" #NT!
- BEL_goal_defensive_doctrine_desc: "Following a defensive doctrine is the best way to win future wars. Bleeding the enemy dry on our forts and fortified lines will bring them on their knees, allowing our army to be victorious in the end." #NT!
- BEL_goal_offensive_doctrine: "Offensive Doctrine" #NT!
- BEL_goal_offensive_doctrine_desc: "While our army might be small, specializing in attack might be a way to surprise our enemies. An offensive doctrine is what we need if we want to overcome our enemies." #NT!
- BEL_goal_prepare_next_war: "Prepare for the Next War" #NT!
- BEL_goal_prepare_next_war_desc: "Many thought the Great War was the war to end all wars, but it has become clear that a new war will break out in Europe. We need to prepare our army to once again defend our country." #NT!
- BEL_goal_modernize_liege_forts: "Modernize the Liège Fort Belt" #NT!
- BEL_goal_modernize_liege_forts_desc: "In the Great War, the Liège fort belt held out longer than the Germans expected, but in the end, they were too old for modern technology and warfare. If we modernize them, they might become a viable defensive belt around Liège again." #NT!
- BEL_goal_fortify_french_border: "Fortify the French Border" #NT!
- BEL_goal_fortify_french_border_desc: "Fortifying the French border is the next step in the defence of our country. Recent developments in French politics have many Belgian politicians wondering if the main danger isn't Germany, but France." #NT!
- BEL_goal_fortify_meuse: "Fortify the Meuse River" #NT!
- BEL_goal_fortify_meuse_desc: "The Meuse river is a natural defensive line against enemies from the east. Putting forts all along the west bank might prove useful if Germany would choose to invade our country again." #NT!
- BEL_goal_modernize_antwerp_forts: "Modernize the Antwerp Fort Belt" #NT!
- BEL_goal_modernize_antwerp_forts_desc: "During the Great War, the forts around Antwerp were vital to the survival of the Belgian army and allowed them to retreat to West-Flanders where they held out for five years until the end of the war. The forts have been heavily damaged and are outdated, modernizing them is the only way they can be used again in a future war." #NT!
- BEL_goal_small_arms: "Fund FN Herstal Research" #NT!
- BEL_goal_small_arms_desc: "Small arms are as important as the soldiers themselves. Investing in better equipment and a more streamlined production is vital to the Belgian war machine, especially when FN Herstal is involved and our industry can profit from funded research." #NT!
- BEL_goal_artillery: "Artillery Focus" #NT!
- BEL_goal_artillery_desc: "Artillery is the backbone of any good army. Artillery breaks through the enemy lines and clears the way for infantry to move in and finish the job." #NT!
- BEL_expand_the_acedemy_of_brussels: "Expand the Academy of Brussels" #NT!
- BEL_expand_the_acedemy_of_brussels_desc: "The academy at Brussels is the centre of our officer corps, training many of the junior officers and strategists who shape our military. By pouring increased funding into the body, we can ensure it continues to push out top class graduates. However, is also likely that this modernisation will lead to increased doctrinal squabbling between the various schools of thought. It remains to be seen which will emerge as the orthodoxy." #NT!
- BEL_integrated_communication: "Integrated Communications" #NT!
- BEL_integrated_communication_desc: "Modern wars are increasingly fought with the help of radio, radar and computing machines. It's therefore crucial for our modernisation programme that we procure and develop new advances in these fields and that our forces, down to every company, receive training in their use." #NT!
-  
- #congo 
- BEL_good_governor: "The Good Governor" #NT!
- BEL_goal_fight_rebels: "Fight Back the Rebels" #NT!
- BEL_goal_provide_equipment: "Provide Equipment" #NT!
- BEL_goal_expand_force_publique: "Expand the Force Publique" #NT!
- BEL_military_drills: "Military Drills" #NT!
- BEL_goal_congo_industry: "Industrialisaton" #NT!
- BEL_congo_arms_production: "Kickstart the Arms Production" #NT!
- BEL_force_european_exports: "Force Imports From Europe" #NT!
- BEL_colonialism_human_face: "Colonialism with Human Face" #NT!
- BEL_civilize_people: "Civilize the People" #NT!
- BEL_provide_education: "Provide Education" #NT!
- BEL_fix_numbers: "Let's Fix Some Numbers..." #NT!
- BEL_integration: "Integration" #NT!
-  
-  
- #####Events##### 
- bel.1.t: "Belgium after the Great War" #NT!
- bel.1.d: "In 1914, Germany invaded Belgium, disregarding its neutrality and pulling the United Kingdom in the war on the side of the Entente. Belgian troops were quickly overrun, but were able to entrench behind the Yser river. In occupied Belgium, the Germans pursued the Flamenpolitik, a policy directed towards the Flemish nationalists and essentially giving in to their demands. In free Belgium, King Albert led his troops behind the frontline. After the war ended this gave him a popularity boost. In the 1920 Treaty of Versailles, Belgian diplomats were able to secure territorial claims on Zeeuws-Vlaanderen and Dutch Limburg from the Netherlands. As a result, relations with the Netherlands have never been the same since. \n\nIn the 1919 Pact of Loppem, the King sat together with the Belgian politicians who stayed behind in occupied Belgium and discussed the possibility of universal suffrage for all men above the age of 21. In the next elections, universal suffrage was enacted, effectivily turning the country into a mass democracy. As an effect, several political parties had to reform their programme to attract more voters. New parties fighting for the Flemish cause were also founded and even within the traditional parties the cause was adopted. In the early 1930s this lead to the enactment of several linguistic laws which made Flanders monolingual Dutch in the administration. \n\nHowever in recent years, several far-right and far-left parties have emerged because of a growing disdain for the current political system." #NT!
- bel.1.a: "The Belgian Lion stands strong!" #NT!
- bel.2.t: "King Albert dies in an accident" #NT!
- bel.2.d: "At 2 a.m. on the 18th of February, the body of King Albert was found at the base of a cliff in Marche-Les-Dames (Namur). It is presumed the King fell to his death after a climbing accident. However, the King was known to be a skilled mountaineer and many wonder if his death was an accident at all. His 35 year old son, Leopold, will now follow in his father's footsteps as King of Belgium." #NT!
- bel.2.a: "Long live King Leopold III!" #NT!
- bel.3.t: "Queen Astrid dies in suspicious accident" #NT!
- bel.3.d: "With the death of King Albert only one month ago, Belgium and the royal family have been struck by disaster again. Leopold III and his wife Astrid were involved in a car crash in the Ardennes earlier this day. Leopold survived the accident, but his wife died in his arms. Police officers rushed to the scene and discovered some elements that sabotage may be the cause of the crash. Leopold III is furious and is determined to find the culprit, whatever the cost may be." #NT!
- bel.3.a: "Start an investigation into the case." #NT!
- bel.4.t: "Enact Krijgswet to help the investigation?" #NT!
- bel.4.d: "If parliament were to enact the Krijgswet, the military would take over the investigation into the death of Queen Astrid. This would improve the chances of catching the culprit, but it would mean that he would probably not get a fair trial." #NT!
- bel.4.a: "The Krijgswet passes in parliament, do everything to catch the killer." #NT!
- bel.4.b: "The bill fails, a fair trial is too important." #NT!
- bel.5.t: "The killer is caught" #NT!
- bel.5.d: "With the enactment of the Krijgswet, the military quickly took over the case of Queen Astrid. Using all their resources, they were able to find the culprit. After a two day long manhunt, they caught a middle-aged man just before he could cross into Luxembourg. The man had ties to a local communist cell. He will now probably dissapear somewhere in a dark jail cell." #NT!
- bel.5.a: "Those damn anarchists!" #NT!
- bel.6.t: "Investigation hits dead end" #NT!
- bel.6.d: "The investigation into the suspicious death of Queen Astrid has hit a dead end. King Leopold III is frustrated because the Krijgswet didn't pass. If it did, surely the killer would have been caught. Tensions between Leopold III and the government are now rising. Throughout the country, more and more people are expressing their sympathy for the King." #NT!
- bel.6.a: "The nation enters a state of mourning." #NT!
- bel.7.t: "Election results are in" #NT!
- bel.7.d: "The results of the latest elections just came in. King Leopold III now has to form a majority government based on the new composition of parliament. The next government will determine the future of the country for the next four years, so the King's choice is of the outmost importance." #NT!
- bel.7.a: "The King refuses to form a government!" #NT!
- bel.7.b: "The King starts negotiations" #NT!
- bel.8.t: "Unrest in Wallonia!" #NT!
- bel.8.d: "The King's decision to not form a government, rooted in his frustration with the case of his wife's death, has become a major reason for unrest in Wallonia. People are going on strike and in some places they are even attacking police forces. It has come to the point where civil war is a very real possibility. Reports of communist cells taking up arms are already coming in and the army is on high alert." #NT!
- bel.8.a: "Crush their petty rebellion!" #NT!
- bel.8.b: "Vive la Révolution (Play as communists)" #NT!
- bel.8.c: "Parliament deposes Leopold III and declares the Republic before war breaks out." #NT!
- bel.9.t: "Which coalition should lead the government?" #NT!
- bel.9.d: "The results of the latest elections were ambiguous, the three traditional parties have lost some popularity and extreme-left and -right parties are on the rise. As a result, the negotiations to form a coalition have taken much longer than expected, but have finally come to an end. A new Prime Minister will soon take the stand in Parliament and declare the new government." #NT!
- bel.9.a: "A coalition of Catholics and Social Democrats will lead the government" #NT!
- bel.9.b: "A coalition of Catholics, Market Liberals and Social Liberals will lead the government" #NT!
- bel.9.c: "Other coalitions have failed and the far-right will lead a minority government" #NT!
- bel.10.t: "Who will become Prime Minister?" #NT!
- bel.10.d: "In the new Catholic-Social Democrat government, someone should take the role of Prime Minister. The only question is whether a member of the KP/PC or from the BWP/POB should lead the country." #NT!
- bel.10.a: "A Social Democrat should be PM" #NT!
- bel.10.b: "A Catholic should be PM" #NT!
- bel.11.t: "Who will become Prime Minister?" #NT!
- bel.11.d: "In the new Catholic-Market Liberal-Social Liberal government, someone should take the role of Prime Minister. The Catholics already gave their support for a liberal, the only question is whether it should be a market liberal from the LP/PL or a social liberal from the PP." #NT!
- bel.11.a: "A Market Liberal should be PM" #NT!
- bel.11.b: "A Social Liberal should be PM" #NT!
- bel.12.t: "Who will become Prime Minister?" #NT!
- bel.12.d: "With the far-right taking over government after the recent elections, it is a surprise they were even able to form a coalition, as they are now discussing who should be Prime Minister." #NT!
- bel.12.a: "Staf de Clercq (VNV) should be PM" #NT!
- bel.12.b: "Joris van Severen (Verdinaso) should be PM" #NT!
- bel.12.c: "Léon Degrelle (PB) should be PM" #NT!
- bel.13.t: "King Leopold summons the Prime Minister for an explanation" #NT!
- bel.13.d: "After the investigation into his wife's death hit a dead end, the King wants an explanation from Prime Minister Paul van Zeeland. Leopold's main complaint is the failing of the Krijgswet in Parliament, as it would have solved the mystery already, if the military had taken over the case. However, Paul van Zeeland refuses to give any explanations, as the information about Queen Astrid's death is confidential." #NT!
- bel.13.a: "Who does he think he is?" #NT!
- bel.14.t: "A Valkist Manifesto" #NT!
- bel.14.d: "A recently published article by Léon Degrelle has caused some controversy lately. In the article, Degrelle describes Belgium as a crosspoint between Germanic and Romance culture in what he calls the Pax Belgica, the peaceful coexistance of both cultures. He argues that this Pax Belgica is what made the region so successful on several occasions in history. He uses the example of the great Empire of Charlemagne and the Duchy of Burgundy, both powerful nations of the Middle-Ages. \n\nLéon Degrelle then went on in describing his plans to participate in the coming elections with his new party, the Parti Bourguignon. His programme consists of what best can be described as Valkism. He declares his strong aversion towards the monarchy, as for centuries it was a tool used by foreign powers and the Catholic Church to surpress the Germanic and Romance people of Belgium. Degrelle further describes progressive policies he will strive to implement if his party gets elected into office." #NT!
- bel.14.a: "Ideas like this can only be encouraged" #NT!
- bel.14.b: "Ban the article from being distributed further" #NT!
- bel.15.t: "Ultimatum from Belgium" #NT!
- bel.15.d: "Belgium has sent us an ultimatum demanding the annexation of Luxembourg into Belgium. Luxembourg participated in the Belgian Revolution of 1830 and was part of the country until the Treaty of London in 1839, when it became an independent Grand Duchy. In the following years, Belgium considered Luxembourg as a lost territory. After the Great War, Belgium has tried to renegotiate the status of the 1839 Treaty, including the status of Luxembourg. However, due to Belgium receiving Dutch territory, Luxembourg was left alone. After the valkist took over in Belgium, new voices which speak of annexation of Luxembourg have risen." #NT!
- bel.15.a: "Join our Belgian brethren" #NT!
- bel.15.b: "Refuse to join them" #NT!
- bel.16.t: "Black Wednesday hits Belgium" #NT!
- bel.16.d: "Following the stock market crash that hit London just a few days ago, our economy is also feeling the effects of Black Wednesday. Our economy is heavily dependant on trade in the North Sea and investments from both the UK and France. This is yet another example of big powers dragging small countries into their mess." #NT!
- bel.16.a: "Oh good Lord!" #NT!
- bel.17.t: "Luxembourg accepts our demands" #NT!
- bel.17.d: "Luxembourg has agreed to the annexation into Belgium. The government of the small country has looked upon the close ties it has with Belgium and the political situation in Europe and has realised that the safety of its people can only be guaranteed by a bigger and stronger country such as Belgium. Ever since 1839 Belgian politicians have dreamed about the return of Luxembourg into Belgium and now that dream has come true." #NT!
- bel.17.a: "Eendracht maakt macht - L'unité fait la force - Unity makes strength" #NT!
- bel.18.t: "Luxembourg refuses our demands" #NT!
- bel.18.d: "Luxembourg has refused to join our country. Léon Degrelle has already prepared our country for war with its small neighbour. Whatever the Luxembourgians may think of the ultimatum, they will join us, either peacefully or by force. They were stupid enough to think that they can deny us our rightful claims." #NT!
- bel.18.a: "Then war it is" #NT!
- bel.19.t: "March on Brussels" #NT!
- bel.19.d: "Today a large number of people have gathered in Brussels to protest against the recent enactment of the Krijgswet. Most of them identify themselves with the new Valkist movement of Léon Degrelle and call themselves the Bourguignons. However, some Flemish nationalist movements are also present. The question is what their motive is and how the city officials should react." #NT!
- bel.19.a: "Disperse the crowd with force!" #NT!
- bel.19.b: "Let them protest peacefully" #NT!
- bel.20.t: "Investigation into the PM" #NT!
- bel.20.d: "The King has asked publicly for an investigation into the finances of Prime Minister Paul van Zeeland. The King has become suspicious of van Zeeland after his recent behavior in the Krijgswet vote. Parliament has agreed to start an investigation, but the question remains who will lead the commission." #NT!
- bel.20.a: "Hendrik de Man will lead the investigation" #NT!
- bel.20.b: "Paul Hymans will lead the investigation" #NT!
- bel.21.t: "What's our next step?" #NT!
- bel.21.d: "What should be our next step in the investigation into Paul van Zeeland? The government wants this handled quickly and put a lot of pressure on the judges involved in this case. It is highly probable that the Commission will get only one judicial request granted. Now the question is whether a house-search should be conducted in the home of the Prime Minister, or if a look into his financial records will give more results." #NT!
- bel.21.a: "Request a warrant for a house-search" #NT!
- bel.21.b: "Take a look at his financial records" #NT!
- bel.22.t: "Investigation hits a dead end" #NT!
- bel.22.d: "The investigation has hit a dead end and gorvernment officials as well as members of parliament want the inquiry to end sooner than later. As a result, the Commission has been disbanded and Paul van Zeeland remains untouched." #NT!
- bel.22.a: "He's a lucky man!" #NT!
- bel.23.t: "PM involved in scandal!" #NT!
- bel.23.d: "A recent inquiry into the financial affaires of Prime Minister Paul van Zeeland has revealed that van Zeeland has been receiving money from the National Bank on a regular basis. Further investigation pointed out that the money was used illegaly in van Zeeland's campaign for the next elections. Although no official action has been taken, this will greatly affect van Zeeland's political career." #NT!
- bel.23.a: "Poor Paul, he had it coming" #NT!
- bel.24.t: "Degrelle calls out van Zeeland" #NT!
- bel.24.d: "After the recent scandal involving Prime Minister Paul van Zeeland, Léon Degrelle has called out the PM's actions in a public speech. The newspapers further contributed to the affaire and published Degrelle's speech the next day. As a result, the poll numbers of his party are on the rise, while van Zeeland's popularity is dwindling." #NT!
- bel.24.a: "Degrelle certainly has a special way of making sure he's heard" #NT!
- bel.25.t: "Invitation to Ghent" #NT!
- bel.25.d: "The Belgian government have sent us an invitation to Ghent to discuss the unification of our two nations into one bigger state called Dietsland. Of course their ideas are insane and would bring a lot of problems with them. Although some people in our nation would like to see a unification, we as a government can not give in to these absurd ideas and demands." #NT!
- bel.25.a: "Kindly reject the invitation" #NT!
- bel.26.t: "The Dutch refused!" #NT!
- bel.26.d: "The Dutch refused our offer to sign the Pacification of Ghent and unite Dietsland into one nation. This is outrageous, but we were prepared for this display. All over the Netherlands, loyal supporters of the Verdinaso cause are preparing to overthrow the government of Prince Bernhard. These secret agents will attempt to kill Bernhard and establish a new government which will seek unification with us into a greater nation." #NT!
- bel.26.a: "If Bernhard doesn't support us, we have to get rid of him" #NT!
- bel.27.t: "Belgian Plot Discovered!" #NT!
- bel.27.d: "Our secret service has discovered a Belgian plot to overthrow our government and kill Prince Bernhard in an attempt to put Verdinaso at the head of our nation. This Belgian plot is just another example of the growing danger our southern neighbors pose to the Dutch State and Prince Bernhard. Luckily for us, we have identified the majority of the conspirators and our police forces are already on their way to eliminate the threat." #NT!
- bel.27.a: "Those damn waffle eaters, let's teach them a lesson!" #NT!
- bel.28.t: "Our coup attempt failed!" #NT!
- bel.28.d: "Our attempt to establish a loyal government in the Netherlands has failed. The Dutch are preparing for war and so should we. We need to strike them before they strike us. If they don't want to unite Dietsland peacefully, then we have to do it by means of war!" #NT!
- bel.28.a: "Let's teach those clogs a lesson!" #NT!
- bel.29.t: "The end of Belgium!" #NT!
- bel.29.d: "VNV has successfully made an end to Belgium! By giving more and more federal characteristics to Belgium, the country has practicly ceased to exist." #NT!
- bel.29.a: "Play as Flanders" #NT!
- bel.29.b: "Play as Wallonia" #NT!
- bel.30.t: "Congolese Autonomy" #NT!
- bel.30.d: "The Belgian government has decided to grant Belgian Congo more autonomy. Through regional independence, our colony can contribute more to the welfare and scientific knowledge of Belgium." #NT!
- bel.30.a: "Continue playing as Belgium" #NT!
- bel.30.b: "Play as Congo" #NT!
- bel.31.t: "Hendrik De Man assumes control" #NT!
- bel.31.d: "Hendrik De Man has assumed control over Belgium. Previously a member of the Belgian social democrats, the actions of the King have lead him to embrace vanguardism. De Man will now push forward his vanguard agenda in hopes of stabilising Belgium." #NT!
- bel.31.a: "De Man has a plan!" #NT!
- bel.32.t: "National Communists remain in control" #NT!
- bel.32.d: "The National Communists of the KPB/PCB remain steadily in control of the new Belgian state. Though their victory in the Revolution, they will bring peace and prosperity to the peoples of Flanders and Wallonia." #NT!
- bel.32.a: "Long live the Revolution!" #NT!
-  
- ##### Belgisch Centraal-Afrika 
- bca.1.t: "Belgisch Centraal-Afrika" #NT!
- bca.1.d: "On 18 October 1908, the Belgian Parliament voted in favour of annexing the Congo as a Belgian colony. After our victory in the Great War the Ruanda-Urundi also fell into our hands. De jure it was a League of Nations mandate, but de facto Belgium had a free hand there. In 1933, Congo and Ruanda-Urundi merged to form Belgian Central Africa. The new African government was given greater autonomy in exchange for one demand: the BCA has until 1939 to prepare for annexation by Belgium. The plan is to 'civilise' and develop the country while making it dependent on Europe until it is ready for integration as a federal region. Will Pierre Ryckman's strategy satisfy the Belgian government?" #NT!
- bca.1.a: "Time Will Tell" #NT!
- bcaintro_tt: "§RThe Deadline is January 1939§!" #NT!
-  
-  
-  
- #####Decisions##### 
- BEL_economy: "The Belgian Economy" #NT!
- BEL_economy_desc: "Our national industry is important for the wealth and strength of our nation. Our government needs to do everything in its power to improve and build upon the current infrastructure." #NT!
- BEL_end_economic_crisis: "End the Economic Crisis" #NT!
- BEL_end_economic_crisis_desc: "Ever since Black Wednesday, our economy has been in a state of disarray. But with the effort of the government, the end is now in sight. Now we need to send a strong signal to the people and let them know that the future looks bright for Belgium." #NT!
-  
- BEL_belgian_congolese_research_name: "Belgian-Congo Technology Sharing" #NT!
- BEL_belgian_congolese_research_desc: "" #NT!
-  
- BEL_congo_timer: "The Congo Issue" #NT!
-  
- BEL_join_entente: "Join the Entente" #NT!
-  
- ### Companies 
- cockerill: "Cockerill" #NT!
- societe_belge_radio: "Société Belge Radio-électrique" #NT!
- solvay: "Solvay" #NT!
- fabrique_nationale: "Fabrique Nationale" #NT!
- fonderie_royale_canons: "Fonderie Royale de Canons" #NT!
- imperia: "Imperia Automobiles" #NT!
- minerva: "Minerva" #NT!
- familleureux: "Familleureux" #NT!
- la_brugeoise: "La Brugeoise" #NT!
- renard: "Renard" #NT!
- avions_fairey: "«Авион Фэйри»"
- sabca: "SABCA" #NT!
- stampe_vertongen: "Stampe et Vertongen" #NT!
- boel_zonen: "J. Boel & Zonen" #NT!
- mecar: "Mecar" #NT!
- forges_de_zeebruges: "Forges de Zeebruges" #NT!
- brossel: "Brossel" #NT!
- miesse: "Miesse" #NT!
- cockerill_scheepwerfen: "Cockerill Scheepwerfen" #NT!
-  
-  
- ### Cosmetic Tags 
- BEL_REP_market_liberal: "Belgian Republic" #NT!
- BEL_REP_market_liberal_ADJ: "Бельгийск" #NT!
- BEL_REP_market_liberal_DEF: "the Republic of Belgium" #NT!
- BEL_REP_social_liberal: "Belgian Republic" #NT!
- BEL_REP_social_liberal_ADJ: "Бельгийск" #NT!
- BEL_REP_social_liberal_DEF: "the Republic of Belgium" #NT!
- BEL_REP_social_conservative: "Belgian Republic" #NT!
- BEL_REP_social_conservative_ADJ: "Бельгийск" #NT!
- BEL_REP_social_conservative_DEF: "the Republic of Belgium" #NT!
- BEL_REP_social_democrat: "Belgian Republic" #NT!
- BEL_REP_social_democrat_ADJ: "Бельгийск" #NT!
- BEL_REP_social_democrat_DEF: "the Republic of Belgium" #NT!
- BEL_REP_vanguardist: "Union of Flanders-Wallonia" #NT!
- BEL_REP_vanguardist_ADJ: "Femish-Wallonian" #NT!
- BEL_REP_vanguardist_DEF: "the Serene Union of Flanders-Wallonia" #NT!
- BEL_REP_collectivist: "Workers State of Belgium" #NT!
- BEL_REP_collectivist_ADJ: "Бельгийск" #NT!
- BEL_REP_collectivist_DEF: "the Workers State of Belgium" #NT!
- BEL_REP_libertarian_socialist: "Belgian Socailist Republic" #NT!
- BEL_REP_libertarian_socialist_ADJ: "Бельгийск" #NT!
- BEL_REP_libertarian_socialist_DEF: "the Socialist Republic of Belgium" #NT!
- BEL_REP_authoritarian_democrat: "Royalist Belgium" #NT!
- BEL_REP_authoritarian_democrat_ADJ: "Бельгийск" #NT!
- BEL_REP_authoritarian_democrat_DEF: "Royalist Belgium" #NT!
- BEL_REP_paternal_autocrat: "Greater Belgium" #NT!
- BEL_REP_paternal_autocrat_ADJ: "Бельгийск" #NT!
- BEL_REP_paternal_autocrat_DEF: "the Greater Belgian State" #NT!
- BEL_REP_national_populist: "Flanders-Wallonia" #NT!
- BEL_REP_national_populist_ADJ: "Flemish-Walloon" #NT!
- BEL_REP_national_populist_DEF: "Flemish-Walloon Federation" #NT!
- BEL_REP_valkist: "Belgica" #NT!
- BEL_REP_valkist_ADJ: "Бельгийск" #NT!
- BEL_REP_valkist_DEF: "Belgica" #NT!
-  
- BEL_SDI_paternal_autocrat: "South Dietsland" #NT!
- BEL_SDI_paternal_autocrat_ADJ: "South Diets" #NT!
- BEL_SDI_paternal_autocrat_DEF: "South Dietsland" #NT!
-  
- BEL_DIE_paternal_autocrat: "Dietsland" #NT!
- BEL_DIE_paternal_autocrat_ADJ: "Diets" #NT!
- BEL_DIE_paternal_autocrat_DEF: "Dietsland" #NT!
- BEL_DIE_national_populist: "Dietsland" #NT!
- BEL_DIE_national_populist_ADJ: "Diets" #NT!
- BEL_DIE_national_populist_DEF: "Dietsland" #NT!
- BEL_DIE_valkist: "Dietsland" #NT!
- BEL_DIE_valkist_ADJ: "Diets" #NT!
- BEL_DIE_valkist_DEF: "Dietsland" #NT!
-  
- BEL_Albert_van_Belgie: "Albert I" #NT!
- BEL_Paul_Emile_Janson: "Paul-Emile Janson" #NT!
- BEL_Paul_Henri_Spaak: "Paul-Henri Spaak" #NT!
- BEL_Leonie_La_Fontaine: "Léonie La Fontaine" #NT!
- BEL_Leon_Degrelle: "Léon Degrelle" #NT!
- BEL_Joseph_Jacquemotte: "Joseph Jacquemotte" #NT!
- BEL_Julien_Lahaut: "Julien Lahaut" #NT!
- BEL_Hendrik_de_Man: "Hendrik de Man" #NT!
- BEL_Staf_de_Clercq: "Staf de Clercq" #NT!
- BEL_MCL_Keyaerts: "M.C.L. Keyaerts" #NT!
- BEL_Victor_Van_Strydonck_de_Burkel: "Victor Van Strydonck de Burkel" #NT!
- BEL_Jean_Baptiste_Piron: "Jean-Baptiste Piron" #NT!
- BEL_Georges_Timmermans: "Georges Timmermans" #NT!
- BEL_Prince_Karel: "Prince Karel" #NT!
- BEL_Leopold_van_Belgie: "Leopold III" #NT!
- BEL_War_van_Overstraeten: "War van Overstraeten" #NT!
- BEL_Lucie_Dejardin: "Lucie Dejardin" #NT!
- BEL_Achille_Van_Acker: "Achille Van Acker" #NT!
- BEL_Victor_de_Laveleye: "Victor de Laveleye" #NT!
- BEL_Frans_Van_Cauwelaert: "Frans Van Cauwelaert" #NT!
- BEL_Hubert_Pierlot: "Hubert Pierlot" #NT!
- BEL_Paul_Van_Zeeland: "Paul Van Zeeland" #NT!
- BEL_Dr_August_Borms: "Dr. August Borms" #NT!
- BEL_Joris_Van_Severen: "Joris Van Severen" #NT!
- BEL_Edgar_Lalmand: "Edgar Lalmand" #NT!
- BEL_Louis_Paul_Boon: "Louis Paul Boon" #NT!
- BEL_Camille_Huysmans: "Camille Huysmans" #NT!
- BEL_Jules_Pire: "Jules Pire" #NT!
- BEL_Eugene_Soudan: "Eugene Soudan" #NT!
- BEL_Roger_Motz: "Roger Motz" #NT!
- BEL_Gaston_Eyskens: "Gaston Eyskens" #NT!
- BEL_Charles_d_Aspremont_Lynden: "Charles d'Aspremont Lynden" #NT!
- BEL_Ward_Hermans: "Ward Hermans" #NT!
- BEL_Jef_Francois: "Jef Francois" #NT!
- BEL_Albert_Marteaux: "Albert Marteaux" #NT!
- BEL_Abraham_Leon: "Abraham Leon" #NT!
- BEL_Adhemar_Henneaut: "Adhemar Henneaut" #NT!
- BEL_Albert_Wauters: "Albert Wauters" #NT!
- BEL_Charles_Pomaret: "Charles Pomaret" #NT!
- BEL_Jules_Merlot: "Jules Merlot" #NT!
- BEL_Alexandre_Galopin: "Alexandre Galopin" #NT!
- BEL_Franz_de_Voghel: "Franz de Voghel" #NT!
- BEL_Maurice_Lippens: "Maurice Lippens" #NT!
- BEL_Georges_Theunis: "Georges Theunis" #NT!
- BEL_Gustaaf_Sap: "Gustaaf Sap" #NT!
- BEL_Hendrik_Heyman: "Hendrik Heyman" #NT!
- BEL_Jean_Duvieusart: "Jean Duvieusart" #NT!
- BEL_Rene_Lambrichts: "Rene Lambrichts" #NT!
- BEL_Jean_Terfve: "Jean Terfve" #NT!
- BEL_Willem_Eekelers: "Willem Eekelers" #NT!
- BEL_Felix_Van_den_Bergh: "Felix Van den Bergh" #NT!
- BEL_Adolphe_Van_Glabbeke: "Adolphe Van Glabbeke" #NT!
- BEL_Albert_Deveze: "Albert Deveze" #NT!
- BEL_Victor_Maistriau: "Victor Maistriau" #NT!
- BEL_Albert_Janssen: "Albert Janssen" #NT!
- BEL_August_De_Schryver: "August De Schryver" #NT!
- BEL_Francois_Bovesse: "Francois Bovesse" #NT!
- BEL_Jean_Rey: "Jean Rey" #NT!
- BEL_Georges_Thone: "Georges Thone" #NT!
- BEL_Emiel_Thiers: "Emiel Thiers" #NT!
- BEL_Paul_Ouwerx: "Paul Ouwerx" #NT!
- BEL_Adolphe_Cumont: "Adolphe Cumont" #NT!
- BEL_Auguste_Baesens: "Auguste Baesens" #NT!
- BEL_Georges_Deffontaine: "Georges Deffontaine" #NT!
- BEL_Georges_Vereecken: "Georges Vereeken" #NT!
- BEL_Gustave_Fromont: "Gustave Fromont" #NT!
- BEL_Olivier_Derousseaux: "Olivier Derousseaux" #NT!
- BEL_Oscar_Michiels: "Oscar Michiels" #NT!
- BEL_Jules_Bastin: "Jules Bastin" #NT!
- BEL_Edouard_Van_Den_Bergen: "Edouard Van Den Bergen" #NT!
- BEL_Lambert_Chardome: "Lambert Chardome" #NT!
- BEL_Raoul_van_Overstraeten: "Raoul van Overstraeten" #NT!
- BEL_Rene_Lagrou: "Rene Lagrou" #NT!
- BEL_Yvan_Gerard: "Yvan Gerard" #NT!
- BEL_Etienne_Glorie: "Etienne Glorie" #NT!
- BEL_Henri_Decarpentrie: "Henri Decarpentrie" #NT!
- BEL_Edouard_Blondeel: "Edouard Blondeel" #NT!
- BEL_Felix_Iserentant: "Felix Iserentant" #NT!
- BEL_LFE_Wouters: "L.F.E. Wouters" #NT!
- BEL_Paul_Nothomb: "Paul Nothomb" #NT!
- BEL_Rene_Legros: "Rene Legros" #NT!
-  
-  
-  
- BEL_Alfred_Renard: "Alfred Renard" #NT!
- BEL_Auguste_Piccard: "Auguste Piccard" #NT!
- BEL_Georges_Lemaitre: "Georges Lemaître" #NT!
- BEL_Karel_Jan_Bossart: "Karel Jan Bossart" #NT!
+ ### Parties
+ BEL_vanguardist_party: "БВП/ВСЕ" # BWP/POB
+ BEL_vanguardist_party_long: "Бельгийская рабочая партия/Parti Ouvrier Belge\n§gБельгийская рабочая партия§!" # Belgische Werkliedenpartij/Parti Ouvrier Belge\n§gBelgian Labor Party§!
+ BEL_collectivist_party: "КПБ/ПХБ" # KPB/PCB
+ BEL_collectivist_party_long: "Коммунистическая партия Бельгии/Коммунистическая партия Бельгии\n§gКоммунистическая партия Бельгии§!" # Kommunistische Partij van België/Parti Communiste de Belgique\n§gCommunist Party of Belgium§!
+ BEL_libertarian_socialist_party: "КПБ/ПХБ" # KPB/PCB
+ BEL_libertarian_socialist_party_long: "Коммунистическая партия Бельгии/Коммунистическая партия Бельгии\n§gКоммунистическая партия Бельгии§!" # Kommunistische Partij van België/Parti Communiste de Belgique\n§gCommunist Party of Belgium§!
+ BEL_social_democrat_party: "БВП/ВСЕ" # BWP/POB
+ BEL_social_democrat_party_long: "Бельгийская рабочая партия/Parti Ouvrier Belge\n§gБельгийская рабочая партия§!" # Belgische Werkliedenpartij/Parti Ouvrier Belge\n§gBelgian Labor Party§!
+ BEL_social_liberal_party: "ПП" # PP
+ BEL_social_liberal_party_long: "Прогрессистская партия/Прогрессистская партия\n§gПрогрессивная партия§!" # Progressistische Partij/Parti Progressist\n§gProgressive Party§!
+ BEL_market_liberal_party: "ЛП/ПЛ" # LP/PL
+ BEL_market_liberal_party_long: "Либеральная партия/Либеральная партия\n§gЛиберальная партия§!" # Liberale Partij/Parti Libéral\n§gLiberal Party§!
+ BEL_social_conservative_party: "КП/ПК" # KP/PC
+ BEL_social_conservative_party_long: "Католическая партия/Католическая партия\n§gКатолическая партия§!" # Katholieke Partij/Parti Catholique\n§gCatholic Party§!
+ BEL_authoritarian_democrat_party: "депутат/премьер-министр" # MP/PM
+ BEL_authoritarian_democrat_party_long: "Монархическая партия/Parti Monarchiste\n§gМонархическая партия§!" # Monarchistische Partij/Parti Monarchiste\n§gMonarchist Party§!
+ BEL_paternal_autocrat_party: "Вердинасо" # Verdinaso
+ BEL_paternal_autocrat_party_long: "Вердинасо" # Verdinaso
+ BEL_national_populist_party: "ИПЦ" # VNV
+ BEL_national_populist_party_long: "Фламандский национальный союз\n§gФламандский национальный союз§!" # Vlaams Nationaal Verbond\n§gFlemish National Union§!
+ BEL_valkist_party: "ПБ" # PB
+ BEL_valkist_party_long: "Бургундская вечеринка\n§gБургундская вечеринка§!" # Parti Bourguignon\n§gBurgundian Party§!
+
+#####Ideas#####
+ BEL_pillarized_society: "Столпотворенное общество" # Pillarized Society
+ BEL_national_unity_government: "Правительство национального единства" # Government of National Unity
+ BEL_linguistic_debacle: "Лингвистический разгром в армии" # Linguistic Debacle in the Army
+ BEL_improved_working_conditions: "Улучшенные условия труда" # Improved Working Conditions
+ BEL_subsidized_boerenbond: "Субсидируемый союз фермеров" # Subsidized Boerenbond
+ BEL_conge_paye: "Оплачиваемый отпуск" # Payed Vacations
+ BEL_large_state_investments: "Крупные государственные инвестиции" # Large State Investments
+ BEL_deregulated_industry: "Дерегулированная промышленность" # Deregulated Industry
+ BEL_strong_middle_class: "Сильный средний класс" # Strong Middle Class
+ BEL_women_suffrage: "Избирательное право женщин" # Women's Suffrage
+ BEL_debased_currency: "Обесцененная валюта" # Debased Currency
+ BEL_vlaamse_wacht: "Фламандская гвардия" # Vlaamse Wacht
+ BEL_purging_opposition: "Очистка оппозиции" # Purging Opposition
+ BEL_diamond_trade: "Алмазная торговля" # Diamond Trade
+ BEL_small_arms_factory: "Завод стрелкового оружия" # Small Arms Factory
+ BEL_bilingualism: "Двуязычие в армии" # Bilingualism in the Army
+ BEL_separate_divisions: "Языковые отделения" # Language Separated Divisions
+ BEL_black_wednesday: "Эффекты Черной среды" # Black Wednesday Effects
+ BEL_better_research: "Улучшенные исследования" # Improved Research
+ BEL_armed_neutrality: "Вооруженный нейтралитет" # Armed Neutrality
+ BEL_profits_from_congo: "Прибыль от Конго" # Profits from the Congo
+ BEL_economic_secretariats: "Экономические секретариаты" # Economic Secretariats
+ BEL_union_of_craftsmen_and_intellectuals: "Союз Мастеров и Интеллигенции" # Union of Craftsmen and Intellectuals
+ BEL_bwp_integrated: "Интегрированный BWP/POB" # Integrated BWP/POB
+ BEL_communist_brigades: "Коммунистические бригады" # Communist Brigades
+ BEL_nationalizing_pillars: "Национализация столпов" # Nationalizing Pillars
+ BEL_dominer_pour_servir: "Доминировать, чтобы служить" # Dominer pour Servir
+ BEL_brussels_academy: "Брюссельская академия" # Brussels Academy
+
+#####Tooltips#####
+
+#####Focus#####
+ BEL_goal_elections: "Выборы 1936 года" # 1936 Elections
+ BEL_goal_elections_desc: "Выборы в мае 1936 года определят, какие политические партии будут управлять Бельгией в течение следующих четырех лет." # The elections of May 1936 will determine which political parties will govern Belgium for the next four years.
+ BEL_goal_elections_tt: "§GЭтот фокус будет автоматически пропущен после завершения выборов 1936 года.§!" # §GThis focus will be automatically bypassed once the 1936 elections has been concluded.§!
+ BEL_goal_KPB: "Коммунистическая победа" # Communist Victory
+ BEL_goal_KPB_desc: "После того, как коммунисты успешно разгромили королевскую армию в недавней гражданской войне, теперь им предстоит восстановить страну и снова сделать Бельгию великой." # After the communists successfully defeated the King's army in the recent civil war, it is now up to them to rebuild the country and make Belgium great again.
+ BEL_goal_KPB_tt: "§GЭтот фокус будет автоматически обойден, как только коммунисты возьмут под свой контроль правительство.§!" # §GThis focus will be automatically bypass once the Communists has taken control of the government.§!
+ BEL_goal_de_man: "Выбирайте Де Мана" # Choose De Man
+ BEL_goal_de_man_desc: "Хендрик Де Ман, который недавно взял под свой контроль авангардистскую фракцию внутри BWP, является реальным претендентом на контроль над Бельгией после гражданской войны." # Hendrik De Man, who has recently took control of the vanguardist faction within the BWP, is a viable contender for control over Belgium after the civil war.
+ BEL_goal_economic_secretariats: "Экономические секретариаты" # Economic Secretariats
+ BEL_goal_economic_secretariats_desc: "Экономические секретариаты, возглавляемые технократами, не связанными ни с одной партией, — это путь вперед, если мы хотим вывести нашу страну из экономического кризиса." # Economic secretariats, led by technocrats not bound by any party, are the way forward if we want to lead our country away from the economic crisis.
+ BEL_goal_nationalize_industries: "Национализировать промышленность" # Nationalize Industries
+ BEL_goal_nationalize_industries_desc: "Национализация отраслей жизненно важна для прекращения так называемых рыночных монополий, которые некоторым компаниям удалось отобрать у правительства." # Nationalizing the industries is vital to end the so called marketmonopolies that some companies have managed to take from the government.
+ BEL_goal_union_of_craftsmen_and_intellectuals: "Союз Мастеров и Интеллигенции" # Union of Craftsmen and Intellectuals
+ BEL_goal_union_of_craftsmen_and_intellectuals_desc: "Союз ремесленников и интеллигенции создает прочную связь между рабочим классом нашей страны и интеллигенцией, возглавляющей страну." # The Union of Craftsmen and Intellectuals creates a strong bond between the working classes of our country and the intellectuals who are leading the country.
+ BEL_goal_head_office_worker_education: "Главное управление образования рабочих" # Head Office for Worker's Education
+ BEL_goal_head_office_worker_education_desc: "Главное управление образования рабочих — это учреждение, которое будет помогать в обучении рабочего класса Бельгии." # The Head Office for Worker's Education is an institution which will help educate the working classes of Belgium.
+ BEL_goal_choose_KPB: "Выберите КПБ/ПХБ" # Choose KPB/PCB
+ BEL_goal_choose_KPB_desc: "Коммунистической партии Бельгии удалось взять под свой контроль страну после недавней гражданской войны. Их марксистская программа теперь будет диктовать будущее Бельгии." # The Communist Party of Belgium has succeeded in taking control of the country after the recent civil war. Their marxist programme will now dictate the future of Belgium.
+ BEL_goal_integrate_bwp: "Интегрируйте BWP/POB" # Integrate the BWP/POB
+ BEL_goal_integrate_bwp_desc: "Интеграция авангардистской и социал-демократической фракций BWP/POB улучшит стабильность страны." # Integrating the vanguardist and social democrat factions of the BWP/POB will improve the country's stability.
+ BEL_goal_economic_planning: "Экономическое планирование" # Economic Planning
+ BEL_goal_economic_planning_desc: "Плановая экономика является одним из главных вопросов КПБ/ПКБ и жизненно важна для возрождения экономики страны." # A planned economy is one of the headliners of the KPB/PCB and vital to the revival of the country's economy.
+ BEL_goal_worker_universities: "Рабочие университеты" # Worker's Universities
+ BEL_goal_worker_universities_desc: "Повышение доступности университетов для низших классов значительно повысит благосостояние и уровень знаний в стране." # Making universities more accessible for the lower classes will greatly improve the wealth and knowledge in the country.
+ BEL_goal_communist_brigades: "Коммунистические бригады" # Communist Brigades
+ BEL_goal_communist_brigades_desc: "Создание коммунистических бригад улучшит статус нашей армии и лояльность солдат правительству." # Setting up communist brigades will improve the status of our army and the loyalty of soldiers to the government.
+ BEL_goal_BWP_KP_coalition: "BWP/POB - Коалиция КП/ПК" # BWP/POB - KP/PC Coalition
+ BEL_goal_BWP_KP_coalition_tt: "§GЭтот фокус будет автоматически обойден, как только BWP возьмет под свой контроль правительство.§!" # §GThis focus will be automatically bypass once the BWP has taken control of the government.§!
+ BEL_goal_BWP_KP_coalition_desc: "После последних выборов коалиция католиков и социал-демократов сформировала новое правительство большинства. Теперь им предстоит управлять страной в течение следующих четырех лет." # After the most recent election, a coalition of Catholics and Social Democrats have formed a new majority government. It is now up to them to govern the country for the next four years.
+ BEL_goal_improve_working_conditions: "Улучшить условия труда" # Improve Working Conditions
+ BEL_goal_improve_working_conditions_desc: "Улучшение условий труда должно быть приоритетом для этого правительства, которое поклялось служить бельгийскому народу. Сюда входят тысячи рабочих, которым каждый день приходится работать в ужасных условиях. Пришло время правительству что-то сделать, чтобы это изменить." # Improving working conditions should be a priority for this government, which swore to serve the Belgian people. That includes the thousands of workers who have to work in horrible conditions each day. It is time the government does something to change that.
+ BEL_goal_subsidize_the_boerenbond_1: "Субсидировать Боеренбонд" # Subsidize the Boerenbond
+ BEL_goal_subsidize_the_boerenbond_1_desc: "Boerenbond, католическая организация, представляющая фермеров страны, должна получать субсидии, чтобы они могли продолжать свою хорошую работу." # The Boerenbond, a Catholic pillar organisation which represents the country's farmers, should be subsidized in order that they can continue their good work.
+ BEL_goal_introduce_conge_paye: "Ввести оплачиваемый отпуск" # Introduce the Congé Payé
+ BEL_goal_introduce_conge_paye_desc: "Введение оплачиваемых отпусков для нашего рабочего класса может повысить производительность, а также увеличить потребление ими бельгийских товаров." # By introducing payed vacations for our working classes, productivity could increase and their consumption of Belgian goods should also increase.
+ BEL_goal_expand_national_industries: "Расширить национальные отрасли" # Expand National Industries
+ BEL_goal_expand_national_industries_desc: "Расширение национальных отраслей, таких как железнодорожная инфраструктура и энергосистема, значительно улучшит наш промышленный потенциал." # Expanding the national industries like the railway infrastructure and the power grid would greatly improve our industrial capacities.
+ BEL_goal_invest_in_education: "Инвестируйте в образование" # Invest in Education
+ BEL_goal_invest_in_education_desc: "Образование молодежи страны является приоритетом. Инвестиции в местные школы и крупные университеты страны значительно улучшат образование масс." # The education of the country's youth is a priority. Investing in local schools and the major universities of the country would greatly improve education for the masses.
+ BEL_goal_large_state_investments: "Крупные государственные инвестиции" # Large State Investments
+ BEL_goal_large_state_investments_desc: "Государство должно взять меру в свои руки и вложить значительные средства в промышленность нашей страны. Возможно, это единственный способ решить нынешний экономический кризис." # The state should take measure into its own hands and invest heavily in the industry of our country. It might be the only way to solve the current economical crisis.
+ BEL_goal_KP_LP_PP_coalition: "КП/ПК – ЛП/ПЛ – Коалиция ПП" # KP/PC - LP/PL - PP Coalition
+ BEL_goal_KP_LP_PP_coalition_tt: "§GЭтот фокус будет автоматически обойден, как только коалиция КП-ЛП-ПП возьмет под свой контроль правительство.§!" # §GThis focus will be automatically bypass once the KP-LP-PP coalition has taken control of the government.§!
+ BEL_goal_KP_LP_PP_coalition_desc: "После последних выборов коалиция католиков и либералов сформировала новое правительство большинства. Теперь им предстоит управлять страной в течение следующих четырех лет." # After the most recent elections, a coalition of Catholics and Liberals have formed a new majority government. It is now up to them to govern the country for the next four years.
+ BEL_goal_deregulate_industries: "Дерегулирование отраслей" # Deregulate Industries
+ BEL_goal_deregulate_industries_desc: "Дерегулирование отраслей даст частным компаниям больше возможностей для расширения. Учитывая нынешнюю нестабильную глобальную экономику, это может быть рискованно, но в конечном итоге это может оказаться успешным." # Deregulating the industries would give private owned companies more room to expand. Given the current unstable global economy, it may be risky to do this, but it might prove successful in the end.
+ BEL_goal_subsidize_the_boerenbond_2: "Субсидировать Боеренбонд" # Subsidize the Boerenbond
+ BEL_goal_subsidize_the_boerenbond_2_desc: "Boerenbond, католическая организация, представляющая фермеров страны, должна получать субсидии, чтобы они могли продолжать свою хорошую работу." # The Boerenbond, a Catholic pillar organisation which represents the country's farmers, should be subsidized in order that they can continue their good work.
+ BEL_goal_encourage_the_middle_class: "Поощряйте средний класс" # Encourage the Middle Class
+ BEL_goal_encourage_the_middle_class_desc: "Средний класс является важной частью нашей страны, и правительство должно всячески поощрять частный бизнес." # The middle class is an important part of our country and the government should encourage private owned businesses in every way it can.
+ BEL_goal_women_suffrage: "Избирательное право женщин" # Women's Suffrage
+ BEL_goal_women_suffrage_desc: "Расширение избирательных прав для женщин было хедлайнером Прогрессивной партии, которой удалось войти в правительственную коалицию с католиками и рыночными либералами. Как и было обещано, теперь они предоставят каждой женщине старше 21 года те же права голоса, что и мужчинам. Это важный шаг в нашей истории, который сблизит всех бельгийцев." # Extending voting rights to women was the headliner of the Progressive Party, which managed to enter the government coalition with the Catholics and the Market Liberals. As promised, they will now grant every woman above the age of 21 the same voting rights as men. This is an important step in our history and will bring all Belgians closer together.
+ BEL_goal_fund_scientific_research: "Фонд научных исследований" # Fund Scientific Research
+ BEL_goal_fund_scientific_research_desc: "Финансирование научных исследований могло бы оказаться очень полезным для промышленности нашей страны. Чем больше проектов правительство сможет поддержать, тем больше шансов, что будут сделаны крупные прорывы. Эти прорывы можно было бы применить в нашей армии или в нашей промышленности." # Funding scientific research could prove very useful to the industries of our country. The more projects the government can support, the more chance there is major breakthroughs will be made. These breakthroughs could be applied in our army or in our industry.
+ BEL_goal_debase_belgian_frank: "Обесценить бельгийский франк" # Debase the Belgian Frank
+ BEL_goal_debase_belgian_frank_desc: "Обесценивание бельгийского франка, нашей национальной валюты, возможно, единственный способ справиться с нынешним экономическим кризисом." # Debasing the Belgian Frank, our national currency, is maybe the only way we can deal with the current economic crisis.
+ BEL_goal_royal_coup: "Королевский переворот удался" # Royal Coup Succeeds
+ BEL_goal_royal_coup_desc: "Переворот короля Леопольда III увенчался успехом, и теперь его кабинет будет работать над будущим Бельгии. Неизвестно, по какому пути он поведет страну, но некоторые говорят, что это, возможно, единственный способ выжить в будущем." # The Coup of King Leopold III has succeeded and his cabinet will now work on the future of Belgium. It is uncertain which way he will lead the country into, but some say it might be the only way our country can survive the future.
+ BEL_goal_royal_coup_tt: "§GЭтот фокус будет автоматически пропущен после успешного переворота роялистов.§!" # §GThis focus will be automatically bypass once the Royalist coup is successful.§!
+ BEL_goal_politique_des_mains_libres: "Политика громкой связи" # Politique des Mains Libres
+ BEL_goal_politique_des_mains_libres_desc: "Politique des Mains Libres, или Политика свободных рук, — это политика, при которой Бельгия не принимает чью-либо сторону на мировой арене, умиротворяя более сильные страны, надеясь, что они оставят нас в покое." # Politique des Mains Libres, or Politics of Free Hands, is a policy where Belgium doesn't take any sides on the world stage, appeasing stronger nations hoping that they will leave us alone.
+ BEL_goal_armed_neutrality: "Вооруженный нейтралитет" # Armed Neutrality
+ BEL_goal_armed_neutrality_desc: "Вооруженный нейтралитет – это идея о том, что страна должна быть нейтральной в международных конфликтах, но также должна вкладывать значительные средства в свою армию, чтобы защитить себя в случае войны." # Armed neutrality is the idea that a country should be neutral in international conflicts, but also should heavily invest in its army to defend itself in case of a war.
+ BEL_goal_develop_royal_domains: "Развивайте королевские домены" # Develop Royal Domains
+ BEL_goal_develop_royal_domains_desc: "Король владеет большим количеством земли в Арденнах, которая в настоящее время не используется в местной промышленности. Развитие этих территорий поможет местному населению и улучшит экономику региона." # The King is in possession of a lot of land in the Ardennes which are currently not being used in the local industry. Developing those domains will help the local population and improve the economy in the area.
+ BEL_goal_fund_royal_academy: "Фонд Королевская Академия" # Fund Royal Academy
+ BEL_goal_fund_royal_academy_desc: "В настоящее время Королевской академии не хватает средств для полноценной работы. Предоставление этому учреждению большего финансирования значительно улучшит его способность проводить исследования." # Currently the Royal Academy is lacking funds to properly operate. Providing the institution with more funding would greatly improve its ability to conduct research.
+ BEL_goal_profits_from_congo: "Прибыль от Конго" # Profits from the Congo
+ BEL_goal_profits_from_congo_desc: "Король по-прежнему занимает важное положение в Бельгийском Конго. Прибыль от единственной колонии страны может быть использована для улучшения промышленности и экономики Бельгии и может помочь разрешить текущий кризис." # The King still holds an important position in the Belgian Congo. Profits from the country's only colony could be used to improve the industry and economy of Belgium and may help solve the current crisis.
+ BEL_goal_VNV: "ВНВ Победа" # VNV Victory
+ BEL_goal_VNV_tt: "§GЭтот фокус будет автоматически обойден, как только BWP возьмет под свой контроль правительство.§!" # §GThis focus will be automatically bypass once the BWP has taken control of the government.§!
+ BEL_goal_VNV_desc: "Vlaamsch Nationaal Verbond, или VNV, удалось назначить премьер-министра в новое правительство меньшинства. Они наверняка приведут Бельгию к конфедерации или даже к независимой Фландрии." # Vlaamsch Nationaal Verbond, or VNV, has succeeded to provide a Prime Minister in the new minority government. They will surely lead Belgium to a confederation, or even an independent Flanders.
+ BEL_goal_vlaamse_wacht: "Создать фламандскую гвардию" # Establish the Vlaamse Wacht
+ BEL_goal_vlaamse_wacht_desc: "Создание лояльной военизированной гвардии под названием Vlaamse Wacht обеспечит успех будущей политики правительства." # Establishing a loyal paramilitary guard called the Vlaamse Wacht will ensure the success of future policies implemented by the government.
+ BEL_goal_cultural_communities: "Основанные культурные сообщества" # Found Cultural Communities
+ BEL_goal_cultural_communities_desc: "Разработка культурной политики по разделению фламандских и валлонских тел стала бы первым шагом на пути к конфедерации или независимой Фландрии. Такие области, как образование, более эффективны, если они организованы региональными советами." # Designating cultural policies to separate Flemish and Walloon bodies would be the first step towards a confederation or an independent Flanders. Domains like education are more efficient if they are organised by regional councils.
+ BEL_goal_flemish_independence: "Фламандская независимость" # Flemish Independence
+ BEL_goal_flemish_independence_desc: "Фламандские националисты так долго боролись за независимость. Теперь, наконец, появилась возможность провозгласить независимость и двигаться вперед без франкоязычных валлонов." # The Flemish nationalists have worked so long for independence. Now is finally the opportunity to proclaim independence and move forward without the French-speaking Walloons.
+ BEL_goal_PB: "ПБ Победа" # PB Victory
+ BEL_goal_PB_tt: "§GЭтот фокус будет автоматически обойден, как только BWP возьмет под свой контроль правительство.§!" # §GThis focus will be automatically bypass once the BWP has taken control of the government.§!
+ BEL_goal_PB_desc: "Бургиньонской партии, или ПБ, удалось назначить премьер-министра в новое правительство меньшинства. Популярность их версии немецкого валькизма в последние месяцы резко возросла, вероятно, благодаря ее лидеру Леону Дегрелю, известному своим очень острым языком." # The Parti Bourguignon, or PB, has succeeded to provide a Prime Minister in the new minority government. Their version of German Valkism has seen a rapid increase in popularity in recent months, probably due to its leader, Léon Degrelle, who is known for his very sharp tongue.
+ BEL_goal_purge_opposition: "Чистка оппозиции" # Purge Opposition
+ BEL_goal_purge_opposition_desc: "Чтобы укрепить позиции Дегреля в правительстве, необходимо провести чистку других партий и оппозиции." # To strengthen Degrelle's position in the government, the other parties and the opposition must be purged.
+ BEL_goal_burgundian_inheritence: "Бургундское наследие" # Burgundian Inheritence
+ BEL_goal_burgundian_inheritence_desc: "Бельгия — единственная истинная преемница Бургундии, поэтому мы должны претендовать на наши давно утраченные территории и нашу бургундскую родину во Франции." # Belgium is the only true successor of Burgundy, therefore we must claim our long lost territories and our Burgundian homeland in France.
+ BEL_goal_ultimatum_luxembourg: "Люксембургский ультиматум" # Luxembourg Ultimatum
+ BEL_goal_ultimatum_luxembourg_desc: "Люксембург — легкая цель и первая точка расширения нашей будущей империи. Мы должны действовать быстро и потребовать, чтобы они присоединились к нам." # Luxembourg is an easy target and a first point of expansion for our future empire. We must act quickly and demand that they join us.
+ BEL_goal_ambiorix_legacy: "Наследие Амбиорикса" # The Legacy of Ambiorix
+ BEL_goal_ambiorix_legacy_desc: "В бельгийском валкизме Амбиорикс считается первым в длинном списке сильных и храбрых лидеров, которые в прошлом привели бельгов, каролингов и бургундцев к славе. Для многих Леон Дегрелль — современный Амбиорик. Отважные бельгийцы когда-то сражались против латинян Рима, теперь пришло время сразиться с латинянами Франции и еще раз доказать, что бельгийцы самые храбрые из всех." # In Belgian Valkism, Ambiorix is considered to be the first in a long list of strong and brave leaders who have led the Belgae, Carolingians and Burgundians to glory in the past. To many, Léon Degrelle is a modern Ambiorix. The brave Belgae once fought against the Latins of Rome, now it is time to fight against the Latins of France and prove once more that the Belgians are the bravest of all.
+ BEL_goal_Verdinaso: "Вердинасо Победа" # Verdinaso Victory
+ BEL_goal_Verdinaso_desc: "Вердинасо, партия автократов по отцовской линии, которая стремится к воссоединению с Голландией, сумела обеспечить премьер-министра в новом правительстве меньшинства. В течение следующих четырех лет их политика будет определять будущее Бельгии." # Verdinaso, a paternal autocrat party which seeks reunification with the Dutch, has succeeded to provide a Prime Minister in the new minority government. For the next four years, their policies will determine the future of Belgium.
+ BEL_goal_Verdinaso_tt: "§GЭтот фокус будет автоматически обойден, как только BWP возьмет под свой контроль правительство.§!" # §GThis focus will be automatically bypass once the BWP has taken control of the government.§!
+ BEL_goal_nieuwe_marsrichting: "Новое направление Марса" # Nieuwe Marsrichting
+ BEL_goal_nieuwe_marsrichting_desc: "Вместо объединения только Фландрии и Нидерландов нам следует объединить всю Бельгию с нашими голландскими соседями. Только тогда мы сможем назвать себя настоящим Дитсландом." # Instead of uniting only Flanders and the Netherlands, we should unite the whole of Belgium with our Dutch neighbors. Only then can we call ourselves a true Dietsland.
+ BEL_goal_proclaim_south_dietsland: "Провозгласить Южный Дитсланд" # Proclaim South Dietsland
+ BEL_goal_proclaim_south_dietsland_desc: "Если мы хотим объединить народ Сейма, мы должны начать с преобразования Бельгии в Южную Дитсландию. Смена имени будет выражать нашу политическую точку зрения и будущее, которое мы хотим для всех членов парламента." # If we want to unite the Diets people, we must start by transforming Belgium into South Dietsland. The namechange will express our political point of view and the future we want for all Diets people.
+ BEL_goal_pacification_of_ghent: "Умиротворение Гента" # Pacification of Ghent
+ BEL_goal_pacification_of_ghent_desc: "Умиротворение Гента было событием во время голландского восстания против испанцев, в ходе которого испанские Нидерланды впервые объединились в единый фронт после испанской ярости. Если мы пригласим голландское правительство в Генте на новое примирение, которое призывает к объединению наших двух наций, мы сможем объединить всех членов парламента в Нидерландах под одним знаменем." # The Pacification of Ghent was an event during the Dutch revolt against the Spanish in which the Spanish Low Countries came together for the first time as a united front, after the Spanish Fury. If we invite the Dutch government in Ghent for a new Pacification which calls for the unification of our two nations, we can unite all Diets people in the Low Countries under one banner.
+ BEL_goal_depillarize: "Депилляризация общества" # Depillarize Society
+ BEL_goal_depillarize_desc: "Бельгийское общество во многом определяется либеральными, католическими и социал-демократическими столпами. Разрушение этих столпов необходимо для будущего успеха наших маргинальных партий." # Belgium's society is heavily determined by the Liberal, Catholic and Social Democrat pillars. Destroying those pillars is necessary for the future success of our marginal parties.
+ BEL_goal_aftermath_london: "Последствия Черной среды" # Aftermath of Black Wednesday
+ BEL_goal_aftermath_london_desc: "К сожалению, Бельгия пострадала от экономического кризиса, последовавшего за крахом фондового рынка в Лондоне. Мы должны действовать сейчас, если хотим решить проблемы." # Belgium has unfortunately been hit by the economic crisis that followed the stock market crash in London. We must act now if we want to solve the problems.
+ BEL_goal_aftermath_london_tt: "§GЭтот фокус будет автоматически обойден, как только крах лондонского фондового рынка достигнет Бельгии.§!" # §GThis focus will be automatically bypass once the London Stock Market Crash has reached Belgium.§!
+ BEL_goal_expand_iron_rhine: "Расширить Железный Рейн" # Expand the Iron Rhine
+ BEL_goal_expand_iron_rhine_desc: "Железный Рейн — это название железнодорожной инфраструктуры, соединяющей порт Антверпена с важными промышленными центрами Рейна. Теперь, когда мы контролируем Маастрихт и голландский Лимбург, мы можем расширить сеть еще ближе к Рейну." # The Iron Rhine is the name for the railway infrastructure connecting the port of Antwerp with the important industrial centers of the Rhine. Now that we control Maastricht and Dutch Limburg, we can expand the network even closer to the Rhine.
+ BEL_goal_expand_antwerp_harbour: "Расширить порт Антверпена" # Expand the Port of Antwerp
+ BEL_goal_expand_antwerp_harbour_desc: "Теперь, когда мы улучшили железные дороги, соединяющие Антверпен с Рейном, пришло время модернизировать порт Антверпена, чтобы он мог принять новый приток товаров." # Now that we've improved the railways connecting Antwerp to the Rhine, it is time that we modernize the port of Antwerp to accomodate with the new influx of goods.
+ BEL_goal_antwerp_oil_refinery: "Антверпенские нефтеперерабатывающие заводы" # Antwerp Oil Refineries
+ BEL_goal_antwerp_oil_refinery_desc: "Антверпен — идеальное место для новой экспериментальной отрасли, включающей нефтеперерабатывающие заводы. Нам следует инвестировать в строительство нового промышленного центра вокруг порта." # Antwerp is the ideal location for a new and experimental industry involving oil refineries. We should invest in building a new industrial center around the port.
+ BEL_goal_invest_diamond_trade: "Инвестируйте в торговлю бриллиантами" # Invest in Diamond Trade
+ BEL_goal_invest_diamond_trade_desc: "Антверпен является крупнейшим центром торговли алмазами в мире, и, возможно, наша страна сможет получить от этого больше прибыли, чем сейчас. Инвестиции в отрасль принесут нам огромные выгоды." # Antwerp is the largest hub for diamond trade in the world and maybe our country can profit more from it than it does now. Investing in the industry will grant us huge benefits.
+ BEL_goal_invest_sillon_industriel: "Инвестируйте в промышленность Силлона" # Invest in the Sillon industriel
+ BEL_goal_invest_sillon_industriel_desc: "Промышленность Силлон — крупнейший промышленный район Бельгии, расположенный в Валлонии. Инвестиции в этот регион могут оказаться жизненно важными для разрешения нынешнего кризиса." # The Sillon industriel is the biggest industriel area of Belgium, located in Wallonia. Investing in the area may prove vital to solving the current crisis.
+ BEL_goal_expand_fn_herstal: "Развернуть ФН Херсталь" # Expand FN Herstal
+ BEL_goal_expand_fn_herstal_desc: "Компания FN Herstal, расположенная в Льеже, Валлония, является крупнейшим производителем оружия в стране. Его расширение приведет к увеличению занятости и лучшему оснащению бельгийской армии." # Located in Liège, Wallonia, FN Herstal is the biggest weapons manufacturer of the country. Expanding it would result in more employment and a better equipped Belgian army.
+ BEL_goal_expand_brussels_industry: "Расширить промышленность Брюсселя" # Expand Brussels Industry
+ BEL_goal_expand_brussels_industry_desc: "В нашей столице мало промышленности по сравнению с другими промышленными центрами нашей страны. Возможно, пришло время подумать о его расширении, чтобы стимулировать местную экономику." # Our capital has little industry around it compared to the other industrial hubs of our country. Maybe it is time we think about expanding it to stimulate the local economy.
+ BEL_goal_solvay_institute: "Основан Институт Сольвея" # Found Solvay Institute
+ BEL_goal_solvay_institute_desc: "Институт Solvay, названный в честь Эрнеста Сольвея, будет исследовать технологии, которые помогут превратить наши заводы в современные и эффективные производственные дома." # The Solvay Institute, named after Ernest Solvay, will research technologies which will help turn our factories in modern and efficient production houses.
+ BEL_goal_reinforce_colonial_government: "Укрепить колониальное правительство" # Reinforce the Colonial Government
+ BEL_goal_reinforce_colonial_government_desc: "Если мы укрепим колониальное правительство и губернатора Конго, Бельгия, возможно, сможет контролировать больше ресурсов и прибылей в этом регионе." # If we reinforce the colonial government and the governor of Congo, Belgium may be able to control more of the resources and profits in the area.
+ BEL_goal_more_autonomy: "Предоставьте больше автономии" # Grant More Autonomy
+ BEL_goal_more_autonomy_desc: "Предоставление большей автономии Бельгийскому Конго принесет пользу как местным жителям, так и Бельгии. Большая автономия означает, что колония может развиваться самостоятельно, не используя бельгийские ресурсы." # Granting more autonomy to the Belgian Congo will benefit both the natives and Belgium. More autonomy means the colony can develop itself without using Belgian resources.
+ BEL_goal_dominer_pour_servir: "Доминировать, чтобы служить" # Dominer pour Servir
+ BEL_goal_dominer_pour_servir_desc: "«Dominer pour servir» или «доминировать, чтобы служить» — такова идеология губернатора Пьера Рикманса. Его преданность бельгийской колонии принадлежит не только стране, но и ее народу, и все, что он делает, направлено на цивилизацию конголезского народа." # 'Dominer pour servir' or 'to dominate to serve' is the ideology of governor Pierre Ryckmans. His devotion to the Belgian colony is not only to the country, but also to its people and everything he does is to civilize the Congolese people.
+ BEL_goal_expand_conscription: "Расширить призыв в государственные силы" # Expand Force Publique Conscription
+ BEL_goal_expand_conscription_desc: "Расширение местных конголезских гарнизонов Force Publique является тривиальной мерой по поддержанию порядка в колонии." # Expanding the local Congolese garrisons, the Force Publique, is trivial to maintaining order in the colony.
+ BEL_goal_office_transports_coloniaux: "Колониальное транспортное управление" # Office des Transports Coloniaux
+ BEL_goal_office_transports_coloniaux_desc: "Управление колониального транспорта улучшит инфраструктуру нашей колонии, сделав эксплуатацию природных ресурсов проще и доступнее." # The Office of Colonial Transports will improve the infrastructure in our colony, making exploitation of the natural resources easier and more accessible.
+ BEL_goal_resource_extraction: "Добыча ресурсов" # Resource Extraction
+ BEL_goal_resource_extraction_desc: "Финансируя исследования по добыче ресурсов, доходы Конго взлетят до небес и принесут пользу нашим фабрикам внутри страны." # By funding research into resource extraction, profits from the Congo will skyrocket and benefit our factories at home.
+ BEL_goal_tungsten: "Вольфрамовые рудники в Киву" # Tungsten Mines in Kivu
+ BEL_goal_tungsten_desc: "Провинция Киву богата вольфрамитом — природным ресурсом, используемым для производства вольфрама. Расширение рудников в Киву даст нам доступ к большему количеству вольфрама для наших заводов." # The province of Kivu is rich in Wolframite, the natural resource used to make tungsten. Expanding the mines in Kivu will give us access to more tungsten for our factories.
+ BEL_goal_copper: "Медные рудники в Катанге" # Copper Mines in Katanga
+ BEL_goal_copper_desc: "Провинция Катанга богата медью, поэтому расширение рудников даст нам доступ к ценным ресурсам, которые мы сможем использовать для производства большего количества стали в этом районе." # The province of Katanga is rich in Copper, expanding the mines there will give us access to valuable resources which we can use to make more steel in the area.
+ BEL_goal_rubber: "Резиновые плантации в Эквадоре" # Rubber Plantations in Équateur
+ BEL_goal_rubber_desc: "Экваториальная провинция полна каучуковых плантаций со зловещим прошлым. Если мы сосредоточимся на модернизации этих плантаций и научим местных жителей пользоваться современными инструментами, мы сможем получить больше каучука для наших заводов и избавиться от жестоких обычаев нашего прошлого." # The province of Équateur is full of rubber plantations with an ominous past. If we focus on modernizing these plantations and teach the locals how to use modern tools, we might get more rubber for our factories and get rid of the brutal ways of our past.
+ BEL_goal_uranium: "Копать уран" # Dig for Uranium
+ BEL_goal_uranium_desc: "Старатели вернулись из Конго с сообщениями о том, что по территории Конго распространяется новая руда под названием уран. Раздобыв этот материал, мы, возможно, сможем использовать его в экспериментальных исследованиях." # Prospectors have returned from the Congo with reports of a new ore called uranium being spread throughout the Congo. Digging for this material, we might be able to use it in experimental research.
+ BEL_goal_boma_harbour: "Расширить гавань Бома" # Expand the Boma Harbour
+ BEL_goal_boma_harbour_desc: "Бома всегда был важным пунктом остановки для кораблей, следующих в Конго и обратно. Расширение и модернизация гавани Бома улучшит наши усилия в нашей колонии." # Boma has always been an important stopping point for ships travelling to and from the Congo. Expanding and modernizing the Boma harbour will improve our efforts in our colony.
+ BEL_goal_leopoldville_industry: "Индустриализация Леопольдвиля" # Industrialize Léopoldville
+ BEL_goal_leopoldville_industry_desc: "Индустриализация города Леопольдвиль сделает Конго центром торговли и промышленности и улучшит наши возможности по модернизации нашей колонии." # Industrializing the city of Léopoldville will give Congo a center of commerce and industry and will improve our ability to modernize our colony.
+ BEL_goal_educate_heart_of_darkness: "Воспитывайте Сердце Тьмы" # Educate the Heart of Darkness
+ BEL_goal_educate_heart_of_darkness_desc: "Обучение конголезских масс – это то, на чем нашему правительству следует сосредоточиться, если мы хотим обеспечить светлое будущее нашей колонии." # Educating the Congolese masses is something our government should focus on if we want to provide a bright future for our colony.
+ BEL_goal_bcsc: "Белго-конголезское научное сотрудничество" # Belgo-Congolese Scientific Cooperation
+ BEL_goal_bcsc_desc: "Создание организации, которая приведет нашу страну и ее колонию к научному сотрудничеству, принесет большую пользу прогрессу, достигнутому в модернизации Конго." # Establishing an organisation which leads our nation and its colony to scientific cooperation will greatly benefit the progress made to modernize the Congo.
+ BEL_goal_lessons_great_war: "Уроки Великой войны" # Lessons of the Great War
+ BEL_goal_lessons_great_war_desc: "Изучая Великую войну, мы сможем лучше понять войну в наше время и подготовиться к будущим войнам." # By studying the Great War, we may be able to better understand warfare in modern times and prepare for future wars.
+ BEL_goal_mobile_defence: "Фонд исследований Минервы" # Fund Minerva Research
+ BEL_goal_mobile_defence_desc: "Мобильная оборона является ключом к удержанию линии обороны в будущих оборонительных войнах, и компания-производитель автомобилей Minerva могла бы извлечь выгоду из финансируемых исследований этих современных чудес." # Mobile defence is the key to holding the line in future defensive wars and the car manufacturing company Minerva could benefit from funded research into these modern marvels.
+ BEL_goal_bicycle_divisions: "Велосипедные подразделения" # Bicycle Divisions
+ BEL_goal_bicycle_divisions_desc: "Возрождение велосипедных дивизий, которые мы использовали в Великой войне, может оказаться полезным в будущих войнах." # Reviving the bicycle divisions we used in the Great War may prove useful in future wars.
+ BEL_goal_bilingualism: "Двуязычие в армии" # Bilingualism in the Army
+ BEL_goal_bilingualism_desc: "Языковые разногласия существовали в нашей армии слишком долго. Пришло время решить эту проблему, иначе наши силы могут оказаться неподготовленными к следующей войне. Обучение наших солдат как голландскому, так и французскому языку — это правильный путь. Это не только улучшит общение в армии, но и сблизит фламандских и валлонских солдат." # Language divisions have run through our army for far too long. It is time we solve the issue or our forces might be to unprepared for a next war. Teaching our soldiers both Dutch and French is the way to go. Not only will that improve communication in the army, but it will also bring Flemish and Walloon soldiers closer together.
+ BEL_goal_separate_divisions: "Отдельные фламандская и валлонская дивизии" # Separate Flemish and Walloon Divisions
+ BEL_goal_separate_divisions_desc: "Разделение нашей армии на фламандскую и валлонскую дивизии может быть единственным способом решить языковой барьер, который пронизывает нашу армию. Фламандские дивизии получали приказы на голландском языке, а валлонские — на французском. Центральное командование возьмет на себя задачу написания приказов на обоих языках." # Separating our army into Flemish and Walloon divisions might be the only way to solve the language divide that runs through our army. Flemish divisions would get their orders in Dutch and Walloon divisions in French. Central Command would take up the task of writing orders in both languages.
+ BEL_goal_defensive_doctrine: "Оборонительная доктрина" # Defensive Doctrine
+ BEL_goal_defensive_doctrine_desc: "Следование оборонительной доктрине – лучший способ выиграть будущие войны. Если обескровить врага в наших фортах и ​​укрепленных линиях, он поставится на колени, что позволит нашей армии в конце концов одержать победу." # Following a defensive doctrine is the best way to win future wars. Bleeding the enemy dry on our forts and fortified lines will bring them on their knees, allowing our army to be victorious in the end.
+ BEL_goal_offensive_doctrine: "Наступательная доктрина" # Offensive Doctrine
+ BEL_goal_offensive_doctrine_desc: "Хотя наша армия может быть небольшой, специализация на атаке может стать способом застать врасплох наших врагов. Наступательная доктрина – это то, что нам нужно, если мы хотим победить наших врагов." # While our army might be small, specializing in attack might be a way to surprise our enemies. An offensive doctrine is what we need if we want to overcome our enemies.
+ BEL_goal_prepare_next_war: "Готовьтесь к следующей войне" # Prepare for the Next War
+ BEL_goal_prepare_next_war_desc: "Многие думали, что Великая война станет войной, которая положит конец всем войнам, но стало ясно, что в Европе разразится новая война. Нам нужно подготовить нашу армию, чтобы снова защитить нашу страну." # Many thought the Great War was the war to end all wars, but it has become clear that a new war will break out in Europe. We need to prepare our army to once again defend our country.
+ BEL_goal_modernize_liege_forts: "Модернизация пояса Льежских фортов" # Modernize the Liège Fort Belt
+ BEL_goal_modernize_liege_forts_desc: "Во время Великой войны пояс фортов Льежа продержался дольше, чем ожидали немцы, но в конце концов они оказались слишком старыми для современных технологий и ведения войны. Если мы их модернизируем, они могут снова стать жизнеспособным оборонительным поясом вокруг Льежа." # In the Great War, the Liège fort belt held out longer than the Germans expected, but in the end, they were too old for modern technology and warfare. If we modernize them, they might become a viable defensive belt around Liège again.
+ BEL_goal_fortify_french_border: "Укрепите французскую границу" # Fortify the French Border
+ BEL_goal_fortify_french_border_desc: "Укрепление французской границы — следующий шаг в защите нашей страны. Недавние события во французской политике заставили многих бельгийских политиков задуматься, а не Германия ли главная опасность, а Франция." # Fortifying the French border is the next step in the defence of our country. Recent developments in French politics have many Belgian politicians wondering if the main danger isn't Germany, but France.
+ BEL_goal_fortify_meuse: "Укрепить реку Маас" # Fortify the Meuse River
+ BEL_goal_fortify_meuse_desc: "Река Маас является естественной линией обороны от врагов с востока. Размещение фортов по всему западному берегу может оказаться полезным, если Германия решит снова вторгнуться в нашу страну." # The Meuse river is a natural defensive line against enemies from the east. Putting forts all along the west bank might prove useful if Germany would choose to invade our country again.
+ BEL_goal_modernize_antwerp_forts: "Модернизация пояса фортов Антверпена" # Modernize the Antwerp Fort Belt
+ BEL_goal_modernize_antwerp_forts_desc: "Во время Великой войны форты вокруг Антверпена были жизненно важны для выживания бельгийской армии и позволили ей отступить в Западную Фландрию, где она продержалась пять лет до конца войны. Форты сильно повреждены и устарели, поэтому их модернизация — единственный способ снова использовать их в будущей войне." # During the Great War, the forts around Antwerp were vital to the survival of the Belgian army and allowed them to retreat to West-Flanders where they held out for five years until the end of the war. The forts have been heavily damaged and are outdated, modernizing them is the only way they can be used again in a future war.
+ BEL_goal_small_arms: "Фонд FN Herstal Research" # Fund FN Herstal Research
+ BEL_goal_small_arms_desc: "Стрелковое оружие так же важно, как и сами солдаты. Инвестиции в лучшее оборудование и более оптимизированное производство жизненно важны для бельгийской военной машины, особенно когда в этом участвует FN Herstal и наша промышленность может получить прибыль от финансируемых исследований." # Small arms are as important as the soldiers themselves. Investing in better equipment and a more streamlined production is vital to the Belgian war machine, especially when FN Herstal is involved and our industry can profit from funded research.
+ BEL_goal_artillery: "Артиллерийский фокус" # Artillery Focus
+ BEL_goal_artillery_desc: "Артиллерия – основа любой хорошей армии. Артиллерия прорывает линию противника и расчищает путь пехоте, чтобы продвинуться и завершить начатое." # Artillery is the backbone of any good army. Artillery breaks through the enemy lines and clears the way for infantry to move in and finish the job.
+ BEL_expand_the_acedemy_of_brussels: "Расширить Академию Брюсселя" # Expand the Academy of Brussels
+ BEL_expand_the_acedemy_of_brussels_desc: "Академия в Брюсселе является центром нашего офицерского корпуса, где готовят многих младших офицеров и стратегов, которые формируют нашу армию. Увеличивая финансирование этого органа, мы можем гарантировать, что он продолжит выпускать выпускников высшего класса. Однако также вероятно, что эта модернизация приведет к усилению доктринальных разногласий между различными школами мысли. Еще неизвестно, что станет ортодоксальностью." # The academy at Brussels is the centre of our officer corps, training many of the junior officers and strategists who shape our military. By pouring increased funding into the body, we can ensure it continues to push out top class graduates. However, is also likely that this modernisation will lead to increased doctrinal squabbling between the various schools of thought. It remains to be seen which will emerge as the orthodoxy.
+ BEL_integrated_communication: "Интегрированные коммуникации" # Integrated Communications
+ BEL_integrated_communication_desc: "Современные войны все чаще ведутся с помощью радио, радаров и вычислительных машин. Поэтому для нашей программы модернизации крайне важно, чтобы мы приобретали и разрабатывали новые достижения в этих областях и чтобы наши силы, вплоть до каждой роты, проходили обучение их использованию." # Modern wars are increasingly fought with the help of radio, radar and computing machines. It's therefore crucial for our modernisation programme that we procure and develop new advances in these fields and that our forces, down to every company, receive training in their use.
+
+#congo
+ BEL_good_governor: "Хороший губернатор" # The Good Governor
+ BEL_goal_fight_rebels: "Дайте отпор повстанцам" # Fight Back the Rebels
+ BEL_goal_provide_equipment: "Предоставить оборудование" # Provide Equipment
+ BEL_goal_expand_force_publique: "Расширьте Force Publique" # Expand the Force Publique
+ BEL_military_drills: "Военные учения" # Military Drills
+ BEL_goal_congo_industry: "Индустриализация" # Industrialisaton
+ BEL_congo_arms_production: "Ускорьте производство оружия" # Kickstart the Arms Production
+ BEL_force_european_exports: "Принудительный импорт из Европы" # Force Imports From Europe
+ BEL_colonialism_human_face: "Колониализм с человеческим лицом" # Colonialism with Human Face
+ BEL_civilize_people: "Цивилизовать людей" # Civilize the People
+ BEL_provide_education: "Обеспечить образование" # Provide Education
+ BEL_fix_numbers: "Давайте исправим некоторые цифры..." # Let's Fix Some Numbers...
+ BEL_integration: "Интеграция" # Integration
+
+
+#####Events#####
+ bel.1.t: "Бельгия после Великой войны" # Belgium after the Great War
+ bel.1.d: "В 1914 году Германия вторглась в Бельгию, проигнорировав ее нейтралитет и втянув в войну Великобританию на стороне Антанты. Бельгийские войска были быстро разбиты, но смогли закрепиться за рекой Изер. В оккупированной Бельгии немцы проводили Flamenpolitik — политику, направленную против фламандских националистов и, по сути, уступающую их требованиям. В свободной Бельгии король Альберт повел свои войска за линию фронта. После окончания войны это придало ему популярность. По Версальскому договору 1920 года бельгийские дипломаты смогли обеспечить территориальные претензии Нидерландов на Зеувс-Флаандерен и голландский Лимбург. В результате отношения с Нидерландами с тех пор никогда не были прежними. \n\nВ Лоппемском пакте 1919 года король сидел вместе с бельгийскими политиками, оставшимися в оккупированной Бельгии, и обсуждал возможность всеобщего избирательного права для всех мужчин старше 21 года. На следующих выборах было введено всеобщее избирательное право, что фактически превратило страну в массовую демократию. В результате нескольким политическим партиям пришлось реформировать свою программу, чтобы привлечь больше избирателей. Были также созданы новые партии, борющиеся за фламандское дело, и даже внутри традиционных партий это дело было принято. В начале 1930-х годов это привело к принятию нескольких лингвистических законов, которые сделали Фландрию одноязычным голландским правительством. \n\nОднако в последние годы появилось несколько крайне правых и крайне левых партий из-за растущего презрения к нынешней политической системе." # In 1914, Germany invaded Belgium, disregarding its neutrality and pulling the United Kingdom in the war on the side of the Entente. Belgian troops were quickly overrun, but were able to entrench behind the Yser river. In occupied Belgium, the Germans pursued the Flamenpolitik, a policy directed towards the Flemish nationalists and essentially giving in to their demands. In free Belgium, King Albert led his troops behind the frontline. After the war ended this gave him a popularity boost. In the 1920 Treaty of Versailles, Belgian diplomats were able to secure territorial claims on Zeeuws-Vlaanderen and Dutch Limburg from the Netherlands. As a result, relations with the Netherlands have never been the same since. \n\nIn the 1919 Pact of Loppem, the King sat together with the Belgian politicians who stayed behind in occupied Belgium and discussed the possibility of universal suffrage for all men above the age of 21. In the next elections, universal suffrage was enacted, effectivily turning the country into a mass democracy. As an effect, several political parties had to reform their programme to attract more voters. New parties fighting for the Flemish cause were also founded and even within the traditional parties the cause was adopted. In the early 1930s this lead to the enactment of several linguistic laws which made Flanders monolingual Dutch in the administration. \n\nHowever in recent years, several far-right and far-left parties have emerged because of a growing disdain for the current political system.
+ bel.1.a: "Бельгийский Лев силён!" # The Belgian Lion stands strong!
+ bel.2.t: "Король Альберт погиб в результате несчастного случая" # King Albert dies in an accident
+ bel.2.d: "18 февраля в 2 часа ночи тело короля Альберта было найдено у подножия скалы в Марке-ле-Дам (Намюр). Предполагается, что король разбился насмерть в результате несчастного случая при восхождении. Однако король был известен как опытный альпинист, и многие задаются вопросом, была ли его смерть вообще несчастным случаем. Его 35-летний сын Леопольд теперь пойдет по стопам отца и станет королем Бельгии." # At 2 a.m. on the 18th of February, the body of King Albert was found at the base of a cliff in Marche-Les-Dames (Namur). It is presumed the King fell to his death after a climbing accident. However, the King was known to be a skilled mountaineer and many wonder if his death was an accident at all. His 35 year old son, Leopold, will now follow in his father's footsteps as King of Belgium.
+ bel.2.a: "Да здравствует король Леопольд III!" # Long live King Leopold III!
+ bel.3.t: "Королева Астрид погибла в результате подозрительного несчастного случая" # Queen Astrid dies in suspicious accident
+ bel.3.d: "Со смертью короля Альберта всего месяц назад Бельгию и королевскую семью снова постигла катастрофа. Леопольд III и его жена Астрид ранее в этот день попали в автокатастрофу в Арденнах. Леопольд выжил в аварии, но его жена умерла у него на руках. Полицейские, прибывшие на место происшествия, обнаружили некоторые элементы, свидетельствующие о том, что причиной крушения может быть диверсия. Леопольд III в ярости и полон решимости найти виновника, чего бы это ни стоило." # With the death of King Albert only one month ago, Belgium and the royal family have been struck by disaster again. Leopold III and his wife Astrid were involved in a car crash in the Ardennes earlier this day. Leopold survived the accident, but his wife died in his arms. Police officers rushed to the scene and discovered some elements that sabotage may be the cause of the crash. Leopold III is furious and is determined to find the culprit, whatever the cost may be.
+ bel.3.a: "Начать расследование дела." # Start an investigation into the case.
+ bel.4.t: "Принять Кригсвет, чтобы помочь расследованию?" # Enact Krijgswet to help the investigation?
+ bel.4.d: "Если парламент примет Кригсвет, расследование смерти королевы Астрид возьмут на себя военные. Это повысит шансы поймать преступника, но будет означать, что он, вероятно, не получит справедливого суда." # If parliament were to enact the Krijgswet, the military would take over the investigation into the death of Queen Astrid. This would improve the chances of catching the culprit, but it would mean that he would probably not get a fair trial.
+ bel.4.a: "Крийгсвет проходит в парламенте, сделайте все, чтобы поймать убийцу." # The Krijgswet passes in parliament, do everything to catch the killer.
+ bel.4.b: "Законопроект провалился, справедливое судебное разбирательство слишком важно." # The bill fails, a fair trial is too important.
+ bel.5.t: "Убийца пойман" # The killer is caught
+ bel.5.d: "С принятием Кригсвета военные быстро взяли на себя дело королевы Астрид. Используя все свои ресурсы, они смогли найти виновника. После двухдневной охоты они поймали мужчину средних лет незадолго до того, как он смог пересечь границу с Люксембургом. Мужчина был связан с местной коммунистической ячейкой. Теперь он, вероятно, исчезнет где-нибудь в темной тюремной камере." # With the enactment of the Krijgswet, the military quickly took over the case of Queen Astrid. Using all their resources, they were able to find the culprit. After a two day long manhunt, they caught a middle-aged man just before he could cross into Luxembourg. The man had ties to a local communist cell. He will now probably dissapear somewhere in a dark jail cell.
+ bel.5.a: "Эти проклятые анархисты!" # Those damn anarchists!
+ bel.6.t: "Расследование зашло в тупик" # Investigation hits dead end
+ bel.6.d: "Расследование подозрительной смерти королевы Астрид зашло в тупик. Король Леопольд III расстроен тем, что Кригсвет не прошел. Если бы это было так, убийца наверняка был бы пойман. Напряженность между Леопольдом III и правительством сейчас растет. По всей стране все больше и больше людей выражают свою симпатию королю." # The investigation into the suspicious death of Queen Astrid has hit a dead end. King Leopold III is frustrated because the Krijgswet didn't pass. If it did, surely the killer would have been caught. Tensions between Leopold III and the government are now rising. Throughout the country, more and more people are expressing their sympathy for the King.
+ bel.6.a: "В стране объявлен траур." # The nation enters a state of mourning.
+ bel.7.t: "Результаты выборов готовы" # Election results are in
+ bel.7.d: "Только что стали известны результаты последних выборов. Королю Леопольду III теперь предстоит сформировать правительство большинства на основе нового состава парламента. Следующее правительство определит будущее страны на следующие четыре года, поэтому выбор короля имеет первостепенное значение." # The results of the latest elections just came in. King Leopold III now has to form a majority government based on the new composition of parliament. The next government will determine the future of the country for the next four years, so the King's choice is of the outmost importance.
+ bel.7.a: "Король отказывается формировать правительство!" # The King refuses to form a government!
+ bel.7.b: "Король начинает переговоры" # The King starts negotiations
+ bel.8.t: "Беспорядки в Валлонии!" # Unrest in Wallonia!
+ bel.8.d: "Решение короля не формировать правительство, вызванное его разочарованием в связи со смертью жены, стало основной причиной волнений в Валлонии. Люди бастуют, а в некоторых местах даже нападают на полицию. Дошло до того, что гражданская война стала вполне реальной возможностью. Сообщения о том, что коммунистические ячейки берут в руки оружие, уже поступают, и армия находится в состоянии повышенной боевой готовности." # The King's decision to not form a government, rooted in his frustration with the case of his wife's death, has become a major reason for unrest in Wallonia. People are going on strike and in some places they are even attacking police forces. It has come to the point where civil war is a very real possibility. Reports of communist cells taking up arms are already coming in and the army is on high alert.
+ bel.8.a: "Подавите их мелкий бунт!" # Crush their petty rebellion!
+ bel.8.b: "Да здравствует революция (Играйте за коммунистов)" # Vive la Révolution (Play as communists)
+ bel.8.c: "Парламент свергает Леопольда III и провозглашает республику до начала войны." # Parliament deposes Leopold III and declares the Republic before war breaks out.
+ bel.9.t: "Какая коалиция должна возглавить правительство?" # Which coalition should lead the government?
+ bel.9.d: "Результаты последних выборов были неоднозначными, три традиционные партии потеряли некоторую популярность, а крайне левые и правые партии находятся на подъеме. В результате переговоры о формировании коалиции заняли гораздо больше времени, чем ожидалось, но наконец подошли к концу. Новый премьер-министр вскоре выступит в парламенте и объявит новое правительство." # The results of the latest elections were ambiguous, the three traditional parties have lost some popularity and extreme-left and -right parties are on the rise. As a result, the negotiations to form a coalition have taken much longer than expected, but have finally come to an end. A new Prime Minister will soon take the stand in Parliament and declare the new government.
+ bel.9.a: "Правительство возглавит коалиция католиков и социал-демократов." # A coalition of Catholics and Social Democrats will lead the government
+ bel.9.b: "Правительство возглавит коалиция католиков, рыночных либералов и социал-либералов." # A coalition of Catholics, Market Liberals and Social Liberals will lead the government
+ bel.9.c: "Другие коалиции потерпели неудачу, и крайне правые возглавят правительство меньшинства" # Other coalitions have failed and the far-right will lead a minority government
+ bel.10.t: "Кто станет премьер-министром?" # Who will become Prime Minister?
+ bel.10.d: "В новом правительстве католиков-социал-демократов кто-то должен взять на себя роль премьер-министра. Вопрос лишь в том, должен ли страной руководить член КП/ПК или член БВП/ПОБ." # In the new Catholic-Social Democrat government, someone should take the role of Prime Minister. The only question is whether a member of the KP/PC or from the BWP/POB should lead the country.
+ bel.10.a: "Социал-демократ должен быть премьер-министром" # A Social Democrat should be PM
+ bel.10.b: "Католик должен быть премьер-министром" # A Catholic should be PM
+ bel.11.t: "Кто станет премьер-министром?" # Who will become Prime Minister?
+ bel.11.d: "В новом католически-рыночно-либерально-социал-либеральном правительстве кто-то должен взять на себя роль премьер-министра. Католики уже поддержали либерала, вопрос лишь в том, должен ли это быть рыночный либерал от ЛП/ЛП или социальный либерал от ПП." # In the new Catholic-Market Liberal-Social Liberal government, someone should take the role of Prime Minister. The Catholics already gave their support for a liberal, the only question is whether it should be a market liberal from the LP/PL or a social liberal from the PP.
+ bel.11.a: "Рыночный либерал должен быть премьер-министром" # A Market Liberal should be PM
+ bel.11.b: "Социал-либерал должен быть премьер-министром" # A Social Liberal should be PM
+ bel.12.t: "Кто станет премьер-министром?" # Who will become Prime Minister?
+ bel.12.d: "Учитывая, что после недавних выборов к власти пришли крайне правые, удивительно, что им вообще удалось сформировать коалицию, поскольку сейчас они обсуждают, кто должен стать премьер-министром." # With the far-right taking over government after the recent elections, it is a surprise they were even able to form a coalition, as they are now discussing who should be Prime Minister.
+ bel.12.a: "Стаф де Клерк (VNV) должен стать премьер-министром" # Staf de Clercq (VNV) should be PM
+ bel.12.b: "Йорис ван Северен («Вердинасо») должен стать премьер-министром" # Joris van Severen (Verdinaso) should be PM
+ bel.12.c: "Леон Дегрель (ПБ) должен стать премьер-министром" # Léon Degrelle (PB) should be PM
+ bel.13.t: "Король Леопольд вызывает премьер-министра для объяснений" # King Leopold summons the Prime Minister for an explanation
+ bel.13.d: "После того, как расследование смерти его жены зашло в тупик, король требует объяснений от премьер-министра Пола ван Зеланда. Основная жалоба Леопольда - это провал Крийгсвета в парламенте, поскольку он уже разрешил бы загадку, если бы дело взяли на себя военные. Однако Пол ван Зеланд отказывается давать какие-либо объяснения, поскольку информация о смерти королевы Астрид является конфиденциальной." # After the investigation into his wife's death hit a dead end, the King wants an explanation from Prime Minister Paul van Zeeland. Leopold's main complaint is the failing of the Krijgswet in Parliament, as it would have solved the mystery already, if the military had taken over the case. However, Paul van Zeeland refuses to give any explanations, as the information about Queen Astrid's death is confidential.
+ bel.13.a: "Кем он себя считает?" # Who does he think he is?
+ bel.14.t: "Валкистский манифест" # A Valkist Manifesto
+ bel.14.d: "Недавно опубликованная статья Леона Дегреля в последнее время вызвала некоторые споры. В статье Дегрелль описывает Бельгию как точку пересечения германской и романской культур в том, что он называет Pax Belgica, мирным сосуществованием обеих культур. Он утверждает, что именно Pax Belgica несколько раз в истории делал регион таким успешным. Он использует пример великой Империи Карла Великого и Бургундского герцогства, могущественных держав Средневековья. \n\nЗатем Леон Дегрель рассказал о своих планах участвовать в предстоящих выборах вместе со своей новой партией, Бургиньонской партией. Его программа состоит из того, что лучше всего можно назвать валькизмом. Он заявляет о своем сильном отвращении к монархии, поскольку на протяжении веков она была инструментом, используемым иностранными державами и католической церковью для подавления германского и романского населения Бельгии. Дегрелль далее описывает прогрессивную политику, которую он будет стремиться реализовать, если его партия будет избрана на пост президента." # A recently published article by Léon Degrelle has caused some controversy lately. In the article, Degrelle describes Belgium as a crosspoint between Germanic and Romance culture in what he calls the Pax Belgica, the peaceful coexistance of both cultures. He argues that this Pax Belgica is what made the region so successful on several occasions in history. He uses the example of the great Empire of Charlemagne and the Duchy of Burgundy, both powerful nations of the Middle-Ages. \n\nLéon Degrelle then went on in describing his plans to participate in the coming elections with his new party, the Parti Bourguignon. His programme consists of what best can be described as Valkism. He declares his strong aversion towards the monarchy, as for centuries it was a tool used by foreign powers and the Catholic Church to surpress the Germanic and Romance people of Belgium. Degrelle further describes progressive policies he will strive to implement if his party gets elected into office.
+ bel.14.a: "Подобные идеи можно только поощрять." # Ideas like this can only be encouraged
+ bel.14.b: "Запретить дальнейшее распространение статьи" # Ban the article from being distributed further
+ bel.15.t: "Ультиматум Бельгии" # Ultimatum from Belgium
+ bel.15.d: "Бельгия направила нам ультиматум с требованием присоединения Люксембурга к Бельгии. Люксембург участвовал в Бельгийской революции 1830 года и был частью страны до заключения Лондонского договора 1839 года, когда он стал независимым Великим Герцогством. В последующие годы Бельгия считала Люксембург потерянной территорией. После Великой войны Бельгия попыталась пересмотреть статус Договора 1839 года, включая статус Люксембурга. Однако из-за того, что Бельгия получила территорию Голландии, Люксембург остался в покое. После того, как в Бельгии к власти пришли валкисты, раздались новые голоса, говорящие об аннексии Люксембурга." # Belgium has sent us an ultimatum demanding the annexation of Luxembourg into Belgium. Luxembourg participated in the Belgian Revolution of 1830 and was part of the country until the Treaty of London in 1839, when it became an independent Grand Duchy. In the following years, Belgium considered Luxembourg as a lost territory. After the Great War, Belgium has tried to renegotiate the status of the 1839 Treaty, including the status of Luxembourg. However, due to Belgium receiving Dutch territory, Luxembourg was left alone. After the valkist took over in Belgium, new voices which speak of annexation of Luxembourg have risen.
+ bel.15.a: "Присоединяйтесь к нашим бельгийским братьям" # Join our Belgian brethren
+ bel.15.b: "Откажитесь присоединиться к ним" # Refuse to join them
+ bel.16.t: "«Черная среда» в Бельгии" # Black Wednesday hits Belgium
+ bel.16.d: "После краха фондового рынка, который обрушился на Лондон всего несколько дней назад, наша экономика также ощущает на себе последствия «черной среды». Наша экономика сильно зависит от торговли в Северном море и инвестиций как из Великобритании, так и из Франции. Это еще один пример того, как крупные державы втягивают малые страны в свои беспорядки." # Following the stock market crash that hit London just a few days ago, our economy is also feeling the effects of Black Wednesday. Our economy is heavily dependant on trade in the North Sea and investments from both the UK and France. This is yet another example of big powers dragging small countries into their mess.
+ bel.16.a: "О Боже мой!" # Oh good Lord!
+ bel.17.t: "Люксембург принимает наши требования" # Luxembourg accepts our demands
+ bel.17.d: "Люксембург согласился на присоединение к Бельгии. Правительство маленькой страны, приняв во внимание тесные связи, которые оно имеет с Бельгией, а также политическую ситуацию в Европе, осознало, что безопасность ее народа может быть гарантирована только более крупной и сильной страной, такой как Бельгия. Еще с 1839 года бельгийские политики мечтали о возвращении Люксембурга в состав Бельгии, и теперь эта мечта сбылась." # Luxembourg has agreed to the annexation into Belgium. The government of the small country has looked upon the close ties it has with Belgium and the political situation in Europe and has realised that the safety of its people can only be guaranteed by a bigger and stronger country such as Belgium. Ever since 1839 Belgian politicians have dreamed about the return of Luxembourg into Belgium and now that dream has come true.
+ bel.17.a: "Единство делает силу - L'unité fait la Force - Единство делает силу" # Eendracht maakt macht - L'unité fait la force - Unity makes strength
+ bel.18.t: "Люксембург отказывается от наших требований" # Luxembourg refuses our demands
+ bel.18.d: "Люксембург отказался присоединиться к нашей стране. Леон Дегрель уже подготовил нашу страну к войне со своим маленьким соседом. Что бы люксембуржцы ни думали об ультиматуме, они присоединятся к нам либо мирным путем, либо силой. Они были достаточно глупы, чтобы думать, что могут отказать нам в наших законных правах." # Luxembourg has refused to join our country. Léon Degrelle has already prepared our country for war with its small neighbour. Whatever the Luxembourgians may think of the ultimatum, they will join us, either peacefully or by force. They were stupid enough to think that they can deny us our rightful claims.
+ bel.18.a: "Тогда это война" # Then war it is
+ bel.19.t: "Марш на Брюссель" # March on Brussels
+ bel.19.d: "Сегодня большое количество людей собралось в Брюсселе в знак протеста против недавнего принятия Крийгсвета. Большинство из них идентифицируют себя с новым валкистским движением Леона Дегреля и называют себя бургиньонами. Однако некоторые фламандские националистические движения также присутствуют. Вопрос в том, каковы их мотивы и как должны реагировать городские власти." # Today a large number of people have gathered in Brussels to protest against the recent enactment of the Krijgswet. Most of them identify themselves with the new Valkist movement of Léon Degrelle and call themselves the Bourguignons. However, some Flemish nationalist movements are also present. The question is what their motive is and how the city officials should react.
+ bel.19.a: "Разогнать толпу силой!" # Disperse the crowd with force!
+ bel.19.b: "Пусть протестуют мирно" # Let them protest peacefully
+ bel.20.t: "Расследование в отношении премьер-министра" # Investigation into the PM
+ bel.20.d: "Король публично потребовал провести расследование финансов премьер-министра Пола ван Зеландии. Король стал с подозрением относиться к ван Зеланду после его недавнего поведения на голосовании в Крийгсвете. Парламент согласился начать расследование, но остается вопрос, кто возглавит комиссию." # The King has asked publicly for an investigation into the finances of Prime Minister Paul van Zeeland. The King has become suspicious of van Zeeland after his recent behavior in the Krijgswet vote. Parliament has agreed to start an investigation, but the question remains who will lead the commission.
+ bel.20.a: "Хендрик де Ман возглавит расследование" # Hendrik de Man will lead the investigation
+ bel.20.b: "Пол Хайманс возглавит расследование" # Paul Hymans will lead the investigation
+ bel.21.t: "Каков наш следующий шаг?" # What's our next step?
+ bel.21.d: "Каким должен быть наш следующий шаг в расследовании дела Пола ван Зеланда? Правительство хочет, чтобы дело было решено как можно быстрее, и оказывает большое давление на судей, участвующих в этом деле. Высока вероятность того, что Комиссия удовлетворит только один судебный запрос. Теперь вопрос в том, следует ли проводить обыск в доме премьер-министра или же проверка его финансовых отчетов даст больше результатов." # What should be our next step in the investigation into Paul van Zeeland? The government wants this handled quickly and put a lot of pressure on the judges involved in this case. It is highly probable that the Commission will get only one judicial request granted. Now the question is whether a house-search should be conducted in the home of the Prime Minister, or if a look into his financial records will give more results.
+ bel.21.a: "Запросите ордер на обыск дома" # Request a warrant for a house-search
+ bel.21.b: "Взгляните на его финансовые отчеты." # Take a look at his financial records
+ bel.22.t: "Расследование зашло в тупик" # Investigation hits a dead end
+ bel.22.d: "Расследование зашло в тупик, и правительственные чиновники, а также члены парламента хотят, чтобы расследование закончилось как можно скорее. В результате Комиссия была распущена, а Пол ван Зеланд остался нетронутым." # The investigation has hit a dead end and gorvernment officials as well as members of parliament want the inquiry to end sooner than later. As a result, the Commission has been disbanded and Paul van Zeeland remains untouched.
+ bel.22.a: "Он счастливчик!" # He's a lucky man!
+ bel.23.t: "Премьер-министр замешан в скандале!" # PM involved in scandal!
+ bel.23.d: "Недавнее расследование финансовых дел премьер-министра Пола ван Зеланда показало, что ван Зеланд регулярно получал деньги от Национального банка. Дальнейшее расследование показало, что деньги были использованы незаконно в предвыборной кампании ван Зеланда на следующих выборах. Хотя никаких официальных действий предпринято не было, это сильно повлияет на политическую карьеру ван Зеланда." # A recent inquiry into the financial affaires of Prime Minister Paul van Zeeland has revealed that van Zeeland has been receiving money from the National Bank on a regular basis. Further investigation pointed out that the money was used illegaly in van Zeeland's campaign for the next elections. Although no official action has been taken, this will greatly affect van Zeeland's political career.
+ bel.23.a: "Бедный Пол, он этого ожидал." # Poor Paul, he had it coming
+ bel.24.t: "Дегрелль звонит из Зеландии" # Degrelle calls out van Zeeland
+ bel.24.d: "После недавнего скандала с участием премьер-министра Пола ван Зеланда Леон Дегрелль раскритиковал действия премьер-министра в публичном выступлении. Газеты также внесли свой вклад в это дело и на следующий день опубликовали речь Дегреля. В результате рейтинги его партии растут, а популярность ван Зеланда падает." # After the recent scandal involving Prime Minister Paul van Zeeland, Léon Degrelle has called out the PM's actions in a public speech. The newspapers further contributed to the affaire and published Degrelle's speech the next day. As a result, the poll numbers of his party are on the rise, while van Zeeland's popularity is dwindling.
+ bel.24.a: "У Дегрелля определенно есть особый способ добиться того, чтобы его услышали." # Degrelle certainly has a special way of making sure he's heard
+ bel.25.t: "Приглашение в Гент" # Invitation to Ghent
+ bel.25.d: "Бельгийское правительство направило нам приглашение в Гент для обсуждения объединения наших двух стран в одно более крупное государство под названием Дитсланд. Конечно, их идеи безумны и принесут с собой много проблем. Хотя некоторые люди в нашей стране хотели бы видеть объединение, мы, как правительство, не можем поддаваться этим абсурдным идеям и требованиям." # The Belgian government have sent us an invitation to Ghent to discuss the unification of our two nations into one bigger state called Dietsland. Of course their ideas are insane and would bring a lot of problems with them. Although some people in our nation would like to see a unification, we as a government can not give in to these absurd ideas and demands.
+ bel.25.a: "Пожалуйста, отклоните приглашение" # Kindly reject the invitation
+ bel.26.t: "Голландцы отказались!" # The Dutch refused!
+ bel.26.d: "Голландцы отказались от нашего предложения подписать «Умиротворение Гента» и объединить Дитсланд в одну нацию. Это возмутительно, но мы были готовы к такому зрелищу. По всей территории Нидерландов верные сторонники дела Вердинасо готовятся свергнуть правительство принца Бернхарда. Эти секретные агенты попытаются убить Бернхарда и создать новое правительство, которое будет стремиться к объединению с нами в более великую нацию." # The Dutch refused our offer to sign the Pacification of Ghent and unite Dietsland into one nation. This is outrageous, but we were prepared for this display. All over the Netherlands, loyal supporters of the Verdinaso cause are preparing to overthrow the government of Prince Bernhard. These secret agents will attempt to kill Bernhard and establish a new government which will seek unification with us into a greater nation.
+ bel.26.a: "Если Бернхард нас не поддержит, нам придется от него избавиться." # If Bernhard doesn't support us, we have to get rid of him
+ bel.27.t: "Бельгийский заговор раскрыт!" # Belgian Plot Discovered!
+ bel.27.d: "Наша секретная служба раскрыла бельгийский заговор с целью свергнуть наше правительство и убить принца Бернхарда в попытке поставить Вердинасо во главе нашей нации. Этот бельгийский заговор является еще одним примером растущей опасности, которую наши южные соседи представляют для голландского государства и принца Бернхарда. К счастью для нас, мы выявили большинство заговорщиков, и наши полицейские силы уже на пути к устранению угрозы." # Our secret service has discovered a Belgian plot to overthrow our government and kill Prince Bernhard in an attempt to put Verdinaso at the head of our nation. This Belgian plot is just another example of the growing danger our southern neighbors pose to the Dutch State and Prince Bernhard. Luckily for us, we have identified the majority of the conspirators and our police forces are already on their way to eliminate the threat.
+ bel.27.a: "Эти проклятые вафельщики, давайте преподам им урок!" # Those damn waffle eaters, let's teach them a lesson!
+ bel.28.t: "Наша попытка государственного переворота провалилась!" # Our coup attempt failed!
+ bel.28.d: "Наша попытка создать лояльное правительство в Нидерландах провалилась. Голландцы готовятся к войне, и нам следует тоже. Нам нужно нанести удар по ним прежде, чем они ударят по нам. Если они не хотят объединить Дитсландию мирным путем, то нам придется сделать это посредством войны!" # Our attempt to establish a loyal government in the Netherlands has failed. The Dutch are preparing for war and so should we. We need to strike them before they strike us. If they don't want to unite Dietsland peacefully, then we have to do it by means of war!
+ bel.28.a: "Давайте преподам этим сабо урок!" # Let's teach those clogs a lesson!
+ bel.29.t: "Конец Бельгии!" # The end of Belgium!
+ bel.29.d: "ВНВ успешно покончил с Бельгией! Придавая Бельгии все больше и больше федеральных характеристик, страна практически прекратила свое существование." # VNV has successfully made an end to Belgium! By giving more and more federal characteristics to Belgium, the country has practicly ceased to exist.
+ bel.29.a: "Играйте за Фландерса" # Play as Flanders
+ bel.29.b: "Играйте за Валлонию" # Play as Wallonia
+ bel.30.t: "Конголезская автономия" # Congolese Autonomy
+ bel.30.d: "Бельгийское правительство приняло решение предоставить Бельгийскому Конго большую автономию. Благодаря региональной независимости наша колония может внести больший вклад в благосостояние и научные знания Бельгии." # The Belgian government has decided to grant Belgian Congo more autonomy. Through regional independence, our colony can contribute more to the welfare and scientific knowledge of Belgium.
+ bel.30.a: "Продолжайте играть за Бельгию" # Continue playing as Belgium
+ bel.30.b: "Играйте за Конго" # Play as Congo
+ bel.31.t: "Хендрик Де Ман берет на себя управление" # Hendrik De Man assumes control
+ bel.31.d: "Хендрик Де Ман взял на себя управление Бельгией. Ранее он был членом бельгийских социал-демократов, но действия короля привели его к авангардизму. Де Ман теперь будет продвигать свою авангардную программу в надежде на стабилизацию ситуации в Бельгии." # Hendrik De Man has assumed control over Belgium. Previously a member of the Belgian social democrats, the actions of the King have lead him to embrace vanguardism. De Man will now push forward his vanguard agenda in hopes of stabilising Belgium.
+ bel.31.a: "У Де Мана есть план!" # De Man has a plan!
+ bel.32.t: "Национал-коммунисты остаются у власти" # National Communists remain in control
+ bel.32.d: "Национал-коммунисты КПБ/ПКБ продолжают стабильно контролировать новое бельгийское государство. Несмотря на свою победу в Революции, они принесут мир и процветание народам Фландрии и Валлонии." # The National Communists of the KPB/PCB remain steadily in control of the new Belgian state. Though their victory in the Revolution, they will bring peace and prosperity to the peoples of Flanders and Wallonia.
+ bel.32.a: "Да здравствует Революция!" # Long live the Revolution!
+
+##### Belgisch Centraal-Afrika
+ bca.1.t: "Бельгийская Центральная Африка" # Belgisch Centraal-Afrika
+ bca.1.d: "18 октября 1908 года парламент Бельгии проголосовал за аннексию Конго как бельгийской колонии. После нашей победы в Великой войне Руанда-Урунди также попала в наши руки. Де-юре это был мандат Лиги Наций, но де-факто Бельгия имела здесь полную свободу действий. В 1933 году Конго и Руанда-Урунди объединились и образовали Бельгийскую Центральную Африку. Новому африканскому правительству была предоставлена ​​большая автономия в обмен на одно требование: BCA должна до 1939 года подготовиться к аннексии Бельгией. План состоит в том, чтобы «цивилизовать» и развивать страну, одновременно делая ее зависимой от Европы, пока она не будет готова к интеграции в качестве федерального региона. Удовлетворит ли стратегия Пьера Рикмана бельгийское правительство?" # On 18 October 1908, the Belgian Parliament voted in favour of annexing the Congo as a Belgian colony. After our victory in the Great War the Ruanda-Urundi also fell into our hands. De jure it was a League of Nations mandate, but de facto Belgium had a free hand there. In 1933, Congo and Ruanda-Urundi merged to form Belgian Central Africa. The new African government was given greater autonomy in exchange for one demand: the BCA has until 1939 to prepare for annexation by Belgium. The plan is to 'civilise' and develop the country while making it dependent on Europe until it is ready for integration as a federal region. Will Pierre Ryckman's strategy satisfy the Belgian government?
+ bca.1.a: "Время покажет" # Time Will Tell
+ bcaintro_tt: "§RСрок — январь 1939 г.§!" # §RThe Deadline is January 1939§!
+
+
+
+#####Decisions#####
+ BEL_economy: "Бельгийская экономика" # The Belgian Economy
+ BEL_economy_desc: "Наша национальная промышленность важна для богатства и силы нашей нации. Наше правительство должно сделать все возможное, чтобы улучшить и развить существующую инфраструктуру." # Our national industry is important for the wealth and strength of our nation. Our government needs to do everything in its power to improve and build upon the current infrastructure.
+ BEL_end_economic_crisis: "Покончить с экономическим кризисом" # End the Economic Crisis
+ BEL_end_economic_crisis_desc: "Начиная с Черной среды, наша экономика находится в состоянии хаоса. Но благодаря усилиям правительства конец уже виден. Теперь нам нужно послать людям сильный сигнал и дать им понять, что будущее Бельгии выглядит светлым." # Ever since Black Wednesday, our economy has been in a state of disarray. But with the effort of the government, the end is now in sight. Now we need to send a strong signal to the people and let them know that the future looks bright for Belgium.
+
+ BEL_belgian_congolese_research_name: "Обмен технологиями между Бельгией и Конго" # Belgian-Congo Technology Sharing
+ BEL_belgian_congolese_research_desc: ""
+
+ BEL_congo_timer: "Проблема Конго" # The Congo Issue
+
+ BEL_join_entente: "Присоединяйтесь к Антанте" # Join the Entente
+
+### Companies
+ cockerill: "Кокерилл" # Cockerill
+ societe_belge_radio: "Бельгийская радиоэлектрическая компания" # Société Belge Radio-électrique
+ solvay: "Сольвей" # Solvay
+ fabrique_nationale: "Национальная фабрика" # Fabrique Nationale
+ fonderie_royale_canons: "Королевский пушечный завод" # Fonderie Royale de Canons
+ imperia: "Империя Автомобили" # Imperia Automobiles
+ minerva: "Минерва" # Minerva
+ familleureux: "Для семейного отдыха" # Familleureux
+ la_brugeoise: "Брюггезуаз" # La Brugeoise
+ renard: "Ренар" # Renard
+ avions_fairey: "Самолеты Фейри" # Avions Fairey
+ sabca: "САББА" # SABCA
+ stampe_vertongen: "Стампе и Вертонген" # Stampe et Vertongen
+ boel_zonen: "Дж. Боэл и сыновья" # J. Boel & Zonen
+ mecar: "Мекар" # Mecar
+ forges_de_zeebruges: "Создает морские мосты" # Forges de Zeebruges
+ brossel: "Броссель" # Brossel
+ miesse: "Скучать" # Miesse
+ cockerill_scheepwerfen: "Метание овец кокерилл" # Cockerill Scheepwerfen
+
+
+### Cosmetic Tags
+ BEL_REP_market_liberal: "Бельгийская Республика" # Belgian Republic
+ BEL_REP_market_liberal_ADJ: "бельгийский" # Belgian
+ BEL_REP_market_liberal_DEF: "Республика Бельгия" # the Republic of Belgium
+ BEL_REP_social_liberal: "Бельгийская Республика" # Belgian Republic
+ BEL_REP_social_liberal_ADJ: "бельгийский" # Belgian
+ BEL_REP_social_liberal_DEF: "Республика Бельгия" # the Republic of Belgium
+ BEL_REP_social_conservative: "Бельгийская Республика" # Belgian Republic
+ BEL_REP_social_conservative_ADJ: "бельгийский" # Belgian
+ BEL_REP_social_conservative_DEF: "Республика Бельгия" # the Republic of Belgium
+ BEL_REP_social_democrat: "Бельгийская Республика" # Belgian Republic
+ BEL_REP_social_democrat_ADJ: "бельгийский" # Belgian
+ BEL_REP_social_democrat_DEF: "Республика Бельгия" # the Republic of Belgium
+ BEL_REP_vanguardist: "Союз Фландрии-Валлонии" # Union of Flanders-Wallonia
+ BEL_REP_vanguardist_ADJ: "Фемиш-валлонский" # Femish-Wallonian
+ BEL_REP_vanguardist_DEF: "Светлый союз Фландрии и Валлонии" # the Serene Union of Flanders-Wallonia
+ BEL_REP_collectivist: "Государство трудящихся Бельгии" # Workers State of Belgium
+ BEL_REP_collectivist_ADJ: "бельгийский" # Belgian
+ BEL_REP_collectivist_DEF: "Рабочее государство Бельгии" # the Workers State of Belgium
+ BEL_REP_libertarian_socialist: "Бельгийская социалистическая республика" # Belgian Socailist Republic
+ BEL_REP_libertarian_socialist_ADJ: "бельгийский" # Belgian
+ BEL_REP_libertarian_socialist_DEF: "Социалистическая Республика Бельгия" # the Socialist Republic of Belgium
+ BEL_REP_authoritarian_democrat: "Роялистская Бельгия" # Royalist Belgium
+ BEL_REP_authoritarian_democrat_ADJ: "бельгийский" # Belgian
+ BEL_REP_authoritarian_democrat_DEF: "Роялистская Бельгия" # Royalist Belgium
+ BEL_REP_paternal_autocrat: "Великая Бельгия" # Greater Belgium
+ BEL_REP_paternal_autocrat_ADJ: "бельгийский" # Belgian
+ BEL_REP_paternal_autocrat_DEF: "Великое бельгийское государство" # the Greater Belgian State
+ BEL_REP_national_populist: "Фландрия-Валлония" # Flanders-Wallonia
+ BEL_REP_national_populist_ADJ: "Фламандско-валлонский" # Flemish-Walloon
+ BEL_REP_national_populist_DEF: "Фламандско-Валлонская федерация" # Flemish-Walloon Federation
+ BEL_REP_valkist: "Бельгика" # Belgica
+ BEL_REP_valkist_ADJ: "бельгийский" # Belgian
+ BEL_REP_valkist_DEF: "Бельгика" # Belgica
+
+ BEL_SDI_paternal_autocrat: "Южный Дитсланд" # South Dietsland
+ BEL_SDI_paternal_autocrat_ADJ: "Южные диеты" # South Diets
+ BEL_SDI_paternal_autocrat_DEF: "Южный Дитсланд" # South Dietsland
+
+ BEL_DIE_paternal_autocrat: "Дитсланд" # Dietsland
+ BEL_DIE_paternal_autocrat_ADJ: "Диеты" # Diets
+ BEL_DIE_paternal_autocrat_DEF: "Дитсланд" # Dietsland
+ BEL_DIE_national_populist: "Дитсланд" # Dietsland
+ BEL_DIE_national_populist_ADJ: "Диеты" # Diets
+ BEL_DIE_national_populist_DEF: "Дитсланд" # Dietsland
+ BEL_DIE_valkist: "Дитсланд" # Dietsland
+ BEL_DIE_valkist_ADJ: "Диеты" # Diets
+ BEL_DIE_valkist_DEF: "Дитсланд" # Dietsland
+
+ BEL_Albert_van_Belgie: "Альберт I" # Albert I
+ BEL_Paul_Emile_Janson: "Поль-Эмиль Янсон" # Paul-Emile Janson
+ BEL_Paul_Henri_Spaak: "Поль-Анри Спаак" # Paul-Henri Spaak
+ BEL_Leonie_La_Fontaine: "Леони Лафонтен" # Léonie La Fontaine
+ BEL_Leon_Degrelle: "Леон Дегрелль" # Léon Degrelle
+ BEL_Joseph_Jacquemotte: "Жозеф Жакмотт" # Joseph Jacquemotte
+ BEL_Julien_Lahaut: "Жюльен Лао" # Julien Lahaut
+ BEL_Hendrik_de_Man: "Хендрик де Ман" # Hendrik de Man
+ BEL_Staf_de_Clercq: "Стафф де Клерк" # Staf de Clercq
+ BEL_MCL_Keyaerts: "М.КЛ.Л. Кейартс" # M.C.L. Keyaerts
+ BEL_Victor_Van_Strydonck_de_Burkel: "Виктор Ван Стридонк де Буркель" # Victor Van Strydonck de Burkel
+ BEL_Jean_Baptiste_Piron: "Жан-Батист Пирон" # Jean-Baptiste Piron
+ BEL_Georges_Timmermans: "Жорж Тиммерманс" # Georges Timmermans
+ BEL_Prince_Karel: "Принц Чарльз" # Prince Karel
+ BEL_Leopold_van_Belgie: "Леопольд III" # Leopold III
+ BEL_War_van_Overstraeten: "Война ван Оверстратена" # War van Overstraeten
+ BEL_Lucie_Dejardin: "Люси Дежарден" # Lucie Dejardin
+ BEL_Achille_Van_Acker: "Ахилл ВанАкер" # Achille Van Acker
+ BEL_Victor_de_Laveleye: "Виктор де Лавеле" # Victor de Laveleye
+ BEL_Frans_Van_Cauwelaert: "Франс Ван Каувелерт" # Frans Van Cauwelaert
+ BEL_Hubert_Pierlot: "Юбер Пьерло" # Hubert Pierlot
+ BEL_Paul_Van_Zeeland: "Пол Ван Зеланд" # Paul Van Zeeland
+ BEL_Dr_August_Borms: "Доктор Август Бормс" # Dr. August Borms
+ BEL_Joris_Van_Severen: "Йорис Ван Северен" # Joris Van Severen
+ BEL_Edgar_Lalmand: "Эдгар Лалманд" # Edgar Lalmand
+ BEL_Louis_Paul_Boon: "Луи Пол Бун" # Louis Paul Boon
+ BEL_Camille_Huysmans: "Камилла Юисманс" # Camille Huysmans
+ BEL_Jules_Pire: "Жюль Пир" # Jules Pire
+ BEL_Eugene_Soudan: "Юджин Судан" # Eugene Soudan
+ BEL_Roger_Motz: "Роджер Шорт" # Roger Motz
+ BEL_Gaston_Eyskens: "Гастон Эйскенс" # Gaston Eyskens
+ BEL_Charles_d_Aspremont_Lynden: "Шарль д'Аспремон Линден" # Charles d'Aspremont Lynden
+ BEL_Ward_Hermans: "Уорд Херманс" # Ward Hermans
+ BEL_Jef_Francois: "Джеф Франсуа" # Jef Francois
+ BEL_Albert_Marteaux: "Альбер Марто" # Albert Marteaux
+ BEL_Abraham_Leon: "Авраам Леон" # Abraham Leon
+ BEL_Adhemar_Henneaut: "Адемар Энно" # Adhemar Henneaut
+ BEL_Albert_Wauters: "Альберт Ваутерс" # Albert Wauters
+ BEL_Charles_Pomaret: "Шарль Помаре" # Charles Pomaret
+ BEL_Jules_Merlot: "Жюль Мерло" # Jules Merlot
+ BEL_Alexandre_Galopin: "Александр Галопин" # Alexandre Galopin
+ BEL_Franz_de_Voghel: "Франц де Фогель" # Franz de Voghel
+ BEL_Maurice_Lippens: "Морис Липпенс" # Maurice Lippens
+ BEL_Georges_Theunis: "Джордж Теунис" # Georges Theunis
+ BEL_Gustaaf_Sap: "Густав Сап" # Gustaaf Sap
+ BEL_Hendrik_Heyman: "Хендрик Хейман" # Hendrik Heyman
+ BEL_Jean_Duvieusart: "Жан Дювьесар" # Jean Duvieusart
+ BEL_Rene_Lambrichts: "Рене Ламбрихтс" # Rene Lambrichts
+ BEL_Jean_Terfve: "Жан Терфве" # Jean Terfve
+ BEL_Willem_Eekelers: "Виллем Икелерс" # Willem Eekelers
+ BEL_Felix_Van_den_Bergh: "Феликс Ван ден Берг" # Felix Van den Bergh
+ BEL_Adolphe_Van_Glabbeke: "Адольф Ван Глаббеке" # Adolphe Van Glabbeke
+ BEL_Albert_Deveze: "Альберт Девез" # Albert Deveze
+ BEL_Victor_Maistriau: "Виктор Майстрио" # Victor Maistriau
+ BEL_Albert_Janssen: "Альберт Янссен" # Albert Janssen
+ BEL_August_De_Schryver: "Август Де Шрайвер" # August De Schryver
+ BEL_Francois_Bovesse: "Франсуа Бовесс" # Francois Bovesse
+ BEL_Jean_Rey: "Джин Кинг" # Jean Rey
+ BEL_Georges_Thone: "Жорж Тон" # Georges Thone
+ BEL_Emiel_Thiers: "Эмиэль Тьерс" # Emiel Thiers
+ BEL_Paul_Ouwerx: "Пол Оуверкс" # Paul Ouwerx
+ BEL_Adolphe_Cumont: "Адольф Кюмон" # Adolphe Cumont
+ BEL_Auguste_Baesens: "Огюст Бэзенс" # Auguste Baesens
+ BEL_Georges_Deffontaine: "Джордж Дефонтейн" # Georges Deffontaine
+ BEL_Georges_Vereecken: "Жорж Верекен" # Georges Vereeken
+ BEL_Gustave_Fromont: "Гюстав Фромон" # Gustave Fromont
+ BEL_Olivier_Derousseaux: "Оливье Деруссо" # Olivier Derousseaux
+ BEL_Oscar_Michiels: "Оскар Михилс" # Oscar Michiels
+ BEL_Jules_Bastin: "Жюль Бастен" # Jules Bastin
+ BEL_Edouard_Van_Den_Bergen: "Эдвард Ван Ден Берген" # Edouard Van Den Bergen
+ BEL_Lambert_Chardome: "Ламбер Шардом" # Lambert Chardome
+ BEL_Raoul_van_Overstraeten: "Рауль ван Оверстратен" # Raoul van Overstraeten
+ BEL_Rene_Lagrou: "Рене Лагру" # Rene Lagrou
+ BEL_Yvan_Gerard: "Иван Жерар" # Yvan Gerard
+ BEL_Etienne_Glorie: "Этьен Глори" # Etienne Glorie
+ BEL_Henri_Decarpentrie: "Анри Декарпантри" # Henri Decarpentrie
+ BEL_Edouard_Blondeel: "Эдуард Блондель" # Edouard Blondeel
+ BEL_Felix_Iserentant: "Феликс Изерентант" # Felix Iserentant
+ BEL_LFE_Wouters: "Л.Ф.Е. Воутерс" # L.F.E. Wouters
+ BEL_Paul_Nothomb: "Пол Нотомб" # Paul Nothomb
+ BEL_Rene_Legros: "Рене Легро" # Rene Legros
+
+
+
+ BEL_Alfred_Renard: "Альфред Ренар" # Alfred Renard
+ BEL_Auguste_Piccard: "Огюст Пиккар" # Auguste Piccard
+ BEL_Georges_Lemaitre: "Жорж Леметр" # Georges Lemaître
+ BEL_Karel_Jan_Bossart: "Карел Ян Боссарт" # Karel Jan Bossart

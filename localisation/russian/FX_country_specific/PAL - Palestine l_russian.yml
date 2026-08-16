@@ -1,64 +1,64 @@
 ﻿l_russian:
-  
- ### Country Names 
- PAL_vanguardist: "State of Palestine" #NT!
- PAL_vanguardist_ADJ: "Palestinian" #NT!
- PAL_vanguardist_DEF: "the State of Palestine" #NT!
- PAL_collectivist: "State of Palestine" #NT!
- PAL_collectivist_ADJ: "Palestinian" #NT!
- PAL_collectivist_DEF: "the State of Palestine" #NT!
- PAL_libertarian_socialist: "State of Palestine" #NT!
- PAL_libertarian_socialist_ADJ: "Palestinian" #NT!
- PAL_libertarian_socialist_DEF: "the State of Palestine" #NT!
- PAL_social_democrat: "State of Palestine" #NT!
- PAL_social_democrat_ADJ: "Palestinian" #NT!
- PAL_social_democrat_DEF: "the State of Palestine" #NT!
- PAL_social_liberal: "State of Palestine" #NT!
- PAL_social_liberal_ADJ: "Palestinian" #NT!
- PAL_social_liberal_DEF: "the State of Palestine" #NT!
- PAL_market_liberal: "State of Palestine" #NT!
- PAL_market_liberal_ADJ: "Palestinian" #NT!
- PAL_market_liberal_DEF: "the State of Palestine" #NT!
- PAL_social_conservative: "State of Palestine" #NT!
- PAL_social_conservative_ADJ: "Palestinian" #NT!
- PAL_social_conservative_DEF: "the State of Palestine" #NT!
- PAL_authoritarian_democrat: "State of Palestine" #NT!
- PAL_authoritarian_democrat_ADJ: "Palestinian" #NT!
- PAL_authoritarian_democrat_DEF: "the State of Palestine" #NT!
- PAL_paternal_autocrat: "State of Palestine" #NT!
- PAL_paternal_autocrat_ADJ: "Palestinian" #NT!
- PAL_paternal_autocrat_DEF: "the State of Palestine" #NT!
- PAL_national_populist: "State of Palestine" #NT!
- PAL_national_populist_ADJ: "Palestinian" #NT!
- PAL_national_populist_DEF: "the State of Palestine" #NT!
- PAL_valkist: "State of Palestine" #NT!
- PAL_valkist_ADJ: "Palestinian" #NT!
- PAL_valkist_DEF: "the State of Palestine" #NT!
-  
- #### Parties 
- PAL_vanguardist_party: "All Palestine Government" #NT!
- PAL_vanguardist_party_long: "Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!" #NT!
- PAL_collectivist_party: "All Palestine Government" #NT!
- PAL_collectivist_party_long: "Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!" #NT!
- PAL_libertarian_socialist_party: "All Palestine Government" #NT!
- PAL_libertarian_socialist_party_long: "Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!" #NT!
- PAL_social_democrat_party: "All Palestine Government" #NT!
- PAL_social_democrat_party_long: "Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!" #NT!
- PAL_social_liberal_party: "All Palestine Government" #NT!
- PAL_social_liberal_party_long: "Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!" #NT!
- PAL_market_liberal_party: "All Palestine Government" #NT!
- PAL_market_liberal_party_long: "Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!" #NT!
- PAL_social_conservative_party: "All Palestine Government" #NT!
- PAL_social_conservative_party_long: "Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!" #NT!
- PAL_authoritarian_democrat_party: "All Palestine Government" #NT!
- PAL_authoritarian_democrat_party_long: "Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!" #NT!
- PAL_paternal_autocrat_party: "All Palestine Government" #NT!
- PAL_paternal_autocrat_party_long: "Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!" #NT!
- PAL_national_populist_party: "All Palestine Government" #NT!
- PAL_national_populist_party_long: "Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!" #NT!
- PAL_valkist_party: "All Palestine Government" #NT!
- PAL_valkist_party_long: "Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!" #NT!
-  
-  
-  
- PAL_Amin_al_Hussieni: "Amin al-Hussieni" #NT!
+
+### Country Names
+ PAL_vanguardist: "Государство Палестина" # State of Palestine
+ PAL_vanguardist_ADJ: "палестинский" # Palestinian
+ PAL_vanguardist_DEF: "Государство Палестина" # the State of Palestine
+ PAL_collectivist: "Государство Палестина" # State of Palestine
+ PAL_collectivist_ADJ: "палестинский" # Palestinian
+ PAL_collectivist_DEF: "Государство Палестина" # the State of Palestine
+ PAL_libertarian_socialist: "Государство Палестина" # State of Palestine
+ PAL_libertarian_socialist_ADJ: "палестинский" # Palestinian
+ PAL_libertarian_socialist_DEF: "Государство Палестина" # the State of Palestine
+ PAL_social_democrat: "Государство Палестина" # State of Palestine
+ PAL_social_democrat_ADJ: "палестинский" # Palestinian
+ PAL_social_democrat_DEF: "Государство Палестина" # the State of Palestine
+ PAL_social_liberal: "Государство Палестина" # State of Palestine
+ PAL_social_liberal_ADJ: "палестинский" # Palestinian
+ PAL_social_liberal_DEF: "Государство Палестина" # the State of Palestine
+ PAL_market_liberal: "Государство Палестина" # State of Palestine
+ PAL_market_liberal_ADJ: "палестинский" # Palestinian
+ PAL_market_liberal_DEF: "Государство Палестина" # the State of Palestine
+ PAL_social_conservative: "Государство Палестина" # State of Palestine
+ PAL_social_conservative_ADJ: "палестинский" # Palestinian
+ PAL_social_conservative_DEF: "Государство Палестина" # the State of Palestine
+ PAL_authoritarian_democrat: "Государство Палестина" # State of Palestine
+ PAL_authoritarian_democrat_ADJ: "палестинский" # Palestinian
+ PAL_authoritarian_democrat_DEF: "Государство Палестина" # the State of Palestine
+ PAL_paternal_autocrat: "Государство Палестина" # State of Palestine
+ PAL_paternal_autocrat_ADJ: "палестинский" # Palestinian
+ PAL_paternal_autocrat_DEF: "Государство Палестина" # the State of Palestine
+ PAL_national_populist: "Государство Палестина" # State of Palestine
+ PAL_national_populist_ADJ: "палестинский" # Palestinian
+ PAL_national_populist_DEF: "Государство Палестина" # the State of Palestine
+ PAL_valkist: "Государство Палестина" # State of Palestine
+ PAL_valkist_ADJ: "палестинский" # Palestinian
+ PAL_valkist_DEF: "Государство Палестина" # the State of Palestine
+
+#### Parties
+ PAL_vanguardist_party: "Правительство всей Палестины" # All Palestine Government
+ PAL_vanguardist_party_long: "Хукумат Умум Филастин\n§gПравительство всей Палестины§!" # Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!
+ PAL_collectivist_party: "Правительство всей Палестины" # All Palestine Government
+ PAL_collectivist_party_long: "Хукумат Умум Филастин\n§gПравительство всей Палестины§!" # Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!
+ PAL_libertarian_socialist_party: "Правительство всей Палестины" # All Palestine Government
+ PAL_libertarian_socialist_party_long: "Хукумат Умум Филастин\n§gПравительство всей Палестины§!" # Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!
+ PAL_social_democrat_party: "Правительство всей Палестины" # All Palestine Government
+ PAL_social_democrat_party_long: "Хукумат Умум Филастин\n§gПравительство всей Палестины§!" # Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!
+ PAL_social_liberal_party: "Правительство всей Палестины" # All Palestine Government
+ PAL_social_liberal_party_long: "Хукумат Умум Филастин\n§gПравительство всей Палестины§!" # Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!
+ PAL_market_liberal_party: "Правительство всей Палестины" # All Palestine Government
+ PAL_market_liberal_party_long: "Хукумат Умум Филастин\n§gПравительство всей Палестины§!" # Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!
+ PAL_social_conservative_party: "Правительство всей Палестины" # All Palestine Government
+ PAL_social_conservative_party_long: "Хукумат Умум Филастин\n§gПравительство всей Палестины§!" # Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!
+ PAL_authoritarian_democrat_party: "Правительство всей Палестины" # All Palestine Government
+ PAL_authoritarian_democrat_party_long: "Хукумат Умум Филастин\n§gПравительство всей Палестины§!" # Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!
+ PAL_paternal_autocrat_party: "Правительство всей Палестины" # All Palestine Government
+ PAL_paternal_autocrat_party_long: "Хукумат Умум Филастин\n§gПравительство всей Палестины§!" # Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!
+ PAL_national_populist_party: "Правительство всей Палестины" # All Palestine Government
+ PAL_national_populist_party_long: "Хукумат Умум Филастин\n§gПравительство всей Палестины§!" # Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!
+ PAL_valkist_party: "Правительство всей Палестины" # All Palestine Government
+ PAL_valkist_party_long: "Хукумат Умум Филастин\n§gПравительство всей Палестины§!" # Ḥukūmat 'Umūm Filasṭīn\n§gAll Palestine Government§!
+
+
+
+ PAL_Amin_al_Hussieni: "Амин аль-Хусиени" # Amin al-Hussieni

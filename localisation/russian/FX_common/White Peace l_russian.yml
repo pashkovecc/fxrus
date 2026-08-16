@@ -1,13 +1,13 @@
 ﻿l_russian:
   
- white.1.t: "Citizens of The [Root.GetName] demand peace!" #NT!
- white.1.d: "The citizens of The [Root.GetName] march in the streets to protest our army's failure to defend our nation. They demand that [Root.GetLeader] pressure the ruling [Root.GetRulingParty] to seek peace and end the needless bloodshed before it engulfs our entire country." #NT!
- white.1.a: "The [Root.GetName] must negotiate a peace" #NT!
- white.1.b: "[Root.GetAdjective]s will fight to the bitter end" #NT!
- white.2.t: "The [From.GetName] sues for peace" #NT!
- white.2.d: "[Root.GetAdjective] forces have decisively defeated the [From.GetAdjective] army in several key battles and now we are in complete control of the disputed regions between our two countries. In the wake of these set backs the government in [From.Capital.GetName] have sued for peace making several concessions to appease us. The [From.GetName]'s offer is generous and we shouldn't risk spreading our army too thin in an attempt to gain more. [Root.GetAdjective]s have won quite enough for now." #NT!
- white.2.a: "We accept The [From.GetName]'s terms" #NT!
- white.2.b: "The [Root.GetName] will accept nothing less than unconditional surrender" #NT!
- white.3.t: "The [From.GetName] refuses peace" #NT!
- white.3.d: "Despite our generous offer the insatiable [From.GetAdjective]s refuse to make peace. This conflict has now spiraled into a total war for the very survival of The [Root.GetName] itself. We must sacrifice whatever it takes to save our nation and the [Root.GetAdjective] people from the barbaric [From.GetName]." #NT!
- white.3.a: "To Arms [Root.GetAdjective]s!" #NT!
+ white.1.t: "Граждане государства [Root.GetName] требуют мира!"
+ white.1.d: "Граждане государства [Root.GetName] выходят на улицы в знак протеста против неспособности нашей армии защитить родину. Они требуют, чтобы [Root.GetLeader] надавил на правящую партию ([Root.GetRulingParty]) с целью начать мирные переговоры и прекратить бессмысленное кровопролитие, пока оно не охватило всю нашу страну."
+ white.1.a: "Страна [Root.GetName] должна начать мирные переговоры"
+ white.1.b: "[Root.GetAdjective]ие будут сражаться до самого конца"
+ white.2.t: "[From.GetName] просит о мире"
+ white.2.d: "[Root.GetAdjective]ие войска нанесли решительное поражение [From.GetAdjective]ой армии в нескольких ключевых сражениях, и теперь мы полностью контролируем спорные регионы между нашими двумя странами. Вследствие этих неудач правительство в г. [From.Capital.GetName] запросило мир, пойдя на ряд уступок, чтобы умилостивить нас. [From.GetName] предлагает щедрые условия, и нам не стоит рисковать, слишком сильно распыляя наши войска в попытке получить большее. Они на данный момент выиграли уже достаточно."
+ white.2.a: "Мы принимаем условия, которые предлагает [From.GetName]"
+ white.2.b: "[Root.GetName] примет только безоговорочную капитуляцию"
+ white.3.t: "[From.GetName] отказывается от мира"
+ white.3.d: "Несмотря на наше щедрое предложение, ненасытные [From.GetAdjective]ие отказываются идти на мир. Этот конфликт перерос в тотальную войну за само выживание государства [Root.GetName]. Мы должны пойти на любые жертвы, чтобы спасти нашу нацию и [Root.GetAdjective]ий народ от варварского государства [From.GetName]."
+ white.3.a: "К оружию!"

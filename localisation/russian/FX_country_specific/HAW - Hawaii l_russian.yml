@@ -1,61 +1,61 @@
 ﻿l_russian:
-  
- HAW_vanguardist: "Hawaii" #NT!
- HAW_vanguardist_ADJ: "Hawaiian" #NT!
- HAW_vanguardist_DEF: "the Commune of Hawaii" #NT!
- HAW_collectivist: "Hawaii" #NT!
- HAW_collectivist_ADJ: "Hawaiian" #NT!
- HAW_collectivist_DEF: "the Commune of Hawaii" #NT!
- HAW_libertarian_socialist: "Hawaii" #NT!
- HAW_libertarian_socialist_ADJ: "Hawaiian" #NT!
- HAW_libertarian_socialist_DEF: "the Commune of Hawaii" #NT!
- HAW_social_democrat: "Hawaii" #NT!
- HAW_social_democrat_ADJ: "Hawaiian" #NT!
- HAW_social_democrat_DEF: "the Kingdom of Hawaii" #NT!
- HAW_social_liberal: "Hawaii" #NT!
- HAW_social_liberal_ADJ: "Hawaiian" #NT!
- HAW_social_liberal_DEF: "the Kingdom of Hawaii" #NT!
- HAW_market_liberal: "Hawaii" #NT!
- HAW_market_liberal_ADJ: "Hawaiian" #NT!
- HAW_market_liberal_DEF: "the Kingdom of Hawaii" #NT!
- HAW_social_conservative: "Hawaii" #NT!
- HAW_social_conservative_ADJ: "Hawaiian" #NT!
- HAW_social_conservative_DEF: "the Kingdom of Hawaii" #NT!
- HAW_authoritarian_democrat: "Hawaii" #NT!
- HAW_authoritarian_democrat_ADJ: "Hawaiian" #NT!
- HAW_authoritarian_democrat_DEF: "the Kingdom of Hawaii" #NT!
- HAW_paternal_autocrat: "Hawaii" #NT!
- HAW_paternal_autocrat_ADJ: "Hawaiian" #NT!
- HAW_paternal_autocrat_DEF: "the Kingdom of Hawaii" #NT!
- HAW_national_populist: "Hawaii" #NT!
- HAW_national_populist_ADJ: "Hawaiian" #NT!
- HAW_national_populist_DEF: "the Kingdom of Hawaii" #NT!
- HAW_valkist: "Hawaii" #NT!
- HAW_valkist_ADJ: "Hawaiian" #NT!
- HAW_valkist_DEF: "the State of Hawaii" #NT!
-  
- HAW_vanguardist_party: "Revolutionary Party of Hawaii" #NT!
- HAW_vanguardist_party_long: "Revolutionary Party of Hawaii" #NT!
- HAW_collectivist_party: "Hawaiian Federation of Labor" #NT!
- HAW_collectivist_party_long: "Hawaiian Federation of Labor" #NT!
- HAW_libertarian_socialist_party: "Socialist Party of Hawaii" #NT!
- HAW_libertarian_socialist_party_long: "Socialist Party of Hawaii" #NT!
- HAW_social_democrat_party: "Progressive Party" #NT!
- HAW_social_democrat_party_long: "Progressive Party" #NT!
- HAW_social_liberal_party: "National Liberal Party" #NT!
- HAW_social_liberal_party_long: "National Liberal Party" #NT!
- HAW_market_liberal_party: "Republican Party" #NT!
- HAW_market_liberal_party_long: "Republican Party" #NT!
- HAW_social_conservative_party: "Hui Aloha Aina" #NT!
- HAW_social_conservative_party_long: "Hui Aloha Aina" #NT!
- HAW_authoritarian_democrat_party: "Hawaiian National Party" #NT!
- HAW_authoritarian_democrat_party_long: "Hawaiian National Party" #NT!
- HAW_paternal_autocrat_party: "Emergency Directorate" #NT!
- HAW_paternal_autocrat_party_long: "Emergency Directorate" #NT!
- HAW_national_populist_party: "Hawaiian National Party" #NT!
- HAW_national_populist_party_long: "Hawaiian National Party" #NT!
- HAW_valkist_party: "Hawaiian National Party" #NT!
- HAW_valkist_party_long: "Hawaiian National Party" #NT!
-  
- HAW_Liliuokalani_II: "Liliuokalani II" #NT!
- HAW_Arthur_Rutledge: "Arthur Rutledge" #NT!
+
+ HAW_vanguardist: "Гавайи" # Hawaii
+ HAW_vanguardist_ADJ: "гавайский" # Hawaiian
+ HAW_vanguardist_DEF: "Коммуна Гавайев" # the Commune of Hawaii
+ HAW_collectivist: "Гавайи" # Hawaii
+ HAW_collectivist_ADJ: "гавайский" # Hawaiian
+ HAW_collectivist_DEF: "Коммуна Гавайев" # the Commune of Hawaii
+ HAW_libertarian_socialist: "Гавайи" # Hawaii
+ HAW_libertarian_socialist_ADJ: "гавайский" # Hawaiian
+ HAW_libertarian_socialist_DEF: "Коммуна Гавайев" # the Commune of Hawaii
+ HAW_social_democrat: "Гавайи" # Hawaii
+ HAW_social_democrat_ADJ: "гавайский" # Hawaiian
+ HAW_social_democrat_DEF: "Королевство Гавайи" # the Kingdom of Hawaii
+ HAW_social_liberal: "Гавайи" # Hawaii
+ HAW_social_liberal_ADJ: "гавайский" # Hawaiian
+ HAW_social_liberal_DEF: "Королевство Гавайи" # the Kingdom of Hawaii
+ HAW_market_liberal: "Гавайи" # Hawaii
+ HAW_market_liberal_ADJ: "гавайский" # Hawaiian
+ HAW_market_liberal_DEF: "Королевство Гавайи" # the Kingdom of Hawaii
+ HAW_social_conservative: "Гавайи" # Hawaii
+ HAW_social_conservative_ADJ: "гавайский" # Hawaiian
+ HAW_social_conservative_DEF: "Королевство Гавайи" # the Kingdom of Hawaii
+ HAW_authoritarian_democrat: "Гавайи" # Hawaii
+ HAW_authoritarian_democrat_ADJ: "гавайский" # Hawaiian
+ HAW_authoritarian_democrat_DEF: "Королевство Гавайи" # the Kingdom of Hawaii
+ HAW_paternal_autocrat: "Гавайи" # Hawaii
+ HAW_paternal_autocrat_ADJ: "гавайский" # Hawaiian
+ HAW_paternal_autocrat_DEF: "Королевство Гавайи" # the Kingdom of Hawaii
+ HAW_national_populist: "Гавайи" # Hawaii
+ HAW_national_populist_ADJ: "гавайский" # Hawaiian
+ HAW_national_populist_DEF: "Королевство Гавайи" # the Kingdom of Hawaii
+ HAW_valkist: "Гавайи" # Hawaii
+ HAW_valkist_ADJ: "гавайский" # Hawaiian
+ HAW_valkist_DEF: "штат Гавайи" # the State of Hawaii
+
+ HAW_vanguardist_party: "Революционная партия Гавайев" # Revolutionary Party of Hawaii
+ HAW_vanguardist_party_long: "Революционная партия Гавайев" # Revolutionary Party of Hawaii
+ HAW_collectivist_party: "Гавайская федерация труда" # Hawaiian Federation of Labor
+ HAW_collectivist_party_long: "Гавайская федерация труда" # Hawaiian Federation of Labor
+ HAW_libertarian_socialist_party: "Социалистическая партия Гавайев" # Socialist Party of Hawaii
+ HAW_libertarian_socialist_party_long: "Социалистическая партия Гавайев" # Socialist Party of Hawaii
+ HAW_social_democrat_party: "Прогрессивная партия" # Progressive Party
+ HAW_social_democrat_party_long: "Прогрессивная партия" # Progressive Party
+ HAW_social_liberal_party: "Национал-либеральная партия" # National Liberal Party
+ HAW_social_liberal_party_long: "Национал-либеральная партия" # National Liberal Party
+ HAW_market_liberal_party: "Республиканская партия" # Republican Party
+ HAW_market_liberal_party_long: "Республиканская партия" # Republican Party
+ HAW_social_conservative_party: "Деревенский клуб любви" # Hui Aloha Aina
+ HAW_social_conservative_party_long: "Деревенский клуб любви" # Hui Aloha Aina
+ HAW_authoritarian_democrat_party: "Гавайская национальная партия" # Hawaiian National Party
+ HAW_authoritarian_democrat_party_long: "Гавайская национальная партия" # Hawaiian National Party
+ HAW_paternal_autocrat_party: "Управление по чрезвычайным ситуациям" # Emergency Directorate
+ HAW_paternal_autocrat_party_long: "Управление по чрезвычайным ситуациям" # Emergency Directorate
+ HAW_national_populist_party: "Гавайская национальная партия" # Hawaiian National Party
+ HAW_national_populist_party_long: "Гавайская национальная партия" # Hawaiian National Party
+ HAW_valkist_party: "Гавайская национальная партия" # Hawaiian National Party
+ HAW_valkist_party_long: "Гавайская национальная партия" # Hawaiian National Party
+
+ HAW_Liliuokalani_II: "Лилиуокалани II" # Liliuokalani II
+ HAW_Arthur_Rutledge: "Артур Ратледж" # Arthur Rutledge

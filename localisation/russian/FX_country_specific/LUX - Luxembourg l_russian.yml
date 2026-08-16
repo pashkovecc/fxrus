@@ -1,298 +1,298 @@
 ﻿l_russian:
- LUX_FUHRERREICH_DESC: "..." #NT!
- ### Country Names 
- LUX_vanguardist: "Grand Duchy of Luxembourg" #NT!
- LUX_vanguardist_ADJ: "Luxembourgish" #NT!
- LUX_vanguardist_DEF: "the Grand Duchy of Luxembourg" #NT!
- LUX_collectivist: "Grand Duchy of Luxembourg" #NT!
- LUX_collectivist_ADJ: "Luxembourgish" #NT!
- LUX_collectivist_DEF: "the Grand Duchy of Luxembourg" #NT!
- LUX_libertarian_socialist: "Grand Duchy of Luxembourg" #NT!
- LUX_libertarian_socialist_ADJ: "Luxembourgish" #NT!
- LUX_libertarian_socialist_DEF: "the Grand Duchy of Luxembourg" #NT!
- LUX_social_democrat: "Luxembourg" #NT!
- LUX_social_democrat_ADJ: "Luxembourgish" #NT!
- LUX_social_democrat_DEF: "the Grand Duchy of Luxembourg" #NT!
- LUX_social_liberal: "Luxembourg" #NT!
- LUX_social_liberal_ADJ: "Luxembourgish" #NT!
- LUX_social_liberal_DEF: "the Grand Duchy of Luxembourg" #NT!
- LUX_market_liberal: "Luxembourg" #NT!
- LUX_market_liberal_ADJ: "Luxembourgish" #NT!
- LUX_market_liberal_DEF: "the Grand Duchy of Luxembourg" #NT!
- LUX_social_conservative: "Luxembourg" #NT!
- LUX_social_conservative_ADJ: "Luxembourgish" #NT!
- LUX_social_conservative_DEF: "the Grand Duchy of Luxembourg" #NT!
- LUX_authoritarian_democrat: "Luxembourg" #NT!
- LUX_authoritarian_democrat_ADJ: "Luxembourgish" #NT!
- LUX_authoritarian_democrat_DEF: "the Grand Duchy of Luxembourg" #NT!
- LUX_paternal_autocrat: "Luxembourg" #NT!
- LUX_paternal_autocrat_ADJ: "Luxembourgish" #NT!
- LUX_paternal_autocrat_DEF: "the Grand Duchy of Luxembourg" #NT!
- LUX_national_populist: "Greater Luxembourg" #NT!
- LUX_national_populist_ADJ: "Luxembourgish" #NT!
- LUX_national_populist_DEF: "the State of Greater Luxembourg" #NT!
- LUX_valkist: "Luxembourg" #NT!
- LUX_valkist_ADJ: "Luxembourgish" #NT!
- LUX_valkist_DEF: "the Grand Duchy of Luxembourg" #NT!
-  
- #parties 
- LUX_vanguardist_party: "KPL-V" #NT!
- LUX_vanguardist_party_long: "Kommunistische Partei Luxemburgs - Vanguardisten\n§gCommunist Party of Luxembourg - Vanguardists§!" #NT!
- LUX_collectivist_party: "KPL-K" #NT!
- LUX_collectivist_party_long: "Kommunistische Partei Luxemburgs - Kollektivist\n§gCommunist Party of Luxembourg - Communists§!" #NT!
- LUX_libertarian_socialist_party: "RZP" #NT!
- LUX_libertarian_socialist_party_long: "Radikal-Sozialistesch Partei\n§gRadical Socialist Party§!" #NT!
- LUX_social_democrat_party: "LSAP" #NT!
- LUX_social_democrat_party_long: "Lëtzebuerger Sozialistesch Aarbechterpartei\n§gLuxembourg Socialist Workers' Party§!" #NT!
- LUX_social_liberal_party: "RLP" #NT!
- LUX_social_liberal_party_long: "Radikal-Liberal Partei\n§gRadical Liberal Party§!" #NT!
- LUX_market_liberal_party: "DO" #NT!
- LUX_market_liberal_party_long: "Demokratesch Partei\n§gDemocratic Party§!" #NT!
- LUX_social_conservative_party: "RP" #NT!
- LUX_social_conservative_party_long: "Rietspartei\n§gParty of the Right§!" #NT!
- LUX_authoritarian_democrat_party: "RP" #NT!
- LUX_authoritarian_democrat_party_long: "Rietspartei\n§gParty of the Right§!" #NT!
- LUX_paternal_autocrat_party: "Haus Luxemburg" #NT!
- LUX_paternal_autocrat_party_long: "Haus Luxemburg" #NT!
- LUX_national_populist_party: "ON" #NT!
- LUX_national_populist_party_long: "Onofhängeg Nationalpartei\n§gIndependent National Party§!" #NT!
- LUX_valkist_party: "VB" #NT!
- LUX_valkist_party_long: "Volksdeutsche Bewegung\n§gEthnic German Movement§!" #NT!
-  
- LUX_purged: "§RPurged!" #NT!
- #flags 
- LUX_catholic_nation_state: "Catholic Nation" #NT!
- LUX_Bech: "Bech is still in power" #NT!
- LUX_Royal_Coup: "The Duchess withdrawn trust from Bech" #NT!
- LUX_Communist_Revolution: "A Communist Revolution Started" #NT!
- LUX_German_takeover_tooltip: "§gLuxembourg is now under the German boot, God Help us all!" #NT!
- LUX_German_coup: "The Germans has couped the Government" #NT!
- LUX_NO_MONARCHY: "People's Republic of Luxembourg" #NT!
- LUX_NO_MONARCHY_DEF: "the People's Republic of Luxembourg" #NT!
- LUX_Elections_done: "The Elections were concluded" #NT!
- LUX_German_Empire: "Deutsches Kaiserreich" #NT!
- #decisions 
-  
-  
- #ideas 
-  
- LUX_catholic_nation_idea: "Catholic Nation" #NT!
- LUX_decentralised_doctrine_idea: "Decentralised Doctrine" #NT!
- LUX_decentralised_doctrine_idea2: "Overpowering Firepower" #NT!
- LUX_planning_board_idea: "Central Planning Board" #NT!
- LUX_planning_board_idea2: "Superior In Planning" #NT!
- LUX_planning_board_idea3: "Modern High Command" #NT!
- LUX_auxiliary_recon_idea: "Reconnaissance Units" #NT!
- LUX_auxiliary_engineers_idea: "Engineer Units" #NT!
- LUX_auxiliary_units_idea: "Auxiliary Units" #NT!
- LUX_decentralised_doctrine_idea3: "A Modern Army" #NT!
- LUX_militia_force: "A Militia Army" #NT!
- LUX_militia_force2: "Men For The Revolution" #NT!
- LUX_rifle_in_every_hand_idea: "A Rifle In Every Hand" #NT!
- LUX_rifle_in_every_hand_idea2: "Arms For The Revolution" #NT!
- communal_conscription: "Communal Conscription" #NT!
-  
- #focuses 
- LUX_economic_crisis: "Breakdown of the Luxembourgish Economy" #NT!
- LUX_valkist_recovery: "German Economic Theorists" #NT!
- LUX_form_National_company: "Form the National German Company" #NT!
- LUX_integrate_small_unions: "Intergrate Small Unions" #NT!
- LUX_german_state: "A German State" #NT!
- LUX_open_military_manufactory: "Open a Military Factory" #NT!
- LUX_invite_krupp: "Krupp investments" #NT!
- LUX_import_machine_tools: "Import German Machinery" #NT!
- LUX_open_new_mines: "Open New Mines" #NT!
- LUX_Agrarian_plan: "Agrarian Plan" #NT!
- LUX_expand_farming_subsidies: "Expand Farming Subsidies" #NT!
- LUX_mend_the_schism: "Mend the Schism" #NT!
- LUX_expand_exports: "Expand Exports" #NT!
- LUX_agrarian_unionism: "Agrarian Unionism" #NT!
- LUX_import_agricultural_tools: "Import Agricultural tools" #NT!
- LUX_over_the_moselle: "Over the Moselle" #NT!
- LUX_agrarian_recovery: "Agrarian Recovery" #NT!
- LUX_Capitalist_recovery: "Back Free trade" #NT!
- LUX_institute_tariffs: "Institute Tariffs" #NT!
- LUX_reintroduce_capital: "Reintroduce Capital" #NT!
- LUX_public_works: "Public Works" #NT!
- LUX_progressive_tax: "Progressive Tax" #NT!
- LUX_enshrine_workers_rights: "Enshrine Workers Rights" #NT!
- LUX_liberal_economic_recovery: "Free Market wins again" #NT!
-  
- LUX_bech_government: "Joseph Bech Government" #NT!
- LUX_agrarian_sect: "Agrarian Reforms" #NT!
- LUX_luxembourger_wine: "Produce Local Wine" #NT!
- LUX_belgian_wine_exports: "Export Wine to Belgium" #NT!
- LUX_conclude_agrarian_reformism: "Finish Agrarian reforms" #NT!
- LUX_rural_schooling: "Rural schooling" #NT!
- LUX_foreign_rails: "Invite Foreign railway companies" #NT!
- LUX_industrial_sect: "Industry Reform" #NT!
- LUX_expand_foreign_industrial_investments: "Expand Foreign Industrial Investments" #NT!
- LUX_expand_urban_infrastructure: "Urban Development" #NT!
- LUX_issue_factory_commission: "Issue Factory Commission" #NT!
- LUX_modernise_factory_tools: "Modernize factory tools" #NT!
- LUX_conclude_industrial_reformism: "Finish Industrial Reforms" #NT!
-  
- LUX_Kratzenberg_Government: "Damian Kratzenberg Government" #NT!
- LUX_industrialisation: "Industrialisation" #NT!
- LUX_invite_siemens: "Invite Siemens" #NT!
- LUX_invite_mauser: "Invite Mauser" #NT!
- LUX_appropriate_french_investments: "Aoorioriate French Investments" #NT!
- LUX_nationalise_farmland: "Nationalize the Farmlands" #NT!
- LUX_germanisation: "Germanize Luxembourg" #NT!
- LUX_phase_out_luxembourgish: "Stop teaching Luxembourgish" #NT!
- LUX_ban_french_classes: "Ban Speaking French" #NT!
- LUX_invite_rheinish_immigrants: "Invite Rhinish Settlers" #NT!
- LUX_German_Country_again: "A German state once more" #NT!
- LUX_sell_french_assets: "Sell Frenchie Assets" #NT!
-  
- LUX_give_equipment_for_each_friendly_majors: "§YEquipments§! will be added for each of the following countries that has an §Yopinion§! of Luxembourg! greater than §G1§!: \n§Y[FRA.getFlag][FRA.GetNameDef]§!, [ENG.getFlag]§Y [ENG.GetNameDef]§!, §Y[GER.getFlag][GER.GetNameDef]§!,§Y[USA.getFlag][USA.GetNameDef]§!, §Y[ITA.getFlag][ITA.GetNameDef]§! and §Y[SOV.getFlag][SOV.GetNameDef]§!." #NT!
-  
- LUX_rearmament_tooltip: "§WCompleting this focus unlocks§! §YDecisions§! §Wto§! §Gget rid of§! the §RAshes of the Great War§! National Spirit" #NT!
- LUX_rearmament: "Legacy Of The Great War" #NT!
- LUX_rearmament_desc: "Our military has been in a sorry state ever since the Great War. From our near annihilation to the humiliation that was the Yser front, Luxembourg has failed to prove itself able to defend the people within it. The legacy of the war is that of destruction. \n\nIf we wish to continue our survival as a nation we must learn from the war. We must learn how to prevent the destruction and chaos of the conflict from ever arriving on our soil again." #NT!
-  
- LUX_artillery_primacy: "Hit Hard" #NT!
- LUX_artillery_primacy_desc: "We lack the capacity to field a massive army like our contemporaries. Instead, we should focus our production on higher quality, stronger weaponry so that we may overpower any foes we face on the battlefield. This will be expensive, though, and, as such, we must be very selective in what units we deploy." #NT!
- LUX_decentralised_doctrine: "Decentralised Doctrine" #NT!
- LUX_decentralised_doctrine_desc: "We must place focus on smal units and low tier officers over the armchair generals who lead them." #NT!
- LUX_strength_in_firepower: "Strength In Firepower" #NT!
- LUX_strength_in_firepower_desc: "Our units must be focused on overpowering the enemy with Superior Firepower if we wish to come out on top." #NT!
- LUX_fn_contracts: "Belgian Assault Contracts" #NT!
- LUX_fn_contracts_desc: "The Belgian Fabrique Nationale produces high quality assault weapons, weapons our army desperately needs if we are to persue a policy of superior firepower. As such, we shall hand out Luxembourgish military contracts to FN in the hopes of acquiring more assault weapons for our armed forces." #NT!
- LUX_frc_contracts: "Belgian Cannon Contracts" #NT!
- LUX_frc_contracts_desc: "The Fonderie Royale des Canons for Cannons is a key component in our artillery industry. As such, we shall grant them extra funding and contracts in order to provide higher quality artillery for our army." #NT!
- LUX_minerva_contracts: "Belgian Car Contracts" #NT!
- LUX_minerva_contracts_desc: "The Belgian Minerva produced a wide array of mobile vehicles during the Great War. Many have pushed for the adoption of Armoured Personnel Carriers into our army in order to protect our infantrymen. Perhaps Minerva could provide this to little Luxembourg?" #NT!
- LUX_offencive_stratagems: "Offencive Stratagems" #NT!
- LUX_offencive_stratagems_desc: "Offence is the best Defence. We must take this to heart if we wish to defend our great nation from outside powers." #NT!
- LUX_modern_army: "A Modern Army" #NT!
- LUX_modern_army_desc: " " #NT!
-  
- LUX_auxiliary_units: "Auxiliary Units" #NT!
- LUX_auxiliary_units_desc: "No force is complete without support units. From Reconnaissance to Engineers, they are crucial for success." #NT!
- LUX_auxiliary_recon: "Auxiliary Reconnaissance" #NT!
- LUX_auxiliary_recon_desc: "We shall focus our efforts on Auxiliary Reconnaissance specialisation!" #NT!
- LUX_auxiliary_engineers: "Auxiliary Engineers" #NT!
- LUX_auxiliary_engineers_desc: "We shall focus our efforts on Auxiliary Enginner specialisation!" #NT!
- LUX_logistics_calculation: "Logistics Specialists" #NT!
- LUX_logistics_calculation_desc: "We must carefully calculate our logistics in order to win!" #NT!
-  
- LUX_planning_primacy: "Planning Primacy" #NT!
- LUX_planning_primacy_desc: "Planning is the end all win all of any war. In Depth Planning brought the Entente through the Great War, and it shall bring us through the next war!" #NT!
- LUX_modernised_units: "Modernise Our Units" #NT!
- LUX_modernised_units_desc: "The Units used in the Great War had proven themselves ineffective in the era of modern warfare. With this in mind, we must look to the future and prepare our units for modern combat." #NT!
- LUX_anti_tank_units: "Anti-Tank Companies" #NT!
- LUX_anti_tank_units_desc: "Armour has quickly enveloped Infantry as the dominant force on the battlefield. However, all is not lost, for Infantry can and will defeat Armour if provided a suitable weapon with which to destroy enemy armour!" #NT!
- LUX_modern_arty: "Support Artillery Companies" #NT!
- LUX_modern_arty_desc: "Artillery should not be focused on when constructing an army. Rather, it should be considered a support unit, one whose job is to assist infantry, not replace it." #NT!
- LUX_defencive_stratagems: "Defencive Stratagems" #NT!
- LUX_defencive_stratagems_desc: "We shall focus our army on defencive measures." #NT!
- LUX_planning_board: "Central Planning Board" #NT!
- LUX_planning_board_desc: "We must centralise our high command in order to make for better, more in depth plans." #NT!
- LUX_strength_in_planning: "Strength In Planning" #NT!
- LUX_strength_in_planning_desc: " " #NT!
- LUX_contracts: "Foreign Contracts" #NT!
- LUX_contracts_desc: "" #NT!
- LUX_cockerill_contracts: "Belgian Gun Contract" #NT!
- LUX_cockerill_contracts_desc: "John Cockerill produces defence oriented field guns which we can use to back up our army in our efforts to defend the homeland." #NT!
- LUX_rca_contracts: "Belgian Air Contracts" #NT!
- LUX_rca_contracts_desc: "Renard Constructions Aéronautiques is one of the few Belgian aeronautique companies in Beligum. If we wish to defend ourselves, we need to reach to our Belgian neighbours." #NT!
- LUX_modern_command: "A Modern High Command" #NT!
- LUX_modern_command_desc: " " #NT!
-  
- LUX_Royal_government: "The Duchess Takes power" #NT!
- LUX_Royal_Dictatorship: "A Royalist Government" #NT!
- LUX_Duchess_Government: "The Duchess Rules alone" #NT!
- LUX_trade_with_belgium: "Trade with Belgium" #NT!
- LUX_Religious_education: "Religous Education" #NT!
- LUX_Destroy_socialism: "Destroy Socialism" #NT!
- LUX_Aristocratic_support: "Aristocratic Support" #NT!
- LUX_Luxembourgish_pride: "Luxembourgish Pride" #NT!
- LUX_Church_support: "Church Support" #NT!
- LUX_Catholic_Nation: "Catholic Nation" #NT!
- LUX_Rietspartei_Government: "A More Conservative Rietspartei Government" #NT!
- LUX_Empower_Police: "Empower the Police" #NT!
- LUX_trade_with_France: "Trade with France" #NT!
- LUX_Return_democracy: "Next Government is..." #NT!
- LUX_LSAP: "LSAP" #NT!
- LUX_affordable_housing: "Affordable Housing" #NT!
- LUX_Ban_far_right_parties: "Ban Far Right parties" #NT!
- LUX_social_security: "Social Security" #NT!
- LUX_Improve_working_conditions: "Improve Working Conditions" #NT!
- LUX_welfare_state: "Welfarist Duchy" #NT!
- LUX_RZP: "RZP" #NT!
- LUX_rich_taxation: "Tax the Rich" #NT!
- LUX_strengthern_democracy: "Strengthern Democracy" #NT!
- LUX_social_welfare: "Social Welfare" #NT!
- LUX_Enshrine_womens_rights: "Enshrine Womens' rights" #NT!
- LUX_improve_education: "Improve Education" #NT!
- LUX_French_secularism: "French Secularism" #NT!
- LUX_support_workers: "Support Workers" #NT!
- LUX_Socialist_Duchy: "Socialist Duchy" #NT!
- LUX_DP: "DP" #NT!
- LUX_limited_social_welfare: "Limited Social Welfare" #NT!
- LUX_Human_normal_secularism: "Freedom of Religion" #NT!
- LUX_Tax_reforms: "Tax Reforms" #NT!
- LUX_Free_trade: "Free Trade" #NT!
- LUX_Free_Duchy: "A Liberal Duchy" #NT!
- LUX_Elections_focus: "Luxembourgish Elections" #NT!
- LUX_RP: "RP" #NT!
- LUX_Religious_education2: "Religous Education" #NT!
- LUX_Labour_regulation: "Labour Regulation" #NT!
- LUX_Continue_Agrarian_policy: "Continue Agrarian Policy" #NT!
- LUX_Conservative_Duchy: "Conservative Duchy" #NT!
- LUX_Catholic_Social_Programs: "Catholic Social Programs" #NT!
- LUX_Ban_communists: "Maulkuerfgesetz" #NT!
-  
- LUX_Communist_Revolt: "Luxembourgish Revolution" #NT!
- LUX_destroy_Volksdeutsche_Bewegung: "Destroy the Volksdeutsche Bewegung" #NT!
- LUX_destroy_rietsparty: "Destroy the Rietspartei" #NT!
- LUX_KPL_COL: "KPL - Communists" #NT!
- LUX_KPL_VAN: "KPL - Vanguardists" #NT!
- LUX_Monarchy_referendum: "Monarchy Referendum" #NT!
- LUX_nationalize_industry: "Nationalize Industry" #NT!
- LUX_workplace_democracy: "Workplace Democracy" #NT!
- LUX_pacify_marx: "Sideline Charles" #NT!
- LUX_socialist_education: "Socialist Education" #NT!
- LUX_collectivization: "Collectivization" #NT!
- LUX_five_years_plan: "Five year plan" #NT!
- LUX_purge_collectivists: "Purge Communists" #NT!
- LUX_Marxist_education: "Marxist Education" #NT!
- LUX_Establish_peoples_dictatorship: "Proletariat Dictatorship" #NT!
- LUX_Marx_Cult: "Marx Cult" #NT!
- LUX_ten_years_plan: "Ten Years Plan" #NT!
- LUX_confiscate_propert: "Confiscate Property" #NT!
- LUX_OP: "ON" #NT!
- LUX_Enshrine_Monarchy: "Unite around the crown" #NT!
- LUX_Build_more_roads: "National Roads Plan" #NT!
- LUX_National_State: "National State" #NT!
- LUX_Support_local_industry: "Support Local Industry" #NT!
- LUX_Nationalist_education: "Nationalist Education" #NT!
- LUX_Foreign_policy: "Foreign Policy" #NT!
- LUX_Join_Stahl_Pact: "Join the Stahlpakt" #NT!
- LUX_neutrality: "Neutrality" #NT!
- LUX_Join_Allies: "Join Entente" #NT!
- LUX_Join_Comintern: "Join the Soviets" #NT!
- LUX_Reform_German_Empire: "Unite the Germans" #NT!
- LUX_Restore_Luxembourg: "Restore Ancient Luxembourg borders" #NT!
- LUX_Peoples_Benelux_Republic: "Establish the People's republic of Benelux" #NT!
- LUX_expand_roads: "Expand Roads" #NT!
-  
- #events 
- LUX.0.t: "The Monkey In The Middle" #NT!
- LUX.0.a: "Mir wëlle bleiwe wat mir sinn!" #NT!
- LUX.0.d: "..." #NT!
- LUX_German_cat: "Reform the German Empire" #NT!
- LUX_form_germany: "Unite Germany" #NT!
- tt_lux_ger: "Luxembourg unites Germany" #NT!
-  
- LUX_Charolotte: "Charlotte" #NT!
- LUX_Charles_Marx: "Charles Marx" #NT!
- LUX_Dominique_Urbany: "Dominique Urbany" #NT!
- LUX_Joseph_Bech: "Joseph Bech" #NT!
- LUX_Rene_Blum: "Rene Blum" #NT!
- LUX_Eugene_Schaus: "Eugene Schaus" #NT!
- LUX_Pierre_Dupong: "Pierre Dupong" #NT!
- LUX_Guillame_Konsbruck: "Guillame Konsbruck" #NT!
- LUX_Emile_Hamilius: "Emile Hamilius" #NT!
- LUX_Emile_Speller: "Émile Speller" #NT!
+ LUX_FUHRERREICH_DESC: "..." # ...
+### Country Names
+ LUX_vanguardist: "Великое Герцогство Люксембург" # Grand Duchy of Luxembourg
+ LUX_vanguardist_ADJ: "Люксембургский" # Luxembourgish
+ LUX_vanguardist_DEF: "Великое Герцогство Люксембург" # the Grand Duchy of Luxembourg
+ LUX_collectivist: "Великое Герцогство Люксембург" # Grand Duchy of Luxembourg
+ LUX_collectivist_ADJ: "Люксембургский" # Luxembourgish
+ LUX_collectivist_DEF: "Великое Герцогство Люксембург" # the Grand Duchy of Luxembourg
+ LUX_libertarian_socialist: "Великое Герцогство Люксембург" # Grand Duchy of Luxembourg
+ LUX_libertarian_socialist_ADJ: "Люксембургский" # Luxembourgish
+ LUX_libertarian_socialist_DEF: "Великое Герцогство Люксембург" # the Grand Duchy of Luxembourg
+ LUX_social_democrat: "Люксембург" # Luxembourg
+ LUX_social_democrat_ADJ: "Люксембургский" # Luxembourgish
+ LUX_social_democrat_DEF: "Великое Герцогство Люксембург" # the Grand Duchy of Luxembourg
+ LUX_social_liberal: "Люксембург" # Luxembourg
+ LUX_social_liberal_ADJ: "Люксембургский" # Luxembourgish
+ LUX_social_liberal_DEF: "Великое Герцогство Люксембург" # the Grand Duchy of Luxembourg
+ LUX_market_liberal: "Люксембург" # Luxembourg
+ LUX_market_liberal_ADJ: "Люксембургский" # Luxembourgish
+ LUX_market_liberal_DEF: "Великое Герцогство Люксембург" # the Grand Duchy of Luxembourg
+ LUX_social_conservative: "Люксембург" # Luxembourg
+ LUX_social_conservative_ADJ: "Люксембургский" # Luxembourgish
+ LUX_social_conservative_DEF: "Великое Герцогство Люксембург" # the Grand Duchy of Luxembourg
+ LUX_authoritarian_democrat: "Люксембург" # Luxembourg
+ LUX_authoritarian_democrat_ADJ: "Люксембургский" # Luxembourgish
+ LUX_authoritarian_democrat_DEF: "Великое Герцогство Люксембург" # the Grand Duchy of Luxembourg
+ LUX_paternal_autocrat: "Люксембург" # Luxembourg
+ LUX_paternal_autocrat_ADJ: "Люксембургский" # Luxembourgish
+ LUX_paternal_autocrat_DEF: "Великое Герцогство Люксембург" # the Grand Duchy of Luxembourg
+ LUX_national_populist: "Большой Люксембург" # Greater Luxembourg
+ LUX_national_populist_ADJ: "Люксембургский" # Luxembourgish
+ LUX_national_populist_DEF: "Государство Большой Люксембург" # the State of Greater Luxembourg
+ LUX_valkist: "Люксембург" # Luxembourg
+ LUX_valkist_ADJ: "Люксембургский" # Luxembourgish
+ LUX_valkist_DEF: "Великое Герцогство Люксембург" # the Grand Duchy of Luxembourg
+
+#parties
+ LUX_vanguardist_party: "КПЛ-В" # KPL-V
+ LUX_vanguardist_party_long: "Коммунистическая партия Люксембурга - авангардисты\n§gКоммунистическая партия Люксембурга - авангардисты§!" #Charles Marx # Kommunistische Partei Luxemburgs - Vanguardisten\n§gCommunist Party of Luxembourg - Vanguardists§!
+ LUX_collectivist_party: "КПЛ-К" # KPL-K
+ LUX_collectivist_party_long: "Коммунистическая партия Люксембурга - Коллективистская\n§gКоммунистическая партия Люксембурга - Коммунисты§!" #Dominique Urbany # Kommunistische Partei Luxemburgs - Kollektivist\n§gCommunist Party of Luxembourg - Communists§!
+ LUX_libertarian_socialist_party: "РЗП" # RZP
+ LUX_libertarian_socialist_party_long: "Радикальная социалистическая партия\n§gРадикальная социалистическая партия§!" #Marguerite Thomas-Clement # Radikal-Sozialistesch Partei\n§gRadical Socialist Party§!
+ LUX_social_democrat_party: "ЛСАП" # LSAP
+ LUX_social_democrat_party_long: "Социалистическая рабочая партия Люксембурга\n§gСоциалистическая рабочая партия Люксембурга§!" #Rene Blum # Lëtzebuerger Sozialistesch Aarbechterpartei\n§gLuxembourg Socialist Workers' Party§!
+ LUX_social_liberal_party: "РЛП" # RLP
+ LUX_social_liberal_party_long: "Радикально-либеральная партия\n§gРадикально-либеральная партия§!" # Radikal-Liberal Partei\n§gRadical Liberal Party§!
+ LUX_market_liberal_party: "ДЕЛАТЬ" # DO
+ LUX_market_liberal_party_long: "Демократическая партия\n§gДемократическая партия§!" #Eugène Schaus # Demokratesch Partei\n§gDemocratic Party§!
+ LUX_social_conservative_party: "РП" # RP
+ LUX_social_conservative_party_long: "Rietspartei\n§gПравая партия§!" #Bech # Rietspartei\n§gParty of the Right§!
+ LUX_authoritarian_democrat_party: "РП"  # RP
+ LUX_authoritarian_democrat_party_long: "Rietspartei\n§gПравая партия§!" #Soisson # Rietspartei\n§gParty of the Right§!
+ LUX_paternal_autocrat_party: "Люксембургский дом" # Haus Luxemburg
+ LUX_paternal_autocrat_party_long: "Люксембургский дом" # Haus Luxemburg
+ LUX_national_populist_party: "НА" # ON
+ LUX_national_populist_party_long: "Независимая национальная партия\n§gНезависимая национальная партия§!" #Pierre Prüm # Onofhängeg Nationalpartei\n§gIndependent National Party§!
+ LUX_valkist_party: "ВБ" # VB
+ LUX_valkist_party_long: "Этническое немецкое движение\n§gЭтническое немецкое движение§!" # Volksdeutsche Bewegung\n§gEthnic German Movement§!
+
+ LUX_purged: "§RОчищено!" # §RPurged!
+#flags 
+ LUX_catholic_nation_state: "Католическая нация" # Catholic Nation
+ LUX_Bech: "Бек все еще у власти" # Bech is still in power
+ LUX_Royal_Coup: "Герцогиня лишила Бека доверия" # The Duchess withdrawn trust from Bech
+ LUX_Communist_Revolution: "Коммунистическая революция началась" # A Communist Revolution Started
+ LUX_German_takeover_tooltip: "§gЛюксембург теперь под немецким сапогом, Боже, помоги нам всем!" # §gLuxembourg is now under the German boot, God Help us all!
+ LUX_German_coup: "Немцы свергли правительство" # The Germans has couped the Government
+ LUX_NO_MONARCHY: "Народная Республика Люксембург" # People's Republic of Luxembourg
+ LUX_NO_MONARCHY_DEF: "Народная Республика Люксембург" # the People's Republic of Luxembourg
+ LUX_Elections_done: "Выборы завершились" # The Elections were concluded
+ LUX_German_Empire: "Германская империя" # Deutsches Kaiserreich
+#decisions
+
+
+#ideas
+
+ LUX_catholic_nation_idea: "Католическая нация" # Catholic Nation
+ LUX_decentralised_doctrine_idea: "Децентрализованная доктрина" # Decentralised Doctrine
+ LUX_decentralised_doctrine_idea2: "Непреодолимая огневая мощь" # Overpowering Firepower
+ LUX_planning_board_idea: "Совет центрального планирования" # Central Planning Board
+ LUX_planning_board_idea2: "Превосходное планирование" # Superior In Planning
+ LUX_planning_board_idea3: "Современное высшее командование" # Modern High Command
+ LUX_auxiliary_recon_idea: "Разведывательные подразделения" # Reconnaissance Units
+ LUX_auxiliary_engineers_idea: "Инженерные подразделения" # Engineer Units
+ LUX_auxiliary_units_idea: "Вспомогательные подразделения" # Auxiliary Units
+ LUX_decentralised_doctrine_idea3: "Современная армия" # A Modern Army
+ LUX_militia_force: "Армия ополчения" # A Militia Army
+ LUX_militia_force2: "Мужчины за революцию" # Men For The Revolution
+ LUX_rifle_in_every_hand_idea: "Винтовка в каждой руке" # A Rifle In Every Hand
+ LUX_rifle_in_every_hand_idea2: "Оружие для революции" # Arms For The Revolution
+ communal_conscription: "Коммунальный призыв" # Communal Conscription
+
+#focuses
+ LUX_economic_crisis: "Развал экономики Люксембурга" # Breakdown of the Luxembourgish Economy
+ LUX_valkist_recovery: "Немецкие экономические теоретики" # German Economic Theorists
+ LUX_form_National_company: "Создать Национальную немецкую компанию" # Form the National German Company
+ LUX_integrate_small_unions: "Интегрировать малые союзы" # Intergrate Small Unions
+ LUX_german_state: "Немецкое государство" # A German State
+ LUX_open_military_manufactory: "Откройте военный завод" # Open a Military Factory
+ LUX_invite_krupp: "Крупп инвестиции" # Krupp investments
+ LUX_import_machine_tools: "Импорт немецкого оборудования" # Import German Machinery
+ LUX_open_new_mines: "Откройте новые шахты" # Open New Mines
+ LUX_Agrarian_plan: "Аграрный план" # Agrarian Plan
+ LUX_expand_farming_subsidies: "Расширить сельскохозяйственные субсидии" # Expand Farming Subsidies
+ LUX_mend_the_schism: "Исправить раскол" # Mend the Schism
+ LUX_expand_exports: "Развернуть экспорт" # Expand Exports
+ LUX_agrarian_unionism: "Аграрный юнионизм" # Agrarian Unionism
+ LUX_import_agricultural_tools: "Импорт сельскохозяйственных инструментов" # Import Agricultural tools
+ LUX_over_the_moselle: "Над Мозелем" # Over the Moselle
+ LUX_agrarian_recovery: "Аграрное восстановление" # Agrarian Recovery
+ LUX_Capitalist_recovery: "Назад Свободная торговля" # Back Free trade
+ LUX_institute_tariffs: "Тарифы института" # Institute Tariffs
+ LUX_reintroduce_capital: "Повторное введение капитала" # Reintroduce Capital
+ LUX_public_works: "Общественные работы" # Public Works
+ LUX_progressive_tax: "Прогрессивный налог" # Progressive Tax
+ LUX_enshrine_workers_rights: "Защищать права трудящихся" # Enshrine Workers Rights
+ LUX_liberal_economic_recovery: "Свободный рынок снова побеждает" # Free Market wins again
+
+ LUX_bech_government: "Правительство Джозефа Бека" # Joseph Bech Government
+ LUX_agrarian_sect: "Аграрные реформы" # Agrarian Reforms
+ LUX_luxembourger_wine: "Производить местное вино" # Produce Local Wine
+ LUX_belgian_wine_exports: "Экспорт вина в Бельгию" # Export Wine to Belgium
+ LUX_conclude_agrarian_reformism: "Завершить аграрную реформу" # Finish Agrarian reforms
+ LUX_rural_schooling: "Сельское школьное образование" # Rural schooling
+ LUX_foreign_rails: "Пригласить иностранные железнодорожные компании" # Invite Foreign railway companies
+ LUX_industrial_sect: "Реформа промышленности" # Industry Reform
+ LUX_expand_foreign_industrial_investments: "Расширение иностранных промышленных инвестиций" # Expand Foreign Industrial Investments
+ LUX_expand_urban_infrastructure: "Городское развитие" # Urban Development
+ LUX_issue_factory_commission: "Выпуск Заводской комиссии" # Issue Factory Commission
+ LUX_modernise_factory_tools: "Модернизация заводских инструментов" # Modernize factory tools
+ LUX_conclude_industrial_reformism: "Завершить промышленные реформы" # Finish Industrial Reforms
+
+ LUX_Kratzenberg_Government: "Правительство Дамиана Краценберга" # Damian Kratzenberg Government
+ LUX_industrialisation: "Индустриализация" # Industrialisation
+ LUX_invite_siemens: "Пригласить Сименс" # Invite Siemens
+ LUX_invite_mauser: "Пригласить Маузер" # Invite Mauser
+ LUX_appropriate_french_investments: "Компания «Французские инвестиции»" # Aoorioriate French Investments
+ LUX_nationalise_farmland: "Национализировать сельскохозяйственные угодья" # Nationalize the Farmlands
+ LUX_germanisation: "Германизировать Люксембург" # Germanize Luxembourg
+ LUX_phase_out_luxembourgish: "Перестаньте учить люксембургский язык" # Stop teaching Luxembourgish
+ LUX_ban_french_classes: "Запретить говорить по-французски" # Ban Speaking French
+ LUX_invite_rheinish_immigrants: "Пригласить рейнских поселенцев" # Invite Rhinish Settlers
+ LUX_German_Country_again: "Немецкое государство снова" # A German state once more
+ LUX_sell_french_assets: "Продать французские активы" # Sell Frenchie Assets
+ 
+ LUX_give_equipment_for_each_friendly_majors: "§YEquipments§! будет добавлено для каждой из следующих стран, имеющих §Yмнение§! Люксембурга! больше §G1§!: \n§Y[FRA.getFlag][FRA.GetNameDef]§!, [ENG.getFlag]§Y [ENG.GetNameDef]§!, §Y§!, §Y§!, §Y§!, §Y[USA.getFlag][USA.GetNameDef]§!, §Y§!, §Y§!, §Y§!, §Y[ITA.getFlag][ITA.GetNameDef]§! и §Y[SOV.getFlag][SOV.GetNameDef]§!." # §YEquipments§! will be added for each of the following countries that has an §Yopinion§! of Luxembourg! greater than §G1§!: \n§Y[FRA.getFlag][FRA.GetNameDef]§!, [ENG.getFlag]§Y [ENG.GetNameDef]§!, §Y[GER.getFlag][GER.GetNameDef]§!,§Y[USA.getFlag][USA.GetNameDef]§!, §Y[ITA.getFlag][ITA.GetNameDef]§! and §Y[SOV.getFlag][SOV.GetNameDef]§!.
+
+ LUX_rearmament_tooltip: "§WВыполнение этого фокуса открывает§! §YРешения§! §Wto§! §Gизбавьтесь от§! §RПеха Великой войны§! Национальный дух" # §WCompleting this focus unlocks§! §YDecisions§! §Wto§! §Gget rid of§! the §RAshes of the Great War§! National Spirit
+ LUX_rearmament: "Наследие Великой войны" # Legacy Of The Great War
+ LUX_rearmament_desc: "Наша армия находится в плачевном состоянии со времен Великой войны. От нашего почти полного уничтожения до унижения, которое было на Изерском фронте, Люксембургу не удалось доказать, что он способен защитить людей, живущих на нем. Наследие войны – это разрушения. \n\nЕсли мы хотим продолжить выживание как нация, мы должны извлечь уроки из войны. Мы должны научиться не допускать, чтобы разрушения и хаос конфликта когда-либо снова пришли на нашу землю." # Our military has been in a sorry state ever since the Great War. From our near annihilation to the humiliation that was the Yser front, Luxembourg has failed to prove itself able to defend the people within it. The legacy of the war is that of destruction. \n\nIf we wish to continue our survival as a nation we must learn from the war. We must learn how to prevent the destruction and chaos of the conflict from ever arriving on our soil again.
+
+ LUX_artillery_primacy: "Ударь сильно" # Hit Hard
+ LUX_artillery_primacy_desc: "У нас нет возможности создать такую ​​огромную армию, как у наших современников. Вместо этого нам следует сосредоточить наше производство на более качественном и мощном оружии, чтобы мы могли одолеть любого врага, с которым мы сталкиваемся на поле боя. Однако это будет дорого, и поэтому мы должны очень избирательно выбирать, какие подразделения мы развертываем." # We lack the capacity to field a massive army like our contemporaries. Instead, we should focus our production on higher quality, stronger weaponry so that we may overpower any foes we face on the battlefield. This will be expensive, though, and, as such, we must be very selective in what units we deploy.
+ LUX_decentralised_doctrine: "Децентрализованная доктрина" # Decentralised Doctrine
+ LUX_decentralised_doctrine_desc: "Мы должны сосредоточить внимание на небольших подразделениях и офицерах низшего звена, а не на кабинетных генералах, которые ими руководят." # We must place focus on smal units and low tier officers over the armchair generals who lead them.
+ LUX_strength_in_firepower: "Сила в огневой мощи" # Strength In Firepower
+ LUX_strength_in_firepower_desc: "Если мы хотим одержать победу, наши подразделения должны быть сосредоточены на том, чтобы одолеть врага с помощью превосходной огневой мощи." # Our units must be focused on overpowering the enemy with Superior Firepower if we wish to come out on top.
+ LUX_fn_contracts: "Бельгийские контракты на нападение" # Belgian Assault Contracts
+ LUX_fn_contracts_desc: "Бельгийская Fabrique Nationale производит высококачественное штурмовое оружие, оружие, в котором отчаянно нуждается наша армия, если мы хотим проводить политику превосходящей огневой мощи. Таким образом, мы передадим люксембургские военные контракты компании FN в надежде приобрести больше штурмового оружия для наших вооруженных сил." # The Belgian Fabrique Nationale produces high quality assault weapons, weapons our army desperately needs if we are to persue a policy of superior firepower. As such, we shall hand out Luxembourgish military contracts to FN in the hopes of acquiring more assault weapons for our armed forces.
+ LUX_frc_contracts: "Бельгийские пушечные контракты" # Belgian Cannon Contracts
+ LUX_frc_contracts_desc: "Fonderie Royale des Canons for Cannons — ключевой компонент нашей артиллерийской промышленности. Таким образом, мы предоставим им дополнительное финансирование и контракты, чтобы обеспечить нашу армию артиллерией более высокого качества." # The Fonderie Royale des Canons for Cannons is a key component in our artillery industry. As such, we shall grant them extra funding and contracts in order to provide higher quality artillery for our army.
+ LUX_minerva_contracts: "Бельгийские автомобильные контракты" # Belgian Car Contracts
+ LUX_minerva_contracts_desc: "Бельгийская Minerva во время Великой войны производила широкий спектр мобильных транспортных средств. Многие настаивали на принятии в нашу армию бронетранспортеров, чтобы защитить наших пехотинцев. Возможно, Минерва могла бы обеспечить это маленькому Люксембургу?" # The Belgian Minerva produced a wide array of mobile vehicles during the Great War. Many have pushed for the adoption of Armoured Personnel Carriers into our army in order to protect our infantrymen. Perhaps Minerva could provide this to little Luxembourg?
+ LUX_offencive_stratagems: "Наступательные стратегии" # Offencive Stratagems
+ LUX_offencive_stratagems_desc: "Нападение – лучшая защита. Мы должны принять это близко к сердцу, если хотим защитить нашу великую нацию от внешних сил." # Offence is the best Defence. We must take this to heart if we wish to defend our great nation from outside powers.
+ LUX_modern_army: "Современная армия" # A Modern Army
+ LUX_modern_army_desc: " "
+
+ LUX_auxiliary_units: "Вспомогательные подразделения" # Auxiliary Units
+ LUX_auxiliary_units_desc: "Ни одна сила не обходится без подразделений поддержки. От разведки до инженеров — они имеют решающее значение для успеха." # No force is complete without support units. From Reconnaissance to Engineers, they are crucial for success.
+ LUX_auxiliary_recon: "Вспомогательная разведка" # Auxiliary Reconnaissance
+ LUX_auxiliary_recon_desc: "Мы сосредоточим наши усилия на специализации «Вспомогательная разведка»!" # We shall focus our efforts on Auxiliary Reconnaissance specialisation!
+ LUX_auxiliary_engineers: "Вспомогательные инженеры" # Auxiliary Engineers
+ LUX_auxiliary_engineers_desc: "Мы сосредоточим наши усилия на специализации «Вспомогательный инженер»!" # We shall focus our efforts on Auxiliary Enginner specialisation!
+ LUX_logistics_calculation: "Специалисты по логистике" # Logistics Specialists
+ LUX_logistics_calculation_desc: "Мы должны тщательно просчитать нашу логистику, чтобы победить!" # We must carefully calculate our logistics in order to win!
+
+ LUX_planning_primacy: "Планирование Примата" # Planning Primacy
+ LUX_planning_primacy_desc: "Планирование – это цель, в которой все выиграют любую войну. Глубинное планирование провело Антанту через Великую войну, и оно поможет нам пережить следующую войну!" # Planning is the end all win all of any war. In Depth Planning brought the Entente through the Great War, and it shall bring us through the next war!
+ LUX_modernised_units: "Модернизируйте наши подразделения" # Modernise Our Units
+ LUX_modernised_units_desc: "Подразделения, использовавшиеся в Великой войне, доказали свою неэффективность в эпоху современных войн. Учитывая это, мы должны смотреть в будущее и готовить наши подразделения к современным боям." # The Units used in the Great War had proven themselves ineffective in the era of modern warfare. With this in mind, we must look to the future and prepare our units for modern combat.
+ LUX_anti_tank_units: "Противотанковые роты" # Anti-Tank Companies
+ LUX_anti_tank_units_desc: "Броня быстро превратила пехоту в доминирующую силу на поле боя. Однако не все потеряно: пехота может и победит бронетехнику, если ей будет предоставлено подходящее оружие для уничтожения бронетехники противника!" # Armour has quickly enveloped Infantry as the dominant force on the battlefield. However, all is not lost, for Infantry can and will defeat Armour if provided a suitable weapon with which to destroy enemy armour!
+ LUX_modern_arty: "Поддержка артиллерийских рот" # Support Artillery Companies
+ LUX_modern_arty_desc: "При построении армии не следует акцентировать внимание на артиллерии. Скорее, его следует рассматривать как подразделение поддержки, чья работа заключается в оказании помощи пехоте, а не в ее замене." # Artillery should not be focused on when constructing an army. Rather, it should be considered a support unit, one whose job is to assist infantry, not replace it.
+ LUX_defencive_stratagems: "Оборонительные стратегии" # Defencive Stratagems
+ LUX_defencive_stratagems_desc: "Мы сосредоточим нашу армию на оборонительных мерах." # We shall focus our army on defencive measures.
+ LUX_planning_board: "Совет центрального планирования" # Central Planning Board
+ LUX_planning_board_desc: "Мы должны централизовать наше высшее командование, чтобы разработать лучшие и более глубокие планы." # We must centralise our high command in order to make for better, more in depth plans.
+ LUX_strength_in_planning: "Сила в планировании" # Strength In Planning
+ LUX_strength_in_planning_desc: " "
+ LUX_contracts: "Иностранные контракты" # Foreign Contracts
+ LUX_contracts_desc: ""
+ LUX_cockerill_contracts: "Бельгийский контракт на оружие" # Belgian Gun Contract
+ LUX_cockerill_contracts_desc: "Джон Кокерилл производит полевые орудия оборонного назначения, которые мы можем использовать для поддержки нашей армии в наших усилиях по защите родины." # John Cockerill produces defence oriented field guns which we can use to back up our army in our efforts to defend the homeland.
+ LUX_rca_contracts: "Бельгийские авиационные контракты" # Belgian Air Contracts
+ LUX_rca_contracts_desc: "Renard Constructions Aéronautiques — одна из немногих бельгийских авиационных компаний в Белигуме. Если мы хотим защитить себя, нам нужно обратиться к нашим бельгийским соседям." # Renard Constructions Aéronautiques is one of the few Belgian aeronautique companies in Beligum. If we wish to defend ourselves, we need to reach to our Belgian neighbours.
+ LUX_modern_command: "Современное высшее командование" # A Modern High Command
+ LUX_modern_command_desc: " "
+
+ LUX_Royal_government: "Герцогиня приходит к власти" # The Duchess Takes power
+ LUX_Royal_Dictatorship: "Роялистское правительство" # A Royalist Government
+ LUX_Duchess_Government: "Герцогиня правит одна" # The Duchess Rules alone
+ LUX_trade_with_belgium: "Торговля с Бельгией" # Trade with Belgium
+ LUX_Religious_education: "Религиозное образование" # Religous Education
+ LUX_Destroy_socialism: "Уничтожить социализм" # Destroy Socialism
+ LUX_Aristocratic_support: "Аристократическая поддержка" # Aristocratic Support
+ LUX_Luxembourgish_pride: "Люксембург Прайд" # Luxembourgish Pride
+ LUX_Church_support: "Церковная поддержка" # Church Support
+ LUX_Catholic_Nation: "Католическая нация" # Catholic Nation
+ LUX_Rietspartei_Government: "Более консервативное правое правительство" # A More Conservative Rietspartei Government
+ LUX_Empower_Police: "Расширение возможностей полиции" # Empower the Police
+ LUX_trade_with_France: "Торговля с Францией" # Trade with France
+ LUX_Return_democracy: "Следующее правительство..." # Next Government is...
+ LUX_LSAP: "ЛСАП" # LSAP
+ LUX_affordable_housing: "Доступное Жилье" # Affordable Housing
+ LUX_Ban_far_right_parties: "Запретить крайне правые партии" # Ban Far Right parties
+ LUX_social_security: "Социальное обеспечение" # Social Security
+ LUX_Improve_working_conditions: "Улучшить условия труда" # Improve Working Conditions
+ LUX_welfare_state: "Благотворительное герцогство" # Welfarist Duchy
+ LUX_RZP: "РЗП" # RZP
+ LUX_rich_taxation: "Налог на богатых" # Tax the Rich
+ LUX_strengthern_democracy: "Укрепление демократии" # Strengthern Democracy
+ LUX_social_welfare: "Социальное обеспечение" # Social Welfare
+ LUX_Enshrine_womens_rights: "Защитить права женщин" # Enshrine Womens' rights
+ LUX_improve_education: "Улучшить образование" # Improve Education
+ LUX_French_secularism: "Французский секуляризм" # French Secularism
+ LUX_support_workers: "Работники поддержки" # Support Workers
+ LUX_Socialist_Duchy: "Социалистическое Герцогство" # Socialist Duchy
+ LUX_DP: "ДП" # DP
+ LUX_limited_social_welfare: "Ограниченное социальное обеспечение" # Limited Social Welfare
+ LUX_Human_normal_secularism: "Свобода религии" # Freedom of Religion
+ LUX_Tax_reforms: "Налоговые реформы" # Tax Reforms
+ LUX_Free_trade: "Свободная торговля" # Free Trade
+ LUX_Free_Duchy: "Либеральное герцогство" # A Liberal Duchy
+ LUX_Elections_focus: "Люксембургские выборы" # Luxembourgish Elections
+ LUX_RP: "РП" # RP
+ LUX_Religious_education2: "Религиозное образование" # Religous Education
+ LUX_Labour_regulation: "Регулирование труда" # Labour Regulation
+ LUX_Continue_Agrarian_policy: "Продолжить аграрную политику" # Continue Agrarian Policy
+ LUX_Conservative_Duchy: "Консервативное герцогство" # Conservative Duchy
+ LUX_Catholic_Social_Programs: "Католические социальные программы" # Catholic Social Programs
+ LUX_Ban_communists: "Закон о морде" # Maulkuerfgesetz
+
+ LUX_Communist_Revolt: "Люксембургская революция" # Luxembourgish Revolution
+ LUX_destroy_Volksdeutsche_Bewegung: "Уничтожить движение «Фольксдойче»" # Destroy the Volksdeutsche Bewegung
+ LUX_destroy_rietsparty: "Уничтожить правильную партию" # Destroy the Rietspartei
+ LUX_KPL_COL: "КПЛ - коммунисты" # KPL - Communists
+ LUX_KPL_VAN: "КПЛ - Авангардисты" # KPL - Vanguardists
+ LUX_Monarchy_referendum: "Референдум о монархии" # Monarchy Referendum
+ LUX_nationalize_industry: "Национализировать промышленность" # Nationalize Industry
+ LUX_workplace_democracy: "Демократия на рабочем месте" # Workplace Democracy
+ LUX_pacify_marx: "Боковая линия Чарльз" # Sideline Charles
+ LUX_socialist_education: "Социалистическое образование" # Socialist Education
+ LUX_collectivization: "Коллективизация" # Collectivization
+ LUX_five_years_plan: "Пятилетний план" # Five year plan
+ LUX_purge_collectivists: "Чистить коммунистов" # Purge Communists
+ LUX_Marxist_education: "Марксистское образование" # Marxist Education
+ LUX_Establish_peoples_dictatorship: "Диктатура пролетариата" # Proletariat Dictatorship
+ LUX_Marx_Cult: "Культ Маркса" # Marx Cult
+ LUX_ten_years_plan: "Десятилетний план" # Ten Years Plan
+ LUX_confiscate_propert: "Конфисковать имущество" # Confiscate Property
+ LUX_OP: "НА" # ON
+ LUX_Enshrine_Monarchy: "Объединитесь вокруг короны" # Unite around the crown
+ LUX_Build_more_roads: "План национальных дорог" # National Roads Plan
+ LUX_National_State: "Национальное государство" # National State
+ LUX_Support_local_industry: "Поддержите местную промышленность" # Support Local Industry
+ LUX_Nationalist_education: "Националистическое образование" # Nationalist Education
+ LUX_Foreign_policy: "Внешняя политика" # Foreign Policy
+ LUX_Join_Stahl_Pact: "Присоединяйтесь к Штальпакту" # Join the Stahlpakt
+ LUX_neutrality: "Нейтралитет" # Neutrality
+ LUX_Join_Allies: "Присоединяйтесь к Антанте" # Join Entente
+ LUX_Join_Comintern: "Присоединяйтесь к Советам" # Join the Soviets
+ LUX_Reform_German_Empire: "Объедините немцев" # Unite the Germans
+ LUX_Restore_Luxembourg: "Восстановить границы Древнего Люксембурга" # Restore Ancient Luxembourg borders
+ LUX_Peoples_Benelux_Republic: "Создание Народной Республики Бенилюкс." # Establish the People's republic of Benelux
+ LUX_expand_roads: "Развернуть дороги" # Expand Roads
+
+#events
+ LUX.0.t: "Обезьяна посередине" # The Monkey In The Middle
+ LUX.0.a: "Мы хотим оставаться такими, какие мы есть!" # Mir wëlle bleiwe wat mir sinn!
+ LUX.0.d: "..." # ...
+ LUX_German_cat: "Реформировать Германскую империю" # Reform the German Empire
+ LUX_form_germany: "Объедините Германию" # Unite Germany
+ tt_lux_ger: "Люксембург объединяет Германию" # Luxembourg unites Germany
+
+ LUX_Charolotte: "Шарлотта" # Charlotte
+ LUX_Charles_Marx: "Чарльз Маркс" # Charles Marx
+ LUX_Dominique_Urbany: "Доминик Урбани" # Dominique Urbany
+ LUX_Joseph_Bech: "Джозеф Бек" # Joseph Bech
+ LUX_Rene_Blum: "Рене Блюм" # Rene Blum
+ LUX_Eugene_Schaus: "Юджин Шаус" # Eugene Schaus
+ LUX_Pierre_Dupong: "Пьер Дюпонг" # Pierre Dupong
+ LUX_Guillame_Konsbruck: "Гийом Консбрук" # Guillame Konsbruck
+ LUX_Emile_Hamilius: "Эмиль Гамилиус" # Emile Hamilius
+ LUX_Emile_Speller: "Эмиль Спеллер" # Émile Speller

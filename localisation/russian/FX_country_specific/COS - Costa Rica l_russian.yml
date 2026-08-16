@@ -1,61 +1,61 @@
 ﻿l_russian:
-  
- ### Country Names 
- COS_vanguardist: "Workers' State of Costa Rica" #NT!
- COS_vanguardist_ADJ: "Costa Rican" #NT!
- COS_vanguardist_DEF: "the Workers' State of Costa Rica" #NT!
- COS_collectivist: "Costa Rican Socialist State" #NT!
- COS_collectivist_ADJ: "Costa Rican" #NT!
- COS_collectivist_DEF: "the Costa Rican Socialist State" #NT!
- COS_libertarian_socialist: "Costa Rican Communal Republic" #NT!
- COS_libertarian_socialist_ADJ: "Costa Rican" #NT!
- COS_libertarian_socialist_DEF: "the Costa Rican Communal Republic" #NT!
- COS_social_democrat: "Republic of Costa Rica" #NT!
- COS_social_democrat_ADJ: "Costa Rican" #NT!
- COS_social_democrat_DEF: "the Republic of Costa Rica" #NT!
- COS_social_liberal: "Republic of Costa Rica" #NT!
- COS_social_liberal_ADJ: "Costa Rican" #NT!
- COS_social_liberal_DEF: "the Republic of Costa Rica" #NT!
- COS_market_liberal: "Republic of Costa Rica" #NT!
- COS_market_liberal_ADJ: "Costa Rican" #NT!
- COS_market_liberal_DEF: "the Republic of Costa Rica" #NT!
- COS_social_conservative: "Republic of Costa Rica" #NT!
- COS_social_conservative_ADJ: "Costa Rican" #NT!
- COS_social_conservative_DEF: "the Republic of Costa Rica" #NT!
- COS_authoritarian_democrat: "Costa Rican Junta" #NT!
- COS_authoritarian_democrat_ADJ: "Costa Rican" #NT!
- COS_authoritarian_democrat_DEF: "the Costa Rican Junta" #NT!
- COS_paternal_autocrat: "Costa Rican Junta" #NT!
- COS_paternal_autocrat_ADJ: "Costa Rican" #NT!
- COS_paternal_autocrat_DEF: "the Costa Rican Junta" #NT!
- COS_national_populist: "Costa Rican People's Junta" #NT!
- COS_national_populist_ADJ: "Costa Rican" #NT!
- COS_national_populist_DEF: "the Costa Rican People's Junta" #NT!
- COS_valkist: "Costa Rican People's Junta" #NT!
- COS_valkist_ADJ: "Costa Rican" #NT!
- COS_valkist_DEF: "the Costa Rican People's Junta" #NT!
-  
- ### Parties 
- COS_vanguardist_party: "PVP" #NT!
- COS_vanguardist_party_long: "Partido Vanguardia Popular\n§gPopular Vanguard Party§!" #NT!
- COS_collectivist_party: "PVP" #NT!
- COS_collectivist_party_long: "Partido Vanguardia Popular\n§gPopular Vanguard Party§!" #NT!
- COS_libertarian_socialist_party: "PVP" #NT!
- COS_libertarian_socialist_party_long: "Partido Vanguardia Popular\n§gPopular Vanguard Party§!" #NT!
- COS_social_democrat_party: "PRN" #NT!
- COS_social_democrat_party_long: "Partido Republicano Nacional\n§gNational Republican Party§!" #NT!
- COS_social_liberal_party: "El Centro" #NT!
- COS_social_liberal_party_long: "El Centro\n§g"The Center"§!" #NT!
- COS_market_liberal_party: "UFC" #NT!
- COS_market_liberal_party_long: "United Fruit Company" #NT!
- COS_social_conservative_party: "PRN" #NT!
- COS_social_conservative_party_long: "Partido Republicano Nacional\n§gNational Republican Party§!" #NT!
- COS_authoritarian_democrat_party: "ZKG" #NT!
- COS_authoritarian_democrat_party_long: "Zentralamerikanische Kaffee-Gesellschaft\n§gCentral American Coffee Company§!" #NT!
- COS_paternal_autocrat_party: "CSN" #NT!
- COS_paternal_autocrat_party_long: "Consejo de Seguridad Nacional\n§gNational Security Council§!" #NT!
- COS_national_populist_party: "LC" #NT!
- COS_national_populist_party_long: "Légion del Caribe\n§gCaribbean Legion§!" #NT!
-  
- COS_Ricardo_Jimenez_Oreamuno: "Ricardo Jiménez Oreamuno" #NT!
- COS_Fernando_Figuls_Quiros: "Fernando Figuls Quiros" #NT!
+
+### Country Names
+ COS_vanguardist: "Рабочее государство Коста-Рика" # Workers' State of Costa Rica
+ COS_vanguardist_ADJ: "Коста-риканск" # Costa Rican
+ COS_vanguardist_DEF: "Рабочее государство Коста-Рика" # the Workers' State of Costa Rica
+ COS_collectivist: "Социалистическое государство Коста-Рики" # Costa Rican Socialist State
+ COS_collectivist_ADJ: "Коста-риканск" # Costa Rican
+ COS_collectivist_DEF: "Коста-риканское социалистическое государство" # the Costa Rican Socialist State
+ COS_libertarian_socialist: "Коста-риканская коммунальная республика" # Costa Rican Communal Republic
+ COS_libertarian_socialist_ADJ: "Коста-риканск" # Costa Rican
+ COS_libertarian_socialist_DEF: "Коста-риканская коммунальная республика" # the Costa Rican Communal Republic
+ COS_social_democrat: "Республика Коста-Рика" # Republic of Costa Rica
+ COS_social_democrat_ADJ: "Коста-риканск" # Costa Rican
+ COS_social_democrat_DEF: "Республика Коста-Рика" # the Republic of Costa Rica
+ COS_social_liberal: "Республика Коста-Рика" # Republic of Costa Rica
+ COS_social_liberal_ADJ: "Коста-риканск" # Costa Rican
+ COS_social_liberal_DEF: "Республика Коста-Рика" # the Republic of Costa Rica
+ COS_market_liberal: "Республика Коста-Рика" # Republic of Costa Rica
+ COS_market_liberal_ADJ: "Коста-риканск" # Costa Rican
+ COS_market_liberal_DEF: "Республика Коста-Рика" # the Republic of Costa Rica
+ COS_social_conservative: "Республика Коста-Рика" # Republic of Costa Rica
+ COS_social_conservative_ADJ: "Коста-риканск" # Costa Rican
+ COS_social_conservative_DEF: "Республика Коста-Рика" # the Republic of Costa Rica
+ COS_authoritarian_democrat: "Хунта Коста-Рики" # Costa Rican Junta
+ COS_authoritarian_democrat_ADJ: "Коста-риканск" # Costa Rican
+ COS_authoritarian_democrat_DEF: "Хунта Коста-Рики" # the Costa Rican Junta
+ COS_paternal_autocrat: "Хунта Коста-Рики" # Costa Rican Junta
+ COS_paternal_autocrat_ADJ: "Коста-риканск" # Costa Rican
+ COS_paternal_autocrat_DEF: "Хунта Коста-Рики" # the Costa Rican Junta
+ COS_national_populist: "Народная хунта Коста-Рики" # Costa Rican People's Junta
+ COS_national_populist_ADJ: "Коста-риканск" # Costa Rican
+ COS_national_populist_DEF: "Народная хунта Коста-Рики" # the Costa Rican People's Junta
+ COS_valkist: "Народная хунта Коста-Рики" # Costa Rican People's Junta
+ COS_valkist_ADJ: "Коста-риканск" # Costa Rican
+ COS_valkist_DEF: "Народная хунта Коста-Рики" # the Costa Rican People's Junta
+
+### Parties
+ COS_vanguardist_party: "ПВП" # PVP
+ COS_vanguardist_party_long: "Народная авангардная партия\n§gНародная авангардная партия§!" # Partido Vanguardia Popular\n§gPopular Vanguard Party§!
+ COS_collectivist_party: "ПВП" # PVP
+ COS_collectivist_party_long: "Народная авангардная партия\n§gНародная авангардная партия§!" # Partido Vanguardia Popular\n§gPopular Vanguard Party§!
+ COS_libertarian_socialist_party: "ПВП" # PVP
+ COS_libertarian_socialist_party_long: "Народная авангардная партия\n§gНародная авангардная партия§!" # Partido Vanguardia Popular\n§gPopular Vanguard Party§!
+ COS_social_democrat_party: "ПРН" # PRN
+ COS_social_democrat_party_long: "Национальная республиканская партия\n§gНациональная республиканская партия§!" # Partido Republicano Nacional\n§gNational Republican Party§!
+ COS_social_liberal_party: "Центр" # El Centro
+ COS_social_liberal_party_long: "Центр\n§g\"Центр\"§!" # El Centro\n§g"The Center"§!
+ COS_market_liberal_party: "UFC" # UFC
+ COS_market_liberal_party_long: "Объединенная фруктовая компания" # United Fruit Company
+ COS_social_conservative_party: "ПРН" # PRN
+ COS_social_conservative_party_long: "Национальная республиканская партия\n§gНациональная республиканская партия§!" # Partido Republicano Nacional\n§gNational Republican Party§!
+ COS_authoritarian_democrat_party: "ЗКГ" # ZKG
+ COS_authoritarian_democrat_party_long: "Центральноамериканская кофейная компания\n§gЦентральноамериканская кофейная компания§!" # Zentralamerikanische Kaffee-Gesellschaft\n§gCentral American Coffee Company§!
+ COS_paternal_autocrat_party: "ДНС" # CSN
+ COS_paternal_autocrat_party_long: "Совет национальной безопасности\n§gСовет национальной безопасности§!" # Consejo de Seguridad Nacional\n§gNational Security Council§!
+ COS_national_populist_party: "ЛК" # LC
+ COS_national_populist_party_long: "Карибский легион§gКарибский легион§!" # Légion del Caribe\n§gCaribbean Legion§!
+
+ COS_Ricardo_Jimenez_Oreamuno: "Рикардо Хименес Ореамуно" # Ricardo Jiménez Oreamuno
+ COS_Fernando_Figuls_Quiros: "Фернандо Фигульс Кирос" # Fernando Figuls Quiros

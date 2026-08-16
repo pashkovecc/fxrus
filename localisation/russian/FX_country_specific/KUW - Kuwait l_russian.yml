@@ -1,36 +1,36 @@
 ﻿l_russian:
-  
- ### Country Names 
- KUW_vanguardist: "Kuwait" #NT!
- KUW_vanguardist_ADJ: "Kuwaiti" #NT!
- KUW_vanguardist_DEF: "the Union of Kuwait" #NT!
- KUW_collectivist: "Kuwait" #NT!
- KUW_collectivist_ADJ: "Kuwaiti" #NT!
- KUW_collectivist_DEF: "the United Kuwaiti Communes" #NT!
- KUW_libertarian_socialist: "Kuwait" #NT!
- KUW_libertarian_socialist_ADJ: "Kuwaiti" #NT!
- KUW_libertarian_socialist_DEF: "the People's Republic of Kuwait" #NT!
- KUW_social_democrat: "Kuwait" #NT!
- KUW_social_democrat_ADJ: "Kuwaiti" #NT!
- KUW_social_democrat_DEF: "Kuwait" #NT!
- KUW_social_liberal: "Kuwait" #NT!
- KUW_social_liberal_ADJ: "Kuwaiti" #NT!
- KUW_social_liberal_DEF: "Kuwait" #NT!
- KUW_market_liberal: "Kuwait" #NT!
- KUW_market_liberal_ADJ: "Kuwaiti" #NT!
- KUW_market_liberal_DEF: "Kuwait" #NT!
- KUW_social_conservative: "Kuwait" #NT!
- KUW_social_conservative_ADJ: "Kuwaiti" #NT!
- KUW_social_conservative_DEF: "Kuwait" #NT!
- KUW_authoritarian_democrat: "Kuwait" #NT!
- KUW_authoritarian_democrat_ADJ: "Kuwaiti" #NT!
- KUW_authoritarian_democrat_DEF: "Kuwait" #NT!
- KUW_paternal_autocrat: "Kuwait" #NT!
- KUW_paternal_autocrat_ADJ: "Kuwaiti" #NT!
- KUW_paternal_autocrat_DEF: "Kuwait" #NT!
- KUW_national_populist: "Kuwait" #NT!
- KUW_national_populist_ADJ: "Kuwaiti" #NT!
- KUW_national_populist_DEF: "Kuwait" #NT!
- KUW_valkist: "Kuwait" #NT!
- KUW_valkist_ADJ: "Kuwaiti" #NT!
- KUW_valkist_DEF: "Kuwait" #NT!
+
+### Country Names
+ KUW_vanguardist: "Кувейт" # Kuwait
+ KUW_vanguardist_ADJ: "Кувейтский" # Kuwaiti
+ KUW_vanguardist_DEF: "Союз Кувейта" # the Union of Kuwait
+ KUW_collectivist: "Кувейт" # Kuwait
+ KUW_collectivist_ADJ: "Кувейтский" # Kuwaiti
+ KUW_collectivist_DEF: "Объединенные кувейтские коммуны" # the United Kuwaiti Communes
+ KUW_libertarian_socialist: "Кувейт" # Kuwait
+ KUW_libertarian_socialist_ADJ: "Кувейтский" # Kuwaiti
+ KUW_libertarian_socialist_DEF: "Народная Республика Кувейт" # the People's Republic of Kuwait
+ KUW_social_democrat: "Кувейт" # Kuwait
+ KUW_social_democrat_ADJ: "Кувейтский" # Kuwaiti
+ KUW_social_democrat_DEF: "Кувейт" # Kuwait
+ KUW_social_liberal: "Кувейт" # Kuwait
+ KUW_social_liberal_ADJ: "Кувейтский" # Kuwaiti
+ KUW_social_liberal_DEF: "Кувейт" # Kuwait
+ KUW_market_liberal: "Кувейт" # Kuwait
+ KUW_market_liberal_ADJ: "Кувейтский" # Kuwaiti
+ KUW_market_liberal_DEF: "Кувейт" # Kuwait
+ KUW_social_conservative: "Кувейт" # Kuwait
+ KUW_social_conservative_ADJ: "Кувейтский" # Kuwaiti
+ KUW_social_conservative_DEF: "Кувейт" # Kuwait
+ KUW_authoritarian_democrat: "Кувейт" # Kuwait
+ KUW_authoritarian_democrat_ADJ: "Кувейтский" # Kuwaiti
+ KUW_authoritarian_democrat_DEF: "Кувейт" # Kuwait
+ KUW_paternal_autocrat: "Кувейт" # Kuwait
+ KUW_paternal_autocrat_ADJ: "Кувейтский" # Kuwaiti
+ KUW_paternal_autocrat_DEF: "Кувейт" # Kuwait
+ KUW_national_populist: "Кувейт" # Kuwait
+ KUW_national_populist_ADJ: "Кувейтский" # Kuwaiti
+ KUW_national_populist_DEF: "Кувейт" # Kuwait
+ KUW_valkist: "Кувейт" # Kuwait
+ KUW_valkist_ADJ: "Кувейтский" # Kuwaiti
+ KUW_valkist_DEF: "Кувейт" # Kuwait

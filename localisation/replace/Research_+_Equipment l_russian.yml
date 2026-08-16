@@ -3,353 +3,353 @@
   ##Infantry Tab 
  infantry_equipment: "Пехотное снаряжение"
  infantry_equipment_short: "Пехотное снар."
- infantry_equipment_desc: "Rifle, bayonet, and ammunition for the equipment of infantry." #NT!
+ infantry_equipment_desc: "Винтовка, штык и боеприпасы для оснащения пехоты."
   
- infantry_equipment_0: "Infantry Equipment I" #NT!
- infantry_equipment_0_short: "Infantry Eq. I" #NT!
- infantry_equipment_0_desc: "Early model of infantry repeating rifle, developed in the years preceding and during the Great War. This early model of repeating rifle typically features a full-length barrel, and a collection of many obsolescent features such as volley sights and magazine cutoffs. The long barrel and long bayonet of this early-model rifle makes for difficult handling in closer quarters, and proves impractical for auxiliary troops." #NT!
- infantry_equipment_1: "Infantry Equipment II" #NT!
- infantry_equipment_1_short: "Infantry Eq. II" #NT!
- infantry_equipment_1_desc: "Improved model of manually repeating rifle developed in the years after the Great War. Drawing on the experience of modern industrial warfare, this design typically comes in a much handier "short rifle" size, with a shorter bayonet, in order to reduce weight and improve handling. Outmoded features are eliminated and replaced with more modern ergonomics and better-quality construction." #NT!
- infantry_equipment_2: "Infantry Equipment III" #NT!
- infantry_equipment_2_short: "Infantry Eq. III" #NT!
- infantry_equipment_2_desc: "Advanced infantry rifle with a new semi-automatic action. Designed to utilize the energy from firing to load the next cartridge, this design eliminates the need to manually work the action, allowing for more immediate follow-up shots, and therefore greater volume of accurate fire. Beyond the improved firing mechanism, few breaks are made from earlier models, with handling, loading, and operation typically following earlier bolt-action rifles." #NT!
- infantry_equipment_3: "Infantry Equipment IV" #NT!
- infantry_equipment_3_short: "Infantry Eq. IV" #NT!
- infantry_equipment_3_desc: "Infantry rifle design developed from the ground-up with modern technology and with modern infantry tactics in mind. Assault Rifles and Battle Rifles, equipped with selective-fire capability, allow the infantryman to fill multiple roles with a single rifle. Intermediate cartridges, detachable magazines, folding stocks, and other design features are included in order to maximize firepower and handling, while minimizing weight for the individual soldier." #NT!
+ infantry_equipment_0: "Пехотное снаряжение I"
+ infantry_equipment_0_short: "Пехотное снар. I"
+ infantry_equipment_0_desc: "Ранняя модель пехотной магазинной винтовки, разработанная в годы, предшествовавшие Великой войне и во время неё. Эта ранняя модель обычно имеет полноразмерный ствол и ряд устаревших элементов, таких как прицелы для залповой стрельбы и отключаемые магазины. Длинный ствол и длинный штык делают такое оружие неудобным в ближнем бою и непрактичным для вспомогательных войск."
+ infantry_equipment_1: "Пехотное снаряжение II"
+ infantry_equipment_1_short: "Пехотное снар. II"
+ infantry_equipment_1_desc: "Улучшенная модель магазинной винтовки, разработанная в годы после Великой войны. Опираясь на опыт современной промышленной войны, эта конструкция обычно имеет более удобный размер «короткой винтовки» с более коротким штыком для снижения веса и улучшения управляемости. Устаревшие элементы устранены и заменены более современной эргономикой и более качественным изготовлением."
+ infantry_equipment_2: "Пехотное снаряжение III"
+ infantry_equipment_2_short: "Пехотное снар. III"
+ infantry_equipment_2_desc: "Усовершенствованная пехотная винтовка с новой полуавтоматической автоматикой. Спроектированная для использования энергии выстрела для перезарядки, эта конструкция устраняет необходимость ручного перезаряжания, позволяя производить более быстрые повторные выстрелы и, следовательно, обеспечивать больший объём точного огня. Помимо улучшенного механизма, конструкция мало отличается от более ранних моделей, а управление, заряжание и эксплуатация обычно соответствуют более ранним винтовкам с продольно-скользящим затвором."
+ infantry_equipment_3: "Пехотное снаряжение IV"
+ infantry_equipment_3_short: "Пехотное снар. IV"
+ infantry_equipment_3_desc: "Конструкция пехотной винтовки, разработанная с нуля с учётом современных технологий и тактики. Штурмовые и боевые винтовки с возможностью ведения огня очередями позволяют пехотинцу выполнять несколько задач с одной винтовкой. Промежуточные патроны, отъёмные магазины, складные приклады и другие конструктивные особенности включены для максимизации огневой мощи и удобства обращения при минимизации веса для отдельного солдата."
   
  infantry_weapons2: "Улучшенное пехотное снаряжение I"
- infantry_weapons2_desc: "Early model of submachine guns, as well as semi-modern repeating sidearms. Supplemented by improved infantry webbing and other auxiliary gear, designed to improve the offensive combat capability of soldiers." #NT!
+ infantry_weapons2_desc: "Ранняя модель пистолетов-пулемётов, а также полуавтоматические пистолеты. Дополнена улучшенной пехотной амуницией и другим вспомогательным снаряжением, предназначенным для повышения наступательных возможностей солдат."
  improved_infantry_weapons_2: "Улучшенное пехотное снаряжение II"
- improved_infantry_weapons_2_desc: "Further-developed submachine gun model, utilizing modern materials and manufacturing; more advanced automatic pistols for officers and auxiliary troops. Better gear is issued out to troops, including knives & bayonets, as well as improved infantry uniforms and better-standardised ammunition." #NT!
+ improved_infantry_weapons_2_desc: "Дальнейшая разработка пистолета-пулемёта с использованием современных материалов и технологий производства; более совершенные автоматические пистолеты для офицеров и вспомогательных войск. Войска получают лучшее снаряжение, включая ножи и штыки, а также улучшенную униформу и лучше стандартизированные боеприпасы."
  advanced_infantry_weapons2: "Улучшенное пехотное снаряжение III"
- advanced_infantry_weapons2_desc: "Modernized, cheaply-manufactured submachine gun designed to be distributed as widely as possible. Modern supplemental arms such as carbines and compact pistols provide additional firepower to support and headquarters personnel. Modern infantry uniforms and gear allow for better use of existing weaponry." #NT!
+ advanced_infantry_weapons2_desc: "Модернизированный, дешёвый в производстве пистолет-пулемёт, предназначенный для максимально широкого распространения. Современное вспомогательное оружие, такое как карабины и компактные пистолеты, обеспечивает дополнительную огневую мощь для личного состава поддержки и штабов. Современная униформа и снаряжение позволяют лучше использовать имеющееся оружие."
   
  infantry_at: "Пехотное противотанковое оружие I"
- infantry_at_desc: "Infantry-portable anti-tank weaponry, designed to supplement company-level anti-tank weapons, and to provide anti-tank capabilities in situations where company-level weapons are inaccessible. These early models rely on well-tested technology, propelling hardened solid projectiles at ultra-high velocities in order to achieve penetration." #NT!
+ infantry_at_desc: "Переносное пехотное противотанковое оружие, предназначенное для усиления ротных противотанковых средств и обеспечения противотанковых возможностей в ситуациях, когда ротное оружие недоступно. Эти ранние модели используют проверенную технологию, разгоняя твёрдые снаряды на сверхвысоких скоростях для достижения пробития."
  infantry_at2: "Пехотное противотанковое оружие II"
- infantry_at2_desc: "More modernised infantry-portable anti-tank weaponry. Capable of providing powerful anti-materiel capabilities to infantrymen, using shaped charges, high-explosive rounds, and recoilless propulsion systems. Capable of delivering better armor penetration and engaging better-armored vehicles." #NT!
+ infantry_at2_desc: "Более модернизированное переносное пехотное противотанковое оружие. Способное обеспечить пехотинцев мощными средствами поражения материальной части, используя кумулятивные заряды, фугасные снаряды и безоткатные системы. Обеспечивает лучшее пробитие брони и борьбу с более бронированными машинами."
   
- night_vision_desc: "Early prototype for an infrared night sight, utilizing a specialized infrared-sensitive electron tube. This model's low sensitivity requires the additional mounting of a large, heavy infrared illumination lamp, limiting its effectiveness and allowing its use only with stationary weapons or very specialized troops." #NT!
- night_vision2_desc: "Developed prototype for a standardised infrared night sight. While still limited to an infrared imaging tube, advancements in manufacture and refinement of the technology has improved portability and efficacy. While still impractical for general use, these models are extremely well-suited to platoon-scale weaponry such as machine guns and infantry launchers." #NT!
+ night_vision_desc: "Ранний прототип инфракрасного ночного прицела, использующий специализированную инфракрасную электронную трубку. Низкая чувствительность этой модели требует дополнительной установки большого и тяжёлого инфракрасного осветителя, что ограничивает её эффективность и позволяет использовать её только со стационарным оружием или очень специализированными войсками."
+ night_vision2_desc: "Разработанный прототип стандартизированного инфракрасного ночного прицела. Хотя он всё ещё ограничен инфракрасной трубкой, достижения в производстве и совершенствовании технологии улучшили портативность и эффективность. Хотя они всё ещё непрактичны для массового использования, эти модели чрезвычайно хорошо подходят для оружия взводного уровня, такого как пулемёты и пехотные гранатомёты."
   
  support_weapons: "Оружие огневой поддержки I"
- support_weapons_desc: "Early model of medium or light machine gun model, usually with limited portability, developed during the Great War. Joined by an infantry mortar model designed during and before the Great War, these form the backbone of the infantry's defensive armaments." #NT!
+ support_weapons_desc: "Ранняя модель среднего или лёгкого пулемёта, обычно с ограниченной переносимостью, разработанная во время Великой войны. Вместе с миномётом, разработанным до и во время Великой войны, они составляют основу оборонительного вооружения пехоты."
  support_weapons2: "Оружие огневой поддержки II"
- support_weapons2_desc: "Light machine gun model, improved since the Great War for easy carry and operation by two- or three-man teams. Improved mortar model, also designed with infantry portability in mind. Both designs greatly improve the maneuverability of infantry on the defensive, further improving capabilities when resisting attack." #NT!
+ support_weapons2_desc: "Модель лёгкого пулемёта, улучшенная со времён Великой войны для удобной переноски и обслуживания расчётами из двух-трёх человек. Улучшенная модель миномёта, также разработанная с учётом пехотной переносимости. Обе конструкции значительно повышают манёвренность пехоты в обороне, дополнительно улучшая возможности при отражении атак."
  support_weapons3: "Оружие огневой поддержки III"
- support_weapons3_desc: "Light and/or general-purpose machine gun model, with improved handling features like a quick-change barrel and a better bipod, allowing flexible and durable use. Improved mortar ammunition with better propellants and stronger explosives, designed to upgrade the capabilities of existing infantry mortars. These improvements on existing designs further upgrade the ability of infantry to mount effective defense." #NT!
+ support_weapons3_desc: "Модель лёгкого и/или единого пулемёта с улучшенными характеристиками, такими как быстросменный ствол и улучшенная сошка, обеспечивающая гибкое и надёжное применение. Улучшенные миномётные боеприпасы с лучшими метательными зарядами и более мощной взрывчаткой, предназначенные для модернизации существующих пехотных миномётов. Эти улучшения существующих конструкций ещё больше повышают способность пехоты вести эффективную оборону."
  support_weapons4: "Оружие огневой поддержки IV"
- support_weapons4_desc: "Modernized infantry machine gun model, designed to be cheap, rugged, and reliable, while iterating upon previous design innovations. Modern mortar ammunition with superior range and explosive potential.\nSupport weapon designs here approach the apex of what improvements can be made without radically rethinking the organization and equipment of infantry units." #NT!
+ support_weapons4_desc: "Модернизированная модель пехотного пулемёта, спроектированная как дешёвая, надёжная и неприхотливая, с развитием предыдущих конструкторских решений. Современные миномётные боеприпасы с улучшенной дальностью и взрывной мощью.\nКонструкции оружия поддержки здесь приближаются к пику возможных улучшений без радикального пересмотра организации и оснащения пехотных подразделений."
   
  motorized_equipment: "Грузовик"
- motorized_equipment_desc: "Transport for the carrying of troops, transporting of supplies, and general improvement of logistics." #NT!
- motorized_equipment_0_short: "Motorised I" #NT!
- motorized_equipment_0: "Motorised Equipment I" #NT!
- motorized_equipment_0_desc: "One of the first internal combustion powered transport vehicles, developed in the years leading up to and following the Great War. While superior to horse-drawn transportation, this model lacks standardised controls and construction, making it inefficient and inconsistent for military use." #NT!
- motorized_equipment_1_short: "Motorised II" #NT!
- motorized_equipment_1: "Motorised Equipment II" #NT!
- motorized_equipment_1_desc: "Fully-standardised model of truck, developed in the 1930s. These models of truck take advantage of modern large-scale industrial methods, making them far superior to earlier examples." #NT!
+ motorized_equipment_desc: "Транспорт для перевозки войск, снабжения и общего улучшения логистики."
+ motorized_equipment_0_short: "Моториз. I"
+ motorized_equipment_0: "Моторизированное снаряжение I"
+ motorized_equipment_0_desc: "Один из первых транспортных средств с двигателем внутреннего сгорания, разработанный в годы, предшествовавшие Великой войне и после неё. Хотя он превосходит гужевой транспорт, эта модель не имеет стандартизированных органов управления и конструкции, что делает её неэффективной и непостоянной для военного использования."
+ motorized_equipment_1_short: "Моториз. II"
+ motorized_equipment_1: "Моторизированное снаряжение II"
+ motorized_equipment_1_desc: "Полностью стандартизированная модель грузовика, разработанная в 1930-х годах. Эти модели грузовиков используют преимущества современных крупномасштабных промышленных методов, что делает их намного превосходящими более ранние образцы."
   
- mechanized_equipment: "Mechanised" #NT!
- mechanized_equipment_short: "Mechanised" #NT!
- mechanized_equipment_desc: "Transport, designed for the carrying of troops, transporting of supplies, and general improvement of logistics, while providing adequate armor protection against small arms fire and light ordnance." #NT!
+ mechanized_equipment: "Бронетранспортёры"
+ mechanized_equipment_short: "Бронетранспортёры"
+ mechanized_equipment_desc: "Транспорт, предназначенный для перевозки войск, снабжения и общего улучшения логистики, обеспечивающий адекватную броневую защиту от стрелкового оружия и лёгких снарядов."
   
- mechanized_equipment_1: "Mechanised Equipment I" #NT!
- mechanized_equipment_1_short: "Mechanised I" #NT!
- mechanized_equipment_1_desc: "Early model of mechanized transport vehicle, adapted from existing truck chassis by adding auxiliary armor, and typically adding either tracks or improved suspension. Suitable for providing infantry adequate protection to fight alongside tank companies." #NT!
- mechanized_equipment_2: "Mechanised Equipment II" #NT!
- mechanized_equipment_2_short: "Mechanised II" #NT!
- mechanized_equipment_2_desc: "A better-constructed purpose-designed model of armored infantry carrier. Features a fully-enclosed crew compartment with hardened running gear and engine compartment, in order to better protect against small arms fire. Better-suited for combat alongside heavier tank models." #NT!
- mechanized_equipment_3: "Mechanised Equipment III" #NT!
- mechanized_equipment_3_short: "Mechanised III" #NT!
- mechanized_equipment_3_desc: "A modern model of armored personnel carrier, with hard armor plating and better-optimized running gear. Modern drivetrain design enables this vehicle to maintain operational speeds comparable to unarmored trucks." #NT!
+ mechanized_equipment_1: "Бронетранспортёры I"
+ mechanized_equipment_1_short: "Бронетранспортёры I"
+ mechanized_equipment_1_desc: "Ранняя модель механизированного транспортного средства, адаптированная из существующего шасси грузовика путём добавления вспомогательной брони и обычно с добавлением гусениц или улучшенной подвески. Подходит для обеспечения пехоты адекватной защитой для боя вместе с танковыми ротами."
+ mechanized_equipment_2: "Бронетранспортёры II"
+ mechanized_equipment_2_short: "Бронетранспортёры II"
+ mechanized_equipment_2_desc: "Лучше сконструированная специализированная модель бронированного транспортера пехоты. Имеет полностью закрытое отделение для экипажа с усиленной ходовой частью и моторным отсеком для лучшей защиты от стрелкового оружия. Лучше подходит для боя с более тяжёлыми танками."
+ mechanized_equipment_3: "Бронетранспортёры III"
+ mechanized_equipment_3_short: "Бронетранспортёры III"
+ mechanized_equipment_3_desc: "Современная модель бронетранспортёра с усиленной броней и оптимизированной ходовой частью. Современная конструкция трансмиссии позволяет этому транспортному средству поддерживать оперативную скорость, сравнимую с небронированными грузовиками."
   
- motorbike_equipment: "Bike Equipment" #NT!
- motorbike_equipment_short: "Bike Equipment" #NT!
- motorbike_equipment_desc: "From the humble Pedal Bicycle to the modern Motorcycle, 'Bikes' or 'Cycles' are two-wheeled transport vehicles designed to transport one man, and sometimes a passenger in a sidecar. Bikes are more economical and more compact than automobiles, and the standard Bicycle can operate on man power alone, making them flexible and cheap vehicles for infantry and support personnel." #NT!
+ motorbike_equipment: "Мотоциклетное снаряжение"
+ motorbike_equipment_short: "Мотоциклетное снаряжение"
+ motorbike_equipment_desc: "От скромного велосипеда до современного мотоцикла — «велосипеды» или «циклы» — это двухколёсные транспортные средства, предназначенные для перевозки одного человека, а иногда и пассажира в коляске. Велосипеды более экономичны и компактны, чем автомобили, а стандартный велосипед может приводиться в движение мускульной силой, что делает их гибким и дешёвым транспортным средством для пехоты и вспомогательного персонала."
   
- motorbike_equipment_0: "Bicycle Equipment" #NT!
- motorbike_equipment_0_short: "Bicycle" #NT!
- motorbike_equipment_0_desc: "The Bicycle has remained largely unchanged since the first chain-driven upright bicycle invented around 1885. Powered entirely by manpower, Bicycles require no fuel, are cheap to manufacture, are only slightly slower than a horse, and can traverse a wider variety of terrain than full-sized automobiles." #NT!
+ motorbike_equipment_0: "Велосипедное снаряжение"
+ motorbike_equipment_0_short: "Велосипед"
+ motorbike_equipment_0_desc: "Велосипед оставался практически неизменным с момента изобретения первого велосипеда с цепным приводом около 1885 года. Приводимый исключительно мускульной силой, велосипед не требует топлива, дёшев в производстве, лишь немного медленнее лошади и может передвигаться по более разнообразной местности, чем полноразмерные автомобили."
   
- motorbike_equipment_1: "Motorcycle Equipment" #NT!
- motorbike_equipment_1_short: "Motorcycle" #NT!
- motorbike_equipment_1_desc: "The Motorcycle is a small two-wheeled bike powered by a small gasoline (or sometimes kerosene) motor, designed to carry a man over long distances and on a variety of terrain. While not as cheap or light as a pedalled Bicycle, the Motorcycle can transport troops faster and further, and combines many of the best features of the Bicycle and the Automobile." #NT!
+ motorbike_equipment_1: "Мотоциклетное снаряжение"
+ motorbike_equipment_1_short: "Мотоцикл"
+ motorbike_equipment_1_desc: "Мотоцикл — это небольшое двухколёсное транспортное средство, приводимое в движение небольшим бензиновым (или иногда керосиновым) двигателем, предназначенное для перевозки человека на большие расстояния и по различной местности. Хотя он не такой дешёвый и лёгкий, как велосипед, мотоцикл может перевозить войска быстрее и дальше, сочетая многие лучшие качества велосипеда и автомобиля."
   
  armored_car_equipment: "Бронемашина"
- armored_car_equipment_desc: "Light-weight armoured wheeled vehicle. Common for reconnaissance and military policing, the Armored Car attempts to bridge the gap between tanks and unarmored trucks, by utilizing light armor for protection while sacrificing the off-road capability of a fully-tracked vehicle." #NT!
- gw_armored_car_equipment: "Armored Car I" #NT!
- gw_armored_car_equipment_desc: "During the Great War, the first armored combat vehicles were civilian and industrial automobiles outfitted with commercial steel armor plating, sometimes with a turret affixed to the top. This model is a direct descendant of the original wartime Armored Car, and features handling comparable to most Great War automobiles." #NT!
- armored_car_equipment_1: "Armored Car II" #NT!
- armored_car_equipment_1_desc: "An improved model of Armored Car, designed from the ground up for reconnaissance and anti-partisan duties. Newer models of Armored Car often feature dual drive, as well as improved offroad handling, making them remarkably maneuverable in open terrain." #NT!
- armored_car_equipment_2: "Armored Car III" #NT!
- armored_car_equipment_2_desc: "A more advanced model of Armored Car. Features heavier and better-designed armor, giving it protection comparable to most light tanks. Armed with a heavier gun, in a purpose-build turret, with more modern controls and construction." #NT!
+ armored_car_equipment_desc: "Лёгкое бронированное колёсное транспортное средство. Обычно используется для разведки и военной полиции, бронемашина пытается заполнить пробел между танками и небронированными грузовиками, используя лёгкую броню для защиты, жертвуя при этом проходимостью полноценного гусеничного транспорта."
+ gw_armored_car_equipment: "Бронемашина I"
+ gw_armored_car_equipment_desc: "Во время Великой войны первые бронированные боевые машины были гражданскими и промышленными автомобилями, обшитыми коммерческой стальной бронёй, иногда с установленной сверху башней. Эта модель является прямым потомком оригинальной военной бронемашины и имеет управляемость, сравнимую с большинством автомобилей Великой войны."
+ armored_car_equipment_1: "Бронемашина II"
+ armored_car_equipment_1_desc: "Улучшенная модель бронемашины, спроектированная с нуля для разведки и борьбы с партизанами. Новые модели бронемашин часто имеют двухосный привод, а также улучшенную проходимость по бездорожью, что делает их примечательно манёвренными на открытой местности."
+ armored_car_equipment_2: "Бронемашина III"
+ armored_car_equipment_2_desc: "Более совершенная модель бронемашины. Имеет более тяжёлую и лучше спроектированную броню, обеспечивающую защиту, сравнимую с большинством лёгких танков. Вооружена более тяжёлым орудием в специально сконструированной башне, с более современными органами управления и конструкцией."
  armored_car_at_equipment: "Противотанковая бронемашина"
- armored_car_at_equipment_desc: "Built on a modernised armored car chassis, this model of armored car provides light reconnaissance units anti-armor weapons that are quicker to deploy, and better-protected than truck-drawn anti-tank guns." #NT!
+ armored_car_at_equipment_desc: "Построенная на модернизированном шасси бронемашины, эта модель обеспечивает лёгкие разведывательные подразделения противотанковым оружием, которое быстрее развёртывается и лучше защищено, чем буксируемые противотанковые орудия."
   
   ##Armor Tab 
- gw_tank_equipment: "Great War-era Tank" #NT!
- gw_tank_equipment_short: "Great War-era Tank" #NT!
- gw_tank_equipment_desc: "An early model of tank, developed during the late stages of the Great War. Typically adapted from early tractor suspension and armored with very basic, light steel plates, and equipped with an early, low-power engine. Because of its limited power and heavy weight, it is typically only capable of carrying light weaponry, usually either an infantry gun or machine gun." #NT!
+ gw_tank_equipment: "Танк эпохи Первой мировой"
+ gw_tank_equipment_short: "Танк Первой мировой"
+ gw_tank_equipment_desc: "Ранняя модель танка, разработанная на поздних этапах Первой мировой войны. Обычно адаптирована из ранней тракторной подвески и бронирована очень простыми лёгкими стальными листами, оснащена ранним маломощным двигателем. Из-за ограниченной мощности и большого веса обычно способна нести только лёгкое вооружение, обычно либо пехотное орудие, либо пулемёт."
   
  light_tank_equipment: "Легкий танк"
- light_tank_equipment_desc: "A small, agile model of tank designed for reconnaissance and scouting duties, typically lightly armored and equipped with light weaponry." #NT!
+ light_tank_equipment_desc: "Небольшая, манёвренная модель танка, предназначенная для разведки и дозорных задач, обычно легко бронированная и оснащённая лёгким вооружением."
  light_tank_equipment_1: "Легкий танк I"
  light_tank_equipment_1_short: "Легк. танк I"
- light_tank_equipment_1_desc: "$light_tank_equipment_desc$" #NT!
+ light_tank_equipment_1_desc: "$light_tank_equipment_desc$"
  light_tank_equipment_2: "Легкий танк II"
  light_tank_equipment_2_short: "Легк. танк II"
- light_tank_equipment_2_desc: "$light_tank_equipment_desc$" #NT!
+ light_tank_equipment_2_desc: "$light_tank_equipment_desc$"
  light_tank_equipment_3: "Легкий танк III"
  light_tank_equipment_3_short: "Легк. танк III"
- light_tank_equipment_3_desc: "$light_tank_equipment_desc$" #NT!
+ light_tank_equipment_3_desc: "$light_tank_equipment_desc$"
   
  light_tank_artillery_equipment: "Легкая САУ"
- light_tank_artillery_equipment_desc: "A light tank chassis armed with an artillery gun for close support duties. Typically, armor is sacrificed in order to free up weight for the heavier gun, and the crew compartment is usually open-topped in order to create the necessary space to load and operate the gun, resulting in a less survivable vehicle." #NT!
+ light_tank_artillery_equipment_desc: "Шасси лёгкого танка, вооружённое артиллерийским орудием для непосредственной поддержки. Обычно броней жертвуют для освобождения веса под более тяжёлое орудие, а отделение экипажа обычно открыто сверху для создания необходимого пространства для заряжания и обслуживания орудия, что снижает живучесть машины."
  light_tank_artillery_equipment_1: "Легкая САУ I"
  light_tank_artillery_equipment_1_short: "Легк. САУ I"
- light_tank_artillery_equipment_1_desc: "$light_tank_artillery_equipment_desc$" #NT!
+ light_tank_artillery_equipment_1_desc: "$light_tank_artillery_equipment_desc$"
  light_tank_artillery_equipment_2: "Легкая САУ II"
  light_tank_artillery_equipment_2_short: "Легк. САУ II"
- light_tank_artillery_equipment_2_desc: "$light_tank_artillery_equipment_desc$" #NT!
+ light_tank_artillery_equipment_2_desc: "$light_tank_artillery_equipment_desc$"
  light_tank_artillery_equipment_3: "Легкая САУ III"
  light_tank_artillery_equipment_3_short: "Легк. САУ III"
- light_tank_artillery_equipment_3_desc: "$light_tank_artillery_equipment_desc$" #NT!
+ light_tank_artillery_equipment_3_desc: "$light_tank_artillery_equipment_desc$"
   
  light_tank_destroyer_equipment: "Легкая ПТ-установка"
  light_tank_destroyer_equipment_short: "Легкая ПТ"
- light_tank_destroyer_equipment_desc: "A light tank chassis armed with a high-velocity cannon designed to penetrate heavier-armored vehicles. While smaller anti-tank guns can be implemented with fewer changes, larger anti-tank guns, with larger calibers and longer barrels, require significant compromises on the chassis and armor." #NT!
+ light_tank_destroyer_equipment_desc: "Шасси лёгкого танка, вооружённое скорострельной пушкой, предназначенной для пробития более тяжёлой брони. В то время как меньшие противотанковые орудия можно устанавливать с меньшими изменениями, более крупные противотанковые орудия с большим калибром и более длинным стволом требуют значительных компромиссов в шасси и броне."
  light_tank_destroyer_equipment_1: "Легкая ПТ-установка I"
  light_tank_destroyer_equipment_1_short: "Легк. ПТ I"
- light_tank_destroyer_equipment_1_desc: "$light_tank_destroyer_equipment_desc$" #NT!
+ light_tank_destroyer_equipment_1_desc: "$light_tank_destroyer_equipment_desc$"
  light_tank_destroyer_equipment_2: "Легкая ПТ-установка II"
  light_tank_destroyer_equipment_2_short: "Легк. ПТ II"
- light_tank_destroyer_equipment_2_desc: "$light_tank_destroyer_equipment_desc$" #NT!
+ light_tank_destroyer_equipment_2_desc: "$light_tank_destroyer_equipment_desc$"
  light_tank_destroyer_equipment_3: "Легкая ПТ-установка III"
  light_tank_destroyer_equipment_3_short: "Легк. ПТ III"
- light_tank_destroyer_equipment_3_desc: "$light_tank_destroyer_equipment_desc$" #NT!
+ light_tank_destroyer_equipment_3_desc: "$light_tank_destroyer_equipment_desc$"
   
  light_tank_aa_equipment: "Легкая ЗСУ"
- light_tank_aa_equipment_desc: "A light tank chassis equipped with a swivelling mount, equipped with machine guns or automatic cannons for anti-air defense. Because the anti-air mount requires a lot of free space to adjust traverse and elevation, the turret must be redesigned or eliminated entirely, and compromises must be made on armor." #NT!
+ light_tank_aa_equipment_desc: "Шасси лёгкого танка, оснащённое поворотной установкой с пулемётами или автоматическими пушками для противовоздушной обороны. Поскольку зенитная установка требует много свободного места для изменения наведения и возвышения, башню необходимо перепроектировать или убрать, и приходится жертвовать бронёй."
  light_tank_aa_equipment_1: "Легкая ЗСУ I"
  light_tank_aa_equipment_1_short: "Легк. ЗСУ I"
- light_tank_aa_equipment_1_desc: "$light_tank_aa_equipment_desc$" #NT!
+ light_tank_aa_equipment_1_desc: "$light_tank_aa_equipment_desc$"
  light_tank_aa_equipment_2: "Легкая ЗСУ II"
  light_tank_aa_equipment_2_short: "Легк. ЗСУ II"
- light_tank_aa_equipment_2_desc: "$light_tank_aa_equipment_desc$" #NT!
+ light_tank_aa_equipment_2_desc: "$light_tank_aa_equipment_desc$"
  light_tank_aa_equipment_3: "Легкая ЗСУ III"
  light_tank_aa_equipment_3_short: "Легк. ЗСУ III"
- light_tank_aa_equipment_3_desc: "$light_tank_aa_equipment_desc$" #NT!
+ light_tank_aa_equipment_3_desc: "$light_tank_aa_equipment_desc$"
   
  medium_tank_equipment: "Средний танк"
- medium_tank_equipment_desc: "A flexible, all-around model of tank designed to maintain a balance of speed, armor, and armament. Typically, they are more suited to regular flontline combat thank other tank types, because they are both well armored and armed enough to be effective in battlefield conditions, but are also fast enough to rapidly redeploy where needed." #NT!
+ medium_tank_equipment_desc: "Гибкая, универсальная модель танка, предназначенная для поддержания баланса скорости, брони и вооружения. Обычно они лучше подходят для регулярных фронтальных боёв, чем другие типы танков, поскольку они хорошо бронированы и достаточно вооружены для эффективности в боевых условиях, но также достаточно быстры для быстрого переразвёртывания."
  medium_tank_equipment_1: "Средний танк I"
  medium_tank_equipment_1_short: "Ср. танк I"
- medium_tank_equipment_1_desc: "$medium_tank_equipment_desc$" #NT!
+ medium_tank_equipment_1_desc: "$medium_tank_equipment_desc$"
  medium_tank_equipment_2: "Средний танк II"
  medium_tank_equipment_2_short: "Ср. танк II"
- medium_tank_equipment_2_desc: "$medium_tank_equipment_desc$" #NT!
+ medium_tank_equipment_2_desc: "$medium_tank_equipment_desc$"
  medium_tank_equipment_3: "Средний танк III"
  medium_tank_equipment_3_short: "Ср. танк III"
- medium_tank_equipment_3_desc: "$medium_tank_equipment_desc$" #NT!
+ medium_tank_equipment_3_desc: "$medium_tank_equipment_desc$"
   
  medium_tank_artillery_equipment: "Средняя САУ"
  medium_tank_artillery_equipment_short: "СР. САУ"
- medium_tank_artillery_equipment_desc: "A medium tank chassis armed with an artillery gun or howitzer, for both close support and indirect fire support. Typically, armor is sacrificed in order to free up weight for the heavier gun, and the crew compartment is usually open-topped in order to create the necessary space to load and operate the gun, resulting in a less survivable vehicle." #NT!
+ medium_tank_artillery_equipment_desc: "Шасси среднего танка, вооружённое артиллерийским орудием или гаубицей для непосредственной и непрямой огневой поддержки. Обычно броней жертвуют для освобождения веса под более тяжёлое орудие, а отделение экипажа обычно открыто сверху для создания необходимого пространства для заряжания и обслуживания орудия, что снижает живучесть машины."
  medium_tank_artillery_equipment_1: "Средняя САУ I"
  medium_tank_artillery_equipment_1_short: "Ср. САУ I"
- medium_tank_artillery_equipment_1_desc: "$medium_tank_artillery_equipment_desc$" #NT!
+ medium_tank_artillery_equipment_1_desc: "$medium_tank_artillery_equipment_desc$"
  medium_tank_artillery_equipment_2: "Средняя САУ II"
  medium_tank_artillery_equipment_2_short: "Ср. САУ II"
- medium_tank_artillery_equipment_2_desc: "$medium_tank_artillery_equipment_desc$" #NT!
+ medium_tank_artillery_equipment_2_desc: "$medium_tank_artillery_equipment_desc$"
  medium_tank_artillery_equipment_3: "Средняя САУ III"
  medium_tank_artillery_equipment_3_short: "Ср. САУ III"
- medium_tank_artillery_equipment_3_desc: "$medium_tank_artillery_equipment_desc$" #NT!
+ medium_tank_artillery_equipment_3_desc: "$medium_tank_artillery_equipment_desc$"
   
  medium_tank_destroyer_equipment: "Средняя ПТ-установка"
  medium_tank_destroyer_equipment_short: "Средняя ПТ"
- medium_tank_destroyer_equipment_desc: "A medium tank chassis armed with a high-velocity cannon designed to penetrate heavier-armored vehicles. While most medium tanks are already equipped with respectable anti-armor capabilities, by making compromises on armor and crew arrangement, an even heavier anti-tank gun is incorporated, providing the ability to penetrate even very heavily-armored vehicles and light fortifications." #NT!
+ medium_tank_destroyer_equipment_desc: "Шасси среднего танка, вооружённое скорострельной пушкой, предназначенной для пробития более тяжёлой брони. Хотя большинство средних танков уже оснащены достойными противотанковыми возможностями, за счёт компромиссов в броне и компоновке экипажа можно установить ещё более тяжёлое противотанковое орудие, обеспечивающее возможность пробития даже очень сильно бронированных машин и лёгких укреплений."
  medium_tank_destroyer_equipment_1: "Средняя ПТ-установка I"
  medium_tank_destroyer_equipment_1_short: "Ср. ПТ I"
- medium_tank_destroyer_equipment_1_desc: "$medium_tank_destroyer_equipment_desc$" #NT!
+ medium_tank_destroyer_equipment_1_desc: "$medium_tank_destroyer_equipment_desc$"
  medium_tank_destroyer_equipment_2: "Средняя ПТ-установка II"
  medium_tank_destroyer_equipment_2_short: "Ср. ПТ II"
- medium_tank_destroyer_equipment_2_desc: "$medium_tank_destroyer_equipment_desc$" #NT!
+ medium_tank_destroyer_equipment_2_desc: "$medium_tank_destroyer_equipment_desc$"
  medium_tank_destroyer_equipment_3: "Средняя ПТ-установка III"
  medium_tank_destroyer_equipment_3_short: "Ср. ПТ III"
- medium_tank_destroyer_equipment_3_desc: "$medium_tank_destroyer_equipment_desc$" #NT!
+ medium_tank_destroyer_equipment_3_desc: "$medium_tank_destroyer_equipment_desc$"
   
  medium_tank_aa_equipment: "Средняя ЗСУ"
- medium_tank_aa_equipment_desc: "A medium tank chassis equipped with a swivelling mount, equipped with machine guns or automatic cannons for anti-air defense. Because the anti-air mount requires a lot of free space to adjust traverse and elevation, the turret must be redesigned or eliminated entirely, and compromises must be made on armor." #NT!
+ medium_tank_aa_equipment_desc: "Шасси среднего танка, оснащённое поворотной установкой с пулемётами или автоматическими пушками для противовоздушной обороны. Поскольку зенитная установка требует много свободного места для изменения наведения и возвышения, башню необходимо перепроектировать или убрать, и приходится жертвовать бронёй."
  medium_tank_aa_equipment_1: "Средняя ЗСУ I"
  medium_tank_aa_equipment_1_short: "Ср. ЗСУ I"
- medium_tank_aa_equipment_1_desc: "$medium_tank_aa_equipment_desc$" #NT!
+ medium_tank_aa_equipment_1_desc: "$medium_tank_aa_equipment_desc$"
  medium_tank_aa_equipment_2: "Средняя ЗСУ II"
  medium_tank_aa_equipment_2_short: "Ср. ЗСУ II"
- medium_tank_aa_equipment_2_desc: "$medium_tank_aa_equipment_desc$" #NT!
+ medium_tank_aa_equipment_2_desc: "$medium_tank_aa_equipment_desc$"
  medium_tank_aa_equipment_3: "Средняя ЗСУ III"
  medium_tank_aa_equipment_3_short: "Ср. ЗСУ III"
- medium_tank_aa_equipment_3_desc: "$medium_tank_aa_equipment_desc$" #NT!
+ medium_tank_aa_equipment_3_desc: "$medium_tank_aa_equipment_desc$"
   
  heavy_tank_equipment: "Тяжелый танк"
- heavy_tank_equipment_desc: "A large, heavy, heavily-armored tank for specialized breakthrough roles. While capable of carrying a very large gun and extremely well-armored, this model of tank makes sacrifices in maneuverability and speed in order to maximize protection and firepower." #NT!
+ heavy_tank_equipment_desc: "Крупный, тяжёлый, тяжелобронированный танк для специализированных ролей прорыва. Хотя он способен нести очень большое орудие и чрезвычайно хорошо бронирован, эта модель жертвует манёвренностью и скоростью ради максимальной защиты и огневой мощи."
  heavy_tank_equipment_1: "Тяжелый танк I"
  heavy_tank_equipment_1_short: "Тяж. танк I"
- heavy_tank_equipment_1_desc: "$heavy_tank_equipment_desc$" #NT!
+ heavy_tank_equipment_1_desc: "$heavy_tank_equipment_desc$"
  heavy_tank_equipment_2: "Тяжелый танк II"
  heavy_tank_equipment_2_short: "Тяж. танк II"
- heavy_tank_equipment_2_desc: "$heavy_tank_equipment_desc$" #NT!
+ heavy_tank_equipment_2_desc: "$heavy_tank_equipment_desc$"
  heavy_tank_equipment_3: "Тяжелый танк III"
  heavy_tank_equipment_3_short: "Тяж. танк III"
- heavy_tank_equipment_3_desc: "$heavy_tank_equipment_desc$" #NT!
+ heavy_tank_equipment_3_desc: "$heavy_tank_equipment_desc$"
   
  heavy_tank_artillery_equipment: "Тяжелая САУ"
- heavy_tank_artillery_equipment_desc: "A heavy tank chassis armed with a heavy howitzer, optimized for indirect fire support. While a chassis of this size is required to carry the heavy armament, its relegation to the duties of heavy artillery support allow sacrifices in armor and manueverability more acceptable." #NT!
+ heavy_tank_artillery_equipment_desc: "Шасси тяжёлого танка, вооружённое тяжёлой гаубицей, оптимизированной для непрямой огневой поддержки. Хотя шасси такого размера требуется для перевозки тяжёлого вооружения, его использование в качестве тяжёлой артиллерийской поддержки позволяет более приемлемо жертвовать бронёй и манёвренностью."
  heavy_tank_artillery_equipment_1: "Тяжелая САУ I"
  heavy_tank_artillery_equipment_1_short: "Тяж. САУ I"
- heavy_tank_artillery_equipment_1_desc: "$heavy_tank_artillery_equipment_desc$" #NT!
+ heavy_tank_artillery_equipment_1_desc: "$heavy_tank_artillery_equipment_desc$"
  heavy_tank_artillery_equipment_2: "Тяжелая САУ II"
  heavy_tank_artillery_equipment_2_short: "Тяж. САУ II"
- heavy_tank_artillery_equipment_2_desc: "$heavy_tank_artillery_equipment_desc$" #NT!
+ heavy_tank_artillery_equipment_2_desc: "$heavy_tank_artillery_equipment_desc$"
  heavy_tank_artillery_equipment_3: "Тяжелая САУ III"
  heavy_tank_artillery_equipment_3_short: "Тяж. САУ III"
- heavy_tank_artillery_equipment_3_desc: "$heavy_tank_artillery_equipment_desc$" #NT!
+ heavy_tank_artillery_equipment_3_desc: "$heavy_tank_artillery_equipment_desc$"
   
  heavy_tank_destroyer_equipment: "Тяжелая ПТ-установка"
  heavy_tank_destroyer_equipment_short: "Тяжелая ПТ"
- heavy_tank_destroyer_equipment_desc: "A heavy tank chassis armed with a massive antitank gun. Because this model of armored vehicle is designed to destroy other heavily-armored vehicles, this tank destroyer maintains its heavy armor, while making sacrifices in speed, crew organization, and maneuverability." #NT!
+ heavy_tank_destroyer_equipment_desc: "Шасси тяжёлого танка, вооружённое массивным противотанковым орудием. Поскольку эта модель бронированной машины предназначена для уничтожения других тяжелобронированных машин, этот истребитель танков сохраняет тяжёлую броню, жертвуя скоростью, организацией экипажа и манёвренностью."
  heavy_tank_destroyer_equipment_1: "Тяжелая ПТ-установка I"
  heavy_tank_destroyer_equipment_1_short: "Тяж. ПТ I"
- heavy_tank_destroyer_equipment_1_desc: "$heavy_tank_destroyer_equipment_desc$" #NT!
+ heavy_tank_destroyer_equipment_1_desc: "$heavy_tank_destroyer_equipment_desc$"
  heavy_tank_destroyer_equipment_2: "Тяжелая ПТ-установка II"
  heavy_tank_destroyer_equipment_2_short: "Тяж. ПТ II"
- heavy_tank_destroyer_equipment_2_desc: "$heavy_tank_destroyer_equipment_desc$" #NT!
+ heavy_tank_destroyer_equipment_2_desc: "$heavy_tank_destroyer_equipment_desc$"
  heavy_tank_destroyer_equipment_3: "Тяжелая ПТ-установка III"
  heavy_tank_destroyer_equipment_3_short: "Тяж. ПТ III"
- heavy_tank_destroyer_equipment_3_desc: "$heavy_tank_destroyer_equipment_desc$" #NT!
+ heavy_tank_destroyer_equipment_3_desc: "$heavy_tank_destroyer_equipment_desc$"
   
  heavy_tank_aa_equipment: "Тяжелая ЗСУ"
- heavy_tank_aa_equipment_desc: "A powerful anti-air armament mounted on a heavy chassis." #NT!
+ heavy_tank_aa_equipment_desc: "Мощное зенитное вооружение на тяжёлом шасси."
  heavy_tank_aa_equipment_1: "Тяжелая ЗСУ I"
  heavy_tank_aa_equipment_1_short: "Тяж. ЗСУ I"
- heavy_tank_aa_equipment_1_desc: "A powerful anti-air armament mounted on a heavy chassis." #NT!
+ heavy_tank_aa_equipment_1_desc: "Мощное зенитное вооружение на тяжёлом шасси."
  heavy_tank_aa_equipment_2: "Тяжелая ЗСУ II"
  heavy_tank_aa_equipment_2_short: "Тяж. ЗСУ II"
- heavy_tank_aa_equipment_2_desc: "A powerful anti-air armament mounted on a heavy chassis." #NT!
+ heavy_tank_aa_equipment_2_desc: "Мощное зенитное вооружение на тяжёлом шасси."
  heavy_tank_aa_equipment_3: "Тяжелая ЗСУ III"
  heavy_tank_aa_equipment_3_short: "Тяж. ЗСУ III"
- heavy_tank_aa_equipment_3_desc: "A powerful anti-air armament mounted on a heavy chassis." #NT!
+ heavy_tank_aa_equipment_3_desc: "Мощное зенитное вооружение на тяжёлом шасси."
   
  super_heavy_tank_equipment: "Сверхтяжелый танк"
- super_heavy_tank_equipment_desc: "An evolution of the heavy tank, the Super Heavy Tank scales up all aspects of its smaller predecessor in order to maximize armor and armament to the greatest extent possible. In return, it is even slower, even less manueverable, and begins to encounter problems with even the most basic of infrastructure, being incapable of crossing most areas of soft ground and most bridges, and possessing a pernicious habit of destroying roads it crosses." #NT!
+ super_heavy_tank_equipment_desc: "Эволюция тяжёлого танка, Сверхтяжёлый танк увеличивает все аспекты своего меньшего предшественника для максимального увеличения брони и вооружения. В ответ он становится ещё медленнее, ещё менее манёвренным и начинает испытывать проблемы даже с самой базовой инфраструктурой, будучи неспособным пересекать большинство участков мягкого грунта и большинство мостов, а также имеет пагубную привычку разрушать дороги, по которым проходит."
  super_heavy_tank_equipment_1: "Сверхтяжелый танк"
  super_heavy_tank_equipment_1_short: "Сверхтяж. танк"
- super_heavy_tank_equipment_1_desc: "$super_heavy_tank_equipment_desc$" #NT!
+ super_heavy_tank_equipment_1_desc: "$super_heavy_tank_equipment_desc$"
   
  super_heavy_tank_artillery_equipment: "Сверхтяж. САУ"
- super_heavy_tank_artillery_equipment_desc: "A Super Heavy Tank chassis armed with a heavy artillery gun. Despite its indirect fire role ameliorating some of its worst weaknesses, there exist few artillery guns which benefit from such a massive chassis." #NT!
+ super_heavy_tank_artillery_equipment_desc: "Шасси Сверхтяжёлого танка, вооружённое тяжёлым артиллерийским орудием. Несмотря на то, что его роль непрямой огневой поддержки смягчает некоторые из его худших недостатков, существует мало артиллерийских орудий, которые выигрывают от такого массивного шасси."
  super_heavy_tank_artillery_equipment_1: "Сверхтяжелая САУ"
  super_heavy_tank_artillery_equipment_1_short: "Сверхтяж. САУ"
- super_heavy_tank_artillery_equipment_1_desc: "$super_heavy_tank_artillery_equipment_desc$" #NT!
+ super_heavy_tank_artillery_equipment_1_desc: "$super_heavy_tank_artillery_equipment_desc$"
   
  super_heavy_tank_destroyer_equipment: "Сверхтяжелая ПТ-установка"
  super_heavy_tank_destroyer_equipment_short: "Сверхтяж. ПТ-установка"
- super_heavy_tank_destroyer_equipment_desc: "A massive naval cannon mounted on a Super Heavy Tank chassis. Capable of annihilating anything unfortunate enough to get within firing range, this vehicle nonetheless suffers from a dearth of good opportunities to prove useful in combat, owing to its extremely poor performance and reliability." #NT!
+ super_heavy_tank_destroyer_equipment_desc: "Массивное корабельное орудие, установленное на шасси Сверхтяжёлого танка. Способное уничтожить всё, что окажется в пределах досягаемости, эта машина тем не менее страдает от недостатка хороших возможностей проявить себя в бою из-за своей крайне низкой производительности и надёжности."
  super_heavy_tank_destroyer_equipment_1: "Сверхтяжелая ПТ-установка"
  super_heavy_tank_destroyer_equipment_1_short: "Сверхтяж. ПТ"
- super_heavy_tank_destroyer_equipment_1_desc: "$super_heavy_tank_destroyer_equipment_desc$" #NT!
+ super_heavy_tank_destroyer_equipment_1_desc: "$super_heavy_tank_destroyer_equipment_desc$"
   
  super_heavy_tank_aa_equipment: "Сверхтяжелая ЗСУ"
- super_heavy_tank_aa_equipment_desc: "A Super Heavy Tank chassis armed with a large-caliber anti-air gun. Despite its defensive anti-air role ameliorating some of its worst weaknesses, there exist few anti-air guns which benefit from such a massive chassis." #NT!
- super_heavy_tank_aa_equipment_1: "Super Heavy SP Anti-Air" #NT!
+ super_heavy_tank_aa_equipment_desc: "Шасси Сверхтяжёлого танка, вооружённое крупнокалиберным зенитным орудием. Несмотря на то, что его оборонительная зенитная роль смягчает некоторые из его худших недостатков, существует мало зенитных орудий, которые выигрывают от такого массивного шасси."
+ super_heavy_tank_aa_equipment_1: "Сверхтяжелая ЗСУ"
  super_heavy_tank_aa_equipment_1_short: "Сверхтяж. ЗСУ"
- super_heavy_tank_aa_equipment_1_desc: "$super_heavy_tank_aa_equipment_desc$" #NT!
+ super_heavy_tank_aa_equipment_1_desc: "$super_heavy_tank_aa_equipment_desc$"
   
  modern_tank_equipment: "Основной танк"
- modern_tank_equipment_desc: "A modern development of the medium tank, the modern tank, which comes to be referred to as the Main Battle Tank, combines advances in engine technology with improvements in armor production, allowing speed comparable to previous medium tanks, while carryign armor and armaments more comparable to previous heavy tanks." #NT!
+ modern_tank_equipment_desc: "Современное развитие среднего танка, современный танк, который впоследствии получил название «Основной боевой танк», сочетает достижения в двигателестроении с улучшениями в производстве брони, обеспечивая скорость, сравнимую с предыдущими средними танками, при этом неся броню и вооружение, сравнимое с предыдущими тяжёлыми танками."
  modern_tank_equipment_1: "Основной танк"
  modern_tank_equipment_1_short: "Осн. танк"
- modern_tank_equipment_1_desc: "$modern_tank_equipment_desc$" #NT!
+ modern_tank_equipment_1_desc: "$modern_tank_equipment_desc$"
   
  modern_tank_artillery_equipment: "Современная САУ"
- modern_tank_artillery_equipment_desc: "A modern model of self-propelled artillery, improved with developments in ballistics and armor technology. Typically optimized for firepower, this model is capable of carrying a heavy howitzer while still maintaining respectable cross-country speed." #NT!
+ modern_tank_artillery_equipment_desc: "Современная модель самоходной артиллерии, улучшенная достижениями в баллистике и броневых технологиях. Обычно оптимизированная для огневой мощи, эта модель способна нести тяжёлую гаубицу, сохраняя при этом приличную скорость по бездорожью."
  modern_tank_artillery_equipment_1: "Современная САУ"
  modern_tank_artillery_equipment_1_short: "Соврем. САУ"
- modern_tank_artillery_equipment_1_desc: "$modern_tank_artillery_equipment_desc$" #NT!
+ modern_tank_artillery_equipment_1_desc: "$modern_tank_artillery_equipment_desc$"
   
  modern_tank_destroyer_equipment: "Современная ПТ-установка"
- modern_tank_destroyer_equipment_desc: "A heavy anti-tank gun equipped on a modern chassis. Because of advancements in armor and engine technologies, this Modern Tank Destroyer is very capable in a stand-up fight against even a very modern tank." #NT!
+ modern_tank_destroyer_equipment_desc: "Тяжёлое противотанковое орудие, установленное на современном шасси. Благодаря достижениям в броневых и двигательных технологиях, этот современный истребитель танков очень эффективен в прямом бою даже против самых современных танков."
  modern_tank_destroyer_equipment_1: "Современная ПТ-установка"
  modern_tank_destroyer_equipment_1_short: "Соврем. ПТ"
- modern_tank_destroyer_equipment_1_desc: "$modern_tank_destroyer_equipment_desc$" #NT!
+ modern_tank_destroyer_equipment_1_desc: "$modern_tank_destroyer_equipment_desc$"
   
- modern_tank_aa_equipment: "Modern SP Anti-Air" #NT!
- modern_tank_aa_equipment_desc: "A modern tank chassis armed with either a very heavy anti-air cannon, or a very maneuverable array of anti-air automatic cannons. Despite needing a fast-traversing turret to fire effectively at airborne targets, advancements in engineering ensure that fewer sacrifices in armor are made than earlier anti-air mounts." #NT!
+ modern_tank_aa_equipment: "Современная ЗСУ"
+ modern_tank_aa_equipment_desc: "Современное шасси танка, вооружённое либо очень тяжёлой зенитной пушкой, либо очень манёвренной батареей зенитных автоматических пушек. Несмотря на необходимость быстровращающейся башни для эффективной стрельбы по воздушным целям, достижения в инженерии обеспечивают меньшие потери в броне по сравнению с более ранними зенитными установками."
  modern_tank_aa_equipment_1: "Современная ЗСУ"
  modern_tank_aa_equipment_1_short: "Соврем. ЗСУ"
- modern_tank_aa_equipment_1_desc: "$modern_tank_aa_equipment_desc$" #NT!
+ modern_tank_aa_equipment_1_desc: "$modern_tank_aa_equipment_desc$"
   
   ##Artillery Tab 
   
- anti_air_equipment: "Towed Anti-Air" #NT!
- anti_air_equipment_short: "Anti-Air" #NT!
- anti_air_equipment_desc: "An swivelling mount armed with one or more cannons, often of the fast-firing automatic variety, designed for shooting down fast-moving air targets." #NT!
+ anti_air_equipment: "Буксируемое орудие ПВО"
+ anti_air_equipment_short: "ПВО"
+ anti_air_equipment_desc: "Поворотная установка, вооружённая одним или несколькими орудиями, часто скорострельными автоматическими, предназначенными для поражения быстродвижущихся воздушных целей."
   
  anti_tank_equipment: "Буксируемое орудие ПТО"
  anti_tank_equipment_short: "ПТО"
- anti_tank_equipment_desc: "A towed mount armed with a high-velocity cannon, designed for shooting at and penetrating heavily-armored ground targets." #NT!
+ anti_tank_equipment_desc: "Буксируемая установка, вооружённая скорострельной пушкой, предназначенной для стрельбы по тяжелобронированным наземным целям и их пробития."
   
   
   
  artillery_equipment: "Буксируемая артиллерия"
  artillery_equipment_short: "Артиллерия"
- artillery_equipment_desc: "Large-caliber, crew-served weapons, designed to be towed by horse or automobile, in order to provide heavy fire support to fighting units." #NT!
+ artillery_equipment_desc: "Крупнокалиберное оружие, обслуживаемое расчётом, предназначенное для буксировки лошадьми или автомобилями для обеспечения тяжёлой огневой поддержки боевым подразделениям."
   
  rocket_artillery_equipment: "Буксируемая реактивная артиллерия"
  rocket_artillery_equipment_short: "Ракеты"
- rocket_artillery_equipment_desc: "A variety of artillery which employs the use of rocket-propelled munitions. While capable of a very fast short-term fire rate and delivering a larger payload than traditional artillery, it is nonetheless far more inaccurate, and has a far lower sustained rate of fire." #NT!
+ rocket_artillery_equipment_desc: "Разновидность артиллерии, использующая реактивные снаряды. Хотя она обеспечивает очень высокий темп стрельбы на короткое время и может доставлять больший заряд, чем традиционная артиллерия, она гораздо менее точна и имеет гораздо меньший темп стрельбы."
   
- artillery_equipment_1_short: "Artillery I" #NT!
- artillery_equipment_1: "Artillery I" #NT!
- artillery_equipment_1_desc: "A very basic model of artillery gun developed before or during the Great War. While relatively primitive at its core design, this model of gun is still very capable on the battlefield, being based on well-understood technology and proving extremely reliable for sustained use." #NT!
- artillery_equipment_2_short: "Artillery II" #NT!
- artillery_equipment_2: "Artillery II" #NT!
- artillery_equipment_2_desc: "A newer model of artillery piece which fully incorporates advances in weapons technology. Employing a more sophistocated reloading action, more modern ammuntion, and a better-mobile carriage, this model improves in every way on previous artillery models." #NT!
- artillery_equipment_3_short: "Artillery III" #NT!
- artillery_equipment_3: "Artillery III" #NT!
- artillery_equipment_3_desc: "A modern model of artillery piece which is designed to deliver a devastating payload of explosive at extreme ranges. A modern semi-automatic action and stabilized carriage allows this artillery gun to deliver fast follow-up shots that stay on target, greatly increasing the effectivity of bombardments." #NT!
+ artillery_equipment_1_short: "Артиллерия I"
+ artillery_equipment_1: "Артиллерия I"
+ artillery_equipment_1_desc: "Очень базовая модель артиллерийского орудия, разработанная до или во время Великой войны. Хотя её базовая конструкция относительно примитивна, эта модель орудия всё ещё очень эффективна на поле боя, основана на хорошо изученной технологии и чрезвычайно надёжна при длительном использовании."
+ artillery_equipment_2_short: "Артиллерия II"
+ artillery_equipment_2: "Артиллерия II"
+ artillery_equipment_2_desc: "Новая модель артиллерийского орудия, полностью учитывающая достижения в технологии оружия. Используя более совершенный механизм перезарядки, более современные боеприпасы и лучшую мобильную установку, эта модель превосходит предыдущие во всех отношениях."
+ artillery_equipment_3_short: "Артиллерия III"
+ artillery_equipment_3: "Артиллерия III"
+ artillery_equipment_3_desc: "Современная модель артиллерийского орудия, предназначенная для доставки разрушительного взрывчатого заряда на предельные расстояния. Современный полуавтоматический механизм и стабилизированная установка позволяют этому орудию вести быстрые повторные выстрелы с сохранением точности, что значительно повышает эффективность бомбардировок."
   
- rocket_artillery_equipment_1_short: "Rocket Artillery I" #NT!
- rocket_artillery_equipment_1: "Rocket Artillery I" #NT!
+ rocket_artillery_equipment_1_short: "Реактивная артиллерия I"
+ rocket_artillery_equipment_1: "Реактивная артиллерия I"
  rocket_artillery_equipment_1_desc: "Реактивная артиллерия менее точна и скорострельна, чем традиционные орудия, однако недостатки окупаются эффектом от одновременного попадания нескольких ракет в цель."
- rocket_artillery_equipment_2_short: "Rocket Artillery II" #NT!
- rocket_artillery_equipment_2: "Rocket Artillery II" #NT!
- rocket_artillery_equipment_2_desc: "Spin-stabilised rockets, increasing the range of lighter artillery batteries." #NT!
+ rocket_artillery_equipment_2_short: "Реактивная артиллерия II"
+ rocket_artillery_equipment_2: "Реактивная артиллерия II"
+ rocket_artillery_equipment_2_desc: "Стабилизированные вращением ракеты, увеличивающие дальность действия лёгких артиллерийских батарей."
   
- anti_air_equipment_1_short: "Anti-Air Gun I" #NT!
- anti_air_equipment_1: "Anti-Air Gun I" #NT!
- anti_air_equipment_1_desc: "An artillery piece, typically automatic or semi-automatic, mounted on a swiveling carriage. While developed and deployed primarily for anti-aircraft duties, this model is suitable for limited direct-fire use against infantry and lightly-armored ground vehicles as well." #NT!
- anti_air_equipment_2_short: "Anti-Air Gun II" #NT!
- anti_air_equipment_2: "Anti-Air Gun II" #NT!
- anti_air_equipment_2_desc: "A later model of anti-aircraft gun developed in response to the rapid improvement of aircraft armor. Typically employing larger-caliber shells and/or with better armor-piercing projectiles, this model is also reasonably effective against light and medium tanks." #NT!
- anti_air_equipment_3_short: "Anti-Air Gun III" #NT!
- anti_air_equipment_3: "Anti-Air Gun III" #NT!
- anti_air_equipment_3_desc: "A modern model of anti-aircraft gun, designed to take down larger and more well-armored aircraft. Due to the larger caliber and more advanced ammunition, this model is very capable of serving as a multirole anti-air and anti-tank gun." #NT!
+ anti_air_equipment_1_short: "Зенитное орудие I"
+ anti_air_equipment_1: "Зенитное орудие I"
+ anti_air_equipment_1_desc: "Артиллерийское орудие, обычно автоматическое или полуавтоматическое, установленное на поворотной установке. Разработанное и применяемое в основном для противовоздушной обороны, эта модель также подходит для ограниченного применения прямой наводкой против пехоты и легкобронированных наземных машин."
+ anti_air_equipment_2_short: "Зенитное орудие II"
+ anti_air_equipment_2: "Зенитное орудие II"
+ anti_air_equipment_2_desc: "Поздняя модель зенитного орудия, разработанная в ответ на быстрое улучшение бронирования самолётов. Обычно использующая снаряды большего калибра и/или с лучшими бронебойными снарядами, эта модель также достаточно эффективна против лёгких и средних танков."
+ anti_air_equipment_3_short: "Зенитное орудие III"
+ anti_air_equipment_3: "Зенитное орудие III"
+ anti_air_equipment_3_desc: "Современная модель зенитного орудия, предназначенная для поражения более крупных и лучше бронированных самолётов. Благодаря большему калибру и более совершенным боеприпасам, эта модель очень эффективна как многоцелевое зенитное и противотанковое орудие."
   
- anti_tank_equipment_1_short: "Anti-Tank Gun I" #NT!
- anti_tank_equipment_1: "Anti-Tank Gun I" #NT!
- anti_tank_equipment_1_desc: "Adopted from the earlier Great War-era "infantry gun", this artillery piece is a small, mobile gun able to be towed by light vehicles and horses, for the purpose of penetrating armored vehicles that are otherwise protected against heavy machine gun and rifle rounds.\nDue to its small caliber and low rate of fire, it has limited usefulness except as an anti-armor weapon." #NT!
+ anti_tank_equipment_1_short: "Противотанковое орудие I"
+ anti_tank_equipment_1: "Противотанковое орудие I"
+ anti_tank_equipment_1_desc: "Заимствованное из ранней «пехотной пушки» эпохи Великой войны, это артиллерийское орудие представляет собой небольшую мобильную пушку, которую можно буксировать лёгкими автомобилями и лошадьми для пробития бронированных машин, которые иначе защищены от огня тяжёлых пулемётов и винтовок.\nИз-за своего малого калибра и низкой скорострельности оно имеет ограниченное применение, кроме как противотанковое оружие."
   
- anti_tank_equipment_2_short: "Anti-Tank Gun II" #NT!
- anti_tank_equipment_2: "Anti-Tank Gun II" #NT!
- anti_tank_equipment_2_desc: "Developed in response to improvements in armored vehicles, this model of anti-tank gun adapts by employing a larger caliber shell, with improved material and design technologies employed in more effective shells. Additional innovations such as squeeze-bore breeches and quick-loading actions further improve combat effectiveness." #NT!
+ anti_tank_equipment_2_short: "Противотанковое орудие II"
+ anti_tank_equipment_2: "Противотанковое орудие II"
+ anti_tank_equipment_2_desc: "Разработанная в ответ на улучшения бронированных машин, эта модель противотанкового орудия адаптируется за счёт использования снарядов большего калибра с улучшенными материалами и технологиями проектирования для более эффективных снарядов. Дополнительные инновации, такие как конические стволы и механизмы быстрой перезарядки, дополнительно повышают боевую эффективность."
   
- anti_tank_equipment_3_short: "Anti-Tank Gun III" #NT!
- anti_tank_equipment_3: "Anti-Tank Gun III" #NT!
- anti_tank_equipment_3_desc: "Combining different kinds of new ammunition technology with a higher muzzle velocity design, this anti-tank gun employs the largest bore diameter which can be reasonably carried on a towed mount, in order to maximize penetration against more heavily-armored vehicles." #NT!
+ anti_tank_equipment_3_short: "Противотанковое орудие III"
+ anti_tank_equipment_3: "Противотанковое орудие III"
+ anti_tank_equipment_3_desc: "Сочетая различные типы новых боеприпасов с конструкцией более высокой начальной скорости, это противотанковое орудие использует наибольший калибр, который можно разумно перевозить на буксируемой установке, для максимизации пробития более тяжелобронированных машин."
   
- gw_artillery: "$artillery_equipment_1_short$" #NT!
+ gw_artillery: "$artillery_equipment_1_short$"
   
   
   
@@ -357,18 +357,18 @@
   
  amphibious_mechanized_equipment: "Десантные машины-амфибии"
  amphibious_mechanized_equipment_short: "Амфибии"
- amphibious_mechanized_equipment_desc: "Typically requiring a purpose-built chassis due to the need to be bouyant and water-tight, the Amphibious Tractor builds on previous APC designs by allowing Marine and Naval infantry to land on beaches and make river crossings while protected by light armor." #NT!
+ amphibious_mechanized_equipment_desc: "Обычно требующее специально сконструированного шасси из-за необходимости быть плавучим и водонепроницаемым, десантное гусеничное транспортное средство развивает предыдущие конструкции БТР, позволяя морской пехоте высаживаться на пляжи и пересекать реки, будучи защищённой лёгкой бронёй."
   
- amphibious_mechanized_equipment_1: "Amphibious Tractor I" #NT!
- amphibious_mechanized_equipment_1_short: "Amtrac I" #NT!
- amphibious_mechanized_equipment_1_desc: "Typically requiring a purpose-built chassis due to the need to be bouyant and water-tight, the Amphibious Tractor builds on previous APC designs by allowing Marine and Naval infantry to land on beaches and make river crossings while protected by light armor. Its fuel efficiency and speed is typically poor, but it is superior to unarmored landing boats for combat use." #NT!
- amphibious_mechanized_equipment_2: "Amphibious Tractor II" #NT!
- amphibious_mechanized_equipment_2_short: "Amtrac II" #NT!
- amphibious_mechanized_equipment_2_desc: "An improved model of Amphibious Tractor with combat performance more in-line with other APC models. Possesses improved armor, improved speed and handling, and better amphibious capabilities." #NT!
+ amphibious_mechanized_equipment_1: "Десантный тягач I"
+ amphibious_mechanized_equipment_1_short: "Дес. тягач I"
+ amphibious_mechanized_equipment_1_desc: "Обычно требующее специально сконструированного шасси из-за необходимости быть плавучим и водонепроницаемым, десантное гусеничное транспортное средство развивает предыдущие конструкции БТР, позволяя морской пехоте высаживаться на пляжи и пересекать реки, будучи защищённой лёгкой бронёй. Его топливная эффективность и скорость обычно невысоки, но оно превосходит небронированные десантные катера для боевого использования."
+ amphibious_mechanized_equipment_2: "Десантный тягач II"
+ amphibious_mechanized_equipment_2_short: "Дес. тягач II"
+ amphibious_mechanized_equipment_2_desc: "Улучшенная модель десантного гусеничного транспортного средства с боевыми характеристиками, более соответствующими другим моделям БТР. Обладает улучшенной бронёй, улучшенной скоростью и управляемостью, а также лучшими амфибийными возможностями."
   
  amphibious_tank_equipment: "Плавающие танки"
  amphibious_tank_equipment_short: "Плавающие танки"
- amphibious_tank_equipment_desc: "Typically built on either a purpose-built or adapted light tank chassis, the Amphibious Tank is a type of tank which is designed to be able to cross areas of (typically only shallow) water, being equipped with a bouyant hull, watertight compartments, and some form of aquatic propulsion (typically a propeller)." #NT!
+ amphibious_tank_equipment_desc: "Обычно построенный на специально сконструированном или адаптированном шасси лёгкого танка, плавающий танк — это тип танка, который способен пересекать участки (обычно только мелкой) воды, будучи оснащённым плавучим корпусом, водонепроницаемыми отсеками и некоторой формой водного движителя (обычно гребным винтом)."
  light_tank_amphibious_chassis: "Легкие плавающие танки"
  light_tank_amphibious_chassis_short: "Легк. плав. танки"
  medium_tank_amphibious_chassis: "Средние плавающие танки"
@@ -377,12 +377,12 @@
  heavy_tank_amphibious_chassis_short: "Тяж. плав. танки"
   
   
- amphibious_tank_equipment_1: "Amphibious Tank I" #NT!
- amphibious_tank_equipment_1_short: "Amphib. Tank I" #NT!
- amphibious_tank_equipment_1_desc: "An amphibious light tank, typically built on either a purpose-built or adapted light tank chassis. This Amphibious Tank is designed to be able to cross areas of shallow water, and is equipped with a bouyant hull, watertight compartments, and a basic form of aquatic propulsion." #NT!
- amphibious_tank_equipment_2: "Amphibious Tank II" #NT!
- amphibious_tank_equipment_2_short: "Amphib. Tank II" #NT!
- amphibious_tank_equipment_2_desc: "A more sophistocated implementation of the Amphibious Tank idea. Heavier, and adapted from a more standardised tank chassis, this model takes advantage of modern materials to employ collapsible or removable amphibious gear, and utilizes rubber gaskets and other mechanical seals in order to allow for a larger, heavier tank design that is still able to cross areas of water." #NT!
+ amphibious_tank_equipment_1: "Плавающий танк I"
+ amphibious_tank_equipment_1_short: "Плав. танк I"
+ amphibious_tank_equipment_1_desc: "Плавающий лёгкий танк, обычно построенный на специально сконструированном или адаптированном шасси лёгкого танка. Этот плавающий танк способен пересекать участки мелкой воды и оснащён плавучим корпусом, водонепроницаемыми отсеками и базовой формой водного движителя."
+ amphibious_tank_equipment_2: "Плавающий танк II"
+ amphibious_tank_equipment_2_short: "Плав. танк II"
+ amphibious_tank_equipment_2_desc: "Более совершенная реализация идеи плавающего танка. Более тяжёлая и адаптированная из более стандартизированного шасси танка, эта модель использует современные материалы для применения складывающегося или съёмного амфибийного оборудования, а также резиновые прокладки и другие механические уплотнения для создания более крупной и тяжёлой конструкции танка, способной пересекать водные преграды."
   
   ###Flamey bois - just the defaults here 
   
@@ -423,7 +423,7 @@
  sp_land_military_engineering_vehicles: "Военные инженерные машины"
  sp_land_military_engineering_vehicles_desc: "Специализированные транспортные средства для повышения мобильности на поле боя, строительства укреплений и разминирования препятствий в боевых условиях."
  armored_support_vehicle: "Бронированная машина обеспечения"
- armored_support_vehicle_desc: "A model of armored vehicle, typically adapted from a light or medium tank chassis, with its main armament replaced with specialized engineering gear." #NT!
+ armored_support_vehicle_desc: "Модель бронированной машины, обычно адаптированной из шасси лёгкого или среднего танка, с заменой основного вооружения на специализированное инженерное оборудование."
   
  armored_support_vehicle_1: "Бронированная машина обеспечения"
   
@@ -433,71 +433,71 @@
   
  light_tank_land_cruiser_equipment: "Легкий сухопутный крейсер"
      ###Super-Heavy Art 
- sp_land_super_heavy_howitzer: "Super-Heavy Artillery" #NT!
- sp_land_super_heavy_howitzer_desc: "Dating back to the Great War, Super-Heavy Artillery are guns designed for seige and fortification-busting roles, which boast an effective range and explosive payload which far exceeds standard artillery guns. In exchange for this awesome firepower, Super-Heavy Artillery are typically orders of magnitude heavier and larger than can be carried by conventional trucks and tractors, and often must be broken down into multiple pieces for transport, and must be loaded by specialized loading vehicles." #NT!
- sp_land_self_propelled_super_heavy_howitzer: "Self-Propelled Super-Heavy Artillery" #NT!
- sp_land_self_propelled_super_heavy_howitzer_desc: "A model of Super-Heavy Artillery mounted on a self-propelled carriage. Compared to other conventional Self-Propelled Artillery, this vehicle makes extreme compromises on speed, maneuverability, and armor, instead achieving a minimum size and weight to effectively move the artillery piece for operational redeployment between battles." #NT!
+ sp_land_super_heavy_howitzer: "Сверхтяжелая артиллерия"
+ sp_land_super_heavy_howitzer_desc: "Восходящая к Великой войне, сверхтяжелая артиллерия представляет собой орудия, предназначенные для осадных и разрушительных ролей, обладающие эффективной дальностью и взрывным зарядом, значительно превосходящими стандартные артиллерийские орудия. В обмен на эту огромную огневую мощь сверхтяжелая артиллерия обычно на порядки тяжелее и больше, чем может быть перевезена обычными грузовиками и тягачами, и часто должна разбираться на несколько частей для транспортировки, а заряжание осуществляется специализированными транспортными средствами."
+ sp_land_self_propelled_super_heavy_howitzer: "Самоходная сверхтяжелая артиллерия"
+ sp_land_self_propelled_super_heavy_howitzer_desc: "Модель сверхтяжелой артиллерии, установленная на самоходную установку. По сравнению с другими обычными самоходными артиллерийскими установками, эта машина идёт на крайние компромиссы в скорости, манёвренности и броне, достигая минимального размера и веса для эффективного перемещения артиллерийского орудия для оперативного переразвёртывания между боями."
   
- super_heavy_artillery_equipment: "Super-Heavy Artillery" #NT!
- super_heavy_artillery_equipment_short: "SH. Artillery" #NT!
- super_heavy_artillery_equipment_desc: "$sp_land_super_heavy_howitzer_desc$" #NT!
- super_heavy_artillery_equipment_1: "$super_heavy_artillery_equipment$" #NT!
- super_heavy_artillery_equipment_1_short: "$super_heavy_artillery_equipment_short$" #NT!
- super_heavy_artillery_equipment_1_desc: "$super_heavy_artillery_equipment_desc$" #NT!
+ super_heavy_artillery_equipment: "Сверхтяжелая артиллерия"
+ super_heavy_artillery_equipment_short: "Св.-тяж. артиллерия"
+ super_heavy_artillery_equipment_desc: "$sp_land_super_heavy_howitzer_desc$"
+ super_heavy_artillery_equipment_1: "$super_heavy_artillery_equipment$"
+ super_heavy_artillery_equipment_1_short: "$super_heavy_artillery_equipment_short$"
+ super_heavy_artillery_equipment_1_desc: "$super_heavy_artillery_equipment_desc$"
   
- self_propelled_super_heavy_artillery_equipment: "Self-Propelled Super-Heavy Artillery" #NT!
- self_propelled_super_heavy_artillery_equipment_short: "SP. SH. Artillery" #NT!
- self_propelled_super_heavy_artillery_equipment_desc: "$sp_land_self_propelled_super_heavy_howitzer_desc$" #NT!
- self_propelled_super_heavy_artillery_equipment_1: "$self_propelled_super_heavy_artillery_equipment$" #NT!
- self_propelled_super_heavy_artillery_equipment_1_short: "$self_propelled_super_heavy_artillery_equipment_short$" #NT!
- self_propelled_super_heavy_artillery_equipment_1_desc: "$self_propelled_super_heavy_artillery_equipment_desc$" #NT!
+ self_propelled_super_heavy_artillery_equipment: "Самоходная сверхтяжелая артиллерия"
+ self_propelled_super_heavy_artillery_equipment_short: "Сам. св.-тяж. артиллерия"
+ self_propelled_super_heavy_artillery_equipment_desc: "$sp_land_self_propelled_super_heavy_howitzer_desc$"
+ self_propelled_super_heavy_artillery_equipment_1: "$self_propelled_super_heavy_artillery_equipment$"
+ self_propelled_super_heavy_artillery_equipment_1_short: "$self_propelled_super_heavy_artillery_equipment_short$"
+ self_propelled_super_heavy_artillery_equipment_1_desc: "$self_propelled_super_heavy_artillery_equipment_desc$"
      ###Super-Heavy Railway Gun 
  sp_land_super_heavy_railway_gun: "Сверхтяжелое железнодорожное орудие"
   
  super_heavy_railway_gun_equipment: "Сверхтяжелое железнодорожное орудие"
  super_heavy_railway_gun_equipment_short: "Св.-тяж. ж/д-орудие"
- super_heavy_railway_gun_equipment_desc: "Based on conventional heavy railway guns dating back to the Great War, this Super-Heavy Railway Gun is a more massive model of gun which requires a full-sized train, specialized loading vehicles, and a full supporting division to operate. In exchange, this gun boasts an absolutely unparalleled range for a ballistic artillery piece, being capable of firing at targets outside of the operational range of any other land-based unit." #NT!
- super_heavy_railway_gun_equipment_1: "$super_heavy_railway_gun_equipment$" #NT!
- super_heavy_railway_gun_equipment_1_short: "$super_heavy_railway_gun_equipment_short$" #NT!
- super_heavy_railway_gun_equipment_1_desc: "$super_heavy_railway_gun_equipment_desc$" #NT!
+ super_heavy_railway_gun_equipment_desc: "Основанное на обычных тяжёлых железнодорожных орудиях, восходящих к Великой войне, это сверхтяжёлое железнодорожное орудие представляет собой более массивную модель пушки, требующую полноразмерного поезда, специализированных транспортных средств для заряжания и целой дивизии поддержки для работы. В обмен это орудие обладает абсолютно беспрецедентной дальностью для баллистического артиллерийского орудия, будучи способным вести огонь по целям за пределами оперативной дальности любого другого наземного подразделения."
+ super_heavy_railway_gun_equipment_1: "$super_heavy_railway_gun_equipment$"
+ super_heavy_railway_gun_equipment_1_short: "$super_heavy_railway_gun_equipment_short$"
+ super_heavy_railway_gun_equipment_1_desc: "$super_heavy_railway_gun_equipment_desc$"
      ### 
  explosive_ammo_equipment: "$mega_gun_emplacement$"
  explosive_ammo_equipment_short: "$mega_gun_emplacement$"
- explosive_ammo_equipment_desc: "A high-explosive projectile that can be fired from a Large Calibre Multi-Charge Gun, capable of reaching targets at very long range." #NT!
+ explosive_ammo_equipment_desc: "Осколочно-фугасный снаряд, который можно выпускать из крупнокалиберного многозарядного орудия, способного поражать цели на очень большой дальности."
  explosive_ammo_equipment_1: "$mega_gun_emplacement$"
  explosive_ammo_equipment_1_short: "$mega_gun_emplacement$"
- explosive_ammo_equipment_1_desc: "$explosive_ammo_equipment_desc$" #NT!
+ explosive_ammo_equipment_1_desc: "$explosive_ammo_equipment_desc$"
   
  sp_land_land_cruiser: "Сухопутный крейсер"
- sp_land_land_cruiser_desc: "The concept of the "Land Cruiser" dates back to the early 1920s, where the British first developed the idea of the "Land Battleship", a massive, heavily-armored vehicle with armament and crew similar to the battleships of the sea. A massive, heavy, multi-turret, multi-gun vehicle, the Land Cruiser sports extreme armor and armaments, in exchange for requiring the most powerful engine and largest crew that can possibly be developed for a land vehicle. Marred with developmental issues and sometimes totally incapable of moving on conventional roads and bridges, the Land Cruiser nonetheless represents the pinnacle of armored vehicle ambition." #NT!
+ sp_land_land_cruiser_desc: "Концепция «сухопутного крейсера» восходит к началу 1920-х годов, когда британцы впервые разработали идею «сухопутного линкора» — массивной, тяжелобронированной машины с вооружением и экипажем, аналогичным морским линкорам. Массивная, тяжёлая, многобашенная, многопушечная машина, сухопутный крейсер обладает экстремальной бронёй и вооружением в обмен на необходимость самого мощного двигателя и самого большого экипажа, который только можно разработать для наземной машины. Страдая от проблем с разработкой и иногда полностью неспособная передвигаться по обычным дорогам и мостам, сухопутный крейсер тем не менее представляет собой вершину амбиций в области бронированных машин."
   
  land_cruiser_chassis: "Шасси сухопутного крейсера"
- land_cruiser_chassis_desc: "$sp_land_land_cruiser_desc$" #NT!
+ land_cruiser_chassis_desc: "$sp_land_land_cruiser_desc$"
  land_cruiser_chassis_1: "Шасси сухопутного крейсера"
   
  land_cruiser_equipment: "Сухопутный крейсер"
- land_cruiser_equipment_desc: "$sp_land_land_cruiser_desc$" #NT!
+ land_cruiser_equipment_desc: "$sp_land_land_cruiser_desc$"
  land_cruiser_equipment_1: "Сухопутный крейсер"
  land_cruiser_equipment_1_short: "Сухопутный крейсер"
- land_cruiser_equipment_1_desc: "$sp_land_land_cruiser_desc$" #NT!
+ land_cruiser_equipment_1_desc: "$sp_land_land_cruiser_desc$"
   
  helicopter_equipment: "Вертолет"
  helicopter_equipment_short: "Вертолет"
  helicopter_equipment_desc: "Летательный аппарат, который использует не крылья, а быстро вращающиеся винты. Он может зависать на месте и легко меняет высоту полёта."
- helicopter_equipment_1: "$helicopter_equipment$" #NT!
- helicopter_equipment_1_short: "$helicopter_equipment_short$" #NT!
- helicopter_equipment_1_desc: "$helicopter_equipment_desc$" #NT!
+ helicopter_equipment_1: "$helicopter_equipment$"
+ helicopter_equipment_1_short: "$helicopter_equipment_short$"
+ helicopter_equipment_1_desc: "$helicopter_equipment_desc$"
   
  strat_bomber_intercontinental_equipment: "Межконтинентальный бомбардировщик"
  strat_bomber_intercontinental_equipment_short: "МК-бомбардировщик"
  strat_bomber_intercontinental_equipment_desc: "Огромный самолет, специально разработанный для сверхдальних полётов. Позволяет осуществлять стратегические бомбардировки по всему континенту."
- strat_bomber_intercontinental_equipment_1: "$strat_bomber_intercontinental_equipment$" #NT!
- strat_bomber_intercontinental_equipment_1_short: "$strat_bomber_intercontinental_equipment_short$" #NT!
- strat_bomber_intercontinental_equipment_1_desc: "$strat_bomber_intercontinental_equipment_desc$" #NT!
+ strat_bomber_intercontinental_equipment_1: "$strat_bomber_intercontinental_equipment$"
+ strat_bomber_intercontinental_equipment_1_short: "$strat_bomber_intercontinental_equipment_short$"
+ strat_bomber_intercontinental_equipment_1_desc: "$strat_bomber_intercontinental_equipment_desc$"
   
  mothership_equipment: "Самолет-матка"
  mothership_equipment_short: "Самолет-матка"
  mothership_equipment_desc: "Очень большой самолет, способный перевозить на борту несколько истребителей, тем самым увеличивая радиус их действия по сравнению с обычными условиями. Авианосец неба."
- mothership_equipment_0: "$mothership_equipment$" #NT!
- mothership_equipment_0_short: "$mothership_equipment_short$" #NT!
- mothership_equipment_0_desc: "$mothership_equipment_desc$" #NT!
+ mothership_equipment_0: "$mothership_equipment$"
+ mothership_equipment_0_short: "$mothership_equipment_short$"
+ mothership_equipment_0_desc: "$mothership_equipment_desc$"

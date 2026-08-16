@@ -1,0 +1,70 @@
+﻿l_russian:
+
+### Country Names
+ NKR_vanguardist: "Корейская Народная Республика" # Korean People's Republic
+ NKR_vanguardist_ADJ: "корейский" # Korean
+ NKR_vanguardist_DEF: "Корейская Народно-Демократическая Республика" # the People's Democratic Republic of Korea
+ NKR_collectivist: "Корейская Народная Республика" # Korean People's Republic
+ NKR_collectivist_ADJ: "Корейская Народно-Демократическая Республика" # The People's Democratic Republic of Korea
+ NKR_collectivist_DEF: "корейский" # Korean
+ NKR_libertarian_socialist: "Корейская Народная Республика" # Korean People's Republic
+ NKR_libertarian_socialist_ADJ: "корейский" # Korean
+ NKR_libertarian_socialist_DEF: "Корейская Народно-Демократическая Республика" # the People's Democratic Republic of Korea
+ NKR_social_democrat: "Республика Корея" # Republic of Korea
+ NKR_social_democrat_ADJ: "Корея" # Korea
+ NKR_social_democrat_DEF: "Республика Корея" # the Republic of Korea
+ NKR_social_liberal: "Республика Корея" # Republic of Korea
+ NKR_social_liberal_ADJ: "Корея" # Korea
+ NKR_social_liberal_DEF: "Республика Корея" # the Republic of Korea
+ NKR_market_liberal: "Республика Корея" # Republic of Korea
+ NKR_market_liberal_ADJ: "Корея" # Korea
+ NKR_market_liberal_DEF: "Республика Корея" # the Republic of Korea
+ NKR_social_conservative: "Республика Корея" # Republic of Korea
+ NKR_social_conservative_ADJ: "Корея" # Korea
+ NKR_social_conservative_DEF: "Республика Корея" # the Republic of Korea
+ NKR_authoritarian_democrat: "Корейская Республика" # Korean Republic
+ NKR_authoritarian_democrat_ADJ: "корейский" # Korean
+ NKR_authoritarian_democrat_DEF: "Корейская Республика" # the Korean Republic
+ NKR_paternal_autocrat: "Корейская Республика" # Korean Republic
+ NKR_paternal_autocrat_ADJ: "корейский" # Korean
+ NKR_paternal_autocrat_DEF: "Корейская Республика" # the Korean Republic
+ NKR_national_populist: "Корейская Республика" # Korean Republic
+ NKR_national_populist_ADJ: "корейский" # Korean
+ NKR_national_populist_DEF: "Корейская Республика" # the Korean Republic
+ NKR_valkist: "Корейское государство" # Korean State
+ NKR_valkist_ADJ: "корейский" # Korean
+ NKR_valkist_DEF: "корейское государство" # the Korean State
+
+### POLITICAL PARTIES ###
+# 조선공산당
+# 조선인민당
+# 조선민주당
+# 자유당
+# 조선국민당
+
+
+### DESCRIPTION ###
+ NKR_FUHRERREICH_DESC: "Независимого корейского государства не существовало с тех пор, как в 1905 году был установлен японский протекторат. В 1936 году Корея все еще находится под контролем Японии, но растущие чувства национализма и антияпонских настроений грозят нарушить хрупкий баланс в регионе. Освободят ли корейцы себя или просто передадут господство от одной державы к другой, еще неизвестно, но Корейский полуостров наверняка увидит опустошение в ближайшие годы, несмотря ни на что." # An independent Korean state hasn't existed since the Japanese protectorate was established in 1905. In 1936 Korea still looms under the Japanese thumb, but increasing feelings of nationalism and anti-Japanese sentiment threatens to upset the delicate balance in the region. Whether the Koreans will liberate themselves or simply have overlordship transfered from one power to another remains to be seen, but the Korean peninsula is sure to see devestation in the years to come no matter what.
+
+###FOCUSES###
+
+### EVENTS ###
+
+ nkr.1.t: "Правительство Южной Кореи провоцирует пограничный спор!" # South Korean government provokes border dispute!
+ nkr.1.d: "Войска южнокорейского правительства недавно вторглись на нашу территорию вблизи западной прибрежной границы, явно с намерением проверить ситуацию, чтобы увидеть, сколько мы готовы терпеть. Советники из Советского Союза говорят, что мы должны стоять на своем и защищать прибрежные острова любой ценой, но наши военные считают, что мы еще не готовы к войне с нашими южными соседями." # Forces from the South Korean government have recently encorached upon our territory near the Western Coastal border, clearly with the intent of testing the waters to see how much we are willing to tollerate. Advisors from the Soviet Union say that we should stand our ground and defend the coastal islands at all costs, but our military staff believe that we are not yet ready for war with our Southern neighbors.
+ nkr.1.a: "Корея неделима!" # Korea is indivisible!
+ nkr.1.b: "Несколько прибрежных островов — это не то, из-за чего можно развязать глобальную ядерную войну." # A few coastal islands are nothing to start a global nuclear war over.
+
+### FLAGS ###
+
+###SPIRITS###
+
+###TOOLTIPS###
+
+###OPINION MODIFIERS###
+
+###FACTIONS###
+
+###MESSAGES###
+
+###MINISTERS###

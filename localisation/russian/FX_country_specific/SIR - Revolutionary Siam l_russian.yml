@@ -1,43 +1,43 @@
 ﻿l_russian:
-  
- ### Country Names 
- SIR_vanguardist: "United Workers' Provinces of Siam" #NT!
- SIR_vanguardist_ADJ: "Siamese" #NT!
- SIR_vanguardist_DEF: "the United Workers' Provinces of Siam" #NT!
- SIR_collectivist: "Confederated Socialist Republics of Siam" #NT!
- SIR_collectivist_ADJ: "Siamese" #NT!
- SIR_collectivist_DEF: "the Confederated Socialist Republics of Siam" #NT!
- SIR_libertarian_socialist: "Socialist Federative Republic of Siam" #NT!
- SIR_libertarian_socialist_ADJ: "Siamese" #NT!
- SIR_libertarian_socialist_DEF: "Socialist Federative Republic of Siam" #NT!
- SIR_social_democrat: "Kingdom of Siam" #NT!
- SIR_social_democrat_ADJ: "Siamese" #NT!
- SIR_social_democrat_DEF: "the Kingdom of Siam" #NT!
- SIR_social_liberal: "Kingdom of Siam" #NT!
- SIR_social_liberal_ADJ: "Siamese" #NT!
- SIR_social_liberal_DEF: "the Kingdom of Siam" #NT!
- SIR_market_liberal: "Kingdom of Siam" #NT!
- SIR_market_liberal_ADJ: "Siamese" #NT!
- SIR_market_liberal_DEF: "the Kingdom of Siam" #NT!
- SIR_social_conservative: "Kingdom of Siam" #NT!
- SIR_social_conservative_ADJ: "Siamese" #NT!
- SIR_social_conservative_DEF: "the Kingdom of Siam" #NT!
- SIR_authoritarian_democrat: "Kingdom of Siam" #NT!
- SIR_authoritarian_democrat_ADJ: "Siamese" #NT!
- SIR_authoritarian_democrat_DEF: "the Kingdom of Siam" #NT!
- SIR_paternal_autocrat: "Kingdom of Siam" #NT!
- SIR_paternal_autocrat_ADJ: "Siamese" #NT!
- SIR_paternal_autocrat_DEF: "the Kingdom of Siam" #NT!
- SIR_national_populist: "Kingdom of Siam" #NT!
- SIR_national_populist_ADJ: "Siamese" #NT!
- SIR_national_populist_DEF: "Most Serene Kingdom of Siam" #NT!
- SIR_valkist: "State of Siam" #NT!
- SIR_valkist_ADJ: "Siamese" #NT!
- SIR_valkist_DEF: "Greater Pantheon State of Siam" #NT!
-  
- SIR_liberation_gov_vanguardist: "Provisional People's Government of Siam" #NT!
- SIR_liberation_gov_vanguardist_DEF: "the Provisional People's Government of Siam" #NT!
- SIR_liberation_gov_vanguardist_ADJ: "Siamese" #NT!
-  
- SIR_Song_Noppakul: "Song Noppakul" #NT!
- SIR_Pridi_Banomyong: "Pridi Banomyong" #NT!
+
+### Country Names
+ SIR_vanguardist: "Объединенные рабочие провинции Сиама" # United Workers' Provinces of Siam
+ SIR_vanguardist_ADJ: "Сиамский" # Siamese
+ SIR_vanguardist_DEF: "Объединенные рабочие провинции Сиама" # the United Workers' Provinces of Siam
+ SIR_collectivist: "Конфедеративные Социалистические Республики Сиама" # Confederated Socialist Republics of Siam
+ SIR_collectivist_ADJ: "Сиамский" # Siamese
+ SIR_collectivist_DEF: "Конфедеративные Социалистические Республики Сиама" # the Confederated Socialist Republics of Siam
+ SIR_libertarian_socialist: "Социалистическая Федеративная Республика Сиам" # Socialist Federative Republic of Siam
+ SIR_libertarian_socialist_ADJ: "Сиамский" # Siamese
+ SIR_libertarian_socialist_DEF: "Социалистическая Федеративная Республика Сиам" # Socialist Federative Republic of Siam
+ SIR_social_democrat: "Королевство Сиам" # Kingdom of Siam
+ SIR_social_democrat_ADJ: "Сиамский" # Siamese
+ SIR_social_democrat_DEF: "Королевство Сиам" # the Kingdom of Siam
+ SIR_social_liberal: "Королевство Сиам" # Kingdom of Siam
+ SIR_social_liberal_ADJ: "Сиамский" # Siamese
+ SIR_social_liberal_DEF: "Королевство Сиам" # the Kingdom of Siam
+ SIR_market_liberal: "Королевство Сиам" # Kingdom of Siam
+ SIR_market_liberal_ADJ: "Сиамский" # Siamese
+ SIR_market_liberal_DEF: "Королевство Сиам" # the Kingdom of Siam
+ SIR_social_conservative: "Королевство Сиам" # Kingdom of Siam
+ SIR_social_conservative_ADJ: "Сиамский" # Siamese
+ SIR_social_conservative_DEF: "Королевство Сиам" # the Kingdom of Siam
+ SIR_authoritarian_democrat: "Королевство Сиам" # Kingdom of Siam
+ SIR_authoritarian_democrat_ADJ: "Сиамский" # Siamese
+ SIR_authoritarian_democrat_DEF: "Королевство Сиам" # the Kingdom of Siam
+ SIR_paternal_autocrat: "Королевство Сиам" # Kingdom of Siam
+ SIR_paternal_autocrat_ADJ: "Сиамский" # Siamese
+ SIR_paternal_autocrat_DEF: "Королевство Сиам" # the Kingdom of Siam
+ SIR_national_populist: "Королевство Сиам" # Kingdom of Siam
+ SIR_national_populist_ADJ: "Сиамский" # Siamese
+ SIR_national_populist_DEF: "Самое Безмятежное Королевство Сиам" # Most Serene Kingdom of Siam
+ SIR_valkist: "Государство Сиам" # State of Siam
+ SIR_valkist_ADJ: "Сиамский" # Siamese
+ SIR_valkist_DEF: "Большой Пантеон штата Сиам" # Greater Pantheon State of Siam
+
+ SIR_liberation_gov_vanguardist: "Временное народное правительство Сиама" # Provisional People's Government of Siam
+ SIR_liberation_gov_vanguardist_DEF: "Временное народное правительство Сиама"  # the Provisional People's Government of Siam
+ SIR_liberation_gov_vanguardist_ADJ: "Сиамский" # Siamese
+
+ SIR_Song_Noppakul: "Сонг Ноппакул" # Song Noppakul
+ SIR_Pridi_Banomyong: "Приходите, Баномёнг" # Pridi Banomyong
